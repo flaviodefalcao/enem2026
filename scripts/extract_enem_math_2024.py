@@ -26,12 +26,16 @@ except ImportError as exc:  # pragma: no cover
     ) from exc
 
 
-QUESTION_START = 136
-QUESTION_END = 180
+DEFAULT_QUESTION_START = 136
+DEFAULT_QUESTION_END = 180
+DEFAULT_YEAR = 2024
+DEFAULT_AREA_LABEL = "Matemática"
+DEFAULT_AREA_SLUG = "math"
 OPTION_LABELS = ("A", "B", "C", "D", "E")
 CONTROL_CHARS_RE = re.compile(r"[\x00-\x08\x0b-\x1f\x7f]")
-QUESTION_HEADER_RE = re.compile(r"^QUESTÃO\s+(\d{3})$")
+QUESTION_HEADER_RE = re.compile(r"^QUESTÃO\s+(\d{1,3})$")
 BOOKLET_NUMBER_RE = re.compile(r"CD\s*0*(\d{1,2})", re.IGNORECASE)
+QUESTION_RANGE_RE = re.compile(r"^Questões de \d{1,3} a \d{1,3}", re.IGNORECASE)
 SENTENCE_END_RE = re.compile(r"[.!?…:]$")
 TEXT_WRAP_GAP = 18
 IMAGE_PADDING_X = 16
@@ -113,9 +117,16 @@ def is_noise_text(text: str) -> bool:
         return True
     if text.startswith("ENEM2024ENEM2024"):
         return True
-    if "MATEMÁTICA E SUAS TECNOLOGIAS" in text and "CADERNO" in text:
+    if "CADERNO" in text and "ENEM" in text:
         return True
-    if text.startswith("Questões de 136 a 180"):
+    if QUESTION_RANGE_RE.match(text):
+        return True
+    if (
+        "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS" in text
+        or "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS" in text
+        or "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS" in text
+        or "MATEMÁTICA E SUAS TECNOLOGIAS" in text
+    ):
         return True
     if re.fullmatch(r"\d{1,2}", text):
         return True
@@ -1047,6 +1058,7 @@ def extract_text_block_asset(
     question_number: int,
     blocks: list[TextBlock],
     assets_root: Path,
+    area_slug: str,
     prefix: str,
     index: int,
     *,
@@ -1061,7 +1073,7 @@ def extract_text_block_asset(
     page_text_blocks: list[TextBlock] | None = None,
 ) -> str:
     relative_asset = (
-        f"/generated/enem-2024/math/question-{question_number}/{prefix}-{index:02d}.png"
+        f"/generated/enem-2024/{area_slug}/question-{question_number}/{prefix}-{index:02d}.png"
     )
     asset_output_path = (
         assets_root / f"question-{question_number}" / f"{prefix}-{index:02d}.png"
@@ -1085,7 +1097,7 @@ def extract_text_block_asset(
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Extrai as 45 questões finais de Matemática do ENEM 2024."
+        description="Extrai um intervalo de questões do ENEM 2024 com texto, alternativas e assets visuais."
     )
     parser.add_argument("--pdf", required=True, help="Caminho para o PDF da prova.")
     parser.add_argument(
@@ -1098,6 +1110,34 @@ def build_parser() -> argparse.ArgumentParser:
         required=True,
         help="Diretório base de saída dos assets públicos.",
     )
+    parser.add_argument(
+        "--question-start",
+        type=int,
+        default=DEFAULT_QUESTION_START,
+        help="Número inicial da faixa de questões.",
+    )
+    parser.add_argument(
+        "--question-end",
+        type=int,
+        default=DEFAULT_QUESTION_END,
+        help="Número final da faixa de questões.",
+    )
+    parser.add_argument(
+        "--year",
+        type=int,
+        default=DEFAULT_YEAR,
+        help="Ano da prova usado no JSON gerado.",
+    )
+    parser.add_argument(
+        "--area-label",
+        default=DEFAULT_AREA_LABEL,
+        help="Nome da área exibido no payload final.",
+    )
+    parser.add_argument(
+        "--area-slug",
+        default=DEFAULT_AREA_SLUG,
+        help="Slug da área usado nos caminhos públicos dos assets.",
+    )
     return parser
 
 
@@ -1108,7 +1148,12 @@ def infer_booklet_number(pdf_path: Path) -> int | None:
     return int(match.group(1))
 
 
-def collect_questions(document: fitz.Document) -> dict[int, QuestionContent]:
+def collect_questions(
+    document: fitz.Document,
+    *,
+    question_start: int,
+    question_end: int,
+) -> dict[int, QuestionContent]:
     questions: dict[int, QuestionContent] = {}
     current_question: QuestionContent | None = None
 
@@ -1123,21 +1168,45 @@ def collect_questions(document: fitz.Document) -> dict[int, QuestionContent]:
 
             if block_type == 0:
                 text = block_text(raw_block)
-                if is_noise_text(text):
-                    continue
+                text_lines = text.splitlines()
+                header_index = None
+                match = None
+                for index, line in enumerate(text_lines):
+                    candidate = QUESTION_HEADER_RE.match(line.strip())
+                    if candidate:
+                        header_index = index
+                        match = candidate
+                        break
 
-                match = QUESTION_HEADER_RE.match(text)
-                if match:
+                if match and header_index is not None:
                     question_number = int(match.group(1))
-                    if QUESTION_START <= question_number <= QUESTION_END:
+                    if question_start <= question_number <= question_end:
+                        existing_question = questions.get(question_number)
+                        if existing_question and existing_question.items:
+                            current_question = None
+                            continue
                         current_question = questions.setdefault(
                             question_number,
                             QuestionContent(
                                 exam_question_number=question_number,
-                                id=(question_number - QUESTION_START) + 1,
+                                id=(question_number - question_start) + 1,
                             ),
                         )
                         current_question.source_pages.add(page_index + 1)
+                        remaining_text = "\n".join(text_lines[header_index + 1 :]).strip()
+                        remaining_lines = raw_block.get("lines", [])[header_index + 1 :]
+                        if remaining_text:
+                            current_question.items.append(
+                                TextBlock(
+                                    page_index=page_index,
+                                    bbox=bbox,
+                                    lines=remaining_lines,
+                                    text=remaining_text,
+                                )
+                            )
+                    continue
+
+                if is_noise_text(text):
                     continue
 
                 if current_question is None:
@@ -1195,6 +1264,10 @@ def materialize_question(
     document: fitz.Document,
     question: QuestionContent,
     assets_root: Path,
+    *,
+    area_label: str,
+    area_slug: str,
+    year: int,
 ) -> dict[str, Any]:
     statement_parts: list[str] = []
     statement_assets: list[str] = []
@@ -1314,7 +1387,7 @@ def materialize_question(
                     if current_option is None:
                         statement_image_index += 1
                         relative_asset = (
-                            f"/generated/enem-2024/math/question-{question.exam_question_number}/"
+                            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
                             f"statement-{statement_image_index:02d}.png"
                         )
                         asset_output_path = (
@@ -1325,7 +1398,7 @@ def materialize_question(
                     else:
                         option_image_index[current_option.option] += 1
                         relative_asset = (
-                            f"/generated/enem-2024/math/question-{question.exam_question_number}/"
+                            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
                             f"option-{current_option.option.lower()}-{option_image_index[current_option.option]:02d}.png"
                         )
                         asset_output_path = (
@@ -1387,6 +1460,7 @@ def materialize_question(
                             question_number=question.exam_question_number,
                             blocks=math_blocks,
                             assets_root=assets_root,
+                            area_slug=area_slug,
                             prefix=f"option-{current_option.option.lower()}",
                             index=option_image_index[current_option.option],
                             padding_x=FORMULA_PADDING_X,
@@ -1435,6 +1509,7 @@ def materialize_question(
                     question_number=question.exam_question_number,
                     blocks=math_blocks,
                     assets_root=assets_root,
+                    area_slug=area_slug,
                     prefix="statement",
                     index=statement_image_index,
                     padding_x=FORMULA_PADDING_X,
@@ -1464,7 +1539,7 @@ def materialize_question(
         if current_option is None:
             statement_image_index += 1
             relative_asset = (
-                f"/generated/enem-2024/math/question-{question.exam_question_number}/"
+                f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
                 f"statement-{statement_image_index:02d}.png"
             )
             asset_output_path = (
@@ -1485,7 +1560,7 @@ def materialize_question(
 
         option_image_index[current_option.option] += 1
         relative_asset = (
-            f"/generated/enem-2024/math/question-{question.exam_question_number}/"
+            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
             f"option-{current_option.option.lower()}-{option_image_index[current_option.option]:02d}.png"
         )
         asset_output_path = (
@@ -1519,9 +1594,9 @@ def materialize_question(
     return {
         "id": question.id,
         "examQuestionNumber": question.exam_question_number,
-        "year": 2024,
-        "area": "Matemática",
-        "title": f"Questão {question.exam_question_number} — ENEM 2024 — Matemática",
+        "year": year,
+        "area": area_label,
+        "title": f"Questão {question.exam_question_number} — ENEM {year} — {area_label}",
         "sourcePages": sorted(question.source_pages),
         "statement": statement,
         "statementAssets": statement_assets,
@@ -1538,6 +1613,16 @@ def main() -> None:
     pdf_path = Path(args.pdf).expanduser().resolve()
     output_path = Path(args.output).expanduser().resolve()
     assets_root = Path(args.assets_dir).expanduser().resolve()
+    question_start = args.question_start
+    question_end = args.question_end
+    year = args.year
+    area_label = args.area_label.strip()
+    area_slug = args.area_slug.strip().lower()
+
+    if question_start > question_end:
+        raise SystemExit("--question-start não pode ser maior que --question-end.")
+    if not area_slug:
+        raise SystemExit("--area-slug não pode ser vazio.")
 
     if not pdf_path.exists():
         raise SystemExit(f"PDF não encontrado: {pdf_path}")
@@ -1547,19 +1632,30 @@ def main() -> None:
     assets_root.mkdir(parents=True, exist_ok=True)
 
     document = fitz.open(pdf_path)
-    questions = collect_questions(document)
+    questions = collect_questions(
+        document,
+        question_start=question_start,
+        question_end=question_end,
+    )
 
     missing = [
         number
-        for number in range(QUESTION_START, QUESTION_END + 1)
+        for number in range(question_start, question_end + 1)
         if number not in questions
     ]
     if missing:
         raise SystemExit(f"Questões não encontradas no PDF: {missing}")
 
     materialized = [
-        materialize_question(document, questions[number], assets_root)
-        for number in range(QUESTION_START, QUESTION_END + 1)
+        materialize_question(
+            document,
+            questions[number],
+            assets_root,
+            area_label=area_label,
+            area_slug=area_slug,
+            year=year,
+        )
+        for number in range(question_start, question_end + 1)
     ]
 
     booklet_number = infer_booklet_number(pdf_path)
@@ -1567,7 +1663,10 @@ def main() -> None:
         "metadata": {
             "sourcePdf": str(pdf_path),
             "bookletNumber": booklet_number,
-            "questionRange": [QUESTION_START, QUESTION_END],
+            "questionRange": [question_start, question_end],
+            "year": year,
+            "areaLabel": area_label,
+            "areaSlug": area_slug,
         },
         "questions": materialized,
     }

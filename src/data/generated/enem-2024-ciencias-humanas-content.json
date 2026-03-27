@@ -1,0 +1,1903 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/ENEM_2024_P1_CAD_01_DIA_1_AZUL.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      46,
+      90
+    ],
+    "year": 2024,
+    "areaLabel": "Ciências Humanas",
+    "areaSlug": "ciencias-humanas"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 46,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 46 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        20
+      ],
+      "statement": "TEXTO I\nUm terremoto de magnitude 5,9 atingiu a cidade de\nValparaíso, na costa chilena. O terremoto ocorreu a uma\nprofundidade de 112 quilômetros.\n\nUm tremor de terra de magnitude 4,8 foi registrado\nno município de Atalaia do Norte, no interior do estado do\nAmazonas. O abalo é de magnitude considerada mediana\npara os níveis do Brasil. Os eventos dessa região costumam\nser resultado das atividades da placa de Nazca.\n\nMoradores usaram as redes sociais para relatar tremores\nde terra no interior de São Paulo. As atividades foram\nregistradas nas cidades de Júlio Mesquita e Guaimbê e\ntiveram magnitude 3,0 na escala Richter, o que é considerado\npequeno e sem previsão de danos.\n\nAs diferenças entre os eventos geológicos relatados\ndecorrem de distintas posições geográficas das cidades\nem relação a:",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-46/statement-01.png",
+        "/generated/enem-2024/ciencias-humanas/question-46/statement-02.png",
+        "/generated/enem-2024/ciencias-humanas/question-46/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-46/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Planícies costeiras.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Bacias continentais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Zonas de subducção.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Áreas de denudação.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Vertentes escarpadas.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nUm terremoto de magnitude 5,9 atingiu a cidade de\nValparaíso, na costa chilena. O terremoto ocorreu a uma\nprofundidade de 112 quilômetros.\n\nUm tremor de terra de magnitude 4,8 foi registrado\nno município de Atalaia do Norte, no interior do estado do\nAmazonas. O abalo é de magnitude considerada mediana\npara os níveis do Brasil. Os eventos dessa região costumam\nser resultado das atividades da placa de Nazca.\n\nMoradores usaram as redes sociais para relatar tremores\nde terra no interior de São Paulo. As atividades foram\nregistradas nas cidades de Júlio Mesquita e Guaimbê e\ntiveram magnitude 3,0 na escala Richter, o que é considerado\npequeno e sem previsão de danos.\n\nAs diferenças entre os eventos geológicos relatados\ndecorrem de distintas posições geográficas das cidades\nem relação a:\n\nA. Planícies costeiras.\nB. Bacias continentais.\nC. Zonas de subducção.\nD. Áreas de denudação.\nE. Vertentes escarpadas."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 47,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 47 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O texto dos sanitaristas atuantes nas décadas de 1920 e\n1930 veicula uma mensagem caracterizada pela",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-47/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-47/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "higienização moral.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "imposição eugênica.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "assimilação cultural.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "hegemonização identitária.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "hierarquização profissional.",
+          "assets": []
+        }
+      ],
+      "rawText": "O texto dos sanitaristas atuantes nas décadas de 1920 e\n1930 veicula uma mensagem caracterizada pela\n\nA. higienização moral.\nB. imposição eugênica.\nC. assimilação cultural.\nD. hegemonização identitária.\nE. hierarquização profissional."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 48,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 48 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O rompimento da barragem de Fundão levou muito\nconsigo. A lama soterrou sonhos e modificou de forma\npermanente centenas de vidas nascidas e criadas em\nBento Rodrigues e Paracatu, em Mariana (MG). Mas não\nsomente. Ao se estender ao longo do rio, outras famílias e\nhistórias foram atingidas de formas diferentes. Ao fugirem\ndos rejeitos que rapidamente tomaram as localidades,\ndeixaram para trás os resquícios da vida que tiveram até\no 5 de novembro de 2015. Nada jamais seria igual.\nSANTOS, P. Histórias soterradas. Curinga,\nn. 19, nov. 2016 (adaptado).\nConforme o texto, o evento gerou o seguinte impacto na\nrelação entre as pessoas e o seu espaço vivido:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Flexibilização de parâmetros ambientais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Consolidação de identidades regionais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Fragilização de vínculos afetivos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Supressão de práticas exploratórias.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Recuperação de tradições ancestrais.",
+          "assets": []
+        }
+      ],
+      "rawText": "O rompimento da barragem de Fundão levou muito\nconsigo. A lama soterrou sonhos e modificou de forma\npermanente centenas de vidas nascidas e criadas em\nBento Rodrigues e Paracatu, em Mariana (MG). Mas não\nsomente. Ao se estender ao longo do rio, outras famílias e\nhistórias foram atingidas de formas diferentes. Ao fugirem\ndos rejeitos que rapidamente tomaram as localidades,\ndeixaram para trás os resquícios da vida que tiveram até\no 5 de novembro de 2015. Nada jamais seria igual.\nSANTOS, P. Histórias soterradas. Curinga,\nn. 19, nov. 2016 (adaptado).\nConforme o texto, o evento gerou o seguinte impacto na\nrelação entre as pessoas e o seu espaço vivido:\n\nA. Flexibilização de parâmetros ambientais.\nB. Consolidação de identidades regionais.\nC. Fragilização de vínculos afetivos.\nD. Supressão de práticas exploratórias.\nE. Recuperação de tradições ancestrais."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 49,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 49 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Com a proximidade do final do século XIX, amplificam-se\nas expectativas com relação ao século seguinte. Se muitas\neram as utopias, talvez uma das mais evidentes tenha se\nconcentrado nas potencialidades da nova ciência, com suas\ninvenções e projetos. Não é por mera coincidência que\na agenda do país tenha sido tomada pela introdução de\numa série de inventos. De forma acelerada, entraram no\nBrasil a luz elétrica e, com ela, o telégrafo, o telefone,\no cinematógrafo. Na área dos transportes, o trem a vapor é\nsubstituído pelo elétrico, que assiste à entrada do automóvel\ne até do aeroplano.\nCOSTA, A. M.; SCHWARCZ, L. M. 1890-1914, no tempo das certezas.\nSão Paulo: Cia. das Letras, 2000 (adaptado).\nNo Brasil, os eventos descritos ganharam conotação\npolítica ao serem vinculados à",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "expansão estratégica do imperialismo.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "ascensão gradual do mercantilismo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "laicidade da educação.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "retomada do absolutismo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "visão republicana de nação. *010175AZ20*",
+          "assets": []
+        }
+      ],
+      "rawText": "Com a proximidade do final do século XIX, amplificam-se\nas expectativas com relação ao século seguinte. Se muitas\neram as utopias, talvez uma das mais evidentes tenha se\nconcentrado nas potencialidades da nova ciência, com suas\ninvenções e projetos. Não é por mera coincidência que\na agenda do país tenha sido tomada pela introdução de\numa série de inventos. De forma acelerada, entraram no\nBrasil a luz elétrica e, com ela, o telégrafo, o telefone,\no cinematógrafo. Na área dos transportes, o trem a vapor é\nsubstituído pelo elétrico, que assiste à entrada do automóvel\ne até do aeroplano.\nCOSTA, A. M.; SCHWARCZ, L. M. 1890-1914, no tempo das certezas.\nSão Paulo: Cia. das Letras, 2000 (adaptado).\nNo Brasil, os eventos descritos ganharam conotação\npolítica ao serem vinculados à\n\nA. expansão estratégica do imperialismo.\nB. ascensão gradual do mercantilismo.\nC. laicidade da educação.\nD. retomada do absolutismo.\nE. visão republicana de nação. *010175AZ20*"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 50,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 50 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "O bispo Bartolomeu de Las Casas é o homem mais\nodiado da América, o anti-Cristo dos senhores, o açoite\ndestas terras. Por sua culpa, o imperador promulgou\nnovas leis que despojam de escravos índios os filhos dos\nconquistadores. O que será deles sem os braços que\nos sustentam nas minas e nas lavouras? As novas leis\nestão arrancando a comida de suas bocas. Las Casas é o\nhomem mais amado da América. Voz dos mudos, teimoso\ndefensor dos que recebem pior tratamento que o esterco\ndas praças, denunciador de quem por cobiça converte\nJesus Cristo no mais cruel dos deuses e o rei em lobo\nfaminto de carne humana.\nGALEANO, E. Os nascimentos. Porto Alegre:\nL&PM, 2011 (adaptado).\nOs diferentes pontos de vista presentes no texto expressam\nque o bispo era, ao mesmo tempo,",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "execrado pelos reis e reverenciado pelos religiosos do local.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "detestado pelos colonizadores e respeitado pelos povos do lugar.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "menosprezado pela colônia e idolatrado pelos governantes da região.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "desrespeitado pela metrópole e adorado pelos invasores da Espanha.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "desacatado pelos excluídos e valorizado pelos negociantes de negros.",
+          "assets": []
+        }
+      ],
+      "rawText": "O bispo Bartolomeu de Las Casas é o homem mais\nodiado da América, o anti-Cristo dos senhores, o açoite\ndestas terras. Por sua culpa, o imperador promulgou\nnovas leis que despojam de escravos índios os filhos dos\nconquistadores. O que será deles sem os braços que\nos sustentam nas minas e nas lavouras? As novas leis\nestão arrancando a comida de suas bocas. Las Casas é o\nhomem mais amado da América. Voz dos mudos, teimoso\ndefensor dos que recebem pior tratamento que o esterco\ndas praças, denunciador de quem por cobiça converte\nJesus Cristo no mais cruel dos deuses e o rei em lobo\nfaminto de carne humana.\nGALEANO, E. Os nascimentos. Porto Alegre:\nL&PM, 2011 (adaptado).\nOs diferentes pontos de vista presentes no texto expressam\nque o bispo era, ao mesmo tempo,\n\nA. execrado pelos reis e reverenciado pelos religiosos do local.\nB. detestado pelos colonizadores e respeitado pelos povos do lugar.\nC. menosprezado pela colônia e idolatrado pelos governantes da região.\nD. desrespeitado pela metrópole e adorado pelos invasores da Espanha.\nE. desacatado pelos excluídos e valorizado pelos negociantes de negros."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 51,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 51 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "A valsa vienense é a mais antiga das danças de salão\ntradicional. É dançada desde a Idade Média, quando\nos pares davam voltas pelo salão realizando giros em\ntorno de si mesmos em postura fechada. Pelo fato de ser\ndançada aos pares em contato íntimo, a valsa encantava\na sociedade medieval, como também sofria proibições\npor infringir os “bons costumes”. Originária das danças\ncampestres e folclóricas, no século XVI, a aristocracia\nfrancesa abandonou a valsa por sua estreita relação com\na cultura plebeia, retomando-a posteriormente.\nFRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico:\naproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado).\nA expressão cultural descrita no texto foi rejeitada no início\nda Idade Moderna por congregar",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "traços advindos da feitiçaria nórdica.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "práticas inspiradas em rituais pagãos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "regras decorrentes do período renascentista.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "compassos produzidos em territórios colonizados.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "elementos provenientes de segmentos populares.",
+          "assets": []
+        }
+      ],
+      "rawText": "A valsa vienense é a mais antiga das danças de salão\ntradicional. É dançada desde a Idade Média, quando\nos pares davam voltas pelo salão realizando giros em\ntorno de si mesmos em postura fechada. Pelo fato de ser\ndançada aos pares em contato íntimo, a valsa encantava\na sociedade medieval, como também sofria proibições\npor infringir os “bons costumes”. Originária das danças\ncampestres e folclóricas, no século XVI, a aristocracia\nfrancesa abandonou a valsa por sua estreita relação com\na cultura plebeia, retomando-a posteriormente.\nFRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico:\naproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado).\nA expressão cultural descrita no texto foi rejeitada no início\nda Idade Moderna por congregar\n\nA. traços advindos da feitiçaria nórdica.\nB. práticas inspiradas em rituais pagãos.\nC. regras decorrentes do período renascentista.\nD. compassos produzidos em territórios colonizados.\nE. elementos provenientes de segmentos populares."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 52,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 52 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "O Black Lives Matter vai para além do nacionalismo\nestreito que pode prevalecer no seio das comunidades\nnegras, que se limita a apelar aos negros a amar\nos negros, viver como os negros e comprar produtos\ndos negros, e mantém à frente do movimento homens\nnegros heterossexuais. Black Lives Matter estima as\nvidas dos negros e negras homossexuais e transexuais,\npessoas incapacitadas, negros sem documentos ou com\nantecedentes criminais, mulheres e as vidas de todos os\nnegros de todo o espectro de gêneros.\n\nA reivindicação do movimento norte-americano apresentada\nno texto consiste na necessidade de",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-52/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-52/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "manter a conquista de direitos sociais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "integrar a diversidade do grupo identitário.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "priorizar a preservação de culturas africanas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "defender a adoção de valores supremacistas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "permitir a permanência do modelo androcêntrico.",
+          "assets": []
+        }
+      ],
+      "rawText": "O Black Lives Matter vai para além do nacionalismo\nestreito que pode prevalecer no seio das comunidades\nnegras, que se limita a apelar aos negros a amar\nos negros, viver como os negros e comprar produtos\ndos negros, e mantém à frente do movimento homens\nnegros heterossexuais. Black Lives Matter estima as\nvidas dos negros e negras homossexuais e transexuais,\npessoas incapacitadas, negros sem documentos ou com\nantecedentes criminais, mulheres e as vidas de todos os\nnegros de todo o espectro de gêneros.\n\nA reivindicação do movimento norte-americano apresentada\nno texto consiste na necessidade de\n\nA. manter a conquista de direitos sociais.\nB. integrar a diversidade do grupo identitário.\nC. priorizar a preservação de culturas africanas.\nD. defender a adoção de valores supremacistas.\nE. permitir a permanência do modelo androcêntrico."
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 53,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 53 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Diferenças entre inundação gradual e brusca\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais:\nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\nA desproporção de velocidade e tempo de duração nos\ntipos de inundação destacados é condicionada pela",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-53/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-53/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "variabilidade solar anual.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "temperatura média mensal.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "declividade do relevo local.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "dinâmica tectônica regional.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "gradação da turbidez fluvial. *010175AZ21*",
+          "assets": []
+        }
+      ],
+      "rawText": "Diferenças entre inundação gradual e brusca\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais:\nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\nA desproporção de velocidade e tempo de duração nos\ntipos de inundação destacados é condicionada pela\n\nA. variabilidade solar anual.\nB. temperatura média mensal.\nC. declividade do relevo local.\nD. dinâmica tectônica regional.\nE. gradação da turbidez fluvial. *010175AZ21*"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 54,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 54 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Os grupos dominantes são beneficiados em termos de\ncredibilidade e podem, com isso, controlar falas de membros\nde outros grupos, descredibilizando seus testemunhos com\nbase em concepções compartilhadas de preconceito de\nidentidade (gênero e raça). Algumas formas de preconceito\ntornam as declarações das pessoas menos importantes\ndevido ao seu pertencimento a determinado grupo social.\nAssim, um falante recebe menos credibilidade devido ao\npreconceito do ouvinte.\nKUHNEN, T. Resenha de The Power and Ethics of Knowing,\nde Miranda Fricker. Revista Princípios, n. 33, 2013.\nCom base na reflexão suscitada no texto, o preconceito\nde identidade é responsável por um tipo de injustiça",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "estética, que normatiza os padrões corporais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "sensorial, que privilegia as habilidades visuais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "afetiva, que impede as expressões emocionais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "epistêmica, que prejudica as trocas informacionais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "econômica, que perpetua as desigualdades materiais.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os grupos dominantes são beneficiados em termos de\ncredibilidade e podem, com isso, controlar falas de membros\nde outros grupos, descredibilizando seus testemunhos com\nbase em concepções compartilhadas de preconceito de\nidentidade (gênero e raça). Algumas formas de preconceito\ntornam as declarações das pessoas menos importantes\ndevido ao seu pertencimento a determinado grupo social.\nAssim, um falante recebe menos credibilidade devido ao\npreconceito do ouvinte.\nKUHNEN, T. Resenha de The Power and Ethics of Knowing,\nde Miranda Fricker. Revista Princípios, n. 33, 2013.\nCom base na reflexão suscitada no texto, o preconceito\nde identidade é responsável por um tipo de injustiça\n\nA. estética, que normatiza os padrões corporais.\nB. sensorial, que privilegia as habilidades visuais.\nC. afetiva, que impede as expressões emocionais.\nD. epistêmica, que prejudica as trocas informacionais.\nE. econômica, que perpetua as desigualdades materiais."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 55,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 55 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "A alma funciona no meu corpo de maneira maravilhosa.\nNele se aloja, certamente, mas sabe bem dele escapar:\nescapa para ver as coisas através da janela dos meus\nolhos, escapa para sonhar quando durmo, para sobreviver\nquando morro. Minha alma durará muito tempo e mais\nque muito tempo, quando meu corpo vier a apodrecer.\nViva minha alma! É meu corpo luminoso, purificado,\nvirtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso,\ncastrado, arredondado como uma bolha de sabão.\nFOUCAULT, M. O corpo utópico, as heterotopias.\nSão Paulo: Edições N-1, 2013.\nEsse texto reforça uma concepção metafísica clássica que\nremete a um(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "pressuposto lógico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "pensamento dicotômico.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "contemplação da natureza.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "raciocínio argumentativo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "crítica à individualidade.",
+          "assets": []
+        }
+      ],
+      "rawText": "A alma funciona no meu corpo de maneira maravilhosa.\nNele se aloja, certamente, mas sabe bem dele escapar:\nescapa para ver as coisas através da janela dos meus\nolhos, escapa para sonhar quando durmo, para sobreviver\nquando morro. Minha alma durará muito tempo e mais\nque muito tempo, quando meu corpo vier a apodrecer.\nViva minha alma! É meu corpo luminoso, purificado,\nvirtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso,\ncastrado, arredondado como uma bolha de sabão.\nFOUCAULT, M. O corpo utópico, as heterotopias.\nSão Paulo: Edições N-1, 2013.\nEsse texto reforça uma concepção metafísica clássica que\nremete a um(a)\n\nA. pressuposto lógico.\nB. pensamento dicotômico.\nC. contemplação da natureza.\nD. raciocínio argumentativo.\nE. crítica à individualidade."
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 56,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 56 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "No primeiro dia, foi colocada uma panela de barro no\ncentro do barracão, a qual representava o espírito do morto\npresente na sala. Aqueles que dançavam depositavam\nmoedas ao passarem junto dela e, ao seu redor, milho\nbranco, mel, água, acaçás, cachaça. No segundo dia,\nos ogãs, antes de iniciar a cerimônia, caminharam pelo\ncorredor formado pelas casas, batendo com longas varas\nde bambus nos seus beirais, até alcançarem o portão de\nentrada. No terceiro dia, quatro pessoas, as mais influentes\ndo culto, carregaram um lençol, que aparentemente\ncontinha um corpo em seu interior. No entanto, esse corpo\nera formado por folhas verdes de plantas, que foram\nderramadas sobre uma pessoa.\nMANZOCHI, H. M. Axexe, um rito de passagem. Revista do Museu\nde Arqueologia e Etnologia, n. 5, 1995 (adaptado).\nO ritual brasileiro apresentado no texto representa, para\nseus adeptos, a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "manutenção de uma memória coletiva.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "contestação de uma identidade étnica.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "imolação de uma divindade africana.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "legitimação de uma prática pagã.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "promissão de uma revolta social.",
+          "assets": []
+        }
+      ],
+      "rawText": "No primeiro dia, foi colocada uma panela de barro no\ncentro do barracão, a qual representava o espírito do morto\npresente na sala. Aqueles que dançavam depositavam\nmoedas ao passarem junto dela e, ao seu redor, milho\nbranco, mel, água, acaçás, cachaça. No segundo dia,\nos ogãs, antes de iniciar a cerimônia, caminharam pelo\ncorredor formado pelas casas, batendo com longas varas\nde bambus nos seus beirais, até alcançarem o portão de\nentrada. No terceiro dia, quatro pessoas, as mais influentes\ndo culto, carregaram um lençol, que aparentemente\ncontinha um corpo em seu interior. No entanto, esse corpo\nera formado por folhas verdes de plantas, que foram\nderramadas sobre uma pessoa.\nMANZOCHI, H. M. Axexe, um rito de passagem. Revista do Museu\nde Arqueologia e Etnologia, n. 5, 1995 (adaptado).\nO ritual brasileiro apresentado no texto representa, para\nseus adeptos, a\n\nA. manutenção de uma memória coletiva.\nB. contestação de uma identidade étnica.\nC. imolação de uma divindade africana.\nD. legitimação de uma prática pagã.\nE. promissão de uma revolta social."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 57,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 57 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Espaços públicos não são produtos dados e acabados,\numa instituição que, uma vez estabelecida, traria a paz da\nconsensualidade e a perfeita igualdade. São os lugares em\nque os problemas aparecem e se transformam em debates,\nem diálogo e em possibilidade de ajuste e compromissos.\nPor isso, não anulam os conflitos, ao contrário, são canais\nde comunicação e de visibilidade de oposições.\nGOMES, P. C. C. Espaço público, espaços públicos.\nGeographia, n. 44, set.-dez. 2018 (adaptado).\nAs características descritas no texto exibem a importância\ndos espaços públicos para a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "prática do lazer.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "vigilância da sociedade.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "erradicação da violência.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "construção da democracia.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "diversificação do trabalho. *010175AZ22*",
+          "assets": []
+        }
+      ],
+      "rawText": "Espaços públicos não são produtos dados e acabados,\numa instituição que, uma vez estabelecida, traria a paz da\nconsensualidade e a perfeita igualdade. São os lugares em\nque os problemas aparecem e se transformam em debates,\nem diálogo e em possibilidade de ajuste e compromissos.\nPor isso, não anulam os conflitos, ao contrário, são canais\nde comunicação e de visibilidade de oposições.\nGOMES, P. C. C. Espaço público, espaços públicos.\nGeographia, n. 44, set.-dez. 2018 (adaptado).\nAs características descritas no texto exibem a importância\ndos espaços públicos para a\n\nA. prática do lazer.\nB. vigilância da sociedade.\nC. erradicação da violência.\nD. construção da democracia.\nE. diversificação do trabalho. *010175AZ22*"
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 58,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 58 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "TEXTO I\nAristóteles entendia que a felicidade era diretamente\nligada ao respeito pela própria natureza e, de certa maneira,\na uma vida que tivesse na natureza de si mesma uma\nreferência inabalável. Isso lhe permitiu formular o conceito\nde excelência. O que seria excelência? Seria, justamente,\nao longo da vida, tirar de si mesmo, em forma de performance,\nde conduta, de comportamento, de disposição, o que a natureza\npermitiria de melhor.\nCOEN, M.; BARROS FILHO, C. A monja e o professor: reflexões\nsobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.\nTEXTO II\nA noção de eudaimonia é central para a ética aristotélica.\nA eudaimonia é uma atividade e não um estado psicológico,\npois é definida na Ética a Nicômaco como uma atividade\nda alma com base na virtude moral. A virtude moral é\ndefinida em termos de uma disposição diretamente ligada\nà deliberação, o que o leva a estudar a virtude intelectual\nque opera em seu interior, isto é, a prudência. A estrutura\nconceitual da ética aristotélica responde a uma tentativa de\nelucidar conceitualmente em que consiste isto, agir bem, ou,\nna linguagem aristotélica, o que significa ser feliz.\nZINGANO, M. Eudaimonia, razão e contemplação na ética aristotélica.\nAnalytica, n. 1, 2017 (adaptado).\nOs textos indicam que a prática de ações virtuosas,\nsempre efetivada na pólis, ocorre por meio do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "teoria das formas essenciais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "identificação dos princípios racionais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "desenvolvimento das técnicas retóricas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "aperfeiçoamento das condutas humanas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "conhecimento das epistemes verdadeiras.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nAristóteles entendia que a felicidade era diretamente\nligada ao respeito pela própria natureza e, de certa maneira,\na uma vida que tivesse na natureza de si mesma uma\nreferência inabalável. Isso lhe permitiu formular o conceito\nde excelência. O que seria excelência? Seria, justamente,\nao longo da vida, tirar de si mesmo, em forma de performance,\nde conduta, de comportamento, de disposição, o que a natureza\npermitiria de melhor.\nCOEN, M.; BARROS FILHO, C. A monja e o professor: reflexões\nsobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.\nTEXTO II\nA noção de eudaimonia é central para a ética aristotélica.\nA eudaimonia é uma atividade e não um estado psicológico,\npois é definida na Ética a Nicômaco como uma atividade\nda alma com base na virtude moral. A virtude moral é\ndefinida em termos de uma disposição diretamente ligada\nà deliberação, o que o leva a estudar a virtude intelectual\nque opera em seu interior, isto é, a prudência. A estrutura\nconceitual da ética aristotélica responde a uma tentativa de\nelucidar conceitualmente em que consiste isto, agir bem, ou,\nna linguagem aristotélica, o que significa ser feliz.\nZINGANO, M. Eudaimonia, razão e contemplação na ética aristotélica.\nAnalytica, n. 1, 2017 (adaptado).\nOs textos indicam que a prática de ações virtuosas,\nsempre efetivada na pólis, ocorre por meio do(a)\n\nA. teoria das formas essenciais.\nB. identificação dos princípios racionais.\nC. desenvolvimento das técnicas retóricas.\nD. aperfeiçoamento das condutas humanas.\nE. conhecimento das epistemes verdadeiras."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 59,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 59 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "As instituições que a Idade Média nos legou são de\num valor maior e mais imperecível do que suas catedrais.\nE a universidade é nitidamente uma instituição medieval —\ntanto quanto a monarquia constitucional, ou os parlamentos,\nou o julgamento por meio do júri. As universidades e os\nprodutos imediatos das suas atividades constituem a grande\nrealização da Idade Média na esfera intelectual.\nRASHDALL, H. apud OLIVEIRA, T. Origem e memória das\nuniversidades medievais. Varia História, n. 37, jan.-jun. 2007.\nDe acordo com o texto, o legado das universidades medievais\ntorna-se um relevante patrimônio histórico-cultural por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "adotar currículo e método padronizado.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "rejeitar ideologias e costumes orientais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "possuir organização e função mercantil.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "transmitir técnicas e valores ecumênicos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "agregar tradição e conhecimento científico.",
+          "assets": []
+        }
+      ],
+      "rawText": "As instituições que a Idade Média nos legou são de\num valor maior e mais imperecível do que suas catedrais.\nE a universidade é nitidamente uma instituição medieval —\ntanto quanto a monarquia constitucional, ou os parlamentos,\nou o julgamento por meio do júri. As universidades e os\nprodutos imediatos das suas atividades constituem a grande\nrealização da Idade Média na esfera intelectual.\nRASHDALL, H. apud OLIVEIRA, T. Origem e memória das\nuniversidades medievais. Varia História, n. 37, jan.-jun. 2007.\nDe acordo com o texto, o legado das universidades medievais\ntorna-se um relevante patrimônio histórico-cultural por\n\nA. adotar currículo e método padronizado.\nB. rejeitar ideologias e costumes orientais.\nC. possuir organização e função mercantil.\nD. transmitir técnicas e valores ecumênicos.\nE. agregar tradição e conhecimento científico."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 60,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 60 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Há experiências de lutas sociais de reapropriação\ncultural da natureza que são movimentos emblemáticos,\ncomo a dos seringueiros no Brasil, que da luta sindical\npara a comercialização da borracha chegaram a inventar\no conceito de reserva extrativista e estão avançando para\num novo modo de produção, uma nova racionalidade\nprodutiva, mostrando que é possível viver bem, e não apenas\nsobreviver, em harmonia com a natureza que habitam.\nO novo planeta que podemos imaginar é feito desses\nterritórios produtivos que não são apenas economias de\nautossubsistência mas economias que potencializam\na produtividade ecológica de seus territórios.\nLEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado).\nO texto expõe a possibilidade de uma nova racionalidade\nprodutiva por meio de uma gestão territorial que se baseia na",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "integração de mercados regidos por pressões regionais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "conexão de valores fundamentados por decisões locais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "unificação de preços delimitados por demandas nacionais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "normatização de regras construídas por instituições mundiais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "valorização de tradições orientadas por determinações globais.",
+          "assets": []
+        }
+      ],
+      "rawText": "Há experiências de lutas sociais de reapropriação\ncultural da natureza que são movimentos emblemáticos,\ncomo a dos seringueiros no Brasil, que da luta sindical\npara a comercialização da borracha chegaram a inventar\no conceito de reserva extrativista e estão avançando para\num novo modo de produção, uma nova racionalidade\nprodutiva, mostrando que é possível viver bem, e não apenas\nsobreviver, em harmonia com a natureza que habitam.\nO novo planeta que podemos imaginar é feito desses\nterritórios produtivos que não são apenas economias de\nautossubsistência mas economias que potencializam\na produtividade ecológica de seus territórios.\nLEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado).\nO texto expõe a possibilidade de uma nova racionalidade\nprodutiva por meio de uma gestão territorial que se baseia na\n\nA. integração de mercados regidos por pressões regionais.\nB. conexão de valores fundamentados por decisões locais.\nC. unificação de preços delimitados por demandas nacionais.\nD. normatização de regras construídas por instituições mundiais.\nE. valorização de tradições orientadas por determinações globais."
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 61,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 61 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Eu sentia falta do futuro. É claro que eu sabia,\nmuito mesmo antes da recorrência dele, que nunca\nenvelheceria. Era muito provável que eu nunca mais\nfosse ver o oceano de uma altura de trinta mil pés de\nnovo, uma distância tão grande que não dá nem para\ndistinguir as ondas, nem nenhum barco, de um jeito que\nfaz o oceano parecer um enorme e infinito monólito.\nEu poderia imaginá-lo. Eu poderia me lembrar dele.\nMas não poderia vê-lo de novo, e me ocorreu que a ambição\nvoraz dos seres humanos nunca é saciada quando os sonhos\nsão realizados, porque há sempre a sensação de que tudo\npoderia ter sido feito melhor e ser feito outra vez.\nGREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012.\nO texto apresenta uma reflexão da personagem acerca de\num problema característico da filosofia contemporânea,\nque trata da(s)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "implicações éticas.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "finitude humana.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "limitações da linguagem.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "pressuposição existencial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "objetividade do conhecimento. *010175AZ23*",
+          "assets": []
+        }
+      ],
+      "rawText": "Eu sentia falta do futuro. É claro que eu sabia,\nmuito mesmo antes da recorrência dele, que nunca\nenvelheceria. Era muito provável que eu nunca mais\nfosse ver o oceano de uma altura de trinta mil pés de\nnovo, uma distância tão grande que não dá nem para\ndistinguir as ondas, nem nenhum barco, de um jeito que\nfaz o oceano parecer um enorme e infinito monólito.\nEu poderia imaginá-lo. Eu poderia me lembrar dele.\nMas não poderia vê-lo de novo, e me ocorreu que a ambição\nvoraz dos seres humanos nunca é saciada quando os sonhos\nsão realizados, porque há sempre a sensação de que tudo\npoderia ter sido feito melhor e ser feito outra vez.\nGREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012.\nO texto apresenta uma reflexão da personagem acerca de\num problema característico da filosofia contemporânea,\nque trata da(s)\n\nA. implicações éticas.\nB. finitude humana.\nC. limitações da linguagem.\nD. pressuposição existencial.\nE. objetividade do conhecimento. *010175AZ23*"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 62,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 62 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        24
+      ],
+      "statement": "TEXTO I\nO empirismo moderno foi, em grande parte,\ncondicionado por dois dogmas. Um deles é a crença em\ncerta divisão fundamental entre verdades analíticas, ou\nfundadas em significados independentemente de questões\nde fato, e verdades sintéticas, ou fundadas em fatos. O outro\ndogma é o reducionismo: a crença de que todo enunciado\nsignificativo é equivalente a algum construto lógico sobre\ntermos que se referem à experiência imediata.\n\nTeses: 1. Somente os enunciados que possuem conteúdo\nfactual são teoricamente significativos; enunciados que não\npodem, em princípio, estar fundamentados pela experiência\nsão carentes de significado. 2. As ciências empíricas usam\nsomente o conteúdo empírico da realidade. 3. A filosofia usa\num conceito não empírico da realidade.\n\nAo comparar os textos, conclui-se que eles apresentam\nposicionamentos filosóficos divergentes com relação ao",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-62/statement-01.png",
+        "/generated/enem-2024/ciencias-humanas/question-62/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-62/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "estatuto epistemológico da linguagem.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "alicerce estruturante da moralidade.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "conteúdo essencial da metafísica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "princípio constitutivo da ontologia.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "domínio reflexivo da estética.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nO empirismo moderno foi, em grande parte,\ncondicionado por dois dogmas. Um deles é a crença em\ncerta divisão fundamental entre verdades analíticas, ou\nfundadas em significados independentemente de questões\nde fato, e verdades sintéticas, ou fundadas em fatos. O outro\ndogma é o reducionismo: a crença de que todo enunciado\nsignificativo é equivalente a algum construto lógico sobre\ntermos que se referem à experiência imediata.\n\nTeses: 1. Somente os enunciados que possuem conteúdo\nfactual são teoricamente significativos; enunciados que não\npodem, em princípio, estar fundamentados pela experiência\nsão carentes de significado. 2. As ciências empíricas usam\nsomente o conteúdo empírico da realidade. 3. A filosofia usa\num conceito não empírico da realidade.\n\nAo comparar os textos, conclui-se que eles apresentam\nposicionamentos filosóficos divergentes com relação ao\n\nA. estatuto epistemológico da linguagem.\nB. alicerce estruturante da moralidade.\nC. conteúdo essencial da metafísica.\nD. princípio constitutivo da ontologia.\nE. domínio reflexivo da estética."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 63,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 63 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Uma das principais atividades provocadas pela arte,\na reflexão, é abandonada pela indústria cultural. A indústria\ncultural seria como uma isca que ilude os indivíduos,\ncom o sonho de que eles são livres, originais, únicos e\nespeciais quando, na verdade, os trata como servos\ne partes de uma massa homogênea.\nFONTES, B.; MAGALHÃES, R. O que é indústria cultural? In:\nBODART, C. N. (Org.). Conceitos e categorias do ensino de\nsociologia. Maceió: Café com Sociologia, 2021 (adaptado).\nAo analisar as consequências da dinâmica apresentada no\ntexto, as autoras destacam a importância do conceito como:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ferramenta de luta coletiva.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Mecanismo de controle social.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Instituição de interesse público.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Organização da iniciativa privada.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Instrumento de manipulação estatal.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma das principais atividades provocadas pela arte,\na reflexão, é abandonada pela indústria cultural. A indústria\ncultural seria como uma isca que ilude os indivíduos,\ncom o sonho de que eles são livres, originais, únicos e\nespeciais quando, na verdade, os trata como servos\ne partes de uma massa homogênea.\nFONTES, B.; MAGALHÃES, R. O que é indústria cultural? In:\nBODART, C. N. (Org.). Conceitos e categorias do ensino de\nsociologia. Maceió: Café com Sociologia, 2021 (adaptado).\nAo analisar as consequências da dinâmica apresentada no\ntexto, as autoras destacam a importância do conceito como:\n\nA. Ferramenta de luta coletiva.\nB. Mecanismo de controle social.\nC. Instituição de interesse público.\nD. Organização da iniciativa privada.\nE. Instrumento de manipulação estatal."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 64,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 64 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        24
+      ],
+      "statement": "TEXTO I\nNeta de Tomásia, uma escravizada alforriada, Chiquinha\nGonzaga foi uma das primeiras mulheres a se destacar na\nmúsica popular brasileira. Entre suas obras mais famosas\nestão a marcha Ó abre alas, sucesso nos blocos de Carnaval\naté hoje, e o tango Gaúcho, além de inúmeras peças musicais\npara teatro e óperas. Chiquinha também teve uma atuação em\ndefesa dos direitos das mulheres e pelo fim da escravatura.\nDisponível em: www.uol.com.br. Acesso em: 7 out. 2023 (adaptado).\nTEXTO II\nDepois da estreia de sua peça Gonzaga, em 1867,\nque tem como um de seus núcleos dramáticos dois\nescravizados, pai e filha, separados há muitos anos,\nCastro Alves escreve talvez o maior conjunto de poemas\nantiescravistas do Romantismo brasileiro, publicados em\n1883 no livro Os escravos, doze anos após a sua morte.\nOs textos Vozes d’África e Navio negreiro, por exemplo,\npublicados em folhetos, já em 1878, tiveram enorme\nrepercussão desde a sua circulação, a ponto de Afrânio\nCoutinho (um importante crítico brasileiro) afirmar ter sido\nCastro Alves, no que diz respeito à poesia antiescravista,\num dos primeiros que o Brasil ouviu.\nDisponível em: www.uol.com.br. Acesso em: 8 out. 2023 (adaptado).\nOs textos indicam a participação de artistas e intelectuais\nbrasileiros em defesa do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ação integralista.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "literatura realista.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "movimento abolicionista.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "política indigenista.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "nacionalismo desenvolvimentista.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nNeta de Tomásia, uma escravizada alforriada, Chiquinha\nGonzaga foi uma das primeiras mulheres a se destacar na\nmúsica popular brasileira. Entre suas obras mais famosas\nestão a marcha Ó abre alas, sucesso nos blocos de Carnaval\naté hoje, e o tango Gaúcho, além de inúmeras peças musicais\npara teatro e óperas. Chiquinha também teve uma atuação em\ndefesa dos direitos das mulheres e pelo fim da escravatura.\nDisponível em: www.uol.com.br. Acesso em: 7 out. 2023 (adaptado).\nTEXTO II\nDepois da estreia de sua peça Gonzaga, em 1867,\nque tem como um de seus núcleos dramáticos dois\nescravizados, pai e filha, separados há muitos anos,\nCastro Alves escreve talvez o maior conjunto de poemas\nantiescravistas do Romantismo brasileiro, publicados em\n1883 no livro Os escravos, doze anos após a sua morte.\nOs textos Vozes d’África e Navio negreiro, por exemplo,\npublicados em folhetos, já em 1878, tiveram enorme\nrepercussão desde a sua circulação, a ponto de Afrânio\nCoutinho (um importante crítico brasileiro) afirmar ter sido\nCastro Alves, no que diz respeito à poesia antiescravista,\num dos primeiros que o Brasil ouviu.\nDisponível em: www.uol.com.br. Acesso em: 8 out. 2023 (adaptado).\nOs textos indicam a participação de artistas e intelectuais\nbrasileiros em defesa do(a)\n\nA. ação integralista.\nB. literatura realista.\nC. movimento abolicionista.\nD. política indigenista.\nE. nacionalismo desenvolvimentista."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 65,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 65 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Como conclusão provisória, parece então que a\nglobalização tem, sim, o efeito de contestar e deslocar\nas identidades centradas e “fechadas” de uma cultura\nnacional. Ela tem um efeito pluralizante sobre as identidades,\nproduzindo uma variedade de possibilidades e novas posições\nde identificação, e tornando as identidades mais posicionais,\nmais políticas, mais plurais e diversas; menos fixas, unificadas\nou trans-históricas.\nHALL, S. A identidade cultural na pós-modernidade.\nRio de Janeiro: DP&A, 2011.\nDe acordo com o texto, o processo apresentado contribuiu\npara",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "elevar a renda da população.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "abandonar os valores morais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "estabelecer a igualdade racial.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "fortalecer as pautas das minorias.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "inverter os fluxos das migrações. *010175AZ24*",
+          "assets": []
+        }
+      ],
+      "rawText": "Como conclusão provisória, parece então que a\nglobalização tem, sim, o efeito de contestar e deslocar\nas identidades centradas e “fechadas” de uma cultura\nnacional. Ela tem um efeito pluralizante sobre as identidades,\nproduzindo uma variedade de possibilidades e novas posições\nde identificação, e tornando as identidades mais posicionais,\nmais políticas, mais plurais e diversas; menos fixas, unificadas\nou trans-históricas.\nHALL, S. A identidade cultural na pós-modernidade.\nRio de Janeiro: DP&A, 2011.\nDe acordo com o texto, o processo apresentado contribuiu\npara\n\nA. elevar a renda da população.\nB. abandonar os valores morais.\nC. estabelecer a igualdade racial.\nD. fortalecer as pautas das minorias.\nE. inverter os fluxos das migrações. *010175AZ24*"
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 66,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 66 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Em 1960, a primeira pílula anticoncepcional foi\ncomercializada nos EUA, e, em poucos anos, o método\ncontraceptivo se difundiu pelo mundo, inclusive no Brasil.\nEm nosso país, a chegada das pílulas anticoncepcionais foi\nsimultânea às discussões neomalthusianas sobre a crise\ndemográfica, à aceleração dos processos de modernização\ne ao boom da indústria farmacêutica multinacional.\nDIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas\nanticoncepcionais em A Gazeta da Farmácia, 1960-1981. História,\nCiências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).\nQual foi o efeito social resultante do avanço tecnológico\nmencionado no texto?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "O afastamento da autoridade médica na regulação da fecundidade.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "A superação do discurso da moralidade pela ação da mídia estatal.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "A ampliação do debate público sobre o planejamento familiar.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "A centralização da pesquisa científica pelo sistema privado de saúde.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em 1960, a primeira pílula anticoncepcional foi\ncomercializada nos EUA, e, em poucos anos, o método\ncontraceptivo se difundiu pelo mundo, inclusive no Brasil.\nEm nosso país, a chegada das pílulas anticoncepcionais foi\nsimultânea às discussões neomalthusianas sobre a crise\ndemográfica, à aceleração dos processos de modernização\ne ao boom da indústria farmacêutica multinacional.\nDIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas\nanticoncepcionais em A Gazeta da Farmácia, 1960-1981. História,\nCiências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).\nQual foi o efeito social resultante do avanço tecnológico\nmencionado no texto?\n\nA. O afastamento da autoridade médica na regulação da fecundidade.\nB. A superação do discurso da moralidade pela ação da mídia estatal.\nC. A ampliação do debate público sobre o planejamento familiar.\nD. A centralização da pesquisa científica pelo sistema privado de saúde.\nE. O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica."
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 67,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 67 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "A internet fortalece o engajamento e a visibilidade de\npopulações tradicionais e indígenas por meio de redes\nsociais, rádios e veículos de mídia digital. Ela também\npromove a criação e o fortalecimento de mercados e\na inovação nos sistemas de financiamento, integrando\npequenos agricultores e produtores da comunidade florestal\na cadeias de abastecimento maiores.\n\nA adoção da tecnologia mencionada amplia a rentabilidade\ndas comunidades citadas, ao possibilitar o(a):",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-67/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-67/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Valorização da economia local.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Elaboração de projetos culturais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Estabelecimento de regras comerciais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Incremento da infraestrutura educacional.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Homogeneização da qualificação profissional.",
+          "assets": []
+        }
+      ],
+      "rawText": "A internet fortalece o engajamento e a visibilidade de\npopulações tradicionais e indígenas por meio de redes\nsociais, rádios e veículos de mídia digital. Ela também\npromove a criação e o fortalecimento de mercados e\na inovação nos sistemas de financiamento, integrando\npequenos agricultores e produtores da comunidade florestal\na cadeias de abastecimento maiores.\n\nA adoção da tecnologia mencionada amplia a rentabilidade\ndas comunidades citadas, ao possibilitar o(a):\n\nA. Valorização da economia local.\nB. Elaboração de projetos culturais.\nC. Estabelecimento de regras comerciais.\nD. Incremento da infraestrutura educacional.\nE. Homogeneização da qualificação profissional."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 68,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 68 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "TEXTO I\nUma única árvore joga entre 300 e 1 000 litros de água\npor dia para a atmosfera. Considerando a demanda mínima\nque uma pessoa consome de água, ou seja, 120 litros por\ndia, uma única árvore pode ser capaz de produzir água\npara até oito pessoas.\n\nA Amazônia perdeu diariamente uma área de floresta\nmaior do que 4 mil campos de futebol apenas em setembro\nde 2021. Em todo o mês, foram devastados 1 224 km²,\no que corresponde ao tamanho da cidade do Rio de Janeiro\ne é a pior marca para setembro em 10 anos. Os dados\nsão do Sistema de Alerta de Desmatamento (SAD) do\nInstituto do Homem e Meio Ambiente da Amazônia (Imazon),\nque monitora a floresta por meio de imagens de satélites.\n\nPara a região amazônica, a relação entre as informações\ndos textos indica uma redução do(a)",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-68/statement-01.png",
+        "/generated/enem-2024/ciencias-humanas/question-68/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-68/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "circulação de ventos alísios.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "aquecimento dos solos locais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "média de temperatura oceânica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "índice de refletividade superficial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "intensidade de chuvas convectivas. *010175AZ25*",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nUma única árvore joga entre 300 e 1 000 litros de água\npor dia para a atmosfera. Considerando a demanda mínima\nque uma pessoa consome de água, ou seja, 120 litros por\ndia, uma única árvore pode ser capaz de produzir água\npara até oito pessoas.\n\nA Amazônia perdeu diariamente uma área de floresta\nmaior do que 4 mil campos de futebol apenas em setembro\nde 2021. Em todo o mês, foram devastados 1 224 km²,\no que corresponde ao tamanho da cidade do Rio de Janeiro\ne é a pior marca para setembro em 10 anos. Os dados\nsão do Sistema de Alerta de Desmatamento (SAD) do\nInstituto do Homem e Meio Ambiente da Amazônia (Imazon),\nque monitora a floresta por meio de imagens de satélites.\n\nPara a região amazônica, a relação entre as informações\ndos textos indica uma redução do(a)\n\nA. circulação de ventos alísios.\nB. aquecimento dos solos locais.\nC. média de temperatura oceânica.\nD. índice de refletividade superficial.\nE. intensidade de chuvas convectivas. *010175AZ25*"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 69,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 69 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Atribuo a causa desse florescimento estéril a um\nsistema de educação falso, extraído de livros sobre o\nassunto escrito por homens que, ao considerar as mulheres\nmais como fêmeas do que como criaturas humanas, estão\nmais ansiosos em torná-las damas sedutoras do que\nesposas afetuosas e mães racionais. O entendimento do\nsexo feminino tem sido tão distorcido por essa homenagem\nilusória de que as mulheres civilizadas de nosso século,\ncom raras exceções, anseiam apenas inspirar amor, quando\ndeveriam nutrir uma ambição mais nobre e exigir respeito\npor suas capacidades e virtudes.\nWOLLSTONECRAFT, M. Reivindicação dos direitos da mulher.\nSão Paulo: Boitempo, 2016.\nNesse texto, escrito no século XVIII, a autora reivindica\npara as mulheres a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "recuperação de sua participação política.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "equiparação de ganhos salariais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "valorização de seu papel social.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "distinção de padrões biológicos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ocupação de cargos públicos.",
+          "assets": []
+        }
+      ],
+      "rawText": "Atribuo a causa desse florescimento estéril a um\nsistema de educação falso, extraído de livros sobre o\nassunto escrito por homens que, ao considerar as mulheres\nmais como fêmeas do que como criaturas humanas, estão\nmais ansiosos em torná-las damas sedutoras do que\nesposas afetuosas e mães racionais. O entendimento do\nsexo feminino tem sido tão distorcido por essa homenagem\nilusória de que as mulheres civilizadas de nosso século,\ncom raras exceções, anseiam apenas inspirar amor, quando\ndeveriam nutrir uma ambição mais nobre e exigir respeito\npor suas capacidades e virtudes.\nWOLLSTONECRAFT, M. Reivindicação dos direitos da mulher.\nSão Paulo: Boitempo, 2016.\nNesse texto, escrito no século XVIII, a autora reivindica\npara as mulheres a\n\nA. recuperação de sua participação política.\nB. equiparação de ganhos salariais.\nC. valorização de seu papel social.\nD. distinção de padrões biológicos.\nE. ocupação de cargos públicos."
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 70,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 70 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Cada objeto é, em si mesmo, um sistema funcionando\nsistemicamente. Um grande supermercado ou shopping\ncenter seria incapaz de existir se não fossem servidos por\nvias rápidas, estacionamentos adequados e acessíveis,\nsistemas de transportes públicos com horários regulares\ne conhecidos e se, no seu próprio interior, as atividades\nnão estivessem subordinadas a uma coordenação. Esse é\no caso dos armazéns, dos silos etc. Os portos, a rede\nrodoviária de um país e, sobretudo, a rede ferroviária são\nexemplos de objetos complexos e sistêmicos.\nSANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção.\nSão Paulo: Hucitec, 1996 (adaptado).\nDe acordo com o texto, o território torna-se cada vez mais\ndotado de objetos com a finalidade de intensificar a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "desindustrialização da economia.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "desregulamentação do mercado.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "concentração da produção.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "distribuição de renda.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "dinamização dos fluxos.",
+          "assets": []
+        }
+      ],
+      "rawText": "Cada objeto é, em si mesmo, um sistema funcionando\nsistemicamente. Um grande supermercado ou shopping\ncenter seria incapaz de existir se não fossem servidos por\nvias rápidas, estacionamentos adequados e acessíveis,\nsistemas de transportes públicos com horários regulares\ne conhecidos e se, no seu próprio interior, as atividades\nnão estivessem subordinadas a uma coordenação. Esse é\no caso dos armazéns, dos silos etc. Os portos, a rede\nrodoviária de um país e, sobretudo, a rede ferroviária são\nexemplos de objetos complexos e sistêmicos.\nSANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção.\nSão Paulo: Hucitec, 1996 (adaptado).\nDe acordo com o texto, o território torna-se cada vez mais\ndotado de objetos com a finalidade de intensificar a\n\nA. desindustrialização da economia.\nB. desregulamentação do mercado.\nC. concentração da produção.\nD. distribuição de renda.\nE. dinamização dos fluxos."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 71,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 71 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "A 26ª Conferência do Clima das Nações Unidas foi realizada\ncom a perspectiva de que os países tornassem ainda mais\nambiciosos os compromissos assumidos no enfrentamento\ndas mudanças climáticas, de modo a evitar que a temperatura\nglobal se eleve acima de 1,5 °C, marca que já vinha sendo\ndiscutida desde o Acordo de Paris, de 2015.\nA pressão do setor empresarial, que se posicionou de\nmaneira contundente nesta COP-26, gerou impacto positivo.\nO Conselho Empresarial Brasileiro para o Desenvolvimento\nSustentável (CEBDS) capitaneou, por meio do movimento\nEmpresários pelo Clima, a adesão de 119 CEOs de importantes\nempresas e 14 instituições do setor privado, de setores tão\ndiversos como agronegócio, alimentício, aviação, elétrico,\nfarmacêutico, finanças, infraestrutura, logística, papel e celulose,\npetroquímico, saúde, tecnologia, telefonia e varejo.\nO Brasil deixa a conferência com o compromisso de fazer\nvaler sua meta e reduzir 50% dos gases de efeito estufa até\n2030 em relação aos níveis de 2005 — anteriormente, a meta\nde redução era de 43%.\n\nConforme o texto, o compromisso assumido pelo Brasil foi\nresultado dos tensionamentos promovidos por",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-71/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-71/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "povos ribeirinhos e segmentos culturais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "blocos econômicos e instituições militares.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "grupos científicos e universidades públicas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "organismos supranacionais e sociedade civil.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "agentes governamentais e demanda turística.",
+          "assets": []
+        }
+      ],
+      "rawText": "A 26ª Conferência do Clima das Nações Unidas foi realizada\ncom a perspectiva de que os países tornassem ainda mais\nambiciosos os compromissos assumidos no enfrentamento\ndas mudanças climáticas, de modo a evitar que a temperatura\nglobal se eleve acima de 1,5 °C, marca que já vinha sendo\ndiscutida desde o Acordo de Paris, de 2015.\nA pressão do setor empresarial, que se posicionou de\nmaneira contundente nesta COP-26, gerou impacto positivo.\nO Conselho Empresarial Brasileiro para o Desenvolvimento\nSustentável (CEBDS) capitaneou, por meio do movimento\nEmpresários pelo Clima, a adesão de 119 CEOs de importantes\nempresas e 14 instituições do setor privado, de setores tão\ndiversos como agronegócio, alimentício, aviação, elétrico,\nfarmacêutico, finanças, infraestrutura, logística, papel e celulose,\npetroquímico, saúde, tecnologia, telefonia e varejo.\nO Brasil deixa a conferência com o compromisso de fazer\nvaler sua meta e reduzir 50% dos gases de efeito estufa até\n2030 em relação aos níveis de 2005 — anteriormente, a meta\nde redução era de 43%.\n\nConforme o texto, o compromisso assumido pelo Brasil foi\nresultado dos tensionamentos promovidos por\n\nA. povos ribeirinhos e segmentos culturais.\nB. blocos econômicos e instituições militares.\nC. grupos científicos e universidades públicas.\nD. organismos supranacionais e sociedade civil.\nE. agentes governamentais e demanda turística."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 72,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 72 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "A pessoa com deficiência de qualquer modalidade —\nseja visual, auditiva, física ou mental — encontra-se em\numa posição de grande vulnerabilidade em relação às\npessoas sem deficiência, sendo frequentemente marcante\na assimetria das relações de poder na interação entre\nambas. Tal assimetria de relação hierárquica é multiplicada\nconforme a severidade de cada caso, sendo ampliada se a\npessoa com necessidades especiais pertencer a um outro\ngrupo de risco, por exemplo, se for mulher ou criança.\n\nA realidade abordada no texto indica a necessidade de se\npromover uma ética interpessoal centrada no",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-72/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-72/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "cuidado, proteção e valorização dos indivíduos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "entendimento, perdão e tolerância dos responsáveis.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "cerceamento, arregimentação e controle de entidades.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "regramento, legislação e responsabilização de culpados.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ensimesmamento, interiorização e indulgência dos agentes. *010175AZ26*",
+          "assets": []
+        }
+      ],
+      "rawText": "A pessoa com deficiência de qualquer modalidade —\nseja visual, auditiva, física ou mental — encontra-se em\numa posição de grande vulnerabilidade em relação às\npessoas sem deficiência, sendo frequentemente marcante\na assimetria das relações de poder na interação entre\nambas. Tal assimetria de relação hierárquica é multiplicada\nconforme a severidade de cada caso, sendo ampliada se a\npessoa com necessidades especiais pertencer a um outro\ngrupo de risco, por exemplo, se for mulher ou criança.\n\nA realidade abordada no texto indica a necessidade de se\npromover uma ética interpessoal centrada no\n\nA. cuidado, proteção e valorização dos indivíduos.\nB. entendimento, perdão e tolerância dos responsáveis.\nC. cerceamento, arregimentação e controle de entidades.\nD. regramento, legislação e responsabilização de culpados.\nE. ensimesmamento, interiorização e indulgência dos agentes. *010175AZ26*"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 73,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 73 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "As capas dos folhetos de cordel, já então ilustradas\npor postais fotográficos, desenhos ou fotogramas de\nfilmes, demoravam mais de uma semana para serem\ntransformadas em clichês em Recife ou Fortaleza, o que\nlevou a que santeiros e artesãos locais fossem requisitados\npara cortar na umburana — madeira preferida para\no taco xilográfico pela facilidade do talhe e abundância —\nprincesas, dragões, cangaceiros.\n\nNo início do século XX, a incorporação da técnica de\nprodução descrita no texto promoveu uma renovação da",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-73/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-73/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "manifestação jornalística.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "narrativa literária.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "indústria regional.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "estética editorial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "cultura erudita.",
+          "assets": []
+        }
+      ],
+      "rawText": "As capas dos folhetos de cordel, já então ilustradas\npor postais fotográficos, desenhos ou fotogramas de\nfilmes, demoravam mais de uma semana para serem\ntransformadas em clichês em Recife ou Fortaleza, o que\nlevou a que santeiros e artesãos locais fossem requisitados\npara cortar na umburana — madeira preferida para\no taco xilográfico pela facilidade do talhe e abundância —\nprincesas, dragões, cangaceiros.\n\nNo início do século XX, a incorporação da técnica de\nprodução descrita no texto promoveu uma renovação da\n\nA. manifestação jornalística.\nB. narrativa literária.\nC. indústria regional.\nD. estética editorial.\nE. cultura erudita."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 74,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 74 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "O Círio de Nazaré é uma festa que ocorre, anualmente,\nna cidade de Belém do Pará, no segundo domingo do mês de\noutubro. Sua estrutura ritualística tem origem no catolicismo\ndevocional que surge em Portugal por volta do século XV.\nAté 1789, a festa em louvor a Nossa Senhora de Nazaré,\nem Belém, era marcada pelas ladainhas e novenas.\nEm 1790, a Igreja Católica autorizou a realização de festa em\nhomenagem à Virgem. A primeira procissão ocorreu em 1793.\nExistindo há mais de duzentos anos, a Festa congrega um\nextenso mosaico de elementos integrados em diferentes\nplanos e graus de intensidade.\n\nO reconhecimento da festa descrita no texto, como\npatrimônio histórico, encontra sustentação no(a)",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-74/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-74/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "instituição de políticas públicas de âmbito local.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "registro de bens culturais de natureza imaterial.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "tombamento de sítios arqueológicos de propriedade privada.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "salvaguarda de elementos sacros de expressão regional.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "categorização de manifestações cristãs de caráter oficial.",
+          "assets": []
+        }
+      ],
+      "rawText": "O Círio de Nazaré é uma festa que ocorre, anualmente,\nna cidade de Belém do Pará, no segundo domingo do mês de\noutubro. Sua estrutura ritualística tem origem no catolicismo\ndevocional que surge em Portugal por volta do século XV.\nAté 1789, a festa em louvor a Nossa Senhora de Nazaré,\nem Belém, era marcada pelas ladainhas e novenas.\nEm 1790, a Igreja Católica autorizou a realização de festa em\nhomenagem à Virgem. A primeira procissão ocorreu em 1793.\nExistindo há mais de duzentos anos, a Festa congrega um\nextenso mosaico de elementos integrados em diferentes\nplanos e graus de intensidade.\n\nO reconhecimento da festa descrita no texto, como\npatrimônio histórico, encontra sustentação no(a)\n\nA. instituição de políticas públicas de âmbito local.\nB. registro de bens culturais de natureza imaterial.\nC. tombamento de sítios arqueológicos de propriedade privada.\nD. salvaguarda de elementos sacros de expressão regional.\nE. categorização de manifestações cristãs de caráter oficial."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 75,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 75 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Os salões permitiam aos escritores da época do\nIluminismo adentrar no universo dos poderosos. Figuras\ncomo as de Voltaire e Duclos exortavam seus “irmãos”\na aproveitarem da mobilidade que era oferecida pela\nordem social do Antigo Regime, juntando-se à elite.\nNos últimos decênios do Ancien Régime, ele foi se tornando\ncada vez mais o reduto dos filósofos do Alto Iluminismo,\nque deixavam os cafés para os tipos inferiores de literário.\nCom efeito, os cafés se constituíram na antítese lógica\ndos salões. Eles eram abertos a todos, a um passo da rua.\nComo é possível constatar, salões e cafés constituem\ninteressantes instituições do espaço público literário através\ndas quais é possível vislumbrar as bases sociais nas quais\nse assentavam o Alto e o Baixo Iluminismo.\n\nNo período iluminista, os espaços sociais mencionados\ncontribuíram para",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-75/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-75/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "segregar pensadores e aumentar a circulação de ideias.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "apoiar revolucionários e perseguir a nobreza local.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "rejeitar poetisas e proibir a entrada de mulheres.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "censurar cronistas e coibir o patrocínio editorial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "integrar artistas e ampliar o comércio urbano.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os salões permitiam aos escritores da época do\nIluminismo adentrar no universo dos poderosos. Figuras\ncomo as de Voltaire e Duclos exortavam seus “irmãos”\na aproveitarem da mobilidade que era oferecida pela\nordem social do Antigo Regime, juntando-se à elite.\nNos últimos decênios do Ancien Régime, ele foi se tornando\ncada vez mais o reduto dos filósofos do Alto Iluminismo,\nque deixavam os cafés para os tipos inferiores de literário.\nCom efeito, os cafés se constituíram na antítese lógica\ndos salões. Eles eram abertos a todos, a um passo da rua.\nComo é possível constatar, salões e cafés constituem\ninteressantes instituições do espaço público literário através\ndas quais é possível vislumbrar as bases sociais nas quais\nse assentavam o Alto e o Baixo Iluminismo.\n\nNo período iluminista, os espaços sociais mencionados\ncontribuíram para\n\nA. segregar pensadores e aumentar a circulação de ideias.\nB. apoiar revolucionários e perseguir a nobreza local.\nC. rejeitar poetisas e proibir a entrada de mulheres.\nD. censurar cronistas e coibir o patrocínio editorial.\nE. integrar artistas e ampliar o comércio urbano."
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 76,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 76 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Resumamos os principais caracteres de um rizoma:\ndiferentemente das árvores ou de suas raízes, o rizoma\nconecta um ponto qualquer com outro ponto qualquer e cada\num de seus traços não remete necessariamente a traços de\nmesma natureza. Contra os sistemas centrados (e mesmo\npolicentrados), de comunicação hierárquica e ligações\npreestabelecidas, o rizoma é um sistema a-centrado não\nhierárquico e não significante, sem general, sem memória\norganizadora ou autômato central, unicamente definido por\numa circulação de estados.\nDELEUZE, G.; GUATTARI, F. Mil platôs.\nSão Paulo: Editora 34, 1995 (adaptado).\nQual elemento da cultura contemporânea se relaciona às\ncaracterísticas do conceito de rizoma, conforme descrito\nno texto?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Estrutura fixa.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Lógica binária.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Controle homogêneo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Uniformidade de opiniões.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Pluralidade de interações. *010175AZ27*",
+          "assets": []
+        }
+      ],
+      "rawText": "Resumamos os principais caracteres de um rizoma:\ndiferentemente das árvores ou de suas raízes, o rizoma\nconecta um ponto qualquer com outro ponto qualquer e cada\num de seus traços não remete necessariamente a traços de\nmesma natureza. Contra os sistemas centrados (e mesmo\npolicentrados), de comunicação hierárquica e ligações\npreestabelecidas, o rizoma é um sistema a-centrado não\nhierárquico e não significante, sem general, sem memória\norganizadora ou autômato central, unicamente definido por\numa circulação de estados.\nDELEUZE, G.; GUATTARI, F. Mil platôs.\nSão Paulo: Editora 34, 1995 (adaptado).\nQual elemento da cultura contemporânea se relaciona às\ncaracterísticas do conceito de rizoma, conforme descrito\nno texto?\n\nA. Estrutura fixa.\nB. Lógica binária.\nC. Controle homogêneo.\nD. Uniformidade de opiniões.\nE. Pluralidade de interações. *010175AZ27*"
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 77,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 77 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945).\nRio de Janeiro: Unirio, 2019.\nO que as capas da revista Travel in Brazil, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP),\nevidenciam?",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-77/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-77/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Estereótipos da cultura nacional.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Exploração da população pobre.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Preconceitos de ordem racial.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Política de censura midiática.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Projeto de país industrial.",
+          "assets": []
+        }
+      ],
+      "rawText": "VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945).\nRio de Janeiro: Unirio, 2019.\nO que as capas da revista Travel in Brazil, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP),\nevidenciam?\n\nA. Estereótipos da cultura nacional.\nB. Exploração da população pobre.\nC. Preconceitos de ordem racial.\nD. Política de censura midiática.\nE. Projeto de país industrial."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 78,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 78 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos\nprincípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de\numa forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar\na regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios.\nDUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.\nO princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte\nformulação teórica:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Doutrina teleológica.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Imperativo categórico.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Pensamento utilitarista.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Secularização inautêntica.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Raciocínio consequencialista.",
+          "assets": []
+        }
+      ],
+      "rawText": "A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos\nprincípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de\numa forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar\na regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios.\nDUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.\nO princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte\nformulação teórica:\n\nA. Doutrina teleológica.\nB. Imperativo categórico.\nC. Pensamento utilitarista.\nD. Secularização inautêntica.\nE. Raciocínio consequencialista."
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 79,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 79 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão\ne exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e\nincerteza a esses migrantes internacionais forçados.\nMOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014.\nA eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "planejamento familiar.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "segregação territorial.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "homogeneização cultural.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "diferenciação étnico-racial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "integração socioeconômica. *010175AZ28*",
+          "assets": []
+        }
+      ],
+      "rawText": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão\ne exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e\nincerteza a esses migrantes internacionais forçados.\nMOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014.\nA eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de\n\nA. planejamento familiar.\nB. segregação territorial.\nC. homogeneização cultural.\nD. diferenciação étnico-racial.\nE. integração socioeconômica. *010175AZ28*"
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 80,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 80 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "TEXTO I\n“As novelas brasileiras foram as primeiras a aparecer na\nTV russa ainda na época de Gorbachov, nos anos 1980. Elas\ncausaram sensação. Houve casos anedóticos, como quando\no Parlamento da Federação Russa terminou a sessão mais\ncedo para ver o último capítulo de Escrava Isaura”, conta o\nrusso Anatoli Sostanov, consultor na área de TV internacional\ne ex-diretor da emissora estatal russa Canal.\nDisponível em: www.bbc.com. Acesso em: 16 out. 2021.\nTEXTO II\nAs novelas de maior impacto em Angola foram as produções\nbrasileiras. Fizeram tanto sucesso que um mercado popular,\nna época era o maior a céu aberto na África, chegou a receber\no nome de Roque Santeiro, novela brasileira exibida naquele\npaís na década de 1980. A influência das produções brasileiras\nfez com que os angolanos conhecessem o Brasil por meio das\nnovelas. Além de entreter, os folhetins brasileiros até hoje ditam\na moda em Angola. Figurinos e acessórios de personagens\nse transformam em uma verdadeira febre e influenciam\no comportamento.\nDisponível em: https://tvbrasil.ebc.com.br.\nAcesso em: 16 out. 2021 (adaptado).\nEmbora situados em continentes diferentes com práticas\nsociais distintas, Rússia e Angola se aproximam, conforme\nos textos I e II, no aspecto",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "cultural, ao subjetivarem costumes da teledramaturgia estrangeira.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "econômico, ao importarem confecções de estilistas famosos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "geográfico, ao encurtarem distâncias de caráter ideológico.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "antropológico, ao adaptarem valores de povos tradicionais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "político, ao adotarem sistemas de governos democráticos.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\n“As novelas brasileiras foram as primeiras a aparecer na\nTV russa ainda na época de Gorbachov, nos anos 1980. Elas\ncausaram sensação. Houve casos anedóticos, como quando\no Parlamento da Federação Russa terminou a sessão mais\ncedo para ver o último capítulo de Escrava Isaura”, conta o\nrusso Anatoli Sostanov, consultor na área de TV internacional\ne ex-diretor da emissora estatal russa Canal.\nDisponível em: www.bbc.com. Acesso em: 16 out. 2021.\nTEXTO II\nAs novelas de maior impacto em Angola foram as produções\nbrasileiras. Fizeram tanto sucesso que um mercado popular,\nna época era o maior a céu aberto na África, chegou a receber\no nome de Roque Santeiro, novela brasileira exibida naquele\npaís na década de 1980. A influência das produções brasileiras\nfez com que os angolanos conhecessem o Brasil por meio das\nnovelas. Além de entreter, os folhetins brasileiros até hoje ditam\na moda em Angola. Figurinos e acessórios de personagens\nse transformam em uma verdadeira febre e influenciam\no comportamento.\nDisponível em: https://tvbrasil.ebc.com.br.\nAcesso em: 16 out. 2021 (adaptado).\nEmbora situados em continentes diferentes com práticas\nsociais distintas, Rússia e Angola se aproximam, conforme\nos textos I e II, no aspecto\n\nA. cultural, ao subjetivarem costumes da teledramaturgia estrangeira.\nB. econômico, ao importarem confecções de estilistas famosos.\nC. geográfico, ao encurtarem distâncias de caráter ideológico.\nD. antropológico, ao adaptarem valores de povos tradicionais.\nE. político, ao adotarem sistemas de governos democráticos."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 81,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 81 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "No Brasil, os remanescentes de antigos quilombos,\n“mocambos”, “comunidades negras rurais”, “quilombos\ncontemporâneos”, “comunidades quilombolas” ou “terras\nde preto” referem-se a um mesmo patrimônio territorial\ne cultural inestimável, que só recentemente passaram\na ter atenção do Estado e ser do interesse de algumas\nautoridades e organismos oficiais.\nANJOS, R. S. A. Cartografia e quilombos: territórios étnicos\nafricanos no Brasil. Africana Studia, n. 9, 2007.\nNa esfera de ação do Estado, com a Constituição de 1988,\nos espaços mencionados tornaram-se objeto de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "iniciativas de planejamento familiar.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "projetos de reorientação religiosa.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "programas de moradias sustentáveis.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "políticas de inserção social.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "medidas de homogeneização educacional.",
+          "assets": []
+        }
+      ],
+      "rawText": "No Brasil, os remanescentes de antigos quilombos,\n“mocambos”, “comunidades negras rurais”, “quilombos\ncontemporâneos”, “comunidades quilombolas” ou “terras\nde preto” referem-se a um mesmo patrimônio territorial\ne cultural inestimável, que só recentemente passaram\na ter atenção do Estado e ser do interesse de algumas\nautoridades e organismos oficiais.\nANJOS, R. S. A. Cartografia e quilombos: territórios étnicos\nafricanos no Brasil. Africana Studia, n. 9, 2007.\nNa esfera de ação do Estado, com a Constituição de 1988,\nos espaços mencionados tornaram-se objeto de\n\nA. iniciativas de planejamento familiar.\nB. projetos de reorientação religiosa.\nC. programas de moradias sustentáveis.\nD. políticas de inserção social.\nE. medidas de homogeneização educacional."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 82,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 82 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Bertrand Russell conta a história de um peru que\ndescobrira, em sua primeira manhã na fazenda de perus,\nque fora alimentado às 9 da manhã. Contudo, ele não tirou\nconclusões apressadas. Esperou até recolher um grande\nnúmero de observações do fato de que era alimentado\nàs 9 da manhã e fez essas observações sob uma ampla\nvariedade de circunstâncias, às quartas e quintas-feiras,\nem dias quentes e dias frios, em dias chuvosos e dias\nsecos. A cada dia acrescentava uma outra proposição\nde observação à sua lista. Finalmente, sua consciência\nficou satisfeita e ele concluiu. “Eu sou alimentado sempre\nàs 9 da manhã”.\nCHALMERS, A. O que é ciência, afinal?\nSão Paulo: Brasiliense, 1993 (adaptado).\nQual tipo de raciocínio corresponde ao padrão de pensamento\nexibido pelo personagem do texto?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Prático, porque recolhe evidências e recomenda ações.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Absoluto, porque busca confirmações e bloqueia refutações.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Indutivo, porque observa eventos particulares e infere leis universais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Analógico, porque compara diferentes situações e detecta elementos semelhantes.",
+          "assets": []
+        }
+      ],
+      "rawText": "Bertrand Russell conta a história de um peru que\ndescobrira, em sua primeira manhã na fazenda de perus,\nque fora alimentado às 9 da manhã. Contudo, ele não tirou\nconclusões apressadas. Esperou até recolher um grande\nnúmero de observações do fato de que era alimentado\nàs 9 da manhã e fez essas observações sob uma ampla\nvariedade de circunstâncias, às quartas e quintas-feiras,\nem dias quentes e dias frios, em dias chuvosos e dias\nsecos. A cada dia acrescentava uma outra proposição\nde observação à sua lista. Finalmente, sua consciência\nficou satisfeita e ele concluiu. “Eu sou alimentado sempre\nàs 9 da manhã”.\nCHALMERS, A. O que é ciência, afinal?\nSão Paulo: Brasiliense, 1993 (adaptado).\nQual tipo de raciocínio corresponde ao padrão de pensamento\nexibido pelo personagem do texto?\n\nA. Prático, porque recolhe evidências e recomenda ações.\nB. Absoluto, porque busca confirmações e bloqueia refutações.\nC. Indutivo, porque observa eventos particulares e infere leis universais.\nD. Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis.\nE. Analógico, porque compara diferentes situações e detecta elementos semelhantes."
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 83,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 83 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "A finalidade mais marcante em toda a história dos\nmapas, desde o seu início, teria sido a de estarem sempre\nvoltados à prática, principalmente a serviço da dominação,\ndo poder. Sempre registraram o que mais interessava a uma\nminoria, fato este que acabou estimulando o incessante\naperfeiçoamento deles.\nMARTINELLI, M. Mapas da geografia e cartografia temática.\nSão Paulo: Contexto, 2011 (adaptado).\nNo texto, a cartografia é apresentada como um instrumento\nusado essencialmente para a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "preservação de espaços naturais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "emancipação de sujeitos marginais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "revalorização de culturas reprimidas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "inversão de hierarquias estabelecidas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "sustentação de hegemonias territoriais. *010175AZ29*",
+          "assets": []
+        }
+      ],
+      "rawText": "A finalidade mais marcante em toda a história dos\nmapas, desde o seu início, teria sido a de estarem sempre\nvoltados à prática, principalmente a serviço da dominação,\ndo poder. Sempre registraram o que mais interessava a uma\nminoria, fato este que acabou estimulando o incessante\naperfeiçoamento deles.\nMARTINELLI, M. Mapas da geografia e cartografia temática.\nSão Paulo: Contexto, 2011 (adaptado).\nNo texto, a cartografia é apresentada como um instrumento\nusado essencialmente para a\n\nA. preservação de espaços naturais.\nB. emancipação de sujeitos marginais.\nC. revalorização de culturas reprimidas.\nD. inversão de hierarquias estabelecidas.\nE. sustentação de hegemonias territoriais. *010175AZ29*"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 84,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 84 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "TEXTO I\nO bufarinheiro, conhecido nas cidades por teque-teque,\nchama-se, nos recônditos da Amazônia, “regatão”. Em lugar de\ntransportar nas costas o mundo de miudezas, transporta-o no\nbojo de uma gaiola que desloca duas, três, quatro toneladas,\ndivididas em seções de secos e molhados e é movido por remo\nde faia. Cortando comunidades e matas da Amazônia por rios,\ndentro dessas gaiolas, riscadas de prateleiras, encontram-se\nos artigos mais díspares, que vão da agulha à espingarda,\ndo lenço ao cobertor, da chita à escova de dentes.\n\nNo século XIX, o comércio dos regatões era feito, então,\ncom base em relações tecidas com quilombolas, pequenos\nprodutores, comerciantes locais e indígenas, constituindo\nrelação comercial alternativa ao abastecimento da população.\n\nComo parte do patrimônio cultural da Amazônia, o regatão\nfoi fundamental, no século XIX, para a",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-84/statement-01.png",
+        "/generated/enem-2024/ciencias-humanas/question-84/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-84/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "organização de rotas de fuga na floresta tropical.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "criação de postos de trabalho nos seringais nortistas.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "divulgação de receitas de fármacos nas zonas ribeirinhas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "construção de redes de sociabilidade no interior brasileiro.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ampliação de ambientes de lazer nos territórios autóctones.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nO bufarinheiro, conhecido nas cidades por teque-teque,\nchama-se, nos recônditos da Amazônia, “regatão”. Em lugar de\ntransportar nas costas o mundo de miudezas, transporta-o no\nbojo de uma gaiola que desloca duas, três, quatro toneladas,\ndivididas em seções de secos e molhados e é movido por remo\nde faia. Cortando comunidades e matas da Amazônia por rios,\ndentro dessas gaiolas, riscadas de prateleiras, encontram-se\nos artigos mais díspares, que vão da agulha à espingarda,\ndo lenço ao cobertor, da chita à escova de dentes.\n\nNo século XIX, o comércio dos regatões era feito, então,\ncom base em relações tecidas com quilombolas, pequenos\nprodutores, comerciantes locais e indígenas, constituindo\nrelação comercial alternativa ao abastecimento da população.\n\nComo parte do patrimônio cultural da Amazônia, o regatão\nfoi fundamental, no século XIX, para a\n\nA. organização de rotas de fuga na floresta tropical.\nB. criação de postos de trabalho nos seringais nortistas.\nC. divulgação de receitas de fármacos nas zonas ribeirinhas.\nD. construção de redes de sociabilidade no interior brasileiro.\nE. ampliação de ambientes de lazer nos territórios autóctones."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 85,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 85 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Era uma vez um país, uma cidade, uma praça, algumas\nmães... Las Madres de Plaza de Mayo! Silenciosas, com\nlenços brancos na cabeça, rondavam a Praça de Maio.\nIncansáveis, caminharam por dias, meses, anos. Foram\nchamadas de loucas. Em silêncio, criaram um fato político,\nescancararam as entranhas da repressão, desafiaram o\naparato militar e suas dores ecoaram pelo mundo. Como\nobservou Oliveira, “à luz do dia, sob as janelas do ditador, sob\nchuva, sob sol, no silêncio entrecortado de gritos, faziam ouvir\ncomo que a alucinação de uma litania, que ecoou no país,\nna América Latina e além-mar”. Era impossível ignorá-las,\nestavam lá, sempre em silêncio, mas estavam lá.\nGONÇALVES, R. De antigas e novas loucas: Madres e Mães de Maio\ncontra a violência de Estado. Lutas Sociais, n. 29, jul.-dez. 2012.\nQual problema de âmbito nacional argentino o movimento\nsocial mencionado expôs ao mundo?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Violação dos direitos humanos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Insegurança da juventude periférica.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Naturalização da violência doméstica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Ampliação das desigualdades sociais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Relativização dos princípios democráticos.",
+          "assets": []
+        }
+      ],
+      "rawText": "Era uma vez um país, uma cidade, uma praça, algumas\nmães... Las Madres de Plaza de Mayo! Silenciosas, com\nlenços brancos na cabeça, rondavam a Praça de Maio.\nIncansáveis, caminharam por dias, meses, anos. Foram\nchamadas de loucas. Em silêncio, criaram um fato político,\nescancararam as entranhas da repressão, desafiaram o\naparato militar e suas dores ecoaram pelo mundo. Como\nobservou Oliveira, “à luz do dia, sob as janelas do ditador, sob\nchuva, sob sol, no silêncio entrecortado de gritos, faziam ouvir\ncomo que a alucinação de uma litania, que ecoou no país,\nna América Latina e além-mar”. Era impossível ignorá-las,\nestavam lá, sempre em silêncio, mas estavam lá.\nGONÇALVES, R. De antigas e novas loucas: Madres e Mães de Maio\ncontra a violência de Estado. Lutas Sociais, n. 29, jul.-dez. 2012.\nQual problema de âmbito nacional argentino o movimento\nsocial mencionado expôs ao mundo?\n\nA. Violação dos direitos humanos.\nB. Insegurança da juventude periférica.\nC. Naturalização da violência doméstica.\nD. Ampliação das desigualdades sociais.\nE. Relativização dos princípios democráticos."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 86,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 86 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "TEXTO I\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nTEXTO II\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nA comparação entre as imagens de satélite indica a\nocorrência de um processo de",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-86/statement-01.png",
+        "/generated/enem-2024/ciencias-humanas/question-86/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-86/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "conservação de lugares afetivos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "aumento de áreas desertificadas.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "redefinição de fronteiras nacionais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "artificialização do espaço geográfico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "mudança da dinâmica macroclimática. *010175AZ30*",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nTEXTO II\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nA comparação entre as imagens de satélite indica a\nocorrência de um processo de\n\nA. conservação de lugares afetivos.\nB. aumento de áreas desertificadas.\nC. redefinição de fronteiras nacionais.\nD. artificialização do espaço geográfico.\nE. mudança da dinâmica macroclimática. *010175AZ30*"
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 87,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 87 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "A democracia responde a esta pergunta: quem deve\nexercer o poder público? A resposta é: o exercício do\npoder público corresponde à coletividade dos cidadãos.\nContudo, nessa pergunta não se fala sobre qual extensão\ndeva ter o poder público. Trata-se somente de determinar\no sujeito a quem o mando compete. A democracia propõe\nque mandemos todos; quer dizer, que todos intervenham\nnos fatos sociais.\n\nO que sustenta o exercício do poder, conforme a configuração\napresentada no texto escrito na década de 1920?\nA Soberania popular.\nB Divisão de classes.\nC Acúmulo de capital.\nD Defesa da propriedade.\nE Centralização administrativa.",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-87/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-87/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A democracia responde a esta pergunta: quem deve\nexercer o poder público? A resposta é: o exercício do\npoder público corresponde à coletividade dos cidadãos.\nContudo, nessa pergunta não se fala sobre qual extensão\ndeva ter o poder público. Trata-se somente de determinar\no sujeito a quem o mando compete. A democracia propõe\nque mandemos todos; quer dizer, que todos intervenham\nnos fatos sociais.\n\nO que sustenta o exercício do poder, conforme a configuração\napresentada no texto escrito na década de 1920?\nA Soberania popular.\nB Divisão de classes.\nC Acúmulo de capital.\nD Defesa da propriedade.\nE Centralização administrativa.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 88,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 88 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "A mudança do clima nas cidades brasileiras é um desafio\nde adaptação e equidade. Inundações, alagamentos e\nondas de calor são cada vez mais frequentes e intensas.\nCidades precisam se adaptar com urgência, a começar pelas\náreas e populações mais vulneráveis. Implementar soluções\nbaseadas na natureza de forma sistêmica pode contribuir\npara a redução de desastres relacionados às mudanças do\nclima e ainda gerar múltiplos benefícios para a economia,\no ambiente e as pessoas.\n\nQual medida atenua os problemas abordados no texto?",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-88/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-88/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Criação de faixas sinalizadoras.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Incineração de resíduos sólidos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Implantação de parques públicos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Verticalização de espaços centrais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Construção de estacionamentos privados.",
+          "assets": []
+        }
+      ],
+      "rawText": "A mudança do clima nas cidades brasileiras é um desafio\nde adaptação e equidade. Inundações, alagamentos e\nondas de calor são cada vez mais frequentes e intensas.\nCidades precisam se adaptar com urgência, a começar pelas\náreas e populações mais vulneráveis. Implementar soluções\nbaseadas na natureza de forma sistêmica pode contribuir\npara a redução de desastres relacionados às mudanças do\nclima e ainda gerar múltiplos benefícios para a economia,\no ambiente e as pessoas.\n\nQual medida atenua os problemas abordados no texto?\n\nA. Criação de faixas sinalizadoras.\nB. Incineração de resíduos sólidos.\nC. Implantação de parques públicos.\nD. Verticalização de espaços centrais.\nE. Construção de estacionamentos privados."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 89,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 89 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "O Conselho de Segurança da Organização das\nNações Unidas (ONU) é, junto com a Assembleia-Geral,\num dos principais órgãos de tomada de decisão dentro da\nentidade. O Conselho lida com questões de segurança e\npaz internacionais, além de recomendar a admissão de\nnovos membros à Assembleia-Geral e aprovar mudanças\nna Carta das Nações Unidas. Cinco dos quinze membros\nsão permanentes e podem vetar resoluções, o que ocorreu\n261 vezes até 2020.\n\nA composição e o funcionamento do organismo internacional\napresentados revelam a seguinte característica das relações\ninternacionais entre os países-membros:",
+      "statementAssets": [
+        "/generated/enem-2024/ciencias-humanas/question-89/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/ciencias-humanas/question-89/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Igualdade militar.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Assimetria política.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Consenso multipolar.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Equilíbrio estratégico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Soberania compartilhada.",
+          "assets": []
+        }
+      ],
+      "rawText": "O Conselho de Segurança da Organização das\nNações Unidas (ONU) é, junto com a Assembleia-Geral,\num dos principais órgãos de tomada de decisão dentro da\nentidade. O Conselho lida com questões de segurança e\npaz internacionais, além de recomendar a admissão de\nnovos membros à Assembleia-Geral e aprovar mudanças\nna Carta das Nações Unidas. Cinco dos quinze membros\nsão permanentes e podem vetar resoluções, o que ocorreu\n261 vezes até 2020.\n\nA composição e o funcionamento do organismo internacional\napresentados revelam a seguinte característica das relações\ninternacionais entre os países-membros:\n\nA. Igualdade militar.\nB. Assimetria política.\nC. Consenso multipolar.\nD. Equilíbrio estratégico.\nE. Soberania compartilhada."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 90,
+      "year": 2024,
+      "area": "Ciências Humanas",
+      "title": "Questão 90 — ENEM 2024 — Ciências Humanas",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Uma fábrica na qual os operários fossem, efetiva e\nintegralmente, simples peças de máquinas executando\ncegamente as ordens da direção pararia em quinze minutos.\nO capitalismo só pode funcionar com a contribuição constante\nda atividade propriamente humana de seus subjugados que,\nao mesmo tempo, tenta reduzir e desumanizar o mais possível.\nCASTORIADIS, C. A instituição imaginária da sociedade.\nRio de Janeiro: Paz e Terra, 1982.\nO texto apresenta uma contradição interna do capitalismo\ncaracterizada pela",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "obsolescência associada ao uso da tecnologia.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "orientação voltada à administração de conflitos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "alienação decorrente da organização do trabalho.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "isonomia remanescente da geração de riquezas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "produtividade vinculada ao fortalecimento da autonomia. *010175AZ31* RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação. *010175AZ32*",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma fábrica na qual os operários fossem, efetiva e\nintegralmente, simples peças de máquinas executando\ncegamente as ordens da direção pararia em quinze minutos.\nO capitalismo só pode funcionar com a contribuição constante\nda atividade propriamente humana de seus subjugados que,\nao mesmo tempo, tenta reduzir e desumanizar o mais possível.\nCASTORIADIS, C. A instituição imaginária da sociedade.\nRio de Janeiro: Paz e Terra, 1982.\nO texto apresenta uma contradição interna do capitalismo\ncaracterizada pela\n\nA. obsolescência associada ao uso da tecnologia.\nB. orientação voltada à administração de conflitos.\nC. alienação decorrente da organização do trabalho.\nD. isonomia remanescente da geração de riquezas.\nE. produtividade vinculada ao fortalecimento da autonomia. *010175AZ31* RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação. *010175AZ32*"
+    }
+  ]
+}

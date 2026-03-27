@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import {
   getExamOverviewAnalytics as getMathExamOverviewAnalytics,
   getExamQuestionSummaries as getMathExamQuestionSummaries,
@@ -202,6 +204,25 @@ const MOCK_AREA_TEMPLATES: Record<
 };
 
 const mockAreaCache = new Map<Exclude<AreaSlug, "matematica">, BaseQuestionPageData[]>();
+const extractedAreaCache = new Map<Exclude<AreaSlug, "matematica">, ExtractedAreaQuestion[]>();
+
+type ExtractedAreaQuestion = {
+  id: number;
+  examQuestionNumber: number;
+  year: number;
+  area: string;
+  title: string;
+  sourcePages: number[];
+  statement: string;
+  statementAssets: string[];
+  imageUrl: string;
+  options: Array<{
+    option: "A" | "B" | "C" | "D" | "E";
+    text: string;
+    assets: string[];
+  }>;
+  rawText: string;
+};
 
 function clamp(value: number, min: number, max: number) {
   return Math.min(Math.max(value, min), max);
@@ -243,6 +264,37 @@ function buildMockDifficultyLabel(level: number) {
   }
 }
 
+function getExtractedContentPath(area: Exclude<AreaSlug, "matematica">) {
+  return path.join(
+    process.cwd(),
+    "src/data/generated",
+    `enem-2024-${area}-content.json`,
+  );
+}
+
+function loadExtractedAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
+  const cached = extractedAreaCache.get(area);
+  if (cached) {
+    return cached;
+  }
+
+  const filePath = getExtractedContentPath(area);
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+
+  try {
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf-8")) as {
+      questions?: ExtractedAreaQuestion[];
+    };
+    const questions = parsed.questions ?? [];
+    extractedAreaCache.set(area, questions);
+    return questions;
+  } catch {
+    return null;
+  }
+}
+
 function buildMockOptionDistribution(
   id: number,
   correctOption: "A" | "B" | "C" | "D" | "E",
@@ -273,10 +325,15 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
 
   const meta = AREA_META[area];
   const template = MOCK_AREA_TEMPLATES[area];
+  const extractedQuestions = loadExtractedAreaQuestions(area);
+  const extractedQuestionMap = new Map<number, ExtractedAreaQuestion>(
+    (extractedQuestions ?? []).map((question) => [question.id, question]),
+  );
   const options = ["A", "B", "C", "D", "E"] as const;
   const rawQuestions: BaseQuestionPageData[] = Array.from({ length: 45 }, (_, index) => {
     const id = index + 1;
     const examQuestionNumber = meta.questionOffset + id;
+    const extracted = extractedQuestionMap.get(id);
     const theme = template.themes[index % template.themes.length];
     const subtheme = template.subthemes[(index + 2) % template.subthemes.length];
     const competence = template.competencies[index % template.competencies.length];
@@ -293,18 +350,26 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
 
     return {
       id,
-      examQuestionNumber,
-      year: 2024,
-      area: meta.label,
-      title: `Questão ${examQuestionNumber} — ENEM 2024 — ${meta.label}`,
-      statement: `Mock temporário da questão ${examQuestionNumber} de ${meta.label.toLowerCase()}, preparado para receber depois o enunciado real, alternativas reais, assets e resolução específica da área.`,
-      statementAssets: [],
-      sourcePages: [Math.ceil(id / 3)],
-      rawText: "",
-      options: options.map((option, optionIndex) => ({
+      examQuestionNumber: extracted?.examQuestionNumber ?? examQuestionNumber,
+      year: extracted?.year ?? 2024,
+      area: extracted?.area ?? meta.label,
+      title:
+        extracted?.title ??
+        `Questão ${examQuestionNumber} — ENEM 2024 — ${meta.label}`,
+      statement:
+        extracted?.statement ??
+        `Mock temporário da questão ${examQuestionNumber} de ${meta.label.toLowerCase()}, preparado para receber depois o enunciado real, alternativas reais, assets e resolução específica da área.`,
+      statementAssets: extracted?.statementAssets ?? [],
+      sourcePages: extracted?.sourcePages ?? [Math.ceil(id / 3)],
+      rawText: extracted?.rawText ?? "",
+      options: (extracted?.options ?? options.map((option) => ({
         option,
         text: `Alternativa ${option} mockada para a área de ${meta.label.toLowerCase()} com foco em ${theme.toLowerCase()}.`,
         assets: [],
+      }))).map((option) => ({
+        option: option.option,
+        text: option.text,
+        assets: option.assets,
         displayMode: "auto",
         suppressedReason: undefined,
       })),
@@ -316,15 +381,20 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
       correctOption,
       topDistractor,
       difficultyRank,
-      imageUrl: "/placeholder.png",
+      imageUrl: extracted?.imageUrl ?? "/placeholder.png",
       comments: [
-        `${meta.label} ainda está em modo mock, mas o item já segue a mesma leitura analítica da matemática.`,
+        extracted
+          ? `${meta.label} já usa enunciado, alternativas e assets reais extraídos do PDF; analytics e metadados pedagógicos ainda estão mockados.`
+          : `${meta.label} ainda está em modo mock, mas o item já segue a mesma leitura analítica da matemática.`,
         `O distrator ${topDistractor} foi definido como principal para a estrutura inicial de comentários e revisão.`,
         `${competence} aparece como eixo pedagógico provisório até a integração dos dados reais da área.`,
       ],
       metadata: {
         cognitiveType: competence,
-        usesChart: (id + optionIndexSeed(area)) % 4 === 0,
+        usesChart:
+          (extracted?.statementAssets.length ?? 0) > 0 ||
+          (extracted?.options ?? []).some((option) => option.assets.length > 0) ||
+          (id + optionIndexSeed(area)) % 4 === 0,
         abstractionLevel: difficultyLevel >= 4 ? "Alto" : difficultyLevel === 3 ? "Médio" : "Básico",
       },
       optionDistribution: distribution,
