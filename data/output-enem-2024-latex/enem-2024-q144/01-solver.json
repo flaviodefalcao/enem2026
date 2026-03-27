@@ -1,0 +1,84 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:25:19.309Z",
+  "questionId": "enem-2024-q144",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "tronco de cone",
+      "correctnessClaim": "A alternativa correta é a letra D, pois a figura gerada pela rotação do trapézio retângulo em torno do lado fixado forma um tronco de cone.",
+      "strategy": "Identificar o sólido gerado pela rotação de um trapézio retângulo em torno de um de seus lados retangulares (PS, que é perpendicular às bases) e comparar com sólidos conhecidos (cone, cilindro, tronco de cone, pirâmide, tronco de pirâmide).",
+      "steps": [
+        "Reconhecer que o trapézio é retângulo, com ângulos retos em P e S.",
+        "O lado PS é fixado na vareta, que será o eixo de rotação.",
+        "Ao girar o trapézio 360° em torno do eixo PS, cada ponto se move em um círculo em um plano perpendicular à vareta.",
+        "A altura do trapézio corresponde ao eixo de rotação (segmento PS).",
+        "As bases paralelas do trapézio (PQ e RS) formarão duas circunferências de raios diferentes.",
+        "Isso gera um sólido com duas bases circulares paralelas e de raios diferentes, conectado por uma superfície lateral inclinada.",
+        "Esse sólido é caracterizado como tronco de cone.",
+        "Portanto, o sólido obtido é um tronco de cone."
+      ],
+      "formulasUsed": [
+        "Nenhuma fórmula específica foi necessária, trata-se de compreensão geométrica sobre sólidos de revolução."
+      ],
+      "visualEvidenceUsed": [
+        "Figura do trapézio retângulo PQRS com o eixo de rotação no lado PS.",
+        "Indicação de que PS está fixado e o sentido de rotação do trapézio."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Considerar que o sólido gerado pela rotação em torno do lado retangular do trapézio seria um cone, talvez confundindo a figura com um triângulo.",
+        "misconceptionType": "Confundir diferentes sólidos gerados por revolução de figuras planas.",
+        "whyItLooksPlausible": "Um triângulo girado em torno de um lado gera um cone, e o trapézio retângulo é próximo de um triângulo.",
+        "whyItIsWrong": "O trapézio tem duas bases paralelas com comprimentos diferentes, o que gera um tronco de cone, não um cone."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que a rotação do trapézio produz um cilindro, talvez por considerar lados paralelos iguais.",
+        "misconceptionType": "Ignorar a diferença entre os comprimentos das bases do trapézio.",
+        "whyItLooksPlausible": "Cilindro é um sólido de revolução comum associado a bases circulares iguais.",
+        "whyItIsWrong": "As bases paralelas do trapézio têm comprimentos distintos, daí não gerar cilindro (que precisa ter base e topo iguais)."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundir sólido de revolução com sólido poligonal (pirâmide).",
+        "misconceptionType": "Associar erroneamente a forma plana ao sólido tridimensional.",
+        "whyItLooksPlausible": "Pirâmides são formas conhecidas derivadas de figuras planas, pode parecer uma opção simples.",
+        "whyItIsWrong": "O sólido é gerado por rotação, pirâmides não são sólidos de revolução."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confundir tronco de pirâmide com tronco de cone, por associações falsas com termos.",
+        "misconceptionType": "Mistura de conceitos entre sólidos poligonais e sólidos de revolução.",
+        "whyItLooksPlausible": "Ambos são sólidos com seções paralelas e “tronco”, pode gerar confusão.",
+        "whyItIsWrong": "Tronco de pirâmide tem faces poligonais, não geradas por revolução circular, enquanto o sólido gerado aqui tem bases circulares."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Geometria espacial - sólidos de revolução",
+      "secondarySkills": [
+        "Compreensão de figuras planas",
+        "Relação entre figuras bidimensionais e tridimensionais"
+      ],
+      "cognitiveDemand": "Médio - exige visualização espacial e compreensão de sólidos gerados por revolução",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige compreensão conceitual sobre revoluções e sólidos de geometria.",
+        "O enunciado e figura fornecem dados suficientes para a identificação correta do sólido.",
+        "Não há necessidade de cálculo numérico, apenas análise geométrica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 838,
+    "outputTokens": 952,
+    "estimatedCostUsd": 0.001858
+  }
+}

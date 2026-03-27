@@ -1,0 +1,112 @@
+{
+  "questionId": "enem-2024-q145",
+  "generatedAt": "2026-03-26T19:26:25.815Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 562,
+      "outputTokens": 639,
+      "estimatedCostUsd": 0.001247
+    },
+    "explainer": {
+      "inputTokens": 1105,
+      "outputTokens": 327,
+      "estimatedCostUsd": 0.000965
+    },
+    "reviewer": {
+      "inputTokens": 1833,
+      "outputTokens": 1057,
+      "estimatedCostUsd": 0.002424
+    },
+    "totalEstimatedCostUsd": 0.004636
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "1110",
+      "correctnessClaim": "A resposta correta é D, pois corresponde à redução correta da área.",
+      "strategy": "Calcular a área original do campo e a nova área após a redução das dimensões e depois encontrar a diferença entre essas áreas.",
+      "steps": [
+        "Calcular a área original do campo com dimensões 110 m × 75 m: 110 × 75 = 8250 m².",
+        "Calcular a nova área do campo com dimensões 105 m × 68 m: 105 × 68 = 7140 m².",
+        "Calcular a redução na área: 8250 - 7140 = 1110 m²."
+      ],
+      "formulasUsed": [
+        "Área do retângulo = comprimento × largura"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir quantos metros quadrados a área do campo foi reduzida, calculamos a área original multiplicando o comprimento pela largura e fazemos o mesmo com as novas dimensões. A redução da área é a diferença entre essas duas áreas.",
+      "stepByStep": [
+        "Calcule a área original do campo: 110 m × 75 m = 8250 m².",
+        "Calcule a nova área do campo: 105 m × 68 m = 7140 m².",
+        "Subtraia a nova área da área original para encontrar a redução: 8250 m² - 7140 m² = 1110 m²."
+      ],
+      "commonPitfalls": [
+        "Confundir a diferença das áreas com a diferença das dimensões lineares (por exemplo, 110 - 105 ou 75 - 68).",
+        "Calcular somente um lado ou uma dimensão em vez da área completa.",
+        "Erro ao fazer as multiplicações ou subtrações, resultando em valores incorretos.",
+        "Não prestar atenção nas unidades de medida, causando erros na interpretação dos valores."
+      ],
+      "teachingTips": [
+        "Explique que área é sempre calculada multiplicando comprimento pela largura no caso de um retângulo.",
+        "Reforce a importância de calcular a área antes e depois de qualquer mudança para poder comparar.",
+        "Use exemplos semelhantes com números menores para praticar o cálculo da redução de área.",
+        "Enfatize a diferença entre medição linear (comprimento) e medição de área.",
+        "Sublinhe a necessidade de interpretar corretamente o enunciado, especialmente quando envolve mudanças dimensionais e suas consequências na área."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter confundido as unidades ou efetuado um cálculo incorreto nas dimensões menores, possivelmente calculando uma pequena redução.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "O número é pequeno, poderia parecer uma redução mínima.",
+        "whyItIsWrong": "Desconsidera as grandes dimensões reais, levando a um valor irrealisticamente baixo para a redução da área."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Erro semelhante ao da opção A, talvez calculando apenas a diferença de uma dimensão em vez da área completa.",
+        "misconceptionType": "Erro conceitual",
+        "whyItLooksPlausible": "O número é razoável para uma pequena mudança, mas ainda muito pequeno para o caso real.",
+        "whyItIsWrong": "Não leva em conta o cálculo da área, apenas alterações lineares."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato poderia ter subtraído incorretamente apenas uma das dimensões ou confundido as unidades de medida.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "555 é um número intermediário, pode parecer um resultado calculado.",
+        "whyItIsWrong": "A área real reduzida é maior, pois envolve o produto da diferença nas dimensões."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Esse valor pode vir de um erro de multiplicação ou inversão dos fatores, confundindo dimensões ou somando valores errados.",
+        "misconceptionType": "Erro de cálculo complexo",
+        "whyItLooksPlausible": "É próximo ao resultado correto, podendo ser confundido com um erro de arredondamento.",
+        "whyItIsWrong": "Não é o valor exato da diferença entre as áreas calculadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de áreas de figuras geométricas",
+      "secondarySkills": [
+        "Interpretação de texto com dados numéricos",
+        "Atenção a unidades de medida"
+      ],
+      "cognitiveDemand": "Baixa a média",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão envolve cálculo direto de área de retângulo.",
+        "Requer atenção para a diferença entre áreas, e não só diferença linear.",
+        "Não necessita de elementos visuais além do texto."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si. A resposta final de 1110 m² está correta, com estratégias e explicações alinhadas e adequadas ao nível da questão. Os distractores são plausíveis e bem justificados. Não foram identificados problemas de inconsistência ou contradições entre as seções.",
+      "issues": []
+    }
+  }
+}

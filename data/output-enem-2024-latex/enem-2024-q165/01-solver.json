@@ -1,0 +1,84 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:40:58.870Z",
+  "questionId": "enem-2024-q165",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "3,00",
+      "correctnessClaim": "O cálculo foi realizado corretamente com base nas informações fornecidas no enunciado e na imagem anexada, considerando a independência dos eventos e a redução do tempo vermelho a partir da probabilidade requerida.",
+      "strategy": "Calcular a probabilidade de um ônibus encontrar os dois sinais vermelhos com o tempo original, depois estabelecer uma redução do tempo vermelho consistente para cada sinal de forma que a nova probabilidade conjunta seja 4/100 (0,04). Resolver uma equação para encontrar a redução do tempo vermelho em segundos.",
+      "steps": [
+        "Probabilidade original de um ônibus pegar um sinal vermelho: 15 s de vermelho a cada 60 s, logo P(original) = 15/60 = 0,25.",
+        "Probabilidade original de encontrar ambos os sinais vermelhos (independentes) = 0,25 * 0,25 = 0,0625 (6,25%).",
+        "Deseja-se que a nova probabilidade de encontrar vermelho em ambos os sinais seja 4/100 = 0,04.",
+        "Se x for o novo tempo de sinal vermelho em segundos, com ciclo de 60 segundos, a nova probabilidade individual será x/60.",
+        "A probabilidade conjunta (independente) será (x/60)² = 0,04.",
+        "Logo, (x/60)² = 0,04  => x² = 0,04 * 3600 = 144  => x = 12 segundos.",
+        "Redução no tempo vermelho = tempo original - novo tempo = 15 - 12 = 3 segundos."
+      ],
+      "formulasUsed": [
+        "P(sinal vermelho) = tempo vermelho / tempo total do ciclo",
+        "P(ambos vermelhos) = P(sinal1 vermelho) * P(sinal2 vermelho) (independência)"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem mostra que a nova probabilidade conjunta de encontrar ambos os sinais vermelhos é 4/100, que foi usada para montar a equação."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "1,35",
+        "likelyReasoning": "O candidato tentou calcular a redução com base em uma raiz quadrada inadequada ou ajustou a proporção erradamente.",
+        "misconceptionType": "Erro de cálculo envolvendo proporcionalidade e raiz quadrada.",
+        "whyItLooksPlausible": "Parece uma redução menor que pode vir de cálculos errados envolvendo a raiz quadrada para ajustar a probabilidade.",
+        "whyItIsWrong": "Não satisfaz a condição da nova probabilidade conjunta ser 4%."
+      },
+      {
+        "option": "9,00",
+        "likelyReasoning": "O candidato subtraiu diretamente a probabilidade e converteu para tempo, ou confundiu unidades/chaveamento do problema.",
+        "misconceptionType": "Confusão entre probabilidade e tempo.",
+        "whyItLooksPlausible": "9 segundos é a diferença entre 15 e 6, que poderia ser mal interpretada.",
+        "whyItIsWrong": "Levaria a um tempo vermelho muito baixo, não sendo consistente com a probabilidade desejada."
+      },
+      {
+        "option": "12,60",
+        "likelyReasoning": "O candidato interpretou que a redução seria quase toda a duração do tempo vermelho original, ou fez uma conversão incorreta da probabilidade na fórmula.",
+        "misconceptionType": "Confusão na escala do tempo e interpretação da redução desejada.",
+        "whyItLooksPlausible": "Redução quase total parece um raciocínio lógico para diminuir muito a probabilidade.",
+        "whyItIsWrong": "Reduziria o tempo vermelho a 2,4 segundos, gerando probabilidade muito inferior a 4% para ambos sinais."
+      },
+      {
+        "option": "13,80",
+        "likelyReasoning": "Erro grosseiro confundindo o total do ciclo com o tempo vermelho, tentando ajustar direto a 4% sem considerar a raiz quadrada.",
+        "misconceptionType": "Uso incorreto da fórmula da probabilidade conjunta e cálculo desproporcional.",
+        "whyItLooksPlausible": "Valor perto do total do ciclo pode parecer razoável para uma grande redução.",
+        "whyItIsWrong": "Reduziria o tempo vermelho a 1,2 segundos, o que não satisfaz exatamente a probabilidade pedida e não é justificável."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Probabilidade e estatística",
+      "secondarySkills": [
+        "Raciocínio algébrico",
+        "Proporcionalidade",
+        "Interpretação de enunciados"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar corretamente a independência dos eventos para a multiplicação das probabilidades.",
+        "A resolução exige montar e resolver uma equação quadrática simples.",
+        "É importante usar a informação da imagem que indica a nova probabilidade conjunta (4/100)."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 797,
+    "outputTokens": 983,
+    "estimatedCostUsd": 0.001892
+  }
+}

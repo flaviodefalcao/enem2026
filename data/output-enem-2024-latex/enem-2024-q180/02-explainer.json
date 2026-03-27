@@ -1,0 +1,42 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:55:42.540Z",
+  "questionId": "enem-2024-q180",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para formar uma equipe com 5 médicos, sendo pelo menos 3 cardiologistas, somamos as maneiras de escolher 3, 4 e 5 cardiologistas, completando com neurologistas para totalizar 5. Cada possibilidade é calculada pela combinação de cardiologistas multiplicada pela combinação de neurologistas.",
+      "stepByStep": [
+        "Identifique o total de médicos: 7 cardiologistas e 6 neurologistas.",
+        "A equipe deve ter 5 médicos, com pelo menos 3 cardiologistas; ou seja, podem ser 3, 4 ou 5 cardiologistas.",
+        "Para cada caso, calcule a combinação para escolher os cardiologistas, usando C(7, número de cardiologistas).",
+        "Calcule a combinação para escolher os neurologistas restantes, para completar 5 médicos, com C(6, número de neurologistas).",
+        "Multiplique as combinações correspondentes a cardiologistas e neurologistas para cada caso.",
+        "Some as quantidades obtidas para 3, 4 e 5 cardiologistas para encontrar o total de formas distintas de montar a equipe.",
+        "A expressão geral é C(7,3)*C(6,2) + C(7,4)*C(6,1) + C(7,5)*C(6,0)."
+      ],
+      "commonPitfalls": [
+        "Multiplicar apenas uma possibilidade de formação da equipe, ignorando outras configurações possíveis de cardiologistas.",
+        "Confundir combinação com permutação, utilizando fórmulas erradas.",
+        "Ignorar a exigência de 'pelo menos' e considerar apenas um número fixo de cardiologistas.",
+        "Somar ou multiplicar combinações de forma incorreta, sem respeitar as regras do problema.",
+        "Não reconhecer a necessidade de somar casos para cobrir a restrição 'pelo menos 3 cardiologistas'.",
+        "Aplicar a combinação de forma errada nos neurologistas, calculando números incorretos de escolhas."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de combinação e a diferença entre combinação e permutação.",
+        "Mostre a importância de interpretar corretamente 'pelo menos' no enunciado para considerar múltiplos casos.",
+        "Use exemplos concretos com pequenos grupos para ilustrar a ideia de somar possibilidades distintas.",
+        "Faça exercícios que reforcem a ideia de somar resultados quando lidamos com casos mutuamente exclusivos.",
+        "Use diagramas para representar as escolhas possíveis e facilitar a visualização.",
+        "Oriente os alunos a sempre considerar todas as possibilidades dentro das restrições do problema antes de calcular."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1297,
+    "outputTokens": 526,
+    "estimatedCostUsd": 0.00136
+  }
+}

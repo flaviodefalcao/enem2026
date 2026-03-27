@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:44:16.977Z",
+  "questionId": "enem-2024-q169",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular a probabilidade de descobrir o padrão de codificação na terceira tentativa usando a Cifra de César, consideramos que há 25 padrões possíveis e que a cada tentativa errada o número de padrões restantes diminui. Assim, a probabilidade é o produto da chance de errar nas duas primeiras vezes e acertar na terceira.",
+      "stepByStep": [
+        "Entenda que existem 25 padrões possíveis porque o deslocamento 0 não altera a mensagem.",
+        "A probabilidade de escolher o padrão correto na primeira tentativa é 1/25.",
+        "Logo, a probabilidade de ERRAR na primeira tentativa é 24/25.",
+        "Na segunda tentativa, restam 24 padrões (o que foi tentado na primeira é eliminado).",
+        "A probabilidade de ERRAR na segunda tentativa é 23/24.",
+        "Na terceira tentativa restam 23 padrões.",
+        "A probabilidade de ACERTAR na terceira tentativa é 1/23.",
+        "Multiplicamos as probabilidades: (24/25) * (23/24) * (1/23) = 1/25."
+      ],
+      "commonPitfalls": [
+        "Somar probabilidades das tentativas como se fossem eventos independentes, ao invés de multiplicar considerando eliminação.",
+        "Não reduzir o espaço amostral após cada tentativa mal sucedida, ignorando a condição de exclusão.",
+        "Usar denominadores fixos para todas as tentativas, sem atualizar o número de padrões restantes.",
+        "Confundir o conceito de probabilidade condicional ao não reconhecer que a chance muda dependendo das tentativas anteriores."
+      ],
+      "teachingTips": [
+        "Explique o conceito de espaço amostral dinâmico, que diminui conforme opções são eliminadas.",
+        "Mostre claramente a diferença entre eventos independentes e dependentes com exemplos visuais.",
+        "Trabalhe atividades práticas de probabilidade condicional para fixar o conceito.",
+        "Use diagramas ou tabelas para visualizar como o número de padrões e possibilidades muda a cada tentativa.",
+        "Reforce o entendimento da Cifra de César para contextualizar o problema e tornar o conteúdo mais interessante."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2278,
+    "outputTokens": 420,
+    "estimatedCostUsd": 0.001583
+  }
+}

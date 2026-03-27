@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:19:18.694Z",
+  "questionId": "enem-2024-q137",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O estudante calculou a média errada ao dividir a soma das notas por 5 em vez de 4, o que fez a média parecer 1 unidade menor. Ao montar uma equação com essa informação, encontramos que a média correta é 5.",
+      "stepByStep": [
+        "Defina a soma das 4 notas como S e a média correta como M = S/4.",
+        "A média errada foi calculada dividindo por 5, então média errada = S/5.",
+        "Sabemos que a média errada é 1 unidade menor que a correta, ou seja, M - S/5 = 1.",
+        "Substitua M por S/4: S/4 - S/5 = 1.",
+        "Encontre o mínimo múltiplo comum e resolva: (5S - 4S)/20 = 1 → S/20 = 1 → S = 20.",
+        "Calcule a média correta: M = S/4 = 20/4 = 5."
+      ],
+      "commonPitfalls": [
+        "Confundir o número de provas para dividir a soma na média (usar 5 ao invés de 4).",
+        "Não montar uma equação para relacionar as médias correta e incorreta.",
+        "Erro ao manipular frações e equações simples.",
+        "Confundir soma total das notas com o valor da média."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de média como soma das notas dividida pelo número de provas.",
+        "Mostre a importância de montar equações a partir das informações do problema.",
+        "Pratique manipulação de frações e equações lineares simples com os alunos.",
+        "Utilize exemplos parecidos com erros comuns para reforçar a compreensão da fórmula da média."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1104,
+    "outputTokens": 354,
+    "estimatedCostUsd": 0.001008
+  }
+}

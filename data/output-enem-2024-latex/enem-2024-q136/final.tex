@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 136 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+O tamanho mínimo que a visão humana é capaz de visualizar sem uso de equipamento auxiliar é equivalente a $100$ micrômetros ($1$ micrômetro $= 10^{-3}$ milímetros). Uma estudante pretende visualizar hemácias do sangue humano, que medem $0,007$ mm de diâmetro. Ela possui um microscópio óptico com lente ocular de ampliação $10\times$ e lentes objetivas com ampliações: I ($2\times$), II ($10\times$), III ($15\times$), IV ($1,1\times$) e V ($1,4\times$). A ampliação total é o produto das ampliações da ocular e da objetiva. A estudante quer a lente objetiva de menor ampliação que permite visualizar as hemácias.
+
+\subsection*{Solução Técnica}
+
+A ampliação mínima necessária para visualizar as hemácias é dada por
+\[
+A_{min} = \frac{0,1 \text{ mm}}{0,007 \text{ mm}} \approx 14,29.
+\]
+
+Calculamos a ampliação total para cada lente objetiva combinada à ocular ($10\times$):
+\begin{itemize}
+  \item I: $10 \times 2 = 20$ (suficiente)
+  \item II: $10 \times 10 = 100$ (suficiente)
+  \item III: $10 \times 15 = 150$ (suficiente)
+  \item IV: $10 \times 1{,}1 = 11$ (insuficiente)
+  \item V: $10 \times 1{,}4 = 14$ (insuficiente)
+\end{itemize}
+
+A lente objetiva de menor ampliação que possibilita ultrapassar $14,29$ vezes é a lente I, que oferece ampliação total $20\times$. Portanto, a resposta correta é a letra \textbf{A}.
+
+\subsection*{Explicação Didática}
+
+Para visualizar objetos menores que o limite do olho humano, é necessário aumentar a imagem por meio de um microscópio. A ampliação total do sistema é o produto da ampliação da lente ocular pela da lente objetiva. Ao calcular a ampliação mínima necessária como a razão entre o limite da visão humana e o tamanho do objeto, e ao verificar as ampliações totais fornecidas pelas lentes combinadas, consegue-se identificar a menor lente objetiva que possibilita a visualização clara do objeto.
+
+\subsection*{Distratores}
+
+\begin{itemize}
+  \item \textbf{Letra B}: Escolhe a lente com ampliação grande sem considerar a menor possível.
+  \item \textbf{Letra C}: Escolha pela maior ampliação, mesmo desnecessária.
+  \item \textbf{Letra D}: Não considera ampliação total insuficiente.
+  \item \textbf{Letra E}: Aproximação insuficiente, leva a erro por dados arredondados.
+\end{itemize}
+
+\subsection*{Perfil da Questão}
+
+Questão que exige aplicação de conceitos de ampliação óptica, unidade de medida, multiplicação e análise quantitativa, com demanda cognitiva média. Requer atenção especial à conversão correta das unidades e ao entendimento do funcionamento do microscópio.
+
+\subsection*{Imagem do Microscópio}
+
+Imagem esquemática mostrando a lente ocular na parte superior e o conjunto de lentes objetivas dispostas em um porta-lentes giratório, ilustrando como a ampliação total é a combinação multiplicativa dessas lentes para ampliar a visualização do objeto observado.
+
+\end{document}

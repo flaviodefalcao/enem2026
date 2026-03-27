@@ -1,0 +1,125 @@
+{
+  "questionId": "enem-2024-q165",
+  "generatedAt": "2026-03-26T19:41:19.353Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 797,
+      "outputTokens": 983,
+      "estimatedCostUsd": 0.001892
+    },
+    "explainer": {
+      "inputTokens": 1693,
+      "outputTokens": 498,
+      "estimatedCostUsd": 0.001474
+    },
+    "reviewer": {
+      "inputTokens": 2603,
+      "outputTokens": 1139,
+      "estimatedCostUsd": 0.002864
+    },
+    "totalEstimatedCostUsd": 0.00623
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "3,00",
+      "correctnessClaim": "O cálculo está correto e coerente com os dados do enunciado e a imagem, considerando independência e o objetivo da nova probabilidade conjunta.",
+      "strategy": "Calcular probabilidade individual de estar no vermelho, multiplicar para probabilidade conjunta original. Ajustar a nova probabilidade conjunta desejada (4/100) e encontrar o novo tempo vermelho por meio de equação quadrática. Subtrair para achar redução.",
+      "steps": [
+        "Probabilidade original de vermelho em um sinal: 15/60 = 0,25.",
+        "Probabilidade conjunta original (independente): 0,25 * 0,25 = 0,0625.",
+        "Nova probabilidade conjunta desejada: 0,04.",
+        "Novo tempo vermelho para cada sinal = x; probabilidade individual será x/60.",
+        "Então, (x/60)^2 = 0,04.",
+        "Multiplicando, x^2 = 0,04*3600 = 144. Portanto x=12 segundos.",
+        "Redução = 15 - 12 = 3 segundos."
+      ],
+      "formulasUsed": [
+        "P(sinal vermelho) = tempo vermelho / ciclo total",
+        "P(ambos vermelhos) = P(sinal1 vermelho) * P(sinal2 vermelho) (independência)"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem que exibe nova probabilidade conjunta de 4/100 usada para formar a equação."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A questão envolve calcular a redução no tempo em vermelho de dois semáforos para que a probabilidade de um ônibus encontrar ambos sinais vermelhos seja 4%, usando independência e relação entre tempo e probabilidade.",
+      "stepByStep": [
+        "Calcular a probabilidade original de um sinal estar vermelho.",
+        "Calcular a probabilidade conjunta pela multiplicação, dada a independência.",
+        "Estabelecer a nova probabilidade conjunta desejada (4%).",
+        "Representar a nova probabilidade individual como x/60, com x o novo tempo vermelho.",
+        "Formar a equação (x/60)^2 = 0,04.",
+        "Resolver a equação para x.",
+        "Calcular a redução subtraindo o novo tempo do original."
+      ],
+      "commonPitfalls": [
+        "Confundir probabilidade individual com a conjunta.",
+        "Não multiplicar as probabilidades dos eventos independentes.",
+        "Erro ao extrair raiz quadrada da equação.",
+        "Usar valores de redução não consistentes com a nova probabilidade.",
+        "Misturar unidades de tempo e probabilidade nos cálculos."
+      ],
+      "teachingTips": [
+        "Reforçar o conceito de eventos independentes e multiplicação de probabilidades.",
+        "Mostrar a relação direta entre tempo do sinal vermelho e probabilidade de pegá-lo vermelho.",
+        "Demonstrar como montar e resolver a equação para obter o tempo reduzido.",
+        "Usar analogias para explicar raiz quadrada e sua necessidade na resolução.",
+        "Incentivar verificar consistência do resultado dada a condição do problema."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "1,35",
+        "likelyReasoning": "Erro na aplicação da raiz quadrada na proporcionalidade da nova probabilidade.",
+        "misconceptionType": "Erro de cálculo envolvendo proporcionalidade e raiz quadrada.",
+        "whyItLooksPlausible": "Parece uma redução pequena oriunda de interpretação incorreta da equação.",
+        "whyItIsWrong": "Não corresponde à probabilidade conjunta desejada de 4%."
+      },
+      {
+        "option": "9,00",
+        "likelyReasoning": "Confusão entre redução de tempo e probabilidade, aplicando subtração direta inadequada.",
+        "misconceptionType": "Confusão entre probabilidade e tempo.",
+        "whyItLooksPlausible": "Valor pareceria razoável se fosse diferença direta entre tempos.",
+        "whyItIsWrong": "Resultado gera probabilidade discrepante do valor requerido."
+      },
+      {
+        "option": "12,60",
+        "likelyReasoning": "Interpretação errada da escala de tempo e da fórmula, exagerando a redução.",
+        "misconceptionType": "Confusão na escala do tempo e interpretação da redução.",
+        "whyItLooksPlausible": "Redução quase total pode parecer lógica para reduzir muito probabilidade.",
+        "whyItIsWrong": "Resulta em tempo vermelho muito baixo, não alcançando a probabilidade desejada."
+      },
+      {
+        "option": "13,80",
+        "likelyReasoning": "Erro grosseiro trocando total do ciclo pelo tempo vermelho e cálculo incorreto.",
+        "misconceptionType": "Uso incorreto da fórmula e cálculo desproporcional.",
+        "whyItLooksPlausible": "Valor próximo ao total do ciclo parece drasticamente plausível para redução.",
+        "whyItIsWrong": "Leva a tempo vermelho demasiado pequeno, não consistente com a probabilidade estipulada."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Probabilidade e estatística",
+      "secondarySkills": [
+        "Raciocínio algébrico",
+        "Proporcionalidade",
+        "Interpretação de enunciados"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "Necessária compreensão da independência de eventos para multiplicar probabilidades.",
+        "Resolução envolve montar e resolver uma equação quadrática simples.",
+        "Uso da informação visual da nova probabilidade conjunta é essencial."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, análise técnica e explicação didática estão coerentes e convergentes. A imagem complementa o dado da nova probabilidade conjunta, crucial para a resolução. Os passos de solução e itens didáticos são consistentes e apropriados. Os distratores envolvem erros plausíveis e estão bem justificados.",
+      "issues": []
+    }
+  }
+}

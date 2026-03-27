@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:35:36.217Z",
+  "questionId": "enem-2024-q158",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Você deve calcular a quantidade de litros necessária para cobrir 20 hectares com cada tipo de defensivo, calcular os custos totais considerando os preços, a promoção e a máscara, e escolher a opção com menor custo total.",
+      "stepByStep": [
+        "Calcule os litros necessários para 20 hectares usando Tipo A (1 litro para 0,5 ha): 20 ÷ 0,5 = 40 litros.",
+        "Calcule os litros necessários para 20 hectares usando Tipo B (1 litro para 0,4 ha): 20 ÷ 0,4 = 50 litros.",
+        "Verifique a promoção para o Tipo A: ao comprar pelo menos 35 litros, a máscara é grátis. Como precisamos de 40 litros, a máscara é grátis comprando Tipo A.",
+        "Calcule o custo total comprando só Tipo A: 40 litros × R$4,20 = R$168,00, máscara grátis.",
+        "Calcule o custo total comprando só Tipo B: 50 litros × R$3,00 = R$150,00 + R$12,50 da máscara = R$162,50.",
+        "Compare os custos de Tipo A (R$168,00) e Tipo B (R$162,50). O menor custo é R$162,50, comprando Tipo B e máscara.",
+        "Considere se é vantajoso misturar defensivos; devido à promoção, não compensa comprar menos de 35 litros de Tipo A e o restante em Tipo B, pois a máscara terá custo e o total será maior.",
+        "Conclua que a melhor opção é comprar 50 litros de Tipo B e a máscara, totalizando R$162,50. "
+      ],
+      "commonPitfalls": [
+        "Subestimar a quantidade de litros necessária para cobrir 20 hectares, comprando menos litros do que o necessário.",
+        "Esquecer de somar o custo da máscara ao comprar o Tipo B, pois a promoção não se aplica a ele.",
+        "Assumir equivocadamente que comprar menos de 35 litros de Tipo A junto com Tipo B seria mais barato, sem considerar o custo da máscara.",
+        "Ignorar a comparação dos custos totais, considerando apenas o preço por litro.",
+        "Fazer arredondamentos errados nos cálculos dos litros necessários ou dos custos."
+      ],
+      "teachingTips": [
+        "Explique claramente a relação entre litros por hectare para que os alunos saibam calcular quantos litros são necessários para cobrir uma área.",
+        "Enfatize a importância de considerar todas as condições da promoção e como elas afetam o custo total.",
+        "Use tabelas para organizar preços, quantidades e custos em diferentes cenários para facilitar o entendimento.",
+        "Reforce a necessidade de comparar todas as opções possíveis para encontrar o custo mínimo, incluindo comprar somente um tipo ou mistura.",
+        "Estimule os alunos a pensar em situações práticas e econômicas, como a escolha certa para economizar dinheiro, usando raciocínio matemático aplicado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2286,
+    "outputTokens": 597,
+    "estimatedCostUsd": 0.00187
+  }
+}

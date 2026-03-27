@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:52:25.596Z",
+  "questionId": "enem-2024-q176",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para estimar a receita em 2026, utilizamos a reta de tendência do gráfico que mostra a receita anual da indústria entre 2014 e 2021. Calculamos a equação dessa reta com base em dois pontos conhecidos e depois substituímos o ano 2026 na equação para encontrar a estimativa da receita.",
+      "stepByStep": [
+        "Identifique dois pontos na reta de tendência para facilitar o cálculo. Por exemplo, use os anos 2014 com receita 3,5 milhões, e 2021 com receita 6,5 milhões.",
+        "Calcule o coeficiente angular (m) da reta que indica a taxa de crescimento anual da receita: m = (6,5 - 3,5) / (2021 - 2014) = 3 / 7 ≈ 0,43.",
+        "Determine o coeficiente linear (b) usando a equação da reta y = mx + b e um dos pontos. Exemplo: 3,5 = 0,43 × 2014 + b, logo, b ≈ 3,5 - 0,43×2014.",
+        "Monte a equação da reta: Receita = 0,43 × Ano + b.",
+        "Substitua o ano 2026 na equação para estimar a receita: Receita(2026) = 0,43 × 2026 + b.",
+        "Calcule e arredonde o resultado, obtendo aproximadamente 8 milhões de reais como estimativa para 2026.",
+        "Confirme visualmente no gráfico que essa estimativa está coerente com a projeção da reta para o ano 2026."
+      ],
+      "commonPitfalls": [
+        "Não calcular corretamente o coeficiente angular, o que leva a uma estimativa errada da inclinação da reta.",
+        "Usar apenas o valor inicial (2014) sem considerar o crescimento, subestimando o valor em 2026.",
+        "Superestimar a inclinação, pensando que a receita cresce muito rápido, o que leva a valores maiores que o real.",
+        "Fazer projeções muito além dos dados apresentados, sem verificar a coerência com a reta de tendência."
+      ],
+      "teachingTips": [
+        "Explique o conceito de coeficiente angular como taxa de variação que indica quanto a receita aumenta a cada ano.",
+        "Use exemplos concretos para mostrar como substituir valores na equação da reta para prever novos dados.",
+        "Incentive o aluno a sempre verificar se a estimativa faz sentido visualmente no gráfico.",
+        "Trabalhe com a simplificação de valores para facilitar as contas e verifique aproximações para reforçar o raciocínio.",
+        "Mostre a importância da extrapolação como ferramenta de previsão, mas também seus limites.",
+        "Utilize softwares ou calculadoras para reforçar a compreensão do cálculo da reta e suas aplicações."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2018,
+    "outputTokens": 571,
+    "estimatedCostUsd": 0.001721
+  }
+}

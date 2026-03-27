@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 180 -- ENEM 2024 -- Matemática}
+
+Um hospital possui 7 médicos cardiologistas e 6 médicos neurologistas. A direção quer formar uma equipe de 5 médicos para determinada atividade, sendo exigido que haja pelo menos 3 cardiologistas na equipe.
+
+\subsection*{Solução Técnica}
+Para atender à restrição de pelo menos 3 cardiologistas, consideramos as possíveis quantidades de cardiologistas que podem compor a equipe: 3, 4 ou 5.
+
+\begin{itemize}
+  \item Total de cardiologistas: 7
+  \item Total de neurologistas: 6
+  \item Tamanho da equipe: 5 médicos
+\end{itemize}
+
+Assim, o número total de equipes distintas é dado por:
+
+\[
+\binom{7}{3} \cdot \binom{6}{2} + \binom{7}{4} \cdot \binom{6}{1} + \binom{7}{5} \cdot \binom{6}{0}
+\]
+
+onde \(\binom{n}{k} = \frac{n!}{k!(n-k)!}\) é a combinação que calcula o número de formas de escolher \(k\) elementos entre \(n\).
+
+\subsection*{Explicação Didática}
+O enunciado exige que a equipe tenha pelo menos 3 cardiologistas, portanto precisamos somar todas as possibilidades que tenham de 3 até 5 cardiologistas.
+
+\begin{enumerate}
+  \item Quantidade total de cardiologistas e neurologistas no hospital.
+  \item Dividir o problema considerando 3, 4 e 5 cardiologistas na equipe.
+  \item Para cada caso, calcular a combinação de cardiologistas e de neurologistas necessárias para completar os 5 membros.
+  \item Somar os resultados dos casos para obter todas as possibilidades.
+\end{enumerate}
+
+\subsection*{Erros Comuns}
+\begin{itemize}
+  \item Considerar só uma quantidade exata de cardiologistas, por exemplo apenas 3, ignorando o total de possibilidades.
+  \item Confundir combinação com permutação, aplicando fórmulas erradas.
+  \item Somar e multiplicar as combinações de forma incorreta ou errar nas quantidades escolhidas.
+  \item Ignorar o termo "pelo menos", aplicando apenas uma condição fixa.
+\end{itemize}
+
+\subsection*{Dicas para Ensino}
+Ensinar com exemplos pequenos e recursos visuais, além de reforçar a distinção entre combinação e permutação, ajuda a fixar o conceito e a interpretar corretamente "pelo menos" como soma de casos.
+
+\subsection*{Análise dos Distratores}
+As alternativas apresentadas são:
+
+\begin{itemize}
+  \item[A)] Produto de arranjos/fatoriais não correspondentes à soma dos casos.
+  \item[B)] Multiplicação de combinações para a quantidade 3 cardiologistas e 2 neurologistas, sem somar outras possibilidades.
+  \item[C)] Soma da fórmula das combinações para as três situações, porém com erro na estrutura ou nos símbolos.
+\end{itemize}
+
+A alternativa que melhor representa a solução correta, ou se aproxima dela, é a alternativa C.
+
+\subsection*{Perfil da Questão}
+Questão de nível médio voltada para combinatória aplicada, exige interpretação de condições e soma de casos para obter o número total de possibilidades.
+
+\vspace{1em}
+
+\textbf{Resposta correta (aproximada nas alternativas apresentadas):} C
+
+\end{document}

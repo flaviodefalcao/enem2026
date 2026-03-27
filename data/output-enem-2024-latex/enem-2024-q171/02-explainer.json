@@ -1,0 +1,47 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:45:55.883Z",
+  "questionId": "enem-2024-q171",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar qual forma geométrica (triângulo equilátero, quadrado ou hexágono regular) resulta na maior área com o mesmo perímetro k, calculamos a área de cada figura em função de k e comparamos os valores. O hexágono regular tem a maior área, portanto o jardineiro deve escolher essa forma.",
+      "stepByStep": [
+        "Identifique que o perímetro k é o mesmo para todas as figuras.",
+        "Calcule o lado de cada polígono dividindo o perímetro pelo número de lados: triângulo equilátero lado = k/3, quadrado lado = k/4, hexágono regular lado = k/6.",
+        "Use as fórmulas das áreas para cada figura:",
+        "- Triângulo equilátero: Área = (lado² * √3)/4",
+        "- Quadrado: Área = lado²",
+        "- Hexágono regular: Área = (3√3/2) * lado²",
+        "Substitua o valor do lado em cada fórmula para obter a área em função de k.",
+        "Compare as expressões das áreas:",
+        "- Triângulo equilátero: (k²√3)/36 (~0,048k²)",
+        "- Quadrado: k²/16 (0,0625k²)",
+        "- Hexágono regular: (k²√3)/24 (~0,072k²)",
+        "Conclua que o hexágono regular tem a maior área para o perímetro dado k."
+      ],
+      "commonPitfalls": [
+        "Confundir as fórmulas das áreas dos polígonos regulares, especialmente do hexágono.",
+        "Não dividir corretamente o perímetro pelo número de lados para encontrar o lado de cada figura.",
+        "Comparar incorretamente as áreas sem expressá-las na mesma forma algébrica.",
+        "Aceitar valores errados ou exagerados para a área do hexágono como verdadeiros.",
+        "Escolher o quadrado ou triângulo por parecerem mais simples, sem conferir as áreas calculadas."
+      ],
+      "teachingTips": [
+        "Apresente as fórmulas das áreas de polígonos regulares claramente antes da resolução.",
+        "Explique a relação entre perímetro e lado para cada figura, reforçando que o perímetro é fixo.",
+        "Faça uso de aproximações numéricas para facilitar a comparação das áreas.",
+        "Enfatize a importância de transformar todas as áreas em função do mesmo parâmetro (k).",
+        "Utilize gráficos ou desenhos para ilustrar cada figura e intuitivamente mostrar que mais lados tende a maior área com perímetro fixo.",
+        "Incentive o aluno a sempre verificar as unidades e se há coerência nos cálculos.",
+        "Mostre casos práticos em que maximizar área com perímetro fixo é importante para fixar o conceito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2116,
+    "outputTokens": 569,
+    "estimatedCostUsd": 0.001757
+  }
+}

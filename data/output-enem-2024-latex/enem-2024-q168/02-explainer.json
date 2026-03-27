@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:43:27.181Z",
+  "questionId": "enem-2024-q168",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O gráfico correto mostra oscilações com amplitudes constantes em cada tipo de superfície, sendo que a amplitude no asfalto (primeiros 9 minutos) é menor que a amplitude na estrada de chão (últimos 11 minutos).",
+      "stepByStep": [
+        "Note que o experimento tem dois intervalos de tempo: 0 a 9 minutos (asfalto) e 9 a 20 minutos (estrada de chão).",
+        "Observe o gráfico e verifique se a amplitude da senoide é constante no intervalo de 0 a 9 minutos.",
+        "Confira se a amplitude é constante também no intervalo de 9 a 20 minutos.",
+        "Compare as amplitudes nos dois intervalos: a amplitude no asfalto deve ser menor do que na estrada de chão.",
+        "Escolha o gráfico que atende a esses critérios: amplitudes constantes em ambos os trechos e amplitude menor no asfalto."
+      ],
+      "commonPitfalls": [
+        "Confundir amplitude com frequência, pensando que oscilações mais rápidas significam amplitude maior.",
+        "Não verificar a constância da amplitude e escolher gráficos com amplitude variável.",
+        "Ignorar a condição de que a amplitude no asfalto deve ser menor que na estrada de chão.",
+        "Selecionar gráficos com amplitudes iguais nos dois intervalos, mesmo que constantes."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de amplitude: é a altura máxima da onda em relação ao eixo central.",
+        "Use exemplos visuais para demonstrar amplitude constante vs. variável.",
+        "Questione sobre a diferença entre amplitude e frequência para evitar confusões.",
+        "Peça para o aluno dividir o gráfico em intervalos de tempo e analisar cada trecho separadamente.",
+        "Estimule a comparação das amplitudes em diferentes partes do gráfico para entender as condições impostas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 3830,
+    "outputTokens": 354,
+    "estimatedCostUsd": 0.002098
+  }
+}

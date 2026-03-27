@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:36:13.799Z",
+  "questionId": "enem-2024-q159",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O fluxo de água (φ) é obtido dividindo a vazão (volume por tempo) pela área da membrana, pois φ é diretamente proporcional à vazão e inversamente proporcional à área. Assim, a unidade do fluxo é mililitro por segundo por centímetro quadrado, ou mL/(cm²·s).",
+      "stepByStep": [
+        "Identifique que a vazão está em mililitros por segundo (mL/s).",
+        "Reconheça que o fluxo φ é proporcional à vazão e inversamente proporcional à área da membrana em cm².",
+        "Expresse a fórmula do fluxo como φ = vazão / área.",
+        "Determine a unidade do fluxo dividindo (mL/s) por (cm²), resultando em mL/(cm²·s).",
+        "Compare as unidades com as alternativas e escolha a que corresponde a mL/(cm²·s)."
+      ],
+      "commonPitfalls": [
+        "Confundir multiplicação com divisão das unidades, levando a unidades incorretas.",
+        "Invertir a relação proporcional entre fluxo e área, usando multiplicação em vez de divisão.",
+        "Esquecer de combinar as unidades de volume, tempo e área corretamente.",
+        "Não prestar atenção à ordem das unidades e seus sinais na expressão final."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre grandezas diretamente e inversamente proporcionais usando exemplos visuais simples.",
+        "Pratique com os alunos a análise dimensional, mostrando como manipular unidades passo a passo.",
+        "Incentive os alunos a verificar a consistência das unidades para confirmar as expressões matemáticas.",
+        "Use analogias com situações cotidianas para ilustrar a relação entre vazão, área e fluxo.",
+        "Solicite que os alunos expressem as fórmulas em palavras antes de passar para as unidades, para melhor compreensão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1255,
+    "outputTokens": 368,
+    "estimatedCostUsd": 0.001091
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:47:49.910Z",
+  "questionId": "enem-2024-q173",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir em qual faixa etária está a maior probabilidade de um funcionário ser sorteado, calculamos o número total de funcionários em cada faixa somando os funcionários de todos os setores. A faixa com maior total indica a maior probabilidade.",
+      "stepByStep": [
+        "Identifique o número total de funcionários em cada setor: Administrativo (80), Logística (120) e Produção (200).",
+        "Multiplique a porcentagem de cada faixa etária em cada setor pelo total de funcionários desse setor para encontrar a quantidade absoluta em cada faixa.",
+        "Para a faixa 'Até 25 anos': 80×20% = 16 (Administrativo), 120×25% = 30 (Logística), 200×40% = 80 (Produção); total = 126.",
+        "Para a faixa 'Entre 25 e 45 anos': 80×30% = 24, 120×40% = 48, 200×35% = 70; total = 142.",
+        "Para a faixa 'A partir de 45 anos': 80×50% = 40, 120×35% = 42, 200×25% = 50; total = 132.",
+        "Compare os totais: 126, 142 e 132. A maior quantidade de funcionários está na faixa entre 25 e 45 anos.",
+        "Assim, a maior probabilidade é de o funcionário sorteado estar na faixa etária entre 25 e 45 anos."
+      ],
+      "commonPitfalls": [
+        "Confundir maiores percentuais com maior número total, ignorando o tamanho dos setores.",
+        "Somar diretamente percentuais de diferentes setores como se fossem acumulativos.",
+        "Considerar apenas o setor com mais funcionários sem calcular totais absolutos.",
+        "Interpretar tendências percentuais como probabilidades absolutas."
+      ],
+      "teachingTips": [
+        "Sempre reforce a importância de transformar porcentagens em valores absolutos para comparar dados.",
+        "Use gráficos de barras para mostrar visualmente a quantidade e as porcentagens, facilitando a compreensão.",
+        "Explique que probabilidade depende da quantidade absoluta relativa ao total do grupo.",
+        "Pratique problemas que envolvem soma ponderada para fortalecer o conceito de comparação entre grupos.",
+        "Enfatize a leitura cuidadosa dos dados do gráfico para evitar confusões entre categorias e valores relativos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2055,
+    "outputTokens": 470,
+    "estimatedCostUsd": 0.001574
+  }
+}

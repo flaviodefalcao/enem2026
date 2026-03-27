@@ -1,0 +1,105 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:34:41.782Z",
+  "questionId": "enem-2024-q156",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "Correta porque representa a fórmula V = 2,00 + 0,26T + 1,40D, que corresponde exatamente às condições dadas no problema.",
+        "strategy": "Identificar as variáveis e seus coeficientes e montar a expressão algébrica que representa o custo total da viagem.",
+        "steps": [
+          "Identificar que V depende da tarifa fixa F, do tempo T e da distância D.",
+          "Identificar os valores dados no enunciado: tarifa fixa F = 2,00 reais, custo por minuto = 0,26 reais, custo por quilômetro = 1,40 reais.",
+          "Construir a expressão: V = 2,00 + 0,26T + 1,40D.",
+          "Verificar nas alternativas qual expressão corresponde a essa fórmula."
+        ],
+        "formulasUsed": [
+          "V = F + 0,26T + 1,40D"
+        ],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O valor total a ser pago é a soma da tarifa fixa mais os custos proporcionais ao tempo e à distância percorridos.",
+        "stepByStep": [
+          "Compreender que o valor total V é composto por tarifa fixa, tempo de viagem e distância percorrida.",
+          "Identificar os valores numéricos correspondentes a tarifa fixa, custo por minuto e custo por quilômetro.",
+          "Formular a expressão algébrica somando a tarifa fixa mais os custos proporcionais (tempo e distância).",
+          "Checar qual alternativa corresponde exatamente a essa expressão."
+        ],
+        "commonPitfalls": [
+          "Confundir tarifa fixa com coeficiente multiplicado por variável.",
+          "Esquecer de multiplicar a distância pelo custo por quilômetro.",
+          "Ignorar a tarifa fixa e considerar apenas custos variáveis.",
+          "Representar a fórmula apenas com variáveis sem coeficientes numéricos."
+        ],
+        "teachingTips": [
+          "Utilizar exemplos numéricos para demonstrar a soma da tarifa fixa e custos variáveis.",
+          "Esclarecer distinção entre termos constantes e variáveis multiplicadas por coeficientes.",
+          "Estimular a construção de expressões algébricas a partir de situações concretas.",
+          "Reforçar compreensão das variáveis e coeficientes no contexto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confunde tarifa fixa como coeficiente multiplicando uma variável F.",
+          "misconceptionType": "Interpretação errada de variáveis e constantes",
+          "whyItLooksPlausible": "Utiliza todas as variáveis, sugerindo uma Receita plausível.",
+          "whyItIsWrong": "A tarifa fixa é valor somado, não multiplicado."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Ignora o coeficiente multiplicativo da distância.",
+          "misconceptionType": "Omissão de coeficiente",
+          "whyItLooksPlausible": "Inclui termos de tarifa e tempo, mas omite fator em D.",
+          "whyItIsWrong": "Subestima custo da distância ao não multiplicar por 1,40."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Esquece da tarifa fixa, considerando só custos variáveis.",
+          "misconceptionType": "Ignorar tarifa fixa",
+          "whyItLooksPlausible": "Parece razoável pagar só pelo uso efetivo da viagem.",
+          "whyItIsWrong": "Tarifa fixa obrigatória não está contemplada."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Usa só variáveis sem coeficientes numéricos, confundindo representação algébrica.",
+          "misconceptionType": "Equívoco na representação algébrica",
+          "whyItLooksPlausible": "Parece usar diretamente as variáveis do problema.",
+          "whyItIsWrong": "Não incorpora valores monetários, tornando a fórmula incorreta."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Construção e interpretação de expressões algébricas",
+        "secondarySkills": [
+          "Compreensão de problema contextualizado",
+          "Raciocínio quantitativo"
+        ],
+        "cognitiveDemand": "Low",
+        "difficultyEstimate": "low",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Enfatiza que tarifa fixa é valor somado.",
+          "Requer associação correta de coeficientes numéricos.",
+          "Alternativas testam a compreensão da estrutura algébrica."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O solver e o explainer estão coerentes entre si e alinhados com o enunciado. A resposta correta é explicitamente justificada e explicada. As alternativas incorretas são bem fundamentadas e condizentes. A explicação didática é clara, abrangendo aspectos importantes para o ensino. Não foram identificados erros ou omissões relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2115,
+    "outputTokens": 948,
+    "estimatedCostUsd": 0.002363
+  }
+}

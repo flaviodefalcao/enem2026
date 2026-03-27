@@ -1,0 +1,116 @@
+{
+  "questionId": "enem-2024-q151",
+  "generatedAt": "2026-03-26T19:31:36.564Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 552,
+      "outputTokens": 702,
+      "estimatedCostUsd": 0.001344
+    },
+    "explainer": {
+      "inputTokens": 1155,
+      "outputTokens": 493,
+      "estimatedCostUsd": 0.001251
+    },
+    "reviewer": {
+      "inputTokens": 2053,
+      "outputTokens": 1265,
+      "estimatedCostUsd": 0.002845
+    },
+    "totalEstimatedCostUsd": 0.00544
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A resposta correta é a alternativa E, 418,00 cm².",
+      "strategy": "Para resolver o problema, foi necessário entender a relação de escala entre a maquete e o prédio real, usando a escala 1:200 para áreas.",
+      "steps": [
+        "Identificar que a escala de 1:200 indica que 1 cm na maquete corresponde a 200 cm no prédio real.",
+        "Como a área é dada no prédio real (1.672 m²), converter metros quadrados para centímetros quadrados (1 m² = 10.000 cm²), portanto 1.672 m² = 16.720.000 cm².",
+        "Como a escala é linear (1:200), a escala para áreas é o quadrado da escala linear, ou seja, (1/200)² = 1/40.000.",
+        "Para encontrar a área na maquete, calcular 16.720.000 cm² * (1/40.000) = 418 cm²."
+      ],
+      "formulasUsed": [
+        "Área_maquete = Área_real × (escala_linear)²",
+        "1 m² = 10.000 cm²"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar a área do vão aberto na maquete, precisamos usar a relação de escala entre o modelo e o prédio real, lembrando que a escala linear 1:200 se aplica ao comprimento, mas para áreas devemos elevar essa escala ao quadrado. Assim, convertemos a área real para centímetros quadrados, aplicamos a escala ao quadrado e obtemos a área na maquete.",
+      "stepByStep": [
+        "Entenda que a escala 1:200 significa que 1 cm na maquete equivale a 200 cm (ou 2 metros) no prédio real.",
+        "Converta a área do vão real de metros quadrados para centímetros quadrados: 1 m² = 10.000 cm², então 1.672 m² = 1.672 × 10.000 = 16.720.000 cm².",
+        "Calcule a escala para área elevando a escala linear ao quadrado: (1/200)² = 1/40.000.",
+        "Multiplique a área real em cm² pela escala ao quadrado para encontrar a área na maquete: 16.720.000 × 1/40.000 = 418 cm².",
+        "Portanto, a área do vão aberto na maquete é 418 cm², que corresponde à alternativa E."
+      ],
+      "commonPitfalls": [
+        "Usar a escala linear diretamente para a área, sem elevar ao quadrado, levando a resultados errados e distorcidos.",
+        "Não converter corretamente as unidades de área de metros quadrados para centímetros quadrados antes de aplicar a escala.",
+        "Confundir a escala de comprimento com a escala de área, aplicando fatores errados.",
+        "Erro na multiplicação ou divisão ao aplicar o fator da escala ao quadrado."
+      ],
+      "teachingTips": [
+        "Reforce a diferença entre escala linear e escala para área, mostrando que, para áreas, a escala é o quadrado da escala linear.",
+        "Explique a importância de converter unidades antes de aplicar a escala para obter valores consistentes.",
+        "Use exemplos práticos para ilustrar como uma escala linear se traduz em escala para áreas (por exemplo, quadrados desenhados em escala).",
+        "Estimule os alunos a identificar o tipo de medida (comprimento, área, volume) para aplicarem a escala correta.",
+        "Realize exercícios que envolvam conversão de unidades e aplicação de escalas em contextos variados para fixar o conceito."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Converteu a área de maneira linear sem elevar ao quadrado a escala.",
+        "misconceptionType": "Erro de escala dimensional (usar escala linear para área).",
+        "whyItLooksPlausible": "Aumentou o valor, mas não usou o fator correto para áreas.",
+        "whyItIsWrong": "A escala para áreas deve ser o quadrado da escala linear; 4,18 cm² é muito pequeno para a área convertida."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Usou um fator incorreto para escala ou erro de cálculo similar ao da alternativa A.",
+        "misconceptionType": "Erro de escala dimensional em áreas.",
+        "whyItLooksPlausible": "A decisão errada de usar escala linear pode gerar valores próximos a esse.",
+        "whyItIsWrong": "Não considera que a escala de área é o quadrado da escala linear."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Aplicou parte do cálculo correto, mas com erro de transposição ou multiplicação.",
+        "misconceptionType": "Erro de conversão ou multiplicação.",
+        "whyItLooksPlausible": "Número intermediário pode parecer razoável para alunos sem domínio completo da escala.",
+        "whyItIsWrong": "Não corresponde ao valor correto dado pela relação de escala."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Divide ou multiplica erradamente por fatores relacionados à escala e unidades.",
+        "misconceptionType": "Confusão entre unidades e escalas.",
+        "whyItLooksPlausible": "Está próximo do valor correto, dando falsa sensação de acerto.",
+        "whyItIsWrong": "Não respeita o fator quadrático da escala e conversão correta de unidades."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e aplicação de escala em figuras geométricas",
+      "secondarySkills": [
+        "Conversão de unidades de medida",
+        "Operações com medidas de área"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Entender a diferença entre escala linear e escalar (área).",
+        "Conversão correta entre metros quadrados e centímetros quadrados.",
+        "Aplicação correta da relação de escala em áreas."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica está correta e consistente com o enunciado e o explicador. A resposta final e os passos são coerentes e adequados, assim como as explicações didáticas e descrições dos distratores. Não foram identificados erros ou incoerências relevantes.",
+      "issues": []
+    }
+  }
+}

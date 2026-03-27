@@ -1,0 +1,120 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 165 -- ENEM 2024 -- Matemática}
+
+\subsection*{Enunciado}
+Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Considerando que o instante de chegada de um ônibus a cada semáforo é aleatório, e que os eventos são independentes, deseja-se que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a \( \frac{4}{100} \).
+
+\subsection*{Solução Técnica}
+
+O problema apresenta semáforos que permanecem vermelhos durante um tempo determinado em cada ciclo e solicita a redução no tempo vermelho para que a probabilidade de um ônibus encontrar ambos os sinais vermelhos seja igual a 4%.\
+
+\textbf{Dados:}
+\begin{itemize}
+  \item Tempo total do ciclo: 60 segundos.
+  \item Tempo vermelho atual em cada sinal: 15 segundos.
+  \item Probabilidade atual de encontrar um sinal vermelho: \[ P_{atual} = \frac{15}{60} = 0,25. \]
+  \item Probabilidade conjunta atual (independentemente): \[ P_{conj\, atual} = 0,25 \times 0,25 = 0,0625 = 6,25\%. \]
+  \item Probabilidade conjunta desejada: \[ P_{conj\, nova} = \frac{4}{100} = 0,04. \]
+\end{itemize}
+
+\textbf{Cálculo:}
+
+Seja \(x\) o novo tempo vermelho por sinal. Logo, a probabilidade individual será \(\frac{x}{60}\). Assim, deve-se resolver a equação:
+
+\[
+\left(\frac{x}{60}\right)^2 = 0,04.
+\]
+Multiplicando por \(60^2=3600\), tem-se
+
+\[
+x^2 = 0,04 \times 3600 = 144.
+\]
+Portanto,
+
+\[
+x = \sqrt{144} = 12 \text{ segundos}.
+\]
+
+A redução do tempo vermelho será então:
+
+\[
+15 - 12 = 3 \text{ segundos}.
+\]
+
+\textbf{Resposta:} A redução no tempo de sinal vermelho estabelecida é \(\boxed{3,00}\) segundos.
+
+\subsection*{Formulas Utilizadas}
+\begin{itemize}
+  \item Probabilidade de sinal estar vermelho:
+  \[
+  P(\text{sinal vermelho}) = \frac{\text{tempo vermelho}}{\text{tempo total do ciclo}}.
+  \]
+  \item Probabilidade conjunta de sinais independentes:
+  \[
+  P(\text{ambos vermelhos}) = P(\text{sinal 1 vermelho}) \times P(\text{sinal 2 vermelho}).
+  \]
+\end{itemize}
+
+\subsection*{Evidência Visual Utilizada}
+A imagem fornecida apresenta a nova probabilidade conjunta desejada para ambos os sinais estarem vermelhos como \(\frac{4}{100}\), que foi fundamental para configurar a equação e definir o problema.
+
+\subsection*{Explicação Didática}
+
+\subsubsection*{Resumo}
+A questão envolve determinar a redução no tempo vermelho de dois semáforos para que a probabilidade de encontrar ambos os sinais vermelhos seja 4%, considerando independência e a relação direta entre tempo e probabilidade.
+
+\subsubsection*{Passo a passo}
+\begin{enumerate}
+  \item Calcular a probabilidade atual de um sinal estar vermelho.
+  \item Calcular a probabilidade conjunta pela multiplicação, dada a independência.
+  \item Definir a nova probabilidade conjunta desejada (4%).
+  \item Representar a nova probabilidade individual como \(\frac{x}{60}\), com \(x\) o novo tempo vermelho.
+  \item Montar a equação \(\left(\frac{x}{60}\right)^2 = 0,04\).
+  \item Resolver para \(x\).
+  \item Calcular a redução como \(15 - x\).
+\end{enumerate}
+
+\subsubsection*{Erros comuns}
+\begin{itemize}
+  \item Confundir probabilidade individual com conjunta.
+  \item Não multiplicar probabilidades ao tratar eventos independentes.
+  \item Erros no cálculo da raiz quadrada.
+  \item Usar reduções que não correspondem à nova probabilidade.
+  \item Misturar unidades durante o cálculo.
+\end{itemize}
+
+\subsubsection*{Dicas}
+\begin{itemize}
+  \item Reforce o conceito de multiplicação de probabilidades para eventos independentes.
+  \item Explique a relação direta entre tempo do sinal e probabilidade de parada.
+  \item Mostre detalhadamente a resolução da equação para o novo tempo.
+  \item Utilize analogias para compreender a raiz quadrada.
+  \item Incentive a verificação da consistência do resultado final.
+\end{itemize}
+
+\subsection*{Distratores Comuns}
+\begin{itemize}
+  \item \textbf{1,35 segundos}: erro na raiz quadrada na proporcionalidade; parece plausível mas não satisfaz a condição da probabilidade.
+  \item \textbf{9,00 segundos}: confunde redução de tempo com probabilidade, resultado incompatível com o problema.
+  \item \textbf{12,60 segundos}: erro na escala e interpretação, redução exagerada e inviável.
+  \item \textbf{13,80 segundos}: uso incorreto da fórmula, cálculo desproporcional, resultado incoerente.
+\end{itemize}
+
+\subsection*{Perfil da Questão}
+\begin{itemize}
+  \item Habilidade principal: Probabilidade e estatística.
+  \item Habilidades secundárias: Raciocínio algébrico, proporcionalidade, interpretação de texto.
+  \item Demanda cognitiva: Média.
+  \item Dificuldade: Média.
+  \item Exige interpretação visual: Sim.
+  \item Requer modelagem e cálculos: Sim.
+  \item Observações: importância da independência, resolução de equação quadrática simples e interpretação da probabilidade visual.
+\end{itemize}
+
+\end{document}

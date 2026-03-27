@@ -1,0 +1,125 @@
+{
+  "questionId": "enem-2024-q178",
+  "generatedAt": "2026-03-26T19:54:35.979Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 793,
+      "outputTokens": 847,
+      "estimatedCostUsd": 0.001672
+    },
+    "explainer": {
+      "inputTokens": 1556,
+      "outputTokens": 375,
+      "estimatedCostUsd": 0.001222
+    },
+    "reviewer": {
+      "inputTokens": 2336,
+      "outputTokens": 1347,
+      "estimatedCostUsd": 0.00309
+    },
+    "totalEstimatedCostUsd": 0.005984
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "62",
+      "correctnessClaim": "O valor correto da mediana é 62, com base no cálculo da mediana dos dados ordenados fornecidos.",
+      "strategy": "Identificar os valores das médias mensais da umidade relativa do ar, ordená-los em ordem crescente e calcular a mediana como a média dos dois valores centrais quando o número de dados é par.",
+      "steps": [
+        "Identificar os dados das médias mensais da umidade relativa do ar: 66, 64, 54, 46, 60, 64.",
+        "Ordenar os valores: 46, 54, 60, 64, 64, 66.",
+        "Como o número de elementos é par (6), a mediana é a média dos 3º e 4º elementos: (60 + 64) / 2.",
+        "Calcular a média: (60 + 64) / 2 = 124 / 2 = 62."
+      ],
+      "formulasUsed": [
+        "Mediana para número par de elementos = (elemento_n/2 + elemento_(n/2 + 1)) / 2"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela com os meses e a média mensal da umidade relativa do ar.",
+        "Valores extraídos da tabela: 66, 64, 54, 46, 60, 64."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A mediana é o valor central que divide o conjunto de dados ordenados em duas partes iguais. Para um número par de dados, a mediana é a média dos dois valores centrais.",
+      "stepByStep": [
+        "Liste os valores da umidade relativa do ar: 66, 64, 54, 46, 60, 64.",
+        "Ordene esses valores em ordem crescente: 46, 54, 60, 64, 64, 66.",
+        "Identifique que há 6 dados (número par), então a mediana será a média dos dois valores centrais (3º e 4º elementos).",
+        "Calcule a média desses dois valores centrais: (60 + 64) ÷ 2 = 62.",
+        "Assim, a mediana dos dados é 62%."
+      ],
+      "commonPitfalls": [
+        "Não ordenar corretamente os dados antes de calcular a mediana.",
+        "Confundir o cálculo da mediana para número par de elementos, usando apenas um dos valores centrais.",
+        "Erro ao identificar quais são os dois valores centrais em uma lista com número par de dados.",
+        "Arredondar incorretamente o resultado da média dos valores centrais."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre mediana para conjuntos com número ímpar e par de elementos.",
+        "Utilize exemplos práticos para mostrar a necessidade de ordenar os dados antes de encontrar a mediana.",
+        "Faça exercícios práticos com conjuntos de dados simples para fixar o conceito de mediana.",
+        "Incentive o uso da calculadora para aumentar a precisão no cálculo da média dos valores centrais.",
+        "Mostre a relação da mediana com outras medidas de tendência central, como a média e a moda, para contextualizar o conceito."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "56",
+        "likelyReasoning": "Confundiram a posição dos dados centrais ou aplicaram incorretamente a fórmula da mediana.",
+        "misconceptionType": "Erro de ordenação ou escolha incorreta dos elementos centrais para mediana.",
+        "whyItLooksPlausible": "56 é próximo da média geral dos valores, podendo ser confundido com a mediana.",
+        "whyItIsWrong": "Após ordenação, 56 não está entre os valores centrais e não representa a mediana correta."
+      },
+      {
+        "option": "58",
+        "likelyReasoning": "Tentativa incorreta de calcular a média dos valores centrais para mediana.",
+        "misconceptionType": "Erro no cálculo da média entre os valores centrais da mediana.",
+        "whyItLooksPlausible": "Fica entre os valores centrais dos dados ordenados e pode parecer uma boa média.",
+        "whyItIsWrong": "A média correta dos valores centrais (60 e 64) é 62, não 58."
+      },
+      {
+        "option": "59",
+        "likelyReasoning": "Erro de arredondamento ou seleção incorreta dos valores centrais para cálculo da mediana.",
+        "misconceptionType": "Erro de arredondamento ou seleção incorreta de valores para mediana.",
+        "whyItLooksPlausible": "59 está entre os dados centrais (60 e 64) e pode parecer razoável.",
+        "whyItIsWrong": "A média exata dos dois valores centrais é 62, que não arredonda para 59."
+      },
+      {
+        "option": "62",
+        "likelyReasoning": "Cálculo correto da mediana pela média dos dois valores centrais da lista ordenada.",
+        "misconceptionType": "Nenhum erro, resposta correta segundo o cálculo rigoroso da mediana.",
+        "whyItLooksPlausible": "Obtido diretamente pela fórmula correta da mediana para número par de dados.",
+        "whyItIsWrong": "Resposta correta; nenhum erro."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de dados estatísticos",
+      "secondarySkills": [
+        "Organização e ordenação de dados",
+        "Cálculo da mediana"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Exige compreensão do conceito de mediana para número par de elementos.",
+        "Requer organização dos dados fornecidos visualmente em ordem crescente.",
+        "Implica calcular a média dos dois valores centrais para determinar a mediana."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved_with_notes",
+      "summary": "A resolução e a explicação da questão estão corretas e coerentes com os dados apresentados. O valor correto da mediana é 62, conforme cálculo correto da média dos dois valores centrais da lista ordenada. Entretanto, há um erro na solução técnica ao indicar que a resposta correta é 60 e na justificativa associá-la à alternativa D. Ajusta-se para refletir o valor 62 como resposta correta. A presença desse erro deve ser corrigida para manter a coerência entre resposta final, análise e gabarito da questão.",
+      "issues": [
+        {
+          "severity": "high",
+          "field": "technicalSolution.finalAnswer e correctnessClaim",
+          "description": "A resposta final indica 60 e diz que corresponde à alternativa D, mas o cálculo correto mostra que a mediana é 62.",
+          "suggestedFix": "Corrigir resposta final para 62 e atualizar o texto de correctnessClaim para gerar consistência com os cálculos e gabarito da prova."
+        }
+      ]
+    }
+  }
+}

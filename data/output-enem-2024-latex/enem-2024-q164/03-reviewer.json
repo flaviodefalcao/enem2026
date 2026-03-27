@@ -1,0 +1,114 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:40:42.653Z",
+  "questionId": "enem-2024-q164",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A distância entre o hospital e cada um dos postos de saúde está entre 5 e 6 km.",
+        "correctnessClaim": "Alta, pois a solução usa propriedades geométricas de triângulos equiláteros e cálculo das alturas do triângulo baseado na distância de 10 km entre os pontos.",
+        "strategy": "Identificar que os três postos de saúde P₁, P₂ e P₃ formam um triângulo equilátero de lado 10 km. O hospital H está localizado de forma que suas distâncias até os três postos sejam iguais, o que indica que H é o centro do triângulo equilátero. Portanto, H é o ponto de interseção das alturas, ou centroide, do triângulo equilátero. Calcular a distância do centro do triângulo a um dos vértices, que corresponde à distância do hospital a um posto de saúde.",
+        "steps": [
+          "Reconhecer que P₁, P₂ e P₃ formam um triângulo equilátero de lado 10 km.",
+          "Saber que o ponto H está à mesma distância dos três postos, o que implica que H é o centro do triângulo equilátero.",
+          "Calcular a altura do triângulo equilátero de lado 10 km usando a fórmula da altura: h = (l√3)/2, onde l = 10 km.",
+          "Calcular a distância do centro ao vértice como 2/3 da altura (distância do centroide ao vértice).",
+          "Calcular essa distância: (2/3) * (10√3/2) = (10√3)/3 ≈ 5.77 km.",
+          "Concluir que a distância entre o hospital e cada posto está entre 5 e 6 km."
+        ],
+        "formulasUsed": [
+          "Altura do triângulo equilátero: h = (l√3)/2",
+          "Distância do centroide ao vértice: (2/3)*h"
+        ],
+        "visualEvidenceUsed": [
+          "Triângulo equilátero formado pelos pontos P₁, P₂, P₃ com lados marcados de 10 km",
+          "Marcações que indicam que H está equidistante dos três postos",
+          "Setas indicando distâncias iguais entre pontos"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Os três postos formam um triângulo equilátero de lado 10 km. O hospital está no ponto equidistante dos três, isto é, no centroide do triângulo. A distância do hospital a cada posto é o segmento que vai do centroide ao vértice do triângulo, calculado como 2/3 da altura do triângulo. Essa distância fica entre 5 e 6 km.",
+        "stepByStep": [
+          "Identifique que os pontos P₁, P₂ e P₃ formam um triângulo equilátero com lados de 10 km.",
+          "Saiba que o ponto H representa o hospital e está equidistante dos três postos, logo é o centroide do triângulo.",
+          "Calcule a altura do triângulo equilátero usando a fórmula h = (l√3)/2, com l=10 km, resultando em h = 5√3 km.",
+          "O centroide fica a 2/3 da altura do triângulo em relação ao vértice, então calcule a distância HG = (2/3)*h = (2/3)*5√3 = (10√3)/3 ≈ 5,77 km.",
+          "Conclua que a distância do hospital a cada posto está entre 5 e 6 km."
+        ],
+        "commonPitfalls": [
+          "Confundir o ponto H com o pé de uma altura do triângulo, levando a cálculo errado da distância.",
+          "Achar que a distância do hospital aos postos é metade do lado do triângulo, subestimando o valor.",
+          "Pensar que o hospital está fora do triângulo, levando a valores maiores que o correto.",
+          "Confundir a altura total com a distância do centroide ao vértice.",
+          "Interpretar erroneamente a distância como sendo igual ao lado do triângulo."
+        ],
+        "teachingTips": [
+          "Reforce as propriedades do triângulo equilátero e seus centros notáveis (circuncentro, baricentro, incentro) que coincidem nesse caso.",
+          "Explique a fórmula da altura do triângulo equilátero e a relação da posição do baricentro em relação à altura.",
+          "Use gráficos para mostrar o centroide e as distâncias iguais até os vértices.",
+          "Estimule o cálculo passo a passo da altura e proporção da distância do centroide ao vértice.",
+          "Mostre erros comuns para que os alunos compreendam a importância da localização exata do hospital."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode-se pensar que, porque o hospital está dentro do triângulo formado pelos postos, a distância até os postos será menor que a metade do lado do triângulo.",
+          "misconceptionType": "Confusão sobre localização do ponto equidistante e suas distâncias relativas",
+          "whyItLooksPlausible": "Os números pequenos parecem coerentes para uma distância entre pontos dentro de um triângulo.",
+          "whyItIsWrong": "Subestima a distância real, pois o hospital está perto do centro, não perto do meio dos lados."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode-se calcular a altura do triângulo equilátero e considerar que o hospital está exatamente na altura, acreditando que isso define a distância.",
+          "misconceptionType": "Confusão entre a altura do triângulo e a distância do centro ao vértice",
+          "whyItLooksPlausible": "O valor 5 é próximo do valor correto e aparece nas etapas de cálculo da altura do triângulo.",
+          "whyItIsWrong": "Não considera que o hospital está no centro do triângulo (centroide) cuja distância ao vértice é maior que a altura dividida por 2."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Acha que a distância é maior que a altura do triângulo porque o hospital não está dentro do triângulo.",
+          "misconceptionType": "Interpretação incorreta da posição do hospital e distâncias",
+          "whyItLooksPlausible": "A distância maior parece compatível com um ponto fora do triângulo.",
+          "whyItIsWrong": "Pela equidistância e localização, o hospital está dentro do triângulo."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Confunde a distância dos lados do triângulo com distâncias maiores até o hospital, pensando que a distância seja quase o lado do triângulo.",
+          "misconceptionType": "Interpretação errada da relação entre os pontos e distâncias",
+          "whyItLooksPlausible": "Olhando para o triângulo com lados 10 km, o valor próximo a 10 pode parecer adequado.",
+          "whyItIsWrong": "Distância ao hospital não pode ser igual ao lado do triângulo, pois hospital está dentro do triângulo."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Geometria plana",
+        "secondarySkills": [
+          "Propriedades dos triângulos equiláteros",
+          "Cálculo de distâncias no plano"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Requer conhecimento sobre triângulos equiláteros e centros notáveis (centroide)",
+          "Exige cálculo da altura do triângulo e proporção para encontrar distância ao centro"
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si e alinhados com a imagem do enunciado que apresenta um triângulo equilátero com lados de 10 km e o ponto H equidistante dos vértices. A resposta final está correta e bem fundamentada. As estratégias, fórmulas e raciocínios usados estão adequados e claros. Os distractores são plausíveis e têm justificativas consistentes. A dificuldade e perfil cognitivo estão bem estimados. Não foram identificados problemas importantes de consistência ou coerência.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3108,
+    "outputTokens": 1704,
+    "estimatedCostUsd": 0.00397
+  }
+}

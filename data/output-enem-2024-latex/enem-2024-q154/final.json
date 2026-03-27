@@ -1,0 +1,116 @@
+{
+  "questionId": "enem-2024-q154",
+  "generatedAt": "2026-03-26T19:33:14.156Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 897,
+      "outputTokens": 653,
+      "estimatedCostUsd": 0.001404
+    },
+    "explainer": {
+      "inputTokens": 1450,
+      "outputTokens": 329,
+      "estimatedCostUsd": 0.001106
+    },
+    "reviewer": {
+      "inputTokens": 2181,
+      "outputTokens": 977,
+      "estimatedCostUsd": 0.002436
+    },
+    "totalEstimatedCostUsd": 0.004946
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "19,8",
+      "correctnessClaim": "Correto, o cálculo da média aritmética com os valores do enunciado está correto, resultando em aproximadamente 19,8 minutos com uma casa decimal.",
+      "strategy": "Calcular a média aritmética dos tempos apresentados na tabela, somando todos os tempos e dividindo pelo número total de serviços.",
+      "steps": [
+        "Somar os tempos listados: 36 + 17 + 27 + 13 + 13 + 13 = 119",
+        "Dividir a soma pelo número total de serviços (6)",
+        "Obter o resultado da divisão: 119 ÷ 6 = 19,8333...",
+        "Arredondar o resultado para uma casa decimal: 19,8"
+      ],
+      "formulasUsed": [
+        "Média aritmética = Soma dos valores ÷ Número de valores"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela com os tempos para leitura completa de contratos dos serviços A a F."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular o tempo médio necessário para ler os contratos, deve-se somar todos os tempos e dividir pelo número de contratos, representando assim o valor médio esperado.",
+      "stepByStep": [
+        "Identificar na tabela os tempos: 36, 17, 27, 13, 13 e 13 minutos.",
+        "Somar todos esses valores obtendo 119 minutos.",
+        "Contar o número de serviços, que é 6.",
+        "Dividir a soma total pelo número de serviços: 119 ÷ 6 = 19,8333...",
+        "Arredondar o resultado para uma casa decimal, obtendo 19,8 minutos."
+      ],
+      "commonPitfalls": [
+        "Confundir média com mediana ou moda e escolher valores centrais sem calcular a média.",
+        "Esquecer de incluir todos os valores na soma ou dividir pelo número errado de serviços.",
+        "Arredondar incorretamente ou esquecer de arredondar o resultado final.",
+        "Pensar que o tempo médio é simplesmente o menor ou maior valor da lista."
+      ],
+      "teachingTips": [
+        "Explicar que média é a soma dos valores dividida pela quantidade total de valores.",
+        "Orientar a leitura atenta dos dados na tabela antes de realizar cálculos.",
+        "Destacar a importância de arredondar corretamente e mostrar como fazer isso.",
+        "Elucidar as diferenças entre média, mediana e moda para evitar confusões."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolher o menor valor da lista, confundindo-o com a média.",
+        "misconceptionType": "Confusão entre média e valores individuais",
+        "whyItLooksPlausible": "O valor 13 aparece várias vezes, fazendo parecer uma média provável.",
+        "whyItIsWrong": "A média deve considerar todos os valores, não apenas os menores."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Erro no cálculo da média, possivelmente somando ou dividindo incorretamente.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "É próximo da média correta, mas resultado de cálculo errado.",
+        "whyItIsWrong": "O valor real calculado é maior que 15, então está incorreto."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir mediana com média e escolher o valor central na lista.",
+        "misconceptionType": "Confusão entre média e mediana",
+        "whyItLooksPlausible": "Valor frequente e central é 13, que pode parecer representativo.",
+        "whyItIsWrong": "O problema necessita da média aritmética, não da mediana."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confundir a soma total com a média ou erro na divisão dos valores.",
+        "misconceptionType": "Erro conceitual na média",
+        "whyItLooksPlausible": "23,3 pode parecer razoável se interpretar errado os cálculos.",
+        "whyItIsWrong": "Com os dados dados, a média correta não atinge esse valor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de média aritmética",
+      "secondarySkills": [
+        "Interpretação de tabela",
+        "Operações aritméticas básicas"
+      ],
+      "cognitiveDemand": "Baixo a médio - requer cálculo simples e interpretação de dados tabulares",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Requer leitura e compreensão de tabela simples.",
+        "Presume conhecimento básico de média aritmética.",
+        "Envolve operações aritméticas simples e arredondamento."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, o solver e o explainer estão coerentes entre si e consistentes com a imagem da tabela apresentada. O cálculo da média está correto, bem como a explicação didática e os distratores são plausíveis e bem justificados.",
+      "issues": []
+    }
+  }
+}

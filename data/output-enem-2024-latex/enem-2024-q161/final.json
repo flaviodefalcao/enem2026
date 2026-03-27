@@ -1,0 +1,136 @@
+{
+  "questionId": "enem-2024-q161",
+  "generatedAt": "2026-03-26T19:38:25.556Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 2935,
+      "outputTokens": 1233,
+      "estimatedCostUsd": 0.003147
+    },
+    "explainer": {
+      "inputTokens": 4101,
+      "outputTokens": 683,
+      "estimatedCostUsd": 0.002733
+    },
+    "reviewer": {
+      "inputTokens": 5203,
+      "outputTokens": 2013,
+      "estimatedCostUsd": 0.005302
+    },
+    "totalEstimatedCostUsd": 0.011182
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B representa corretamente o gráfico que descreve a maior altura da coluna de água na medida do tempo de enchimento do tanque.",
+      "strategy": "Analisar a geometria do tanque e os anteparos para determinar a sequência de enchimento dos compartimentos e suas alturas máximas ao longo do tempo, relacionando o volume de líquido acumulado a essa altura máxima que varia com o tempo, considerando a vazão constante e divisão da base em três retângulos congruentes.",
+      "steps": [
+        "O tanque tem altura H, largura L e profundidade que não é dada, mas não é necessária pois se considera volume e alturas relativas.",
+        "Existem dois anteparos que dividem a base em três retângulos congruentes, ou seja, cada um com largura L/3 e comprimento igual ao do tanque.",
+        "As alturas dos anteparos são H/2 e H/4, instalados em paredes opostas e perpendiculares a elas.",
+        "Ao começar a encher o tanque com vazão constante, a água preenche inicialmente o compartimento com maior altura máxima, até atingir H/4.",
+        "Enquanto o primeiro compartimento atinge altura H/4, a maior altura instantânea da coluna de água é essa altura H/4.",
+        "Quando o primeiro compartimento está cheio até H/4, a água começa a subir no segundo compartimento, limitado a altura H/2, que é maior que H/4.",
+        "Durante essa etapa, o nível no primeiro compartimento não aumenta, porque o anteparo maior limita a passagem da água para o terceiro compartimento.",
+        "Assim, a maior altura da coluna de água permanece constante entre os tempos em que o primeiro compartimento enche até H/4 e o segundo compartimento enche até H/2.",
+        "Após o segundo compartimento atingir altura H/2, o terceiro, que não possui anteparo limitando em altura, começa a encher até a altura total H do tanque.",
+        "Por fim, a água sobe no terceiro compartimento até a altura total H do tanque, completando o enchimento.",
+        "O gráfico dessa altura máxima da coluna de água contra o tempo apresenta três segmentos: uma subida rápida até H/4 (primeiro compartimento cheio), trecho constante até H/2 (segundo compartimento enchendo), e subida final até H (terceiro compartimento enchendo).",
+        "O tempo total é 12 horas, distribuído proporcionalmente aos volumes de cada compartimento e suas alturas, respeitando a vazão constante."
+      ],
+      "formulasUsed": [
+        "Volume = área da base × altura",
+        "Vazão constante implica volume acumulado linear no tempo"
+      ],
+      "visualEvidenceUsed": [
+        "Figura que mostra o tanque retangular, com dois anteparos verticais internamente dividindo a base em três retângulos congruentes",
+        "As alturas dos anteparos indicados em H/2 e H/4",
+        "Gráficos das alternativas A a E relacionados à altura da maior coluna de água conforme o tempo"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O tanque é dividido em três compartimentos por dois anteparos com alturas diferentes, fazendo com que a água encha primeiro o compartimento com anteparo mais baixo, depois o com anteparo mais alto, e por último o compartimento sem anteparo limitador. Isso gera um gráfico da maior altura da coluna de água com três fases: subida rápida até 1/4 da altura, fase constante até 1/2 da altura, e subida final até a altura total do tanque.",
+      "stepByStep": [
+        "Identifique que o tanque é dividido em três partes iguais na base, cada uma com largura L/3.",
+        "Note que existem dois anteparos verticais com alturas H/4 e H/2, instalados em posições que limitam a água em cada compartimento.",
+        "O tanque é preenchido com vazão constante, então o volume de água cresce linearmente com o tempo.",
+        "Inicialmente, a água enche o primeiro compartimento até a altura do anteparo menor, que é H/4.",
+        "Enquanto o primeiro compartimento enche até H/4, a maior altura da coluna de água sobe linearmente até H/4.",
+        "Após atingir H/4 no primeiro compartimento, a água começa a subir no segundo compartimento, limitado a altura H/2.",
+        "Nessa fase, o nível do primeiro compartimento não aumenta, pois o anteparo com altura maior impede a passagem da água para o terceiro compartimento.",
+        "Durante o enchimento do segundo compartimento, a maior altura da coluna de água permanece constante em H/4 até começar a subir no segundo compartimento, chegando a H/2.",
+        "Depois que o segundo compartimento atinge H/2, a água enche o terceiro compartimento, que não é limitado em altura e sobe até H.",
+        "A altura da maior coluna de água tem então três fases distintas no gráfico: subida até H/4, platô entre H/4 e H/2, e subida final até H.",
+        "Como o enchimento total dura 12 horas, o tempo gasto em cada fase está proporcional ao volume de água necessário para encher os compartimentos nessas alturas."
+      ],
+      "commonPitfalls": [
+        "Confundir a ordem de enchimento dos compartimentos e suas alturas limites.",
+        "Pensar que a água sobe simultaneamente em todos os compartimentos, sem respeitar os anteparos.",
+        "Interpretar incorretamente o gráfico, imaginando quedas ou mais de um platô sem justificativa.",
+        "Desconsiderar que a vazão é constante e, portanto, o volume total cresce linearmente com o tempo.",
+        "Não levar em conta que os volumes dos compartimentos são proporcionais às áreas da base e alturas até os anteparos."
+      ],
+      "teachingTips": [
+        "Use modelos físicos ou simulações para ilustrar o enchimento gradual em compartimentos limitados por anteparos.",
+        "Ensine a relação entre volume, área da base e altura para entender o comportamento do nível da água.",
+        "Explique a importância dos anteparos como barreiras que limitam a passagem da água e influenciam a altura da coluna de água.",
+        "Mostre como interpretar gráficos que relacionam medidas físicas (altura) com variáveis como o tempo, enfatizando as fases diferentes no processo.",
+        "Proponha exercícios similares com volumes divididos por diferentes barreiras para reforçar o conceito da sequência de enchimento."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Considera que a altura máxima aumenta rapidamente até H/4, permanece constante e depois aumenta até o final, porém o tempo nos estágios está incorreto, confundindo as alturas de anteparos.",
+        "misconceptionType": "Erro na interpretação dos níveis parciais de enchimento e duração de cada etapa.",
+        "whyItLooksPlausible": "O gráfico apresenta uma fase de platô, correspondendo a um compartimento cheio e um aumento posterior, o que parece razoável.",
+        "whyItIsWrong": "O momento em que a altura permanece constante está demasiadamente curto em relação ao real volume dos compartimentos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Considera que a altura fica constante por muito tempo e só sobem próximo do final, não interpretando corretamente as alturas relativas dos anteparos.",
+        "misconceptionType": "Confusão sobre a ordem e tempo de enchimento dos compartimentos.",
+        "whyItLooksPlausible": "Há uma fase de nível constante, o que condiz com algum anteparo controlando a subida da água.",
+        "whyItIsWrong": "A porção rápida de enchimento inicial é menor do que deveria e o tempo final de subida é muito curto, contradizendo a divisão de volumes."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpreta que várias etapas da altura permanecem constantes sem crescimento, o que implicaria volumes iguais e vazamento não explicado.",
+        "misconceptionType": "Incorreta compreensão da vazão constante e volume progressivo de enchimento.",
+        "whyItLooksPlausible": "Os níveis constantes sugerem zonas bloqueadas pela altura dos anteparos.",
+        "whyItIsWrong": "Não respeita o período de aumento linear esperado em vazão constante nas partes sem limitações."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Mistura comportamentos decrescentes e crescentes de altura, contradizendo o fato de que o tanque só está sendo cheio (altura não pode diminuir).",
+        "misconceptionType": "Erro conceitual sobre o comportamento da altura em enchimento constante.",
+        "whyItLooksPlausible": "Apresenta variações em altura que podem sugerir compartimentos distintos.",
+        "whyItIsWrong": "A altura não pode diminuir durante o enchimento, portanto as quedas no gráfico são inválidas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de gráficos e funções",
+      "secondarySkills": [
+        "Geometria espacial",
+        "Raciocínio proporcional",
+        "Matemática aplicada a grandezas e medidas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar corretamente a configuração geométrica do tanque e o efeito dos anteparos na distribuição do volume e alturas.",
+        "Exige a compreensão da relação entre volume acumulado, vazão constante e altura variável em compartimentos divididos por anteparos com diferentes alturas.",
+        "Requer análise crítica dos gráficos candidatos para comparar com o comportamento esperado do sistema."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica e a explicação didática estão consistentes entre si e com o enunciado da questão e os gráficos apresentados. A justificativa para a escolha da alternativa B está correta e fundamentada, respeitando a geometria descrita e o comportamento esperado do processo de enchimento. Os distractores são adequadamente analisados, apontando erros comuns que podem induzir a escolha incorreta.",
+      "issues": []
+    }
+  }
+}

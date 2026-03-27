@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:46:52.597Z",
+  "questionId": "enem-2024-q172",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir em qual câmera os ônibus se encontram, calculamos o tempo em que eles se cruzam usando a soma das velocidades e distância total, determinamos a posição do encontro e verificamos qual câmera cobre essa posição no percurso de 9000 metros. O encontro ocorre na área da câmera IV.",
+      "stepByStep": [
+        "Calcule a velocidade relativa dos ônibus somando suas velocidades: 250 m/min + 150 m/min = 400 m/min.",
+        "Use a fórmula do movimento uniforme para encontrar o tempo de encontro: tempo = distância / velocidade relativa = 9000 m / 400 m/min = 22,5 minutos.",
+        "Calcule a distância percorrida pelo ônibus A até o encontro: 250 m/min × 22,5 min = 5625 metros a partir do Terminal 1.",
+        "Determine os trechos cobertos por cada câmera, em metros, com base nas frações do percurso total de 9000 m: Câmera I (0 a 1800 m), Câmera II (1800 a 4500 m), Câmera III (4500 a 5400 m), Câmera IV (5400 a 6300 m), Câmera V (6300 a 9000 m).",
+        "Como 5625 metros está entre 5400 e 6300 metros, o encontro ocorre na área da câmera IV. Portanto, a câmera que registra o encontro é a IV."
+      ],
+      "commonPitfalls": [
+        "Confundir o sentido de percurso dos ônibus e calcular errado a velocidade relativa.",
+        "Não transformar as frações em valores em metros para identificar corretamente o alcance de cada câmera.",
+        "Considerar que o encontro ocorre próximo ao início ou fim do percurso, sem calcular efetivamente o ponto de encontro.",
+        "Ignorar que os ônibus partem simultaneamente de terminais opostos com velocidades diferentes."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de velocidade relativa para objetos movendo-se em direções opostas.",
+        "Pratique conversão de frações do percurso para medidas em metros para facilitar visualização.",
+        "Use esquemas ou desenhos simples para mostrar o trajeto e os alcances das câmeras.",
+        "Enfatize a importância de calcular passo a passo: tempo de encontro, posição no trajeto e identificação do trecho correspondente no gráfico.",
+        "Estimule os alunos a verificar se a soma das posições dos dois ônibus confere com a distância total, para validar os cálculos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1941,
+    "outputTokens": 496,
+    "estimatedCostUsd": 0.00157
+  }
+}

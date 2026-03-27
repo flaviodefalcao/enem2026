@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão ENEM 2024 - Análise da Questão de Matemática}
+
+Uma empresa possui 400 funcionários divididos em três setores: Administrativo, Logística e Produção. O gráfico apresenta a distribuição percentual dos funcionários em cada setor por faixa etária: Até 25 anos (vermelho), Entre 25 e 45 anos (amarelo) e A partir de 45 anos (azul).
+
+\section{Solução Técnica}
+
+Para determinar a maior probabilidade de sorteio em uma faixa etária, é necessário calcular o número absoluto de funcionários em cada faixa considerando todos os setores.
+
+\subsection{Dados do problema}
+\begin{itemize}
+  \item Total de funcionários por setor:
+  \begin{itemize}
+    \item Administrativo: 80
+    \item Logística: 120
+    \item Produção: 200
+  \end{itemize}
+  \item Percentuais de faixas etárias por setor (gráfico):
+  \begin{itemize}
+    \item Até 25 anos: Administrativo 20\%, Logística 25\%, Produção 40\%
+    \item Entre 25 e 45 anos: Administrativo 30\%, Logística 40\%, Produção 35\%
+    \item A partir de 45 anos: Administrativo 50\%, Logística 35\%, Produção 25\%
+  \end{itemize}
+\end{itemize}
+
+\subsection{Cálculo dos funcionários por faixa etária}
+\begin{align*}
+\text{Até 25 anos} &= 80 \times 0,20 + 120 \times 0,25 + 200 \times 0,40 = 16 + 30 + 80 = 126 \\
+\text{Entre 25 e 45 anos} &= 80 \times 0,30 + 120 \times 0,40 + 200 \times 0,35 = 24 + 48 + 70 = 142 \\
+\text{A partir de 45 anos} &= 80 \times 0,50 + 120 \times 0,35 + 200 \times 0,25 = 40 + 42 + 50 = 132
+\end{align*}
+
+\subsection{Análise}
+A faixa etária \textbf{Entre 25 e 45 anos} possui o maior número absoluto de funcionários (142), logo a maior probabilidade do sorteio recair sobre essa faixa.
+
+\section{Explicação Didática}
+
+A interpretação da probabilidade depende do número absoluto de funcionários em cada faixa, obtida pela multiplicação das porcentagens de cada setor pelo número total de funcionários do setor e, em seguida, somando-se os resultados para todas as faixas.
+
+\section{Erros comuns}
+Confundir porcentagens com valores absolutos e ignorar o total de funcionários por setor, assim como somar percentuais diretamente sem considerar o tamanho dos grupos.
+
+\section{Distratores}
+Alternativas erradas podem surgir ao se considerar apenas os maiores percentuais de um setor menor ou somar incorretamente percentuais sem peso dos setores.
+
+\section{Perfil da Questão}
+Essa questão exige interpretação visual do gráfico, cálculo de porcentagem, somatório ponderado e análise probabilística básica com nível de dificuldade médio.
+
+\end{document}

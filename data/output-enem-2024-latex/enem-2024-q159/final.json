@@ -1,0 +1,111 @@
+{
+  "questionId": "enem-2024-q159",
+  "generatedAt": "2026-03-26T19:36:32.090Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 745,
+      "outputTokens": 622,
+      "estimatedCostUsd": 0.001293
+    },
+    "explainer": {
+      "inputTokens": 1255,
+      "outputTokens": 368,
+      "estimatedCostUsd": 0.001091
+    },
+    "reviewer": {
+      "inputTokens": 2028,
+      "outputTokens": 1108,
+      "estimatedCostUsd": 0.002584
+    },
+    "totalEstimatedCostUsd": 0.004968
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta.",
+      "strategy": "Analisar a relação entre as grandezas envolvidas (vazão e área) e suas unidades para determinar a unidade correta do fluxo.",
+      "steps": [
+        "A vazão de água na tubulação é dada em mililitros por segundo (mL/s).",
+        "O fluxo φ da água é diretamente proporcional à vazão (mL/s) e inversamente proporcional à área da membrana (cm²).",
+        "Portanto, a fórmula geral para o fluxo é φ = (vazão) / (área), o que implica que a unidade do fluxo é (mL/s)/(cm²).",
+        "Simplificando, a unidade do fluxo é mL / (cm² · s).",
+        "Analisando as alternativas apresentadas, apenas a alternativa C apresenta essa unidade, mL/(cm²·s)."
+      ],
+      "formulasUsed": [
+        "φ ∝ vazão / área"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa C mostrando a unidade mL/(cm²·s)"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O fluxo de água (φ) é obtido dividindo a vazão (volume por tempo) pela área da membrana, pois φ é diretamente proporcional à vazão e inversamente proporcional à área. Assim, a unidade do fluxo é mililitro por segundo por centímetro quadrado, ou mL/(cm²·s).",
+      "stepByStep": [
+        "Identifique que a vazão está em mililitros por segundo (mL/s).",
+        "Reconheça que o fluxo φ é proporcional à vazão e inversamente proporcional à área da membrana em cm².",
+        "Expresse a fórmula do fluxo como φ = vazão / área.",
+        "Determine a unidade do fluxo dividindo (mL/s) por (cm²), resultando em mL/(cm²·s).",
+        "Compare as unidades com as alternativas e escolha a que corresponde a mL/(cm²·s)."
+      ],
+      "commonPitfalls": [
+        "Confundir multiplicação com divisão das unidades, levando a unidades incorretas.",
+        "Invertir a relação proporcional entre fluxo e área, usando multiplicação em vez de divisão.",
+        "Esquecer de combinar as unidades de volume, tempo e área corretamente.",
+        "Não prestar atenção à ordem das unidades e seus sinais na expressão final."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre grandezas diretamente e inversamente proporcionais usando exemplos visuais simples.",
+        "Pratique com os alunos a análise dimensional, mostrando como manipular unidades passo a passo.",
+        "Incentive os alunos a verificar a consistência das unidades para confirmar as expressões matemáticas.",
+        "Use analogias com situações cotidianas para ilustrar a relação entre vazão, área e fluxo.",
+        "Solicite que os alunos expressem as fórmulas em palavras antes de passar para as unidades, para melhor compreensão."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confusão na multiplicação das unidades ao invés de divisão, resultando em uma unidade incorreta.",
+        "misconceptionType": "Erro conceitual em análise dimensional",
+        "whyItLooksPlausible": "Mantém as unidades relacionadas às grandezas envolvidas mas misturadas de forma errada.",
+        "whyItIsWrong": "Multiplica as unidades em vez de dividir, o que não segue a formulação do problema."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Considera a vazão corretamente, mas multiplica pela área ao invés de dividir, invertendo a relação com a área.",
+        "misconceptionType": "Erro conceitual nas relações de proporcionalidade",
+        "whyItLooksPlausible": "Apresenta unidades compatíveis com as grandezas de volume e área.",
+        "whyItIsWrong": "De acordo com a regra, o fluxo é inversamente proporcional à área, portanto deve haver divisão."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Inverte a relação entre unidades, colocando área e tempo no numerador e vazão no denominador sem lógica física.",
+        "misconceptionType": "Confusão na análise dimensional e formulação da expressão do fluxo",
+        "whyItLooksPlausible": "Inclui todas as unidades envolvidas na questão, porém na ordem incorreta.",
+        "whyItIsWrong": "Não respeita a relação de proporcionalidade direta e inversa corretamente, portanto unidade incorreta."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise dimensional",
+      "secondarySkills": [
+        "Razão e proporção",
+        "Grandezas físicas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Envolve entendimento de grandezas diretamente e inversamente proporcionais.",
+        "Requer manipulação de unidades físicas e análise dimensional.",
+        "As alternativas estão apresentadas apenas em unidades, demandando foco na interpretação das relações de proporcionalidade."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica está correta e coerente com o enunciado e as imagens das alternativas. A explicação didática complementa bem a solução técnica, detalhando o raciocínio e os cuidados para evitar erros. As razões para a escolha da alternativa C são claras e fundamentadas. Os distractores também estão bem justificados, apontando erros comuns plausíveis. A questão exige interpretação visual das unidades nas alternativas, o que foi considerado. Não foram identificados problemas de inconsistência ou erro entre as partes.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:34:51.273Z",
+  "questionId": "enem-2024-q157",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "24,00",
+      "correctnessClaim": "A resposta correta é a alternativa C, pois atende à condição dada de manter o valor total pago pelo cliente constante.",
+      "strategy": "Calcular o valor total pago atualmente, igualar ao valor total pago após a alteração da taxa de entrega com o novo valor por porção, e resolver a equação para encontrar o novo valor.",
+      "steps": [
+        "Calcular o total pago atualmente: 5 porções a R$25,00 cada + taxa de entrega de R$10,00 = 5*25 + 10 = R$135,00.",
+        "Calcular o total a ser pago após a mudança: 5 porções a preço novo + taxa de entrega de R$15,00 = 5*x + 15.",
+        "Igualar os totais para manter o valor de compra: 5*x + 15 = 135.",
+        "Isolar x: 5*x = 135 - 15 = 120.",
+        "Calcular novo valor por porção: x = 120/5 = 24.",
+        "Portanto, o novo valor por porção será R$24,00."
+      ],
+      "formulasUsed": [
+        "Total pago atual = (Preço por porção atual * quantidade) + taxa de entrega atual",
+        "Total pago novo = (Preço por porção novo * quantidade) + taxa de entrega nova",
+        "Total pago atual = Total pago novo"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "12,50",
+        "likelyReasoning": "Dividir o valor total pelo dobro da quantidade, confundindo o efeito da taxa de entrega.",
+        "misconceptionType": "Erro de interpretação da taxa fixa versus preço unitário",
+        "whyItLooksPlausible": "Parece uma divisão simples do custo total por porção, ignorando a taxa de entrega.",
+        "whyItIsWrong": "Não considera a taxa fixa de entrega corretamente e o objetivo de manter o custo total igual."
+      },
+      {
+        "option": "20,00",
+        "likelyReasoning": "Descontar o aumento da taxa de entrega diretamente do preço original por porção simetricamente.",
+        "misconceptionType": "Confusão na compensação do aumento da taxa com redução linear do preço por porção",
+        "whyItLooksPlausible": "Parece que o preço por porção foi reduzido para equilibrar o aumento da taxa.",
+        "whyItIsWrong": "O cálculo correto mostra que a redução deve ser diferente para manter o valor total constante."
+      },
+      {
+        "option": "30,00",
+        "likelyReasoning": "Aumentar o preço por porção para compensar o aumento da taxa de entrega apesar do valor total fixo.",
+        "misconceptionType": "Ignorar que o valor total deve permanecer o mesmo, apenas ajustando preços para cima.",
+        "whyItLooksPlausible": "Preço maior parece lógico para cobrir custos maiores da taxa.",
+        "whyItIsWrong": "Ao manter o valor total, o preço por porção não pode aumentar tanto."
+      },
+      {
+        "option": "37,50",
+        "likelyReasoning": "Multiplicar diretamente o novo valor da taxa de entrega pelo preço original por porção sem proporcionalidade.",
+        "misconceptionType": "Erro na proporcionalidade do preço e taxa fixa",
+        "whyItLooksPlausible": "O valor elevado parece vinculado ao aumento da taxa de entrega.",
+        "whyItIsWrong": "Não é proporcional e não satisfaz a condição de manter o valor total constante."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Resolução de equações e sistemas lineares",
+      "secondarySkills": [
+        "Interpretação de problemas do cotidiano",
+        "Operações básicas com números reais"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão envolve traduzir uma situação do cotidiano em uma equação linear simples.",
+        "É necessário entender que a taxa de entrega é fixa e deve ser considerada integralmente.",
+        "Exige manipulação algébrica para isolar a variável e encontrar o novo preço."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 588,
+    "outputTokens": 805,
+    "estimatedCostUsd": 0.001523
+  }
+}

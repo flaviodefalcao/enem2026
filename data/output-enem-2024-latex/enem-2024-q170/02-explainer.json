@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:44:57.896Z",
+  "questionId": "enem-2024-q170",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A magnitude na escala Richter está relacionada à energia liberada por um terremoto através de uma fórmula que envolve logaritmo. Sabendo que o primeiro terremoto tem magnitude 6,9 e que sua energia é um décimo da energia do segundo, utilizamos a fórmula para encontrar a magnitude do segundo terremoto, que resulta em aproximadamente 7,6.",
+      "stepByStep": [
+        "Identifique a fórmula fornecida: M₂ - M₁ = (2/3) * log(E₂ / E₁), onde o logaritmo é na base 10.",
+        "Sabemos que M₁ = 6,9 e que a energia do primeiro terremoto E₁ é um décimo da energia do segundo E₂, ou seja, E₁ = (1/10) * E₂.",
+        "Substitua E₂ / E₁ na fórmula: E₂ / E₁ = E₂ / ((1/10) * E₂) = 10.",
+        "Calcule o logaritmo: log(10) = 1 (base 10).",
+        "Substitua na fórmula: M₂ - 6,9 = (2/3) * 1 = 2/3 ≈ 0,6667.",
+        "Isolando M₂, temos: M₂ = 6,9 + 0,6667 = 7,5667.",
+        "Arredonde para uma casa decimal: M₂ ≈ 7,6."
+      ],
+      "commonPitfalls": [
+        "Confundir a relação entre energias e valores das magnitudes, usando a fórmula de forma invertida.",
+        "Usar logaritmo natural (ln) em vez do logaritmo decimal (base 10).",
+        "Esquecer de que a energia E₁ é um décimo da energia E₂, trocando os valores no cálculo do logaritmo.",
+        "Erros no arredondamento final que levam a respostas incorretas.",
+        "Interpretar mal a fórmula e subtrair valores quando deveria somar."
+      ],
+      "teachingTips": [
+        "Explique claramente a relação logarítmica entre magnitude e energia, ressaltando a importância da base do logaritmo.",
+        "Reforce o conceito de logaritmo na base 10 e pratique cálculos simples para fixar o conceito.",
+        "Trabalhe com exemplos de razões entre energias para entendimento da fórmula.",
+        "Ensine a identificar informações importantes no enunciado, como a relação entre as energias E₁ e E₂.",
+        "Mostre passo a passo como manipular a fórmula para isolar a incógnita e realizar o cálculo final.",
+        "Oriente os alunos a sempre verificar a coerência do resultado, principalmente na ordem de grandeza e arredondamento."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1476,
+    "outputTokens": 559,
+    "estimatedCostUsd": 0.001485
+  }
+}

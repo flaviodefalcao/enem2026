@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 142 — ENEM 2024 — Matemática}
+
+Uma criança, utilizando um aplicativo, escreveu uma mensagem para um amigo. Esta mensagem foi produzida seguindo etapas descritas abaixo:
+
+\begin{itemize}
+  \item Na 1\textordfeminine{} etapa, inseriu três figuras do tipo 🙂 no visor da mensagem.
+  \item Na 2\textordfeminine{} etapa, copiou o que havia escrito na etapa anterior e colou ao lado, duplicando as figuras.
+  \item Na 3\textordfeminine{} etapa, repetiu o processo, copiando e colando o conteúdo da etapa imediatamente anterior, e assim sucessivamente até a 20\textordfeminine{} etapa.
+\end{itemize}
+
+\noindent \textbf{Pergunta:} Qual o total de figuras contidas na mensagem enviada na 20\textordfeminine{} etapa?
+
+\section*{Resolução Técnica}
+
+A quantidade de figuras dobra a cada etapa, iniciando com 3 na primeira. Para determinar o total na etapa $n$, usa-se a fórmula da progressão geométrica:
+
+\[
+a_n = 3 \times 2^{n-1}.
+\]
+
+Assim, para a 20\textordfeminine{} etapa:
+
+\[
+a_{20} = 3 \times 2^{19}.
+\]
+
+\section*{Explicação Didática}
+
+O processo inicia com 3 figuras, que são duplicadas a cada nova etapa, configurando uma progressão geométrica de razão 2. Esta sequência é representada por $a_n = 3 \times 2^{n-1}$. O cálculo para a etapa 20 gera o resultado final pedido.
+
+\section*{Erros Comuns e Distratores}
+
+Algumas alternativas incorretas podem surgir por:
+
+\begin{itemize}
+  \item Usar expoente 20 em vez de 19.
+  \item Aplicar alterações sem base, como subtrações indevidas.
+  \item Confundir índices de expoentes.
+\end{itemize}
+
+\section*{Perfil da Questão}
+
+Esta questão avalia a habilidade de reconhecer e aplicar progressão geométrica, com demanda cognitiva média e necessidade de interpretar sequências numéricas e manipular expoentes.
+
+\section*{Tabela do Enunciado (Imagem 1 Descritiva)}
+
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{Etapas} & \textbf{Visor de escrita} \\
+\hline
+1\textordfeminine{} etapa: inseriu três figuras 🙂 no visor da mensagem; & 🙂 🙂 🙂 \\
+\hline
+2\textordfeminine{} etapa: copiou o que havia inserido anteriormente e colou ao lado; & 🙂 🙂 🙂 🙂 🙂 🙂 \\
+\hline
+3\textordfeminine{} etapa: copiou o que estava no visor na 2\textordfeminine{} etapa e colou ao lado; & 🙂 🙂 🙂 🙂 🙂 🙂 🙂 🙂 🙂 🙂 🙂 🙂 \\
+\hline
+\end{tabular}
+
+\bigskip
+
+Este padrão mostra claramente que a cada etapa, o número de figuras dobra, confirmando o modelo matemático apresentado.
+
+
+\end{document}

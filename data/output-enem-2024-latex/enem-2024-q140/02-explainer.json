@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:21:46.841Z",
+  "questionId": "enem-2024-q140",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir os conceitos de João e Felipe, primeiro calculamos quantas questões cada um acertou, usando as porcentagens dadas, e depois verificamos em qual intervalo de conceito cada porcentagem se encaixa.",
+      "stepByStep": [
+        "João acertou 75% das 200 questões. Calculamos o número de acertos dele multiplicando: 0,75 × 200 = 150.",
+        "Felipe acertou 30% a menos que João, ou seja, ele acertou 30% menos do que 150 questões: 150 − 0,30 × 150 = 105 questões.",
+        "Para encontrar a porcentagem de acertos de Felipe, dividimos o número de acertos pelo total de questões e multiplicamos por 100: (105 / 200) × 100% = 52,5%.",
+        "Agora, verificamos os conceitos: João com 75% está no intervalo 75 ≤ P < 90, que corresponde a 'muito bom'. Felipe, com 52,5%, está no intervalo 50 ≤ P < 60, que significa 'regular'.",
+        "Portanto, os conceitos são: João - muito bom; Felipe - regular."
+      ],
+      "commonPitfalls": [
+        "Interpretar '30% a menos' como subtrair 30 pontos percentuais direto da porcentagem de João (75% − 30% = 45%), em vez de calcular 30% da quantidade de questões e subtrair.",
+        "Confundir os intervalos dos conceitos, por exemplo, achar que 75% está na categoria 'bom' quando na verdade está em 'muito bom'.",
+        "Não calcular corretamente a porcentagem de Felipe após encontrar a quantidade de acertos, levando a um conceito errado.",
+        "Arredondar de forma imprecisa o percentual de Felipe e classificá-lo incorretamente."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre reduzir uma quantidade em 30% e subtrair 30 pontos percentuais de uma porcentagem.",
+        "Use exemplos práticos com números para mostrar como calcular porcentagens de quantidades e depois o percentual final.",
+        "Reforce o entendimento de intervalos numéricos e como identificar a qual categoria certa um número pertence.",
+        "Estimule os alunos a fazerem os cálculos passo a passo e a conferirem em cada etapa para evitar erros cumulativos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1537,
+    "outputTokens": 483,
+    "estimatedCostUsd": 0.001388
+  }
+}

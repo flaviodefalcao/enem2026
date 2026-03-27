@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:34:56.687Z",
+  "questionId": "enem-2024-q157",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão pede para manter o custo total de uma compra de 5 porções de docinhos constante, mesmo com o aumento da taxa de entrega. Para isso, precisamos encontrar o novo preço por porção ajustando o valor pago por cada docinho para equilibrar o custo extra da entrega.",
+      "stepByStep": [
+        "Calcule o custo total atual: 5 porções x R$25,00 + R$10,00 (taxa) = R$135,00.",
+        "Estabeleça uma equação para o custo total com o novo preço: 5 porções x novo preço + R$15,00 (nova taxa) = R$135,00.",
+        "Subtraia a nova taxa: 5 x novo preço = 135 - 15 = 120.",
+        "Divida ambos os lados por 5 para encontrar o novo preço por porção: novo preço = 120 ÷ 5 = R$24,00.",
+        "Assim, o novo preço por porção será R$24,00 para manter o custo total igual."
+      ],
+      "commonPitfalls": [
+        "Ignorar o aumento da taxa de entrega e manter o preço antigo por porção.",
+        "Diminuir o preço por porção demais, calculando errado a compensação pela taxa.",
+        "Somar a nova taxa em vez de igualar os totais para encontrar o novo preço.",
+        "Confundir o preço por porção com a taxa fixa, tratando-os da mesma forma."
+      ],
+      "teachingTips": [
+        "Use exemplos concretos para mostrar como o custo total é formado por preço unitário vezes quantidade mais a taxa fixa.",
+        "Estimule os alunos a escreverem a equação que representa a situação antes de resolver.",
+        "Mostre a importância de equilibrar ambos os lados da equação para manter o valor constante.",
+        "Explique a distinção clara entre valores fixos (taxa de entrega) e variáveis (preço por porção)."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1301,
+    "outputTokens": 392,
+    "estimatedCostUsd": 0.001148
+  }
+}

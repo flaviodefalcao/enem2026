@@ -1,0 +1,103 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:37:13.284Z",
+  "questionId": "enem-2024-q160",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "5500",
+        "correctnessClaim": "A resposta correta é a alternativa D, 5 500 litros por minuto.",
+        "strategy": "Calcular o tempo de enchimento da primeira piscina usando sua capacidade e vazão; depois calcular o tempo da segunda piscina, que é 20% maior; por fim, determinar a vazão da segunda piscina usando sua capacidade dividida pelo novo tempo.",
+        "steps": [
+          "Calcular o tempo para encher a primeira piscina: tempo1 = 2.500.000 litros ÷ 6.000 litros/minuto = 416,67 minutos.",
+          "Calcular o tempo para encher a segunda piscina, que é 20% maior: tempo2 = 416,67 minutos × 1,20 = 500 minutos.",
+          "Calcular a vazão do sistema da segunda piscina: vazao2 = capacidade da segunda piscina ÷ tempo2 = 2.750.000 litros ÷ 500 minutos = 5.500 litros/minuto."
+        ],
+        "formulasUsed": [
+          "tempo = volume ÷ vazão",
+          "vazão = volume ÷ tempo"
+        ],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A questão trata da relação entre vazão, volume e tempo, onde a vazão é a quantidade de água por minuto que enche a piscina. Sabemos que o tempo para encher é volume dividido pela vazão. Como o tempo da segunda piscina é 20% maior, a vazão dela deve ser menor, pois o volume é maior e o tempo é maior. Assim, calculamos o tempo da primeira piscina, aumentamos em 20%, e depois achamos a vazão da segunda piscina dividindo seu volume pelo novo tempo.",
+        "stepByStep": [
+          "Calcule o tempo para encher a primeira piscina usando a fórmula tempo = volume ÷ vazão: tempo1 = 2.500.000 ÷ 6.000 = 416,67 minutos.",
+          "Aumente esse tempo em 20% para encontrar o tempo para a segunda piscina: tempo2 = 416,67 × 1,20 = 500 minutos.",
+          "Calcule a vazão da segunda piscina usando vazão = volume ÷ tempo: vazao2 = 2.750.000 ÷ 500 = 5.500 litros por minuto."
+        ],
+        "commonPitfalls": [
+          "Confundir a relação entre tempo e vazão, pensando que se o tempo aumenta, a vazão também aumenta, quando na verdade é inversa.",
+          "Aplicar o aumento de 20% diretamente na vazão em vez do tempo.",
+          "Não ajustar o tempo para o aumento percentual antes de calcular a nova vazão.",
+          "Fazer arredondamentos incorretos que desviam do resultado exato."
+        ],
+        "teachingTips": [
+          "Reforce o conceito de grandezas inversamente proporcionais: se o tempo aumenta, a vazão diminui, desde que o volume mude ou não.",
+          "Utilize exemplos práticos para explicar o que significa vazão e tempo em contextos reais.",
+          "Ensine a identificar claramente qual variável é afetada pelo percentual dado no problema.",
+          "Estimule o aluno a organizar os dados e as fórmulas antes de começar os cálculos para evitar erros de interpretação."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "8250",
+          "likelyReasoning": "Multiplicou a vazão da primeira piscina por 1,375, possivelmente confundindo com um aumento de vazão em vez de tempo.",
+          "misconceptionType": "Inversão da relação entre vazão e tempo",
+          "whyItLooksPlausible": "Parece uma resposta que considera aumento, mas aplicando de forma errada a relação entre vazão e tempo.",
+          "whyItIsWrong": "A vazão deve diminuir se o tempo aumenta, então não pode ser maior que 6.000 litros/min."
+        },
+        {
+          "option": "7920",
+          "likelyReasoning": "Aplicou algum percentual errado ou calculou vazão usando aumento direto de 20% sem considerar inversa proporcionalidade.",
+          "misconceptionType": "Erro na proporcionalidade inversa",
+          "whyItLooksPlausible": "Parece próximo do valor inicial, sugerindo um cálculo de porcentagem direto.",
+          "whyItIsWrong": "A vazão e o tempo são grandezas inversamente proporcionais; aumento do tempo implica diminuição da vazão."
+        },
+        {
+          "option": "6545",
+          "likelyReasoning": "Tentou arredondar ou aplicar uma redução percentual incorreta na vazão.",
+          "misconceptionType": "Cálculo impreciso da proporcionalidade",
+          "whyItLooksPlausible": "Valor intermediário que poderia parecer razoável ao tentar ajustar a vazão.",
+          "whyItIsWrong": "Não resulta do cálculo correto envolvendo o tempo 20% maior e volumes."
+        },
+        {
+          "option": "5280",
+          "likelyReasoning": "Realizou uma redução de 12% da vazão, talvez confundindo o percentual de tempo com o de vazão.",
+          "misconceptionType": "Confusão entre percentual de tempo e vazão",
+          "whyItLooksPlausible": "Número próximo e fácil de confundir com cálculo percentual errado.",
+          "whyItIsWrong": "O correto é considerar que o tempo aumentou 20%, logo a vazão diminui proporcionalmente, e o valor exato é 5.500."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Raciocínio Proporcional",
+        "secondarySkills": [
+          "Cálculo com unidades de medida",
+          "Interpretação de problemas matemáticos"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Envolve conceito de grandezas inversamente proporcionais.",
+          "Requer boa compreensão de relação entre vazão, volume e tempo."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si. A resposta correta de 5.500 litros por minuto está corretamente justificada e explicada, com todos os cálculos claros e corretos. Não há contradições ou omissões significativas. Os distractores são bem detalhados e condizentes com erros comuns relacionados ao tema.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2019,
+    "outputTokens": 1255,
+    "estimatedCostUsd": 0.002816
+  }
+}

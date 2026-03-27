@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:40:15.306Z",
+  "questionId": "enem-2024-q164",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os três postos formam um triângulo equilátero de lado 10 km. O hospital está no ponto equidistante dos três, isto é, no centroide do triângulo. A distância do hospital a cada posto é o segmento que vai do centroide ao vértice do triângulo, calculado como 2/3 da altura do triângulo. Essa distância fica entre 5 e 6 km.",
+      "stepByStep": [
+        "Identifique que os pontos P₁, P₂ e P₃ formam um triângulo equilátero com lados de 10 km.",
+        "Saiba que o ponto H representa o hospital e está equidistante dos três postos, logo é o centroide do triângulo.",
+        "Calcule a altura do triângulo equilátero usando a fórmula h = (l√3)/2, com l=10 km, resultando em h = 5√3 km.",
+        "O centroide fica a 2/3 da altura do triângulo em relação ao vértice, então calcule a distância HG = (2/3)*h = (2/3)*5√3 = (10√3)/3 ≈ 5,77 km.",
+        "Conclua que a distância do hospital a cada posto está entre 5 e 6 km."
+      ],
+      "commonPitfalls": [
+        "Confundir o ponto H com o pé de uma altura do triângulo, levando a cálculo errado da distância.",
+        "Achar que a distância do hospital aos postos é metade do lado do triângulo, subestimando o valor.",
+        "Pensar que o hospital está fora do triângulo, levando a valores maiores que o correto.",
+        "Confundir a altura total com a distância do centroide ao vértice.",
+        "Interpretar erroneamente a distância como sendo igual ao lado do triângulo."
+      ],
+      "teachingTips": [
+        "Reforce as propriedades do triângulo equilátero e seus centros notáveis (circuncentro, baricentro, incentro) que coincidem nesse caso.",
+        "Explique a fórmula da altura do triângulo equilátero e a relação da posição do baricentro em relação à altura.",
+        "Use gráficos para mostrar o centroide e as distâncias iguais até os vértices.",
+        "Estimule o cálculo passo a passo da altura e proporção da distância do centroide ao vértice.",
+        "Mostre erros comuns para que os alunos compreendam a importância da localização exata do hospital."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2188,
+    "outputTokens": 513,
+    "estimatedCostUsd": 0.001696
+  }
+}

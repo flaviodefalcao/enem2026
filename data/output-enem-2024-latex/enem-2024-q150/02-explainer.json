@@ -1,0 +1,43 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:30:31.245Z",
+  "questionId": "enem-2024-q150",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para escolher a loja com o menor custo, precisamos calcular quantas colunas cada loja vende para cobrir os 3 metros do piso, respeitando o espaçamento máximo entre colunas e paredes. Depois, multiplicamos a quantidade de colunas pelo preço unitário e comparamos os valores. A loja III oferece o menor custo total.",
+      "stepByStep": [
+        "Identifique o lado menor do piso, que mede 3 metros (300 cm), onde serão alinhadas as colunas.",
+        "Cada coluna tem um raio dado por loja, e o diâmetro é o dobro do raio.",
+        "Os vãos máximos permitidos entre as colunas e entre as colunas e as paredes são de 15 cm.",
+        "Portanto, a distância mínima entre os centros de duas colunas consecutivas é o diâmetro da coluna mais 30 cm (15 cm de vão de cada lado).",
+        "Calcule essa distância para cada loja: Distância mínima entre centros = 2 * raio + 30 cm.",
+        "Divida os 300 cm do lado menor pelo valor da distância mínima para encontrar o número mínimo de colunas necessárias (arredondando para cima).",
+        "Multiplique o número de colunas pelo preço unitário de cada loja para obter o custo total.",
+        "Compare os custos totais e escolha a loja com o menor valor.",
+        "A loja III, com raio 12 cm e preço R$ 75 por coluna, tem o custo total mais baixo."
+      ],
+      "commonPitfalls": [
+        "Considerar apenas o preço unitário sem calcular o número total de colunas necessárias.",
+        "Ignorar o limite máximo de 15 cm para vãos entre colunas e parede.",
+        "Não arredondar para cima a quantidade de colunas, mesmo que a divisão não seja exata.",
+        "Confundir a dimensão em que as colunas serão dispostas (deve ser o lado menor, 3 metros).",
+        "Esquecer que a distância entre centros das colunas é o diâmetro mais o espaçamento total entre elas."
+      ],
+      "teachingTips": [
+        "Reforce a importância da compreensão espacial para interpretar o problema e relacionar os dados do enunciado.",
+        "Utilize imagens ou objetos para simular o alinhamento das colunas e visualizar o espaçamento.",
+        "Explique passo a passo o cálculo do número de colunas, destacando o uso da soma do diâmetro com o espaçamento máximo.",
+        "Estimule os alunos a comparar diferentes estratégias de compra usando tabelas para calcular custos.",
+        "Enfatize que sempre devemos arredondar a quantidade de unidades para cima em casos práticos como este.",
+        "Discuta com os alunos a importância de analisar o custo total, não apenas o preço unitário."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2215,
+    "outputTokens": 547,
+    "estimatedCostUsd": 0.001761
+  }
+}

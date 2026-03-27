@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 141 — ENEM 2024 — Matemática}
+
+\textbf{Enunciado:} Três grandezas (I, II e III) se relacionam entre si. Os gráficos a seguir, formados por segmentos de reta, descrevem as relações de dependência existentes entre as grandezas I e II, e entre as grandezas II e III. O valor máximo assumido pela grandeza III, quando a grandeza I varia de 1 a 3, é:
+
+\section{Solução Técnica}
+\textbf{Resposta final:} 2,5
+
+\textbf{Análise e estratégia:}
+A estratégia consiste em analisar os dois gráficos fornecidos que relacionam as grandezas \textit{I} e \textit{II}, e em seguida \textit{II} e \textit{III}. O objetivo é determinar a relação direta entre \textit{I} e \textit{III} para o intervalo \(I \in [1,3]\) e encontrar o valor máximo de \textit{III} nesse intervalo.
+
+\textbf{Passos principais:}
+\begin{enumerate}
+\item No primeiro gráfico, identificar os valores de \textit{II} para \(I=1, 2, 3\).
+\item Usar interpolação linear para estimar valores intermediários.
+\item No segundo gráfico, para os valores de \textit{II} encontrados, determinar os correspondentes valores de \textit{III}.
+\item Realizar interpolação linear no gráfico da grandeza \textit{III} em função de \textit{II} e identificar o valor máximo.
+\end{enumerate}
+
+\textbf{Interpolação linear:}
+\[
+y = y_1 + (y_2 - y_1) \frac{x - x_1}{x_2 - x_1}
+\]
+
+\textbf{Resultados:}
+\begin{itemize}
+\item Para \(I=1\), \(II=2\).
+\item Para \(I=2\), \(II=3\).
+\item Para \(I=3\), \(II \approx 3,5\).
+\item Para \(II=2\), \(III=3\).
+\item Para \(II=3\), \(III=1\).
+\item Para \(II=3,5\), interpolação entre \((3,1)\) e \((4,3)\):
+\[
+III = 1 + (3-1)\times \frac{3,5-3}{4-3} = 2,5
+\]
+\item Valores de \(III\) para \(I\in[1,3]\) são \(3, 1, 2,5\), máximo entre eles é \(2,5\).
+\end{itemize}
+
+\textbf{Conclusão:} O valor máximo de \(III\) para \(I \in [1,3]\) é \boxed{2,5}.
+
+\section{Explicação Didática}
+
+\subsection*{Resumo}
+Para encontrar o valor máximo da grandeza \textit{III} no intervalo \(I \in [1,3]\), relacionamos primeiro \textit{I} com \textit{II} no primeiro gráfico, depois \textit{II} com \textit{III} no segundo gráfico, aplicando interpolação para valores intermediários e por fim analisamos os valores obtidos para escolher o máximo.
+
+\subsection*{Passos detalhados}
+\begin{enumerate}
+\item Identifique \(II\) para \(I=1,2,3\) no primeiro gráfico.
+\item Anote os valores correspondentes: \(II=2,3,3,5\).
+\item Observe \(III\) para \(II=2,3,3,5\) no segundo gráfico, incluindo interpolação em \(II=3,5\).
+\item Compare \(III=3,1,2,5\) e constate o máximo em todo intervalo.
+\end{enumerate}
+
+\subsection*{Erros comuns}
+\begin{itemize}
+\item Analisar os gráficos isoladamente.
+\item Não usar interpolação.
+\item Trocar eixos e valores.
+\item Escolher máximo absoluto fora do intervalo correto.
+\end{itemize}
+
+\subsection*{Dicas para ensino}
+\begin{itemize}
+\item Enfatize dependências em cascata.
+\item Mostre uso prático da interpolação.
+\item Destaque importância do intervalo para máximos/mínimos.
+\item Exercícios integrados com gráficos.
+\item Incentive checar interpretações.
+\end{itemize}
+
+\section{Distratores e seus Perfis}
+\begin{itemize}
+\item \textbf{1,0}: Escolhe mínimo em vez de máximo; aparenta plausível mas é incorreto.
+\item \textbf{3,0}: Considera valor para \(II=2\) isoladamente; erro de não considerar variação de \(II\) em \(I\).
+\item \textbf{3,5}: Confusão entre valores e eixos; valor não corresponde a \(III\).
+\item \textbf{4,0}: Confunde máximo absoluto com máximo condicionado; valor fora do intervalo \(I\).
+\end{itemize}
+
+\section{Perfil da Questão}
+\begin{itemize}
+\item Habilidade principal: Interpretação e análise de gráficos.
+\item Habilidades secundárias: Interpolação linear e raciocínio matemático.
+\item Demanda cognitiva: Compreensão e aplicação.
+\item Dificuldade: Média.
+\item Necessita modelar relações em cascata e calcular valores intermediários.
+\item Exige interpretação crítica de gráficos com restrições de intervalo.
+\end{itemize}
+
+\section{Revisão de Consistência}
+Enunciado, solução técnica e explicação didática estão consistentes. A resposta final \(2,5\) é suportada pela análise gráfica e interpolação. Distratores são coerentes e bem justificados. Os gráficos acompanham os dados utilizados na solução.
+
+\end{document}

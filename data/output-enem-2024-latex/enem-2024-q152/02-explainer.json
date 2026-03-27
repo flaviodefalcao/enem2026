@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:31:55.832Z",
+  "questionId": "enem-2024-q152",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar qual saldo da balança comercial foi maior, subtraímos o valor das importações do valor das exportações em cada um dos meses indicados e depois comparamos essas diferenças. O maior saldo é aquele com a maior diferença entre exportações e importações.",
+      "stepByStep": [
+        "Observe o gráfico e identifique os valores aproximados de exportações e importações para junho de 2009 (S₁).",
+        "Identifique os valores aproximados de exportações e importações para janeiro de 2010 (S₂).",
+        "Identifique os valores aproximados de exportações e importações para junho de 2010 (S₃).",
+        "Calcule o saldo S₁ = exportações junho 2009 - importações junho 2009.",
+        "Calcule o saldo S₂ = exportações janeiro 2010 - importações janeiro 2010.",
+        "Calcule o saldo S₃ = exportações junho 2010 - importações junho 2010.",
+        "Compare os valores calculados e ordene os saldos do maior para o menor."
+      ],
+      "commonPitfalls": [
+        "Considerar apenas o valor das exportações, ignorando o valor das importações.",
+        "Interpretar incorretamente as linhas do gráfico, confundindo os valores de cada mês.",
+        "Comparar apenas os valores absolutos sem calcular a diferença, levando a erro na ordenação dos saldos.",
+        "Confundir as datas ou os pontos no gráfico ao tentar extrair os valores."
+      ],
+      "teachingTips": [
+        "Explique que o saldo da balança comercial é a diferença entre exportações e importações.",
+        "Mostre como ler gráficos de linhas e identificar períodos específicos.",
+        "Incentive os alunos a anotar os valores aproximados para facilitar a comparação.",
+        "Ensine a importância de considerar ambas as variáveis (exportações e importações) para calcular o saldo corretamente.",
+        "Estimule a prática da comparação entre números após o cálculo para ordenação correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1979,
+    "outputTokens": 397,
+    "estimatedCostUsd": 0.001427
+  }
+}

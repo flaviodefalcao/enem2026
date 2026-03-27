@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise Completa da Questão sobre Mediana da Umidade Relativa do Ar}
+
+\subsection*{Enunciado}
+A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade. Nesta cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi:
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\cellcolor{blue!20}\textbf{Meses} & Maio & Jun. & Jul. & Ago. & Set. & Out. \\
+\hline
+\cellcolor{blue!20}\textbf{Média mensal} \\ \cellcolor{blue!20} da umidade relativa do ar (\%)} & 66 & 64 & 54 & 46 & 60 & 64 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{Solução Técnica}
+\begin{itemize}
+\item Dados: 66, 64, 54, 46, 60, 64.
+\item Ordenação crescente: 46, 54, 60, 64, 64, 66.
+\item Número de elementos (n) = 6, par.
+\item Cálculo da mediana:
+\[
+\text{Mediana} = \frac{\text{elemento}_3 + \text{elemento}_4}{2} = \frac{60 + 64}{2} = 62.
+\]
+\item Portanto, a mediana da umidade relativa do ar no período é 62\%.
+\end{itemize}
+
+\subsection*{Formulação Matemática Utilizada}
+\begin{equation*}
+\text{Mediana em dados pares} = \frac{ \text{Valor no índice} \frac{n}{2} + \text{Valor no índice} \left(\frac{n}{2} + 1\right)}{2}.
+\end{equation*}
+
+\subsection*{Explicação Didática}
+A mediana representa o valor central que separa os dados ordenados em duas partes iguais. Quando a quantidade de dados é par, ela não coincide com um dado específico, mas é a média dos dois valores centrais.
+
+\subsubsection*{Passos simplificados}
+\begin{enumerate}
+\item Anote os dados conforme fornecido.
+\item Ordene os dados em ordem crescente.
+\item Identifique os dois elementos centrais.
+\item Calcule a média desses valores centrais.
+\item A média obtida é a mediana.
+\end{enumerate}
+
+\subsubsection*{Erros comuns}
+\begin{itemize}
+\item Não ordenar os dados corretamente.
+\item Usar apenas um elemento central para calcular a mediana em conjuntos com elementos pares.
+\item Escolher incorretamente os valores centrais.
+\item Fazer arredondamento inadequado.
+\end{itemize}
+
+\subsection*{Dicas para o Professor}
+\begin{itemize}
+\item Reforce a necessidade de ordenar os dados antes de qualquer cálculo.
+\item Explique a diferença no cálculo da mediana para conjuntos com números pares e ímpares de elementos.
+\item Use exemplos práticos que envolvam dados estatísticos reais para facilitar a compreensão.
+\item Estimule a utilização de calculadoras para precisão.
+\item Contextualize a mediana com outras medidas estatísticas.
+\end{itemize}
+
+\subsection*{Análise dos Distratores}
+\begin{description}
+\item[56] Possível erro de ordenação ou escolha incorreta dos elementos centrais; parece apropriado por estar próximo à média, mas incorreto.
+\item[58] Erro no cálculo da média entre valores centrais; valor plausível, porém incorreto.
+\item[59] Erro de arredondamento ou seleção incorreta; valor intermediário que não corresponde à mediana certa.
+\item[62] Resposta correta, baseada no cálculo exato da mediana.
+\end{description}
+
+\subsection*{Perfil da Questão}
+\begin{itemize}
+\item Habilidade principal: Interpretação e análise de dados estatísticos.
+\item Habilidades secundárias: Organização e ordenação de dados; cálculo da mediana.
+\item Grau de dificuldade: Médio.
+\item Necessita interpretação visual e cálculo numérico.
+\end{itemize}
+
+\subsection*{Revisão de Consistência}
+A análise da questão está consistente e correta, exceto pela correção necessária no valor da resposta oficial, que deve ser 62 em vez de 60 para refletir os cálculos matemáticos.
+
+\vspace{1em}
+
+\textbf{Fim da análise.}
+
+\end{document}

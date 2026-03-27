@@ -1,0 +1,112 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\begin{document}
+
+\section*{Questão 169 --- ENEM 2024 --- Matemática}
+
+\paragraph{Enunciado:}
+A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas.
+Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim,
+se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do
+alfabeto era substituída pela letra três posições à frente, ou seja, o ``A'' era substituído pelo ``D'', o ``B'' pelo ``E'', o ``C''
+pelo ``F'', e assim sucessivamente.
+
+Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César
+ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o ``A'' foi substituído,
+pos isso define todas as demais substituições a serem feitas.
+
+Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade
+de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada
+nas tentativas seguintes.
+
+A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por:
+
+\bigskip
+
+% Imagem do enunciado (descrição textual)
+\noindent\textbf{Imagem:}\
+Uma tabela mostrando duas linhas de letras:\
+\textbullet\ Linha inferior: Alfabeto original, Letras de A a Z.\
+\textbullet\ Linha superior, deslocada três letras para a esquerda a partir do A, mostrando o texto codificado.
+
+\bigskip
+
+\section*{Solução Técnica}
+\begin{itemize}
+  \item O alfabeto tem 26 letras, porém o deslocamento 0 (sem mudança) não é considerado, então existem 25 padrões possíveis.
+  \item Probabilidade de errar na primeira tentativa:
+  \[
+  P(\text{erro no 1º}) = \frac{24}{25}
+  \]
+  \item Após eliminar a primeira tentativa, restam 24 opções para a segunda tentativa.
+  \item Probabilidade de errar na segunda tentativa:
+  \[
+  P(\text{erro no 2º} \mid \text{erro no 1º}) = \frac{23}{24}
+  \]
+  \item Após eliminar a segunda tentativa, restam 23 opções para a terceira tentativa.
+  \item Probabilidade de acertar na terceira tentativa:
+  \[
+  P(\text{acerto no 3º} \mid \text{erros anteriores}) = \frac{1}{23}
+  \]
+  \item Multiplicando as probabilidades:
+  \[
+  P(\text{acerto no 3º}) = \frac{24}{25} \times \frac{23}{24} \times \frac{1}{23} = \frac{1}{25}.
+  \]
+\end{itemize}
+
+\section*{Explicação Didática}
+A probabilidade de descobrir o padrão na terceira tentativa significa que as duas primeiras tentativas são erros e somente na terceira ocorre o sucesso.
+
+\begin{enumerate}
+  \item Existem 25 padrões possíveis para a Cifra de César (deslocamentos de 1 a 25).
+  \item Na primeira tentativa, a probabilidade de errar é $24/25$.
+  \item Eliminando essa tentativa errada, restam 24 padrões para a segunda tentativa.
+  \item Na segunda tentativa, a probabilidade de errar é $23/24$.
+  \item Eliminando essa segunda tentativa errada, restam 23 padrões para a terceira tentativa.
+  \item Na terceira tentativa, a probabilidade de acertar é $1/23$.
+  \item Portanto, multiplicamos essas probabilidades para obter o evento desejado:
+  \[
+  \left(\frac{24}{25}\right) \times \left(\frac{23}{24}\right) \times \left(\frac{1}{23}\right) = \frac{1}{25}.
+  \]
+\end{enumerate}
+
+\section*{Erros Comuns}
+\begin{itemize}
+  \item Somar probabilidades em vez de multiplicar para eventos sequenciais dependentes.
+  \item Não atualizar o espaço amostral ao eliminar uma tentativa errada.
+  \item Ignorar a dependência entre as tentativas.
+  \item Usar denominadores fixos ao invés de reduzir o espaço amostral progressivamente.
+\end{itemize}
+
+\section*{Dicas de Ensino}
+\begin{itemize}
+  \item Explique como o espaço amostral diminui após cada tentativa eliminada.
+  \item Diferencie claramente eventos independentes e dependentes.
+  \item Use exercícios para praticar probabilidade condicional.
+  \item Mostre diagramas que representem a progressiva redução do número de opções.
+  \item Enfatize a aplicação histórica do Código e Cifra de César.
+\end{itemize}
+
+\section*{Análise dos Distratores}
+\begin{description}
+  \item[A] Soma as probabilidades $\tfrac{1}{25} + \tfrac{1}{25} + \tfrac{1}{25}$ ignorando o descarte das tentativas erradas.
+  \item[B] Soma frações com denominadores decrescentes $\tfrac{24}{25} + \tfrac{23}{24} + \tfrac{1}{23}$ ao invés de multiplicar.
+  \item[C] Multiplica, mas não atualiza corretamente o denominador da segunda tentativa para 24.
+  \item[D] Multiplica, porém com denominadores incorretos, misturando valores.
+\end{description}
+
+\section*{Perfil da Questão}
+\begin{itemize}
+  \item \textbf{Habilidade principal}: Probabilidade condicional e eventos dependentes.
+  \item \textbf{Habilidades secundárias}: Combinatória, interpretação de texto e noções básicas de criptografia.
+  \item \textbf{Nível de dificuldade}: Médio.
+  \item \textbf{Requisitos}: Interpretação visual, modelagem e cálculo probabilístico.
+  \item \textbf{Observações}: Distratores exploram erros típicos em cálculo de probabilidade condicional e atualização do espaço amostral.
+\end{itemize}
+
+\end{document}

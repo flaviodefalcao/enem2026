@@ -1,0 +1,131 @@
+{
+  "questionId": "enem-2024-q143",
+  "generatedAt": "2026-03-26T19:25:02.554Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 694,
+      "outputTokens": 1175,
+      "estimatedCostUsd": 0.002158
+    },
+    "explainer": {
+      "inputTokens": 1790,
+      "outputTokens": 588,
+      "estimatedCostUsd": 0.001657
+    },
+    "reviewer": {
+      "inputTokens": 2793,
+      "outputTokens": 1867,
+      "estimatedCostUsd": 0.004104
+    },
+    "totalEstimatedCostUsd": 0.007919
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "52,00",
+      "correctnessClaim": "A resposta correta é a alternativa D (52,00), conforme o gabarito informado e a análise detalhada do problema.",
+      "strategy": "Calcular o lucro líquido esperado a partir da venda dos ingressos, deduzir quanto falta para atingir o lucro total esperado e, a partir disso, determinar o faturamento necessário com bebidas e petiscos para cada pessoa, considerando o lucro de 60%.",
+      "steps": [
+        "Calcular a quantidade prevista e a quantidade real de meias-entradas vendidas: previsto 60% de 500 = 300 ingressos; venda real é 50% a mais que o previsto: 300 + 50%*300 = 450 meias-entradas.",
+        "Saber que os ingressos são integrais (R$130) e meia-entrada (R$65). A quantidade total é 500, e 450 são meias, logo o restante, 50, são integrais.",
+        "Calcular a receita real da venda de ingressos: (50 ingressos inteiros * R$130) + (450 meias * R$65) = 6.500 + 29.250 = R$35.750.",
+        "Calcular o lucro obtido com ingressos: receita ingressos - custo total = 35.750 - 34.350 = R$1.400.",
+        "O lucro desejado é R$17.000, então o lucro esperado com bebidas e petiscos será: 17.000 - 1.400 = R$15.600.",
+        "Como o lucro sobre bebidas e petiscos é 60%, o custo corresponde a 100%, então o faturamento sobre custo é faturamento = custo + lucro = custo + 0,6*custo = 1,6*custo.",
+        "Portanto, o lucro (R$15.600) corresponde a 60% do faturamento com bebidas e petiscos: lucro = 0,6 * faturamento => faturamento = 15.600 / 0,6 = R$26.000.",
+        "Este faturamento é para os 500 participantes, logo o gasto médio por pessoa com bebidas e petiscos é 26.000 / 500 = R$52,00."
+      ],
+      "formulasUsed": [
+        "Quantidade real de meias = Quantidade prevista + 50%*Quantidade prevista",
+        "Receita = (Qtd_integral * preço_integral) + (Qtd_meia * preço_meia)",
+        "Lucro_ingressos = Receita_ingressos - Custo_total",
+        "Lucro_total = Lucro_ingressos + Lucro_bebidas_e_petiscos",
+        "Lucro_bebidas_e_petiscos = 60% do faturamento de bebidas e petiscos",
+        "Faturamento_bebidas = Lucro_bebidas / 60%",
+        "Gasto médio = Faturamento_bebidas / número de pessoas"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular o gasto médio por pessoa com bebidas e petiscos, primeiro determinamos o lucro obtido com a venda de ingressos considerando a venda maior de meias-entradas. Depois, usamos o lucro total esperado para achar quanto falta ganhar nas vendas de bebidas e petiscos, e, conhecendo que o lucro sobre essa venda é de 60%, calculamos o faturamento total correspondente. Finalmente, dividimos esse faturamento pelo público para encontrar o gasto médio individual.",
+      "stepByStep": [
+        "Calcule a quantidade prevista de meias-entradas: 60% de 500 = 300 ingressos.",
+        "Determine a quantidade real de meias-entradas vendidas: 50% a mais que o previsto → 300 + 0,5×300 = 450.",
+        "Encontre a quantidade de ingressos integrais: 500 - 450 = 50.",
+        "Calcule a receita real da venda de ingressos: (50 × R$130) + (450 × R$65) = R$6.500 + R$29.250 = R$35.750.",
+        "Calcule o lucro obtido com ingressos: R$35.750 - R$34.350 (custo) = R$1.400.",
+        "Determine o lucro restante necessário para atingir o lucro total esperado: R$17.000 - R$1.400 = R$15.600.",
+        "Como o lucro sobre bebidas e petiscos é 60%, o faturamento dessas vendas é Lucro / 0,6 = R$15.600 / 0,6 = R$26.000.",
+        "Divida o faturamento total de bebidas e petiscos pelo número total de pessoas: R$26.000 / 500 = R$52,00.",
+        "Portanto, o gasto médio por pessoa com bebidas e petiscos deve ser de R$52,00."
+      ],
+      "commonPitfalls": [
+        "Confundir lucro com faturamento das vendas de bebidas e petiscos.",
+        "Não ajustar o número real de meias-entradas vendidas, considerando o aumento de 50%.",
+        "Calcular o gasto médio utilizando apenas o custo, sem considerar o lucro sobre essas vendas.",
+        "Ignorar o impacto do lucro obtido com ingressos ao calcular o lucro restante para bebidas e petiscos.",
+        "Dividir o lucro total diretamente pelo número de pessoas sem passar pelos cálculos intermediários."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre lucro e faturamento para evitar confusões.",
+        "Utilize exemplos com números menores para ilustrar o impacto do aumento da venda de meias-entradas.",
+        "Reforce o conceito de porcentagem aplicada sobre quantidades e valores financeiros.",
+        "Oriente os alunos a organizar as informações do problema passo a passo antes de começar os cálculos.",
+        "Proponha exercícios similares para prática da aplicação de percentuais em contextos financeiros reais."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "19,50",
+        "likelyReasoning": "Calcular o gasto médio considerando apenas o custo dividido pelo número de pessoas ou uma relação incorreta com o preço da meia-entrada.",
+        "misconceptionType": "Erro de interpretação e subestimação dos valores.",
+        "whyItLooksPlausible": "É um valor baixo e pode parecer razoável para um gasto médio complementar.",
+        "whyItIsWrong": "Não considera o lucro de 60% sobre bebidas e petiscos e o lucro total esperado de R$17.000."
+      },
+      {
+        "option": "28,80",
+        "likelyReasoning": "Possivelmente calcula o gasto médio sem ajustar a quantidade de meias-entradas vendidas ou sem considerar o lucro na venda de bebidas e petiscos.",
+        "misconceptionType": "Erro na aplicação dos percentuais e confusão no lucro versus faturamento.",
+        "whyItLooksPlausible": "É uma média intermediária que poderia representar um gasto complementar razoável.",
+        "whyItIsWrong": "Não contempla o impacto do aumento de vendas das meias e o lucro desejado no cálculo final."
+      },
+      {
+        "option": "34,00",
+        "likelyReasoning": "Pode derivar de uma média simples entre preços ou uma confusão com os percentuais de desconto e lucro.",
+        "misconceptionType": "Erro na média ponderada e na relação do custo e lucro no cálculo final.",
+        "whyItLooksPlausible": "Valor intermediário aproxima o resultado correto, podendo induzir dúvida.",
+        "whyItIsWrong": "Não corresponde ao cálculo correto do lucro total esperado e do faturamento relacionado."
+      },
+      {
+        "option": "68,70",
+        "likelyReasoning": "Possível erro ao confundir lucro com faturamento ou aplicar incorretamente o percentual na base de cálculo.",
+        "misconceptionType": "Erro na interpretação dos percentuais de lucro e faturamento.",
+        "whyItLooksPlausible": "É um valor maior que o preço inicial dos ingressos meia, o que pode parecer mais lucrativo.",
+        "whyItIsWrong": "Superestima o gasto médio necessário para atingir o lucro esperado quando o cálculo correto indica valor menor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise quantitativa e financeira",
+      "secondarySkills": [
+        "Porcentagem",
+        "Raciocínio proporcional",
+        "Operações com números reais"
+      ],
+      "cognitiveDemand": "Médio - envolve análise e manipulação de informações percentuais e financeiras, além de interpretação dos dados dados no problema.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Envolve múltiplas etapas de cálculo e interpretação de percentuais.",
+        "Necessita distinguir entre lucro e faturamento, além de ajustar previsões para valores reais observados.",
+        "A resolução depende do entendimento claro dos percentuais de venda (meia-entrada) e de lucro (bebidas/petiscos)."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica está correta e coerente com o enunciado e com a explicação didática. O valor final encontrado (R$52,00) está bem fundamentado e corresponde ao lucro esperado e às condições do problema. A explicação passo a passo complementa adequadamente a estratégia do solver, e as possíveis respostas incorretas estão bem justificadas. Não foram encontrados erros conceituais ou metodológicos na resolução apresentada.",
+      "issues": []
+    }
+  }
+}

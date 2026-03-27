@@ -1,0 +1,80 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 149 - ENEM 2024 - Matemática}
+
+\subsection*{Enunciado}
+Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 cm e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80\% da capacidade da embalagem cilíndrica utilizada atualmente. Use 3 como valor aproximado para $\pi$. A medida da aresta da nova embalagem, em centímetro, deve ser:
+
+\bigskip
+
+\subsection*{Solução Técnica}
+
+Calcula-se o volume do cilindro, que é dado por:
+\[
+V = \pi r^{2} h.
+\]
+Substituindo $r = 3$ cm, $h = 15$ cm e $\pi \approx 3$, tem-se:
+\[
+V = 3 \times 3^{2} \times 15 = 3 \times 9 \times 15 = 405 \text{ cm}^3.
+\]
+A nova embalagem terá um volume que corresponde a 80\% do volume anterior:
+\[
+V_{cubo} = 0,8 \times 405 = 324 \text{ cm}^3.
+\]
+O volume do cubo é dado por $a^{3}$, onde $a$ é a aresta. Logo,
+\[
+a^{3} = 324 \implies a = \sqrt[3]{324}.
+\]
+Fatorando 324:
+\[
+324 = 27 \times 12,
+\]
+logo,
+\[
+a = \sqrt[3]{27 \times 12} = \sqrt[3]{27} \times \sqrt[3]{12} = 3 \sqrt[3]{12}.
+\]
+A expressão $3 \sqrt[3]{12}$ corresponde à alternativa \textbf{E}.
+
+\subsection*{Explicação Didática}
+
+Para resolver este problema, realizamos os seguintes passos:
+\begin{enumerate}
+  \item Calculamos o volume da embalagem cilíndrica usando a fórmula do volume do cilindro.
+  \item Calculamos 80\% deste volume para obter o volume da nova embalagem em formato de cubo.
+  \item Aplicamos a fórmula do volume do cubo para encontrar a aresta a partir do volume.
+  \item Calculamos a raiz cúbica do volume para determinar o comprimento da aresta.
+  \item Simplificamos a expressão utilizando fatoração para facilitar a leitura e comparação com as alternativas.
+\end{enumerate}
+
+É importante destacar que a redução de volume não se traduz diretamente em redução na medida linear, pois o volume depende do cubo da medida linear (a aresta). Além disso, a raiz cúbica permite transformar o volume em comprimento da aresta.
+
+\subsection*{Análise dos Distratores}
+\begin{itemize}
+  \item \textbf{Alternativa A}: Possível confusão entre raio e aresta, resultando em aresta igual a 6 cm, que não corresponde a redução de volume esperada.
+  \item \textbf{Alternativa B}: Considera a altura do cilindro (18 cm, presumivelmente valor errado no enunciado) como aresta, resultando em volume maior do que o desejado.
+  \item \textbf{Alternativa C}: Erro no cálculo ou simplificação inadequada da raiz cúbica, resultando em valor incorreto.
+\end{itemize}
+
+\subsection*{Perfil da Habilidade Avaliada}
+Esta questão avalia habilidades de geometria espacial, cálculo de volumes, operações com radiciação e compreensão de proporcionalidade entre volumes e medidas lineares. A questão possui grau de dificuldade médio e requer cálculos precisos, além da capacidade de interpretar expressões matemáticas apresentadas.
+
+\subsection*{Conclusão}
+A alternativa correta é a \textbf{E}.
+
+\bigskip
+
+\textbf{Imagens das alternativas relacionadas:}
+
+\begin{description}
+  \item[Alternativa D:] $6 \sqrt[3]{6}$
+  \item[Alternativa E:] $3 \sqrt[3]{12}$
+\end{description}
+
+A alternativa E, com $3 \sqrt[3]{12}$, é a que corresponde ao valor correto da aresta do cubo segundo os cálculos apresentados.
+
+\end{document}

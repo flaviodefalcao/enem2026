@@ -1,0 +1,57 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 148 — ENEM 2024 — Matemática}
+
+Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura \( T \), em grau Celsius, da caneca em função do tempo \( t \), em minutos, é modelada pela função:
+\[
+T(t) = a + 80 b^t,
+\]
+conforme representado no gráfico a seguir.
+
+\subsection*{Solução Técnica}
+Pelo gráfico, nota-se que a temperatura inicial, para \( t=0 \), é aproximadamente \( 100 ^\circ C \) e para \( t=10 \) minutos é cerca de \( 60 ^\circ C \).
+
+Substituindo \( t=0 \) na função:
+\[
+T(0) = a + 80 b^0 = a + 80 = 100 \implies a = 20.
+\]
+
+Para \( t=10 \):
+\[
+T(10) = 20 + 80 b^{10} = 60 \implies 80 b^{10} = 40 \implies b^{10} = 0,5.
+\]
+
+Portanto:
+\[
+b = (0,5)^{\frac{1}{10}}.
+\]
+
+\subsection*{Explicação Didática}
+A função representa um modelo de decaimento da temperatura, onde \( a \) é a temperatura ambiente e \( b \) é a taxa de decaimento.
+
+Os cálculos são feitos usando pontos do gráfico para encontrar \( a \) e \( b \). É importante notar que \( b \) deve estar entre 0 e 1 para representar decaimento.
+
+\subsection*{Erros comuns}
+\begin{itemize}
+  \item Usar \( b = \log(0,5) \), confundindo base de potência com logaritmo.
+  \item Assumir \( a = 100 \) como temperatura inicial total sem considerar a estrutura da função.
+  \item Escolher \( b > 1 \), implicando crescimento de temperatura, contrário ao resfriamento.
+\end{itemize}
+
+\subsection*{Perfil da Questão}
+Envolve interpretação e modelagem de funções exponenciais, leitura de gráficos e álgebra, com demanda cognitiva média.
+
+\subsection*{Alternativa correta}
+\[
+a = 20, \quad b = (0,5)^{\frac{1}{10}}.
+\]
+
+\subsection*{Descrição do gráfico}
+O gráfico mostra a temperatura da caneca em função do tempo, iniciando em 100 °C e decaindo gradualmente até cerca de 40 °C aos 20 minutos, denotando resfriamento exponencial.
+
+\end{document}

@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:41:05.437Z",
+  "questionId": "enem-2024-q165",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão pede para calcular a redução no tempo vermelho de dois semáforos, sabendo que a probabilidade de o ônibus pegar os dois sinais vermelhos caiu para 4%. Como os eventos são independentes, multiplicamos as probabilidades individuais para encontrar a nova duração do vermelho de cada sinal e, assim, a redução no tempo.",
+      "stepByStep": [
+        "Calcule a probabilidade original de um ônibus pegar o sinal vermelho: 15 segundos de vermelho a cada 60 segundos, então P = 15/60 = 0,25.",
+        "Como os dois sinais agem de forma independente, a probabilidade de pegar ambos vermelhos é o produto: 0,25 × 0,25 = 0,0625 (6,25%).",
+        "A prefeitura quer reduzir essa probabilidade para 4%, ou seja, 0,04.",
+        "Se x é o novo tempo vermelho (em segundos) para cada sinal, a nova probabilidade individual será x/60.",
+        "Como os eventos são independentes, a probabilidade conjunta será (x/60)² = 0,04.",
+        "Multiplicando ambos os lados por 3600 (60²), temos: x² = 0,04 × 3600 = 144.",
+        "Logo, x = √144 = 12 segundos.",
+        "A redução no tempo vermelho é o tempo original menos o novo: 15 - 12 = 3 segundos."
+      ],
+      "commonPitfalls": [
+        "Confundir a probabilidade de pegar vermelho em um sinal com a probabilidade conjunta dos dois.",
+        "Não considerar a independência dos eventos e, assim, não multiplicar as probabilidades.",
+        "Resolver a equação sem extrair a raiz quadrada corretamente.",
+        "Interpretar errado a redução, usando um valor que não satisfaz a probabilidade conjunta desejada.",
+        "Misturar unidades de tempo com probabilidades durante os cálculos."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de eventos independentes e como calcular a probabilidade conjunta multiplicando probabilidades individuais.",
+        "Explique a relação direta entre tempo do sinal vermelho e probabilidade de encontrá-lo vermelho.",
+        "Mostre como montar a equação usando a nova probabilidade desejada para encontrar o tempo reduzido.",
+        "Use analogias para ajudar os alunos a entenderem a raiz quadrada e o seu papel ao resolver a equação.",
+        "Estimule o aluno a verificar a consistência do resultado com o enunciado antes de finalizar a resposta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1693,
+    "outputTokens": 498,
+    "estimatedCostUsd": 0.001474
+  }
+}

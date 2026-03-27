@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:55:35.177Z",
+  "questionId": "enem-2024-q180",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "Correta",
+      "strategy": "Contagem combinatória para formar equipes com restrição de pelo menos 3 cardiologistas.",
+      "steps": [
+        "Identificar o número total de médicos em cada especialidade: 7 cardiologistas e 6 neurologistas.",
+        "A equipe deve ter 5 médicos, com pelo menos 3 cardiologistas.",
+        "Considerar as possíveis combinações para o número de cardiologistas na equipe: 3, 4 ou 5.",
+        "Calcular a quantidade de maneiras de escolher os cardiologistas para cada caso usando combinações: C(7,3), C(7,4), C(7,5).",
+        "Calcular a quantidade de maneiras de escolher os neurologistas para completar a equipe com 5 médicos: para 3 cardiologistas, escolher 2 neurologistas (C(6,2)); para 4 cardiologistas, escolher 1 neurologista (C(6,1)); para 5 cardiologistas, escolher 0 neurologistas (C(6,0)).",
+        "Somar todas as possibilidades para obter o total de maneiras distintas: C(7,3)*C(6,2) + C(7,4)*C(6,1) + C(7,5)*C(6,0)."
+      ],
+      "formulasUsed": [
+        "C(n,k) = n! / (k! * (n-k)!)",
+        "Número total de equipes = Σ C(7,i) * C(6,5-i), i = 3 a 5"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa C, que mostra a expressão com a soma das combinações para 3, 4 e 5 cardiologistas."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Multiplicar duas combinações sem considerar soma das possibilidades de 3, 4 ou 5 cardiologistas.",
+        "misconceptionType": "Falsa aplicação de combinação",
+        "whyItLooksPlausible": "Parece correto multiplicar combinações de grupos distintos.",
+        "whyItIsWrong": "Não considera a opção 'pelo menos 3 cardiologistas', que envolve soma de possibilidades."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Multiplicar combinações com números diferentes para 3 cardiologistas e 2 neurologistas, sem somar outras configurações.",
+        "misconceptionType": "Visão incompleta do problema",
+        "whyItLooksPlausible": "Apresenta divisão que lembra fórmula de combinação e parece sofisticada.",
+        "whyItIsWrong": "Ignora outras quantidades possíveis de cardiologistas (4 e 5)."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Soma das combinações para diferentes quantidades apropriadas, mas com sinais ou estrutura errada.",
+        "misconceptionType": "Erro na estrutura da expressão",
+        "whyItLooksPlausible": "Implementa a soma das diferentes possibilidades, o que é a abordagem correta.",
+        "whyItIsWrong": "Pode apresentar erro na formulação matemática correta, como agrupamento ou símbolos omitidos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Combinatória e Arranjos",
+      "secondarySkills": [
+        "Análise de restrições",
+        "Uso de fórmulas de combinação"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar corretamente o enunciado para identificar que a equipe deve ter pelo menos 3 cardiologistas.",
+        "Requer conhecimento de combinação e soma de casos possíveis.",
+        "Imagens das alternativas ajudam a visualizar a forma da expressão matemática.",
+        "Alternativa correta soma as combinações dos cenários possíveis, não apenas produto isolado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 739,
+    "outputTokens": 759,
+    "estimatedCostUsd": 0.00151
+  }
+}

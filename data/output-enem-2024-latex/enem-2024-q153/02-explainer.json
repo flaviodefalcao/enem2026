@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:32:30.201Z",
+  "questionId": "enem-2024-q153",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para converter uma taxa percentual em sua forma decimal, basta dividir o valor percentual por 100. Assim, 135,25% corresponde a 1,3525 em forma decimal.",
+      "stepByStep": [
+        "Identifique o valor percentual fornecido: 135,25%.",
+        "Lembre-se que percentagem significa \"por 100\", então para converter para decimal, divida por 100.",
+        "Divida 135,25 por 100: 135,25 ÷ 100 = 1,3525.",
+        "A representação decimal da taxa percentual de crescimento é 1,3525."
+      ],
+      "commonPitfalls": [
+        "Confundir o valor percentual com o valor decimal, usando diretamente o número 135,25 como resposta.",
+        "Multiplicar ao invés de dividir por 100, o que gera um número muito grande (13.525).",
+        "Dividir por 1000 ou outra potência de 10 incorreta, resultando em 0,13525 ou valores errados.",
+        "Deslocar a vírgula para o lugar errado, por exemplo, para 13,525 em vez de 1,3525."
+      ],
+      "teachingTips": [
+        "Explique o conceito de porcentagem como uma razão por 100 para reforçar a ideia da divisão por 100.",
+        "Use exemplos simples, como 50% = 0,5, para mostrar a conversão antes de passar para números maiores.",
+        "Peça que os alunos pratiquem movimentar vírgulas nos números para ganhar agilidade na conversão.",
+        "Mostre os erros comuns para que os estudantes reconheçam e evitem equívocos na conversão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1036,
+    "outputTokens": 334,
+    "estimatedCostUsd": 0.000949
+  }
+}

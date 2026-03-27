@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:39:27.152Z",
+  "questionId": "enem-2024-q163",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular o comprimento da correia, somamos os comprimentos dos arcos de contato nas duas polias com os comprimentos dos dois segmentos retos tangentes que conectam as polias. Utilizando trigonometria, determinamos o ângulo dos segmentos retos e aplicamos as fórmulas de comprimento de arco e segmentos retos para obter o valor total.",
+      "stepByStep": [
+        "Identifique os dados: polia menor de raio 4 cm, polia maior de raio 8 cm, distância entre centros 15 cm, ângulo de contato da polia menor 150°.",
+        "Calcule o ângulo θ usando seno: sen(θ) = (R - r) / AB = (8 - 4) / 15 = 4/15.",
+        "Aproximadamente, θ ≈ 15,5° (obtido por arcsen(4/15)).",
+        "Determine o comprimento dos segmentos retos tangentes: 2 × 15 × cos(15,5°).",
+        "Calcule o comprimento do arco da polia menor: (150/360) × 2 × π × 4 = 12,5 cm, usando π ≈ 3.",
+        "Calcule o ângulo de contato na polia maior: 2 × (90° - 15,5°) = 149°, e o respectivo comprimento do arco: (149/360) × 2 × π × 8.",
+        "Finalmente, some os comprimentos dos arcos e segmentos retos para obter o comprimento total da correia.",
+        "Resultado aproximado: 68 cm."
+      ],
+      "commonPitfalls": [
+        "Ignorar os segmentos retos e calcular apenas os arcos das polias.",
+        "Não considerar o ângulo de contato correto na polia maior, usando apenas o dado da menor.",
+        "Erro ao aplicar a fórmula trigonométrica para encontrar o ângulo θ.",
+        "Uso incorreto do valor de π fora da aproximação pedida (usar o valor exato em vez de 3).",
+        "Somar incorretamente as partes, deixando de incluir algum segmento ou arco relevante."
+      ],
+      "teachingTips": [
+        "Faça uma abordagem visual do problema, enfatizando a decomposição em arcos e segmentos retos.",
+        "Revise conceitos básicos de trigonometria, especialmente a função seno no contexto de triângulos e ângulos.",
+        "Explique o significado geométrico do ângulo θ e como ele se relaciona com a posição da correia entre as polias.",
+        "Utilize a aproximação pedida para π para simplificar os cálculos e evitar confusão.",
+        "Incentive a verificação final da resposta por comparação com valores esperados para evitar erros grosseiros."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2052,
+    "outputTokens": 551,
+    "estimatedCostUsd": 0.001702
+  }
+}

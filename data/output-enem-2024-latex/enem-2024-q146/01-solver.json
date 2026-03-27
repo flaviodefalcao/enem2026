@@ -1,0 +1,89 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:26:41.145Z",
+  "questionId": "enem-2024-q146",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "100",
+      "correctnessClaim": "A resposta B (100) é correta.",
+      "strategy": "Modelar o problema como uma maximização da área do retângulo dado um custo máximo de tela para o cercamento, escrevendo o custo em função dos lados e impondo a restrição de custo para definir uma função da área a ser maximizada.",
+      "steps": [
+        "Definir os lados do retângulo como L e C metros.",
+        "O custo total do cercamento é dado por: 2*L*20 + 2*C*15 (dois lados de cada tipo).",
+        "Expressar o custo total: Custo = 40L + 30C.",
+        "O fazendeiro deseja gastar no máximo R$ 6.000,00: 40L + 30C ≤ 6000.",
+        "Isolar C: 30C ≤ 6000 - 40L -> C ≤ (6000 - 40L)/30 = 200 - (4/3)L.",
+        "A área é A = L*C. Substituir C: A(L) = L*(200 - (4/3)L) = 200L - (4/3)L².",
+        "Maximizar A(L). Derivar A em relação a L: dA/dL = 200 - (8/3)L.",
+        "Igualar derivada a zero para máximo: 200 - (8/3)L = 0.",
+        "Resolvendo: (8/3)L = 200 -> L = 200 * (3/8) = 75.",
+        "Verificar restrição para C: C = 200 - (4/3)*75 = 200 - 100 = 100.",
+        "O maior lado será o maior entre L e C, ou seja, 100 metros.",
+        "Confirmar que o custo não ultrapassa R$ 6.000: 40*75 + 30*100 = 3000 + 3000 = 6000."
+      ],
+      "formulasUsed": [
+        "Custo total = 2*L*20 + 2*C*15 = 40L + 30C",
+        "Área A = L*C",
+        "Restrições: 40L + 30C ≤ 6000",
+        "Maximização: A(L) = 200L - (4/3)L²"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "85",
+        "likelyReasoning": "Errou a resolução da inequação do custo ou arredondou o resultado da maximização da área para baixo.",
+        "misconceptionType": "Cálculo incorreto ou arredondamento errado",
+        "whyItLooksPlausible": "Está próximo do valor correto e pode parecer razoável como máxima dimensão para não extrapolar o orçamento.",
+        "whyItIsWrong": "Não maximiza a área sob a restrição; a análise exata do custo e área demonstra que existe valor maior que atende à restrição."
+      },
+      {
+        "option": "175",
+        "likelyReasoning": "Confundiu os lados ou aplicou incorretamente as restrições, talvez trocando o custo dos lados.",
+        "misconceptionType": "Interpretação errada do problema",
+        "whyItLooksPlausible": "Valor maior que os anteriores pode parecer uma solução para maximizar área, mas sem considerar os custos.",
+        "whyItIsWrong": "Extrapola o orçamento dado o custo por metro linear, inviabilizando a compra das telas."
+      },
+      {
+        "option": "200",
+        "likelyReasoning": "Considerou custo igual para todos os lados ou usou apenas um tipo de tela para o cálculo.",
+        "misconceptionType": "Ignorar diferenças nos custos",
+        "whyItLooksPlausible": "Aparenta ser solução máxima sem considerar os custos específicos diferentes para cada lado.",
+        "whyItIsWrong": "O custo ultrapassa o orçamento de R$ 6.000 quando a dimensão é 200 metros para um dos lados."
+      },
+      {
+        "option": "350",
+        "likelyReasoning": "Sem cálculo adequado, apenas escolheu o maior valor fornecido supondo que maximiza a área.",
+        "misconceptionType": "Suposição sem análise",
+        "whyItLooksPlausible": "Maior medida parece a melhor para maximizar área.",
+        "whyItIsWrong": "Ilimitadamente alto, não respeita a restrição de custo da cerca e não foi calculado a partir da condição do problema."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Resolução de problemas com sistema de inequações e funções quadráticas",
+      "secondarySkills": [
+        "Matemática financeira",
+        "Funções quadráticas",
+        "Análise de restrições"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "Envolve formulação e manipulação de funções e inequações",
+        "Exige otimização sob restrição",
+        "Cuidado com unidades e custos distintos para diferentes lados"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 586,
+    "outputTokens": 988,
+    "estimatedCostUsd": 0.001815
+  }
+}

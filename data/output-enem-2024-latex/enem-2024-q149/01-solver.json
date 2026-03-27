@@ -1,0 +1,82 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:29:21.810Z",
+  "questionId": "enem-2024-q149",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E representa corretamente a medida da aresta do cubo que tem capacidade igual a 80% do volume do cilindro original.",
+      "strategy": "Calcular o volume do cilindro original, determinar 80% desse volume para obter o volume do cubo, e então calcular a aresta do cubo usando a fórmula do volume do cubo.",
+      "steps": [
+        "Calcular o volume do cilindro: V_cilindro = π * r² * h, com r = 3 cm, h = 15 cm, π ≈ 3.",
+        "Calcular: V_cilindro = 3 * 3² * 15 = 3 * 9 * 15 = 405 cm³.",
+        "Calcular 80% do volume do cilindro: V_cubo = 0.8 * 405 = 324 cm³.",
+        "Volume do cubo é dado por: V_cubo = a³, onde a é a aresta do cubo.",
+        "Calcular a: a = ∛(324).",
+        "Fatorar 324 para facilitar a raiz cúbica: 324 = 27 * 12.",
+        "Então, a = ∛(27 * 12) = ∛27 * ∛12 = 3 * ∛12.",
+        "O valor da aresta é então 3 vezes a raiz cúbica de 12 cm, que corresponde à alternativa E.",
+        "Verificar as opções dadas e identificar que a alternativa E é 3³√12, que é a correta."
+      ],
+      "formulasUsed": [
+        "Volume do cilindro: V = π * r² * h",
+        "Volume do cubo: V = a³",
+        "Raiz cúbica: a = ∛V"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa D: 6³√6",
+        "Imagem da alternativa E: 3³√12"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Calcularam diretamente a aresta como 6 cm, talvez confundindo raio com aresta ou assumindo volume igual ao do cilindro.",
+        "misconceptionType": "Erro de interpretação do volume e da porcentagem",
+        "whyItLooksPlausible": "6 cm é o dobro do raio e poderia parecer uma medida razoável para a aresta.",
+        "whyItIsWrong": "Não corresponde ao volume reduzido a 80% do volume do cilindro."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Tomaram a altura ou outra medida do cilindro como aresta do cubo.",
+        "misconceptionType": "Confusão entre dimensões lineares e volumétricas",
+        "whyItLooksPlausible": "18 cm é a altura do cilindro e poderia ter sido confundida com a aresta do cubo.",
+        "whyItIsWrong": "Não corresponde ao volume do novo cubo, que deve ser 80% do cilindro."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Tentaram usar uma raiz cúbica incorreta e um coeficiente errado para calcular a aresta.",
+        "misconceptionType": "Erro no cálculo da raiz cúbica e na simplificação da expressão",
+        "whyItLooksPlausible": "Forma parecida com a correta, mas coeficiente numérico incorreto.",
+        "whyItIsWrong": "O valor não corresponde à raiz cúbica correta do volume ajustado."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Geometria espacial",
+      "secondarySkills": [
+        "Cálculo de volume",
+        "Radiciação",
+        "Proporcionalidade"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É fundamental entender o cálculo de volume de cilindros e cubos.",
+        "Exige conhecimento da relação entre volume e medida linear (raiz cúbica).",
+        "Uso aproximado de π facilita o cálculo mental.",
+        "Interpretação de expressões envolvendo raízes também é cobrada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 588,
+    "outputTokens": 813,
+    "estimatedCostUsd": 0.001536
+  }
+}

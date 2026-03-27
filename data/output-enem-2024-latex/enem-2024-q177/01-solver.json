@@ -1,0 +1,84 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:53:07.916Z",
+  "questionId": "enem-2024-q177",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "2 550,00",
+      "correctnessClaim": "A resposta final está correta e justificada pela análise do crescimento linear do custo total em função da quantidade de mochilas produzidas, conforme dados da tabela.",
+      "strategy": "Usar as informações da tabela para encontrar a função linear que relaciona quantidade produzida (x) e custo total (C), e depois calcular o custo para 80 mochilas.",
+      "steps": [
+        "Identificar os pares (x, C): (30, 1050), (50, 1650) e (100, 3150).",
+        "Calcular a taxa de variação (coeficiente angular) a partir de dois pontos, por exemplo (30,1050) e (50,1650): (1650 - 1050) / (50 - 30) = 600 / 20 = 30.",
+        "Montar a equação do custo total na forma C = 30x + b, onde b é o custo fixo.",
+        "Para encontrar b, usar um ponto conhecido, por exemplo x = 30: 1050 = 30*30 + b => 1050 = 900 + b => b = 150.",
+        "Então a função do custo total é C = 30x + 150.",
+        "Calcular o custo para x = 80: C = 30*80 + 150 = 2400 + 150 = 2550.",
+        "Concluir que o custo total para 80 mochilas é R$ 2550,00."
+      ],
+      "formulasUsed": [
+        "C = ax + b (função linear)",
+        "a = (C2 - C1) / (x2 - x1) (coeficiente angular)"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela com quantidades 30, 50, 100 e custos 1050, 1650, 3150"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "2 400,00",
+        "likelyReasoning": "Calcular o custo variável multiplicando a taxa por 80, sem considerar o custo fixo.",
+        "misconceptionType": "Omissão do custo fixo",
+        "whyItLooksPlausible": "A taxa de variação do custo por mochila é R$30, então 30*80=2400 parece lógico.",
+        "whyItIsWrong": "Não inclui o custo fixo de R$150, que é constante independente da quantidade."
+      },
+      {
+        "option": "2 520,00",
+        "likelyReasoning": "Erro ao calcular o coeficiente angular ou subentender um custo fixo diferente.",
+        "misconceptionType": "Erro de cálculo ou interpretação da função linear",
+        "whyItLooksPlausible": "Parece próxima ao valor correto, mostrando tentativa de interpolação.",
+        "whyItIsWrong": "Valor incorreto por erro no cálculo da constante b ou no coeficiente angular."
+      },
+      {
+        "option": "2 700,00",
+        "likelyReasoning": "Confusão entre os pontos ou analogia errada com o custo para 100 mochilas.",
+        "misconceptionType": "Confusão com extrapolação e proporcionalidade direta",
+        "whyItLooksPlausible": "Parece razoável pois está entre os custos dos pontos dados na tabela.",
+        "whyItIsWrong": "Não corresponde ao valor correto calculado pela função linear."
+      },
+      {
+        "option": "2 800,00",
+        "likelyReasoning": "Confundiu custo variável com custo total ou somou erradamente os valores.",
+        "misconceptionType": "Erro de soma ou interpretação dos dados",
+        "whyItLooksPlausible": "Valor arredondado e maior que os anteriores, pode parecer estimativa para maior produção.",
+        "whyItIsWrong": "Não segue a progressão linear dos dados apresentados."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Modelagem e interpretação de funções lineares",
+      "secondarySkills": [
+        "Cálculo de coeficiente angular",
+        "Interpretação de tabelas",
+        "Aplicação de funções em contextos reais"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "O aluno deve compreender função linear e diferença entre custo fixo e variável.",
+        "É necessário interpretar uma tabela e construir uma equação a partir dos dados.",
+        "Exige cálculo preciso do coeficiente angular e interpolação para encontrar o valor pedido."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 743,
+    "outputTokens": 873,
+    "estimatedCostUsd": 0.001694
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:22:55.944Z",
+  "questionId": "enem-2024-q141",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar o valor máximo da grandeza III quando a grandeza I varia de 1 a 3, primeiro relacionamos I com II usando o primeiro gráfico, depois relacionamos II com III usando o segundo gráfico, fazendo interpolação para valores intermediários. Assim, levantamos os valores de III correspondentes e escolhemos o maior valor dentro do intervalo.",
+      "stepByStep": [
+        "Observe no primeiro gráfico os valores de II correspondentes aos valores de I para 1, 2 e 3.",
+        "Anote que para I=1, II=2; para I=2, II=3; para I=3, II está entre 3 e 4, aproximadamente 3,5.",
+        "No segundo gráfico, observe os valores de III para II = 2, 3 e 3,5: para II=2, III=3; para II=3, III=1; e para II=3,5, interpolando entre II=3 (III=1) e II=4 (III=3), temos III=2,5.",
+        "Compare os valores de III encontrados para o intervalo I=[1, 3]: os valores são 3, 1 e 2,5.",
+        "Identifique o valor máximo entre eles, que é 3 para II=2, mas este valor ocorre para I=1, no limite inferior.",
+        "Verifique que para valores maiores de I, a grandeza III não ultrapassa 2,5, pois para I=3 temos III=2,5.",
+        "Portanto, considerando toda a variação de I de 1 a 3, o valor máximo que III pode assumir é 2,5, resultado da interpolação no intervalo.",
+        "Conclua que o valor máximo da grandeza III no intervalo solicitado é 2,5."
+      ],
+      "commonPitfalls": [
+        "Ignorar a necessidade de relacionar as duas grandezas em cascata, ou seja, I→II→III, tentando analisar um gráfico isoladamente.",
+        "Considerar apenas os valores extremos sem interpolar para valores intermediários que podem alterar o máximo da grandeza III.",
+        "Confundir os eixos e valores dos gráficos, por exemplo, misturando valores de II e III.",
+        "Escolher o valor máximo absoluto da grandeza III no gráfico II sem considerar que ele deve estar condicionado ao intervalo de I entre 1 e 3.",
+        "Não interpretar corretamente o intervalo de valores da grandeza II para o intervalo da grandeza I e, assim, interpretar errado o gráfico II."
+      ],
+      "teachingTips": [
+        "Explique a importância de entender dependências em cascata entre variáveis para analisar gráficos combinados.",
+        "Ensine a fazer interpolação linear no contexto de gráficos para encontrar valores intermediários e aumentar a precisão da resposta.",
+        "Mostre como identificar intervalos de interesse nas variáveis e relacioná-los nos gráficos para evitar erros comuns.",
+        "Utilize exercícios que envolvam múltiplos gráficos ligados para desenvolver a habilidade de raciocínio integrado.",
+        "Enfatize que o valor máximo ou mínimo deve ser buscado dentro do intervalo dado, e que considerar somente valores pontuais pode levar a resposta errada.",
+        "Proponha a verificação dos resultados obtidos para garantir que as interpretações estejam corretas, evitando confusões entre variáveis e escalas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2898,
+    "outputTokens": 673,
+    "estimatedCostUsd": 0.002236
+  }
+}

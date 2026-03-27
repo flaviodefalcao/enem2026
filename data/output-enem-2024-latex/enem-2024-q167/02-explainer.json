@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:42:36.319Z",
+  "questionId": "enem-2024-q167",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a diferença de tamanho entre as telas dos celulares, convertemos as medidas mistas em números decimais, calculamos a diferença absoluta entre elas e arredondamos o resultado para uma casa decimal.",
+      "stepByStep": [
+        "Converter a medida do Celular 1 de fração mista para decimal: 3 1/2 = 3 + 0,5 = 3,5 polegadas.",
+        "Converter a medida do Celular 2 de fração mista para decimal: 4 5/6 = 4 + 0,8333 ≈ 4,8333 polegadas.",
+        "Calcular a diferença absoluta entre as duas medidas: |4,8333 - 3,5| = 1,3333.",
+        "Arredondar o resultado para uma casa decimal: 1,3 polegadas."
+      ],
+      "commonPitfalls": [
+        "Confundir a conversão de frações para decimais, como interpretar errado 5/6.",
+        "Subtrair apenas partes da medida, como ignorar a parte inteira ou a fração.",
+        "Arredondar inadequadamente, como arredondar para 1,0 ao invés de 1,3.",
+        "Somar as medidas em vez de calcular a diferença absoluta."
+      ],
+      "teachingTips": [
+        "Explique como converter frações mistas para decimais passo a passo.",
+        "Mostre a importância da diferença absoluta, sempre como valor positivo.",
+        "Enfatize o processo correto de arredondamento numérico para casa decimal indicada.",
+        "Use exemplos visuais semelhantes para reforçar o conceito de medida e diferença."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2022,
+    "outputTokens": 330,
+    "estimatedCostUsd": 0.001337
+  }
+}

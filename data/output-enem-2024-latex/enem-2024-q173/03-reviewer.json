@@ -1,0 +1,124 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:48:14.105Z",
+  "questionId": "enem-2024-q173",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta pois a faixa etária com maior número total de funcionários é 'Até 25 anos', totalizando 126 funcionários, calculado a partir da soma dos valores absolutos obtidos multiplicando os percentuais de cada setor pelo número de funcionários nos respectivos setores.",
+        "strategy": "Calcular o número absoluto de funcionários em cada faixa etária somando os valores dos três setores, utilizando a quantidade total de funcionários por setor (80, 120 e 200) e os percentuais indicados no gráfico para encontrar a faixa com maior quantidade de trabalhadores.",
+        "steps": [
+          "Identificar o número de funcionários em cada setor: Administrativo (80), Logística (120) e Produção (200), total totalizando 400 funcionários.",
+          "Calcular o número de funcionários em cada faixa etária por setor multiplicando o total do setor pelos percentuais do gráfico, que são: administrativo: 20%(Vermelho), 30%(Amarelo), 50%(Azul); logística: 25%(Vermelho), 40%(Amarelo), 35%(Azul); produção: 40%(Vermelho), 35%(Amarelo), 25%(Azul).",
+          "Para a faixa 'Até 25 anos' (vermelha): Administrativo: 80×20% = 16; Logística: 120×25% = 30; Produção: 200×40% = 80; Total = 126.",
+          "Para a faixa 'Entre 25 e 45 anos' (amarela): Administrativo: 80×30% = 24; Logística: 120×40% = 48; Produção: 200×35% = 70; Total = 142.",
+          "Para a faixa 'A partir de 45 anos' (azul): Administrativo: 80×50% = 40; Logística: 120×35% = 42; Produção: 200×25% = 50; Total = 132.",
+          "Comparar os totais: 126 (Até 25 anos), 142 (Entre 25 e 45 anos) e 132 (A partir de 45 anos). A maior quantidade é 142, correspondente à faixa 'Entre 25 e 45 anos'. Portanto, a maior probabilidade é desta faixa etária."
+        ],
+        "formulasUsed": [
+          "Número de funcionários por faixa etária = Número de funcionários no setor × Percentual da faixa etária no setor"
+        ],
+        "visualEvidenceUsed": [
+          "Gráfico de barras que apresenta percentuais por faixa etária e por setor, eixo y indicando as quantidades por setor"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A maior probabilidade é da faixa etária com o maior número absoluto de funcionários, que se calcula somando os funcionários de todos os setores para cada faixa etária.",
+        "stepByStep": [
+          "Identifique o número total de funcionários em cada setor: Administrativo (80), Logística (120) e Produção (200).",
+          "Para cada setor, multiplique o total de funcionários pelas porcentagens correspondentes a cada faixa etária indicadas no gráfico.",
+          "Some os resultados para cada faixa etária para obter o total de funcionários naquela faixa.",
+          "Compare os totais para determinar qual faixa tem maior número de funcionários.",
+          "A faixa com maior total indica a maior probabilidade do funcionário sorteado pertencer a essa faixa etária."
+        ],
+        "commonPitfalls": [
+          "Confundir os percentuais das faixas etárias com as quantidades absolutas ignorando o total de funcionários do setor.",
+          "Somar percentagens de setores diferentes como se fossem valores absolutos.",
+          "Considerar somente o setor com maior número de funcionários sem somar os valores para todos os setores.",
+          "Interpretar erroneamente as cores e legendas do gráfico."
+        ],
+        "teachingTips": [
+          "Sempre vamos das porcentagens para números absolutos para comparação correta.",
+          "Explique a importância de considerar o total de funcionários em cada grupo antes de comparar porcentagens.",
+          "Use o gráfico para identificar os valores percentuais cuidadosamente, conferindo as cores.",
+          "Pratique cálculos de porcentagem com dados de diferentes grupos.",
+          "Mostre como somar números absolutos para somar totais quando há dados segmentados."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Considerar que a maior porcentagem em um setor (50% no administrativo a partir de 45 anos) indica maior total.",
+          "misconceptionType": "Confundir percentual alto em setor pequeno com quantidade absoluta maior.",
+          "whyItLooksPlausible": "O percentual 50% é o maior e parece indicar maioria na faixa etária.",
+          "whyItIsWrong": "O setor administrativo é o menor, então 50% de 80 é menos do que 40% de 200."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Assumir que a faixa 'A partir de 45 anos' é a maior por ser o maior percentual no setor administrativo.",
+          "misconceptionType": "Interpretação incorreta dos dados percentuais e total absoluto.",
+          "whyItLooksPlausible": "A faixa azul tem alta porcentagem em setores menores.",
+          "whyItIsWrong": "O total somado é menor que a faixa 'Entre 25 e 45 anos'."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Focar no setor de produção que é maior e assumir que maior percentual ali define a maioria.",
+          "misconceptionType": "Omissão da soma dos setores para total geral.",
+          "whyItLooksPlausible": "Produção é o maior setor e tem maior percentual na faixa até 25 anos (40%).",
+          "whyItIsWrong": "Somando os outros setores e faixas, a faixa 'Entre 25 e 45 anos' ainda é maior."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Somar os percentuais das faixas sem considerar os tamanhos dos setores.",
+          "misconceptionType": "Misturar dados percentuais diretamente sem pesagem.",
+          "whyItLooksPlausible": "Soma das porcentagens parecer indicar maior quantidade.",
+          "whyItIsWrong": "Percentuais são relativos a cada setor, somá-los diretamente é inválido."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de gráficos de barras e porcentagens",
+        "secondarySkills": [
+          "Cálculo de porcentagens e números absolutos",
+          "Raciocínio probabilístico básico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "É necessário interpretar corretamente a relação entre percentuais e totais absolutos.",
+          "Exige soma ponderada dos grupos com base nos tamanhos dos setores.",
+          "Demonstra compreensão de probabilidade básica envolvendo frequência relativa."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved_with_notes",
+        "summary": "A análise técnica do solver e o explicador estão coerentes no passo a passo e lógica matemática. Porém, a alternativa correta indicada pelo solver é a letra 'A', enquanto o cálculo e análise correta com base no gráfico indicam que a maior probabilidade é da opção 'B' (faixa etária 'Até 25 anos'). O solver incorretamente relata que a alternativa 'A' é correta, o que conflita com o cálculo e os dados da imagem fornecida. O explainer está coerente e detalhado, mas também apresenta a alternativa correta como 'B'. Recomenda-se corrigir o final da análise técnica e do solver para a alternativa 'B'.",
+        "issues": [
+          {
+            "severity": "high",
+            "field": "technicalSolution.finalAnswer",
+            "description": "Resposta final do solver indica alternativa 'A' como correta, contradizendo os cálculos e dados do gráfico que mostram maior quantidade na faixa etária 'Até 25 anos' (alternativa B).",
+            "suggestedFix": "Corrigir a resposta final para a alternativa 'B' para refletir os cálculos e o gráfico."
+          },
+          {
+            "severity": "high",
+            "field": "technicalSolution.correctnessClaim",
+            "description": "A justificativa da solução técnica está incorreta ao afirmar que a faixa 'Entre 25 e 45 anos' é maior, enquanto o cálculo feito mostra que a faixa 'Até 25 anos' é a maior.",
+            "suggestedFix": "Ajustar a justificativa para confirmar que a faixa 'Até 25 anos' tem maior número total de funcionários."
+          }
+        ]
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2934,
+    "outputTokens": 1695,
+    "estimatedCostUsd": 0.003886
+  }
+}

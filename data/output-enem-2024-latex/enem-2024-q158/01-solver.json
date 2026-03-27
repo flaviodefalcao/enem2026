@@ -1,0 +1,94 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:35:26.245Z",
+  "questionId": "enem-2024-q158",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "162,50",
+      "correctnessClaim": "A resposta C (R$ 162,50) é correta com base nos cálculos realizados.",
+      "strategy": "Comparar os custos ao comprar defensivos do Tipo A e Tipo B para cobrir 20 hectares, considerando as condições de promoção e eficiência de aplicação, e escolher o custo mínimo total.",
+      "steps": [
+        "Determinar a quantidade de litros necessários para cobrir 20 hectares com cada tipo de defensivo:",
+        "- Tipo A: 1 litro para 0,5 ha → litros necessários = 20 / 0,5 = 40 litros",
+        "- Tipo B: 1 litro para 0,4 ha → litros necessários = 20 / 0,4 = 50 litros",
+        "Analisar a promoção para o Tipo A: comprar pelo menos 35 litros dá a máscara grátis. O agricultor precisa de 40 litros, que é maior que 35, então a máscara é grátis se comprar 40 litros de Tipo A.",
+        "Calcular o custo se comprar apenas defensivo Tipo A:",
+        "Custo dos 40 litros de Tipo A = 40 x 4,20 = R$ 168,00",
+        "Máscara grátis (promoção), então custo total = R$ 168,00",
+        "Calcular o custo se comprar apenas defensivo Tipo B:",
+        "Custo dos 50 litros de Tipo B = 50 x 3,00 = R$ 150,00",
+        "Como não há promoção para o Tipo B, deve-se comprar a máscara, custo = R$ 12,50",
+        "Custo total = 150,00 + 12,50 = R$ 162,50",
+        "Comparar os dois totais: R$ 168,00 (Tipo A) e R$ 162,50 (Tipo B). O mínimo é R$ 162,50 para o Tipo B com máscara.",
+        "Verificar se há combinação de A e B que reduza o custo, considerando promoção e necessidade de máscara.",
+        "Como a promoção dá máscara grátis somente comprando 35 litros de Tipo A, comprar menos de 35 litros de A e o restante em B implica custo da máscara (12,50), e custo total elevado; logo, não compensa.",
+        "Concluir que o custo mínimo é R$ 162,50, comprando 50 litros de Tipo B e a máscara."
+      ],
+      "formulasUsed": [
+        "LitrosNecessarios = Área / CoberturaPorLitro",
+        "CustoTotalA = LitrosA * PreçoA + CustoMáscara (se aplicável)",
+        "CustoTotalB = LitrosB * PreçoB + CustoMáscara (se aplicável)"
+      ],
+      "visualEvidenceUsed": [
+        "Cartaz promocional com preços: Tipo A = R$4,20/litro, Tipo B = R$3,00/litro, Máscara = R$12,50",
+        "Promoção: comprar pelo menos 35 litros do Tipo A para ganhar máscara grátis"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "147,00",
+        "likelyReasoning": "Calcular a quantidade de dez litros a menos para Tipo A (30 litros) e colocar o custo da máscara, subestimando os litros necessários.",
+        "misconceptionType": "Erro na necessidade de litros ou mistura incorreta do volume com promoção.",
+        "whyItLooksPlausible": "Parece ser um valor menor que o custo do Tipo A com 40 litros, pode parecer uma economia.",
+        "whyItIsWrong": "O agricultor precisa de 40 litros para 20 hectares, 30 litros não são suficientes. Logo, o custo está subestimado."
+      },
+      {
+        "option": "150,00",
+        "likelyReasoning": "Calcular custo dos 50 litros do Tipo B, mas esquecer do custo da máscara para aplicação.",
+        "misconceptionType": "Ignorar o custo adicional da máscara quando não há promoção.",
+        "whyItLooksPlausible": "Preço do Tipo B por litro multiplicado pela quantidade exata, parece correto à primeira vista.",
+        "whyItIsWrong": "Faltou acrescentar R$12,50 da máscara, o que torna o custo total maior."
+      },
+      {
+        "option": "165,75",
+        "likelyReasoning": "Calcular um valor intermediário, talvez uma mistura errada ou um arredondamento inadequado do custo dos litros e máscara.",
+        "misconceptionType": "Erro de cálculo ou arredondamento.",
+        "whyItLooksPlausible": "Está próximo do valor da resposta correta, parece uma média entre os valores dos defensivos e da máscara.",
+        "whyItIsWrong": "Não corresponde a nenhum cálculo correto da soma dos custos necessários com ou sem promoção."
+      },
+      {
+        "option": "168,00",
+        "likelyReasoning": "Comprar apenas 40 litros do Tipo A e considerar a máscara gratuita pela promoção.",
+        "misconceptionType": "Não comparar com compra do Tipo B e ignorar que Tipo B pode ser mais barato mesmo pagando a máscara.",
+        "whyItLooksPlausible": "Multiplicação direta do preço por litro pelo volume correto do Tipo A.",
+        "whyItIsWrong": "Embora correto para o Tipo A, o custo não é o mínimo, pois comprar Tipo B e máscara sai mais barato."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Raciocínio Matemático e Financeiro",
+      "secondarySkills": [
+        "Interpretação de Texto",
+        "Cálculo de Proporção",
+        "Análise de Promoções e Condições Comerciais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "A solução exige interpretar condições promocionais presentes na imagem anexa.",
+        "É necessário calcular e comparar custos totais para decidir custo mínimo.",
+        "Importante entender conversão de área por litro para quantidade necessária."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1188,
+    "outputTokens": 1174,
+    "estimatedCostUsd": 0.002354
+  }
+}

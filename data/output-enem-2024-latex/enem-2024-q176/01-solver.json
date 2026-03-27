@@ -1,0 +1,84 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:52:16.070Z",
+  "questionId": "enem-2024-q176",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "8",
+      "correctnessClaim": "A resposta B) 8 está correta com base na extrapolação da reta de tendência apresentada no gráfico.",
+      "strategy": "Identificar a equação da reta de tendência a partir de dois pontos do gráfico, calculando o coeficiente angular e o coeficiente linear, e depois usar essa equação para estimar a receita para o ano de 2026.",
+      "steps": [
+        "Selecionar dois pontos claros da reta de tendência no gráfico. Por exemplo, (2014, 3.5) e (2021, 6.5).",
+        "Calcular o coeficiente angular (m) da reta: m = (6.5 - 3.5) / (2021 - 2014) = 3 / 7 ≈ 0.43.",
+        "Calcular o coeficiente linear (b) usando um dos pontos, por exemplo: 3.5 = 0.43 * 2014 + b => b = 3.5 - 0.43*2014.",
+        "Montar a equação da reta: Receita = 0.43 * Ano + b.",
+        "Calcular a receita estimada para 2026 substituindo o ano na equação: Receita(2026) = 0.43*2026 + b.",
+        "Com o valor de b aproximado, a receita estimada fica próxima de 8 milhões de reais.",
+        "Confirmar que a estimativa é coerente visualmente no gráfico com a reta projetada para 2026."
+      ],
+      "formulasUsed": [
+        "m = (y2 - y1) / (x2 - x1)",
+        "y = mx + b"
+      ],
+      "visualEvidenceUsed": [
+        "Gráfico com pontos de receita anual e reta de tendência para os anos 2014 a 2021"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "7",
+        "likelyReasoning": "Considerar apenas o ponto inicial da reta para 2014 e não calcular a inclinação, subestimando a receita em 2026.",
+        "misconceptionType": "Erro na extrapolação",
+        "whyItLooksPlausible": "7 é próximo do valor inicial e parece uma resposta razoável para números pequenos.",
+        "whyItIsWrong": "Não leva em conta o crescimento indicado pela reta ao longo dos anos."
+      },
+      {
+        "option": "9",
+        "likelyReasoning": "Calcular a receita para 2026 mas superestimar a inclinação da reta, levando a uma resposta maior que a correta.",
+        "misconceptionType": "Superestimação da inclinação",
+        "whyItLooksPlausible": "9 está próximo do valor real e parece um resultado de cálculo impreciso na subida da reta.",
+        "whyItIsWrong": "A inclinação correta, ao analisar o gráfico, leva a um valor menor, mais próximo de 8."
+      },
+      {
+        "option": "10",
+        "likelyReasoning": "Confundir o crescimento da receita e usar um valor alto da inclinação da reta, exagerando o aumento anual das receitas.",
+        "misconceptionType": "Exagero no crescimento esperado",
+        "whyItLooksPlausible": "10 é uma resposta numérica consistente com um grande aumento anual da receita.",
+        "whyItIsWrong": "A reta do gráfico não suporta um aumento tão acentuado entre 2014 e 2021."
+      },
+      {
+        "option": "11",
+        "likelyReasoning": "Supor que a receita continuará crescendo rapidamente após 2021, mesmo sem evidência clara no gráfico.",
+        "misconceptionType": "Projeção irrealista",
+        "whyItLooksPlausible": "11 é um número arredondado maior que 10, indicando crescimento forte.",
+        "whyItIsWrong": "Extrapola o crescimento além do indicado pela reta de tendência apresentada."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de gráficos",
+      "secondarySkills": [
+        "Regressão linear",
+        "Extrapolação de dados",
+        "Matemática básica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "Exige o entendimento da reta de tendência para previsão futura.",
+        "Requer a habilidade de calcular a equação da reta a partir dos dados visuais.",
+        "Demanda fazer extrapolação além dos dados disponíveis no gráfico."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1230,
+    "outputTokens": 866,
+    "estimatedCostUsd": 0.001878
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:31:16.898Z",
+  "questionId": "enem-2024-q151",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar a área do vão aberto na maquete, precisamos usar a relação de escala entre o modelo e o prédio real, lembrando que a escala linear 1:200 se aplica ao comprimento, mas para áreas devemos elevar essa escala ao quadrado. Assim, convertemos a área real para centímetros quadrados, aplicamos a escala ao quadrado e obtemos a área na maquete.",
+      "stepByStep": [
+        "Entenda que a escala 1:200 significa que 1 cm na maquete equivale a 200 cm (ou 2 metros) no prédio real.",
+        "Converta a área do vão real de metros quadrados para centímetros quadrados: 1 m² = 10.000 cm², então 1.672 m² = 1.672 × 10.000 = 16.720.000 cm².",
+        "Calcule a escala para área elevando a escala linear ao quadrado: (1/200)² = 1/40.000.",
+        "Multiplique a área real em cm² pela escala ao quadrado para encontrar a área na maquete: 16.720.000 × 1/40.000 = 418 cm².",
+        "Portanto, a área do vão aberto na maquete é 418 cm², que corresponde à alternativa E."
+      ],
+      "commonPitfalls": [
+        "Usar a escala linear diretamente para a área, sem elevar ao quadrado, levando a resultados errados e distorcidos.",
+        "Não converter corretamente as unidades de área de metros quadrados para centímetros quadrados antes de aplicar a escala.",
+        "Confundir a escala de comprimento com a escala de área, aplicando fatores errados.",
+        "Erro na multiplicação ou divisão ao aplicar o fator da escala ao quadrado."
+      ],
+      "teachingTips": [
+        "Reforce a diferença entre escala linear e escala para área, mostrando que, para áreas, a escala é o quadrado da escala linear.",
+        "Explique a importância de converter unidades antes de aplicar a escala para obter valores consistentes.",
+        "Use exemplos práticos para ilustrar como uma escala linear se traduz em escala para áreas (por exemplo, quadrados desenhados em escala).",
+        "Estimule os alunos a identificar o tipo de medida (comprimento, área, volume) para aplicarem a escala correta.",
+        "Realize exercícios que envolvam conversão de unidades e aplicação de escalas em contextos variados para fixar o conceito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1155,
+    "outputTokens": 493,
+    "estimatedCostUsd": 0.001251
+  }
+}

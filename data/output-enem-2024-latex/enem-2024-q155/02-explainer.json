@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:33:39.706Z",
+  "questionId": "enem-2024-q155",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para escolher o sensor adequado, calculamos a área de cobertura de cada um usando a fórmula da área do setor circular, A = (α/360) × π × R², e selecionamos o que cobre pelo menos 70 m² com a menor área possível, que indica menor preço.",
+      "stepByStep": [
+        "Identifique que a área de cobertura é um setor circular definido pelo ângulo α e pelo raio R.",
+        "Use a fórmula da área do setor circular: A = (α/360) × π × R², onde π≈3.",
+        "Calcule a área para cada tipo de sensor substituindo os valores de α e R.",
+        "Compare as áreas obtidas para verificar quais atendem ao requisito mínimo de 70 m².",
+        "Entre os sensores que atendem, escolha o que possui a menor área, pois isso indica menor preço.",
+        "Conclua que o sensor do tipo V (α=90°, R=10) é o ideal, pois cobre 75 m², que é acima do mínimo e é o menor possível dentre os que atendem."
+      ],
+      "commonPitfalls": [
+        "Confundir a fórmula da área do setor circular com a da área do círculo.",
+        "Não elevar o raio ao quadrado na fórmula, subestimando a área.",
+        "Ignorar o requisito mínimo de área e escolher o sensor com maior ângulo ou maior raio sem cálculo.",
+        "Não identificar que escolher a menor área que supera a exigência implica em menor custo.",
+        "Esquecer de converter o ângulo para fração de 360 graus corretamente na fórmula."
+      ],
+      "teachingTips": [
+        "Apresente ou revise a fórmula da área do setor circular utilizando diagramas para facilitar a compreensão.",
+        "Faça cálculos passo a passo em sala para mostrar a importância de cada parte da fórmula.",
+        "Use problemas similares para praticar o conceito de setor circular e comparação de áreas.",
+        "Discuta o raciocínio por trás de escolher a menor área que atenda à condição para enfatizar otimização.",
+        "Relacionar a área de cobertura com o custo para estimular a aplicação prática dos conceitos matemáticos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2186,
+    "outputTokens": 421,
+    "estimatedCostUsd": 0.001548
+  }
+}

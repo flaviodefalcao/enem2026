@@ -1,0 +1,80 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 162 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Uma imobiliária oferece financiamento de apartamentos com 100 parcelas mensais, onde a primeira parcela é paga no momento da compra com valor fixo $P$. Cada parcela subsequente é reajustada por um acréscimo percentual fixo formando uma progressão geométrica com razão $r>1$. A imobiliária pagará todas as parcelas correspondentes ao mês de aniversário do comprador. Um cliente com aniversário em maio deseja escolher o mês para comprar o apartamento reduzindo o valor total pago. Qual mês ele deve escolher?
+
+\subsection*{Solução Técnica}
+
+Para determinar o mês ideal para a compra do apartamento, consideramos a sequência das 100 parcelas como uma progressão geométrica crescente. Seja $P$ o valor da primeira parcela e $r > 1$ a razão da progressão.
+
+A n-ésima parcela é dada por:
+\[
+P_n = P \cdot r^{n-1}
+\]
+
+Como o comprador faz aniversário em maio, parcelas referentes a maio são pagas pela imobiliária.
+
+O total pago pelo comprador é:
+\[
+S = \sum_{n=1}^{100} P \cdot r^{n-1} - \sum_{k \in M} P \cdot r^{k-1}
+\]
+onde $M$ é o conjunto de índices das parcelas em maio.
+
+Comparando os totais para os meses candidatos (fevereiro, abril, maio, junho, agosto), verifica-se que iniciar em \textbf{fevereiro} minimiza o valor total pago.
+
+\subsection*{Explicação Didática}
+
+\textbf{Resumo:} O valor das parcelas aumenta mês a mês, enquanto as parcelas referentes ao mês de aniversário (maio) são gratuitas para o comprador. Analisando a sequência e as parcelas descontadas, identifica-se que comprar em fevereiro é mais vantajoso.
+
+\textbf{Passos para compreensão:}
+\begin{enumerate}
+  \item Identificar que as parcelas formam uma progressão geométrica crescente.
+  \item Mapear quais parcelas cairão em maio conforme o mês de início.
+  \item Calcular o somatório dos pagamentos efetuados e dos descontos.
+  \item Comparar os totais pagos para cada opção.
+  \item Concluir que fevereiro gera o menor custo.
+\end{enumerate}
+
+\subsection*{Erros Comuns}
+\begin{itemize}
+  \item Supor que comprar no mês do aniversário (maio) é sempre melhor.
+  \item Não considerar o crescimento progressivo dos valores das parcelas.
+  \item Contar incorretamente as parcelas isentas.
+\end{itemize}
+
+\subsection*{Dicas para Ensino}
+\begin{itemize}
+  \item Usar exemplos numéricos simples.
+  \item Fazer uso de calendário para visualização.
+  \item Apresentar a progressão geométrica de forma intuitiva.
+  \item Praticar com diferentes meses de aniversário.
+\end{itemize}
+
+\subsection*{Análise dos Distratores}
+\begin{itemize}
+  \item \textbf{Abril:} Estratégia errada por não maximizar a isenção das parcelas.
+  \item \textbf{Maio:} Intuitivo, mas não otimiza o total pago.
+  \item \textbf{Junho:} Falsa impressão de mais parcelas gratuitas.
+  \item \textbf{Agosto:} Desconsidera o impacto da progressão geométrica e aumenta o custo.
+\end{itemize}
+
+\subsection*{Perfil da Questão}
+\begin{itemize}
+  \item Habilidade Primária: Raciocínio Matemático e Álgebra.
+  \item Habilidades Secundárias: Progressão Geométrica, Análise de Sequências, Raciocínio Financeiro.
+  \item Demanda Cognitiva: Médio.
+  \item Dificuldade Estimada: Média.
+  \item Observações: Requer modelagem e análise combinada de sequência e calendários.
+\end{itemize}
+
+\subsection*{Conclusão}
+A análise mostra que a resposta correta é \textbf{fevereiro}, que minimiza o valor total pago pelo comprador devido ao alinhamento dos meses das parcelas gratuitas e a progressão geométrica do acréscimo das parcelas.
+
+\end{document}

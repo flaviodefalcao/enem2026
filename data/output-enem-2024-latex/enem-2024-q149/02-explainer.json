@@ -1,0 +1,42 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:29:32.398Z",
+  "questionId": "enem-2024-q149",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a medida da aresta do cubo que tem 80% do volume do cilindro, calculamos o volume do cilindro, reduzimos para 80%, e então encontramos a aresta do cubo pela raiz cúbica desse volume.",
+      "stepByStep": [
+        "Calcule o volume do cilindro usando a fórmula V = π × r² × h, com r = 3 cm, h = 15 cm e π ≈ 3.",
+        "Faça as contas: V = 3 × 3² × 15 = 3 × 9 × 15 = 405 cm³.",
+        "Calcule 80% do volume do cilindro: 0,8 × 405 = 324 cm³, que será o volume do cubo.",
+        "Use a fórmula do volume do cubo V = a³, onde a é a aresta do cubo, para encontrar a.",
+        "Calcule a raiz cúbica de 324: a = ∛324.",
+        "Fatore 324 como 27 × 12 para facilitar a raiz cúbica: a = ∛27 × ∛12 = 3 × ∛12.",
+        "Assim, a aresta do cubo é 3 vezes a raiz cúbica de 12 cm.",
+        "Compare com as opções e escolha a que representa essa expressão, que é a alternativa E."
+      ],
+      "commonPitfalls": [
+        "Confundir a redução do volume com redução da aresta, esquecendo que volume é relacionado ao cubo da aresta.",
+        "Usar valores incorretos para π ou para o cálculo do volume do cilindro.",
+        "Escolher a aresta igual à altura ou ao diâmetro do cilindro, sem considerar a redução para 80% do volume.",
+        "Não aplicar a raiz cúbica corretamente para encontrar a medida da aresta do cubo.",
+        "Selecionar a alternativa visivelmente errada por não interpretar as expressões com raízes corretamente."
+      ],
+      "teachingTips": [
+        "Reforce a relação entre volume e medidas lineares: volume é proporcional ao cubo da aresta.",
+        "Pratique cálculos aproximados usando π = 3 para facilitar o entendimento inicial.",
+        "Mostre a importância de interpretar percentual no contexto do volume, não apenas da aresta.",
+        "Apresente a fatoração de números para ajudar no cálculo da raiz cúbica sem calculadora.",
+        "Use exemplos visuais para ilustrar a diferença entre dimensões lineares e volumétricas.",
+        "Incentive os alunos a comparar expressões matemáticas com as opções dadas para evitar erros na escolha."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1312,
+    "outputTokens": 521,
+    "estimatedCostUsd": 0.001358
+  }
+}
