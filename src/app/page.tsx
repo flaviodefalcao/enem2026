@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
 export default function Home() {
-  redirect("/prova/2024/matematica");
+  redirect("/prova/2024");
 }

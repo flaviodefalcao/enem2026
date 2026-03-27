@@ -215,6 +215,15 @@ export type QuestionPageData = QuestionAnalyticsData & {
   resolution: ResolutionContent;
   latexResolution: LatexResolutionContent | null;
   analyticsSummary?: string;
+  triMetrics: {
+    a: number;
+    b: number;
+    c: number;
+    rankA: number;
+    rankB: number;
+    difficultyLevel: number;
+    relativeDifficultyLabel: string;
+  };
 };
 
 type ExtractionOverrides = Record<
@@ -256,6 +265,19 @@ const fallbackOptionDistribution: Record<"A" | "B" | "C" | "D" | "E", number> = 
 };
 
 const extractionOverrideMap = extractionOverrides as ExtractionOverrides;
+
+const triRankByA = new Map<number, number>(
+  [...analyticsQuestions]
+    .sort((left, right) => right.tri.a - left.tri.a)
+    .map((question, index) => [question.id, index + 1]),
+);
+
+const triRankByB = new Map<number, number>(
+  [...analyticsQuestions]
+    .sort((left, right) => right.tri.b - left.tri.b)
+    .map((question, index) => [question.id, index + 1]),
+);
+
 function getLatexResolutionContent(
   examQuestionNumber: number,
 ): LatexResolutionContent | null {
@@ -558,6 +580,43 @@ function buildAbstractionLevel(difficulty: string) {
   return "Básico";
 }
 
+function mapRelativeDifficultyLevel(difficultyRank: number) {
+  if (!difficultyRank) {
+    return 3;
+  }
+
+  if (difficultyRank <= 9) {
+    return 5;
+  }
+  if (difficultyRank <= 18) {
+    return 4;
+  }
+  if (difficultyRank <= 27) {
+    return 3;
+  }
+  if (difficultyRank <= 36) {
+    return 2;
+  }
+  return 1;
+}
+
+function getRelativeDifficultyLabel(level: number) {
+  switch (level) {
+    case 5:
+      return "Muito alta";
+    case 4:
+      return "Alta";
+    case 3:
+      return "Média";
+    case 2:
+      return "Baixa";
+    case 1:
+      return "Muito baixa";
+    default:
+      return "Média";
+  }
+}
+
 function buildRelationEntries(
   currentId: number,
   extractedContent: ExtractedQuestionContent,
@@ -676,6 +735,8 @@ export function getQuestionPageData(id: number): QuestionPageData | null {
   const analyticsContent = getAnalyticsContent(id, extractedContent);
   const analyticsSnapshot = buildAnalyticsSnapshot(analyticsContent);
   const relatedEntries = buildRelationEntries(id, extractedContent, analyticsContent);
+  const difficultyRank = analyticsContent?.difficultyRank ?? 0;
+  const relativeDifficultyLevel = mapRelativeDifficultyLevel(difficultyRank);
 
   return {
     id,
@@ -695,7 +756,7 @@ export function getQuestionPageData(id: number): QuestionPageData | null {
     accuracy: analyticsContent?.accuracy ?? 0,
     correctOption: extractedContent.gabarito,
     topDistractor: analyticsContent?.topDistractor ?? "-",
-    difficultyRank: analyticsContent?.difficultyRank ?? 0,
+    difficultyRank,
     imageUrl: extractedContent.imageUrl,
     comments: analyticsContent?.comments ?? buildFallbackComments(extractedContent),
     metadata: {
@@ -714,6 +775,15 @@ export function getQuestionPageData(id: number): QuestionPageData | null {
     resolution: buildResolution(extractedContent, analyticsContent, analyticsSnapshot),
     latexResolution: getLatexResolutionContent(extractedContent.examQuestionNumber),
     analyticsSummary: analyticsContent?.analyticsSummary,
+    triMetrics: {
+      a: Number((analyticsContent?.tri.a ?? 0).toFixed(2)),
+      b: Number((analyticsContent?.tri.b ?? 0).toFixed(2)),
+      c: Number((analyticsContent?.tri.c ?? 0).toFixed(2)),
+      rankA: analyticsContent ? (triRankByA.get(analyticsContent.id) ?? 0) : 0,
+      rankB: analyticsContent ? (triRankByB.get(analyticsContent.id) ?? 0) : 0,
+      difficultyLevel: relativeDifficultyLevel,
+      relativeDifficultyLabel: getRelativeDifficultyLabel(relativeDifficultyLevel),
+    },
   };
 }
 
