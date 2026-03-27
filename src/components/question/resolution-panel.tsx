@@ -461,9 +461,7 @@ export function ResolutionPanel({
   examQuestionNumber,
   options,
 }: ResolutionPanelProps) {
-  const hasLatexResolution = Boolean(latexResolution);
-
-  if (!hasLatexResolution) {
+  if (!latexResolution) {
     return (
       <div className="grid gap-5 xl:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)]">
         <div className="grid gap-5 lg:grid-cols-3">
