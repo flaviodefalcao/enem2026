@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:31:06.833Z",
+  "questionId": "enem-2024-linguagens-q032",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é a correta porque o texto destaca a atmosfera de afeto entre a narradora e Marília, evidenciado pelo cuidado sensível nas ações de ambas e pelo reconhecimento do carinho mesmo nas imperfeições.",
+      "strategy": "Análise do trecho por elementos que indicam emoção e relação entre personagens, buscando compreender o sentido do drama físico narrado para identificar o sentimento principal transmitido.",
+      "steps": [
+        "Leitura atenta do trecho para identificar os elementos que apresentam o drama da narradora.",
+        "Identificação das ações de Marília e da narradora que demonstram cuidado e afeto, como o uso do andador, o fechar do casaco e o aperto nos ombros.",
+        "Observação da expressão 'Eu gosto. Porque entendo que naquele ato, naquela força está o nosso carinho.' que explicita o sentimento de afeto.",
+        "Comparação das alternativas com o sentido transmitido no texto, descartando aquelas que não enfatizam a relação afetiva.",
+        "Conclusão de que a alternativa B representa melhor a sensibilidade lírica presente no trecho."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O texto menciona o uso do andador e dificuldade com escadas, fazendo o leitor pensar na necessidade de adaptações no ambiente.",
+        "misconceptionType": "Foco em detalhes literais sem considerar o sentido geral do trecho.",
+        "whyItLooksPlausible": "Menção explícita a equipamentos e limitações físicas pode sugerir a necessidade de alterações na casa.",
+        "whyItIsWrong": "O foco do trecho não é instruir sobre adaptações na casa, mas sim transmitir a relação afetiva entre personagens."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A narradora depende do apoio de Marília para se movimentar, levando à conclusão de dependência.",
+        "misconceptionType": "Interpretação literal da dependência física sem captar o tom afetivo.",
+        "whyItLooksPlausible": "Descrever a narradora utilizando andador e tendo dificuldade com escadas pode sugerir dependência.",
+        "whyItIsWrong": "Apesar da presença de auxílio, o texto enfatiza o carinho e autonomia preservada, não apenas dependência."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O trecho destaca ações rotineiras como tomar café e sair para o pátio, sugerindo resistência em mudar a rotina.",
+        "misconceptionType": "Generalização da rotina sem considerar o sentido principal do trecho.",
+        "whyItLooksPlausible": "A narradora demonstra vontade de se levantar sozinha e manter hábitos.",
+        "whyItIsWrong": "A rotina serve mais como cenário para a relação afetiva do que como foco do sofrimento ou drama."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A narradora decide não usar elevador nem cadeira de rodas, parecendo aceitar as limitações de mobilidade.",
+        "misconceptionType": "Sinalizar aceitação literal das restrições em vez de enfatizar o afeto.",
+        "whyItLooksPlausible": "Frases sobre não tolerar elevador ou rampa podem indicar uma aceitação das limitações.",
+        "whyItIsWrong": "O trecho foca mais no sentimento e no cuidado mútuo que na simples aceitação das limitações físicas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise literária",
+      "secondarySkills": [
+        "Compreensão de sentimentos e relações interpessoais",
+        "Leitura crítica"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretar a sensibilidade e o tom afetivo do trecho narrativo, relacionando com as alternativas.",
+        "Não há elementos visuais para suporte da resolução.",
+        "O leitor deve ir além da descrição literal e captar o sentido emocional do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 772,
+    "outputTokens": 788,
+    "estimatedCostUsd": 0.00157
+  }
+}

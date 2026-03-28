@@ -1,0 +1,191 @@
+{
+  "questionId": "enem-2024-linguagens-q029",
+  "generatedAt": "2026-03-28T00:29:17.028Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 737,
+      "outputTokens": 846,
+      "estimatedCostUsd": 0.001648
+    },
+    "explainer": {
+      "inputTokens": 1456,
+      "outputTokens": 399,
+      "estimatedCostUsd": 0.001221
+    },
+    "reviewer": {
+      "inputTokens": 2782,
+      "outputTokens": 2230,
+      "estimatedCostUsd": 0.004681
+    },
+    "totalEstimatedCostUsd": 0.00755
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "Correta, pois a reflexão do narrador evidencia o peso social e o estigma que envolve o termo \"filho adotivo\", indicando como a adoção carrega representações sociais que podem desvalorizar ou marcar a parentalidade adotiva.",
+      "strategy": "Análise do trecho textual para identificar o tema central da reflexão do narrador e relacioná-lo às alternativas apresentadas.",
+      "steps": [
+        "Ler cuidadosamente o excerto para compreender o sentido do termo \"filho adotivo\" e suas implicações sociais.",
+        "Identificar que o narrador percebe uma 'tecnicidade' no termo que influencia a aceitação social, evidenciando um estigma.",
+        "Observar que há um desconforto e questionamento sobre a relação parental estabelecida pela adoção.",
+        "Comparar cada alternativa com essa análise para verificar qual se associa melhor ao texto.",
+        "Verificar que a alternativa A aborda as representações sociais estigmatizadas que condizem com o tema do texto.",
+        "Concluir que a alternativa A é a que melhor expressa a perspectiva do narrador."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O narrador reflete sobre o termo \"filho adotivo\" e como ele traz um peso social, um estigma que afeta a aceitação e o entendimento da relação familiar, mostrando uma perspectiva crítica sobre as representações sociais da adoção.",
+      "stepByStep": [
+        "Leia o trecho com atenção para compreender o uso e a carga do termo \"filho adotivo\".",
+        "Observe que o narrador destaca uma tecnicidade que influencia a aceitação social, mostrando um estigma.",
+        "Note a inquietação pessoal do narrador que questiona a origem do irmão adotivo, mostrando um desconforto ligado ao sentido social da palavra.",
+        "Relacione a análise do texto com as alternativas dadas na questão.",
+        "Identifique que a alternativa A é a que melhor corresponde à reflexão do narrador sobre o estigma social na adoção.",
+        "Escolha a alternativa A porque ela representa adequadamente a perspectiva apresentada no texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar \"aceitação social\" apenas como aprovação superficial de desconhecidos, sem entender o estigma social mais profundo.",
+        "Confundir o ambiente social com o âmbito familiar, pensando que o julgamento ocorre dentro da família.",
+        "Focar somente no conflito entre o termo técnico e o vínculo afetivo, deixando de lado o aspecto social e cultural da adoção.",
+        "Entender a inquietação do narrador como uma tensão pessoal entre irmãos, e não uma reflexão sobre a representação social."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar termos-chave e suas conotações sociais no texto.",
+        "Incentive a leitura crítica, buscando compreender não só o que está escrito, mas as implicações sociais e culturais.",
+        "Promova debates sobre estigmas sociais e como eles aparecem na linguagem e na literatura.",
+        "Trabalhe exercícios que diferenciem o âmbito familiar do social para evitar confusões na interpretação.",
+        "Use a alternativa correta para mostrar como relacionar argumentos do texto às opções de resposta de forma fundamentada."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode entender que a aceitação social mencionada refere-se à aprovação de desconhecidos, por causa do trecho 'as pessoas tendem a assentir com solenidade', interpretando de forma superficial o papel do público.",
+        "misconceptionType": "Interpretação literal fora do contexto",
+        "whyItLooksPlausible": "Parece relacionar a aceitação social ao comportamento de pessoas externas, o que é mencionado no texto.",
+        "whyItIsWrong": "O foco do texto é na representação social e estigma ligados ao termo, não simplesmente na necessidade de aprovação de estranhos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se pensar que o julgamento velado ocorre dentro da família, pois o narrador fala do irmão e percepções pessoais, confundindo o ambiente social com o familiar.",
+        "misconceptionType": "Confusão quanto ao âmbito social versus familiar",
+        "whyItLooksPlausible": "O texto fala do narrador e uma inquietude pessoal, que pode ser associada ao núcleo familiar.",
+        "whyItIsWrong": "O texto enfatiza a aceitação social geral, não há indicação clara de juízos familiares."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar o conflito mencionado entre o termo técnico e o vínculo afetivo na afirmação \"meu irmão é filho - filho de quem?\", considerando que o problema é esse conflito conceitual.",
+        "misconceptionType": "Interpretação parcial do tema central",
+        "whyItLooksPlausible": "O texto explicitamente menciona uma contradição entre o termo e a aceitação emocional.",
+        "whyItIsWrong": "Embora haja essa reflexão, o foco maior trata das representações sociais e estigma, que são mais amplos do que apenas o conflito entre termo técnico e vínculo afetivo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode-se pensar que a inquietude mencionada se refira a questões entre irmãos, já que o narrador fala do irmão adotivo.",
+        "misconceptionType": "Focalização equivocada na relação direta entre irmãos",
+        "whyItLooksPlausible": "O narrador expressa inquietação pessoal referida a seu irmão, que poderia ser entendida como tensão entre irmãos.",
+        "whyItIsWrong": "O texto evidencia que a questão central está na percepção social e no termo \"filho adotivo\", não na dinâmica ou atritos entre irmãos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Leitura e interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão de relações sociais e culturais",
+        "Reflexão sobre linguagem e significados"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige entendimento profundo do texto literário e sua carga social.",
+        "Reconhecer o estigma social implicado no termo é chave para responder.",
+        "Não há imagens ou dados visuais envolvidos na questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Perspectivas sociais sobre adoção",
+      "interpretationIntro": "A questão convida a refletir sobre o posicionamento do narrador a respeito do termo \"filho adotivo\" e as implicações sociais que ele carrega.",
+      "commandTerms": [
+        {
+          "term": "associar",
+          "explanation": "Relacionar uma ideia ou conceito a outra, estabelecendo conexão entre elas."
+        },
+        {
+          "term": "reflexão",
+          "explanation": "Ato de pensar cuidadosamente sobre um tema para compreender seu significado mais profundo."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar a perspectiva que relaciona a adoção às representações sociais, conforme refletido pelo narrador no texto.",
+      "strategyParagraph": "Para responder, é necessário analisar detalhadamente o trecho apresentado, compreendendo a carga semântica e social do termo \"filho adotivo\". A partir dessa análise, deve-se confrontar as alternativas para escolher aquela que melhor expressa a crítica social implicada no texto.",
+      "reviewTable": [
+        {
+          "concept": "Estigma social",
+          "keyIdea": "Conceito de discriminação ou marca negativa que acompanha certas condições ou termos.",
+          "application": "O texto evidencia o peso social negativo associado ao termo \"filho adotivo\"."
+        },
+        {
+          "concept": "Aceitação social",
+          "keyIdea": "Reconhecimento e aprovação por parte da sociedade em relação a um indivíduo ou grupo.",
+          "application": "O narrador fala de uma aceitação condicionada e tensa em relação à adoção."
+        },
+        {
+          "concept": "Linguagem e representação",
+          "keyIdea": "Como termos e expressões carregam significados culturais e sociais que influenciam percepções.",
+          "application": "A expressão \"filho adotivo\" tem uma carga que diferencia e estigmatiza a figura do irmão no texto."
+        }
+      ],
+      "theoryParagraphs": [
+        "Em contextos sociais, a adoção pode estar envolta em estigmas que limitam a aceitação plena do indivíduo adotado, refletindo preconceitos culturais e históricos.",
+        "O modo como a linguagem é usada para nomear relações familiares revela e perpetua representações sociais que carregam significados específicos, como o termo \"filho adotivo\", que, apesar de técnico, pode portar uma carga emocional e social que afeta a percepção social.",
+        "A literatura pode explorar essas tensões, colocando em evidência a ambiguidade entre o vínculo afetivo e as construções sociais que envolvem a adoção."
+      ],
+      "resolutionParagraphs": [
+        "Inicialmente, observa-se que o narrador se detém na ideia de que o termo \"filho adotivo\" possui uma tecnicidade que influencia sua aceitação social, mostrando que a sociedade tende a estigmatizar essa condição.",
+        "A inquietude do narrador, que questiona \"filho de quem?\", demonstra o desconforto diante da representação social que acompanha a adoção, evidenciando a incompletude e a contradição do termo.",
+        "Analisando as alternativas, verifica-se que a alternativa A é a que melhor corresponde à reflexão do narrador, pois trata das representações sociais estigmatizadas que cercam o termo \"filho adotivo\".",
+        "Portanto, a resposta correta é a alternativa A, pois ela expressa a questão do estigma social associada à adoção abordada pelo narrador no texto."
+      ],
+      "puloDoGato": "Sempre busque o sentido social e cultural das palavras no texto, pois muitas vezes a questão não está no literal, mas no que o termo representa para a sociedade.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Correta, pois reflete a perspectiva do narrador sobre as representações sociais e o estigma ligado ao termo \"filho adotivo\"."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois foca numa aceitação superficial das pessoas, enquanto o texto aborda o estigma social mais profundo."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Errada porque confunde o âmbito social analisado, que é mais amplo, com relações familiares diretas."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta, apesar de reconhecer um conflito, ela não aborda o tema central do estigma social, que é o foco principal do texto."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Errada por concentrar-se numa relação pessoal entre irmãos, enquanto o texto enfatiza a visão social e cultural do termo."
+        }
+      ],
+      "questionCode": "LINGUAGENS_ADOTIVO_INTERPRETACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "Coerência plena entre enunciado, solução técnica e explicação didática. A resolução oficial está clara, precisa e alinhada com o contexto e a resposta correta da questão.",
+      "issues": []
+    }
+  }
+}

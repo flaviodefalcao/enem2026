@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:45:04.340Z",
+  "questionId": "enem-2024-linguagens-q007",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta mini-biografias de atletas paralímpicas brasileiras destacando suas trajetórias esportivas, as mudanças de modalidade e suas conquistas ao longo da carreira, com o propósito de mostrar suas histórias profissionais.",
+      "stepByStep": [
+        "Leia atentamente todas as mini-biografias para compreender o que é destacado nas narrativas.",
+        "Identifique o foco principal do texto: a trajetória profissional das atletas, as modalidades que praticaram e as conquistas obtidas.",
+        "Observe que o texto não detalha rotinas de treino, nem faz comparações diretas de desempenho entre as atletas.",
+        "Analise cada alternativa de resposta e elimine as que não correspondem ao objetivo do texto considerado.",
+        "Conclua que a alternativa correta é a que ressalta a trajetória profissional e as mudanças de modalidade das atletas ao longo do tempo."
+      ],
+      "commonPitfalls": [
+        "Confundir a descrição das modalidades e conquistas com rotinas de treinamento detalhadas.",
+        "Acreditar que o texto compara os desempenhos das atletas entre si, quando na verdade cada história é individual.",
+        "Pensar que o texto indica categorias adaptadas, embora apresente diferentes modalidades paralímpicas.",
+        "Interpretar a narrativa como um estímulo direto à participação feminina no esporte, o que não é o foco declarado.",
+        "Desconsiderar o contexto biográfico e focar apenas em dados isolados como medalhas e recordes."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o objetivo geral do texto antes de analisar as alternativas.",
+        "Trabalhe com eles a distinção entre relatos biográficos e textos descritivos ou comparativos.",
+        "Explique a importância de eliminar alternativas incorretas por análise do conteúdo e não apenas pela aparência inicial.",
+        "Promova a leitura atenta e a releitura para melhor compreensão das informações implícitas.",
+        "Utilize perguntas guiadas para ajudar na identificação dos elementos que compõem a finalidade do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1432,
+    "outputTokens": 386,
+    "estimatedCostUsd": 0.00119
+  }
+}

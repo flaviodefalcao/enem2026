@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:42:26.478Z",
+  "questionId": "enem-2024-linguagens-q004",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A resposta A está correta porque o texto destaca explicitamente a rejeição e o preconceito em relação ao sotaque espanhol ao falar inglês, bem como a imposição da norma 'inglesa' para que os falantes de espanhol se adaptem e percam seu sotaque.",
+      "strategy": "Interpretar o texto para identificar qual problema em relação à língua dos imigrantes chicanos nos EUA está sendo abordado, relacionando os exemplos dados (repreensão por falar espanhol, punição por pronunciar o nome, aulas para eliminar sotaques) com os prejuízos mencionados nas alternativas.",
+      "steps": [
+        "Ler atentamente os excertos do texto para entender o contexto: autor lembra de ser repreendido por falar espanhol.",
+        "Reconhecer que o texto apresenta situações de discriminação pela forma de falar (sotaque, idioma).",
+        "Analisar as alternativas e relacioná-las ao problema flagrado no texto.",
+        "Identificar que o foco principal é o repúdio ao sotaque espanhol ao falar inglês.",
+        "Verificar que outras alternativas tratam de problemas que não são destacados explicitamente no texto (resignação, escassez de aprendizado, choque geracional, concorrência linguística).",
+        "Confirmar que a alternativa A melhor expressa o prejuízo gerado pela situação descrita no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O texto menciona dificuldades e punições, então o candidato pode pensar que o problema é a resignação diante da perda da língua materna.",
+        "misconceptionType": "Interpretação superficial do texto",
+        "whyItLooksPlausible": "Menção à pressão para eliminar o sotaque e falar inglês pode parecer um apagamento da língua materna.",
+        "whyItIsWrong": "O texto não fala em resignação, e sim em repúdio explícito e punição, não apenas aceitação passiva."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer que a dificuldade está na oferta de aprendizado do espanhol para os indígenas.",
+        "misconceptionType": "Confusão entre contexto sociolinguístico e conteúdo do texto",
+        "whyItLooksPlausible": "Fala-se de espanhol e inglês, e pode parecer que há falta de aulas de espanhol.",
+        "whyItIsWrong": "O texto não fala da escassez de aprendizado do espanhol, mas sim da exigência para eliminar o sotaque espanhol ao falar inglês."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se entender que há um conflito entre gerações e línguas distintas.",
+        "misconceptionType": "Misinterpretação do foco do texto",
+        "whyItLooksPlausible": "O texto menciona diferentes falantes e situações de interação.",
+        "whyItIsWrong": "O problema central não é o choque geracional, mas o preconceito linguístico e o repúdio ao sotaque."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode-se pensar que há concorrência entre variações linguísticas do inglês e espanhol.",
+        "misconceptionType": "Confusão semântica entre concorrência linguística e discriminação linguística",
+        "whyItLooksPlausible": "O texto fala sobre diferenças linguísticas e imposições para falar de determinada forma.",
+        "whyItIsWrong": "O texto não aborda concorrência, mas sim discriminação e repúdio a sotaques e línguas maternas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise crítica",
+      "secondarySkills": [
+        "Análise sociolinguística",
+        "Compreensão de contextos culturais e linguísticos"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto exige compreensão de contextos sociais e culturais relacionados a imigração e língua.",
+        "É necessário identificar o problema central discutido, não só explicitar situações pontuais.",
+        "A questão explora preconceito linguístico e normatividade da língua."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 670,
+    "outputTokens": 815,
+    "estimatedCostUsd": 0.001572
+  }
+}

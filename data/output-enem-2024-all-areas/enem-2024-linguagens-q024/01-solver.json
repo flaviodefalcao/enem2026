@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:23:55.629Z",
+  "questionId": "enem-2024-linguagens-q024",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "Essa alternativa está correta porque o diálogo entre os personagens contrapõe a linguagem literária formal (preciosismo linguístico) à fala cotidiana, mais coloquial, mostrando a tensão entre a norma culta e a linguagem informal.",
+      "strategy": "Interpretar o diálogo para identificar o principal tema discutido, focando na oposição entre estilo literário e linguagem falada.",
+      "steps": [
+        "Ler o fragmento atentamente para entender o debate entre os personagens.",
+        "Identificar que Gondim defende uma escrita que não replica exatamente a fala cotidiana.",
+        "Reconhecer que a discussão aponta uma diferença entre a linguagem formal/literária e a linguagem coloquial, mostrando uma resistência ao uso da fala comum na escrita artística.",
+        "Analisar as alternativas para verificar qual delas corresponde a essa oposição linguística."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode interpretar que a questão está falando da distinção entre linguagem artística e o português padrão dos dicionários ou gramáticas.",
+        "misconceptionType": "Interpretação superficial do texto",
+        "whyItLooksPlausible": "O texto aborda uma diferença entre formas de linguagem, então pensar em produção artística vs língua padrão parece natural.",
+        "whyItIsWrong": "O texto não discute diretamente o padrão da língua, mas a oposição entre a linguagem literária 'preciosista' e a fala coloquial."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode confundir a questão vendo que ‘‘escrever como fala’’ poderia aproximar a literatura dos dialetos populares.",
+        "misconceptionType": "Interpretação literal sem considerar o tom de crítica",
+        "whyItLooksPlausible": "Falar de registrar a fala sugere dialetos sociais, especialmente os de menos prestígio.",
+        "whyItIsWrong": "O texto não valoriza essa aproximação, pelo contrário, o personagem sambem sugere que isso não é apropriado para a literatura."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretar que Gondim defende escrever de modo próximo à fala do autor.",
+        "misconceptionType": "Confundir os papéis dos personagens e finalidades do diálogo",
+        "whyItLooksPlausible": "A fala do personagem questionador sugere que é possível escrever como se fala.",
+        "whyItIsWrong": "Gondim claramente recusa essa ideia, afirmando que a literatura não pode ser escrita da mesma forma como se fala."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Ver associação no diálogo entre uso da norma culta e conflitos pessoais entre os personagens.",
+        "misconceptionType": "Focar demais nos aspectos emocionais sem relação com a norma linguística",
+        "whyItLooksPlausible": "O diálogo tem tom de desavença, então pode parecer que a norma culta gera desentendimentos.",
+        "whyItIsWrong": "O foco do debate não é pessoal, mas linguístico, sobre a forma da escrita em relação à fala."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto literário e análise linguística",
+      "secondarySkills": [
+        "Compreensão de variedades linguísticas",
+        "Análise crítica de discurso"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreender o debate entre fala e escrita formal",
+        "Exige conhecimento sobre norma padrão versus linguagem coloquial",
+        "Requer avaliação crítica de posições apresentadas no diálogo"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 724,
+    "outputTokens": 711,
+    "estimatedCostUsd": 0.001427
+  }
+}

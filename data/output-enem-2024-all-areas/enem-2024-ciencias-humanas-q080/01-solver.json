@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:09:58.036Z",
+  "questionId": "enem-2024-ciencias-humanas-q080",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta porque ambos os textos destacam como as novelas brasileiras influenciaram e aproximaram culturalmente a Rússia e Angola, subjetivando costumes da teledramaturgia estrangeira. Essa influência cultural se manifesta na recepção dos conteúdos televisivos estrangeiros e na incorporação de elementos culturais brasileiros nos hábitos locais.",
+      "strategy": "Analisar os textos para identificar o elemento comum entre Rússia e Angola mencionado, relacionando as alternativas com as informações presentes sobre a influência das novelas brasileiras.",
+      "steps": [
+        "Ler atentamente o Texto I e identificar que a chegada das novelas brasileiras na Rússia causou impacto cultural e social.",
+        "Ler atentamente o Texto II e identificar que as novelas brasileiras também tiveram grande influência cultural em Angola, modificando comportamentos, moda e relações sociais.",
+        "Comparar estes impactos para encontrar a aproximação mencionada entre Rússia e Angola.",
+        "Analisar cada alternativa e verificar qual delas reflete corretamente a aproximação apontada nos textos.",
+        "Descartar alternativas que falem de aspectos econômicos, geográficos, antropológicos ou políticos, pois não são enfatizados nos textos.",
+        "Confirmar que a alternativa A, que fala do aspecto cultural e da subjetivação de costumes da teledramaturgia estrangeira, corresponde ao que os textos indicam."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode associar a influência da moda mencionada no Texto II à importação econômica de roupas de estilistas.",
+        "misconceptionType": "Confusão entre influência cultural e aspectos econômicos.",
+        "whyItLooksPlausible": "O texto menciona padrões de moda e figurinos influenciando comportamentos, o que pode sugerir importações de moda.",
+        "whyItIsWrong": "O texto não fala no comércio ou importação, mas sim em influência cultural através das novelas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O aluno pode interpretar a influência ideológica das novelas como um encurtar de distâncias geográficas.",
+        "misconceptionType": "Interpretação literal equivocada sobre distância geográfica versus ideológica.",
+        "whyItLooksPlausible": "Os textos indicam aproximação entre povos distantes.",
+        "whyItIsWrong": "A alternativa fala da distância geográfica, que não muda, e o foco é cultural, não de localização física."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Esperava-se que os alunos associarem a influência cultural à antropologia e adaptação de valores tradicionais.",
+        "misconceptionType": "Generalização exagerada do processo de influência cultural como adaptação antropológica.",
+        "whyItLooksPlausible": "Ambos os textos mencionam comportamentos e valores influenciados.",
+        "whyItIsWrong": "Não há menção à adaptação de valores tradicionais, mas à incorporação cultural específica da teledramaturgia."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O aluno pode relacionar o impacto social com o sistema político adotado nos países.",
+        "misconceptionType": "Confusão entre aspectos políticos e culturais descritos.",
+        "whyItLooksPlausible": "Os textos mencionam parlamento e República, que podem sugerir sistemas políticos.",
+        "whyItIsWrong": "O foco dos textos é cultural através das novelas e não uma análise dos sistemas políticos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e compreensão cultural",
+      "secondarySkills": [
+        "Análise comparativa",
+        "Relação entre texto e alternativas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão crítica do impacto cultural das novelas nas sociedades russa e angolana.",
+        "É necessário distinguir entre aspectos culturais e econômicos ou políticos, com base nas informações textuais.",
+        "A questão avalia a habilidade de identificar a aproximação cultural por meio da influência da teledramaturgia."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 811,
+    "outputTokens": 804,
+    "estimatedCostUsd": 0.001611
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T23:43:49.773Z",
+  "questionId": "enem-2024-linguagens-q005",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A resposta correta é a alternativa E, pois a carta comunica claramente a recusa da publicação do manuscrito devido ao uso excessivo de pontos de exclamação.",
+        "strategy": "Ler atentamente a carta para compreender seu tom, conteúdo e intenção, identificando a mensagem principal que é a recusa do manuscrito.",
+        "steps": [
+          "Ler o texto completo da carta.",
+          "Identificar a apreciação inicial do enredo presente na obra.",
+          "Perceber a crítica sobre o uso excessivo de pontos de exclamação nas frases.",
+          "Entender que a editora expressa que, por essa razão, decidiu recusar o manuscrito ('passar' no manuscrito).",
+          "Comparar o conteúdo da carta com as alternativas para escolher a que melhor expressa a mensagem da carta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem da carta onde se lê a decisão da editora de 'passar' no manuscrito explicada por motivo formal quanto à pontuação."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A carta da editora comunica à escritora a recusa do manuscrito devido ao uso excessivo do ponto de exclamação, que prejudicou a decisão editorial.",
+        "stepByStep": [
+          "Leia a carta com atenção para captar o tom e as informações.",
+          "Note que o texto elogia o enredo, mas critica fortemente o estilo da pontuação.",
+          "Observe que a decisão da editora é não publicar o manuscrito, expressa pela frase 'decisão difícil de passar no manuscrito'.",
+          "Distingua que a carta não é apenas um comunicado, nem um pedido de revisão ou transferência, mas uma recusa clara."
+        ],
+        "commonPitfalls": [
+          "Interpretar a carta como simples acusação de recebimento.",
+          "Pensar que se trata de um pedido de revisão ortográfica ou textual.",
+          "Confundir recusa com transferência para outra editora.",
+          "Entender a mensagem como uma problematização do enredo ao invés do estilo."
+        ],
+        "teachingTips": [
+          "Incentivar a análise do tom e da intenção comunicativa nas cartas formais.",
+          "Explicar termos editoriais como 'passar no manuscrito'.",
+          "Diferenciar entre funções da linguagem: expressiva, referencial e apelativa numa carta.",
+          "Estimular a leitura detalhada para identificar o propósito principal.",
+          "Utilizar cartas reais ou simuladas para praticar interpretação e reconhecimento de intenções."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que a carta discute o enredo, já que elogia a narrativa.",
+          "misconceptionType": "Interpretação incorreta do propósito da carta",
+          "whyItLooksPlausible": "A carta menciona que o enredo é atraente, levando à ideia de problematização.",
+          "whyItIsWrong": "O foco da carta é a rejeição do manuscrito devido ao estilo, não uma discussão do enredo."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Alguém pode pensar que a carta é apenas um aviso de recebimento.",
+          "misconceptionType": "Confusão da função comunicativa",
+          "whyItLooksPlausible": "Carta formal pode remeter a simples acusação de recebimento.",
+          "whyItIsWrong": "A carta comunica explicitamente a recusa, não apenas o recebimento."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode ser interpretado que a carta pede revisão pela crítica da pontuação.",
+          "misconceptionType": "Interpretação errada da intenção comunicativa",
+          "whyItLooksPlausible": "A menção à pontuação pode sugerir solicitação de revisão.",
+          "whyItIsWrong": "A carta não pede revisão; informa recusa definitiva."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pode-se supor que o manuscrito está sendo transferido a outra editora.",
+          "misconceptionType": "Erro na compreensão da decisão editorial",
+          "whyItLooksPlausible": "Transferências podem acontecer no processo editorial.",
+          "whyItIsWrong": "Não há menção a transferência; é recusa da publicação."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto",
+        "secondarySkills": [
+          "Reconhecimento da função da linguagem",
+          "Análise crítica"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Requer leitura detalhada e interpretação da carta para captar o propósito.",
+          "Habilidade principal: compreender a intenção textual num contexto formal.",
+          "Atenção aos detalhes textuais que diferenciam recusa de outras comunicações."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📜",
+        "shortThemeTitle": "Interpretação de carta editorial",
+        "interpretationIntro": "Este enunciado apresenta uma carta da editora Stephanie Allen-Nichols à escritora Alice Walker e pede que se identifique o propósito principal dessa comunicação.",
+        "commandTerms": [
+          {
+            "term": "Comunicar",
+            "explanation": "Transmitir uma informação ou decisão claramente."
+          },
+          {
+            "term": "Propósito",
+            "explanation": "Intenção principal da mensagem enviada."
+          }
+        ],
+        "whatTheQuestionAsks": "O que a carta enviada pela editora quer informar ou comunicar à escritora Alice Walker?",
+        "strategyParagraph": "Para responder, é fundamental ler atentamente a carta, compreender o tom e a mensagem expressa, identificar elogios e críticas, sobretudo notar o resultado da decisão editorial expressa no texto, descartando informações que não estão presentes.",
+        "reviewTable": [
+          {
+            "concept": "Função da linguagem",
+            "keyIdea": "A carta tem função metalinguística e apelativa, expressando uma decisão.",
+            "application": "Identificar que a carta comunica uma recusa, apesar dos elogios iniciais."
+          },
+          {
+            "concept": "Intenção comunicativa",
+            "keyIdea": "O texto tem como intenção informar uma decisão importante.",
+            "application": "Reconhecer que a carta comunica a recusa do manuscrito e o motivo."
+          },
+          {
+            "concept": "Leitura atenta e contextualização",
+            "keyIdea": "Compreender expressões editoriais e termos no contexto.",
+            "application": "Interpretar 'passar no manuscrito' como recusar a publicação."
+          }
+        ],
+        "theoryParagraphs": [
+          "Cartas editoriais são comunicações formais que podem informar sobre recebimento de manuscritos, solicitações de revisão, recusas ou outras decisões.",
+          "A interpretação do texto exige atenção ao tom e às informações específicas que indicam a intenção do emissor.",
+          "No contexto editorial, expressões como 'passar no manuscrito' indicam decisão de não publicar o trabalho recebido, que é um aspecto fundamental a ser compreendido para responder à questão."
+        ],
+        "resolutionParagraphs": [
+          "Iniciando a leitura da carta, observa-se que a editora elogia o enredo da obra, reconhecendo seu valor narrativo.",
+          "Em seguida, faz uma crítica forte ao uso excessivo do ponto de exclamação, sinalizando desconforto do leitor/editor.",
+          "A decisão difícil da editora de 'passar no manuscrito' indica que o manuscrito não será publicado devido ao estilo da pontuação.",
+          "As opções A, B, C e D apresentam interpretações que não correspondem à mensagem da carta: não há problematização do enredo, acusação de recebimento, pedido de revisão ou transferência para outra editora.",
+          "Portanto, a alternativa que expressa a recusa da publicação do romance é a alternativa correta, que é a letra E."
+        ],
+        "puloDoGato": "Preste atenção a expressões do universo editorial que indicam recusa, como 'passar no manuscrito', para identificar a mensagem principal.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Alternativa incorreta: a carta elogia o enredo, mas não problematiza o enredo da obra."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Alternativa incorreta: a carta vai além de acusar o recebimento; comunica recusa definitiva."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Alternativa incorreta: a carta não solicita revisão, mas informa a recusa do manuscrito."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Alternativa incorreta: não há menção a transferência do manuscrito para outra editora."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Alternativa correta: a carta comunica a decisão de recusar a publicação do romance devido ao uso excessivo do ponto de exclamação."
+          }
+        ],
+        "questionCode": "LINGUAGENS_ESCRITA_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a análise técnica e a explicação didática estão coerentes e articulados com a imagem da carta apresentada. A resolução segue a lógica editorial exigida e cobre todos os aspectos fundamentais para a compreensão da questão, explicando e justificando adequadamente a resposta correta e o porquê das alternativas incorretas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3299,
+    "outputTokens": 1807,
+    "estimatedCostUsd": 0.004211
+  }
+}

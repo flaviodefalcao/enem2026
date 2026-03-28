@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:52:03.364Z",
+  "questionId": "enem-2024-ciencias-humanas-q059",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Patrimônio cultural",
+    "rationale": "O enunciado destaca as universidades medievais como um legado cultural e patrimônio histórico que preserva tradição e conhecimento científico, evidenciando seu valor para a identidade cultural e para a memória histórica, enquadrando a questão no tema 'Cultura e identidade' e subtema 'Patrimônio cultural'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 804,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000461
+  }
+}

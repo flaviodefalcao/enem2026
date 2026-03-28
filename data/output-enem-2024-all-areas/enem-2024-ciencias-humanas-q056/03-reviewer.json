@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:50:28.893Z",
+  "questionId": "enem-2024-ciencias-humanas-q056",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta porque o texto descreve um ritual que envolve símbolos, práticas e cerimônias tradicionais, como a panela de barro que representa o espírito do morto, a oferta de elementos simbólicos (milho, mel, cachaça), e a participação coletiva, apontando para a preservação e celebração de valores culturais e de memória coletiva do grupo.",
+        "strategy": "Analisar a descrição do ritual para identificar o significado simbólico das ações e elementos, relacionando-os com conceitos antropológicos de memória coletiva e identidade cultural.",
+        "steps": [
+          "Ler o texto atentamente para compreender as ações e símbolos descritos no ritual.",
+          "Identificar o papel da panela de barro como representação do espírito do morto, indicando a ligação com memória e ancestralidade.",
+          "Observar os elementos ofertados (milho, mel, água, cachaça) e seu simbolismo na cultura tradicional, reforçando a manutenção de práticas culturais.",
+          "Analisar a ação dos ogãs e a cerimônia com o lençol e folhas verdes, ressaltando o caráter ritualístico e comunitário.",
+          "Relacionar esses elementos com a concepção de memória coletiva, que consiste na preservação e transmissão de tradições e identidades culturais através dos rituais.",
+          "Descartar as outras alternativas por não serem coerentes com a descrição do ritual: não há contestação étnica, imolação, prática pagã ilegítima ou promissão de revolta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O ritual descrito no texto utiliza símbolos e práticas tradicionais para representar e preservar a memória e a identidade cultural do grupo, destacando a importância do respeito aos mortos e à transmissão dos valores coletivos.",
+        "stepByStep": [
+          "Leia atentamente o texto para identificar as ações e símbolos presentes no ritual.",
+          "Observe que a panela de barro simboliza o espírito do morto, indicando reverência e memória ancestral.",
+          "Note os elementos ao redor (milho, mel, água, acaçás, cachaça) como ofertas típicas que reforçam tradições culturais.",
+          "Analise o papel dos ogãs e o caminho ritualístico, que evidenciam a dimensão comunitária e sagrada da cerimônia.",
+          "Entenda que o rito com o lençol e folhas verdes simboliza respeito e ligação com a vida e a natureza.",
+          "Associe esses elementos à ideia de memória coletiva, que é a preservação e valorização da identidade cultural por meio de práticas e símbolos comuns."
+        ],
+        "commonPitfalls": [
+          "Interpretar o ritual como uma contestação étnica ou política, quando na verdade é uma celebração da cultura.",
+          "Confundir oferendas com sacrifícios ou imolações, levando a interpretações equivocadas.",
+          "Classificar o ritual como uma prática ilegítima ou pagã com base em preconceitos religiosos.",
+          "Ver o rito como preparação para uma revolta social, sem evidências no texto."
+        ],
+        "teachingTips": [
+          "Estimule os alunos a identificar símbolos e suas funções culturais nos textos que descrevem rituais.",
+          "Trabalhe o conceito de memória coletiva e como ela se manifesta em tradições e cerimônias.",
+          "Promova discussões que evitem julgamentos de valor baseados em crenças pessoais sobre práticas culturais diversas.",
+          "Use a questão para desenvolver habilidades de leitura interpretativa, relacionando texto e contexto cultural."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O candidato pode associar a cerimônia a uma contestação de identidade étnica por causa da presença de elementos culturais específicos, interpretando erroneamente o ritual como forma de resistência ou oposição.",
+          "misconceptionType": "Interpretação incorreta do objetivo cultural do ritual.",
+          "whyItLooksPlausible": "O ritual envolve práticas culturais que podem ser vistas como expressões étnicas fortes, levando a pensar em contestação.",
+          "whyItIsWrong": "O texto não indica contestação, mas sim manutenção e celebração das tradições."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A menção de elementos como sacrifícios ou oferendas pode levar à ideia de imolação de uma divindade africana.",
+          "misconceptionType": "Confusão entre oferenda ritual e sacrifício.",
+          "whyItLooksPlausible": "Há vários elementos simbólicos e ações ritualísticas que remetem a oferendas.",
+          "whyItIsWrong": "Não há sinal de imolação (sacrifício) de divindade; o ritual representa memória e respeito aos mortos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "O candidato pode interpretar o ritual como uma prática pagã ilegítima por conta de seus elementos simbólicos não cristãos.",
+          "misconceptionType": "Julgamento de práticas culturais com base em preconceitos religiosos.",
+          "whyItLooksPlausible": "Práticas não cristãs podem ser consideradas pagãs por alguns alunos.",
+          "whyItIsWrong": "O texto não indica qualquer julgamento de legitimidade; o foco é a descrição e importância cultural."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "A cerimônia pode ser mal interpretada como uma preparação para revolta social devido às ações coletivas e simbólicas.",
+          "misconceptionType": "Leitura excessivamente literal ou política do ritual.",
+          "whyItLooksPlausible": "Rituais coletivos às vezes estão associados a movimentos sociais.",
+          "whyItIsWrong": "O texto não sugere nenhum contexto de revolta ou contestação social ativa."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto e análise cultural",
+        "secondarySkills": [
+          "Compreensão de rituais e simbologia cultural",
+          "Raciocínio crítico sobre fenômenos sociais"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige leitura atenta e compreensão do significado simbólico do ritual.",
+          "Não há imagens associadas para a questão, análise textual é suficiente.",
+          "Desafia o aluno a relacionar práticas culturais a conceitos de memória coletiva."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🕯️",
+        "shortThemeTitle": "Memória coletiva em rituais culturais",
+        "interpretationIntro": "O comando solicita que se identifique o significado do ritual descrito no texto para seus praticantes.",
+        "commandTerms": [
+          {
+            "term": "Ritual",
+            "explanation": "Conjunto de ações simbólicas realizadas conforme tradição, expressando valores culturais."
+          },
+          {
+            "term": "Memória coletiva",
+            "explanation": "Processo pelo qual um grupo preserva e compartilha sua identidade histórica e cultural."
+          },
+          {
+            "term": "Simbolismo",
+            "explanation": "Uso de símbolos para representar ideias e crenças em práticas culturais."
+          }
+        ],
+        "whatTheQuestionAsks": "O que o ritual narrado representa para os seus adeptos em termos de sentido cultural e social.",
+        "strategyParagraph": "Para responder, é essencial analisar os elementos e as práticas descritas no ritual presentes no texto, identificando seus significados simbólicos e relacionando-os ao conceito antropológico de memória coletiva, que envolve a preservação e valorização das tradições e da identidade cultural de um grupo através de práticas rituais.",
+        "reviewTable": [
+          {
+            "concept": "Memória coletiva",
+            "keyIdea": "Preservação e transmissão das tradições culturais",
+            "application": "Ritual reforça identidade e valores do grupo através de símbolos e práticas."
+          },
+          {
+            "concept": "Simbolismo ritualístico",
+            "keyIdea": "Representação de ideias e crenças por meio de objetos e ações",
+            "application": "Panela de barro simboliza o espírito do morto; ofertas representam respeito e devoção."
+          },
+          {
+            "concept": "Comunidade e tradição",
+            "keyIdea": "Participação coletiva fortalece a coesão social e a ligação com ancestralidade",
+            "application": "Ogãs e membros influentes conduzem a cerimônia, expressando unidade e continuidade cultural."
+          }
+        ],
+        "theoryParagraphs": [
+          "Rituais são práticas culturais fundamentais que expressam valores, crenças e a identidade de um grupo social. Eles utilizam símbolos que carregam significados compartilhados, promovendo a coesão social e a continuidade cultural.",
+          "A memória coletiva refere-se ao mecanismo pelo qual sociedades preservam e transmitem sua história e cultura através de práticas, como ritos, que remetem ao passado e valorizam os ancestrais, reafirmando a identidade do grupo.",
+          "O estudo dos símbolos dentro dos rituais permite compreender as mensagens que são comunicadas além do senso literal, revelando o papel das tradições para a manutenção do tecido social e cultural."
+        ],
+        "resolutionParagraphs": [
+          "O texto descreve elementos do ritual — a panela de barro como espírito do morto, ofertas de milho, mel, água, cachaça, e a participação ritualística dos ogãs e lideranças do grupo — que indicam claramente uma cerimônia de respeito à ancestralidade e preservação da cultura.",
+          "A presença desses símbolos e práticas evidencia que o ritual representa para seus adeptos a memória coletiva, ou seja, a continuidade e celebração dos valores, histórias e identidade do grupo ligado aos mortos e à natureza.",
+          "Assim, a alternativa correta é a que traduz o ritual como expressão da memória coletiva, destacando a importância dos símbolos e da participação comunitária para o fortalecimento cultural e social."
+        ],
+        "puloDoGato": "Foque nos símbolos (panela, ofertas) e na ação coletiva para identificar que o ritual reforça a memória e identidade do grupo—não é contestação nem sacrifício.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta — o texto mostra um ritual que preserva e celebra a memória e a identidade cultural do grupo."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada — o ritual não indica contestação étnica, mas sim manutenção das tradições."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada — não há sinais de sacrifício ou imolação de divindades; trata-se de respeito ao morto."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errada — não há juízo de valor sobre legitimidade ou caráter pagão; a questão é cultural e simbólica."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada — ritual coletivo não implica preparação para revolta social; não há contexto político."
+          }
+        ],
+        "questionCode": "CH_CIENCIA_HUMANAS_RITUAL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão, a solução técnica e a explicação didática estão alinhadas, coerentes e apresentam uma resolução clara e adequada. O officialResolution segue as diretrizes editoriais do ENEM e detalha corretamente aspecto cultural e simbólico do ritual descrito, comentando todas as alternativas de forma didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2742,
+    "outputTokens": 2189,
+    "estimatedCostUsd": 0.004599
+  }
+}

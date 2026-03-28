@@ -1,0 +1,43 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:26:49.794Z",
+  "questionId": "enem-2024-q146",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para maximizar a área do galinheiro sem exceder o gasto de R$ 6.000, calculamos o custo total das cercas, criamos uma função da área em função do lado L, usamos a restrição do custo para expressar o outro lado C, e encontramos o valor de L que maximiza essa área. O maior lado é então 100 metros.",
+      "stepByStep": [
+        "Defina os lados do galinheiro como L (metros) e C (metros).",
+        "Calcule o custo do cercamento: 20 reais por metro nos lados L e 15 reais por metro nos lados C, totalizando 40L + 30C.",
+        "Sabemos que o custo máximo é R$ 6.000, logo a inequação é 40L + 30C ≤ 6000.",
+        "Isolamos C para obter C ≤ (6000 - 40L) / 30 = 200 - (4/3)L.",
+        "A área é dada por A = L*C. Substituímos C na expressão da área: A(L) = L * [200 - (4/3)L] = 200L - (4/3)L².",
+        "Para maximizar A(L), derivamos em relação a L e igualamos a zero: dA/dL = 200 - (8/3)L = 0.",
+        "Resolvendo, encontramos L = 75 metros.",
+        "Calculamos C substituindo L: C = 200 - (4/3)*75 = 100 metros.",
+        "O maior lado do galinheiro é o maior entre L e C, que é 100 metros.",
+        "Verifique que o custo total com esses valores é 40*75 + 30*100 = 6000 reais, dentro do orçamento."
+      ],
+      "commonPitfalls": [
+        "Confundir os custos por metro linear entre os lados L e C.",
+        "Não usar a restrição de custo para definir a função da área corretamente.",
+        "Não derivar ou resolver a equação da derivada corretamente para encontrar o máximo.",
+        "Escolher o menor lado como resposta sem comparar L e C após maximização.",
+        "Esquecer de verificar se o custo total está dentro do limite permitido."
+      ],
+      "teachingTips": [
+        "Explique a importância de traduzir o enunciado em inequações e funções matemáticas.",
+        "Mostre como usar a restrição para expressar uma variável em função da outra, reduzindo graus de liberdade na maximização.",
+        "Reforce o conceito de derivada como ferramenta para encontrar extremos de função.",
+        "Utilize exemplos simples de otimização com restrição para fixar o conceito antes da aplicação no problema.",
+        "Incentive os alunos a sempre verificar se o resultado atende às condições iniciais do problema, como orçamentos e limites impostos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1508,
+    "outputTokens": 569,
+    "estimatedCostUsd": 0.001514
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "questionId": "enem-2024-linguagens-q009",
+  "generatedAt": "2026-03-27T23:47:23.239Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 737,
+      "outputTokens": 773,
+      "estimatedCostUsd": 0.001532
+    },
+    "explainer": {
+      "inputTokens": 1400,
+      "outputTokens": 458,
+      "estimatedCostUsd": 0.001293
+    },
+    "reviewer": {
+      "inputTokens": 2789,
+      "outputTokens": 1924,
+      "estimatedCostUsd": 0.004194
+    },
+    "totalEstimatedCostUsd": 0.007019
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E reflete corretamente o motivo do desequilíbrio na saúde mental dos atletas mencionado no texto, pois enfatiza as pressões externas causadas por grandes eventos esportivos e pela mídia, conforme evidenciado na questão.",
+      "strategy": "Analisar o texto, identificar as causas explícitas do desequilíbrio emocional dos atletas (pressões dos eventos, fama precoce, influência da imprensa) e confrontar essas causas com as opções para selecionar a que melhor representa o enunciado.",
+      "steps": [
+        "Ler o texto atentamente para identificar as causas do desequilíbrio mental dos atletas.",
+        "Notar que o texto destaca a pressão dos grandes eventos esportivos, o peso da fama precoce e a atuação da imprensa como causadores do conflito emocional.",
+        "Ler as alternativas e excluir as que se referem a elementos não indicados como causa, como nacionalidade, modalidade e faixa etária.",
+        "Detectar que a alternativa E contempla adequadamente as causas descritas no texto.",
+        "Confirmar que a alternativa E é a correta, por alinhar-se ao conteúdo do texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O problema da saúde mental dos atletas decorre principalmente das pressões associadas à participação em grandes eventos, da fama precoce e do peso das cobranças da imprensa sobre eles.",
+      "stepByStep": [
+        "Leia atentamente para compreender as causas específicas do desequilíbrio mental descritas no texto.",
+        "Identifique os elementos-chave: grandes eventos, fama aos 20 e poucos anos e a imprensa como fonte de pressão.",
+        "Analise as alternativas para localizar aquela que contempla esses fatores.",
+        "Elimine alternativas que tratam de fatores não relacionados, incluídas nacionalidade, modalidade ou simplesmente a idade.",
+        "Verifique que a alternativa E resume os pontos principais do texto acerca das causas do problema.",
+        "Selecione a alternativa E como resposta correta."
+      ],
+      "commonPitfalls": [
+        "Achar que nacionalidade é causa por haver atletas de países diferentes, quando o texto não diz isso.",
+        "Relacionar o problema com a modalidade esportiva, apenas porque são esportes distintos citados.",
+        "Associar faixa etária restrita como causa, quando a idade em si não é citada assim.",
+        "Interpretar o termo 'herói' usado pela imprensa como única causa, sem considerar o contexto maior da pressão.",
+        "Escolher opções por achá-las plausíveis e não por estarem presentes no texto."
+      ],
+      "teachingTips": [
+        "Estimule a leitura crítica buscando causas claramente expressas no texto, evitando suposições.",
+        "Pratique a distinção entre causas reais e exemplos ilustrativos nas questões.",
+        "Mostre como a análise cuidadosa do texto ajuda a eliminar alternativas inadequadas.",
+        "Trabalhe a influência da mídia e da sociedade como contextos importantes na compreensão textual.",
+        "Ensine a identificar e relacionar os elementos que o enunciado pede para responder corretamente."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar a diversidade de nacionalidades dos atletas às causas da saúde mental, por confusão entre exemplo e causa.",
+        "misconceptionType": "Compreensão incorreta do critério de causa e efeito",
+        "whyItLooksPlausible": "O texto exemplifica atletas de diferentes países, o que pode sugerir alguma influência cultural.",
+        "whyItIsWrong": "O texto não relaciona nacionalidade ao desequilíbrio mental; o foco está nas pressões esportivas e midiáticas."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que as diferentes modalidades esportivas causam o problema, por serem esportes variados citados no texto.",
+        "misconceptionType": "Inferência indevida",
+        "whyItLooksPlausible": "Exemplos em modalidades distintas podem sugerir que isso é causa do problema.",
+        "whyItIsWrong": "A variação de modalidade serve apenas para exemplo; o texto não indica modalidade como causa."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Relacionar a idade próxima dos atletas à causa da saúde mental frágil.",
+        "misconceptionType": "Relação causal errada",
+        "whyItLooksPlausible": "Idades próximas são citadas e podem ser confundidas como fonte do problema.",
+        "whyItIsWrong": "A preocupação não é a idade em si, mas a pressão por ser uma jovem estrela."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que ser visto como 'herói' pela imprensa é a única causa do desequilíbrio mental.",
+        "misconceptionType": "Interpretação parcial do texto",
+        "whyItLooksPlausible": "O texto menciona esse conceito pressional da imprensa.",
+        "whyItIsWrong": "Embora o rótulo de herói contribua para a pressão, o texto evidencia um conjunto de fatores, melhor representado pela alternativa E."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão leitora e interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Identificação de causa e efeito"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto reflexivo sobre saúde mental, pressão social e esportiva.",
+        "Foco em extrair do texto a causa do problema apresentado.",
+        "Exige compreensão de implicações sociais e psicológicas no contexto esportivo."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📝",
+      "shortThemeTitle": "Pressões e saúde mental no esporte",
+      "interpretationIntro": "O enunciado solicita compreender as causas do desequilíbrio na saúde mental descritas no texto entre atletas contemporâneos.",
+      "commandTerms": [
+        {
+          "term": "Causas",
+          "explanation": "Fatores que originam ou contribuem para um determinado efeito, aqui o desequilíbrio mental."
+        },
+        {
+          "term": "Pressão",
+          "explanation": "Influências externas que aumentam o estresse e a ansiedade dos atletas."
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar as causas do desequilíbrio da saúde mental dos atletas segundo o texto apresentado.",
+      "strategyParagraph": "Para responder, leia com atenção o texto, identifique explicitamente os fatores que geram os problemas de saúde mental, e compare com as alternativas para selecionar a que melhor reflete o conteúdo do texto.",
+      "reviewTable": [
+        {
+          "concept": "Pressão",
+          "keyIdea": "Causadora de ansiedade e depressão",
+          "application": "Eventos esportivos e pressão da imprensa sobre atletas"
+        },
+        {
+          "concept": "Fama precoce",
+          "keyIdea": "Peso de ser uma estrela jovem",
+          "application": "Impacto emocional sobre atletas jovens expostos às expectativas"
+        },
+        {
+          "concept": "Representação da mídia",
+          "keyIdea": "Imprensa cria imagem de 'herói', aumentando cobranças",
+          "application": "Pressão psicológica decorrente da idealização pública do atleta"
+        }
+      ],
+      "theoryParagraphs": [
+        "A saúde mental dos atletas pode ser abalada por fatores externos como a pressão constante de eventos esportivos importantes e a influência da cobertura da mídia, que cria grandes expectativas.",
+        "O texto enfatiza que, apesar do corpo parecer forte, a mente é vulnerável, especialmente quando o atleta é jovem e chamado a ser estrela.",
+        "A interpretação correta exige analisar quais causas são explicitamente mencionadas e evitar inferências não comprovadas para encontrar a alternativa correta."
+      ],
+      "resolutionParagraphs": [
+        "O texto destaca que Naomi Osaka, Nick Kyrgios e Kevin Love enfrentam problemas de saúde mental provocados por pressões relacionadas a grandes eventos esportivos, fama prematura e o peso da imprensa.",
+        "As alternativas A, B e C são descartadas porque vinculam causas que o texto não aponta, como nacionalidade, modalidade esportiva ou faixa etária isoladamente.",
+        "A alternativa D aborda a representação do atleta como herói, que contribui para a pressão, mas não integra por completo as causas indicadas no texto.",
+        "A alternativa E reúne as causas principais explicitadas: pressão por grandes eventos, fama precoce e influência da imprensa, configurando-se como a melhor resposta.",
+        "Assim, conclui-se que a alternativa E é a correta, refletindo fielmente as causas do desequilíbrio na saúde mental indicadas no texto."
+      ],
+      "puloDoGato": "Foque nas causas expressas e não deixe que exemplos ou detalhes secundários desviem sua atenção.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Ainda que o texto cite atletas de diferentes nacionalidades, não atribui a nacionalidade a causa do desequilíbrio mental; portanto, está incorreta."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A menção a diferentes modalidades serve apenas para exemplificar; elas não são indicadas como causa dos problemas de saúde mental."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A faixa etária dos atletas não é apontada como causa; o texto indica que a pressão sobre jovens estrelas é que causa o problema."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Embora a imprensa rotule os atletas como 'heróis', aumentando pressão, essa é apenas uma parte da causa, menos completa que a alternativa E."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Reúne as principais causas do desequilíbrio descritas no texto: pressão dos grandes eventos, fama precoce e influência da imprensa."
+        }
+      ],
+      "questionCode": "LINGUAGENS_LEITURACAUSA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão alinhados e coerentes, com resposta correta explicitamente justificada e explicações claras.",
+      "issues": []
+    }
+  }
+}

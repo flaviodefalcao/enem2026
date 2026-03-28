@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise e Solução da Questão 138 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado alfanumérico conforme figura ilustrativa. A tecla com o número 2 possui as letras A, B e C. Cada toque na tecla produz sequencialmente: o número e as letras associadas, retornando ao início após a última letra. As senhas possuem 5 caracteres; os 2 primeiros são dígitos distintos dentre as teclas 1, 2, 5, 7 e 0, e os 3 últimos são letras diferentes na ordem apresentada.
+
+\subsection*{Solução Técnica}
+
+A senha tem estrutura:
+\[
+\underbrace{\text{dígito}_1 \quad \text{dígito}_2}_{\substack{\text{2 dígitos distintos} \\ \text{em } \{1,2,5,7,0\}}} \quad \underbrace{\text{letra}_1 \quad \text{letra}_2 \quad \text{letra}_3}_{\substack{\text{3 letras distintas} \\ \text{do conjunto das teclas} \\ 2,5,7}}
+\]
+
+\begin{itemize}
+\item Dígitos possíveis para os 2 primeiros caracteres: $\{1,2,5,7,0\}$ — 5 opções.
+\item Número de formas de escolher dois dígitos distintos (ordem importa):
+\[
+5 \times 4 = 20.
+\]
+\item Letras disponíveis (teclas com letras):
+\begin{itemize}
+\item 2: \{A, B, C\} (3 letras)
+\item 5: \{J, K, L\} (3 letras)
+\item 7: \{P, Q, R, S\} (4 letras)
+\end{itemize}
+\item Total de letras disponíveis:
+\[
+3 + 3 + 4 = 10.
+\]
+\item Permutações de 3 letras distintas entre as 10:
+\[
+P(10,3) = 10 \times 9 \times 8 = 720.
+\]
+\item Total de senhas possíveis:
+\[
+20 \times 720 = 14400.
+\]
+\end{itemize}
+
+\subsection*{Explicação Didática}
+
+A senha possui um formato específico com restrições claras que devem ser cumpridas:
+\begin{enumerate}
+\item Escolher os dois dígitos iniciais distintos entre 5 números disponíveis.
+\item Somente as teclas 2, 5 e 7 possuem letras para compor as 3 letras finais da senha.
+\item Todas as letras devem ser diferentes e a ordem importa (permutações).
+\item Multiplicar as possibilidades dos dígitos pelos das letras.
+\end{enumerate}
+
+\subsection*{Erros Comuns}
+\begin{itemize}
+\item Contar letras das teclas que não possuem letras (1 e 0).
+\item Não considerar que os dois dígitos devem ser distintos.
+\item Usar combinações em vez de permutações para as letras, ignorando a ordem.
+\item Ignorar restrição de letras diferentes.
+\end{itemize}
+
+\subsection*{Dicas para o Ensino}
+\begin{itemize}
+\item Mostrar claramente a associação entre teclas e letras.
+\item Explicar detalhadamente o conceito de permutação e sua diferença de combinação.
+\item Enfatizar a regra do produto para combinar possibilidades independentes.
+\item Organizar os dados em tabelas para melhor visualização.
+\item Encorajar leitura atenta das restrições antes da resolução.
+\end{itemize}
+
+\subsection*{Distratores e Análise}
+\begin{itemize}
+  \item 11520: Erro ao contar 9 letras ou permutar letras incorretamente; plausível por proximidade do valor correto.
+  \item 18000: Confusão na contagem de dígitos/letras, repetições; parece razoável mas não atende às restrições.
+  \item 312000: Multiplicação exagerada incluindo elementos não válidos; resultado inválido por ignorar restrições.
+  \item 390000: Superestimação por considerar mais letras ou regras erradas; número muito alto para o problema dado.
+\end{itemize}
+
+\subsection*{Perfil da Questão}
+
+Esta questão avalia:
+\begin{itemize}
+  \item Habilidade principal: Contagem combinatória.
+  \item Habilidades secundárias: Permutação, regra do produto, análise combinatória.
+  \item Demanda cognitiva: média.
+  \item Requer interpretação visual do teclado e cálculo de permutações.
+\end{itemize}
+
+\subsection*{Conclusão}
+A solução está correta e coerente com o enunciado e a imagem do teclado, produzindo o total de senhas possíveis iguais a $\boxed{14400}$.
+
+\end{document}

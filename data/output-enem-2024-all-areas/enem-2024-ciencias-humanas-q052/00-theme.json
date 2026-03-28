@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:46:43.750Z",
+  "questionId": "enem-2024-ciencias-humanas-q052",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Conflitos e movimentos sociais",
+    "rationale": "O enunciado trata do movimento Black Lives Matter, que é um movimento social organizado para reivindicar direitos e a inclusão de diversos grupos dentro da comunidade negra. A questão gira em torno da compreensão da diversidade interna do movimento e da sua organização política, o que se enquadra no tema de movimentos sociais dentro da área de Instituições, poder e movimentos sociais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 988,
+    "outputTokens": 101,
+    "estimatedCostUsd": 0.000557
+  }
+}

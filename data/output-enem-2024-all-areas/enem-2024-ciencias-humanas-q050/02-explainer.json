@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:45:25.602Z",
+  "questionId": "enem-2024-ciencias-humanas-q050",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta Bartolomeu de Las Casas como uma figura controversa: ele é odiado pelos colonizadores por defender os indígenas, e amado pelos povos locais que ele protege contra a exploração. Assim, ele é simultaneamente detestado por uns e respeitado por outros.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar quem odeia e quem ama Bartolomeu de Las Casas.",
+        "Reconheça que os que o odeiam são os colonizadores: senhores, conquistadores e imperador, representando o poder colonial e seus interesses.",
+        "Identifique que os que o amam são os povos locais, indicados como os que recebem muito mal tratamento, os indígenas.",
+        "Interprete o contexto social e histórico: o bispo defende os indígenas contra a escravidão e exploração colonial.",
+        "Escolha a alternativa que mostra que ele é odiado pelos colonizadores e amado pelos povos indígenas, ou seja, a alternativa B."
+      ],
+      "commonPitfalls": [
+        "Confundir quem apoia ou rejeita Bartolomeu de Las Casas, invertendo os papéis dos colonizadores e indígenas.",
+        "Ignorar o contexto histórico que mostra a defesa dos indígenas contra os interesses coloniais.",
+        "Associar o bispo apenas a um grupo, sem perceber os múltiplos pontos de vista presentes no texto.",
+        "Não relacionar corretamente os termos \"senhores\", \"conquistadores\" e \"imperador\" aos colonizadores.",
+        "Supor apoio dos religiosos locais sem evidências no texto."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da colonização e a importância da atuação de Bartolomeu de Las Casas.",
+        "Incentive os alunos a identificar os diferentes grupos sociais citados no texto.",
+        "Pratique a leitura de textos com múltiplas perspectivas para aumentar a capacidade interpretativa.",
+        "Discuta o papel do bispo como defensor dos direitos indígenas frente à exploração colonial.",
+        "Use exemplos atuais de situações em que uma figura ou ideia pode ser vista de formas conflitantes por diferentes grupos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1401,
+    "outputTokens": 409,
+    "estimatedCostUsd": 0.001215
+  }
+}

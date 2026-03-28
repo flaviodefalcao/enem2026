@@ -1,0 +1,125 @@
+{
+  "questionId": "enem-2024-q149",
+  "generatedAt": "2026-03-26T19:30:03.107Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 588,
+      "outputTokens": 813,
+      "estimatedCostUsd": 0.001536
+    },
+    "explainer": {
+      "inputTokens": 1312,
+      "outputTokens": 521,
+      "estimatedCostUsd": 0.001358
+    },
+    "reviewer": {
+      "inputTokens": 2248,
+      "outputTokens": 1304,
+      "estimatedCostUsd": 0.002986
+    },
+    "totalEstimatedCostUsd": 0.00588
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E representa corretamente a medida da aresta do cubo que tem capacidade igual a 80% do volume do cilindro original.",
+      "strategy": "Calcular o volume do cilindro, determinar 80% desse volume para obter o volume do cubo, e então calcular a aresta do cubo usando a raiz cúbica do volume do cubo.",
+      "steps": [
+        "Calcular o volume do cilindro: V = π * r² * h, com r=3 cm, h=15 cm, π ≈ 3.",
+        "Calcular o volume: V = 3 * 3² * 15 = 3 * 9 * 15 = 405 cm³.",
+        "Calcular 80% do volume do cilindro: V_cubo = 0.8 * 405 = 324 cm³.",
+        "Usar a fórmula do volume do cubo: V_cubo = a³, onde a é a aresta do cubo.",
+        "Calcular a aresta a = ∛324.",
+        "Fatorar 324 como 27 * 12 para facilitar a raiz cúbica.",
+        "Obter a = ∛27 * ∛12 = 3 * ∛12.",
+        "Identificar que a expressão 3³√12 corresponde à alternativa E nas opções.",
+        "Verificar que alternativa E é a correta para a medida da aresta."
+      ],
+      "formulasUsed": [
+        "Volume do cilindro: V = π * r² * h",
+        "Volume do cubo: V = a³",
+        "Raiz cúbica: a = ∛V"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa D: 6³√6",
+        "Imagem da alternativa E: 3³√12"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a aresta do cubo com volume igual a 80% do volume do cilindro, calcula-se o volume do cilindro, reduz-se a 80%, e depois calcula-se a raiz cúbica para encontrar a aresta do cubo.",
+      "stepByStep": [
+        "Calcule o volume do cilindro com V = π * r² * h, usando r=3 cm, h=15 cm e π ≈ 3.",
+        "Realize o cálculo: V = 3 * 9 * 15 = 405 cm³.",
+        "Determine 80% do volume do cilindro: 0,8 * 405 = 324 cm³.",
+        "Use a fórmula do volume do cubo V = a³ para encontrar a aresta a.",
+        "Calcule a raiz cúbica de 324: a = ∛324.",
+        "Fatore 324 como 27 * 12 para facilitar o cálculo: a = ∛27 * ∛12 = 3 * ∛12.",
+        "Conclua que a aresta é 3 vezes a raiz cúbica de 12 cm.",
+        "Compare com as alternativas e escolha a que representa esta expressão, que é a alternativa E."
+      ],
+      "commonPitfalls": [
+        "Confundir a redução do volume com a redução linear da aresta.",
+        "Usar valor incorreto de π ou errar o cálculo do volume do cilindro.",
+        "Tomar a altura ou diâmetro do cilindro como medida da aresta do cubo.",
+        "Não aplicar a raiz cúbica corretamente para determinar a aresta do cubo.",
+        "Escolher expressões incorretas por não interpretar as raízes na alternativa."
+      ],
+      "teachingTips": [
+        "Reforce a relação entre volume e medidas lineares (volume proporcional ao cubo da aresta).",
+        "Use aproximação de π como 3 para facilitar os cálculos iniciais.",
+        "Explique o impacto percentual no volume, não apenas na arista.",
+        "Demonstre fatoração para facilitar cálculo de raízes cúbicas.",
+        "Utilize recursos visuais para diferenciar dimensões lineares e volumétricas.",
+        "Oriente a comparar expressões matemáticas dadas com a solução obtida para escolher a alternativa correta."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Calcularam a aresta como 6 cm, possivelmente confundindo o raio com a aresta ou assumindo volume igual ao cilindro.",
+        "misconceptionType": "Erro de interpretação do volume e da proporção",
+        "whyItLooksPlausible": "6 cm é o dobro do raio e poderia parecer correto para a aresta.",
+        "whyItIsWrong": "Não corresponde ao volume ajustado a 80% do cilindro."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Consideraram a altura do cilindro (18 cm) como a aresta do cubo.",
+        "misconceptionType": "Confusão entre dimensões lineares e volumétricas",
+        "whyItLooksPlausible": "18 cm é uma medida conhecida do cilindro e pode ser confundida com a aresta.",
+        "whyItIsWrong": "Volume do cubo com aresta 18 cm é muito maior que 80% do cilindro."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Tentaram calcular a raiz cúbica incorretamente, com coeficiente errado.",
+        "misconceptionType": "Erro no cálculo da raiz cúbica e simplificação da expressão",
+        "whyItLooksPlausible": "A fórmula parece semelhante, mas o valor numérico está incorreto.",
+        "whyItIsWrong": "A expressão não corresponde à raiz cúbica correta do volume ajustado."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Geometria espacial",
+      "secondarySkills": [
+        "Cálculo de volume",
+        "Radiciação",
+        "Proporcionalidade"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É fundamental entender o cálculo de volume de cilindros e cubos.",
+        "Exige conhecimento da relação entre volume e medida linear (raiz cúbica).",
+        "Uso aproximado de π facilita o cálculo mental.",
+        "Interpretação correta de expressões com raízes é necessária."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a análise técnica e a explicação didática são consistentes entre si. A solução está correta, os passos são claros e coerentes, e as justificativas para os distractores são adequadas. As imagens das alternativas D e E confirmam a correspondência com a expressão correta. Não foram identificados problemas relevantes.",
+      "issues": []
+    }
+  }
+}

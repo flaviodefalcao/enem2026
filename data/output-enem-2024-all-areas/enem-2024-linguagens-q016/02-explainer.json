@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:08:30.009Z",
+  "questionId": "enem-2024-linguagens-q016",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A produção artística afro-brasileira, conforme o texto, resulta da interação entre as experiências pessoais dos artistas e a cultura negra nacional, refletindo diversidade e construção cultural, e não uma produção homogênea ou padronizada.",
+      "stepByStep": [
+        "Leia o texto com atenção, identificando como define a arte afro-brasileira.",
+        "Observe que a arte é feita a partir das experiências sociais dos artistas com a cultura negra nacional.",
+        "Analise cada alternativa da questão para verificar se correspondem a essa definição.",
+        "Descarta opções que sugerem uniformidade, distanciamento ou estranhamento cultural, já que o texto enfatiza interação e influência pessoal.",
+        "Escolha a alternativa que apresenta a ideia de construção complexa e enriquecida pelas vivências pessoais, que é a alternativa D."
+      ],
+      "commonPitfalls": [
+        "Pensar que a arte afro-brasileira é homogênea e padronizada.",
+        "Interpretar a atuação de artistas como Carybé como distanciamento ou apropriação superficial.",
+        "Assumir que há uma separação rígida entre cultura afro-brasileira e outras influências artísticas.",
+        "Ignorar a influência das experiências sociais na criação artística, considerando apenas aspectos formais.",
+        "Confundir diversidade cultural com falta de identidade ou coerência estética."
+      ],
+      "teachingTips": [
+        "Incentive a leitura cuidadosa e a identificação de ideias-chave no texto.",
+        "Trabalhe com exemplos de artistas afro-brasileiros que exemplifiquem a diversidade e multiculturalidade.",
+        "Discuta conceitos como apropriação cultural e interação cultural de forma contextualizada.",
+        "Estimule o pensamento crítico sobre como as vivências pessoais influenciam a produção artística.",
+        "Use questões semelhantes para praticar a análise de textos e reconhecimento de argumentos implícitos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1331,
+    "outputTokens": 356,
+    "estimatedCostUsd": 0.001102
+  }
+}

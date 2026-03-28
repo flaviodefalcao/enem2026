@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:25:58.629Z",
+  "questionId": "enem-2024-linguagens-q026",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa correta é B, pois o texto destaca que a luta é vista como uma expressão corporal masculina, o que justifica a menor participação das meninas nas aulas. Essa percepção está relacionada diretamente à masculinização da modalidade em questão.",
+      "strategy": "Ler atentamente o trecho do texto que explica a justificativa dos alunos para a menor participação das meninas. Encontrar a alternativa que corresponde ao motivo citado, ou seja, o fato de a luta ser vista como uma prática masculina, afastando o interesse feminino.",
+      "steps": [
+        "Identificar no texto o motivo da menor participação das meninas nas aulas de Educação Física em relação às lutas.",
+        "Perceber que o texto fala sobre o fato das lutas serem consideradas expressão corporal masculina.",
+        "Relacionar essa percepção com a opção que fala da masculinização da modalidade.",
+        "Comparar as alternativas para confirmar qual se conecta diretamente com a justificativa do texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do texto adaptado da pesquisa das autoras SO, M.R.; MARTINS, M.Z.; BETTI, M."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode-se pensar que a esportivização seja a razão da menor participação, associando o ensino à modalidade de forma competitiva e institucionalizada.",
+        "misconceptionType": "Interpretação incorreta do motivo dado no texto",
+        "whyItLooksPlausible": "A educação física enfatiza o esporte, então pode parecer que essa 'esportivização' afeta a participação.",
+        "whyItIsWrong": "O texto foca no aspecto da percepção de gênero, não na forma de organização do conteúdo (esportivização)."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Alunos podem pensar que a cobertura midiática influencia diretamente o interesse e participação.",
+        "misconceptionType": "Confusão entre influência social externa e percepção interna nos ambientes escolares",
+        "whyItLooksPlausible": "O texto menciona transmissões televisivas de lutas femininas como fenômeno social crescente.",
+        "whyItIsWrong": "Não é a mídia que limita a participação nas aulas, mas sim a visão internalizada da luta como masculina."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode parecer que o modo como a educação física aborda a luta (trato pedagógico) influencia na participação.",
+        "misconceptionType": "Interpretação errada do papel docente e do conteúdo",
+        "whyItLooksPlausible": "Há menção a tensões relacionais no ensino, sugerindo problemas no tratamento pedagógico.",
+        "whyItIsWrong": "Apesar de tensões, o motivo principal é o estigma da masculinização da luta, não explicitamente o trato pedagógico."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode ser entendido que o tema é marginalizado nas aulas, levando à exclusão das mulheres.",
+        "misconceptionType": "Erro na compreensão do que marginalização representa no contexto",
+        "whyItLooksPlausible": "O texto cita a possibilidade de exclusão do conteúdo devido às tensões relacionadas a gênero.",
+        "whyItIsWrong": "O foco é na percepção da modalidade ligada ao gênero e não na marginalização explícita do tema na Educação Física."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Relação de texto e realidade social"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão da relação entre gênero e práticas corporais conforme o texto.",
+        "Demanda analisar um argumento implícito sobre estereótipos de gênero.",
+        "Requer discriminar qual alternativa corresponde ao argumento do texto e quais desviam do foco principal."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 879,
+    "outputTokens": 761,
+    "estimatedCostUsd": 0.001569
+  }
+}

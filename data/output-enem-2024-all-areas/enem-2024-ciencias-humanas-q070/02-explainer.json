@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:00:15.895Z",
+  "questionId": "enem-2024-ciencias-humanas-q070",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto mostra que vários objetos sociais e infraestrutura — como supermercados e redes de transporte — funcionam como sistemas complexos que coordenam e facilitam a circulação de pessoas, bens e informações, o que indica uma intensificação dos fluxos no território.",
+      "stepByStep": [
+        "Leia o texto atentamente, identificando os exemplos citados (supermercados, portos, rodovias, ferrovias) e perceba que eles são sistemas organizados e interligados.",
+        "Observe que esses objetos não funcionam isoladamente, mas dependem da coordenação e de outras infraestruturas para operar eficazmente.",
+        "Interprete o papel desses sistemas na organização do espaço e no funcionamento do território.",
+        "Associe essa organização às alternativas da questão, identificando aquela que destaca a intensificação da circulação, ou seja, a dinamização dos fluxos no território, como indicado no texto.",
+        "Conclua que a alternativa correta é a que apresenta essa ideia, pois o texto enfatiza coordenação e circulação, não outros processos econômicos ou sociais. "
+      ],
+      "commonPitfalls": [
+        "Interpretar a menção a grandes sistemas como indicativo de desindustrialização, quando o texto não trata desse assunto.",
+        "Confundir a ideia de coordenação dos sistemas com desregulamentação ou ausência de regras.",
+        "Associar a presença de infraestruturas complexas exclusivamente à concentração da produção, sem considerar o papel dos fluxos e da circulação.",
+        "Achar que a organização espacial descrita indica políticas de distribuição de renda, apesar do texto não abordar esse tema."
+      ],
+      "teachingTips": [
+        "Explique o conceito de sistemas espaciais e como diferentes objetos (infraestruturas, estabelecimentos) funcionam interligados para organizar o território.",
+        "Ajude os alunos a relacionarem textos teóricos com conceitos de circulação e fluxo, fundamentais para compreender dinâmicas territoriais.",
+        "Pratique com exemplos práticos de sistemas complexos e sua função na economia e na sociedade para fixar o conceito de dinamização dos fluxos.",
+        "Estimule a leitura cuidadosa e a identificação das palavras-chave que indicam ações ou funções (como \"coordenação\", \"sistema\", \"vias rápidas\") para orientar a escolha da alternativa correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1248,
+    "outputTokens": 453,
+    "estimatedCostUsd": 0.001224
+  }
+}

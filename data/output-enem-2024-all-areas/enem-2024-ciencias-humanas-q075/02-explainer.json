@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:05:11.072Z",
+  "questionId": "enem-2024-ciencias-humanas-q075",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os salões e cafés no Iluminismo representavam diferentes espaços sociais de circulação de ideias: os salões serviam à elite intelectual do Alto Iluminismo, enquanto os cafés eram abertos e acessíveis ao público em geral, ligados ao Baixo Iluminismo. Assim, eles ilustram como as ideias iluministas circulavam em diferentes camadas sociais no Antigo Regime.",
+      "stepByStep": [
+        "Leia o texto atentamente para identificar o papel de salões e cafés no Iluminismo.",
+        "Perceba que os salões eram frequentados pela elite e filósofos do Alto Iluminismo.",
+        "Note que os cafés eram abertos a todos, simbolizando o Baixo Iluminismo.",
+        "Reconheça que ambos os espaços favoreciam a circulação de ideias, embora segmentados socialmente.",
+        "Analise as alternativas e escolha aquela que melhor representa a função dos salões e cafés, conforme o texto.",
+        "Descartar alternativas que apresentam interpretações incorretas ou não sustentadas pelo texto."
+      ],
+      "commonPitfalls": [
+        "Achar que os salões e cafés fomentavam revoluções ou conflitos contra a nobreza, sem respaldo no texto.",
+        "Generalizar que mulheres eram excluídas dos espaços iluministas, ignorando o papel das mulheres nos salões.",
+        "Confundir esses espaços com locais de censura e repressão das ideias, quando na realidade promoviam debates.",
+        "Associar os salões e cafés diretamente ao comércio ou à integração econômica, desviando do foco cultural e literário.",
+        "Ignorar a segregação social desses espaços e a distinção entre Alto e Baixo Iluminismo."
+      ],
+      "teachingTips": [
+        "Enfatize a importância do contexto histórico para compreender a função dos espaços sociais no Iluminismo.",
+        "Utilize o conceito de esfera pública de Habermas para explicar como diferentes grupos sociais interagiam no debate de ideias.",
+        "Use comparações entre os espaços sociais fechados (salões) e abertos (cafés) para facilitar a compreensão da segregação social e circulação das ideias.",
+        "Apoie-se em exemplos históricos reais para ilustrar o papel das mulheres nos salões.",
+        "Estimule a análise crítica das alternativas, buscando evidências no texto e evitando leituras anacrônicas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1518,
+    "outputTokens": 454,
+    "estimatedCostUsd": 0.001334
+  }
+}

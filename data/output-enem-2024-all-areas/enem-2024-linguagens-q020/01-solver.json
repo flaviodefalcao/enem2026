@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:20:00.464Z",
+  "questionId": "enem-2024-linguagens-q020",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa correta é a letra C, pois a crônica utiliza a repetição da palavra \"coisa\" e seus derivados ao longo do texto para manter a unidade temática, caracterizando o recurso de reiteração.",
+      "strategy": "Analisar os recursos linguísticos indicados nas alternativas, confrontando-os com os elementos presentes no texto da crônica para identificar qual garante a unidade temática.",
+      "steps": [
+        "Ler o texto atentamente, observando as repetições e os recursos linguísticos presentes.",
+        "Analisar cada alternativa à luz do texto:",
+        "- A: Apesar de haver referência a Caetano Veloso e menção a letras de canções, o foco não é intertextualidade predominante na progressão textual.",
+        "- B: Metalinguagem envolveria a autora falando sobre o ato de escrever, mas a crônica não enfatiza isso para manter a unidade temática.",
+        "- C: Identifica-se a repetição constante da palavra \"coisa\" e seus derivados (coisinha, coisar), que mantém o tema.",
+        "- D: Embora existam conectores como \"quando\" e \"porque\", eles não são o recurso principal para unidade temática.",
+        "- E: Há menção a \"minha filha\" e o pronome \"ela\" aparece, mas \"um namorado ruim\" e \"lo\" não constam no texto, tornando essa alternativa incorreta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode achar que a menção a Caetano Veloso e frases famosas de canções representam intertextualidade relevante para a unidade temática.",
+        "misconceptionType": "Interpretação incorreta de intertextualidade",
+        "whyItLooksPlausible": "O texto cita versos de músicas, sugerindo uma ligação entre textos que pode ser confundida com recurso principal.",
+        "whyItIsWrong": "A intertextualidade aparece, mas o recurso para unidade temática é a repetição da palavra \"coisa\", não a mera citação de versos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode pensar que o fato da autora mencionar sua escrita configura metalinguagem para manter a unidade.",
+        "misconceptionType": "Confusão conceitual sobre metalinguagem",
+        "whyItLooksPlausible": "Metalinguagem costuma ser uma estratégia importante para reflexões textuais; o candidato pode achar que a menção da autora sobre ler e escrever crônicas aponta para isso.",
+        "whyItIsWrong": "O texto não aborda o ato de escrever a crônica enquanto tema, e sim a repetição da palavra \"coisa\" para unidade temática."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode se prender ao uso frequente dos conectores \"quando\" e \"porque\" achando que são o recurso principal de coesão e unidade.",
+        "misconceptionType": "Confusão entre coesão e progressão temática",
+        "whyItLooksPlausible": "Conectores são essenciais em textos para ligar orações, sendo um recurso comum para progressão textual.",
+        "whyItIsWrong": "Embora presentes, eles não constituem o foco principal da unidade temática, que está na repetição lexical."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode se confundir ao ver pronomes que retomam nomes, associando isso a pronominalização como recurso principal.",
+        "misconceptionType": "Erro na identificação de elementos pronominais e referentes no texto",
+        "whyItLooksPlausible": "Pronominalização é um recurso comum para unidade textual, e a presença de pronomes pode induzir ao erro.",
+        "whyItIsWrong": "A alternativa menciona \"um namorado ruim\" e o pronome \"lo\", que não aparecem no texto, e a pronominalização não é o recurso mais destacado para a unidade temática."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise linguística",
+      "secondarySkills": [
+        "Reconhecimento de recursos linguísticos",
+        "Análise de progressão textual"
+      ],
+      "cognitiveDemand": "Médio - exige compreensão textual e conhecimento dos recursos linguísticos",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão requer conhecimento sobre recursos de coesão e progressão textual, especialmente reiteração.",
+        "É importante discriminá-los de outros recursos como intertextualidade, metalinguagem, pronominalização e conectores."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 858,
+    "outputTokens": 924,
+    "estimatedCostUsd": 0.001822
+  }
+}

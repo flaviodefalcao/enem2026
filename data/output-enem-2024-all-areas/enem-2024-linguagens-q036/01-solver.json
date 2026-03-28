@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:34:40.686Z",
+  "questionId": "enem-2024-linguagens-q036",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque evidencia que as esculturas, apesar da separação temporal de mais de 2.500 anos e de contextos culturais distintos, apresentam semelhanças estilísticas evidentes que indicam a persistência de padrões estéticos similares. Isso é observado na simplificação das feições faciais e nas formas alongadas, que aparecem em ambas as esculturas.",
+      "strategy": "Comparar as características visuais principais das duas esculturas apresentadas no enunciado, focando nos aspectos formais, como simplificação da forma, ausência de detalhamento e estrutura geral, para identificar relação entre os estilos em diferentes épocas e culturas.",
+      "steps": [
+        "Observar a escultura antiga, 'Cabeça de uma figura feminina' (circa 2700-2500 a.C.), que apresenta uma forma simplificada, ausência de detalhes e uma face quase abstrata.",
+        "Analisar a escultura moderna, 'Cabeça de mulher' de Modigliani (circa 1910-1911), que mostra características estéticas semelhantes, como alongamento do rosto e simplificação das linhas faciais.",
+        "Comparar as semelhanças formais entre as duas esculturas, apesar da diferença temporal e cultural muito grande.",
+        "Concluir que o que está presente é a persistência de padrões estéticos em diferentes épocas e culturas, pois ambos os trabalhos mostram um mesmo tipo de abordagem estilística.",
+        "Verificar as alternativas para identificar qual delas corresponde a essa interpretação."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem 1: Escultura 'Cabeça de uma figura feminina', destacando simplicidade e formato alongado.",
+        "Imagem 2: Escultura 'Cabeça de mulher' de Modigliani, também com simplicidade e alongamento do rosto."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que a escultura moderna valoriza a arte antiga por apresentar formas similares.",
+        "misconceptionType": "Confusão entre influência e análise estética temporal.",
+        "whyItLooksPlausible": "Ambas as esculturas têm estéticas similares, o que poderia sugerir influência ou valorização.",
+        "whyItIsWrong": "O enunciado não indica uma valorização direta, apenas aponta similaridades estéticas que indicam padrões persistentes."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "A ideia de que a arte escultórica resistiu aos avanços tecnológicos pode parecer explicação para a semelhança visual.",
+        "misconceptionType": "Interpretação errada do impacto tecnológico na arte.",
+        "whyItLooksPlausible": "As esculturas se mantêm simplificadas em épocas diferentes, dando a impressão de resistência à mudança.",
+        "whyItIsWrong": "A questão não trata de avanços tecnológicos nem resistência, mas de padrões estéticos semelhantes."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A simplificação da forma poderia ser atribuída ao tipo de material usado, como mármore ou calcário.",
+        "misconceptionType": "Causalidade incorreta entre material e forma estética.",
+        "whyItLooksPlausible": "Materiais diferentes impõem limitações que podem justificar similaridade formal.",
+        "whyItIsWrong": "As esculturas usam materiais diferentes, mas a forma simplificada está mais ligada ao estilo do que ao material."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A ausência de detalhes pode ser vista como característica da arte tradicional popular.",
+        "misconceptionType": "Generalização errônea das características da arte tradicional.",
+        "whyItLooksPlausible": "A ausência de detalhes é visível em ambas as esculturas.",
+        "whyItIsWrong": "A escultura antiga é uma obra artística antiga, não necessariamente arte popular, e a questão trata da persistência estética, não ausência de detalhes como traço da arte popular."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise e interpretação de obras artísticas",
+      "secondarySkills": [
+        "Comparação histórica",
+        "Raciocínio crítico"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão requer análise comparativa visual entre esculturas de diferentes épocas.",
+        "É essencial identificar o conceito de persistência de padrões estéticos.",
+        "Necessita observação atenta dos elementos visuais representados."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2060,
+    "outputTokens": 878,
+    "estimatedCostUsd": 0.002229
+  }
+}

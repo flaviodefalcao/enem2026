@@ -1,0 +1,110 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:35:10.405Z",
+  "questionId": "enem-2024-q157",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "24,00",
+        "correctnessClaim": "A resposta está correta e justificada pela resolução algébrica que mantém o total pago constante.",
+        "strategy": "Igualar o custo total atual com o novo custo total, considerando o aumento da taxa fixa e ajustando o preço por porção.",
+        "steps": [
+          "Calcular o custo total atual: 5 porções x R$25,00 + taxa de R$10,00 = R$135,00.",
+          "Expressar o custo total com o novo preço e nova taxa: 5x + 15.",
+          "Igualar os totais: 5x + 15 = 135.",
+          "Isolar x: 5x = 120.",
+          "Dividir por 5: x = 24.",
+          "Concluir que o novo preço por porção é R$24,00."
+        ],
+        "formulasUsed": [
+          "Total atual = (Preço antigo * quantidade) + taxa antiga",
+          "Total novo = (Preço novo * quantidade) + taxa nova",
+          "Total atual = Total novo"
+        ],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O problema exige ajustar o preço por porção para que o custo total de 5 porções mais a taxa de entrega permaneça constante após o aumento da taxa.",
+        "stepByStep": [
+          "Calcular o custo total atual (5 x 25 + 10 = 135).",
+          "Montar a equação para o novo custo total com o novo preço (5x + 15 = 135).",
+          "Isolar o termo com x (5x = 135 - 15).",
+          "Calcular o valor de x (120 ÷ 5 = 24).",
+          "Concluir que o novo preço por porção é R$24,00."
+        ],
+        "commonPitfalls": [
+          "Ignorar o aumento da taxa de entrega ao calcular.",
+          "Diminuir o preço por porção de forma incorreta.",
+          "Somar a nova taxa sem ajustar o preço.",
+          "Confundir a taxa fixa com o preço por porção."
+        ],
+        "teachingTips": [
+          "Utilizar exemplos palpáveis para ilustrar o custo total.",
+          "Incentivar a formulação da equação antes de resolver.",
+          "Destacar o conceito de balancear o custo antes e depois da mudança.",
+          "Diferenciar claramente taxa fixa e preço variável."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "12,50",
+          "likelyReasoning": "Dividir o total pago original apenas pelas porções, ignorando a taxa fixa.",
+          "misconceptionType": "Confusão entre taxa fixa e preço unitário.",
+          "whyItLooksPlausible": "Parece uma média simples do custo total dividido pelas porções.",
+          "whyItIsWrong": "Desconsidera a taxa fixa, causando preço por porção incorreto."
+        },
+        {
+          "option": "20,00",
+          "likelyReasoning": "Subtrair diretamente o aumento da taxa do preço original proporcionalmente.",
+          "misconceptionType": "Erro na compensação linear entre taxa e preço unitário.",
+          "whyItLooksPlausible": "Parece ajustar o preço por porção para equilibrar o aumento da taxa.",
+          "whyItIsWrong": "Não mantém o valor total constante segundo a equação correta."
+        },
+        {
+          "option": "30,00",
+          "likelyReasoning": "Aumentar o preço para cobrir a taxa extra sem manter o gasto total fixo.",
+          "misconceptionType": "Ignorar a condição de valor total constante.",
+          "whyItLooksPlausible": "Supõe que custos maiores impliquem preços maiores.",
+          "whyItIsWrong": "Contraria a exigência do problema de manter o custo total."
+        },
+        {
+          "option": "37,50",
+          "likelyReasoning": "Multiplicar o preço original pela nova taxa de entrega diretamente sem relação proporcional.",
+          "misconceptionType": "Erro nas proporções entre taxa e preço por porção.",
+          "whyItLooksPlausible": "O valor elevado parece ligado à taxa maior.",
+          "whyItIsWrong": "Não satisfaz a condição de valor total inalterado."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Resolução de equações lineares",
+        "secondarySkills": [
+          "Interpretação de problemas cotidianos",
+          "Operações com números reais"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": true,
+        "requiresCalculation": true,
+        "notes": [
+          "Tradução da situação do problema para equação linear.",
+          "Importância de considerar a taxa fixa integralmente.",
+          "Manipulação algébrica para isolar a variável e encontrar o preço novo."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A análise técnica e a explicação didática estão consistentes entre si e com o enunciado. A solução correta (R$24,00) está bem justificada, e os distractores foram analisados adequadamente. O perfil do item está alinhado com as habilidades requeridas. Não foram identificados problemas de inconsistência ou erros relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2097,
+    "outputTokens": 986,
+    "estimatedCostUsd": 0.002416
+  }
+}

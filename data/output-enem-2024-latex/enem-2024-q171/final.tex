@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 171 -- ENEM 2024 -- Matemática}
+
+Um jardineiro possui um comprimento fixo \(k\) metros de cerca para delimitar um jardim ornamental. O jardim poderá ser formado por três opções de forma geométrica: triângulo equilátero, quadrado ou hexágono regular. O objetivo é escolher a forma que maximize a área do jardim.
+
+\subsection*{1. Análise técnica}
+
+Primeiramente, fixamos que o perímetro \(P = k\) é igual para todos os polígonos. O lado de cada polígono será:
+\[
+L_3 = \frac{k}{3}, \quad L_4 = \frac{k}{4}, \quad L_6 = \frac{k}{6}.
+\]
+
+\noindent As áreas podem ser expressas como:
+\begin{align*}
+A_3 &= \frac{L_3^2 \sqrt{3}}{4} = \frac{k^2 \sqrt{3}}{36}, \\
+A_4 &= L_4^2 = \frac{k^2}{16}, \\
+A_6 &= \frac{3 \sqrt{3}}{2} L_6^2 = \frac{k^2 \sqrt{3}}{24}.
+\end{align*}
+
+\noindent Aproximando \(\sqrt{3} \approx 1{,}732\), temos
+\[
+A_3 \approx 0{,}048k^2, \quad A_4 = 0{,}0625k^2, \quad A_6 \approx 0{,}072k^2.
+\]
+
+\noindent Portanto, a área do hexágono regular é a maior e a melhor escolha para o jardineiro.
+
+\subsection*{2. Explicação didática}
+
+O problema explora conhecimentos básicos de geometria plana e álgebra, envolvendo cálculo de áreas para polígonos regulares e comparação para um perímetro fixo. É importante que o aluno reconheça:
+\begin{itemize}
+  \item A relação entre perímetro e lado do polígono.
+  \item As fórmulas específicas para áreas do triângulo equilátero, quadrado e hexágono regular.
+  \item A substituição e simplificação algébrica para expressar todas as áreas em função do perímetro \(k\).
+  \item A comparação quantitativa para determinar a maior área.
+\end{itemize}
+
+\subsection*{3. Análise dos distratores}
+
+As alternativas incorretas apresentam erros comuns tais como:
+\begin{itemize}
+  \item Aplicar fórmulas erradas, como o fator de área do hexágono exagerado na alternativa B.
+  \item Escolher figuras com áreas menores sem comprovar, como o quadrado na C.
+  \item Usar fórmulas corretas mas sobraçar opções com menor área, como o triângulo nas alternativas D e E, sendo que E além disso usa uma fórmula área incorreta.
+\end{itemize}
+
+\subsection*{4. Perfil da questão}
+
+Trata-se de uma questão de nível médio que envolve geometria, cálculo algébrico e raciocínio comparativo. É importante para o aluno saber interpretar figuras planas e utilizar fórmulas geométricas para resolução de problemas.
+
+\vspace{1em}
+
+\noindent \textbf{Resposta final:} O jardineiro escolherá a forma do \textbf{hexágono regular}, pois é a que produz a maior área para o perímetro disponível.
+
+\end{document}

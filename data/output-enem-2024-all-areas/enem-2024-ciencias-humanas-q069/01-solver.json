@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:59:24.116Z",
+  "questionId": "enem-2024-ciencias-humanas-q069",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque o texto destaca que as mulheres devem almejar uma ambição mais nobre e obter respeito por suas capacidades e virtudes, valorizando assim seu papel social além da mera aparência sedutora ou funções tradicionais.",
+      "strategy": "Ler atentamente o texto para identificar a reivindicação da autora sobre o papel das mulheres na sociedade e comparar com as opções de resposta.",
+      "steps": [
+        "Analisar o trecho que destaca a crítica ao sistema educacional que reduz as mulheres a aspectos superficiais e estereotipados.",
+        "Observar que a autora defende que as mulheres devem ser reconhecidas por suas capacidades e virtudes, não somente pela aparência e papéis tradicionais.",
+        "Relacionar essa ideia principal com as opções oferecidas.",
+        "Eliminar opções que não estão fundamentadas no texto, como participação política, salários, cargos públicos e distinção biológica.",
+        "Selecionar a alternativa que representa a valorização do papel social das mulheres, que é a alternativa C."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A pessoa pode associar o termo \"reivindicar direitos\" com a participação política, algo comum em discussões sobre direitos das mulheres.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "Direitos das mulheres frequentemente envolvem participação política, então essa alternativa parece lógica.",
+        "whyItIsWrong": "O texto foca na valorização das capacidades e virtudes femininas, e não aborda explicitamente participação política."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se interpretar \"reivindicar\" como buscar igualdade financeira, como equiparação salarial.",
+        "misconceptionType": "Falsa associação",
+        "whyItLooksPlausible": "Assuntos de direitos das mulheres geralmente incluem equiparação de salários.",
+        "whyItIsWrong": "O texto não menciona questões econômicas ou salariais, mas sim o reconhecimento social e educacional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se pensar que reconhecimento de diferenças biológicas é uma forma de valorização.",
+        "misconceptionType": "Interpretação literal e fora do contexto",
+        "whyItLooksPlausible": "O texto menciona \"sexo feminino\", o que pode levar a pensar em padrões biológicos.",
+        "whyItIsWrong": "A autora critica a visão reducionista baseada apenas em biologia, defendendo respeito às capacidades, não distinções biológicas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Alguém pode entender \"reivindicar direitos\" como a busca por ocupar cargos públicos.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Parte das lutas feministas envolve ocupar cargos públicos e espaços de poder.",
+        "whyItIsWrong": "O texto não menciona diretamente cargos públicos, mas enfatiza o respeito às virtudes e capacidades femininas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão de textos históricos e filosóficos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Baseia-se na compreensão da crítica social feita pela autora Mary Wollstonecraft no século XVIII.",
+        "Exige conhecimento sobre o contexto histórico e o movimento pelos direitos das mulheres.",
+        "Não utiliza elementos visuais na solução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 643,
+    "outputTokens": 701,
+    "estimatedCostUsd": 0.001379
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:55:09.304Z",
+  "questionId": "enem-2024-ciencias-humanas-q063",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda a indústria cultural como um mecanismo que controla e homogeneíza os indivíduos, refletindo sobre a manipulação social exercida por instituições culturais dentro do contexto social e político, o que está diretamente relacionado às instituições sociais e políticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 814,
+    "outputTokens": 77,
+    "estimatedCostUsd": 0.000449
+  }
+}

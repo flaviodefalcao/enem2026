@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:15:36.202Z",
+  "questionId": "enem-2024-ciencias-humanas-q085",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O movimento das Madres de Plaza de Mayo expôs ao mundo as graves violações dos direitos humanos cometidas pela ditadura militar argentina, principalmente os desaparecimentos forçados de seus filhos.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar de quem se fala: as Madres de Plaza de Mayo, mães que protestavam na Argentina.",
+        "Reconheça o contexto histórico da ditadura militar argentina, um período em que muitos opositores foram perseguidos e desapareceram.",
+        "Entenda que o movimento denunciava publicamente essa repressão e os desaparecimentos forçados, que eram crimes cometidos pelo Estado.",
+        "Analise as alternativas e escolha aquela que menciona a violação dos direitos humanos durante a ditadura, que é o foco do movimento.",
+        "Descarte outras alternativas que tratem de problemas diferentes, como violência doméstica ou desigualdade social, pois não correspondem ao tema central do texto. "
+      ],
+      "commonPitfalls": [
+        "Confundir a denúncia das Madres com problemas de violência doméstica por associar o grupo a mulheres e mães.",
+        "Interpretar o protesto como uma luta contra a insegurança juvenil, quando o foco era o desaparecimento de seus filhos pela repressão política.",
+        "Associar o movimento exclusivamente à luta contra a desigualdade social, apesar de ser um problema sério, não era o principal objetivo das Madres.",
+        "Pensar que o movimento criticava só a crise democrática e não a gravidade dos crimes de desaparecimento e repressão do Estado."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da ditadura militar argentina para que os alunos entendam a gravidade dos fatos denunciados.",
+        "Use fontes históricas e documentários para mostrar depoimentos das próprias Madres e vítimas, tornando o assunto mais próximo e real.",
+        "Estimule a leitura atenta do texto, destacando palavras-chave como ‘dictador’, ‘silêncio’, ‘represion’ e ‘Madres de Plaza de Mayo’.",
+        "Faça comparações com outros movimentos sociais para que os alunos compreendam as diferentes formas de resistência política.",
+        "Ressalte a importância dos direitos humanos e como sua violação deve ser denunciada para evitar o esquecimento e a impunidade."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1288,
+    "outputTokens": 446,
+    "estimatedCostUsd": 0.001229
+  }
+}

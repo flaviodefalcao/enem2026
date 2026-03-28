@@ -1,0 +1,194 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q083",
+  "generatedAt": "2026-03-28T01:14:09.666Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 586,
+      "outputTokens": 745,
+      "estimatedCostUsd": 0.001426
+    },
+    "explainer": {
+      "inputTokens": 1207,
+      "outputTokens": 359,
+      "estimatedCostUsd": 0.001057
+    },
+    "reviewer": {
+      "inputTokens": 2492,
+      "outputTokens": 2067,
+      "estimatedCostUsd": 0.004304
+    },
+    "totalEstimatedCostUsd": 0.006787
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque o texto destaca que os mapas sempre estiveram a serviço da dominação e do poder, retratando os interesses de uma minoria, o que indica a sustentação de hegemonias territoriais.",
+      "strategy": "Análise interpretativa do texto sobre a função histórica dos mapas, relacionando o papel da cartografia com o exercício do poder e dominação social e territorial.",
+      "steps": [
+        "Ler atentamente o texto que apresenta a finalidade histórica dos mapas.",
+        "Identificar as palavras-chave: 'prática', 'dominação', 'poder', 'interessava a uma minoria'.",
+        "Compreender que a principal função destacada é a manutenção da dominação e suporte ao poder.",
+        "Relacionar essa função à ideia de manter hegemonias territoriais, ou seja, sustentar estruturas de poder sobre espaços.",
+        "Comparar com as alternativas para encontrar a que melhor se encaixa nesse conceito."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que os mapas, ao longo da história, foram ferramentas criadas para atender aos interesses de uma minoria dominante, servindo à prática do poder e da dominação territorial.",
+      "stepByStep": [
+        "Leia o texto com atenção, focando na ideia principal sobre os mapas.",
+        "Identifique expressões-chave como 'dominação', 'poder' e 'interessava a uma minoria'.",
+        "Entenda que os mapas foram usados para sustentar relações de poder, facilitando a dominação territorial.",
+        "Relacionar essa ideia com a manutenção de hegemonias sociais e políticas através da cartografia.",
+        "Escolha a alternativa que representa essa função dos mapas, que é a de sustentar a dominação e o poder. "
+      ],
+      "commonPitfalls": [
+        "Pensar que a principal função dos mapas é a preservação ambiental, confundindo representação territorial com proteção de espaços naturais.",
+        "Achar que mapas historicamente serviram para emancipar grupos marginalizados, quando o texto indica o contrário.",
+        "Interpretar que mapas valorizam culturas reprimidas, sem observar o enfoque histórico na dominação.",
+        "Acreditar que mapas promovem a inversão de hierarquias sociais, ignorando que eles reforçam o poder vigente."
+      ],
+      "teachingTips": [
+        "Explique que mapas são construções sociais e políticas, não apenas representações neutras do espaço.",
+        "Use exemplos históricos para mostrar como mapas foram usados para justificar domínio territorial e político.",
+        "Promova debates sobre o papel da cartografia no controle do território e na manutenção do poder.",
+        "Incentive os alunos a identificar as palavras-chave e a ler criticamente textos para entender intenções implícitas.",
+        "Apresente outras funções dos mapas para ampliar a compreensão, mas destaque o contexto histórico do enunciado."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associação equivocada da cartografia com a proteção ambiental e preservação de espaços naturais, possivelmente por associar mapas ao estudo do território.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Mapas são usados na geografia para representar espaços naturais, o que pode levar à ideia de que sua função principal é a preservação ambiental.",
+        "whyItIsWrong": "O texto não menciona a preservação ambiental como objetivo dos mapas, mas sim o poder e a dominação."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Entender que os mapas podem ser ferramentas para emancipação e inclusão social, focando em sujeitos marginais.",
+        "misconceptionType": "Leitura voltada ao contexto social atual",
+        "whyItLooksPlausible": "Em contextos modernos, mapas podem servir para dar visibilidade a grupos marginalizados.",
+        "whyItIsWrong": "O texto destaca que historicamente os mapas serviram aos interesses de uma minoria dominante, não à emancipação de sujeitos marginais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que mapas revalorizam culturas reprimidas ao representar diferentes aspectos culturais no território.",
+        "misconceptionType": "Interpretação fora do contexto histórico fornecido",
+        "whyItLooksPlausible": "Mapas temáticos podem retratar culturas locais, sugerindo valorização cultural.",
+        "whyItIsWrong": "O texto enfatiza o papel dos mapas a serviço da dominação, não da revalorização de culturas reprimidas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar que os mapas têm potencial para inverter hierarquias, promovendo mudanças sociais.",
+        "misconceptionType": "Equívoco sobre função histórica dos mapas",
+        "whyItLooksPlausible": "Mapas podem ser vistos como instrumentos de transformação social e política.",
+        "whyItIsWrong": "No texto, os mapas reforçam hierarquias e o poder da minoria, não promovem a inversão delas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de Texto",
+      "secondarySkills": [
+        "Análise Crítica",
+        "Conhecimento Histórico",
+        "Compreensão de Função Social"
+      ],
+      "cognitiveDemand": "Mediana (Interpretação e análise crítica)",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão trabalha interpretação textual vinculada à compreensão histórica e social da cartografia.",
+        "Não há imagens associadas a essa questão para análise visual.",
+        "Exige correlacionar conceito de hegemonia e poder com função dos mapas."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🗺️",
+      "shortThemeTitle": "Função social e histórica dos mapas",
+      "interpretationIntro": "O comando solicita que se identifique a finalidade principal atribuída aos mapas no texto apresentado.",
+      "commandTerms": [
+        {
+          "term": "Dominação",
+          "explanation": "Conceito ligado ao controle e imposição de poder sobre territórios e grupos sociais."
+        },
+        {
+          "term": "Hegemonia",
+          "explanation": "Predominância ou liderança exercida por um grupo social em determinado espaço ou contexto."
+        },
+        {
+          "term": "Cartografia",
+          "explanation": "Técnica e ciência da elaboração de mapas que retratam espaços geográficos."
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar qual função histórica dos mapas está sendo destacada no texto, especialmente em relação à prática social e política.",
+      "strategyParagraph": "Para responder, o candidato deve interpretar o texto enfatizando termos como 'dominação', 'poder' e 'interessava a uma minoria', percebendo que os mapas foram instrumentos para sustentar relações de poder e hegemonia territorial. A partir dessa análise, deve-se relacionar essas ideias com as alternativas apresentadas e selecionar a que melhor representa essa função histórica da cartografia.",
+      "reviewTable": [
+        {
+          "concept": "Dominação e poder",
+          "keyIdea": "Mapas são elaborados para sustentar interesses políticos e sociais vantajosos a grupos dominantes",
+          "application": "Texto mostra mapas a serviço da minoria para manter domínio"
+        },
+        {
+          "concept": "Hegemonia territorial",
+          "keyIdea": "Manutenção e legitimação do controle sobre territórios por parte de grupos dominantes",
+          "application": "Mapas auxiliam na sustentação de estruturas de poder no espaço"
+        },
+        {
+          "concept": "Função histórica dos mapas",
+          "keyIdea": "Ferramenta mais voltada à prática do poder do que representação neutra",
+          "application": "Relação entre mapas e exercício do poder político e social"
+        }
+      ],
+      "theoryParagraphs": [
+        "Historicamente, os mapas não são meras representações neutras do espaço, mas instrumentos elaborados segundo interesses específicos, sobretudo daqueles que detêm poder.",
+        "A cartografia serviu como ferramenta para justificar e consolidar a dominação territorial, auxiliando grupos dominantes na gestão e controle dos territórios.",
+        "Essa função social da cartografia ressalta que mapas refletem relações de poder e nem sempre representam a realidade de forma objetiva ou inclusiva."
+      ],
+      "resolutionParagraphs": [
+        "O texto destaca que a finalidade dos mapas sempre esteve vinculada à prática, principalmente a serviço da dominação e do poder, atuando em favor dos interesses de uma minoria.",
+        "Para interpretar essa ideia, devemos focar nas palavras-chave 'prática', 'dominação', 'poder' e 'interessava a uma minoria', que indicam a função política e social da cartografia.",
+        "Essa compreensão permite concluir que a cartografia tinha papel fundamental na sustentação de hegemonias territoriais, facilitando o exercício do poder sobre espaços e populações.",
+        "O próximo passo é comparar esse entendimento com as alternativas da questão, buscando aquela que representa justamente essa função dos mapas.",
+        "A alternativa E apresenta a função da cartografia como instrumento de manutenção da dominação da minoria dominante, sendo a resposta correta."
+      ],
+      "puloDoGato": "Identifique as palavras 'dominação' e 'minoria' no texto como pistas-chave para entender que mapas mantêm o poder, não promovem igualdade.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Fala em proteção ambiental, mas o texto não aponta essa finalidade, focando em dominação e poder."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Sugere emancipação de grupos marginalizados, mas o texto ressalta que mapas atendem a interesses da minoria dominante."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Trata da valorização cultural reprimida, o que não é enfatizado no texto, que destaca o papel dos mapas em dominação."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Apresenta os mapas como instrumentos de mudança social que invertam hierarquias, porém o texto indica que eles reforçam o poder vigente."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Correta, pois o texto deixa claro que os mapas serviram para sustentar a dominação de uma minoria, legitimando hegemonias territoriais."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_HISTORIA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está coerente com o enunciado, a análise técnica e a explicação pedagógica. Todos os elementos se complementam para evidenciar que a função histórica dos mapas é a sustentação da dominação e do poder.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "questionId": "enem-2024-linguagens-q038",
+  "generatedAt": "2026-03-28T00:36:50.868Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 875,
+      "outputTokens": 672,
+      "estimatedCostUsd": 0.001425
+    },
+    "explainer": {
+      "inputTokens": 1449,
+      "outputTokens": 331,
+      "estimatedCostUsd": 0.001109
+    },
+    "reviewer": {
+      "inputTokens": 2701,
+      "outputTokens": 2087,
+      "estimatedCostUsd": 0.00442
+    },
+    "totalEstimatedCostUsd": 0.006954
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é adequada porque o poema usa o deslocamento como metáfora para a tentativa das pessoas de fugirem da própria identidade, evidenciado pela expressão 'como se pudessem chegar a algum lugar onde elas mesmas não estivessem'.",
+      "strategy": "Analisar o sentido simbólico do deslocamento no poema, considerando que ele expressa uma tentativa interna de fuga da própria identidade, e confrontar essa interpretação com as alternativas propostas.",
+      "steps": [
+        "Ler atentamente o poema, observando as expressões que indicam deslocamento físico e social, como 'chegam e se vão', 'se encontram', 'se despedem'.",
+        "Prestar atenção na última frase do poema, que sugere a impossibilidade de as pessoas chegarem a algum lugar onde não estejam consigo mesmas.",
+        "Compreender que o deslocamento funciona como uma metáfora da tentativa interna de escapar de sua própria identidade.",
+        "Comparar o entendimento do poema com as alternativas oferecidas e selecionar a que melhor corresponde a essa interpretação."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto completo do poema fornecido na imagem do enunciado."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O poema usa o deslocamento como metáfora para mostrar a tentativa fracassada das pessoas de fugir de si mesmas, pois não há lugar onde possam estar sem sua própria identidade.",
+      "stepByStep": [
+        "Leia o poema e destaque expressões que indicam movimento e interação social.",
+        "Observe a frase final que evidencia a impossibilidade de se distanciar de si próprio.",
+        "Entenda que o deslocamento não é físico, mas simbólico, representando a busca interna pela fuga da identidade.",
+        "Compare as alternativas e escolha a que melhor representa essa interpretação."
+      ],
+      "commonPitfalls": [
+        "Interpretar o deslocamento apenas de forma literal, como um movimento físico ou social.",
+        "Associar o poema a busca de novos lugares ou experiências inéditas, sem considerar a dimensão simbólica.",
+        "Confundir despedidas e deslocamento com desaparecimento social.",
+        "Desconsiderar a metáfora e centrarse apenas no movimento externo."
+      ],
+      "teachingTips": [
+        "Incentive leitores a identificar metáforas em textos poéticos.",
+        "Estimule a análise de expressões que indicam sentido simbólico no deslocamento.",
+        "Mostre como a poesia pode tratar de temas existenciais por meio de imagens relacionadas ao movimento e identidade.",
+        "Utilize exemplos diversos para ampliar a compreensão sobre metáforas e sentidos implícitos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Interpretação literal do deslocamento como busca de encontros.",
+        "misconceptionType": "Interpretação literal da metáfora",
+        "whyItLooksPlausible": "O poema menciona 'se encontram', sugerindo encontros sociais.",
+        "whyItIsWrong": "O poema focaliza a tentativa interna de fuga da identidade, não a busca por novas pessoas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretar o deslocamento como exploração de lugares desconhecidos.",
+        "misconceptionType": "Interpretação literal da metáfora",
+        "whyItLooksPlausible": "Movimento constante pode sugerir exploração.",
+        "whyItIsWrong": "Não há indicação clara de exploração, mas de uma fuga impossível de si mesmo."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Achar que o deslocamento reflete experiências incomuns.",
+        "misconceptionType": "Interpretação superficial da metáfora",
+        "whyItLooksPlausible": "Deslocar-se pode simbolizar mudança ou novidade.",
+        "whyItIsWrong": "O texto não destaca ineditismo, mas a busca frustrada por um lugar sem a própria identidade."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Relacionar despedidas com desaparecimento social.",
+        "misconceptionType": "Interpretação exagerada da metáfora",
+        "whyItLooksPlausible": "Despedidas podem ser associadas a afastamento ou desaparecimento.",
+        "whyItIsWrong": "O poema não indica desaparecimento social, mas tentativa existencial interna."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto literário",
+      "secondarySkills": [
+        "Análise de metáfora",
+        "Compreensão de poesia contemporânea"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige entendimento profundo da metáfora do deslocamento como fuga da identidade.",
+        "Requer análise detalhada do poema para captar o significado simbólico."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Metáfora do deslocamento e identidade",
+      "interpretationIntro": "A questão conduz o leitor a interpretar um poema que utiliza o conceito de deslocamento como metáfora de uma busca existencial.",
+      "commandTerms": [
+        {
+          "term": "Metáfora",
+          "explanation": "Figura de linguagem que representa uma ideia por meio de uma imagem ou conceito distinto."
+        },
+        {
+          "term": "Deslocamento",
+          "explanation": "Movimento ou mudança de lugar, aqui utilizado com sentido simbólico."
+        },
+        {
+          "term": "Identidade",
+          "explanation": "Conjunto de características particulares que definem uma pessoa."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar a que tentativa o deslocamento do poema se refere metaforicamente.",
+      "strategyParagraph": "Para resolver, leia o poema com atenção, perceba o uso do deslocamento como metáfora e deduza o significado subjacente, relacionando-o às alternativas propostas.",
+      "reviewTable": [
+        {
+          "concept": "Metáfora",
+          "keyIdea": "Uso simbólico do deslocamento para representar uma ideia abstrata.",
+          "application": "O poema usa o movimento para sugerir a tentativa de fugir da própria identidade."
+        },
+        {
+          "concept": "Interpretação poética",
+          "keyIdea": "Analisar o sentido além do literal, compreendendo intenções subjetivas do autor.",
+          "application": "O significado do deslocamento vai além da ação física, representando um conflito interno."
+        },
+        {
+          "concept": "Identidade",
+          "keyIdea": "Noção de si mesmo que não se pode abandonar.",
+          "application": "A impossibilidade de chegar a lugar onde não estejam consigo mesmas."
+        }
+      ],
+      "theoryParagraphs": [
+        "Na poesia, o deslocamento pode ser uma metáfora que indica não apenas mudança física, mas deslocamentos internos ou existenciais.",
+        "A identidade é um tema comum na literatura, que explora a relação do indivíduo consigo mesmo e com o mundo ao seu redor.",
+        "Compreender metáforas exige leitura atenta e capacidade de interpretar sentidos implícitos, relacionando o texto ao seu contexto simbólico."
+      ],
+      "resolutionParagraphs": [
+        "O poema apresenta movimentos constantes e encontros, despedidas e uma frase que indica a impossibilidade de estar em um lugar sem si mesmo.",
+        "Isso sugere que o deslocamento em questão é simbólico, representando a tentativa frustrada de fugir da própria identidade.",
+        "Analisando as alternativas, só a opção B contempla essa ideia, enquanto as outras interpretam o deslocamento de forma literal ou superficial.",
+        "Logo, a resposta correta é a alternativa B."
+      ],
+      "puloDoGato": "Foque na metáfora do deslocamento como fuga de si mesmo para evitar interpretações literais.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Interpretação literal do deslocamento como busca de novos encontros. O poema enfatiza a fuga interna, não encontros sociais."
+        },
+        {
+          "option": "B",
+          "isCorrect": true,
+          "explanation": "Resposta correta. O poema usa o deslocamento para metaforizar a tentativa das pessoas de fugirem da própria identidade."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Interpretação incorreta que associa deslocamento a exploração física; o poema fala de conflito interno, não de exploração."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreto ao considerar o deslocamento como experiências inéditas; o foco está na busca infeccaz de se afastar da identidade."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Interpretação equivocada que associa despedidas ao desaparecimento social, o poema trata de uma questão existencial."
+        }
+      ],
+      "questionCode": "LINGUAGENS_POESIA_METAFORA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução e explicação estão coerentes e em acordo quanto à interpretação metafórica do poema e à escolha da alternativa B. A resolução oficial segue uma linha clara, didática e adequada para o ENEM.",
+      "issues": []
+    }
+  }
+}

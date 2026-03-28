@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:18:32.391Z",
+  "questionId": "enem-2024-ciencias-humanas-q088",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda problemas urbanos causados pelas mudanças climáticas, como inundações e ondas de calor, e destaca a importância de soluções naturais para mitigar esses efeitos. A alternativa correta é a que propõe a implantação de parques públicos, que ajudam a controlar o calor e a absorção da água da chuva, beneficiando o ambiente e as pessoas.",
+      "stepByStep": [
+        "Leia o texto para identificar os problemas urbanos citados: inundações, alagamentos e ondas de calor.",
+        "Observe que o texto recomenda soluções baseadas na natureza para enfrentar esses problemas.",
+        "Analise cada alternativa considerando se ela contribui para a adaptação climática e melhoria ambiental.",
+        "Elimine opções que não envolvem soluções naturais ou que podem até agravar os problemas (por exemplo, aumento de áreas impermeáveis).",
+        "Selecione a alternativa que propõe a implantação de parques públicos, pois parques ajudam a reduzir a temperatura local e a absorver água da chuva.",
+        "Verifique que essa medida proporciona benefícios múltiplos: ambientais, econômicos e sociais."
+      ],
+      "commonPitfalls": [
+        "Confundir organização urbana com solução climática, como pensar que sinalização resolve inundações.",
+        "Assumir que a incineração de resíduos ajuda na adaptação climática, quando pode piorar a poluição.",
+        "Achar que verticalizar áreas urbanas ameniza o calor, quando pode causar o efeito contrário.",
+        "Interpretar estacionamentos privados como solução ambiental, mas eles aumentam áreas impermeáveis, agravando inundações."
+      ],
+      "teachingTips": [
+        "Explique a importância das soluções baseadas na natureza para a adaptação urbana às mudanças climáticas.",
+        "Use exemplos práticos, como parques reduzindo ilhas de calor e controlando águas pluviais.",
+        "Incentive a análise crítica das alternativas, focando no impacto ambiental real de cada proposta.",
+        "Reforce que infraestrutura que aumenta impermeabilização do solo piora os problemas climáticos.",
+        "Aborde conceitos de sustentabilidade urbana para contextualizar as soluções naturais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1375,
+    "outputTokens": 406,
+    "estimatedCostUsd": 0.0012
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:42:58.550Z",
+  "questionId": "enem-2024-linguagens-q045",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é correta pois aborda a divulgação de informação manipulada em postagens virtuais, tema expresso claramente no texto que critica memes e fake news na educação das crianças.",
+        "strategy": "Análise crítica do texto identificando a crítica central que é a divulgação/manipulação de informações falsas em redes sociais e seu impacto na educação, buscando a alternativa que melhor expressa essa ideia.",
+        "steps": [
+          "Ler atentamente o texto para entender o tema principal: impacto dos memes e fake news na educação.",
+          "Identificar a crítica que o texto faz sobre a manipulação da informação e a importância do letramento midiático e político.",
+          "Analisar cada alternativa para verificar qual se relaciona diretamente com essa crítica central.",
+          "Descartar alternativas que desviam do foco principal (como fiscalização, humor, ou uso positivo das redes).",
+          "Confirmar que a alternativa B aborda a divulgação de informações manipuladas, relacionada à desinformação e fake news.",
+          "Finalizar com a indicação da alternativa B como a correta, conforme o enunciado e gabarito.",
+          "Validar com o gabarito oficial que confirma a alternativa B."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Análise do texto do enunciado"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto critica a disseminação de informações falsas (memes e fake news) e seu impacto na educação, o que torna a alternativa B a correta, pois ela trata da divulgação de informações manipuladas em postagens virtuais.",
+        "stepByStep": [
+          "Compreender o tema central do texto: desinformação via memes e fake news na educação.",
+          "Identificar a crítica do texto sobre manipulação da informação e necessidade de letramento crítico.",
+          "Ler atentamente as alternativas para identificar qual corresponde à crítica feita.",
+          "Descartar aquelas que trazem temas colaterais mas não centrais, como fiscalização, humor, ou engajamento político isolado.",
+          "Concluir que a alternativa B traduz o foco da crítica do texto.",
+          "Confirmar resposta com base no gabarito oficial, garantindo a assertividade."
+        ],
+        "commonPitfalls": [
+          "Confundir o problema de manipulação da informação com falta de fiscalização de apps.",
+          "Interpretar a valorização do humor como foco principal, negligenciando a crítica à desinformação.",
+          "Reduzir a crítica apenas ao engajamento político sem considerar o aspecto mais amplo da manipulação.",
+          "Fazer uma leitura rápida que perde o foco da crítica principal de manipulação e fake news."
+        ],
+        "teachingTips": [
+          "Estimular a identificação clara do tema e da crítica principal antes de considerar as alternativas.",
+          "Promover o letramento midiático e político como competências essenciais para entender textos atuais.",
+          "Utilizar exemplos reais de memes e fake news para contextualização e debate em sala.",
+          "Ensinar estratégias para eliminar alternativas que, apesar de aparentarem estar relacionadas, não tratam da crítica essencial do texto.",
+          "Incentivar a leitura profunda e cuidadosa para evitar interpretações superficiais."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Relaciona memórias à circulação via aplicativos de mensagem, levando à confusão sobre foco da questão.",
+          "misconceptionType": "Desvio de foco",
+          "whyItLooksPlausible": "Envolve aplicativos de mensagens que são veículos comuns para memes e fake news.",
+          "whyItIsWrong": "O texto não critica a fiscalização dos aplicativos, mas a manipulação das informações compartilhadas."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Confunde crítica do texto com valorização do uso digital na educação.",
+          "misconceptionType": "Confusão entre aspecto positivo e negativo",
+          "whyItLooksPlausible": "Menciona uso das redes digitais e educação.",
+          "whyItIsWrong": "O foco do texto é a crítica ao uso desinformado, não a simples utilização das tecnologias."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Interpretação superficial que foca no humor e ignorar a crítica à desinformação.",
+          "misconceptionType": "Interpretação superficial",
+          "whyItLooksPlausible": "Memes antes eram encarados como humor e são citados no texto.",
+          "whyItIsWrong": "O texto destaca que os memes passaram a ser usados para manipular e difundir mentiras."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Redução temática que destaca apenas o engajamento político e esquece o foco na manipulação e desinformação ampla.",
+          "misconceptionType": "Redução temática",
+          "whyItLooksPlausible": "O texto menciona engajamento político e mensagens manipuladas.",
+          "whyItIsWrong": "O tema central é a manipulação da informação em geral, não somente política."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação crítica de textos",
+        "secondarySkills": [
+          "Compreensão de mídia digital",
+          "Análise de discurso",
+          "Leitura de textos argumentativos"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige análise crítica do impacto dos memes e fake news na educação.",
+          "A leitura cuidadosa é fundamental para identificar a crítica central no texto.",
+          "Há possibilidade de distração por temas colaterais como humor e política.",
+          "A alternativa correta foi confirmada com base no gabarito oficial."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Memes, fake news e educação crítica",
+        "interpretationIntro": "O comando da questão solicita identificar qual crítica a reportagem faz sobre a relação entre memes e educação, a partir da análise do texto apresentado.",
+        "commandTerms": [
+          {
+            "term": "Criticar",
+            "explanation": "Apontar aspectos negativos ou problemáticos presentes no texto."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Estabelecer conexão entre os memes, fake news e o impacto na educação das crianças."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para reconhecer qual é a crítica central da reportagem sobre o efeito de memes e fake news na educação infantil.",
+        "strategyParagraph": "Para resolver, é essencial ler atentamente o texto, destacando o foco da crítica feita pela professora no uso manipulado da informação, que incentiva o desenvolvimento do letramento político e midiático para que crianças e adultos sejam mais conscientes ao consumir e compartilhar conteúdos digitais. A partir dessa leitura, deve-se analisar cada alternativa, verificando qual expressa essa crítica à divulgação de postagens manipuladas.",
+        "reviewTable": [
+          {
+            "concept": "Fake news",
+            "keyIdea": "Informações falsas e manipuladas disseminadas como verdadeiras.",
+            "application": "O texto denuncia o impacto negativo dessas informações no contexto educacional."
+          },
+          {
+            "concept": "Letramento midiático",
+            "keyIdea": "Habilidade para compreender e avaliar criticamente mensagens em mídias digitais.",
+            "application": "Proposta da professora para trabalhar essa competência com alunos e pais."
+          },
+          {
+            "concept": "Memes",
+            "keyIdea": "Conteúdos humorísticos ou críticos, que podem ser verdadeiros ou manipulados.",
+            "application": "Utilizados como material para discussão sobre o uso consciente da informação."
+          }
+        ],
+        "theoryParagraphs": [
+          "Memes são elementos culturais digitais com forte poder de viralização, porém podem carregar informações falsas ou manipuladas, o que exige um olhar crítico para seu consumo.",
+          "Fake news representam um problema social no ambiente digital, pois disseminam desinformação que pode impactar negativamente a formação e comportamento das pessoas, especialmente crianças.",
+          "Letramento midiático e político são competências necessárias para que indivíduos consigam interpretar e reagir adequadamente ao conteúdo das mídias digitais, garantindo uma relação mais consciente e ética com a informação."
+        ],
+        "resolutionParagraphs": [
+          "O texto da questão apresenta um cenário em que memes e fake news afetam a educação, destacando a necessidade de interpretar criticamente essas mensagens.",
+          "A professora, ao observar a divulgação inconsciente de conteúdos manipulados entre alunos e pais, propôs o desenvolvimento do letramento crítico para enfrentar esse desafio.",
+          "Ao analisar as alternativas, identifica-se que a opção B é a única que efetivamente aborda a divulgação de informações manipuladas em postagens virtuais, alinhando-se perfeitamente à crítica do texto.",
+          "As outras alternativas se afastam do foco central: fiscalização de aplicativos (A), valorização das mídias digitais sem crítica (C), humor dos memes (D) e engajamento político restrito (E).",
+          "Por isso, a alternativa B é confirmada como a resposta correta, reforçada pelo gabarito oficial."
+        ],
+        "puloDoGato": "Foque na crítica principal do texto: manipulação consciente da informação e seu impacto na educação, não perca tempo com temas colaterais.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Fala sobre fiscalização nos aplicativos, que não é criticada no texto; o foco é a manipulação da informação."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Aborda a divulgação de informação manipulada em postagens virtuais, que é o tema principal do texto."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Sugere valorização do uso das mídias digitais, mas o texto critica o uso desinformado e manipulador."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Mantém o foco no humor dos memes, o que o texto apresenta apenas como um aspecto anterior ao problema real."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Limita o problema à mensagem política, mas o texto trata da manipulação da informação em geral."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LEITURA_CRITICA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução técnica e explicação didática estão coerentes entre si e apresentam uma argumentação fundamentada para a alternativa B ser a correta. A resolução oficial segue as diretrizes e está clara, didática e objetiva.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 13759,
+    "outputTokens": 1997,
+    "estimatedCostUsd": 0.008699
+  }
+}

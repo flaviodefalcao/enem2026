@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:19:14.041Z",
+  "questionId": "enem-2024-q137",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "5",
+      "correctnessClaim": "A resposta foi verificada utilizando equações algébricas corretamente.",
+      "strategy": "Definir a soma das notas como S e a média correta como M, montar uma equação baseada no erro de cálculo e resolver para M.",
+      "steps": [
+        "Definir a média correta: M = S/4.",
+        "Média errada obtida dividindo a soma por 5: S/5.",
+        "Sabemos que a média errada é 1 unidade menor que a correta: M - (S/5) = 1.",
+        "Substituir M por S/4 na equação: S/4 - S/5 = 1.",
+        "Calcular o mínimo múltiplo comum e resolver: (5S - 4S)/20 = 1 => S/20 = 1 => S = 20.",
+        "Calcular a média correta: M = S/4 = 20/4 = 5."
+      ],
+      "formulasUsed": [
+        "M = S/4",
+        "M - (S/5) = 1"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "4",
+        "likelyReasoning": "Possível confusão entre o denominador e o valor da média, supondo que multiplicar por 4 é o correto para média.",
+        "misconceptionType": "Confusão entre média e soma",
+        "whyItLooksPlausible": "4 é um número próximo à média de notas, parecendo razoável para uma média escolar.",
+        "whyItIsWrong": "Não satisfaz a condição do erro explicado no problema."
+      },
+      {
+        "option": "6",
+        "likelyReasoning": "Suposição errada de que adicionando 1 na divisão por 5 seria a média correta, chegando a 6.",
+        "misconceptionType": "Erro na manipulação algébrica",
+        "whyItLooksPlausible": "6 é um valor possível para média, mas não atende à equação do problema.",
+        "whyItIsWrong": "Não respeita a relação entre as divisões e a diferença de 1 na média."
+      },
+      {
+        "option": "19",
+        "likelyReasoning": "Erro ao aplicar a equação, possivelmente multiplicando incorretamente ou confundindo a relação entre soma e média.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "19 pode aparentar ser uma soma mal interpretada representando a média.",
+        "whyItIsWrong": "Muito alto para uma média de notas em apenas 4 provas, e não obedece a relação dada."
+      },
+      {
+        "option": "21",
+        "likelyReasoning": "Confundiu soma com média, pegando o total como média diretamente.",
+        "misconceptionType": "Confusão entre soma total e média",
+        "whyItLooksPlausible": "21 é o valor da soma total das notas se médias fossem maiores erroneamente consideradas.",
+        "whyItIsWrong": "A questão pede o valor da média correta, não a soma das notas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de média aritmética e manipulação algébrica",
+      "secondarySkills": [
+        "Interpretação de problema",
+        "Resolução de equações simples"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "O problema envolve compreensão da definição de média e erro na divisão do somatório.",
+        "Necessário montar equação linear para resolver."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 501,
+    "outputTokens": 689,
+    "estimatedCostUsd": 0.001303
+  }
+}

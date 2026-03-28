@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:18:25.255Z",
+  "questionId": "enem-2024-ciencias-humanas-q088",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "Correta",
+      "strategy": "Analisar o enunciado para identificar a medida que atua na adaptação climática urbana, especialmente para mitigar inundações, alagamentos e ondas de calor, priorizando soluções baseadas na natureza e beneficiando a economia, o ambiente e as pessoas.",
+      "steps": [
+        "Identificar no texto os problemas urbanos relacionados às mudanças climáticas: inundações, alagamentos e ondas de calor.",
+        "Reconhecer que o texto sugere soluções baseadas na natureza para adaptação climática.",
+        "Examinar cada alternativa e avaliar seu impacto na questão ambiental urbana e controle climático.",
+        "Descartar alternativas que não contribuem para o controle climático e adaptação natural, como sinalização, incineração ou estacionamento.",
+        "Selecionar a alternativa que representa uma solução natural e sistêmica: implantação de parques públicos, que ajudam a reduzir calor, absorver água da chuva e melhorar o ambiente.",
+        "Confirmar que a alternativa C gera múltiplos benefícios para a economia, ambiente e pessoas, conforme o enunciado."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado que reforça o conceito de 'Soluções baseadas na natureza para adaptação em cidades'"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que a sinalização ajuda na organização urbana para minimizar desastres.",
+        "misconceptionType": "Falsa associação entre organização urbana e controle climático.",
+        "whyItLooksPlausible": "Sinalização é prática para segurança e ordenamento.",
+        "whyItIsWrong": "Não atua diretamente na mitigação de inundações, alagamentos ou ondas de calor."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Incinerar resíduos pode ser visto como uma forma de reduzir lixo nas cidades.",
+        "misconceptionType": "Confusão entre gestão de resíduos e adaptação às mudanças climáticas.",
+        "whyItLooksPlausible": "Reduz a quantidade de resíduos sólidos acumulados.",
+        "whyItIsWrong": "Incinerar resíduos não reduz inundações nem ondas de calor, podendo até contribuir para poluição atmosférica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Verticalizar espaços centrais pode ser visto como uma forma eficiente de uso do espaço.",
+        "misconceptionType": "Confusão entre densificação urbana e mitigação climática.",
+        "whyItLooksPlausible": "Pode ser percebido como solução de planejamento urbano moderno.",
+        "whyItIsWrong": "Verticalização pode aumentar o calor urbano e não ajuda na absorção de água, podendo agravar o problema."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Construir estacionamentos privados poderia parecer uma forma de organização do tráfego e do espaço urbano.",
+        "misconceptionType": "Falsa relação de infraestrutura com adaptação climática.",
+        "whyItLooksPlausible": "Melhora o ordenamento do espaço para veículos.",
+        "whyItIsWrong": "Estacionamentos aumentam áreas impermeáveis, piorando inundações e ondas de calor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise crítica de propostas ambientais urbanas",
+      "secondarySkills": [
+        "Conhecimento em sustentabilidade urbana",
+        "Raciocínio lógico sobre impactos ambientais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige compreensão de conceitos ambientais urbanos relacionados à adaptação às mudanças climáticas.",
+        "É necessário interpretar o texto e relacionar com as alternativas para identificar a solução correta.",
+        "A imagem reforça a contextualização do tema, sendo utilizada para validar o conteúdo do enunciado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 743,
+    "outputTokens": 742,
+    "estimatedCostUsd": 0.001484
+  }
+}

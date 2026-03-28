@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-linguagens-q037",
+  "generatedAt": "2026-03-28T00:36:06.865Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 866,
+      "outputTokens": 849,
+      "estimatedCostUsd": 0.001705
+    },
+    "explainer": {
+      "inputTokens": 1564,
+      "outputTokens": 430,
+      "estimatedCostUsd": 0.001314
+    },
+    "reviewer": {
+      "inputTokens": 2921,
+      "outputTokens": 2215,
+      "estimatedCostUsd": 0.004712
+    },
+    "totalEstimatedCostUsd": 0.007731
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque o texto utiliza expressões e trechos reconhecíveis de músicas conhecidas para reforçar sua mensagem, caracterizando o recurso de intertextualidade. Esse recurso consiste na inserção de referências a outros textos para enriquecer o discurso, exatamente como acontece com as citações e alusões musicais no texto.",
+      "strategy": "Identificar as expressões e frases do texto que remetem a músicas conhecidas, relacionando-as às definições dos recursos linguísticos apresentados nas alternativas. Confirmar qual recurso está claramente presente e exerce função persuasiva no texto.",
+      "steps": [
+        "Ler atentamente o texto para capturar palavras, frases e expressões que remetam a letras de música ou gêneros musicais.",
+        "Identificar as expressões como “metamorfose ambulante” (título de música de Raul Seixas), “sofrência”, “lambada”, entre outras.",
+        "Verificar se essas referências configuram intertextualidade, comparação com o conceito de cada recurso dado nas alternativas.",
+        "Analisar as demais alternativas para descartar: contradição (não há oposição textual direta), metáfora (há, mas não é o recurso principal), enumeração (ocorre, mas não é o foco da persuasão), hipérbole (não está presente de forma clara).",
+        "Concluir que a intertextualidade (C) é o recurso persuasivo empregado no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto explora referências a músicas e estilos musicais para defender a importância da música na vida das pessoas, utilizando o recurso de intertextualidade, que consiste em inserir dentro do texto citações ou alusões a outros textos, enriquecendo a argumentação.",
+      "stepByStep": [
+        "Leia o texto com atenção identificando termos e frases relacionados a músicas.",
+        "Observe a presença de expressões que são títulos ou temas de músicas famosas, como “metamorfose ambulante”.",
+        "Considere os recursos linguísticos indicados nas alternativas e avalie qual deles ocorre claramente no texto.",
+        "Note que não há contradição nem hipérbole predominante.",
+        "Reconheça que a intertextualidade, ou seja, a citação de outros textos musicais, está presente e é o recurso persuasivo central da autora."
+      ],
+      "commonPitfalls": [
+        "Confundir metáfora com intertextualidade devido a expressões figuradas com origem musical.",
+        "Interpretar contradição onde não existe, considerando a progressão emocional do texto.",
+        "Associar o uso de palavras intensas a hipérbole de forma inadequada.",
+        "Focar apenas na enumeração de estilos musicais sem notar a função persuasiva das referências."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de intertextualidade e diferencie de outros recursos literários, especialmente metáfora.",
+        "Utilize exemplos musicais para que os alunos identifiquem referências textuais.",
+        "Promova exercícios para distinguir os recursos de linguagem (contradição, metáfora, enumeração, hipérbole e intertextualidade).",
+        "Estimule leituras reflexivas sobre a função dos recursos no texto argumentativo.",
+        "Discuta como a cultura, como a música, pode ser utilizada para persuadir no texto escrito."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O estudante pode interpretar que contradição está presente ao pensar que o texto associa sentimentos opostos, como dor e alegria.",
+        "misconceptionType": "Interpretação inadequada do recurso literário",
+        "whyItLooksPlausible": "O texto fala de dor e alegria associadas à música.",
+        "whyItIsWrong": "Não há uma contradição explícita entre coração despedaçado e alegria, apenas uma progressão emocional mediada pela música."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Reconhecem 'metamorfose ambulante' como metáfora, pois é uma expressão figurada.",
+        "misconceptionType": "Confusão entre metáfora e intertextualidade",
+        "whyItLooksPlausible": "A expressão é figurada e poética, típica de metáfora.",
+        "whyItIsWrong": "A menção é uma citação direta de música, que caracteriza intertextualidade, não apenas metáfora."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Percebem a enumeração das músicas e ritmos citados no texto.",
+        "misconceptionType": "Foco no recurso que não é central para a argumentação",
+        "whyItLooksPlausible": "Texto cita ritmos e estilos musicais variados.",
+        "whyItIsWrong": "Enumeração aparece, mas não é recurso persuasivo principal destacado pelo texto."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associam as palavras fortes a exagero (hipérbole) para causar impacto.",
+        "misconceptionType": "Generalização inadequada da hipérbole",
+        "whyItLooksPlausible": "As palavras são intensas e parecem exageros.",
+        "whyItIsWrong": "São expressões emocionais, mas não hipérboles explícitas no contexto do texto."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise literária e linguística de textos",
+      "secondarySkills": [
+        "Reconhecimento de recursos literários",
+        "Interpretação textual",
+        "Conhecimento de cultura musical para identificar referências"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto apresenta diversas expressões de músicas para reforçar a importância da música no cotidiano, o que deve ser reconhecido como intertextualidade.",
+        "É necessário conhecimento básico sobre os termos e letras musicais citadas para uma compreensão mais rica do texto."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🎵",
+      "shortThemeTitle": "Intertextualidade em Texto Argumentativo",
+      "interpretationIntro": "A questão solicita a identificação do recurso persuasivo usado pela autora para defender a importância da música no bem-estar emocional das pessoas.",
+      "commandTerms": [
+        {
+          "term": "Intertextualidade",
+          "explanation": "Inserção de referências a outros textos dentro do discurso para enriquecer a argumentação."
+        },
+        {
+          "term": "Metáfora",
+          "explanation": "Recurso que utiliza comparação implícita para atribuir características figuradas a uma ideia ou objeto."
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar qual recurso linguístico persuasivo a autora utiliza no texto para defender a importância da música na vida das pessoas.",
+      "strategyParagraph": "Para responder, é fundamental analisar o texto atentamente e identificar expressões ou frases que remetem a outras obras, especialmente as músicas citadas ou aludidas. Com isso, deve-se relacionar essas referências aos conceitos de recurso de linguagem presentes nas alternativas, buscando o recurso que mais claramente aparece e cumpre a função persuasiva neste texto.",
+      "reviewTable": [
+        {
+          "concept": "Intertextualidade",
+          "keyIdea": "Citação ou alusão a outros textos para reforçar o discurso.",
+          "application": "O texto menciona títulos e expressões de músicas para fortalecer sua mensagem."
+        },
+        {
+          "concept": "Metáfora",
+          "keyIdea": "Expressão figurada que atribui uma característica a um termo por semelhança.",
+          "application": "Presente em “metamorfose ambulante”, mas não é o recurso principal."
+        },
+        {
+          "concept": "Contradição",
+          "keyIdea": "Apresentação de ideias opostas dentro do texto.",
+          "application": "Não há contradição explícita no texto."
+        },
+        {
+          "concept": "Enumeração",
+          "keyIdea": "Lista de elementos para dar ênfase ou detalhamento.",
+          "application": "O texto cita diferentes estilos musicais, mas a enumeração não é o foco central."
+        }
+      ],
+      "theoryParagraphs": [
+        "A intertextualidade ocorre quando um texto faz referência, direta ou indireta, a outro texto pré-existente, inserindo em sua estrutura elementos que remetem a esse outro texto. Essa estratégia enriquece a argumentação e cria conexões que favorecem a persuasão, sobretudo quando essas referências são culturalmente reconhecidas pelo leitor.",
+        "No caso do texto apresentado, o autor utiliza esses recursos para demonstrar a importância da música no cotidiano e no equilíbrio emocional, por meio de expressões e títulos de músicas que ali aparecem textualmente.",
+        "É importante distinguir a intertextualidade de outros recursos, como a metáfora, que também se baseia em expressões figuradas, mas sem necessariamente citar um texto pré-existente."
+      ],
+      "resolutionParagraphs": [
+        "Ao ler o texto, identifica-se a presença de expressões e frases que são reconhecidas pelo público como partes de letras ou referências musicais, como 'metamorfose ambulante' e termos como 'sofrência' e estilos musicais citados.",
+        "Essas referências são utilizadas para evidenciar o poder da música na vida das pessoas e estão inseridas textualmente, caracterizando o recurso de intertextualidade.",
+        "Ao analisar as alternativas, percebe-se que, embora haja metáforas e enumeração no texto, o recurso que se destaca é a intertextualidade, por ser o que melhor explica o recurso persuasivo usado pela autora.",
+        "Portanto, a alternativa C é a resposta correta."
+      ],
+      "puloDoGato": "Procure expressões que remetem a outras obras ou textos — isso é intertextualidade, um recurso poderoso na argumentação!",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "A alternativa A fala em contradição, mas no texto não há oposição direta e explícita entre os elementos; há sim uma progressão emocional mediada pela música."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Apesar da expressão 'metamorfose ambulante' ser figurada, trata-se de uma referência direta à música de Raul Seixas, caracterizando intertextualidade, não metáfora exclusiva."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "A alternativa C está correta porque o texto apresenta claras referências a músicas e expressões musicais conhecidas, configurando intertextualidade."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Encontra-se enumeração de estilos musicais no texto, porém este não é o recurso persuasivo principal defendido pela autora."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Apesar de o texto usar palavras carregadas emocionalmente, não há uso claro e predominante de hipérbole como recurso."
+        }
+      ],
+      "questionCode": "LINGUAGENS_TEXTO_RECURSO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O solver e explainer apresentam coerência entre enunciado, resolução e explicações didáticas. A resolução oficial segue normas editoriais, com linguagem clara e didática, análise corretíssima dos recursos linguísticos e comentários relevantes para cada alternativa. A questão é bem estruturada e adequada para o nível esperado.",
+      "issues": []
+    }
+  }
+}

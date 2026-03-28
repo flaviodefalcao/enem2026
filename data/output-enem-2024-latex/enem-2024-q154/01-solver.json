@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:32:54.308Z",
+  "questionId": "enem-2024-q154",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "19,8",
+      "correctnessClaim": "Correto, o cálculo da média aritmética mostra que a resposta aproximada com uma casa decimal é 19,8 minutos.",
+      "strategy": "Calcular a média aritmética dos tempos dados para a leitura completa dos contratos listados.",
+      "steps": [
+        "Somar os tempos: 36 + 17 + 27 + 13 + 13 + 13 = 119",
+        "Dividir a soma pelo número de serviços (6): 119 ÷ 6 = 19,8333...",
+        "Arredondar o resultado para uma casa decimal: 19,8"
+      ],
+      "formulasUsed": [
+        "Média aritmética = Soma dos valores ÷ Número de valores"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela com os tempos necessários para a leitura completa dos contratos dos serviços A a F."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Selecionar o menor valor de tempo de leitura ou confundir total com média.",
+        "misconceptionType": "Confusão entre média e valores individuais",
+        "whyItLooksPlausible": "Como 13 minutos aparece repetido, pode parecer uma média representativa se não fizer o cálculo correto.",
+        "whyItIsWrong": "A média é calculada considerando todos os tempos, não apenas os valores menores."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Erro de cálculo da média, talvez dividindo por um número errado ou somando incorretamente.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "É um valor próximo da média real, mas incorreto devido a erro operacional.",
+        "whyItIsWrong": "A média correta é maior e não corresponde a 15 minutos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Tomar algum dos valores medianos ou confundir a mediana com a média aritmética.",
+        "misconceptionType": "Confusão entre média e mediana",
+        "whyItLooksPlausible": "O valor 13 é frequente, o que pode dar a impressão de ser um valor central apropriado.",
+        "whyItIsWrong": "A questão pede a média aritmética, não mediana ou moda."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confundir a soma total com a média ou erro na divisão.",
+        "misconceptionType": "Erro conceitual na média",
+        "whyItLooksPlausible": "23,3 é um valor próximo e pode parecer razoável se somar incorretamente os valores ou interpretar errado a média.",
+        "whyItIsWrong": "A divisão correta dos tempos soma 119 divididos por 6 gera um valor menor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de média aritmética",
+      "secondarySkills": [
+        "Interpretação de tabela",
+        "Operações aritméticas básicas"
+      ],
+      "cognitiveDemand": "Baixo a médio - requer cálculo simples e interpretação de dados tabulares",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar os dados da tabela que lista os tempos dos contratos.",
+        "A questão pressupõe conhecimento básico de média aritmética.",
+        "O cálculo envolve soma e divisão simples, seguido de arredondamento."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 897,
+    "outputTokens": 653,
+    "estimatedCostUsd": 0.001404
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:20:26.572Z",
+  "questionId": "enem-2024-ciencias-humanas-q090",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A alternativa C é correta porque o texto evidencia a contradição do capitalismo: embora tente transformar os trabalhadores em peças de máquinas, desumanizando-os, depende da atividade humana para funcionar. Isso está ligado ao conceito de alienação no trabalho.",
+        "strategy": "Interpretar o texto para identificar a contradição interna do capitalismo apresentada e relacioná-la às alternativas, buscando a que abstrai o conceito sociológico correto.",
+        "steps": [
+          "Ler o texto com atenção, identificando a metáfora dos operários como peças de máquina.",
+          "Reconhecer a contradição de que a fábrica dependeria da atividade humana mesmo tentando desumanizar os trabalhadores.",
+          "Relacionar essa dinâmica com o conceito de alienação no trabalho.",
+          "Analisar cada alternativa confrontando-as com a ideia central da contradição apresentada.",
+          "Determinar que a alternativa C melhor representa a alienação decorrente da organização do trabalho.",
+          "Selecionar a alternativa C como resposta correta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca que o capitalismo, apesar de tentar desumanizar os trabalhadores reduzindo-os a peças da máquina, depende da atividade humana deles para funcionar, caracterizando uma contradição conhecida como alienação no trabalho.",
+        "stepByStep": [
+          "Leia o texto atentamente, focando na metáfora dos operários como peças da máquina.",
+          "Observe que a fábrica pararia se os trabalhadores fossem apenas máquinas, mostrando a dependência da atividade humana, mesmo na lógica capitalista.",
+          "Compreenda que o capitalismo tenta desumanizar os trabalhadores, mas não pode prescindir deles.",
+          "Associe essa contradição ao conceito sociológico de alienação no trabalho.",
+          "Compare as alternativas com essa ideia para identificar a correta.",
+          "Conclua que a alternativa C representa adequadamente essa contradição e, portanto, é a resposta correta."
+        ],
+        "commonPitfalls": [
+          "Confundir metáforas mecânicas com obsolescência tecnológica.",
+          "Interpretar o texto como tratando de conflitos trabalhistas a serem geridos, ao invés da contradição entre desumanização e dependência da humanidade.",
+          "Pensar que o texto sugere uma igualdade ou justiça remanescente no capitalismo.",
+          "Entender que o aumento de produtividade está ligado à autonomia dos trabalhadores, quando o texto mostra a desumanização e redução dessa autonomia."
+        ],
+        "teachingTips": [
+          "Aborde o conceito de alienação com exemplos do cotidiano e filosofia do trabalho.",
+          "Encoraje a leitura crítica para identificar contradições sociais no texto.",
+          "Explique o papel das metáforas na sociologia para ilustrar processos sociais.",
+          "Destaque a diferença entre interpretações superficiais e análises críticas em textos sociológicos.",
+          "Utilize debates sobre condições de trabalho para reforçar a compreensão do texto e conceito."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confusão da metáfora das \"peças de máquinas\" com questão de tecnologia e obsolescência.",
+          "misconceptionType": "Confusão conceitual",
+          "whyItLooksPlausible": "O texto menciona \"peças de máquinas\", o que pode levar à associação com tecnologia.",
+          "whyItIsWrong": "A questão não aborda tecnologia ou obsolescência, mas a relação humana no trabalho capitalista."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Interpretação da contradição como um conflito a ser mediado.",
+          "misconceptionType": "Interpretação parcial",
+          "whyItLooksPlausible": "Capitalismo possui conflitos trabalhistas que precisam ser geridos.",
+          "whyItIsWrong": "O foco do texto é a contradição entre participação e desumanização, não a administração de conflitos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Confusão entre igualdade formal (isonomia) e exploração real mencionada no texto.",
+          "misconceptionType": "Interpretação errada da igualdade",
+          "whyItLooksPlausible": "A palavra 'isonomia' sugere igualdade, confundindo o tema.",
+          "whyItIsWrong": "O texto evidencia exploração e contradição, não igualdade."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Suposição de que autonomia aumentaria produtividade, ligada à ideia capitalista.",
+          "misconceptionType": "Relação incorreta entre produtividade e autonomia",
+          "whyItLooksPlausible": "Produtividade costuma associar-se à autonomia e eficiência.",
+          "whyItIsWrong": "O texto indica que a autonomia é reduzida, com trabalhadores desumanizados e alienados."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de textos filosófico-sociológicos",
+        "secondarySkills": [
+          "Conhecimento sociológico do trabalho",
+          "Análise crítica do sistema capitalista"
+        ],
+        "cognitiveDemand": "alta",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige interpretação profunda do texto e dos conceitos sociológicos envolvidos.",
+          "Não há necessidade de recursos visuais ou cálculos.",
+          "Foca na análise da contradição entre desumanização e atividade humana no capitalismo."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🏭",
+        "shortThemeTitle": "Contradição e alienação no trabalho capitalista",
+        "interpretationIntro": "A questão propõe analisar uma contradição interna do capitalismo apresentada no texto de Castoriadis.",
+        "commandTerms": [
+          {
+            "term": "Contradição",
+            "explanation": "Discrepância ou conflito interno em um sistema ou ideia."
+          },
+          {
+            "term": "Alienação",
+            "explanation": "Fenômeno em que o trabalhador se sente separado do produto e processo de seu trabalho, reduzido a função mecânica."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual contradição interna do capitalismo está exposta no texto, vinculando-a ao conceito sociológico correto.",
+        "strategyParagraph": "Para resolver a questão, deve-se interpretar o texto atentamente, identificando a metáfora dos operários como peças de máquina e compreender que, embora o capitalismo tente desumanizar os trabalhadores, ele depende da atividade humana deles para funcionar. Em seguida, relacionar essa contradição ao conceito de alienação e verificar qual alternativa melhor expressa essa ideia.",
+        "reviewTable": [
+          {
+            "concept": "Contradição interna do capitalismo",
+            "keyIdea": "Dependência da atividade humana mesmo que os trabalhadores sejam desumanizados",
+            "application": "Texto mostra que a fábrica pararia se operários fossem apenas máquinas"
+          },
+          {
+            "concept": "Alienação no trabalho",
+            "keyIdea": "Redução do trabalhador a função mecânica, com perda de autonomia e desumanização",
+            "application": "O capitalismo desumaniza os trabalhadores mas exige deles participação ativa"
+          },
+          {
+            "concept": "Metáfora sociológica",
+            "keyIdea": "Uso de 'peças de máquinas' para revelar processo social",
+            "application": "Expressa a tentativa de transformar o operário em componente substituível e mecânico"
+          }
+        ],
+        "theoryParagraphs": [
+          "O conceito de alienação, formulado por Karl Marx, descreve como no capitalismo o trabalhador é separado do resultado do próprio trabalho, reduzindo seu papel a um simples componente em uma maquinaria econômica. Essa redução implica a perda da autonomia e humanidade no âmbito do trabalho.",
+          "A contradição inerente ao capitalismo é que, mesmo tentando transformar os trabalhadores em peças mecânicas, o sistema depende da atividade humana deles para se manter. Isso cria uma tensão entre a desumanização imposta e a indispensabilidade da contribuição humana.",
+          "O texto de Castoriadis destaca essa contradição por meio da metáfora dos operários como peças mecânicas e da afirmação de que a fábrica pararia se eles fossem apenas isso, revelando a dinâmica sociológica fundamental da alienação."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, é preciso entender o texto: ele afirma que se os trabalhadores fossem meras peças da máquina, incapazes de agir por conta própria, a produção não avançaria, pois o capitalismo implica sempre a intervenção humana direta.",
+          "Logo, a contradição está clara: o sistema capitalista tenta desumanizar, reduzindo o trabalhador a função mecânica; porém, depende dele como sujeito ativo, vivo, pensante e atuante.",
+          "Essa realidade é emblemática do fenômeno da alienação, quando o trabalhador, mesmo submetido a tarefas mecanizadas, mantém seu papel humano essencial — gerando uma tensão interna no capitalismo.",
+          "Ao confrontar as alternativas, a que fala na alienação decorrente da organização do trabalho representa exatamente essa contradição, tornando-se a resposta correta."
+        ],
+        "puloDoGato": "Foque na contradição entre a desumanização do trabalhador e a indispensabilidade da atividade humana: isso é alienação, a chave da questão.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa A trata de obsolescência tecnológica, mas o texto foca na relação humana no trabalho, não na tecnologia."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "A alternativa B aborda conflitos trabalhistas a serem geridos, o que não é o foco do texto que trata da contradição intrínseca a alienação."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "A alternativa C é correta porque relaciona a contradição apresentada à alienação decorrente da organização do trabalho, conceito central do texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "A alternativa D fala em isonomia e igualdade, o que contraria a exploração e desumanização evidenciadas no texto."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A alternativa E associa produtividade à autonomia, mas o texto aponta redução da autonomia e alienação, contradizendo essa ideia."
+          }
+        ],
+        "questionCode": "CH_SOCIAL_ALIENACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução é coerente, clara e didática, contemplando a análise do texto e conceitos sociológicos, comentando todas as alternativas e apresentando um caminho lógico até a resposta correta. Não foram identificados erros ou inconsistências relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2563,
+    "outputTokens": 2027,
+    "estimatedCostUsd": 0.004268
+  }
+}

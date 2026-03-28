@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:50:45.438Z",
+  "questionId": "enem-2024-ciencias-humanas-q057",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto mostra que espaços públicos são locais onde ocorrem debates e diálogos, permitindo a manifestação de opiniões diversas e a resolução de conflitos por meio de compromissos, o que é essencial para a construção da democracia.",
+      "stepByStep": [
+        "Leia o texto atentamente, destacando que espaços públicos são locais de diálogo e de visibilidade de opiniões opostas.",
+        "Reconheça que o texto não trata de lazer, controle, erradicação de violência ou economia, mas de processos sociais envolvendo conflito e diálogo.",
+        "Relacione os conceitos do texto com os papéis sociais dos espaços públicos, focando na participação e no debate público.",
+        "Analise cada alternativa e elimine as que não correspondem a essa função social.",
+        "Conclua que a função dos espaços públicos relacionada no texto é a construção da democracia, correspondente à alternativa D."
+      ],
+      "commonPitfalls": [
+        "Associar espaços públicos apenas a locais de lazer, ignorando seu papel político.",
+        "Interpretar os espaços públicos como instrumentos de vigilância ou controle social.",
+        "Pensar que espaços públicos eliminam a violência diretamente.",
+        "Relacionar os espaços públicos com diversificação do trabalho, que não é abordada no texto."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar palavras-chave no texto como 'debate', 'diálogo' e 'conflitos'.",
+        "Trabalhe com exemplos reais de espaços públicos e suas funções sociais e políticas.",
+        "Explique o conceito de democracia como participação e diálogo entre diferentes opiniões.",
+        "Ensine a habilidade de eliminar alternativas incorretas com base no texto.",
+        "Promova discussões sobre a importância do espaço público na vida social e política para fixar os conceitos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1229,
+    "outputTokens": 342,
+    "estimatedCostUsd": 0.001039
+  }
+}

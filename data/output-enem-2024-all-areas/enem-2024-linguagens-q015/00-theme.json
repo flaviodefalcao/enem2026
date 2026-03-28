@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:07:29.709Z",
+  "questionId": "enem-2024-linguagens-q015",
+  "payload": {
+    "theme": "Tecnologias da comunicação",
+    "subtheme": "Tecnologia e sociedade",
+    "rationale": "A questão aborda a telemedicina como uma tecnologia de comunicação que impacta diretamente o acesso e a equidade na assistência médica, relacionando-a ao desenvolvimento social e aos desafios do letramento digital, conforme a habilidade e a competência indicadas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1198,
+    "outputTokens": 74,
+    "estimatedCostUsd": 0.000598
+  }
+}

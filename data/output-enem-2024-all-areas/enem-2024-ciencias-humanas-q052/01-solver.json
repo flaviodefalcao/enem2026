@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:46:52.686Z",
+  "questionId": "enem-2024-ciencias-humanas-q052",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta porque o texto destaca que o movimento Black Lives Matter valoriza a diversidade dentro da comunidade negra, incluindo negros homossexuais, transexuais, pessoas com deficiências, mulheres, e indivíduos de vários gêneros, indo além de um nacionalismo restrito e androcêntrico.",
+      "strategy": "Interpretação textual e análise do argumento principal do texto para identificar a reivindicação do movimento.",
+      "steps": [
+        "Ler o texto para compreender a mensagem central do movimento Black Lives Matter.",
+        "Identificar as críticas feitas no texto: rejeição do nacionalismo estreito e do protagonismo exclusivo masculino heterossexual.",
+        "Notar a valorização explícita das vidas de negros de diferentes orientações sexuais, gêneros e condições sociais.",
+        "Comparar as alternativas apresentadas para verificar qual reflete a ideia do texto.",
+        "Concluir que a alternativa B corresponde à necessidade de integração da diversidade dentro do grupo identitário negro."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto do enunciado que apresenta a citação de LA BOTZ explicando o posicionamento do movimento Black Lives Matter."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode confundir a valorização da luta por direitos com a ideia de simplesmente manter conquistas já feitas.",
+        "misconceptionType": "Interpretação equivocada do foco do texto",
+        "whyItLooksPlausible": "O movimento Black Lives Matter é conhecido pela luta por direitos sociais, logo essa opção pode parecer correta à primeira vista.",
+        "whyItIsWrong": "O texto não fala especificamente em manter conquistas, mas sim na ampliação da inclusão dentro do movimento."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se pensar que o movimento defende a preservação cultural, especialmente da cultura africana associada à negritude.",
+        "misconceptionType": "Foco errado no tema do texto",
+        "whyItLooksPlausible": "Relacionar o movimento negro com a valorização da cultura africana é comum em discussões sociais.",
+        "whyItIsWrong": "O texto não destaca a preservação cultural, mas a diversidade social e identitária entre os negros."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O termo 'nacionalismo' pode levar o aluno a associar erroneamente ao 'supremacismo'.",
+        "misconceptionType": "Confusão conceitual entre nacionalismo e supremacismo",
+        "whyItLooksPlausible": "O movimento negro pode ser mal interpretado como defesa de valores supremacistas por quem desconhece seu propósito.",
+        "whyItIsWrong": "O texto afirma que o movimento vai além do nacionalismo estreito e não apoia supremacismo, mas inclusão."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O aluno pode achar que o movimento mantém homens heterossexuais no comando, indicando permanência de modelo androcêntrico.",
+        "misconceptionType": "Interpretação equivocada da crítica feita no texto",
+        "whyItLooksPlausible": "O texto menciona que homens negros heterossexuais ainda estão à frente, o que pode ser interpretado como apoio ao modelo androcêntrico.",
+        "whyItIsWrong": "O movimento critica esse modelo, valorizando a inclusão de negros de diferentes gêneros e identidades."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão sociocultural"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão do movimento social Black Lives Matter e suas reivindicações de inclusão.",
+        "Requer interpretação precisa do texto para distinguir entre nacionalismo, supremacismo e inclusão.",
+        "Baseia-se exclusivamente no conteúdo textual fornecido.",
+        "Uso dos elementos visuais se limita à leitura da referência do texto no enunciado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 774,
+    "outputTokens": 797,
+    "estimatedCostUsd": 0.001585
+  }
+}

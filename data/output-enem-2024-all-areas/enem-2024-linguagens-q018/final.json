@@ -1,0 +1,187 @@
+{
+  "questionId": "enem-2024-linguagens-q018",
+  "generatedAt": "2026-03-28T00:10:39.298Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 776,
+      "outputTokens": 703,
+      "estimatedCostUsd": 0.001435
+    },
+    "explainer": {
+      "inputTokens": 1337,
+      "outputTokens": 344,
+      "estimatedCostUsd": 0.001085
+    },
+    "reviewer": {
+      "inputTokens": 2604,
+      "outputTokens": 1918,
+      "estimatedCostUsd": 0.00411
+    },
+    "totalEstimatedCostUsd": 0.00663
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o texto destaca a influência dos determinantes socioeconômicos, como a baixa renda, na dificuldade de manter a prática de exercícios físicos durante a pandemia, representando uma análise crítica ampliada da saúde.",
+      "strategy": "Ler o texto atentamente para identificar as principais ideias e relacioná-las ao conceito ampliado de saúde, avaliando as alternativas para descobrir qual expressa essa conexão crítica entre fatores sociais e saúde.",
+      "steps": [
+        "Compreender que o texto trata dos impactos da pandemia na saúde mental e da atividade física.",
+        "Reconhecer que famílias de baixa renda sofreram mais com o ciclo de desmotivação e sedentarismo.",
+        "Identificar a relação do contexto socioeconômico com a manutenção da atividade física.",
+        "Observar a comparação entre zonas urbanas e rurais quanto às oportunidades para exercícios.",
+        "Comparar as alternativas para encontrar aquela que aborde essa dimensão crítica e ampliada da saúde."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto evidencia como fatores sociais e econômicos, como baixa renda e ambiente urbano, afetam negativamente a manutenção da atividade física e a saúde mental durante a pandemia, mostrando uma perspectiva ampliada da saúde.",
+      "stepByStep": [
+        "Leia atentamente para identificar o tema central: pandemia e seu impacto em saúde mental e atividade física.",
+        "Identifique a maior dificuldade das famílias de baixa renda para manter exercícios, evidenciando determinantes socioeconômicos.",
+        "Note a comparação entre ambientes urbanos e rurais e sua influência na atividade física.",
+        "Compreenda que o texto relaciona motivação, saúde mental e condições sociais em uma visão ampliada da saúde.",
+        "Avalie as alternativas para escolher a que melhor representa essa relação crítica entre fatores socioeconômicos e saúde."
+      ],
+      "commonPitfalls": [
+        "Focar só na diminuição de espaços para exercícios, sem pensar no contexto social.",
+        "Interpretar que o foco é somente o equilíbrio emocional, ignorando o determinante social.",
+        "Entender que o principal tema é o distanciamento social, quando é só um fator.",
+        "Pensar que o texto destaca só os benefícios da vida rural, sem análise crítica ampla."
+      ],
+      "teachingTips": [
+        "Estimule a identificação dos vínculos entre fatos do texto e o contexto social maior.",
+        "Use perguntas para desenvolver leitura crítica e análise de causas e efeitos.",
+        "Trabalhe determinantes sociais da saúde para ampliar a compreensão do tema.",
+        "Pratique comparação entre alternativas para melhorar a escolha da resposta correta."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode pensar que o foco é apenas a busca por espaços para exercícios, já que o texto menciona a diminuição de espaços seguros.",
+        "misconceptionType": "redução do foco temático",
+        "whyItLooksPlausible": "O texto fala sobre a diminuição de espaços para exercícios na pandemia.",
+        "whyItIsWrong": "O problema maior é a influência socioeconômica na manutenção das atividades, não apenas a busca por espaços."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que o texto enfatiza somente a relação entre atividade física e equilíbrio emocional.",
+        "misconceptionType": "foco parcial",
+        "whyItLooksPlausible": "O texto indica que pessoas mais ativas têm melhor saúde mental.",
+        "whyItIsWrong": "O foco é mais amplo, envolvendo determinantes sociais, não só equilíbrio emocional."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se entender que o tema central seja o distanciamento social e sua relação com a atividade física.",
+        "misconceptionType": "ênfase errada do tema",
+        "whyItLooksPlausible": "O texto cita a necessidade do distanciamento social que reduziu espaços para exercícios.",
+        "whyItIsWrong": "O distanciamento social é um fator, mas o foco ampliado do texto é a relação com o contexto socioeconômico."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O leitor pode pensar que o texto destaca benefícios de morar em áreas rurais para a saúde mental.",
+        "misconceptionType": "interpretação seletiva",
+        "whyItLooksPlausible": "O texto mostra que moradores rurais têm mais facilidade para praticar exercícios.",
+        "whyItIsWrong": "O texto não enfatiza estabilidade psicológica, mas condições para exercícios ligadas a fatores sociais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual crítica",
+      "secondarySkills": [
+        "Análise de relação causa-efeito",
+        "Compreensão de determinantes sociais da saúde"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Envolve compreensão crítica da relação entre determinantes socioeconômicos e saúde.",
+        "Questão da área de linguagens, priorizando interpretação e análise textual.",
+        "Não há imagens ou gráficos relevantes para resolução."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📝",
+      "shortThemeTitle": "Perspectiva ampliada da saúde na pandemia",
+      "interpretationIntro": "A questão solicita identificar a abordagem crítica e ampliada da saúde apresentada no texto sobre os efeitos da pandemia da covid-19.",
+      "commandTerms": [
+        {
+          "term": "Evidenciar",
+          "explanation": "Mostrar claramente a relação ou impacto apresentado no texto."
+        },
+        {
+          "term": "Abordar criticamente",
+          "explanation": "Analisar e destacar aspectos complexos ou contraditórios de um tema."
+        }
+      ],
+      "whatTheQuestionAsks": "Reconhecer que o texto analisa os efeitos socioeconômicos da pandemia na saúde mental e na atividade física, evidenciando uma visão ampliada da saúde para responder qual alternativa expressa essa perspectiva.",
+      "strategyParagraph": "A estratégia consiste em ler cuidadosamente o texto, identificar as principais ideias e relações, especialmente o impacto dos determinantes sociais (baixa renda, ambiente urbano) na saúde mental e na atividade física durante a pandemia. Em seguida, comparar as alternativas para identificar aquela que expressa melhor essa análise crítica e ampla da saúde.",
+      "reviewTable": [
+        {
+          "concept": "Determinantes sociais da saúde",
+          "keyIdea": "Fatores socioeconômicos influenciam saúde mental e prática de exercícios.",
+          "application": "O texto destaca que famílias de baixa renda tiveram maior dificuldade para manter atividade física."
+        },
+        {
+          "concept": "Saúde mental e atividade física",
+          "keyIdea": "Prática regular de exercícios está relacionada a melhor saúde mental.",
+          "application": "Pessoas mais ativas apresentaram melhor estado mental durante a pandemia."
+        },
+        {
+          "concept": "Ambiente e condições físicas",
+          "keyIdea": "Ambiente urbano ou rural afeta acessibilidade para exercícios.",
+          "application": "Zona rural oferece mais espaços abertos, facilitando a manutenção da atividade física."
+        }
+      ],
+      "theoryParagraphs": [
+        "A perspectiva ampliada da saúde considera não apenas fatores clínicos, mas também determinantes sociais, econômicos e ambientais que afetam o bem-estar das pessoas.",
+        "Determinantes sociais, como renda e local de moradia, influenciam diretamente o acesso à atividade física e à manutenção da saúde mental, especialmente em momentos de crise, como a pandemia.",
+        "Analisar criticamente a saúde envolve compreender a interdependência entre condições sociais, motivação e hábitos que impactam a qualidade de vida."
+      ],
+      "resolutionParagraphs": [
+        "O texto apresenta dados que relacionam a pandemia, a saúde mental e a atividade física, indicando que um fator influencia diretamente o outro.",
+        "Constata-se que famílias de baixa renda foram proporcionalmente mais afetadas e tiveram mais dificuldade para manter níveis de exercícios, evidenciando o impacto dos determinantes sociais.",
+        "Além disso, o texto compara o acesso a espaços para exercícios em zonas urbanas e rurais, mostrando que o ambiente físico promove ou dificulta a manutenção da saúde física e mental.",
+        "Diante disso, ao analisar as alternativas, a única que aborda criticamente essa inter-relação entre fatores socioeconômicos e a saúde ampliada é a alternativa D, justificando a resposta correta."
+      ],
+      "puloDoGato": "Conecte os dados sociais apresentados no texto com a visão ampliada de saúde para escolher a alternativa que evidencia essa relação crítica.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Foca apenas na questão dos espaços para exercícios, mas não capta o aspecto crítico dos determinantes socioeconômicos, que é central no texto."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Destaca a relação entre atividade física e equilíbrio emocional, importante, mas insuficiente, pois o texto enfatiza a influência socioeconômica além do emocional."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Aponta o distanciamento social como tema principal, que é apenas um dos fatores mencionados, não a perspectiva ampliada da saúde."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Corretamente identifica a análise crítica sobre os determinantes sociais que influenciam a manutenção da saúde mental e atividade física durante a pandemia."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Enfatiza benefícios do ambiente rural sem reconhecer a análise crítica mais ampla sobre desigualdades socioeconômicas presentes no texto."
+        }
+      ],
+      "questionCode": "LINGUAGENS_INTERPRETACAO_CRITICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado está coerente com a resolução e explicação apresentadas. A resposta correta é bem fundamentada, e as alternativas são comentadas de forma clara e precisa, alinhando-se ao texto da questão.",
+      "issues": []
+    }
+  }
+}

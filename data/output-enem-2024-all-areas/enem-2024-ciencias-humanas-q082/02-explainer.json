@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:12:32.975Z",
+  "questionId": "enem-2024-ciencias-humanas-q082",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O raciocínio descrito é o raciocínio indutivo, que consiste em observar casos particulares repetidos para chegar a uma conclusão geral ou universal.",
+      "stepByStep": [
+        "Leia cuidadosamente o texto e perceba que o peru observa repetidamente a hora em que é alimentado.",
+        "Note que o peru coleta várias observações em diferentes circunstâncias (dias quentes, frios, chuvosos, secos).",
+        "Perceba que o peru usa essas observações para formar uma conclusão geral: 'Eu sou alimentado sempre às 9 da manhã'.",
+        "Reconheça que esse processo, de partir de vários casos específicos para uma regra geral, é o raciocínio indutivo.",
+        "Compare essa conclusão com as alternativas da questão e escolha a que define o raciocínio indutivo corretamente (alternativa C)."
+      ],
+      "commonPitfalls": [
+        "Confundir raciocínio indutivo com raciocínio dedutivo, que parte de uma regra geral para casos particulares.",
+        "Interpretar o acúmulo de observações como um raciocínio prático, e não lógico.",
+        "Pensar que a observação em diferentes circunstâncias caracteriza raciocínio analógico, quando é apenas uma ampliação das condições para confirmar a hipótese.",
+        "Achar que a conclusão do peru é ficcional ou errada, sem reconhecer o funcionamento do raciocínio indutivo como base para hipóteses científicas."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre raciocínio indutivo (do particular para o geral) e dedutivo (do geral para o particular).",
+        "Use exemplos simples, como observar várias vezes que o sol nasce e concluir que ele nasce todo dia.",
+        "Mostre que o raciocínio indutivo é fundamental para a ciência, mas suas conclusões são sempre provisórias, sujeitas a novas evidências.",
+        "Estimule os alunos a identificar a estrutura do texto, reforçando a importância da observação e generalização gradual.",
+        "Esclareça os diferentes tipos de raciocínio e problematize as confusões comuns, com exemplos práticos e exercícios."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1346,
+    "outputTokens": 432,
+    "estimatedCostUsd": 0.00123
+  }
+}

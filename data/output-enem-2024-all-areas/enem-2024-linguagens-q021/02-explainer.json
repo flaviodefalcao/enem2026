@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:21:34.046Z",
+  "questionId": "enem-2024-linguagens-q021",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A arte plumária indígena, como o diadema apresentado, não é apenas um objeto decorativo, mas carrega significados sociais e cosmológicos profundos, vinculados aos papéis e à identidade dos indivíduos dentro da comunidade. Compreender essa arte exige considerar sua função simbólica e ritualística.",
+      "stepByStep": [
+        "Leia atentamente o texto I para identificar a mensagem principal: os adornos têm um significado social e cosmológico, vinculados à linhagem e aos papéis dos indivíduos.",
+        "Observe a imagem do diadema (Texto II) para perceber que o adorno é típico, elaborado e expressa algo além da estética, reforçando seu valor simbólico.",
+        "Compare cada alternativa do exercício com as ideias do texto, focando na relação entre os objetos (adornos) e a organização social indígena.",
+        "Elimine alternativas que não correspondem ao texto, como aquelas que negam distinções sociais ou que dão maior ênfase ao mundo natural em detrimento das relações sociais.",
+        "Confirme que a alternativa correta reconhece a ligação inseparável entre os adornos e os papéis dos membros da comunidade indígena.",
+        "Finalize escolhendo a alternativa que melhor expressa essa ideia: a opção E."
+      ],
+      "commonPitfalls": [
+        "Confundir a restrição de uso dos adornos pela linhagem com ausência de hierarquia social ou indistinção hierárquica.",
+        "Interpretar que os elementos naturais têm importância maior do que as relações sociais, quando o texto foca nas funções sociais e rituais.",
+        "Achar que a cultura indígena descrita no texto está em constante reconfiguração, embora o texto sugira estabilidade nas concepções cosmológicas.",
+        "Misturar os conceitos de identidade individual e cultural, achando que estão indistintos no texto, quando há uma clara definição social da identidade por meio dos adornos."
+      ],
+      "teachingTips": [
+        "Peça que os alunos relacionem o texto com a imagem para perceberem o significado cultural dos adornos.",
+        "Estimule a análise crítica das alternativas para identificar quais refletem com fidelidade o conteúdo do texto.",
+        "Trabalhe a distinção entre elementos estéticos e simbólicos na arte indígena para aprofundar a compreensão do texto.",
+        "Reforce a importância da leitura atenta e contextualizada para evitar interpretações superficiais ou equivocadas.",
+        "Utilize debates para que os alunos expressem suas interpretações e ampliem a compreensão sobre a função social dos objetos culturais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2371,
+    "outputTokens": 500,
+    "estimatedCostUsd": 0.001748
+  }
+}

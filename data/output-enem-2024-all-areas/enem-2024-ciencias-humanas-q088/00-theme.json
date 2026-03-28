@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:18:07.816Z",
+  "questionId": "enem-2024-ciencias-humanas-q088",
+  "payload": {
+    "theme": "Sociedade e natureza",
+    "subtheme": "Impactos socioambientais",
+    "rationale": "A questão trata da mudança climática nas cidades brasileiras, destacando problemas ambientais como inundações, alagamentos e ondas de calor, e a necessidade de soluções baseadas na natureza para mitigar esses impactos. Isso se relaciona diretamente com o tema dos impactos socioambientais causados pela interação entre a sociedade e a natureza.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 956,
+    "outputTokens": 92,
+    "estimatedCostUsd": 0.00053
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:09:59.985Z",
+  "questionId": "enem-2024-linguagens-q017",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é correta pois a estatística apresentada ao final do texto mostra um aumento significativo no alcance digital ao utilizar imagens de modelos brancas, indicando uma relação direta entre o alcance e um viés racial implícito na recepção do conteúdo.",
+        "strategy": "Analisar o texto com foco na função do dado estatístico apresentado, observando a relação entre o alcance digital e a cor dos modelos nas imagens publicadas, para identificar qual intenção o dado serve para revelar.",
+        "steps": [
+          "Ler o texto inteiro com atenção e identificar o contexto sobre influenciadores negros e o alcance de suas postagens.",
+          "Verificar qual dado estatístico é apresentado: aumento de 6 000% no alcance após publicar fotos de modelos brancas.",
+          "Refletir sobre o que esse dado revela em termos de relação entre características raciais e o alcance das publicações.",
+          "Comparar cada alternativa com o que essa estatística indica realmente."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Texto que menciona experimento da influenciadora digital Preta Pariu e análise das métricas de engajamento com uso de modelos brancas versus negras."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A estatística ao final do texto revela que o alcance digital das postagens varia de acordo com a cor dos modelos nas imagens, indicando um viés racial implícito na recepção do conteúdo.",
+        "stepByStep": [
+          "Leia o texto completamente para entender o contexto sobre influenciadores negros e seu alcance digital.",
+          "Identifique o dado estatístico: um aumento de 6000% no alcance ao usar fotos de modelos brancas.",
+          "Reflita sobre o que esse dado revela sobre a relação entre a cor dos modelos e o alcance das publicações.",
+          "Compare cada alternativa da questão com o que a estatística realmente indica para escolher a correta."
+        ],
+        "commonPitfalls": [
+          "Confundir o dado com a repercussão do projeto digital mencionado no texto.",
+          "Interpretar o dado como a quantidade de publicações, confundindo alcance com volume.",
+          "Pensar que o dado mostra o potencial geral do site ou das publicações, e não o viés racial.",
+          "Associar o aumento de alcance a uma avaliação de qualidade, e não a desigualdade racial no engajamento."
+        ],
+        "teachingTips": [
+          "Incentive a leitura atenta do texto, focando na relação entre dados estatísticos e o contexto social.",
+          "Trabalhe a interpretação crítica de estatísticas, mostrando que números devem ser entendidos dentro do contexto.",
+          "Faça os alunos refletirem sobre o viés implícito em dados relacionados a raça e mídia.",
+          "Use exemplos similares para discutir como dados podem revelar intenções comunicativas e desigualdades.",
+          "Estimule perguntas que levem a relacionar dados quantitativos a questões sociais, não só a aspectos técnicos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que o dado mostra repercussão de projetos como o Preta Pariu porque ela criou o projeto digital mencionado.",
+          "misconceptionType": "Falsa associação",
+          "whyItLooksPlausible": "A alternativa relaciona o dado à repercussão do projeto citado no texto.",
+          "whyItIsWrong": "O dado não mostra repercussão do projeto, mas sim diferenças no alcance com base em viés racial."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O dado estatístico pode ser confundido com a quantidade ou volume de postagens da comunidade negra.",
+          "misconceptionType": "Confusão sobre o que o dado representa",
+          "whyItLooksPlausible": "Falar em quantitativo parece natural diante de números e estatísticas.",
+          "whyItIsWrong": "O dado apresenta porcentagem de aumento no alcance, não o quantitativo de postagens."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode parecer que a estatística visa mostrar o potencial de alcance de textos e imagens em sites como o Negrê.",
+          "misconceptionType": "Interpretação errada do propósito do dado",
+          "whyItLooksPlausible": "A presença do site Negrê no texto pode induzir a essa leitura.",
+          "whyItIsWrong": "O dado mostra a influência da cor dos modelos no alcance, não um potencial geral do site."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pode-se pensar que o dado exalta a qualidade das publicações sobre negritude em redes sociais.",
+          "misconceptionType": "Confusão entre qualidade e alcance",
+          "whyItLooksPlausible": "O aumento de alcance pode ser interpretado como valorização da qualidade.",
+          "whyItIsWrong": "O dado aponta para uma desigualdade racial no alcance, não um julgamento de qualidade."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto e análise crítica",
+        "secondarySkills": [
+          "Compreensão de dados estatísticos",
+          "Relação entre linguagem e intenção comunicativa"
+        ],
+        "cognitiveDemand": "medio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige entendimento de como um dado estatístico no texto serve para revelar uma intenção.",
+          "É necessário relacionar a informação numérica com o contexto social e racial apresentado.",
+          "Há necessidade de interpretar o papel da estatística na argumentação do texto."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Interpretação de dados e viés racial",
+        "interpretationIntro": "A questão pede para identificar a intenção comunicativa por trás da apresentação de um dado estatístico no texto.",
+        "commandTerms": [
+          {
+            "term": "intenção",
+            "explanation": "Motivo ou propósito que o autor quer revelar ao apresentar o dado."
+          },
+          {
+            "term": "dado estatístico",
+            "explanation": "Informação numérica que apoia uma argumentação ou evidência."
+          }
+        ],
+        "whatTheQuestionAsks": "Analisar como o dado estatístico ao final do texto serve para mostrar uma intenção específica do autor relacionada à questão racial e alcance digital.",
+        "strategyParagraph": "Para resolver a questão, o leitor deve compreender o contexto da narrativa sobre influenciadores negros e o experimento de engajamento com modelos brancas, então interpretar o dado numérico para entender que ele revela uma desigualdade ou viés implícito, descartando interpretações que não condizem com essa função do dado.",
+        "reviewTable": [
+          {
+            "concept": "Dado estatístico",
+            "keyIdea": "Serve como evidência quantitativa para uma argumentação.",
+            "application": "Mostra aumento de alcance quando se usa imagens de modelos brancas."
+          },
+          {
+            "concept": "Viés racial",
+            "keyIdea": "Discriminação implícita com base na cor da pele.",
+            "application": "Explica a diferença significativa no alcance das publicações."
+          },
+          {
+            "concept": "Intenção comunicativa",
+            "keyIdea": "Propósito de um recurso textual em uma comunicação.",
+            "application": "O dado quer denunciar a desigualdade racial no engajamento digital."
+          }
+        ],
+        "theoryParagraphs": [
+          "Dados estatísticos em textos argumentativos são usados para fornecer suporte factual a uma tese ou denúncia, ajudando a convencer o leitor ou evidenciar um problema.",
+          "Viés racial pode se manifestar de forma implícita no consumo de conteúdo digital, afetando métricas como alcance e engajamento sem que isso esteja explicitado diretamente.",
+          "A interpretação da intenção comunicativa envolve entender por que o autor escolheu apresentar aquele dado específico, relacionando-o ao tema central do texto e à mensagem que quer transmitir."
+        ],
+        "resolutionParagraphs": [
+          "O texto fala de influenciadores negros que têm menos repercussão, apesar de conteúdos semelhantes a influenciadores brancos.",
+          "Relata o experimento de uma influenciadora que publicou fotos de modelos brancas e constatou um aumento de 6000% no alcance digital.",
+          "Esse dado evidencia uma desigualdade racial no engajamento digital: o alcance das publicações depende do tom de pele dos modelos nas imagens.",
+          "Portanto, a apresentação desse dado tem a intenção clara de revelar que existe um viés racial afetando o alcance e a recepção do conteúdo, sendo essa a intenção do uso do dado estatístico."
+        ],
+        "puloDoGato": "O dado não prova a qualidade nem o potencial do site; ele revela um viés racial no alcance digital, que é a chave para responder corretamente.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa interpreta o dado como indicativo da repercussão do projeto digital, mas o dado trata do alcance das publicações com base em viés racial, não da repercussão do projeto em si."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Confunde o aumento percentual no alcance das postagens com o volume de publicações feitas, o que não corresponde ao dado apresentado."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Erro ao considerar que o dado mostra o potencial do site Negrê; na verdade, o dado refere-se à influência da cor dos modelos no alcance, não ao site em geral."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Interpreta aumento no alcance como valorização da qualidade das publicações, mas o dado evidencia uma desigualdade racial, não uma avaliação qualitativa."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Mostra corretamente que o dado estatístico serve para revelar o viés racial implícito no engajamento digital, apontando a desigualdade no alcance das publicações."
+          }
+        ],
+        "questionCode": "LINGUAGENS_INTERPRETACAO_DADOS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão, o solver e o explainer estão consistentes entre si. A resolução oficial segue as instruções editoriais, abordando com clareza a leitura crítica do dado estatístico e sua intenção comunicativa. Comentários sobre alternativas são coerentes e a linguagem é acessível e didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2863,
+    "outputTokens": 1990,
+    "estimatedCostUsd": 0.004329
+  }
+}

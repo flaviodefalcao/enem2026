@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:44:36.837Z",
+  "questionId": "enem-2024-ciencias-humanas-q049",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca como, no final do século XIX e início do século XX, o Brasil incorporou várias inovações tecnológicas, tais como a luz elétrica, o telefone e o automóvel. Essas transformações acontecem no contexto da República Velha, que buscava associar seu projeto político ao progresso científico e tecnológico, promovendo uma imagem de nação moderna. Portanto, a questão relaciona a chegada dessas invenções à visão republicana de nação, marcada por avanços políticos e sociais.",
+      "stepByStep": [
+        "Identifique o período histórico citado no texto: final do século XIX e começo do século XX, correspondente à República Velha no Brasil.",
+        "Observe as tecnologias introduzidas (luz elétrica, telégrafo, telefone, cinematógrafo, transporte elétrico, automóvel e aeroplano).",
+        "Entenda que o texto mostra como esses avanços foram rapidamente adotados no Brasil, incorporando a ideia de progresso.",
+        "Relacione essa modernização tecnológica ao projeto político da época — a república — que buscava uma imagem de desenvolvimento e inovação para o país.",
+        "Descarte outras alternativas que não se alinham com o contexto político brasileiro do período, como imperialismo, mercantilismo, laicidade extrema na educação ou o retorno ao absolutismo."
+      ],
+      "commonPitfalls": [
+        "Confundir a modernização tecnológica com políticas de imperialismo, pensando no Brasil como potência colonial naquela época.",
+        "Associar o progresso tecnológico ao mercantilismo, que é um sistema econômico de época anterior.",
+        "Pensar que a laicidade da educação está diretamente ligada às invenções tecnológicas descritas, quando se trata de temas diferentes.",
+        "Interpretar erroneamente que as mudanças indicam retorno ao absolutismo, o que contradiz a realidade da república brasileira."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico brasileiro do período, destacando a transição da Monarquia para a República e sua relação com avanços tecnológicos.",
+        "Utilize exemplos concretos das tecnologias mencionadas para ilustrar como o progresso científico influenciou a política.",
+        "Estimule os alunos a relacionarem contextos históricos a conteúdos tecnológicos e sociais, ampliando sua visão interdisciplinar.",
+        "Pratique a análise crítica de alternativas incorretas para fortalecer a compreensão histórica e evitar confusões conceituais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1388,
+    "outputTokens": 470,
+    "estimatedCostUsd": 0.001307
+  }
+}

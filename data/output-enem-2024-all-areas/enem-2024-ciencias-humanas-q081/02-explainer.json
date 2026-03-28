@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:11:19.370Z",
+  "questionId": "enem-2024-ciencias-humanas-q081",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A Constituição Federal de 1988 reconheceu os territórios quilombolas no Brasil e garantiu direitos territoriais, sociais e culturais às comunidades quilombolas, promovendo sua inclusão social e valorização.",
+      "stepByStep": [
+        "Leia atentamente o enunciado para entender que se trata dos remanescentes de quilombos e seu reconhecimento.",
+        "Identifique que o texto menciona a Constituição de 1988, importante marco legal para direitos sociais e territoriais.",
+        "Reconheça que a Constituição passou a garantir direitos específicos às comunidades quilombolas, incluindo suas terras e cultura.",
+        "Analise as alternativas buscando aquela que envolve a ação estatal de reconhecimento e garantia desses direitos.",
+        "Elimine as alternativas que se confundem com outras políticas sociais, religiosas, habitacionais ou educacionais que não refletem o reconhecimento constitucional.",
+        "Escolha a alternativa que fala sobre políticas de inclusão social e proteção dos direitos quilombolas, que é a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir o reconhecimento das comunidades quilombolas com políticas sociais específicas como planejamento familiar.",
+        "Associar o tema a intervenções religiosas, quando na verdade a ação estatal é laica e focada em direitos sociais e territoriais.",
+        "Pensar que o foco é apenas em moradia sustentável, quando o reconhecimento é mais amplo e inclui direitos territoriais.",
+        "Achar que a integração social ocorre via homogeneização cultural, quando o valor está na preservação da identidade quilombola.",
+        "Ignorar o marco constitucional de 1988, que foi fundamental para o reconhecimento legal dessas comunidades."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da luta das comunidades quilombolas e sua importância cultural e territorial.",
+        "Apresente a Constituição de 1988 como um avanço crucial para os direitos sociais e territoriais dessas comunidades.",
+        "Use exemplos concretos de políticas públicas que garantem direitos quilombolas para ilustrar a aplicação prática da Constituição.",
+        "Estimule a análise cuidadosa das alternativas para diferenciar políticas específicas de reconhecimento constitucional.",
+        "Reforce a importância de respeitar e valorizar a diversidade cultural, tema central na proteção das comunidades quilombolas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1321,
+    "outputTokens": 428,
+    "estimatedCostUsd": 0.001213
+  }
+}

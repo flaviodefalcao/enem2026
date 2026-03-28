@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:39:08.836Z",
+  "questionId": "enem-2024-linguagens-q042",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque o texto apresenta linguagem expressiva típica poética, mesmo contendo marcas formais de carta e receita.",
+      "strategy": "Analisar as características do texto e identificar qual delas está relacionada especificamente à definição do texto como poema, diferenciando do formato de carta ou receita.",
+      "steps": [
+        "Identificar que o texto tem marcas formais de carta e receita, porém classifica-se como poema.",
+        "Reconhecer que a linguagem expressiva (uso de metáforas, ritmo, rima, expressividade) é um traço típico de poemas.",
+        "Observar que as demais alternativas correspondem a elementos presentes em cartas (nomeação do interlocutor, intimidade) ou receitas (descrição de procedimentos, ingredientes), mas não definem o texto como poema.",
+        "Concluir que a característica que define o texto como poema é a linguagem expressiva."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O texto inicia dirigindo-se a amiga Helena Sangirardi, o que poderia indicar marca de carta, levando a pensar que essa nomeação define o texto como poema.",
+        "misconceptionType": "Confusão entre gênero textual e fragmentos formais.",
+        "whyItLooksPlausible": "A carta sempre nomeia um interlocutor; o texto inicia assim, o que leva a pensar nisso.",
+        "whyItIsWrong": "Nomear o interlocutor caracteriza uma carta, não um poema. O texto apesar disso é classificado como poema por sua linguagem expressiva."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "A intimidade manifestada no texto remete à característica da prosa ou carta pessoal, confundindo com o aspecto poético.",
+        "misconceptionType": "Mistura de registro íntimo com forma poética.",
+        "whyItLooksPlausible": "Poemas frequentemente manifestam intimidade; aqui há essa característica, que pode confundir.",
+        "whyItIsWrong": "Manifestação de intimidade não define o texto como poema, pois também ocorre em cartas e textos pessoais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A descrição dos procedimentos para fazer feijoada pode levar a pensar que isso define o texto como uma receita e não poema.",
+        "misconceptionType": "Confundir presença de receita com gênero textual.",
+        "whyItLooksPlausible": "Parte do texto descreve procedimentos, típico de receitas.",
+        "whyItIsWrong": "Descrição de procedimentos caracteriza receita, não poesia. O texto é poema por sua linguagem expressiva."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A apresentação dos ingredientes lembra uma receita culinária, o que pode confundir o leitor sobre o gênero do texto.",
+        "misconceptionType": "Associação entre ingredientes e texto de receitas.",
+        "whyItLooksPlausible": "Ingredientes aparecem no texto, o que faz pensar ser uma receita.",
+        "whyItIsWrong": "Ingredientes presentes não definem o texto como poema. A linguagem expressiva é o que caracteriza o poema."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de gênero textual",
+      "secondarySkills": [
+        "Interpretação textual",
+        "Identificação de linguagem poética"
+      ],
+      "cognitiveDemand": "Compreensão",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "É um texto híbrido com características de carta, receita e poema.",
+        "O foco é identificar traço que define o texto como poema.",
+        "Envolve conhecimento sobre gênero textual e suas características."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 817,
+    "outputTokens": 710,
+    "estimatedCostUsd": 0.001463
+  }
+}

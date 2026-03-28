@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:11:12.411Z",
+  "questionId": "enem-2024-ciencias-humanas-q081",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque a Constituição Federal de 1988 reconheceu os territórios quilombolas e passou a garantir políticas específicas de inserção social, incluindo direitos territoriais, sociais e culturais às comunidades quilombolas, buscando sua integração e valorização na sociedade brasileira.",
+      "strategy": "Analisou-se o contexto histórico e constitucional do reconhecimento dos quilombos na Constituição de 1988, associando as opções apresentadas ao tipo de ação estatal contemplada na legislação vigente.",
+      "steps": [
+        "Ler atentamente o enunciado que destaca os remanescentes de quilombos reconhecidos como patrimônio cultural e territorial.",
+        "Identificar o marco legal citado, Constituição de 1988, que trouxe avanços no reconhecimento dos direitos das comunidades quilombolas.",
+        "Associar as alternativas apresentadas aos tipos de ações efetivamente promovidas pelo Estado no âmbito dessas comunidades.",
+        "Descartar as alternativas que não têm relação com o que se sabe sobre os direitos sociais e territoriais garantidos aos quilombolas após 1988.",
+        "Selecionar a alternativa que corresponde a políticas que promovem a inclusão social, reconhecendo direitos específicos destas comunidades."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A associação equivocada de 'quilombos' com planejamento familiar pode vir da ideia de políticas públicas aplicadas às comunidades.",
+        "misconceptionType": "Aplicação incorreta de políticas sociais específicas",
+        "whyItLooksPlausible": "Planejamento familiar é uma política social comum em áreas rurais e pode ser vista como ação estatal em comunidades tradicionais.",
+        "whyItIsWrong": "O texto e o contexto constitucional indicam reconhecimento territorial e inclusão social mais ampla, não limitada ao planejamento familiar."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que o reconhecimento das comunidades quilombolas envolva reorientação religiosa por questão histórica de discriminação ou diferenças religiosas.",
+        "misconceptionType": "Confusão entre dimensões culturais e religiosas",
+        "whyItLooksPlausible": "As comunidades têm forte identidade cultural, o que pode gerar associação com práticas religiosas específicas.",
+        "whyItIsWrong": "A ação do Estado após 1988 foi mais focada em direitos territoriais e sociais do que em intervenções religiosas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que o Estado tenha promovido programas de moradias sustentáveis para essas comunidades como forma de política pública.",
+        "misconceptionType": "Confusão entre políticas habitacionais e inclusão social ampla",
+        "whyItLooksPlausible": "Programas habitacionais muitas vezes são direcionados a comunidades vulneráveis e algumas políticas rurais incluem sustentabilidade.",
+        "whyItIsWrong": "O reconhecimento constitucional é mais abrangente e não se restringe a moradias sustentáveis, mas sim a políticas de inserção social e reconhecimento territorial."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que o Estado promoveu homogeneização educacional para integrar essas comunidades pode decorrer da ideia de integração social através da educação.",
+        "misconceptionType": "Interpretação errada da integração social como homogeneização cultural",
+        "whyItLooksPlausible": "A educação é meio comum de integração social e pode ser confundida com homogeneização.",
+        "whyItIsWrong": "O reconhecimento das comunidades quilombolas valorizou a diversidade cultural e seus direitos específicos, não a homogeneização."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e conhecimento histórico-cultural",
+      "secondarySkills": [
+        "Conhecimento constitucional",
+        "Relações étnico-raciais",
+        "Direitos sociais e territoriais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento histórico e constitucional sobre os direitos das comunidades quilombolas.",
+        "Requer compreensão das políticas públicas após a Constituição de 1988.",
+        "Não apresenta elementos visuais para análise, sendo todo o embasamento textual e conceitual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 612,
+    "outputTokens": 820,
+    "estimatedCostUsd": 0.001557
+  }
+}

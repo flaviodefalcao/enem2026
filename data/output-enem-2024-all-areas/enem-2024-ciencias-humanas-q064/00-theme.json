@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:55:49.620Z",
+  "questionId": "enem-2024-ciencias-humanas-q064",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Conflitos e movimentos sociais",
+    "rationale": "A questão aborda a participação de artistas e intelectuais brasileiros em defesa do movimento abolicionista, que é um importante movimento social de combate à escravidão e pela libertação dos escravizados, caracterizando um conflito social e movimento organizado historicamente.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1013,
+    "outputTokens": 80,
+    "estimatedCostUsd": 0.000533
+  }
+}

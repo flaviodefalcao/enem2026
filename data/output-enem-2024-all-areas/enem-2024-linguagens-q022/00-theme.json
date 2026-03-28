@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:22:17.792Z",
+  "questionId": "enem-2024-linguagens-q022",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Relações entre textos",
+    "rationale": "A questão exige relacionar o fragmento da música dos Racionais MCs (Texto I) com a análise presente no Texto II sobre o tema da violência e sua expressão na letra, confrontando as representações e o sentido das metáforas e ambiguidades da linguagem musical, em conformidade com a habilidade H22 de relacionar opiniões e recursos linguísticos em diferentes textos.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1173,
+    "outputTokens": 102,
+    "estimatedCostUsd": 0.000632
+  }
+}

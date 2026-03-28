@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:22:39.775Z",
+  "questionId": "enem-2024-linguagens-q022",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A canção dos Racionais MCs utiliza a palavra como uma \"arma\" de combate à violência estrutural da sociedade, tema reforçado pelo texto crítico. Assim, a letra representa um discurso metalinguístico que expressa resistência e insubordinação diante das opressões sociais.",
+      "stepByStep": [
+        "Leia o trecho da canção atentamente e identifique metáforas e expressões que relacionam a palavra a uma arma, como \"minha palavra vale um tiro\".",
+        "Entenda que o Texto II explica que a obra do grupo trata da violência estrutural presente na sociedade, envolvendo várias relações sociais e problemas históricos.",
+        "Compare os dois textos e perceba que a canção reflete essa violência através de uma linguagem que enfatiza o poder da palavra como forma de luta.",
+        "Reconheça que isso caracteriza um recurso metalinguístico, pois a letra fala sobre o uso da própria palavra (o discurso) como instrumento de resistência.",
+        "Analise as alternativas e escolha aquela que indica a palavra como arma de combate contra a violência estrutural, ou seja, a alternativa C. "
+      ],
+      "commonPitfalls": [
+        "Interpretar a violência só como uma questão de justiça ou desigualdade, sem notar o uso da palavra como instrumento de luta.",
+        "Confundir as imagens bélicas na letra (tiro, munição) como simples metáforas de violência sem perceber o sentido metalinguístico da palavra.",
+        "Dar muita atenção às ambiguidades morais da letra (sádico, anjo, bandido) e esquecer o foco no discurso sobre a palavra como arma.",
+        "Focar em interpretações mais simbólicas ou filosóficas como a imortalidade, desviando do tema central da violência social manifestada pela palavra."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a relacionar textos literários com textos críticos para compreender temas complexos, ampliando a visão.",
+        "Trabalhe a identificação de metáforas e recursos metalinguísticos para que eles compreendam como textos falam sobre eles mesmos e seu poder.",
+        "Discuta o contexto social das obras, mostrando como a literatura pode refletir e resistir a realidades sociais, como a violência estrutural.",
+        "Pratique com os alunos a análise crítica, comparando múltiplos textos para desenvolver interpretações fundamentadas e fundamentar escolhas nas provas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1684,
+    "outputTokens": 475,
+    "estimatedCostUsd": 0.001434
+  }
+}

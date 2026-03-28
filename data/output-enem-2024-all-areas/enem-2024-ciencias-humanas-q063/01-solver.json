@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:55:17.792Z",
+  "questionId": "enem-2024-ciencias-humanas-q063",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta pois o texto descreve a indústria cultural como uma forma que ilude e controla os indivíduos, caracterizando-se, portanto, como um mecanismo de controle social.",
+      "strategy": "Analisar o texto para identificar a função atribuída à indústria cultural pelas autoras, relacionando a ideia de ilusão de liberdade e uniformização da massa com um processo de controle social.",
+      "steps": [
+        "Ler atentamente o texto para entender a crítica à indústria cultural.",
+        "Identificar as características atribuídas à indústria cultural: ilusão de liberdade, tratamento dos indivíduos como massa homogênea.",
+        "Relacionar essas características a conceitos sociológicos, como controle social.",
+        "Analisar cada alternativa para verificar qual corresponde melhor ao conceito exposto no texto.",
+        "Selecionar a alternativa que indica que a indústria cultural atua como um mecanismo de controle social."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode ser confundida com a ideia de que a reflexão (atividade da arte) poderia ser uma ferramenta para luta coletiva.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "O texto menciona reflexão, que pode ser associada a luta coletiva.",
+        "whyItIsWrong": "O texto critica a indústria cultural por abandonar a reflexão; logo, ela não é uma ferramenta de luta, mas sim de controle."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundir indústria cultural com uma instituição formal ligada ao interesse público.",
+        "misconceptionType": "Interpretação literal ou institucional incorreta",
+        "whyItLooksPlausible": "O termo 'indústria' pode levar a pensar em instituição organizada.",
+        "whyItIsWrong": "Indústria cultural é um conceito crítico, não uma instituição de interesse público."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Associar a indústria cultural a uma organização privada pelo aspecto econômico.",
+        "misconceptionType": "Foco limitado a aspectos econômicos",
+        "whyItLooksPlausible": "Indústria cultural envolve empresas privadas e iniciativa privada.",
+        "whyItIsWrong": "Embora envolva comércio, o texto enfoca seu papel ideológico como controle social, não organização empresarial."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que a manipulação vem diretamente do Estado quando se fala em controle.",
+        "misconceptionType": "Confusão entre controle social estatal e por indústrias culturais privadas",
+        "whyItLooksPlausible": "O termo controle social é frequentemente associado pelo público à ação estatal.",
+        "whyItIsWrong": "A indústria cultural é uma forma de controle social que não depende diretamente do Estado, mas de estruturas culturais e econômicas privadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação crítica de textos sociológicos",
+      "secondarySkills": [
+        "Conhecimento de conceitos sociológicos",
+        "Raciocínio analítico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão conceitual sobre indústria cultural e controle social.",
+        "Importante distinguir entre diferentes formas de controle e manipulação social.",
+        "Não há imagens associadas à questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 606,
+    "outputTokens": 646,
+    "estimatedCostUsd": 0.001276
+  }
+}

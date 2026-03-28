@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-linguagens-q022",
+  "generatedAt": "2026-03-28T00:23:07.990Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 929,
+      "outputTokens": 954,
+      "estimatedCostUsd": 0.001898
+    },
+    "explainer": {
+      "inputTokens": 1684,
+      "outputTokens": 475,
+      "estimatedCostUsd": 0.001434
+    },
+    "reviewer": {
+      "inputTokens": 3082,
+      "outputTokens": 2631,
+      "estimatedCostUsd": 0.005442
+    },
+    "totalEstimatedCostUsd": 0.008774
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta pois identifica na letra da canção a construção metalinguística que concebe a palavra como arma de combate e insubordinação, manifestando a violência estrutural abordada no Texto II.",
+      "strategy": "Analisou-se o trecho da letra apresentada no Texto I e o comentário crítico do Texto II sobre o tema da violência estrutural na sociedade, buscando correspondência entre os elementos temáticos presentes na canção e a explicação teórica.",
+      "steps": [
+        "Ler o fragmento da canção do grupo Racionais MCs, identificando elementos temáticos e figuras de linguagem.",
+        "Analisar o Texto II que destaca a violência como tema central nas obras do grupo, abrangendo violência social e estrutural.",
+        "Comparar as informações dos dois textos, identificando que na canção há tratamento à palavra como arma (\"minha palavra vale um tiro\") e atitude que transcende, como forma de combate.",
+        "Reconhecer que essa visão da palavra como arma significa um procedimento metalinguístico, isto é, reflexão sobre a palavra utilizada como instrumento de luta e insubordinação.",
+        "Verificar as alternativas e correlacionar o enunciado da alternativa C como a que melhor expressa essa interpretação."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A canção dos Racionais MCs utiliza a palavra como uma \"arma\" de combate à violência estrutural da sociedade, tema reforçado pelo texto crítico. Assim, a letra representa um discurso metalinguístico que expressa resistência e insubordinação diante das opressões sociais.",
+      "stepByStep": [
+        "Leia o trecho da canção atentamente e identifique metáforas e expressões que relacionam a palavra a uma arma, como \"minha palavra vale um tiro\".",
+        "Entenda que o Texto II explica que a obra do grupo trata da violência estrutural presente na sociedade, envolvendo várias relações sociais e problemas históricos.",
+        "Compare os dois textos e perceba que a canção reflete essa violência através de uma linguagem que enfatiza o poder da palavra como forma de luta.",
+        "Reconheça que isso caracteriza um recurso metalinguístico, pois a letra fala sobre o uso da própria palavra (o discurso) como instrumento de resistência.",
+        "Analise as alternativas e escolha aquela que indica a palavra como arma de combate contra a violência estrutural, ou seja, a alternativa C. "
+      ],
+      "commonPitfalls": [
+        "Interpretar a violência só como uma questão de justiça ou desigualdade, sem notar o uso da palavra como instrumento de luta.",
+        "Confundir as imagens bélicas na letra (tiro, munição) como simples metáforas de violência sem perceber o sentido metalinguístico da palavra.",
+        "Dar muita atenção às ambiguidades morais da letra (sádico, anjo, bandido) e esquecer o foco no discurso sobre a palavra como arma.",
+        "Focar em interpretações mais simbólicas ou filosóficas como a imortalidade, desviando do tema central da violência social manifestada pela palavra."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a relacionar textos literários com textos críticos para compreender temas complexos, ampliando a visão.",
+        "Trabalhe a identificação de metáforas e recursos metalinguísticos para que eles compreendam como textos falam sobre eles mesmos e seu poder.",
+        "Discuta o contexto social das obras, mostrando como a literatura pode refletir e resistir a realidades sociais, como a violência estrutural.",
+        "Pratique com os alunos a análise crítica, comparando múltiplos textos para desenvolver interpretações fundamentadas e fundamentar escolhas nas provas."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato relaciona a violência metaforicamente à desigualdade e interpreta a referência à justiça de maneira histórica e negativa.",
+        "misconceptionType": "Interpretação equivocada do tema central da letra e do fragmento do texto crítico.",
+        "whyItLooksPlausible": "O texto fala sobre desigualdade e injustiça, e a metáfora da desigualdade é comum em abordagens críticas.",
+        "whyItIsWrong": "O trecho enfatiza o uso da palavra como arma, e a questão aborda mais diretamente a metalinguagem do discurso e a violência estrutural como tema, não uma metáfora indireta da justiça."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato nota os termos bélicos como base para entender a crítica social presente, ligando a letra com a opressão sofrida pelas periferias.",
+        "misconceptionType": "Confundir figura de linguagem (termos bélicos) com o foco principal da temática da letra.",
+        "whyItLooksPlausible": "Os termos como \"tiro\", \"munição\" e \"franco atirador\" explicitam um tom bélico e de resistência.",
+        "whyItIsWrong": "Embora correto o reconhecimento do tom bélico, o foco da alternativa C no uso metalinguístico da palavra reflete melhor o confronto com a violência social e estrutural discutida."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato percebe as ambigüidades nas definições de bonzinho e malvado na letra, e interpreta como inversão e relativização moral.",
+        "misconceptionType": "Focar na ambiguidade dos conceitos de maldade e bondade em lugar do papel da palavra na violência.",
+        "whyItLooksPlausible": "O trecho apresenta opostos e ambiguidade, que pode ser confundida com inversão de valores.",
+        "whyItIsWrong": "Essa ambiguidade não é o ponto central da manifestação da violência reconhecida no Texto II, que enfatiza o combate simbólico e estrutural."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato destaca a referência à imortalidade como símbolo de resistência e ultrapassagem de dicotomias básicas como vida e morte.",
+        "misconceptionType": "Fazer leitura simbólica amplia demais o foco, desviando da abordagem metalinguística e social.",
+        "whyItLooksPlausible": "A menção à imortalidade relaciona-se com força e resistência, podendo ser interpretada como tema de superação.",
+        "whyItIsWrong": "Essa interpretação não capta o principal aspecto técnico da questão, que é justamente o uso da palavra como arma: a metalinguagem e a violência simbólica."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de textos literários e críticos",
+      "secondarySkills": [
+        "Análise literária",
+        "Interpretação textual",
+        "Identificação de figuras de linguagem e metáforas"
+      ],
+      "cognitiveDemand": "Análise e interpretação crítica",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Necessário relacionar um texto poético e um texto crítico para interpretar o tema da violência estrutural.",
+        "Importante reconhecer a metalinguagem presente no fragmento da canção.",
+        "Questão avalia habilidade de análise textual em literatura e linguagens."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🎤",
+      "shortThemeTitle": "Violência estrutural e metalinguagem na canção",
+      "interpretationIntro": "A questão pede para analisar como a letra da canção dos Racionais MCs manifesta a tematização da violência discutida no texto crítico (Texto II).",
+      "commandTerms": [
+        {
+          "term": "Tematização",
+          "explanation": "Identificar como determinado tema está presente e desenvolvido em um texto."
+        },
+        {
+          "term": "Metalinguagem",
+          "explanation": "Recurso que consiste em falar sobre a própria linguagem ou discurso dentro do texto."
+        }
+      ],
+      "whatTheQuestionAsks": "Interpretar a letra da canção à luz da explicação crítica sobre a violência estrutural e identificar qual alternativa expressa corretamente essa relação.",
+      "strategyParagraph": "Para responder, deve-se analisar o fragmento da canção (Texto I), reconhecendo metáforas e imagens que se relacionam à violência e ao discurso como instrumento de luta. Em seguida, confrontar essa análise com o comentário do Texto II, que explica que o Racionais MCs tematizam a violência estrutural social através de sua obra. Finalmente, escolher a alternativa que melhor expressa a função da palavra como arma e resistência frente à violência abordada.",
+      "reviewTable": [
+        {
+          "concept": "Violência estrutural",
+          "keyIdea": "Violência enraizada nas relações sociais e nas instituições.",
+          "application": "O texto crítico aborda essa violência em diversos níveis sociais, tema central da canção."
+        },
+        {
+          "concept": "Metáfora da palavra como arma",
+          "keyIdea": "A palavra é apresentada como instrumento de combate e resistência.",
+          "application": "Na letra, frases como \"minha palavra vale um tiro\" simbolizam esse uso da linguagem para enfrentamento."
+        },
+        {
+          "concept": "Metalinguagem",
+          "keyIdea": "O texto fala sobre o próprio discurso e seu poder na construção do sentido.",
+          "application": "A canção reflete sobre o uso da palavra, não apenas narrando fatos, mas comentando a sua função."
+        }
+      ],
+      "theoryParagraphs": [
+        "A violência estrutural configura um tema recorrente na produção literária e artística que retrata as condições sociais adversas e os conflitos nelas imbricados. Nos diálogos das periferias, o uso da palavra ganha dimensão simbólica, seja como arma ou escudo contra as opressões e desigualdades presentes.",
+        "Metalinguagem é um recurso literário em que o texto fala sobre si mesmo ou sobre seus elementos constitutivos. Na letra dos Racionais MCs, essa figura aparece através da referência à palavra como munição ou tiro, tematizando o poder da linguagem enquanto arma de resistência.",
+        "Compreender a letra em diálogo com o texto crítico amplia a interpretação, pois permite situar a obra no contexto das estruturas sociais violentas, reconhecendo que o discurso combate essa violência não apenas narrando-a, mas usando a própria palavra como instrumento de subversão."
+      ],
+      "resolutionParagraphs": [
+        "Começamos lendo o fragmento da canção e identificando a metáfora central: \"Minha palavra vale um tiro, eu tenho muita munição\" enfatiza a palavra como arma de combate. Essa ideia se repete em termos como \"franco atirador\" e outras imagens bélicas, indicando que o discurso é um meio de luta.",
+        "O texto crítico explica que os Racionais MCs tematizam a violência estrutural da sociedade sob diversas formas, incluindo relações pessoais e sociais marcadas por discriminação, opressão e conflitos.",
+        "Ao conectar os dois textos, compreendemos que a letra expressa um procedimento metalinguístico: a própria palavra usada para combater a violência social, uma arma simbólica e discursiva.",
+        "Analisando as alternativas, a letra C é a que melhor capta essa relação, abordando a palavra como arma de combate e resistência, correspondendo ao comentário crítico.",
+        "Portanto, a resposta correta é a alternativa C, pois traduz com precisão o conteúdo temático e o uso dos recursos expressivos na canção diante da violência estrutural explicada no Texto II."
+      ],
+      "puloDoGato": "Para esse tipo de questão, identifique a metáfora central e relacione-a diretamente ao tema social do texto crítico, reconhecendo recursos como a metalinguagem.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora a alternativa relacione violência e desigualdade, ela não compreende que o foco do texto é o uso da palavra como arma simbólica, essencial para o tema da violência estrutural na canção."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Reconhecer as imagens bélicas é correto, mas a alternativa não valoriza o aspecto metalinguístico da palavra enquanto instrumento de luta, que é central no texto."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "A alternativa C correta identifica que o texto constrói a palavra como uma arma de combate e insubordinação, espelhando a temática da violência estrutural apresentada no texto crítico."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "A ambiguidade moral da letra é um aspecto secundário e não expressa a principal manifestação da violência estrutural discutida na questão."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A referência à imortalidade é uma leitura simbólica menos direta, que não corresponde ao enfoque metalinguístico do uso da palavra como arma encontrado no texto."
+        }
+      ],
+      "questionCode": "LINGUAGENS_INTERPRETACAO_LETRAS_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica e a explicação didática estão alinhadas com o enunciado e os textos de suporte, respondendo corretamente a questão com base em interpretação crítica e literária. A resolução oficial segue a estrutura editorial solicitada, abordando o tema, explicando conceitos essenciais, e justificando cada alternativa de maneira clara e coerente.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:23:09.422Z",
+  "questionId": "enem-2024-linguagens-q023",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Estratégias argumentativas",
+    "rationale": "A questão exige que o aluno identifique estratégias argumentativas usadas pelo autor da resenha para expressar opiniões positivas e negativas sobre a série Game of Thrones, o que corresponde ao estudo das estratégias argumentativas dentro do tema Argumentação e gêneros.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1080,
+    "outputTokens": 75,
+    "estimatedCostUsd": 0.000552
+  }
+}

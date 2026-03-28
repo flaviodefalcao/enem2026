@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:44:19.967Z",
+  "questionId": "enem-2024-ciencias-humanas-q049",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda a introdução de novas tecnologias no Brasil no final do século XIX e indica que esses eventos tiveram uma conotação política vinculada à visão republicana de nação, relacionando transformações técnicas a mudanças institucionais e políticas no país, portanto envolvendo instituições sociais e políticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 889,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000495
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:19:40.853Z",
+  "questionId": "enem-2024-ciencias-humanas-q090",
+  "payload": {
+    "theme": "Trabalho, técnica e produção",
+    "subtheme": "Tecnologia e trabalho",
+    "rationale": "A questão aborda a contradição interna do capitalismo relacionada à organização do trabalho dos operários, destacando a alienação presente na dinâmica capitalista, que envolve a técnica e o trabalho humano. Isso se encaixa diretamente no tema 'Trabalho, técnica e produção' e no subtema 'Tecnologia e trabalho', pois discute a relação entre tecnologia, organização do trabalho e suas implicações sociais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 832,
+    "outputTokens": 107,
+    "estimatedCostUsd": 0.000504
+  }
+}

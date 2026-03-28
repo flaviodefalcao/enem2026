@@ -1,0 +1,139 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão ENEM 2024 - Problema do Galinheiro}
+
+\section{Solução Técnica}
+A resolução do problema envolve modelar a situação como uma função de área de um retângulo sujeita à restrição de custo para o cercamento e, então, maximizar essa área.
+
+\subsection{Definições e modelagem}
+Sejam $L$ e $C$ os comprimentos dos lados do galinheiro, em metros. Os lados de comprimento $L$ serão cercados com uma tela que custa R$ 20,00 por metro linear, e os lados de comprimento $C$ terão tela de custo R$ 15,00 por metro linear.
+
+\subsection{Cálculo do custo total}
+O custo total do cercamento é:
+\[
+\text{Custo total} = 2 \times L \times 20 + 2 \times C \times 15 = 40L + 30C.
+\]
+O fazendeiro deseja gastar no máximo R\$ 6.000, o que impõe a restrição:
+\[
+40L + 30C \leq 6000.
+\]
+
+\subsection{Expressando uma variável em função da outra}
+Isolando $C$ na restrição, temos:
+\[
+30C \leq 6000 - 40L \implies C \leq \frac{6000 - 40L}{30} = 200 - \frac{4}{3} L.
+\]
+
+\subsection{Função área a ser maximizada}
+A área do galinheiro é 
+\[
+A = L \times C.
+\]
+Substituindo $C$:
+\[
+A(L) = L \times \left(200 - \frac{4}{3} L \right) = 200L - \frac{4}{3} L^{2}.
+\]
+
+\subsection{Maximização da área}
+Para determinar o valor de $L$ que maximiza a área, derivamos $A(L)$:
+\[
+\frac{dA}{dL} = 200 - \frac{8}{3}L.
+\]
+Igualando a derivada a zero para encontrar o máximo:
+\[
+200 - \frac{8}{3}L = 0 \implies \frac{8}{3}L = 200 \implies L = 200 \times \frac{3}{8} = 75.
+\]
+
+\subsection{Determinação do outro lado e verificação}
+Calculando $C$ ao valor máximo:
+\[
+C = 200 - \frac{4}{3} \times 75 = 200 - 100 = 100.
+\]
+O maior lado do galinheiro é $\max(75, 100) = 100$ metros.
+
+Por fim, verificar o custo total para os valores encontrados:
+\[
+40 \times 75 + 30 \times 100 = 3000 + 3000 = 6000 \text{ reais},
+\]
+respeitando o orçamento máximo.
+
+\textbf{Resposta final:} O maior lado do galinheiro mede \textbf{100 metros}.
+
+\section{Formulários Utilizados}
+\begin{itemize}
+  \item Custo total do cercamento: $40L + 30C$.
+  \item Área do retângulo: $A = L \times C$.
+  \item Restrição orçamentária: $40L + 30C \leq 6000$.
+  \item Função área em função de $L$: $A(L) = 200L - \frac{4}{3}L^{2}$.
+  \item Derivada para maximização: $\frac{dA}{dL} = 200 - \frac{8}{3}L$.
+\end{itemize}
+
+\section{Evidências Visuais}
+Neste problema, não houve necessidade de imagens ou representações gráficas específicas. A modelagem é feita com funções matemáticas e inequações.
+
+\section{Explicação Didática}
+\subsection{Explicação resumida}
+Para encontrar as dimensões do galinheiro que maximizam a área em função do custo máximo permitido, modelamos o custo total em função dos lados, impomos a restrição orçamentária e expressamos um lado em função do outro. Em seguida, construímos uma função da área, a derivamos para encontrar o máximo, e determinamos qual lado é o maior.
+
+\subsection{Passo a passo}
+\begin{enumerate}
+  \item Definir $L$ e $C$ como os lados do galinheiro.
+  \item Calcular o custo total do cercamento: $40L + 30C$.
+  \item Impor a restrição $40L + 30C \leq 6000$.
+  \item Isolar $C$ na restrição para expressar $C$ em função de $L$.
+  \item Substituir $C$ na fórmula da área $A = L \times C$.
+  \item Derivar $A(L)$ em relação a $L$ e igualar a zero para encontrar o ponto de máximo.
+  \item Determinar os valores de $L$ e $C$ correspondentes.
+  \item Identificar o maior lado.
+  \item Verificar se o custo total está dentro do orçamento.
+\end{enumerate}
+
+\subsection{Erros comuns}
+\begin{itemize}
+  \item Confundir o custo por metro linear entre os dois tipos de tela.
+  \item Não usar corretamente a restrição para expressar uma variável em função da outra.
+  \item Erros de cálculo ao derivar ou ao resolver a equação para maximizar a área.
+  \item Escolher o lado menor como resposta, sem comparar os dois.
+  \item Esquecer de conferir se o custo final está dentro do limite estabelecido.
+\end{itemize}
+
+\subsection{Dicas para o ensino}
+\begin{itemize}
+  \item Ensinar a modelar situações reais com inequações e funções matemáticas.
+  \item Destacar a importância da restrição para reduzir variáveis em problemas de otimização.
+  \item Revisar o conceito de derivada para encontrar extremos de funções.
+  \item Apresentar exemplos simples de otimização para criar familiaridade.
+  \item Enfatizar a verificação final dos resultados com as condições do problema.
+\end{itemize}
+
+\section{Análise dos Distratores}
+Os distratores apresentados na questão são coerentes com os erros usuais na resolução deste tipo de problema.
+
+\begin{itemize}
+  \item \textbf{Opção 85}: ocorre erro na resolução da inequação, arredondamento incorreto ou escolha do valor abaixo do máximo real.
+  \item \textbf{Opção 175}: erro de interpretação dos custos, possivelmente trocando os valores atribuídos para cada tipo de tela.
+  \item \textbf{Opção 200}: ignorar diferenças nos custos dos dois lados, considerando custo igual para toda a cerca.
+  \item \textbf{Opção 350}: escolha arbitrária do maior valor, sem cálculo ou análise da restrição.
+\end{itemize}
+
+Estas alternativas distraem pelo fato de apresentarem respostas plausíveis para quem não realiza todos os passos de modelagem e cálculo corretamente.
+
+\section{Perfil da Questão}
+\begin{itemize}
+  \item \textbf{Habilidade Primária:} Resolução de problemas envolvendo sistemas de inequações e funções quadráticas.
+  \item \textbf{Habilidades Secundárias:} Matemática financeira, interpretação de restrições, cálculo diferencial.
+  \item \textbf{Demanda Cognitiva:} Média.
+  \item \textbf{Dificuldade Estimada:} Média.
+  \item \textbf{Requisitos:} Modelagem matemática, domínio de inequações e cálculo de derivadas para otimização.
+  \item \textbf{Observações:} Enfatiza a importância da interpretação correta dos custos e aplicação de otimização sob restrição.
+\end{itemize}
+
+\section{Revisão de Consistência}
+O enunciado, a solução técnica e a explicação didática estão alinhados e consistentes. O procedimento matemático para maximizar a área respeitando o orçamento é correto, e a resposta final é justificada de forma clara e coerente. As alternativas incorretas são plausíveis e refletem erros comuns, fortalecendo a validade da questão.
+
+\end{document}

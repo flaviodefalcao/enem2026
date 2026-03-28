@@ -1,0 +1,181 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:07:28.137Z",
+  "questionId": "enem-2024-linguagens-q014",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A alternativa C está correta porque reconhece que as variedades linguísticas manifestadas no texto são formas válidas e legítimas do português brasileiro, refletindo a riqueza e diversidade cultural do país.",
+        "strategy": "Analisar o texto para identificar o conceito de variedades linguísticas evidenciado, relacionando-o com conhecimentos sobre os dialetos e variações regionais do português brasileiro, e confrontar com as alternativas apresentadas.",
+        "steps": [
+          "Ler atentamente o texto para captar as referências às expressões e formas de falar dos maranhenses.",
+          "Compreender o conceito linguístico de variedades linguísticas como formas distintas do português usadas em diferentes regiões/rede de falantes.",
+          "Comparar as opções de resposta com a interpretação do texto e o conceito estudado.",
+          "Eliminar alternativas que contêm concepções errôneas ou contradizem a interpretação do texto.",
+          "Selecionar a alternativa que mostra as variedades como parte integral e legítima do português brasileiro."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto evidencia que as variedades linguísticas são formas distintas e legítimas do português brasileiro que refletem a diversidade cultural, não impedindo a compreensão entre falantes de diferentes regiões.",
+        "stepByStep": [
+          "Identificar exemplos de expressões regionais no texto.",
+          "Entender que variedades linguísticas correspondem a variações regionais do mesmo idioma.",
+          "Reconhecer que o texto valoriza estas variedades como parte da cultura e do português falado no Brasil.",
+          "Excluir alternativas equivocadas que apresentam as variedades como barreira ou incorretas.",
+          "Selecionar a alternativa que representa a legitimidade e riqueza das variedades linguísticas."
+        ],
+        "commonPitfalls": [
+          "Achar que variedades linguísticas dificultam o entendimento mútuo.",
+          "Confundir variedades linguísticas com erros ou fala incorreta.",
+          "Pensar que só há uma forma correta ao falar português.",
+          "Associar variedades apenas a contextos informais.",
+          "Achar que termos só são válidos se estiverem inseridos no dicionário oficial."
+        ],
+        "teachingTips": [
+          "Apresentar exemplos regionais conhecidos ao ensinar variedades linguísticas.",
+          "Utilizar materiais multimídia para mostrar diversidade linguística real.",
+          "Estimular debates sobre diversidade cultural e linguística para valorizar todas as formas de falar.",
+          "Reforçar que variedades são legítimas e refletem identidade regional.",
+          "Exemplificar situações cotidianas que evidenciem a compreensão entre falantes de diferentes variedades."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pensar que as variedades causam dificuldades na comunicação e, portanto, inviabilizam o entendimento.",
+          "misconceptionType": "Generalização equivocada",
+          "whyItLooksPlausible": "Diferenças na fala podem parecer uma barreira à comunicação.",
+          "whyItIsWrong": "Apesar das diferenças, as variedades linguísticas não impedem a comunicação efetiva entre falantes do português."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Interpretar erradamente que as variedades linguísticas servem para enaltecer uma variante local exclusiva.",
+          "misconceptionType": "Confusão conceitual",
+          "whyItLooksPlausible": "O destaque dado às expressões do Maranhão pode sugerir valorização exclusiva dessa variedade.",
+          "whyItIsWrong": "O texto apenas reconhece a existência e diversidade, sem sugerir superioridade de uma variedade sobre outra."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Acreditar que expressões regionais só são legítimas se estiverem em dicionários oficiais.",
+          "misconceptionType": "Prescritivismo linguístico",
+          "whyItLooksPlausible": "O texto menciona a criação de um 'dicionário' maranhês, o que pode levar a essa ideia.",
+          "whyItIsWrong": "Variedades linguísticas existem independentemente da formalização em dicionários; a circulação oral e comunitária legitima as expressões."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Associar variedades linguísticas apenas a contextos informais.",
+          "misconceptionType": "Redução inadequada da linguagem",
+          "whyItLooksPlausible": "Variedades são comumente percebidas em situações cotidianas e informais.",
+          "whyItIsWrong": "Variedades estão presentes em vários contextos comunicativos, não apenas informais."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação textual em linguagens",
+        "secondarySkills": [
+          "Conhecimento sobre variedades linguísticas",
+          "Raciocínio crítico linguístico"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige leitura interpretativa e conhecimento conceitual linguístico.",
+          "Não depende de imagens ou cálculos, sendo puramente textual e conceitual.",
+          "Se contrapõe a interpretações rígidas e prescritivistas sobre a linguagem."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🗣️",
+        "shortThemeTitle": "Variedades linguísticas e diversidade cultural",
+        "interpretationIntro": "O texto narra a experiência de um maranhense que, vivendo em outra região, usa expressões regionais que revelam variedades linguísticas do português brasileiro.",
+        "commandTerms": [
+          {
+            "term": "Variedades linguísticas",
+            "explanation": "Formas diferentes de falar a mesma língua, decorrentes de fatores regionais, sociais e culturais."
+          },
+          {
+            "term": "Legitimidade linguística",
+            "explanation": "Reconhecimento das diversas formas de expressão oral ou escrita como corretas dentro da língua."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar o que a vivência relatada evidencia sobre as variedades linguísticas no português brasileiro.",
+        "strategyParagraph": "Para responder, deve-se analisar o relato para compreender como as diferenças linguísticas regionais são apresentadas como manifestações legítimas e valoradas da língua, e avaliar as alternativas com essa compreensão.",
+        "reviewTable": [
+          {
+            "concept": "Variedades linguísticas",
+            "keyIdea": "São variações do português que coexistem em diferentes regiões e grupos sociais.",
+            "application": "No texto, o uso de expressões maranhenses evidencia essa variação legítima."
+          },
+          {
+            "concept": "Legitimidade linguística",
+            "keyIdea": "Todas as variedades são formas válidas do idioma, refletindo a diversidade cultural.",
+            "application": "O relato destaca o respeito e o interesse pelas expressões regionais, evidenciando sua aceitação."
+          },
+          {
+            "concept": "Comunicação inter-regional",
+            "keyIdea": "Variedades diferentes não impedem o entendimento entre falantes do mesmo idioma.",
+            "application": "Apesar das diferenças nas expressões, a comunicação é possível e ocorre com naturalidade."
+          }
+        ],
+        "theoryParagraphs": [
+          "As variedades linguísticas são manifestações naturais e legítimas do uso da língua em diferentes regiões, que revelam a riqueza cultural e social de um país. Elas não configuram erros ou deficiências, mas representam formas próprias e reconhecidas de comunicação.",
+          "No português brasileiro, a convivência entre essas variedades é constante, com trocas, influências e adaptações que enriquecem o idioma. Essa diversidade é um patrimônio cultural e uma expressão da identidade regional dos falantes.",
+          "Dessa forma, embora as variedades possam apresentar expressões e formas diferentes, elas não comprometem a comunicação efetiva nem a compreensão mútua entre falantes do país."
+        ],
+        "resolutionParagraphs": [
+          "A leitura do texto revela que o fotógrafo maranhense utiliza expressões características do Maranhão mesmo residindo no Rio de Janeiro, o que chama a atenção das pessoas locais. Essa situação ilustra a existência de variedades linguísticas regionais.",
+          "A narrativa enfatiza que tais variedades são parte da identidade cultural e conquistam admiração, sendo usadas em diferentes mídias e produtos locais. Isso indica sua legitimidade e valor.",
+          "Analisando as alternativas, observa-se que apenas a opção C reconhece que essas variedades são constitutivas do português brasileiro e legítimas, enquanto as outras apresentam visões equivocadas, como impedimento da comunicação ou necessidade de normatização formal.",
+          "Portanto, a resposta correta é a alternativa C."
+        ],
+        "puloDoGato": "Variedades linguísticas são diferentes formas legítimas da mesma língua; elas evidenciam riqueza cultural e não impossibilitam a comunicação.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa alega que as variedades impedem a compreensão, o que não é verdade, pois a comunicação entre falantes do português ocorre normalmente apesar das diferenças."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Afirma que variedades servem para valorizar apenas uma região, o que o texto não sustenta; ele apenas mostra a diversidade sem hierarquizar."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Reconhece a existência das variedades como parte legítima e constitutiva do português brasileiro, conforme evidenciado pelo texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Sugere que expressões regionais só são válidas se inseridas em dicionários, o que não é correto; a validade das variedades independe de normatização."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Restringe o uso das variedades a contextos coloquiais, o que não corresponde à realidade, pois elas permeiam diversos contextos comunicativos."
+          }
+        ],
+        "questionCode": "LINGUAGENS_VARIEDADESL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si e refletem adequadamente o conteúdo da questão sobre variedades linguísticas. O texto inicial, resposta e explicações convergem para a alternativa C como correta, com justificativas apropriadas e explicações claras. A resolução oficial está formatada segundo as normas, com linguagem adequada e análise detalhada das alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2805,
+    "outputTokens": 2359,
+    "estimatedCostUsd": 0.004896
+  }
+}

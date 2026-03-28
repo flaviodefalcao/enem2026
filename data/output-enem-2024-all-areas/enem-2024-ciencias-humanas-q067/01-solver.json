@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:58:00.730Z",
+  "questionId": "enem-2024-ciencias-humanas-q067",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta porque o texto deixa claro que a internet promove o fortalecimento e visibilidade das populações tradicionais, além de integrar produtores locais a cadeias maiores, o que resulta em valorização da economia local.",
+      "strategy": "Analisar o texto para identificar qual efeito da internet sobre as populações tradicionais e indígenas é destacado, relacionando-o a uma consequência econômica e social concreta.",
+      "steps": [
+        "Ler atentamente o enunciado para entender o papel da internet com populações tradicionais e indígenas.",
+        "Identificar que a internet facilita a integração dos pequenos produtores em cadeias de abastecimento maiores.",
+        "Compreender que isso potencializa a economia local dessas comunidades, aumentando sua rentabilidade.",
+        "Comparar as alternativas para verificar qual expressa melhor essa ampliação da rentabilidade e fortalecimento econômico local."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem contém referência bibliográfica relacionada à tecnologia e conservação ambiental, mas não apresenta dados visuais diretos para a resolução da questão."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se pensar que a internet auxilia em projetos culturais por dar visibilidade, mas o texto prioriza aspectos econômicos e de integração em mercados.",
+        "misconceptionType": "Interpretação parcial do texto",
+        "whyItLooksPlausible": "O texto menciona visibilidade e engajamento, o que pode remeter a projetos culturais.",
+        "whyItIsWrong": "O foco do texto está na rentabilidade e integração econômica, não na elaboração de projetos culturais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Alguns podem interpretar que o estabelecimento de regras comerciais é facilitado pela tecnologia, devido à maior integração.",
+        "misconceptionType": "Confusão entre efeitos diretos e indiretos",
+        "whyItLooksPlausible": "A internet pode facilitar negociações e regras entre participantes de cadeias de abastecimento.",
+        "whyItIsWrong": "O texto não destaca o estabelecimento de regras, mas sim o fortalecimento econômico e inovação em financiamento."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A tecnologia pode ser associada à melhoria da infraestrutura educacional, pela propagação de informação.",
+        "misconceptionType": "Ampliação do tema para além do texto",
+        "whyItLooksPlausible": "Tecnologia digital pode impactar a educação, aumentando infraestrutura informacional.",
+        "whyItIsWrong": "O texto não menciona educação ou infraestrutura educacional como efeito da internet para essas comunidades."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode parecer que a tecnologia promove uma uniformização na qualificação profissional por ser acessível globalmente.",
+        "misconceptionType": "Generalização exagerada",
+        "whyItLooksPlausible": "A padronização digital influencia mercados e qualificações profissionalmente.",
+        "whyItIsWrong": "O texto sugere fortalecimento das comunidades locais, não homogeneização ou uniformização profissional."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto",
+      "secondarySkills": [
+        "Conhecimento socioeconômico",
+        "Análise crítica"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão avalia a capacidade de extrair o impacto econômico positivo da tecnologia em contextos sociais tradicionais.",
+        "O gabarito correto está fundamentado na relação entre tecnologia, fortalecimento de mercados locais e valorização econômica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 726,
+    "outputTokens": 692,
+    "estimatedCostUsd": 0.001398
+  }
+}

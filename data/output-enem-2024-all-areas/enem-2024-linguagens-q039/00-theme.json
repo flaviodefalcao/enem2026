@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:36:52.880Z",
+  "questionId": "enem-2024-linguagens-q039",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Norma e uso",
+    "rationale": "A questão discute o uso da língua portuguesa na forma não-padrão nas composições de Adoniran Barbosa, problematizando a transgressão da norma-padrão. A habilidade H27 e a competência 8 reforçam o foco em reconhecer os usos da norma padrão em diferentes situações, evidenciando que o tema concerne à norma linguística e seus usos, enquadrando-se no subtema 'Norma e uso'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1223,
+    "outputTokens": 118,
+    "estimatedCostUsd": 0.000678
+  }
+}

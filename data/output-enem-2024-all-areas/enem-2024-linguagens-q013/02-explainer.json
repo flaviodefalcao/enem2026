@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:06:00.822Z",
+  "questionId": "enem-2024-linguagens-q013",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto utiliza a função referencial da linguagem, pois apresenta informações e dados objetivos sobre a pobreza menstrual, seu impacto na vida das adolescentes e nas oportunidades educacionais, buscando informar o leitor de forma clara e impessoal.",
+      "stepByStep": [
+        "Leia atentamente o texto para compreender seu conteúdo central e o que está sendo comunicado.",
+        "Identifique qual função da linguagem predomina: observe que o texto traz dados, estatísticas e informações objetivas, caracterizando a função referencial.",
+        "Analise cada alternativa, verificando se correspondem a informar, persuadir, emocionar, instruir ou outro objetivo.",
+        "Descarte alternativas que sugerem opinião, orientação ou emoções, pois o texto é informativo e impessoal.",
+        "Confirme que a alternativa correta corresponde à função referencial, por apresentar dados e informações factuais sem apelos emocionais ou comandos."
+      ],
+      "commonPitfalls": [
+        "Confundir função referencial com outras funções, como a conativa ou afetiva.",
+        "Interpretar o texto como se ele estivesse sugerindo soluções ou instruções, quando apenas informa.",
+        "Achar que a menção à higiene menstrual é um conselho, quando é uma informação de contexto.",
+        "Considerar que o texto faz comparações entre grupos, quando apresenta dados específicos sem comparações diretas."
+      ],
+      "teachingTips": [
+        "Explique as funções da linguagem com exemplos claros, destacando a função referencial como aquela que transmite informações objetivas.",
+        "Promova a leitura ativa, identificando o propósito do texto antes de escolher a resposta.",
+        "Pratique com textos diversos para que o aluno reconheça diferentes funções da linguagem.",
+        "Discuta os erros comuns para sensibilizar os alunos sobre as armadilhas interpretativas.",
+        "Use a análise das alternativas para reforçar o raciocínio crítico, eliminando respostas incorretas com base na função textual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1520,
+    "outputTokens": 370,
+    "estimatedCostUsd": 0.0012
+  }
+}

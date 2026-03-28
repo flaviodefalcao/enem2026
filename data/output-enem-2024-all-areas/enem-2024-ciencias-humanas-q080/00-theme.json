@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:09:48.713Z",
+  "questionId": "enem-2024-ciencias-humanas-q080",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Diversidade cultural",
+    "rationale": "A questão aborda a influência das novelas brasileiras em diferentes culturas (Rússia e Angola), destacando como as produções culturais brasileiras subjetivam costumes e influenciam comportamentos em contextos culturais distintos. Isso está diretamente relacionado a aspectos de diversidade cultural e identidade, conforme a habilidade de comparar pontos de vista sobre culturas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1005,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000541
+  }
+}

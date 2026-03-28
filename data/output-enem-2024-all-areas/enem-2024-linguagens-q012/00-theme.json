@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:53:23.982Z",
+  "questionId": "enem-2024-linguagens-q012",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Variação linguística",
+    "rationale": "A questão aborda a preservação da Língua da Tabatinga, um patrimônio linguístico ligado à identidade afro-brasileira e à variação social e cultural da língua, diretamente relacionada à variação linguística.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1110,
+    "outputTokens": 71,
+    "estimatedCostUsd": 0.000558
+  }
+}

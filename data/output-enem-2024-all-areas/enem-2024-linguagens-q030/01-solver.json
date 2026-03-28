@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:29:30.666Z",
+  "questionId": "enem-2024-linguagens-q030",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque tanto Antônio Prata quanto Graciliano Ramos defendem a ideia de que a arte tem um papel desestabilizador, que questiona certezas e expõe as contradições e imperfeições da realidade e da sociedade, em vez de simplesmente reforçar crenças pessoais ou apresentar um olhar simplificado.",
+      "strategy": "Analisar o posicionamento sobre a arte nos textos mencionados, identificando qual ideia é comum a ambos os autores.",
+      "steps": [
+        "Identificar no texto de Antônio Prata que ele valoriza a arte como algo que mostra a realidade nua e crua, com defeitos e contraditória, e que a arte deve fazer o leitor sair da leitura ou sessão com a guarda abaixada e certezas abaladas.",
+        "Recordar que Graciliano Ramos é conhecido por uma literatura que tem um caráter crítico e desestabilizador da realidade social, mostrando suas contradições e imperfeições.",
+        "Comparar as ideias dos dois autores sobre a arte, verificando qual ideia está presente em ambos.",
+        "Descartar alternativas que não condizem com as ideias expressas nos textos, como as que falam somente sobre dignidade do artista, pobreza como inspiração, reforço de crenças pessoais ou mudanças significativas na produção artística.",
+        "Confirmar que o que aproxima os dois autores é a ênfase no caráter desestabilizador da arte que expõe a realidade em sua complexidade e contradições."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que ambos valorizam os artistas, então defendem a dignidade do ofício.",
+        "misconceptionType": "confusão entre valor do conteúdo e valorização dos artistas",
+        "whyItLooksPlausible": "Ambos os autores falam sobre arte, então parece lógico defender o ofício dos artistas.",
+        "whyItIsWrong": "O foco dos textos é sobre o papel da arte e não sobre a valorização formal dos artistas."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se pensar que a arte reforça crenças pessoais porque o texto menciona que hoje há um exercício de \"lacração\" em que as pessoas saem com certezas reforçadas.",
+        "misconceptionType": "interpretação parcial e superficial do texto",
+        "whyItLooksPlausible": "O texto de Prata menciona que hoje a arte reforça certezas pessoais.",
+        "whyItIsWrong": "Graciliano Ramos tem uma visão diferente, que enfatiza o caráter crítico e questionador da arte, não o reforço de crenças."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se inferir que a pobreza é inspiração para a arte, considerando o contexto de Graciliano Ramos e suas obras que falam da realidade brasileira.",
+        "misconceptionType": "associação incorreta do autor com o tema da questão",
+        "whyItLooksPlausible": "Graciliano Ramos muitas vezes retrata a pobreza e a realidade social.",
+        "whyItIsWrong": "A questão pede o que aproxima os textos, e essa ideia não está explicitamente apresentada em Antônio Prata."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Podem achar que o texto de Prata indica mudanças na produção artística ao mencionar que hoje há um exercício de lacração, algo diferente do passado.",
+        "misconceptionType": "foco na mudança factual e não na tese comum",
+        "whyItLooksPlausible": "Existem menções a transformações na arte ao longo do tempo.",
+        "whyItIsWrong": "A questão pede uma tese que se aproxima, não apenas um comentário sobre mudanças."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Relação entre textos",
+        "Literatura e artes"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreender o pensamento dos dois autores sobre a função da arte.",
+        "É necessário fazer uma análise comparativa das ideias centrais apresentadas nos textos.",
+        "É uma questão textual com uma abordagem literária e artística."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1609,
+    "outputTokens": 854,
+    "estimatedCostUsd": 0.00201
+  }
+}

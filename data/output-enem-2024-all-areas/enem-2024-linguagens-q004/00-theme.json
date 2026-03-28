@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:42:12.857Z",
+  "questionId": "enem-2024-linguagens-q004",
+  "payload": {
+    "theme": "Língua estrangeira",
+    "subtheme": "Diversidade cultural em LEM",
+    "rationale": "O texto aborda a experiência de imigrantes hispânicos nos Estados Unidos e o preconceito linguístico sofrido, discutindo a diversidade cultural e linguística na aprendizagem e uso do inglês como língua estrangeira moderna (LEM). A habilidade e competência indicam foco na importância da produção cultural como representação da diversidade, o que corresponde ao tema 'Língua estrangeira' e subtema 'Diversidade cultural em LEM'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 927,
+    "outputTokens": 114,
+    "estimatedCostUsd": 0.000553
+  }
+}

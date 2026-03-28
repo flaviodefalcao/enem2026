@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:32:59.023Z",
+  "questionId": "enem-2024-q154",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar o tempo médio para ler os contratos, somamos todos os tempos e dividimos pelo número de serviços. A média é uma forma de representar um valor típico a partir dos dados fornecidos.",
+      "stepByStep": [
+        "Olhe para a tabela e anote os tempos: 36, 17, 27, 13, 13, 13 minutos.",
+        "Some todos os valores: 36 + 17 + 27 + 13 + 13 + 13 = 119 minutos.",
+        "Conte quantos serviços há: 6 serviços no total.",
+        "Divida a soma pelo número de serviços: 119 ÷ 6 = 19,8333...",
+        "Arredonde o resultado para uma casa decimal, ficando 19,8 minutos."
+      ],
+      "commonPitfalls": [
+        "Confundir a média com mediana ou moda, escolhendo valores centrais ou mais frequentes, em vez de calcular a média.",
+        "Esquecer de somar todos os valores antes de dividir ou dividir pelo número errado de serviços.",
+        "Arredondar incorretamente ou esquecer de arredondar para uma casa decimal.",
+        "Pensar que o tempo médio é o menor ou maior tempo da lista, quando é uma média."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de média como soma dos valores dividida pela quantidade de valores.",
+        "Use a tabela para que o aluno faça a leitura e organização dos dados antes do cálculo.",
+        "Mostre a importância do arredondamento e como fazer isso corretamente.",
+        "Explique a diferença entre média, mediana e moda para evitar confusões durante a resolução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1450,
+    "outputTokens": 329,
+    "estimatedCostUsd": 0.001106
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:35:52.872Z",
+  "questionId": "enem-2024-q158",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "162,50",
+        "correctnessClaim": "A resposta está correta e justificada com base nos cálculos dos volumes, preços unitários e análise da promoção.",
+        "strategy": "Calcular a quantidade de litros necessária para os dois tipos de defensivos, calcular o custo total incluindo promoção e máscara, e identificar o mínimo gasto possível.",
+        "steps": [
+          "Calcular litros necessários para cobrir 20 hectares com o Tipo A (20 ÷ 0,5 = 40 litros).",
+          "Calcular litros necessários para cobrir 20 hectares com o Tipo B (20 ÷ 0,4 = 50 litros).",
+          "Verificar a promoção para Tipo A: comprar ≥35 litros dá máscara grátis; 40 litros se qualificam.",
+          "Calcular custo total comprando só Tipo A (40 × R$4,20 = R$168,00, máscara grátis).",
+          "Calcular custo total comprando só Tipo B (50 × R$3,00 = R$150,00 + R$12,50 máscara = R$162,50).",
+          "Comparar os custos: R$168,00 (Tipo A) versus R$162,50 (Tipo B).",
+          "Analisar combinações dos tipos A e B; não compensam por custos adicionais da máscara.",
+          "Definir como mínimo o custo de R$162,50, comprando apenas Tipo B e máscara."
+        ],
+        "formulasUsed": [
+          "LitrosNecessarios = Área / CoberturaPorLitro",
+          "CustoTotal = Litros × PreçoPorLitro + CustoMáscara (quando aplicável)"
+        ],
+        "visualEvidenceUsed": [
+          "Cartaz com preços e promoção: Tipo A R$4,20/litro com promoção de máscara grátis comprando ≥35 litros",
+          "Tipo B R$3,00/litro, máscara R$12,50 sem promoção"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Calcula-se a quantidade de litros para cobrir 20 hectares, o custo total para cada tipo de defensivo incluindo a máscara, e escolhe-se o menor custo.",
+        "stepByStep": [
+          "Calcule os litros necessários para 20 hectares com Tipo A: 20 ÷ 0,5 = 40 litros.",
+          "Calcule os litros necessários para 20 hectares com Tipo B: 20 ÷ 0,4 = 50 litros.",
+          "Verifique a promoção: comprar pelo menos 35 litros de Tipo A dá máscara grátis; 40 litros estão qualificados.",
+          "Calcule custo só com Tipo A: 40 × R$4,20 = R$168,00, máscara grátis.",
+          "Calcule custo só com Tipo B: 50 × R$3,00 = R$150,00 + R$12,50 máscara = R$162,50.",
+          "Compare os custos; menor é R$162,50 comprando só Tipo B e máscara.",
+          "Misturar defensivos não compensa por custos adicionais da máscara.",
+          "Conclua que comprar 50 litros do Tipo B e a máscara é a menor despesa."
+        ],
+        "commonPitfalls": [
+          "Subestimar litros necessários para 20 hectares.",
+          "Esquecer de adicionar o custo da máscara ao comprar Tipo B.",
+          "Achar que misturar defensivos com menos de 35 litros de Tipo A é mais barato sem verificar os custos da máscara.",
+          "Comparar apenas os preços por litro sem considerar a promoção e custos adicionais.",
+          "Erros de arredondamento ou cálculo nos litros ou custos."
+        ],
+        "teachingTips": [
+          "Explique a relação entre litros e área para aplicação.",
+          "Enfatize a importância de promoções e seus critérios para custo total.",
+          "Use tabelas para organizar dados e facilitar comparações.",
+          "Estimule comparar todas as possibilidades (apenas A, apenas B, mistura).",
+          "Mostre a relevância prática do raciocínio matemático para economia real."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "147,00",
+          "likelyReasoning": "Calcular menos litros de Tipo A (30 litros) e incluir custo da máscara, subestimando a necessidade.",
+          "misconceptionType": "Erro na quantidade de defensivo necessário.",
+          "whyItLooksPlausible": "Parece mais barato que comprar 40 litros do Tipo A e a máscara.",
+          "whyItIsWrong": "30 litros não cobrem os 20 hectares necessários, tornando o cálculo incorreto."
+        },
+        {
+          "option": "150,00",
+          "likelyReasoning": "Calcular custo dos 50 litros do Tipo B, esquecendo de incluir o custo da máscara.",
+          "misconceptionType": "Omitir custo adicional da máscara para Tipo B sem promoção.",
+          "whyItLooksPlausible": "Multiplicação correta do preço por litro e quantidade.",
+          "whyItIsWrong": "Esqueceu-se dos R$12,50 da máscara, que elevam o custo total para R$162,50."
+        },
+        {
+          "option": "165,75",
+          "likelyReasoning": "Erro na mistura ou arredondamento incorreto em cálculos intermediários.",
+          "misconceptionType": "Erro de cálculo ou arredondamento.",
+          "whyItLooksPlausible": "Valor próximo do custo correto, dando impressão de ser razoável.",
+          "whyItIsWrong": "Não corresponde a cálculo correto considerando preço, litros e promoção."
+        },
+        {
+          "option": "168,00",
+          "likelyReasoning": "Comprar 40 litros só do Tipo A aproveitando a promoção da máscara grátis.",
+          "misconceptionType": "Não considerar custo menor ao comprar só Tipo B e máscara.",
+          "whyItLooksPlausible": "Cálculo direto e correto da compra do Tipo A com máscara grátis.",
+          "whyItIsWrong": "Não é a opção de menor custo, pois comprar Tipo B e máscara sai mais barato."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Raciocínio Matemático e Financeiro",
+        "secondarySkills": [
+          "Interpretação de Texto",
+          "Cálculo de Proporção",
+          "Análise de Promoções e Condições Comerciais"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": true,
+        "requiresCalculation": true,
+        "notes": [
+          "Interpretar corretamente a promoção apresentada na imagem.",
+          "Realizar cálculo proporcional entre área e volume de defensivo.",
+          "Comparar custos totais com e sem promoção para identificar o mínimo gasto."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, o solver e o explainer estão consistentes entre si. Os valores, justificativas e passos estão claros, o raciocínio está correto e condiz com a imagem da promoção. As alternativas distratoras são plausíveis e bem explicadas. O nível de dificuldade e habilidades requisitadas estão adequados ao item.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3296,
+    "outputTokens": 1346,
+    "estimatedCostUsd": 0.003472
+  }
+}

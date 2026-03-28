@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q048",
+  "generatedAt": "2026-03-28T00:44:18.084Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 640,
+      "outputTokens": 757,
+      "estimatedCostUsd": 0.001467
+    },
+    "explainer": {
+      "inputTokens": 1280,
+      "outputTokens": 445,
+      "estimatedCostUsd": 0.001224
+    },
+    "reviewer": {
+      "inputTokens": 2651,
+      "outputTokens": 1987,
+      "estimatedCostUsd": 0.00424
+    },
+    "totalEstimatedCostUsd": 0.006931
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque o texto destaca que o rompimento da barragem provocou uma ruptura afetiva e social permanente nas vidas das pessoas, que foram obrigadas a abandonar suas comunidades e vínculos até então consolidados.",
+      "strategy": "Identificar no texto as indicações de impacto na relação afetiva entre as pessoas e seu espaço vivido, focando em termos que expressem perda, abandono e transformação irreversível.",
+      "steps": [
+        "Ler o texto para compreender o contexto do desastre da barragem de Fundão.",
+        "Detectar no texto as expressões que indicam modificações permanentes na vida das comunidades atingidas.",
+        "Reconhecer que as pessoas tiveram que deixar suas casas, abandonando seus vínculos afetivos com o espaço vivido.",
+        "Comparar as alternativas para encontrar qual expressa essa ruptura na relação das pessoas com seu espaço.",
+        "Descartar alternativas que não refletem o impacto efetivamente evidenciado no texto, como mudanças normativas ou fortalecimento comunitário.",
+        "Confirmar que a alternativa C melhor traduz essa fragilização dos vínculos afetivos e sociais."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A tragédia da barragem provocou uma profunda ruptura emocional e social entre as pessoas e o espaço onde viviam, levando à perda dos vínculos afetivos e à alteração permanente de suas vidas.",
+      "stepByStep": [
+        "Leia atentamente o texto, identificando o evento e seus impactos.",
+        "Observe que o texto enfatiza a perda das casas, histórias e espaço vivido pelas pessoas.",
+        "Note a expressão \"Nada jamais seria igual\", que indica mudanças irreversíveis.",
+        "Entenda que isso reflete uma ruptura nos vínculos afetivos e sociais estabelecidos.",
+        "Analise as alternativas para identificar qual apresenta essa ideia de perda e ruptura.",
+        "Verifique que a alternativa C sintetiza com precisão esse impacto descrito."
+      ],
+      "commonPitfalls": [
+        "Interpretação do desastre como mudança em normas ambientais, quando o foco é social.",
+        "Confundir fortalecimento comunitário com fragmentação e perda indicadas no texto.",
+        "Assumir suspensão de atividades econômicas sem evidência textual.",
+        "Imaginar recuperação ou resgate de tradições, não sugerido pelo texto."
+      ],
+      "teachingTips": [
+        "Incentivar a identificação de termos de impacto afetivo no texto.",
+        "Exercitar a leitura crítica relacionando texto e contextos sociais.",
+        "Discutir os efeitos sociais e emocionais de tragédias no vínculo das pessoas com seu ambiente.",
+        "Utilizar o texto para ampliar a compreensão do impacto humano dos desastres, além do físico e ambiental."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Suposição de mudanças nas normas ambientais após o desastre.",
+        "misconceptionType": "Interpretação literal equivocada do impacto ambiental.",
+        "whyItLooksPlausible": "O evento envolve danos ambientais evidentes, como o rompimento da barragem.",
+        "whyItIsWrong": "O texto não menciona alteração ou flexibilização de normas ambientais, focando na perda social e afetiva."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se pensar que o desastre fortaleceu a identidade local, unindo a comunidade.",
+        "misconceptionType": "Confundir solidariedade em crise com fortalecimento identitário.",
+        "whyItLooksPlausible": "Crises podem gerar coesão social temporária.",
+        "whyItIsWrong": "O texto aponta para diferentes formas de impacto nas pessoas e ruptura nos vínculos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Supor que o desastre levou à suspensão de atividades econômicas na região.",
+        "misconceptionType": "Confundir aspectos econômicos com sociais.",
+        "whyItLooksPlausible": "O desastre físico pode inviabilizar atividades econômicas.",
+        "whyItIsWrong": "O texto não aborda impactos econômicos, apenas sociais e afetivos."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que o desastre provocou um resgate cultural e das tradições locais.",
+        "misconceptionType": "Interpretar uma possível reação cultural sem base textual.",
+        "whyItLooksPlausible": "Desastres podem levar comunidades a resgatar tradições.",
+        "whyItIsWrong": "O texto enfatiza perda e abandono, não resgate cultural ou tradicional."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise crítica",
+      "secondarySkills": [
+        "Leitura de contexto sociocultural",
+        "Compreensão de impacto social"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão da relação afetiva entre pessoas e espaço vivido.",
+        "Foco na análise da narrativa e do impacto social da tragédia.",
+        "Não requer análise visual, cálculo ou modelagem."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧠",
+      "shortThemeTitle": "Impacto social e afetivo do desastre da barragem",
+      "interpretationIntro": "O enunciado solicita a identificação do impacto do rompimento da barragem na relação das pessoas com seu espaço vivido.",
+      "commandTerms": [
+        {
+          "term": "Impacto",
+          "explanation": "Efeito provocado por um evento na vida das pessoas e seu ambiente."
+        },
+        {
+          "term": "Relação entre pessoas e espaço vivido",
+          "explanation": "Conexão afetiva e social que indivíduos mantêm com o lugar onde vivem."
+        }
+      ],
+      "whatTheQuestionAsks": "Analisar o texto para entender como o rompimento da barragem afetou os vínculos emocionais e sociais das pessoas com o seu espaço de vida.",
+      "strategyParagraph": "Para responder, deve-se interpretar as indicações no texto sobre a ruptura causada pela tragédia: o abandono das casas, das histórias e do local onde as pessoas viveram, e a noção de que \"Nada jamais seria igual\". Depois, comparar essas informações com as alternativas para escolher aquela que melhor reflete essa alteração profunda na relação afetiva com o espaço.",
+      "reviewTable": [
+        {
+          "concept": "Rompimento afetivo",
+          "keyIdea": "Desastre provoca ruptura nos laços emocionais com o espaço",
+          "application": "Texto cita abandono do local e 'modificações permanentes'"
+        },
+        {
+          "concept": "Impacto social",
+          "keyIdea": "Mudança nas relações e vidas das comunidades",
+          "application": "Referência às diferentes formas como famílias foram afetadas"
+        },
+        {
+          "concept": "Interpretação textual",
+          "keyIdea": "Leitura crítica dos efeitos além do físico",
+          "application": "Identificação do impacto psicológico e social no texto"
+        },
+        {
+          "concept": "Expressões-chave",
+          "keyIdea": "Palavras que indicam perda e transformação",
+          "application": "Termos 'soterrou sonhos', 'nada jamais seria igual', 'deixaram para trás'"
+        }
+      ],
+      "theoryParagraphs": [
+        "Desastres ambientais como o rompimento de barragens não provocam apenas danos físicos e ambientais, mas também impactam profundamente as relações sociais e afetivas das comunidades atingidas. A perda do espaço vivido acarreta rompimento dos vínculos emocionais que as pessoas têm com seu território.",
+        "A interpretação textual no contexto de ciências humanas exige o reconhecimento dos sentidos implícitos, como o impacto social e emocional evidenciado em narrativas sobre tragédias. Entender expressões que indicam abandono e perda é fundamental para captar o alcance do impacto social.",
+        "A relação entre indivíduos e seu espaço vivido é construída pela memória, convivência e pertencimento. Quando uma tragédia obriga o abandono desse espaço, os vínculos afetivos são enfraquecidos ou desfeitos, repercutindo na identidade e no modo de vida das pessoas."
+      ],
+      "resolutionParagraphs": [
+        "O texto descreve o rompimento da barragem de Fundão e ressalta que ele levou \"muito consigo\", soterrou sonhos e modificou permanentemente a vida das pessoas. Destaca ainda que famílias foram atingidas de formas diferentes e tiveram que fugir, deixando para trás resquícios das suas vidas antes do desastre.",
+        "Expressões como \"Nada jamais seria igual\" indicam que as mudanças não foram temporárias ou superficiais, mas profundas e duradouras, afetando a relação das pessoas com seu espaço vivido.",
+        "Diante disso, deve-se analisar quais alternativas representam essa ruptura afetiva e social. A alternativa C, que aborda a fragilização dos vínculos afetivos entre as pessoas e o espaço onde viviam, está alinhada com o texto e, por isso, é a correta."
+      ],
+      "puloDoGato": "Foque nas expressões de perda e mudança permanente para identificar o impacto afetivo do desastre.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Falsa porque trata de mudanças nas normas ambientais, não mencionadas no texto, que foca em impactos sociais e afetivos."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta pois sugere fortalecimento da identidade comunitária, enquanto o texto aponta para fragmentação e abandono."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Correta porque reflete a ruptura e fragilização dos vínculos afetivos das pessoas com seu espaço após o desastre, conforme expressado no texto."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Errada porque pressupõe suspensão de atividades econômicas, informação não abordada no texto."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta pois supõe resgate de tradições culturais, quando o texto destaca abandono e perda."
+        }
+      ],
+      "questionCode": "CH_CSH_INTERPRETACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução apresenta coerência plena entre o enunciado, análise técnica e explicação didática. A linha de raciocínio está clara, com fundamentação sólida no texto e adequado detalhamento da alternativa correta e dos distratores.",
+      "issues": []
+    }
+  }
+}

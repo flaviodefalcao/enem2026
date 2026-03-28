@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:35:40.178Z",
+  "questionId": "enem-2024-linguagens-q037",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto utiliza expressões e trechos reconhecíveis de músicas conhecidas para reforçar sua mensagem, caracterizando o recurso de intertextualidade, que é a presença de referências a outros textos dentro do discurso para enriquecer a argumentação.",
+      "stepByStep": [
+        "Leia o texto atentamente identificando palavras ou frases que remetem a músicas ou estilos musicais.",
+        "Observe as expressões como “metamorfose ambulante” (música de Raul Seixas) e termos como “sofrência” e “lambada”, que indicam referências musicais.",
+        "Considere cada recurso linguístico apresentado nas alternativas e analise se o texto faz uso dele de forma clara e predominante.",
+        "Verifique que o texto não apresenta contradição (opção A) nem hipérbole como recurso principal (opção E).",
+        "Perceba que embora haja metáfora, o destaque está nas referências diretas às músicas, caracterizando intertextualidade (opção C).",
+        "Confirme que enumeração (opção D) aparece, mas não é o recurso persuasivo central do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir metáfora com intertextualidade por causa da expressão figurada “metamorfose ambulante”.",
+        "Interpretar que há contradição entre sentimentos no texto, quando na verdade há uma progressão emocional mediada pela música.",
+        "Achar que o uso de palavras emotivas é necessariamente hipérbole, sem considerar o contexto.",
+        "Focar em enumeração de estilos musicais e ignorar o papel das referências musicais no discurso."
+      ],
+      "teachingTips": [
+        "Explique o conceito de intertextualidade e como ela pode aparecer em textos argumentativos.",
+        "Use exemplos musicais conhecidos para que os alunos reconheçam referências no texto.",
+        "Promova exercícios para diferenciar metáfora, intertextualidade, contradição, enumeração e hipérbole.",
+        "Estimule os alunos a lerem com atenção para identificar a intenção comunicativa principal do texto.",
+        "Discuta como a cultura é usada como recurso persuasivo em textos escritos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1564,
+    "outputTokens": 430,
+    "estimatedCostUsd": 0.001314
+  }
+}

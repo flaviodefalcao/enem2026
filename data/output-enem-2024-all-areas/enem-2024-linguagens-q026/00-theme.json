@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:25:48.680Z",
+  "questionId": "enem-2024-linguagens-q026",
+  "payload": {
+    "theme": "Linguagem corporal",
+    "subtheme": "Práticas corporais",
+    "rationale": "A questão trata da participação de mulheres em práticas corporais como as lutas, discutindo a linguagem corporal e as tensões de gênero no contexto da educação física, o que corresponde ao tema de Linguagem corporal e subtema Práticas corporais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1138,
+    "outputTokens": 74,
+    "estimatedCostUsd": 0.000574
+  }
+}

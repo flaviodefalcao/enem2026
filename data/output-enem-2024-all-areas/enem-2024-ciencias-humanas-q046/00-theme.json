@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T22:35:34.470Z",
+  "questionId": "enem-2024-ciencias-humanas-q046",
+  "payload": {
+    "theme": "Espaço geográfico e território",
+    "subtheme": "Relações de poder",
+    "rationale": "A questão aborda a relação entre a localização geográfica das cidades e as atividades tectônicas, como a atividade de placas tectônicas, que influenciam a ocorrência de terremotos, relacionando-se com a configuração do espaço e a dinâmica natural do território.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1728,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.000204
+  }
+}

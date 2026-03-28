@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:33:17.528Z",
+  "questionId": "enem-2024-linguagens-q034",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O aplicativo Linklado facilita a escrita das línguas indígenas no meio digital, permitindo o uso de múltiplos acentos e caracteres especiais não disponíveis em teclados comuns, o que ajuda a registrar e preservar essas línguas.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o que é o Linklado e sua finalidade.",
+        "Identifique que o texto fala de facilitar a escrita de línguas indígenas, superando limitações dos teclados tradicionais.",
+        "Observe que o programa permite combinações de acentos e caracteres exclusivos, o que não era fácil antes.",
+        "Compreenda que essa facilidade contribui para que as línguas indígenas possam ser escritas e preservadas.",
+        "Analise as alternativas e veja qual corresponde ao papel do aplicativo conforme o texto.",
+        "Conclua que a alternativa que fala sobre promover o registro escrito e a preservação das línguas indígenas é a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir o aplicativo com a criação de novos fonemas, quando na verdade ele ajuda na representação gráfica deles.",
+        "Pensar que o aplicativo adapta regras de jogos ao invés de favorecer a escrita das línguas indígenas.",
+        "Achar que o app divulga técnicas de tradução, quando ele só facilita a escrita das línguas.",
+        "Interpretar que o app ensina português para indígenas, embora ele seja para escrever línguas indígenas."
+      ],
+      "teachingTips": [
+        "Encoraje os estudantes a lerem o texto com cuidado, buscando o sentido de cada parágrafo e o papel do aplicativo.",
+        "Trabalhe com o grupo para diferenciar funções semelhantes (escrever vs. traduzir vs. criar fonemas).",
+        "Use exemplos práticos de como teclados comuns limitam a escrita de línguas com acentos ou caracteres especiais.",
+        "Promova atividades que envolvam interpretação textual para aumentar a atenção a detalhes importantes.",
+        "Discuta a importância da preservação de línguas indígenas e o papel da escrita nesse processo, conectando com a vida real."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1501,
+    "outputTokens": 404,
+    "estimatedCostUsd": 0.001247
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:06:34.109Z",
+  "questionId": "enem-2024-linguagens-q013",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta porque o texto apresenta dados e informações objetivas sobre o impacto da pobreza menstrual na vida das mulheres, caracterizando a função referencial da linguagem, que tem como propósito informar o leitor de forma clara e impessoal.",
+        "strategy": "Analisar o enunciado para identificar a função da linguagem predominante (referencial) e relacionar com o objetivo do texto, que apresenta dados estatísticos que alertam sobre a pobreza menstrual e suas consequências na vida escolar e social das meninas.",
+        "steps": [
+          "Ler o texto atentamente para entender o conteúdo e o propósito da mensagem.",
+          "Identificar a função da linguagem predominante no texto (função referencial).",
+          "Analisar as alternativas para verificar qual se alinha com a função referencial e o conteúdo do texto.",
+          "Comparar as alternativas com o conteúdo para eliminar as que sugerem outras funções (afetiva, conativa, metalinguística, etc).",
+          "Confirmar que o texto informa dados sobre pobreza menstrual e suas consequências, sem sugerir soluções (A), relações entre menstruação e gravidez (B), comparações entre gêneros (C), ou orientações pessoais (E)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto utiliza a função referencial da linguagem, pois apresenta informações e dados objetivos sobre a pobreza menstrual, seu impacto na vida das adolescentes e nas oportunidades educacionais, buscando informar o leitor de forma clara e impessoal.",
+        "stepByStep": [
+          "Leia atentamente o texto para compreender seu conteúdo central e o que está sendo comunicado.",
+          "Identifique qual função da linguagem predomina: observe que o texto traz dados, estatísticas e informações objetivas, caracterizando a função referencial.",
+          "Analise cada alternativa, verificando se correspondem a informar, persuadir, emocionar, instruir ou outro objetivo.",
+          "Descarte alternativas que sugerem opinião, orientação ou emoções, pois o texto é informativo e impessoal.",
+          "Confirme que a alternativa correta corresponde à função referencial, por apresentar dados e informações factuais sem apelos emocionais ou comandos."
+        ],
+        "commonPitfalls": [
+          "Confundir função referencial com outras funções, como a conativa ou afetiva.",
+          "Interpretar o texto como se ele estivesse sugerindo soluções ou instruções, quando apenas informa.",
+          "Achar que a menção à higiene menstrual é um conselho, quando é uma informação de contexto.",
+          "Considerar que o texto faz comparações entre grupos, quando apresenta dados específicos sem comparações diretas."
+        ],
+        "teachingTips": [
+          "Explique as funções da linguagem com exemplos claros, destacando a função referencial como aquela que transmite informações objetivas.",
+          "Promova a leitura ativa, identificando o propósito do texto antes de escolher a resposta.",
+          "Pratique com textos diversos para que o aluno reconheça diferentes funções da linguagem.",
+          "Discuta os erros comuns para sensibilizar os alunos sobre as armadilhas interpretativas.",
+          "Use a análise das alternativas para reforçar o raciocínio crítico, eliminando respostas incorretas com base na função textual."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode-se achar que o texto sugere formas de resolver o problema da pobreza menstrual por mencionar as dificuldades enfrentadas.",
+          "misconceptionType": "Interpretação incorreta da função textual",
+          "whyItLooksPlausible": "O texto fala sobre um problema social relevante, o que pode levar a pensar que apresenta soluções.",
+          "whyItIsWrong": "O texto se limita a informar dados e consequências, sem apresentar propostas ou soluções."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O leitor pode confundir a menstruação com gravidez e pensar que o texto estabelece relação direta.",
+          "misconceptionType": "Confusão entre temas relacionados mas distintos",
+          "whyItLooksPlausible": "O texto menciona índices de meninas que deixaram atividades por problemas menstruais e gravidez, o que pode parecer uma comparação de relação.",
+          "whyItIsWrong": "O texto apenas apresenta dados distintos, não estabelece uma relação causal ou direta entre menstruação e gravidez."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode-se pensar que o texto compara desempenho acadêmico entre gêneros porque fala de meninas e impactos na escola.",
+          "misconceptionType": "Leitura superficial ou inferência errada",
+          "whyItLooksPlausible": "Mencionar os efeitos da pobreza menstrual no desempenho escolar pode ser associado a uma comparação com meninos.",
+          "whyItIsWrong": "O texto não faz qualquer comparação entre gêneros, apenas relata dados específicos sobre meninas."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode parecer que o texto orienta cuidados pessoais pela menção da importância da higiene menstrual.",
+          "misconceptionType": "Confundir função referencial com função conativa ou apelativa",
+          "whyItLooksPlausible": "O texto fala sobre higiene e dificuldades que podem sugerir uma orientação.",
+          "whyItIsWrong": "O texto não apresenta instruções, conselhos ou orientações para o público; é informativo, focado em dados e consequências."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão leitora",
+        "secondarySkills": [
+          "Análise textual",
+          "Identificação de funções da linguagem"
+        ],
+        "cognitiveDemand": "Médio, pois requer interpretação e associação entre função textual e propósito informativo.",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão avalia principalmente o conhecimento sobre as funções da linguagem, especificamente a função referencial.",
+          "Exige leitura atenta para distinguir diferentes propósitos comunicativos.",
+          "A alternativa correta demanda a percepção do propósito informativo e não opinativo ou instrucional."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Função referencial da linguagem",
+        "interpretationIntro": "O comando da questão solicita identificar o propósito principal do texto no que se refere à função da linguagem utilizada.",
+        "commandTerms": [
+          {
+            "term": "Função Referencial",
+            "explanation": "Caracteriza-se pela objetividade e transmissão clara de informações, fatos e dados sobre um assunto."
+          },
+          {
+            "term": "Função Apelativa (Conativa)",
+            "explanation": "Visa persuadir ou orientar o receptor, por meio de comandos ou sugestões."
+          },
+          {
+            "term": "Análise textual",
+            "explanation": "Processo de compreender o texto e identificar suas características e finalidades."
+          }
+        ],
+        "whatTheQuestionAsks": "O questionamento central é reconhecer a função da linguagem predominante no texto apresentado e relacioná-la com seu propósito comunicativo.",
+        "strategyParagraph": "Para responder corretamente, deve-se analisar o texto, identificar a função da linguagem predominante e relacionar com o propósito comunicativo. O texto apresenta dados, informações objetivas e estatísticas, típicos da função referencial, que visa informar o leitor de maneira clara e impessoal, sem expressar opiniões, emoções ou ordens.",
+        "reviewTable": [
+          {
+            "concept": "Função referencial da linguagem",
+            "keyIdea": "Uso de informações objetivas e dados para informar.",
+            "application": "O texto apresenta estatísticas e dados sobre pobreza menstrual para informar o leitor."
+          },
+          {
+            "concept": "Função conativa da linguagem",
+            "keyIdea": "Uso de linguagem para persuadir ou orientar ações do leitor.",
+            "application": "Ausente no texto, que não apresenta comandos ou orientações."
+          },
+          {
+            "concept": "Interpretação de texto",
+            "keyIdea": "Identificar o propósito comunicativo e o tema abordado.",
+            "application": "Reconhecer que o texto busca informar sobre um problema social, sem apelos emocionais."
+          }
+        ],
+        "theoryParagraphs": [
+          "A função referencial ou informativa da linguagem tem como objetivo principal transmitir informações, fatos e dados objetivamente, sem a presença de emoções, opiniões ou direcionamentos ao interlocutor.",
+          "Textos com função referencial apresentam linguagem clara e direta, contendo dados, estatísticas e descrições que ampliam o conhecimento sobre o tema abordado.",
+          "Diferentemente da função conativa (apelativa), que pretende influenciar o receptor, a função referencial preocupa-se em comunicar fatos e notícias, garantindo a imparcialidade na transmissão da mensagem."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, lê-se o texto integralmente para entender sua mensagem central e identificar o propósito comunicativo.",
+          "Ao notar que o texto apresenta dados e estatísticas sobre pobreza menstrual e seu impacto na vida de meninas e adolescentes, reconhece-se a dominância da função referencial da linguagem.",
+          "Analisa-se cada alternativa considerando sua coerência com a função referencial: aquelas que sugerem persuasão, opinião ou orientação são descartadas.",
+          "Assim, verifica-se que a alternativa D é a única que corresponde ao propósito do texto de informar de maneira objetiva e impessoal.",
+          "Logo, conclui-se que a função referencial é a predominante e que o texto cumpre a função de informar, caracterizando a alternativa D como a correta."
+        ],
+        "puloDoGato": "Foque na função que transmite informações objetivas e dados, e não nas que influenciam ou emocionam.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Errada porque o texto não propõe soluções, apenas apresenta informações e dados sobre o problema."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada porque o texto apenas apresenta dados de forma comparativa, sem estabelecer relação direta entre menstruação e gravidez."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada porque não há comparação entre gêneros; o texto foca nas meninas e seus desafios específicos."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta porque o texto utiliza dados e informações objetivas para informar sobre o impacto da pobreza menstrual, caracterizando a função referencial."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada porque o texto não oferece orientações ou conselhos, apenas informa sobre o problema."
+          }
+        ],
+        "questionCode": "LINGUAGENS_FUNCAO_REFERENCIAL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução apresentada está coerente e consistente com o enunciado, o solver e o explainer. Todas as informações estão alinhadas, e a alternativa correta foi justificada adequadamente.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2815,
+    "outputTokens": 2061,
+    "estimatedCostUsd": 0.004424
+  }
+}

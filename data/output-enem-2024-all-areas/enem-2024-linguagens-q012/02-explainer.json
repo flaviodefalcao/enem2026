@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:05:07.714Z",
+  "questionId": "enem-2024-linguagens-q012",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A Língua da Tabatinga é preservada porque seus falantes reconhecem e valorizam sua origem afro-brasileira, fortalecendo um sentimento de identidade linguística e cultural que os motiva a transmitir essa língua para as próximas gerações.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o contexto da Língua da Tabatinga e seus falantes.",
+        "Observe que, segundo o texto, os falantes passaram a valorizar a língua como um legado cultural ligado à sua identidade afro-brasileira.",
+        "Identifique que essa valorização fortalece o sentimento de pertencimento e a preocupação em preservar e transmitir a língua.",
+        "Leia cada alternativa da questão e compare com a informação do texto para verificar qual expressa corretamente o motivo da preservação.",
+        "Descartem as alternativas que mencionam aspectos não apoiados pelo texto (escrita, prestígio social, função original, faixa etária).",
+        "Escolha a alternativa que destaca o fortalecimento da identidade linguística e cultural como razão da preservação."
+      ],
+      "commonPitfalls": [
+        "Achar que a língua é preservada porque foi passada da oralidade para a escrita, mesmo o texto não mencionar isso.",
+        "Interpretar que o aumento do prestígio social dos falantes contribuiu para a preservação, quando o texto evidencia estigma social.",
+        "Pensar que a língua mantém a mesma função inicial (língua secreta para escravizados), ao invés de reconhecer que a função mudou.",
+        "Considerar que a faixa etária dos falantes explica a preservação, embora o texto apenas informe essa faixa sem relacionar à conservação.",
+        "Não relacionar o sentido de identidade cultural com a motivação para preservar a língua."
+      ],
+      "teachingTips": [
+        "Explique como a linguagem está relacionada à identidade cultural e grupo social, e que isso pode motivar a preservação de línguas.",
+        "Reforce a importância da leitura atenta e busca por informações explícitas no texto para responder às questões.",
+        "Use exemplos de línguas ou dialetos que foram valorizados por seus falantes como forma de fortalecer a identidade.",
+        "Ao analisar alternativas, incentive os alunos a buscar suporte direto no texto para validar as respostas.",
+        "Trabalhe o conceito de mudança na função social da língua para evitar interpretações erradas de que a função original é mantida."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1426,
+    "outputTokens": 470,
+    "estimatedCostUsd": 0.001322
+  }
+}

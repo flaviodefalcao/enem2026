@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:43:56.957Z",
+  "questionId": "enem-2024-ciencias-humanas-q048",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O rompimento da barragem de Fundão causou uma ruptura profunda na relação das pessoas com o espaço onde viviam, pois elas foram obrigadas a abandonar suas casas e vidas, perdendo vínculos afetivos importantes e enfrentando mudanças permanentes.",
+      "stepByStep": [
+        "Leia o texto atentamente, identificando o evento central: o rompimento da barragem em Mariana (MG).",
+        "Note que o texto destaca como as pessoas tiveram que fugir, deixando para trás suas casas, histórias e espaços familiares.",
+        "Observe que o texto fala em modificações permanentes e na afirmação de que \"Nada jamais seria igual\".",
+        "Com base nisso, perceba que há uma ruptura nos laços afetivos e sociais entre as pessoas e seu ambiente vivido.",
+        "Analise as alternativas e escolha a que indica essa perda e fragilização dos vínculos com o espaço.",
+        "Confirme que a alternativa C traz essa ideia de impacto afetivo, social e permanente, alinhada ao texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o desastre levou a mudanças nas normas ambientais, embora o foco seja social e afetivo.",
+        "Achar que o desastre fortaleceu a identidade comunitária, quando na verdade houve fragmentação e perda.",
+        "Pensar que as atividades econômicas foram suspensas, mesmo que o texto não mencione esse ponto.",
+        "Supor que houve um resgate das tradições como resposta, embora o texto destaque o abandono e a ruptura."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar palavras-chave que indicam sentimentos e relações, como \"rompimento\", \"modificou de forma permanente\", \"deixaram para trás\" e \"nada jamais seria igual\".",
+        "Exercite a leitura crítica, pedindo que os estudantes relacionem o impacto social e afetivo com os fatos narrados, não apenas aspectos ambientais ou econômicos.",
+        "Promova discussões sobre como tragédias podem afetar o vínculo das pessoas com seus espaços e comunidades, mostrando que esses impactos vão além do físico.",
+        "Utilize esse texto para contextualizar a importância da leitura integrada entre texto e o tema social abordado, ampliando a compreensão das consequências humanas dos desastres."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1280,
+    "outputTokens": 445,
+    "estimatedCostUsd": 0.001224
+  }
+}

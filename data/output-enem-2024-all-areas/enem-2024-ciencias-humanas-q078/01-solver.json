@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:08:13.641Z",
+  "questionId": "enem-2024-ciencias-humanas-q078",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B está correta pois o princípio ético conhecido como a 'Regra de Ouro' se alinha diretamente ao conceito do imperativo categórico formulado por Kant, que propõe agir segundo máximas que possam ser universalizadas, ou seja, que cada pessoa atue de modo que sua ação possa ser uma regra geral para todos.",
+      "strategy": "Identificar o princípio ético descrito no texto e relacioná-lo às teorias éticas clássicas estudadas em filosofia moral para encontrar a formulação correta que corresponda ao enunciado da 'Regra de Ouro'.",
+      "steps": [
+        "Ler atentamente o enunciado para compreender que se refere ao princípio moral: 'Trate os outros como gostaria de ser tratado'.",
+        "Reconhecer que essa formulação corresponde à ideia de universalização da ação ética.",
+        "Relacionar esta noção com o conceito filosófico do imperativo categórico de Immanuel Kant, que exige que as ações sejam feitas de acordo com máximas que possam ser universalizadas.",
+        "Analisar as demais alternativas e verificar que nenhuma corresponde a esse princípio específico.",
+        "Confirmar que a alternativa B é a que teoricamente traduz a regra de ouro segundo Kant."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer correta porque 'doutrina teleológica' se relaciona com análise das consequências das ações, e o texto fala de princípios morais.",
+        "misconceptionType": "Confusão conceitual entre tipos de ética (teleológica versus deontológica).",
+        "whyItLooksPlausible": "Parece que a regra de ouro avalia as ações pelo resultado (como em teleologia).",
+        "whyItIsWrong": "A regra de ouro não se baseia no resultado das ações, mas no princípio universalizável, que é deontológico."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensamento utilitarista é conhecido e relacionado a princípios éticos, pode confundir pois utilitarismo também avalia ações pelo impacto.",
+        "misconceptionType": "Confusão com ética consequencialista.",
+        "whyItLooksPlausible": "Utilitarismo é uma ética popular que avalia ações pelo benefício geral, o que pode parecer semelhante à regra de ouro.",
+        "whyItIsWrong": "Regra de ouro enfatiza agir conforme princípio universal, não somente o cálculo das consequências."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Termo complexo pode causar confusão, sendo descartado ou escolhido por desconhecimento.",
+        "misconceptionType": "Falta de conhecimento da terminologia específica.",
+        "whyItLooksPlausible": "O termo tem ar sofisticado, podendo parecer uma teoria ética avançada.",
+        "whyItIsWrong": "'Secularização inautêntica' não é um conceito ético relacionado a regras morais universais."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode ser confundido com o imperativo categórico, já que se fala em raciocínio ligado a consequências.",
+        "misconceptionType": "Confusão entre raciocínio consequencialista e imperativo categórico.",
+        "whyItLooksPlausible": "Ambos envolvem análise moral e podem soar parecidos para quem não domina filosofia ética.",
+        "whyItIsWrong": "Imperativo categórico é uma ética deontológica, não consequencialista; a regra de ouro corresponde a ele e não a raciocínio consequencialista."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de conceitos filosóficos e morais",
+      "secondarySkills": [
+        "Identificação de conceitos éticos fundamentais",
+        "Raciocínio crítico sobre teorias filosóficas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige conhecimento específico em filosofia moral.",
+        "Não há apoio visual para a questão.",
+        "Confunde teorias éticas distintas: deontologia (imperativo categórico) vs. teleologia/ consequencialismo."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 608,
+    "outputTokens": 826,
+    "estimatedCostUsd": 0.001565
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:47:37.080Z",
+  "questionId": "enem-2024-ciencias-humanas-q053",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta correta é C, declividade do relevo local.",
+      "strategy": "Analisar a relação entre a velocidade e o tempo de duração das inundações mostradas no gráfico, relacionando-as a um fator físico-geográfico que explique a diferença entre uma inundação brusca e uma gradual.",
+      "steps": [
+        "Observa-se no gráfico que a inundação brusca tem uma alta velocidade mas duração curta.",
+        "A inundação gradual tem velocidade menor e duração maior.",
+        "A velocidade com que a água se acumula e o tempo que permanece inundado dependem da topografia do terreno, ou seja, declividade do relevo.",
+        "Em relevo íngreme, a água escoa rapidamente, causando inundações bruscas e rápidas.",
+        "Em relevo mais plano, a água escoa lentamente, causando inundações graduais e por mais tempo.",
+        "As outras opções (variabilidade solar anual, temperatura média mensal, dinâmica tectônica regional e gradação da turbidez fluvial) não explicam diretamente essa característica da velocidade e duração da inundação mostrada no gráfico."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Gráfico mostrando velocidade vs tempo de duração para inundação brusca e gradual"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pensar que a variabilidade solar anual influencia a quantidade de chuva e portanto as inundações.",
+        "misconceptionType": "Confundir fatores climáticos com fatores geomorfológicos",
+        "whyItLooksPlausible": "Variabilidade solar pode afetar o clima e ciclos de chuva.",
+        "whyItIsWrong": "Esta variável não explica a diferença de velocidade e duração da inundação mostrada, que depende mais da topografia."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que a temperatura média mensal afeta a evaporação e consequentemente o volume de água e enchentes.",
+        "misconceptionType": "Confundir temperatura com dinâmica do escoamento da água",
+        "whyItLooksPlausible": "Temperatura afeta processos ambientais, incluindo evaporação.",
+        "whyItIsWrong": "Diferença no tempo e velocidade da inundação está ligada ao relevo, não a temperatura."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que dinâmicas tectônicas alteram o terreno e influenciam inundações.",
+        "misconceptionType": "Associação incorreta entre tectônica e inundações de curto prazo",
+        "whyItLooksPlausible": "Tectônica pode modificar relevos a longo prazo.",
+        "whyItIsWrong": "Mudanças tectônicas ocorrem em escala muito maior e tempo muito mais longo para impactar diretamente a velocidade e duração de inundações."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associar gradação da turbidez fluvial à qualidade da água que poderia influenciar a inundação.",
+        "misconceptionType": "Confundir aspectos físicos da água com o comportamento da inundação",
+        "whyItLooksPlausible": "Turbidez indica quantidade de sedimentos que podem afetar o fluxo de água.",
+        "whyItIsWrong": "Turbidez não é fator determinante da velocidade ou duração da inundação mostrada no gráfico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de gráficos e conhecimento geográfico",
+      "secondarySkills": [
+        "Conhecimento sobre desastres naturais",
+        "Relação entre relevo e dinâmica hídrica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão requer compreensão de conceitos geográficos e interpretação do gráfico.",
+        "Relação entre relevo e escoamento superficial é essencial para a resposta correta.",
+        "Análise das alternativas exige conhecimento do impacto de diferentes fatores naturais em inundações."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1062,
+    "outputTokens": 773,
+    "estimatedCostUsd": 0.001662
+  }
+}

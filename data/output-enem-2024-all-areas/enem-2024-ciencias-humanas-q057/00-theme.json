@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:50:30.533Z",
+  "questionId": "enem-2024-ciencias-humanas-q057",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Direitos e participação social",
+    "rationale": "A questão discute os espaços públicos como locais de diálogo, debates e visibilidade de oposições, enfatizando seu papel na construção da democracia por meio da participação social e da possibilidade de ajustes nas relações sociais e políticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 808,
+    "outputTokens": 71,
+    "estimatedCostUsd": 0.000437
+  }
+}

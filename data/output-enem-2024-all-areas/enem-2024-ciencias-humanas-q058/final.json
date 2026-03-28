@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q058",
+  "generatedAt": "2026-03-28T00:52:00.603Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 816,
+      "outputTokens": 873,
+      "estimatedCostUsd": 0.001723
+    },
+    "explainer": {
+      "inputTokens": 1580,
+      "outputTokens": 492,
+      "estimatedCostUsd": 0.001419
+    },
+    "reviewer": {
+      "inputTokens": 2998,
+      "outputTokens": 2444,
+      "estimatedCostUsd": 0.00511
+    },
+    "totalEstimatedCostUsd": 0.008252
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque reflete a ideia aristotélica de que a felicidade (eudaimonia) consiste na prática de ações virtuosas e no aperfeiçoamento moral das condutas humanas ao longo da vida, conforme descrito nos textos.",
+      "strategy": "Interpretar os textos para identificar a concepção aristotélica que relaciona felicidade, virtude e ação prática, reconhecendo que a ética de Aristóteles privilegia o desenvolvimento da virtude moral e o aperfeiçoamento da conduta na pólis.",
+      "steps": [
+        "Analisar o Texto I, que apresenta a felicidade ligada à excelência, entendida como tirar da própria natureza o que há de melhor através de conduta e comportamento.",
+        "Observar no Texto II a definição de eudaimonia como uma atividade da alma baseada na virtude moral, enfatizando que essa virtude se manifesta na deliberação e na prudência.",
+        "Reconhecer que, para Aristóteles, a prática virtuosa e a felicidade se concretizam por meio da vivência ética e do aperfeiçoamento da conduta humana no contexto social (a pólis).",
+        "Comparar as alternativas e identificar que a alternativa D corresponde a esse aperfeiçoamento das condutas humanas, enquanto as outras opções referem-se a conceitos não diretamente vinculados à prática da virtude aristotélica.",
+        "Concluir que a alternativa D é coerente com o pensamento aristotélico exposto nos textos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A ética aristotélica define a felicidade (eudaimonia) como a prática constante de ações virtuosas, que expressam a excelência de caráter e conduzem ao aperfeiçoamento moral dentro da vida em sociedade (a pólis). Isso significa que ser feliz é agir bem, desenvolvendo virtudes por meio da deliberação racional e da prudência ao longo da vida.",
+      "stepByStep": [
+        "Leia atentamente o Texto I, que relaciona felicidade à excelência, ou seja, extrair o melhor da própria natureza por meio de conduta e comportamento.",
+        "No Texto II, observe que eudaimonia é uma atividade da alma baseada na prática da virtude moral, fundamentada na deliberação e na prudência.",
+        "Compreenda que, para Aristóteles, a realização dessa virtude ocorre no contexto social, na pólis, por meio do aperfeiçoamento prático da conduta humana.",
+        "Analise as alternativas e identifique aquela que melhor expressa a ideia de praticar ações virtuosas e desenvolver moralmente o indivíduo na vida social.",
+        "Conclua que a alternativa D é a correta, pois corresponde ao conceito aristotélico de felicidade como resultado da prática ética na pólis."
+      ],
+      "commonPitfalls": [
+        "Confundir a concepção aristotélica de felicidade com ideias platônicas sobre essências imutáveis.",
+        "Reduzir a ética aristotélica à simples racionalidade voltada a princípios abstratos, desconsiderando a prática moral.",
+        "Pensar que habilidades retóricas ou técnicas de comunicação são responsáveis por alcançar a felicidade, quando na verdade são instrumentos separados da virtude moral.",
+        "Relacionar felicidade apenas ao conhecimento teórico ou científico, em vez do aperfeiçoamento da conduta prática e moral."
+      ],
+      "teachingTips": [
+        "Enfatize a distinção entre felicidade como estado psicológico e como atividade virtuosa, conforme Aristóteles.",
+        "Use exemplos da vida cotidiana para ilustrar como a prática constante de virtudes leva ao aprimoramento moral e à felicidade.",
+        "Estimule os alunos a relacionarem o conceito de pólis não apenas como um espaço físico, mas como contexto social para agir eticamente.",
+        "Explore comparações entre filosofias antigas para evidenciar as particularidades da ética aristotélica em relação a Platão.",
+        "Aborde a importância da deliberação racional e prudência como fundamentos para o desenvolvimento das virtudes na vida prática."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir a ética aristotélica com a teoria das formas platônica, associando felicidade à essência imutável.",
+        "misconceptionType": "Conceito filosófico incorreto",
+        "whyItLooksPlausible": "Pois Aristóteles e Platão são filósofos importantes e temas relacionados à essência podem ser confundidos.",
+        "whyItIsWrong": "Aristóteles rejeita a teoria das formas como causa principal da felicidade, focando no desenvolvimento da virtude na prática."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Achar que a felicidade depende do reconhecimento dos princípios racionais abstratos, confundindo com racionalismo puro.",
+        "misconceptionType": "Redução excessiva da ética a racionalismo abstrato",
+        "whyItLooksPlausible": "Porque Aristóteles valoriza a razão como central na ética e na deliberação moral.",
+        "whyItIsWrong": "A ética aristotélica foca no exercício da virtude na prática e no aperfeiçoamento da conduta, não só na identificação abstrata de princípios."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Achar que o desenvolvimento das técnicas retóricas conduz à felicidade pela habilidade em comunicação política.",
+        "misconceptionType": "Confusão entre retórica e ética",
+        "whyItLooksPlausible": "A retórica é importante na pólis e pode parecer instrumento para agir bem na sociedade.",
+        "whyItIsWrong": "A retórica é uma técnica, não um caminho para o aperfeiçoamento moral e virtude exigidos para a felicidade na ética aristotélica."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associar felicidade ao conhecimento das epistemes verdadeiras, confundindo com epistemologia ou ciência.",
+        "misconceptionType": "Confusão entre ética e teoria do conhecimento",
+        "whyItLooksPlausible": "Pois Aristóteles é importante na epistemologia e filosofia científica, podendo-se pensar que conhecimento leva à felicidade.",
+        "whyItIsWrong": "A ética aristotélica enfatiza ação e virtude moral, não apenas conhecimento teórico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de textos filosóficos",
+      "secondarySkills": [
+        "Conhecimento de filosofia antiga",
+        "Raciocínio crítico",
+        "Compreensão de conceitos éticos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão da ética aristotélica e distinção de conceitos filosóficos.",
+        "Não há imagens associadas à questão para auxílio visual.",
+        "O foco está na interpretação dos textos apresentados e associação correta das alternativas ao conceito de virtude e aperfeiçoamento da conduta."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧠",
+      "shortThemeTitle": "Ética Aristotélica e Eudaimonia",
+      "interpretationIntro": "A questão explora a concepção aristotélica de felicidade (eudaimonia) e sua relação com a prática da virtude moral no contexto social da pólis.",
+      "commandTerms": [
+        {
+          "term": "eudaimonia",
+          "explanation": "Felicidade entendida como atividade prática e excelência moral segundo Aristóteles."
+        },
+        {
+          "term": "virtude moral",
+          "explanation": "Disposição para agir de acordo com a excelência ética que guia a conduta correta."
+        },
+        {
+          "term": "pólis",
+          "explanation": "Contexto social em que se exerce a vida ética e o aperfeiçoamento moral."
+        }
+      ],
+      "whatTheQuestionAsks": "O comando pede que se identifique como a prática de ações virtuosas ocorre conforme a ética aristotélica e sua ligação com a vida na pólis.",
+      "strategyParagraph": "Para resolver a questão, deve-se interpretar os textos fornecidos, que articulam a ideia de felicidade com a virtude moral e a deliberação racional, e relacioná-los ao conceito aristotélico de aperfeiçoamento prático da conduta humana na sociedade. Em seguida, comparar cada alternativa com o pensamento aristotélico para identificar a correta.",
+      "reviewTable": [
+        {
+          "concept": "Eudaimonia",
+          "keyIdea": "Felicidade como atividade da alma baseada na virtude moral.",
+          "application": "Representa a prática constante de ações virtuosas na vida cotidiana."
+        },
+        {
+          "concept": "Virtude moral",
+          "keyIdea": "Disposição ligada à deliberação que orienta a conduta ética.",
+          "application": "Permite agir bem e alcançar a excelência pessoal na pólis."
+        },
+        {
+          "concept": "Pólis",
+          "keyIdea": "Espaço social onde ocorre a vida ética e o exercício da virtude.",
+          "application": "Contextualiza a prática virtuosa como aperfeiçoamento das condutas sociais."
+        }
+      ],
+      "theoryParagraphs": [
+        "Aristóteles entende a felicidade (eudaimonia) não como mero estado psicológico, mas como uma atividade contínua da alma que incorpora a prática da virtude moral ao longo da vida. Essa virtude exige desenvolvimento prático e racional, manifestando-se na deliberação e na prudência para agir corretamente.",
+        "A excelência, para Aristóteles, consiste em extrair da própria natureza o melhor em termos de desempenho moral e conduta ética. Assim, a virtude é uma disposição adquirida que se concretiza na prática, não um mero conhecimento teórico.",
+        "A pólis, ou cidade-estado, é o espaço social no qual se efetiva essa vida ética. A realização da virtude e, consequentemente, da felicidade, dá-se no convívio social e no aperfeiçoamento das ações humanas na comunidade."
+      ],
+      "resolutionParagraphs": [
+        "Os textos indicam que a felicidade está atrelada à excelência e à prática virtuosa, que são frutos do aprimoramento da conduta humana conforme a natureza de cada um (Texto I).",
+        "O Texto II reforça que a eudaimonia é atividade da alma com base na virtude moral e na prudência, evidenciando o caráter prático da felicidade na ética aristotélica.",
+        "Portanto, a prática de ações virtuosas ocorre na pólis, por meio do aperfeiçoamento das condutas humanas, isto é, na vida em sociedade orientada pela deliberação racional e prudente.",
+        "Ao analisar as alternativas, identifica-se que a alternativa D corresponde a essa compreensão, sendo assim a resposta correta."
+      ],
+      "puloDoGato": "Na ética aristotélica, felicidade é agir bem e desenvolver virtude na prática social, e não apenas reconhecer ideias ou habilidades técnicas.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Confunde a ética aristotélica com a teoria das formas de Platão, atribuindo à felicidade a essência imutável, o que não corresponde à prática da virtude conforme Aristóteles."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Reduz a felicidade ao reconhecimento racional de princípios abstratos, quando Aristóteles valoriza a deliberação e a prática moral efetiva."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Associa a felicidade ao domínio da retórica, que é uma técnica e não um princípio ético para o aperfeiçoamento moral na pólis."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Reflete corretamente a ideia aristotélica de que a felicidade se dá pela prática de ações virtuosas e pelo aperfeiçoamento moral na vida social."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Confunde a ética com epistemologia; o conhecimento das epistemes não garante a felicidade sem a prática moral."
+        }
+      ],
+      "questionCode": "CH_FILO_QUESTAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está coerente com o enunciado, o solver e o explainer, apresentando uma exposição clara e didática da questão. Todas as alternativas são devidamente analisadas, e a justificativa para a resposta correta está consistente com os textos e o conhecimento filosófico aristotélico. Não foram detectadas inconsistências ou erros relevantes.",
+      "issues": []
+    }
+  }
+}

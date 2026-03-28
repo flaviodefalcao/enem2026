@@ -1,0 +1,49 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:54:58.200Z",
+  "questionId": "enem-2024-q179",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir qual a maior diferença entre os pagamentos dos engenheiros, calculamos as horas trabalhadas por cada um, somamos para achar o total geral, determinamos o valor pago por hora e assim calculamos quanto cada engenheiro recebe. Em seguida, comparamos esses valores para encontrar a maior diferença.",
+      "stepByStep": [
+        "Calcular as horas totáis trabalhadas por cada engenheiro multiplicando os dias pelas horas diárias:",
+        "- Engenheiro I: 4 dias × 5,5 horas = 22 horas",
+        "- Engenheiro II: 5 dias × 4 horas = 20 horas",
+        "- Engenheiro III: 6 dias × 2,5 horas = 15 horas",
+        "Somar as horas dos três engenheiros para obter o total geral: 22 + 20 + 15 = 57 horas",
+        "Calcular o valor total destinado aos engenheiros: 40% de R$71.250 = R$28.500",
+        "Dividir esse valor pelo total de horas para obter o valor pago por hora: R$28.500 ÷ 57 ≈ R$500 por hora",
+        "Multiplicar o valor por hora pelas horas trabalhadas de cada engenheiro para saber quanto cada recebe:",
+        "- Engenheiro I: 22 × 500 = R$11.000",
+        "- Engenheiro II: 20 × 500 = R$10.000",
+        "- Engenheiro III: 15 × 500 = R$7.500",
+        "Calcular as diferenças entre os valores pagos para encontrar a maior diferença:",
+        "- Entre I e II: R$1.000",
+        "- Entre I e III: R$3.500",
+        "- Entre II e III: R$2.500",
+        "A maior diferença é R$3.500 entre os engenheiros I e III."
+      ],
+      "commonPitfalls": [
+        "Confundir qual diferença deve ser calculada, escolhendo a menor em vez da maior.",
+        "Não calcular corretamente as horas totais para cada engenheiro.",
+        "Esquecer de calcular o valor total destinado aos engenheiros antes de determinar o valor por hora.",
+        "Fazer erros de arredondamento que alteram os valores finais.",
+        "Confundir porcentagem do valor total com valores absolutos a pagar."
+      ],
+      "teachingTips": [
+        "Utilize exemplos com números menores para facilitar o entendimento do conceito de proporcionalidade.",
+        "Explique claramente o conceito de valor pago proporcional às horas trabalhadas.",
+        "Estimule os alunos a organizar os dados em tabelas para visualizarem melhor as informações.",
+        "Reforce a importância da leitura cuidadosa do enunciado para identificar quais valores devem ser usados.",
+        "Pratique exercícios que envolvam porcentagens e cálculo proporcional para consolidar o aprendizado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1493,
+    "outputTokens": 559,
+    "estimatedCostUsd": 0.001492
+  }
+}

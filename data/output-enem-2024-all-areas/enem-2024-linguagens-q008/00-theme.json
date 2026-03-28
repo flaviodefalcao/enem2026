@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:45:32.344Z",
+  "questionId": "enem-2024-linguagens-q008",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Multiculturalismo e identidade",
+    "rationale": "A questão aborda a evolução e adaptação cultural dos instrumentos musicais originários de Portugal e sua transformação em diferentes contextos culturais, enfatizando a diversidade artística e a identidade cultural vinculada às manifestações musicais de grupos sociais distintos, em consonância com a habilidade e competência apresentadas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1036,
+    "outputTokens": 83,
+    "estimatedCostUsd": 0.000547
+  }
+}

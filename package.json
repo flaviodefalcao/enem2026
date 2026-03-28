@@ -1,0 +1,39 @@
+{
+  "name": "enem-matematica-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "extract:enem2024": "python3 scripts/extract_enem_math_2024.py",
+    "enrich:enem2024": "python3 scripts/build_enem_2024_math_enriched.py",
+    "build:frontend-analytics": "python3 scripts/build_enem_2024_frontend_analytics.py",
+    "build:all-areas-analytics": "python3 scripts/build_enem_2024_all_areas_frontend_analytics.py",
+    "build:proof-summary": "python3 scripts/build_enem_2024_proof_summary.py",
+    "build:pipeline-input": "node scripts/build_questions_pipeline_input.js",
+    "build:pipeline-input:all-areas": "tsx src/enem-pipeline/build-all-areas-input.ts",
+    "pipeline:enem": "tsx src/enem-pipeline/runner.ts",
+    "pipeline:enem:latex": "tsx src/enem-pipeline/latex-runner.ts",
+    "pipeline:enem:all-areas": "tsx src/enem-pipeline/all-areas-runner.ts"
+  },
+  "dependencies": {
+    "ajv": "^8.18.0",
+    "dotenv": "^17.3.1",
+    "next": "^14.2.24",
+    "openai": "^6.33.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.1",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
+  }
+}

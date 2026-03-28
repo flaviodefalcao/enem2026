@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:03:58.581Z",
+  "questionId": "enem-2024-ciencias-humanas-q074",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta porque o Círio de Nazaré é uma festa tradicional e cultural que consiste em uma manifestação religiosa e social, reconhecida como patrimônio imaterial, que envolve práticas, representações, expressões e conhecimentos transmitidos por gerações. O texto enfatiza sua longevidade, importância cultural e caráter devocional, indicando que o reconhecimento enquanto patrimônio histórico se baseia no registro de bens culturais imateriais.",
+      "strategy": "Compreender o conceito de patrimônio histórico, em especial a distinção entre patrimônio material (edificações, sítios arqueológicos) e patrimônio imaterial (festas, rituais, práticas culturais). Analisar o texto para identificar a natureza da festa do Círio de Nazaré e relacionar com as alternativas apresentadas para selecionar a mais adequada.",
+      "steps": [
+        "Ler o texto para entender a natureza da festa do Círio de Nazaré: uma festa religiosa, cultural, tradicional, com raízes históricas e importância social.",
+        "Reconhecer que é uma manifestação cultural imaterial, pois consiste em práticas e rituais, e não em um bem material como sítios arqueológicos ou edificações.",
+        "Verificar as alternativas para identificar qual delas melhor corresponde ao reconhecimento do patrimônio referido.",
+        "Descartar alternativas que tratam de tombamento de sítios arqueológicos (C), ou políticas públicas locais (A), expressões sacras regionais (D) ou manifestações oficiais cristãs (E), pois são menos precisas ou incorretas para o caso do Círio como patrimônio imaterial.",
+        "Concluir que o reconhecimento é pelo registro de bens culturais imateriais (B)."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado com referência bibliográfica que confirma o contexto histórico-cultural do Círio de Nazaré; porém não apresenta dados quantitativos ou gráficos."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer correta por mencionar políticas públicas, que são fundamentais para a preservação cultural.",
+        "misconceptionType": "Confusão entre instrumento de preservação e natureza do patrimônio.",
+        "whyItLooksPlausible": "Políticas públicas realmente contribuem para reconhecimento e preservação do patrimônio.",
+        "whyItIsWrong": "O enunciado não indica que o reconhecimento do patrimônio se deu somente por políticas locais, mas pelo registro cultural imaterial."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundem patrimônio imaterial com patrimônio arqueológico, pensando que é um bem material a ser tombado.",
+        "misconceptionType": "Confusão entre patrimônio material e imaterial.",
+        "whyItLooksPlausible": "O tombamento é uma forma comum de reconhecimento patrimonial.",
+        "whyItIsWrong": "O Círio é uma festa, uma manifestação cultural imaterial, não um sítio arqueológico."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A festa tem caráter sacro e regional, então a alternativa poderia parecer apropriada.",
+        "misconceptionType": "Generalização imprecisa da natureza do patrimônio.",
+        "whyItLooksPlausible": "Combina com o aspecto religioso e regional da festa descrita.",
+        "whyItIsWrong": "A expressão \"salvaguarda de elementos sacros\" é restrita e não cobre a dimensão cultural imaterial ampla do Círio."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensam que o reconhecimento é por se tratar de manifestação cristã oficial.",
+        "misconceptionType": "Foco exclusivo em caráter oficial religioso, ignorando a dimensão cultural e imaterial.",
+        "whyItLooksPlausible": "O Círio tem origem e caráter cristão, sistema oficial da Igreja Católica.",
+        "whyItIsWrong": "O reconhecimento patrimonial não é feito necessariamente por categorização oficial religiosa, mas pelo valor cultural e imaterial."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e conhecimento em Patrimônio Cultural",
+      "secondarySkills": [
+        "Análise crítica",
+        "Conhecimento sobre patrimônio material e imaterial"
+      ],
+      "cognitiveDemand": "média",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão do conceito de patrimônio cultural imaterial, elemento chave para o reconhecimento do Círio de Nazaré.",
+        "A imagem usada é a referência bibliográfica que contextualiza o Círio, sem dados gráficos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 816,
+    "outputTokens": 892,
+    "estimatedCostUsd": 0.001754
+  }
+}

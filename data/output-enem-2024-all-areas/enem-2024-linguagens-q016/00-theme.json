@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:08:14.983Z",
+  "questionId": "enem-2024-linguagens-q016",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Multiculturalismo e identidade",
+    "rationale": "A questão aborda a produção artística afro-brasileira à luz da multiculturalidade, destacando a relação entre as vivências pessoais dos artistas e a cultura negra, o que se relaciona diretamente ao estudo da arte como expressão cultural e identidade, enquadrando-se no tema Artes e produção cultural, subtema Multiculturalismo e identidade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1018,
+    "outputTokens": 93,
+    "estimatedCostUsd": 0.000556
+  }
+}

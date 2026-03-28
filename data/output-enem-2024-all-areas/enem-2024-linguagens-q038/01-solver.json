@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:36:20.173Z",
+  "questionId": "enem-2024-linguagens-q038",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "O poema apresenta a ideia de deslocamento como uma metáfora para a tentativa das pessoas de fugirem de sua própria identidade, o que é evidenciado pela expressão final 'como se pudessem chegar a algum lugar onde elas mesmas não estivessem'.",
+      "strategy": "Analisar o poema destacando o uso da metáfora do deslocamento para inferir o significado simbólico subjacente.",
+      "steps": [
+        "Ler o poema atentamente, observando termos como 'chegam e se vão', 'se encontram', 'se despedem', sugerindo movimento constante.",
+        "Observar a linha final que sugere a impossibilidade de se afastar de si mesmo: 'como se pudessem chegar a algum lugar onde elas mesmas não estivessem'.",
+        "Entender que o deslocamento metaforiza uma tentativa de fuga da própria identidade.",
+        "Comparar as alternativas com essa interpretação para escolher a que melhor corresponde ao sentido do poema."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto do poema e do enunciado na imagem fornecida."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Assumir que o movimento indica busca por novos encontros, uma interpretação literal do deslocamento.",
+        "misconceptionType": "Interpretação literal da metáfora",
+        "whyItLooksPlausible": "O poema fala da chegada e partida, o que pode sugerir encontros.",
+        "whyItIsWrong": "O foco do poema é o deslocamento interno, a fuga de si, e não a busca externa por pessoas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que o deslocamento indica exploração de lugares desconhecidos.",
+        "misconceptionType": "Interpretação literal da metáfora",
+        "whyItLooksPlausible": "O movimento constante pode sugerir exploração.",
+        "whyItIsWrong": "O poema destaca um deslocamento sem objetivo real, uma impossibilidade de encontrar um lugar diferente de si mesmo."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Considerar que o deslocamento reflete experiências novas e incomuns.",
+        "misconceptionType": "Interpretação superficial da metáfora",
+        "whyItLooksPlausible": "O deslocamento pode simbolizar mudança ou experiência.",
+        "whyItIsWrong": "O texto não enfatiza a novidade ou ineditismo, mas a busca infrutífera de se afastar de sua própria identidade."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Relativizar que o deslocamento leva ao desaparecimento social.",
+        "misconceptionType": "Interpretação exagerada da metáfora",
+        "whyItLooksPlausible": "As despedidas podem sugerir um afastamento social.",
+        "whyItIsWrong": "O poema não menciona desaparecimento, mas uma tentativa interna, existencial, de não ser o que se é."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto literário",
+      "secondarySkills": [
+        "Análise de metáfora",
+        "Compreensão de poesia contemporânea"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão profunda da metáfora de deslocamento como fuga da identidade.",
+        "Necessita interpretar indícios textuais que apontam para o significado simbólico do poema."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 875,
+    "outputTokens": 672,
+    "estimatedCostUsd": 0.001425
+  }
+}

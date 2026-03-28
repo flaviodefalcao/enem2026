@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:57:12.969Z",
+  "questionId": "enem-2024-ciencias-humanas-q066",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque a introdução das pílulas anticoncepcionais desencadeou um debate público mais amplo sobre o planejamento familiar, conforme sugerido pelo texto que relaciona o avanço tecnológico aos processos sociais, incluindo discussões neomalthusianas e modernização.",
+      "strategy": "Análise do texto fornecido para identificar o impacto social relacionado à difusão da pílula anticoncepcional no Brasil, com ênfase na discussão pública e nas transformações sociais. Além disso, comparação das alternativas para verificar a coerência com o texto.",
+      "steps": [
+        "Ler cuidadosamente o texto para compreender o contexto da chegada das pílulas anticoncepcionais no Brasil na década de 1960.",
+        "Identificar os efeitos sociais associados ao avanço tecnológico da pílula conforme indicados no texto e no conhecimento histórico-social.",
+        "Analisar cada alternativa confrontando seu conteúdo com as informações do texto e o contexto histórico.",
+        "Descartar as alternativas que não condizem ou que apresentam contradições com o texto.",
+        "Confirmar que a alternativa C, que fala da ampliação do debate público sobre planejamento familiar, é a mais adequada e coerente com o texto.",
+        "Finalizar com a escolha da alternativa correta C."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que a popularização da pílula diminuiu a intervenção médica, levando a pensar no afastamento da autoridade médica na regulação da fecundidade.",
+        "misconceptionType": "Compreensão incorreta do papel da medicina na contracepção",
+        "whyItLooksPlausible": "A entrada da pílula como método de contracepção pode sugerir autonomia e afastamento da regulação médica.",
+        "whyItIsWrong": "Na verdade, a regulamentação e orientação médica sobre o uso da pílula intensificaram-se, mantendo ou até ampliando o papel da medicina."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Poderia-se pensar que a mídia estatal teria papel central para superar discursos moralistas, numa tentativa de secularização.",
+        "misconceptionType": "Superestimação da força da mídia estatal na época",
+        "whyItLooksPlausible": "A mídia pode influenciar a mudança de moralidade pública, e a alternativa sugere essa ação direta.",
+        "whyItIsWrong": "O texto não menciona mídia estatal nem mostra que esta tenha superado o discurso moral, além de a influência ter sido mais diversificada e não exclusivamente estatal."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A expansão das farmacêuticas pode levar à ideia da centralização da pesquisa pelo sistema privado de saúde.",
+        "misconceptionType": "Generalização indevida das relações entre indústria farmacêutica e sistema de saúde",
+        "whyItLooksPlausible": "O boom da indústria farmacêutica multinacional sugere influência privada no avanço científico.",
+        "whyItIsWrong": "O texto fala da difusão social e demográfica, não da centralização da pesquisa, que não foi determinada pelo sistema privado exclusivamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode-se pensar que as doutrinas religiosas ficaram mais rígidas diante das mudanças relativas à contracepção.",
+        "misconceptionType": "Interpretação simplista das reações religiosas",
+        "whyItLooksPlausible": "Mudanças sociais geralmente provocam reações conservadoras religiosas.",
+        "whyItIsWrong": "O texto enfatiza o debate público e discussão sobre planejamento e não aponta o enrijecimento das doutrinas religiosas como efeito social predominante."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de textos históricos e sociais",
+      "secondarySkills": [
+        "Análise crítica de impacto social de tecnologia",
+        "Conhecimento histórico-social do Brasil e do mundo na década de 1960"
+      ],
+      "cognitiveDemand": "Médio - exige interpretação e aplicação de conhecimentos históricos e sociais",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto é histórico-social e requer conhecimento contextual da época.",
+        "Não há imagens associadas para análise.",
+        "Questão avalia compreensão de impacto social de inovação tecnológica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 671,
+    "outputTokens": 845,
+    "estimatedCostUsd": 0.00162
+  }
+}

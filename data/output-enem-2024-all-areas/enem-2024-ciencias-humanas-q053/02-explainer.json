@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:47:45.676Z",
+  "questionId": "enem-2024-ciencias-humanas-q053",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A diferença na velocidade e duração das inundações bruscas e graduais está relacionada à declividade do relevo local, que determina como a água escoa no terreno.",
+      "stepByStep": [
+        "Observe o gráfico que mostra que a inundação brusca ocorre com alta velocidade, mas por tempo curto.",
+        "Note que a inundação gradual tem uma velocidade menor e dura por mais tempo.",
+        "Entenda que o tempo e a velocidade da inundação são influenciados pelo relevo da região.",
+        "Em terrenos com relevo íngreme (declividade alta), a água escoa rapidamente, causando inundações rápidas e com curta duração (inundação brusca).",
+        "Em terrenos com relevo plano ou pouco inclinado, a água escoa lentamente, resultando em inundações que evoluem de forma gradual e podem durar mais tempo.",
+        "Reconheça que as outras opções são fatores que não explicam diretamente a relação entre velocidade e duração das inundações mostrada no gráfico."
+      ],
+      "commonPitfalls": [
+        "Confundir fatores climáticos, como variabilidade solar e temperatura, com fatores geomorfológicos que influenciam o escoamento da água.",
+        "Associar mudanças tectônicas de longa escala temporal com características de inundações imediatas e de curto prazo.",
+        "Pensar que a turbidez da água afeta diretamente a velocidade e duração da inundação, quando ela está mais relacionada à qualidade da água do que ao comportamento hidrológico."
+      ],
+      "teachingTips": [
+        "Utilize exemplos práticos de enchentes em diferentes tipos de relevo para conectar a teoria à realidade dos alunos.",
+        "Explore o gráfico com os alunos para que desenvolvam a habilidade de interpretar dados visuais e relacioná-los ao conhecimento geográfico.",
+        "Promova discussões que diferenciem fatores climáticos e geográficos, destacando seus efeitos distintos sobre fenômenos naturais.",
+        "Incentive a busca por evidências no gráfico que sustentem a resposta correta, reforçando o método científico e a análise crítica.",
+        "Use mapas de relevo para ilustrar como a topografia influencia o escoamento da água e, consequentemente, o tipo de inundação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1727,
+    "outputTokens": 437,
+    "estimatedCostUsd": 0.00139
+  }
+}

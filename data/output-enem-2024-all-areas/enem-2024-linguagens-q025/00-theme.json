@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:24:39.269Z",
+  "questionId": "enem-2024-linguagens-q025",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Artes visuais",
+    "rationale": "A questão aborda uma obra de arte visual do pintor Eliseu Visconti, pedindo a identificação da corrente artística refletida na pintura. A habilidade requer análise das produções artísticas para compreender culturas e estéticas, o que se relaciona diretamente ao estudo das artes visuais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1959,
+    "outputTokens": 83,
+    "estimatedCostUsd": 0.000916
+  }
+}

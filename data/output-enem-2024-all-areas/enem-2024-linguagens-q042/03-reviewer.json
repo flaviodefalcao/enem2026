@@ -1,0 +1,176 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:39:31.942Z",
+  "questionId": "enem-2024-linguagens-q042",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta porque o texto apresenta linguagem expressiva típica poética, mesmo contendo marcas formais de carta e receita.",
+        "strategy": "Analisar as características do texto para identificar qual atributo define o texto como poema, diferenciando-o das formas de carta e receita.",
+        "steps": [
+          "Identificar que o texto possui estruturas típicas de carta e receita, mas é classificado como poema.",
+          "Reconhecer que a linguagem expressiva — ritmo, figuras de linguagem, musicalidade — é característica essencial da poesia.",
+          "Analisar as demais alternativas e perceber que correspondem a elementos formais de carta ou receita, e não definem a natureza poética do texto.",
+          "Concluir que a característica decisiva que define o texto como poema é a linguagem expressiva.",
+          "Selecionar a alternativa que aponta essa característica."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto, apesar de apresentar formato híbrido com elementos de carta e receita, é reconhecido como poema devido à sua linguagem expressiva, que envolve ritmo, musicalidade e figuras de linguagem propias da poesia.",
+        "stepByStep": [
+          "Note o destinatário no texto — típica marca de carta.",
+          "Observe a descrição dos ingredientes e procedimentos — marca de receita.",
+          "Identifique a presença de ritmo, rimas e figuras de linguagem, sinais claros de linguagem poética.",
+          "Entenda que a característica que fundamenta a classificação como poema é essa linguagem expressiva, e não as marcas formais de outros gêneros.",
+          "Conclua que a linguagem expressiva é a resposta correta."
+        ],
+        "commonPitfalls": [
+          "Confundir a nomeação do destinatário com definição do texto como carta, ignorando que poemas podem apresentá-la.",
+          "Assumir que a intimidade textual define exclusivamente um texto como carta, não reconhecendo que a poesia também é íntima.",
+          "Interpretar os elementos da receita como definidores do gênero, desconsiderando a linguagem poética.",
+          "Pensar que a presença de múltiplos gêneros no texto impede classificá-lo como poema."
+        ],
+        "teachingTips": [
+          "Explicar que gêneros textuais podem mesclar suas características, sendo a linguagem o critério central para classificação.",
+          "Apresentar exemplos de linguagem expressiva para iluminar a identificação da poesia.",
+          "Trabalhar a análise crítica, distinguindo formatos e elementos essenciais do texto e sua função comunicativa.",
+          "Usar o poeminha da feijoada para mostrar flexibilidade e riqueza dos gêneros textuais."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confusão entre a nomeação do destinatário como característica definidora do poema.",
+          "misconceptionType": "Confusão entre forma e gênero textual.",
+          "whyItLooksPlausible": "O texto menciona a amiga Helena, característica formal de carta.",
+          "whyItIsWrong": "Nomear destinatário é marca de carta, não característica essencial para definir poema."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Confundir a intimidade do texto com definição do gênero poético.",
+          "misconceptionType": "Mistura de registro pessoal com gênero textual.",
+          "whyItLooksPlausible": "Texto intimista é também comum em poemas.",
+          "whyItIsWrong": "Intimidade é presente também em cartas e outras formas; não define o poema."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Assumir que descrição de procedimentos caracteriza poema.",
+          "misconceptionType": "Confusão entre conteúdo e gênero textual.",
+          "whyItLooksPlausible": "Texto fala dos passos da receita, lembrando receita culinária.",
+          "whyItIsWrong": "Descrição de receita define o gênero receita, não poema."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Associar ingredientes com receita, excluindo gênero poético.",
+          "misconceptionType": "Focalizar aspecto superficial para definir o gênero.",
+          "whyItLooksPlausible": "Ingrediente é típico de receita.",
+          "whyItIsWrong": "Presença de ingredientes não exclui a linguagem expressiva que define o poema."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise de gênero textual",
+        "secondarySkills": [
+          "Interpretação textual",
+          "Identificação de linguagem poética"
+        ],
+        "cognitiveDemand": "Compreensão",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Texto híbrido: carta, receita e poema.",
+          "Focar na característica definidora do gênero poético.",
+          "Exige conhecimento de gêneros textuais e suas características."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Identificação da linguagem poética",
+        "interpretationIntro": "A questão solicita que se identifique a característica que confere ao texto a qualificação de poema, apesar de conter marcas de outros gêneros textuais, como carta e receita.",
+        "commandTerms": [
+          {
+            "term": "Definir",
+            "explanation": "Determinar a característica que classifica o texto como poema."
+          }
+        ],
+        "whatTheQuestionAsks": "Indica qual atributo do texto é o que o define como poema, não apenas como uma carta ou receita.",
+        "strategyParagraph": "Para responder, deve-se analisar as marcas presentes no texto — nomeação, intimidade, ingredientes, descrição de processo — e identificar qual delas é essencial e determinante da classificação do texto como poema. É crucial distinguir formato (carta e receita) e essência (linguagem expressiva).",
+        "reviewTable": [
+          {
+            "concept": "Gênero textual",
+            "keyIdea": "Identificar elementos formais e essenciais que definem um gênero",
+            "application": "Nomeação do destinatário caracteriza carta, não poema."
+          },
+          {
+            "concept": "Linguagem expressiva",
+            "keyIdea": "Uso de ritmo, rima e figuras de linguagem define poesia",
+            "application": "Texto usa linguagem expressiva que o classifica como poema."
+          },
+          {
+            "concept": "Texto híbrido",
+            "keyIdea": "Textos podem ter características múltiplas sem perder sua natureza central",
+            "application": "Presença de ingredientes e procedimentos não exclui a poesia."
+          }
+        ],
+        "theoryParagraphs": [
+          "O gênero textual poema se caracteriza predominantemente por uma linguagem expressiva, com frequência permeada por ritmo, musicalidade, imagens e figuras de linguagem, que vão além da mera comunicação direta ou instrução.",
+          "Embora um texto possa conter marcas formais de outros gêneros, como cartas (nomeação do interlocutor, comunicação pessoal) ou receitas (listagem de ingredientes e procedimentos), a presença da linguagem expressiva poética é o que define a classificação como poema.",
+          "A análise textual no ENEM muitas vezes requer identificar a característica central que confere ao texto sua natureza predominante, reconhecendo também a possibilidade de mesclas e híbridos."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, observa-se que o texto possui elementos típicos de carta, como o início direcionado à 'amiga Helena Sangirardi', o que poderia levar a classificá-lo como carta.",
+          "Também estão presentes ingredientes e descrição do preparo, marcas claras do gênero receita culinária.",
+          "No entanto, essas características são apenas formais e parciais. O que define o texto como poema é a sua linguagem expressiva, marcada por ritmo, musicalidade e uso de figuras de linguagem, conferindo-lhe um caráter poético.",
+          "Portanto, a alternativa que destaca a linguagem expressiva como atributo definidor do texto como poema é a correta.",
+          "Assim, a alternativa D é a resposta certa, indicando a característica central que diferencia o texto de um simples formato de carta ou receita."
+        ],
+        "puloDoGato": "Em textos híbridos, foque na linguagem — ela define o gênero predominante.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Nomear o destinatário (amiga Helena) caracteriza uma carta, não define o texto como poema."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Intimidade no texto ocorre tanto em cartas quanto em poemas, não é definidora do gênero poético."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Descrição dos procedimentos é característica de receita, não de poema."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "A linguagem expressiva, com ritmo e figuras de linguagem, é o que efetivamente define o texto como poema."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A presença de ingredientes sugere receita, mas não define o texto como poema; a linguagem expressiva prevalece."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LITERATURA_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solver e explainer estão coerentes entre si e com a resolução oficial. A resposta correta está bem fundamentada na identificação da linguagem expressiva como característica definidora do poema. Não foram identificados problemas graves.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2760,
+    "outputTokens": 1776,
+    "estimatedCostUsd": 0.003946
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:37:56.972Z",
+  "questionId": "enem-2024-linguagens-q040",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão evidencia como o festival folclórico de Parintins incorpora elementos típicos do esporte, como rivalidade, torcidas, títulos e músicas de grito de guerra, mostrando uma aproximação entre a manifestação cultural e a competitividade esportiva.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique os elementos que indicam competição, como os 23º e 31º títulos dos bois.",
+        "Observe a presença de torcidas e músicas que funcionam como gritos de guerra, características comuns em competições esportivas.",
+        "Relacione a ideia de rivalidade e torcida do festival com o contexto esportivo, reconhecendo a aproximação entre eles.",
+        "Analise as alternativas e escolha aquela que reflete essa relação entre o folclore e o esporte, que é a alternativa D."
+      ],
+      "commonPitfalls": [
+        "Concentrar-se apenas na localização ou no local do evento (Bumbódromo, Parintins), deixando de perceber o foco na rivalidade e competitividade.",
+        "Interpretar a narrativa como uma simples experiência turística, sem identificar a relação com a cultura esportiva.",
+        "Entender que a questão fala apenas da interação social após o evento, não da rivalidade competitiva.",
+        "Confundir o termo “garanchoso” como indicando composição musical, quando na verdade é uma mistura das torcidas."
+      ],
+      "teachingTips": [
+        "Estimule a análise de textos que fazem comparações implícitas entre diferentes áreas, como cultura e esporte.",
+        "Trabalhe com os alunos os conceitos de rivalidade, torcida e títulos para identificar metáforas em textos.",
+        "Peça que os estudantes identifiquem palavras-chave que caracterizam as diferentes dimensões culturais presentes no texto.",
+        "Use exemplos de manifestações culturais que envolvam competições e rivalidades para exemplificar a relação entre cultura popular e esporte."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1477,
+    "outputTokens": 372,
+    "estimatedCostUsd": 0.001186
+  }
+}

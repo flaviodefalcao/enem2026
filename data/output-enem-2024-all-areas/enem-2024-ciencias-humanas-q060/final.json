@@ -1,0 +1,192 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q060",
+  "generatedAt": "2026-03-28T00:53:43.038Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 668,
+      "outputTokens": 823,
+      "estimatedCostUsd": 0.001584
+    },
+    "explainer": {
+      "inputTokens": 1356,
+      "outputTokens": 447,
+      "estimatedCostUsd": 0.001258
+    },
+    "reviewer": {
+      "inputTokens": 2733,
+      "outputTokens": 2159,
+      "estimatedCostUsd": 0.004548
+    },
+    "totalEstimatedCostUsd": 0.00739
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta porque o texto enfatiza que a nova racionalidade produtiva está ancorada numa gestão territorial que valoriza os valores e as decisões locais, evidenciado pela experiência dos seringueiros com a criação da reserva extrativista, que promove um modo de produção sustentável e autônomo.",
+      "strategy": "Interpretar o texto para identificar o conceito central da nova racionalidade produtiva focada na gestão territorial local e comparar com as alternativas para escolher a que melhor representa essa ideia.",
+      "steps": [
+        "Ler o texto atentamente para captar a proposta da nova racionalidade produtiva baseada em gestão territorial sustentável.",
+        "Observar a experiência dos seringueiros e o conceito de reserva extrativista, que indica práticas locais e decisões comunitárias.",
+        "Identificar que o texto destaca territórios produtivos com produtividade ecológica, indo além da subsistência.",
+        "Comparar as alternativas com essas informações, eliminando aquelas que priorizam normas, pressões ou demandas externas.",
+        "Selecionar a alternativa B, que enfatiza os valores e decisões locais como base da nova racionalidade produtiva."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A questão trata de um novo modo de produzir que valoriza a gestão local dos territórios, exemplificada pela experiência dos seringueiros e a criação das reservas extrativistas, que aliam sustentabilidade, autonomia comunitária e bem-estar social.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender a proposta da nova racionalidade produtiva.",
+        "Note a referência à experiência dos seringueiros e à criação das reservas extrativistas, marcadas por práticas e decisões locais.",
+        "Observe que o texto valoriza a produtividade ecológica e a harmonia com a natureza para além da subsistência.",
+        "Analise as alternativas buscando aquela que destaca valores e decisões locais na gestão territorial.",
+        "Descarte alternativas que mencionam normas externas, pressões regionais ou nacionais.",
+        "Escolha a alternativa que conecta valores e decisões fundados na comunidade local."
+      ],
+      "commonPitfalls": [
+        "Confundir gestão local com influências ou normativas regionais ou globais.",
+        "Focar só nos aspectos econômicos nacionais, desconsiderando o socioambiental local.",
+        "Assumir que a sustentabilidade depende exclusivamente de regras globais.",
+        "Interpretar que a valorização das tradições é imposta por forças globais.",
+        "Não perceber que o texto aponta para inovações comunitárias em modos de produção sustentável."
+      ],
+      "teachingTips": [
+        "Reforce a importância de identificar palavras-chave do texto, como 'luta social', 'reserva extrativista', 'decisões locais' e 'produtividade ecológica'.",
+        "Estimule debates sobre gestão territorial, autonomia e sustentabilidade.",
+        "Utilize exemplos reais, como a reserva extrativista, para conectar teoria e prática.",
+        "Destaque a diferença entre regulações externas e construção de valores locais.",
+        "Incentive análise crítica das alternativas alinhadas ao texto antes da escolha."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir gestão territorial baseada em valores locais com uma integração motivada por pressões regionais.",
+        "misconceptionType": "Generalização incorreta do contexto regional.",
+        "whyItLooksPlausible": "O texto menciona lutas sociais e contextos regionais, levando a imaginar pressões regionais influenciando a produção.",
+        "whyItIsWrong": "O texto enfatiza autonomia e decisões locais, não pressões regionais predominantes."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que a produção é guiada por preços e demandas nacionais, focando na economia nacional.",
+        "misconceptionType": "Focalização equivocada na dimensão econômica nacional.",
+        "whyItLooksPlausible": "Produção e comercialização muitas vezes relacionam-se ao mercado nacional.",
+        "whyItIsWrong": "O texto destaca práticas comunitárias e territórios produtivos locais, não preços e demandas nacionais."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Achar que a gestão sustentável depende exclusivamente de normas, regras e instituições mundiais.",
+        "misconceptionType": "Confusão entre regulamentação internacional e gestão local.",
+        "whyItLooksPlausible": "O discurso sustentável é frequentemente associado a normas globais.",
+        "whyItIsWrong": "O texto foca numa experiência local e autônoma, sem ênfase em normas globais."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretar a valorização das tradições como resultado de determinações globais, confundindo globalização com raízes culturais locais.",
+        "misconceptionType": "Confusão sobre a direção da influência cultural e produtiva.",
+        "whyItLooksPlausible": "O texto fala em reapropriação cultural, possível confusão com processos globais.",
+        "whyItIsWrong": "O texto mostra valorização com autonomia local, não por determinações externas globais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Raciocínio contextualizado"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreender a relação entre lutas sociais, sustentabilidade e gestão territorial sustentável a partir da leitura.",
+        "Requer distinção entre conceitos locais e influências externas na produção e gestão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🌱",
+      "shortThemeTitle": "Gestão Territorial e Nova Racionalidade Produtiva Sustentável",
+      "interpretationIntro": "O texto propõe a compreensão de uma nova racionalidade produtiva expressa por experiências sociais que valorizam a gestão territorial sustentável e autônoma.",
+      "commandTerms": [
+        {
+          "term": "Racionalidade produtiva",
+          "explanation": "Forma de organizar a produção que pode contemplar aspectos econômicos, sociais e ambientais."
+        },
+        {
+          "term": "Gestão territorial",
+          "explanation": "Condução das atividades e decisões sobre o uso dos territórios por comunidades ou grupos sociais."
+        },
+        {
+          "term": "Reserva extrativista",
+          "explanation": "Território protegido onde comunidades tradicionais desenvolvem atividades sustentáveis de extração."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão busca identificar em que fundamento se baseia a nova racionalidade produtiva apresentada pelo texto, especialmente na gestão territorial e sua relação com o modo de produção sustentável exemplificado pelos seringueiros.",
+      "strategyParagraph": "O caminho para a resposta está em interpretar o texto atentamente para captar a ideia principal da nova racionalidade produtiva voltada à gestão local e sustentável, reconhecendo a experiência dos seringueiros e o conceito de reserva extrativista, e confrontar as alternativas com essas informações para escolher aquela que melhor representa o fundamento da gestão descrita.",
+      "reviewTable": [
+        {
+          "concept": "Racionalidade produtiva sustentável",
+          "keyIdea": "Nova forma de produção que alia sustentabilidade e bem-estar social",
+          "application": "Ver no texto a passagem sobre o modo de produção que permite viver bem em harmonia com a natureza."
+        },
+        {
+          "concept": "Gestão territorial local",
+          "keyIdea": "Decisões e valores fundamentados na comunidade local",
+          "application": "O texto destaca a experiência dos seringueiros com as reservas extrativistas, exemplo de gestão autônoma."
+        },
+        {
+          "concept": "Reserva extrativista",
+          "keyIdea": "Território produtivo que potencializa a produtividade ecológica",
+          "application": "Referência direta no texto como inovação produtiva e social dos seringueiros."
+        }
+      ],
+      "theoryParagraphs": [
+        "A gestão territorial fundamentada em valores e decisões locais privilegia a autonomia das comunidades, respeitando saberes e práticas tradicionais que garantem a sustentabilidade ambiental e social.",
+        "A racionalidade produtiva sustentável rompe com modelos exclusivamente econômicos e centralizados, valorizando a produtividade ecológica e a coexistência harmoniosa com os ecossistemas locais.",
+        "Experiências como as reservas extrativistas representam referências concretas de como lutas sociais podem resultar em novos modos de produção que conciliam bem-estar das comunidades e preservação da natureza."
+      ],
+      "resolutionParagraphs": [
+        "O texto expõe uma nova racionalidade produtiva que emerge de lutas sociais e que valoriza a gestão territorial baseada em práticas locais. Observa-se que os seringueiros tiveram papel chave, inventando o conceito de reserva extrativista, sinalizando uma produção não apenas para subsistência, mas com produtividade ecológica e autonomia.",
+        "Analisando as alternativas, vê-se que a que melhor se alinha ao texto é a B, pois reforça que a gestão se baseia na conexão de valores e decisões localmente fundamentados. As outras alternativas, ao focarem em pressões regionais, demandas nacionais, normas globalizantes ou determinações globais, não refletem o caráter local e autônomo evidenciado no texto.",
+        "Assim, a alternativa B expressa com precisão o fundamento da nova racionalidade produtiva descrita: gestão territorial baseada em valores e decisões da própria comunidade, que sustentam um modo múltiplo de viver e produzir em harmonia com a natureza."
+      ],
+      "puloDoGato": "A nova racionalidade produtiva nasce da gestão local e autônoma, onde os próprios territórios e comunidades definem seus valores e modos de produção, não de imposições externas.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Fala em pressões regionais, mas o texto enfatiza autonomia e decisões locais, não pressões externas."
+        },
+        {
+          "option": "B",
+          "isCorrect": true,
+          "explanation": "Correta pois destaca a gestão territorial baseada em valores e decisões locais, alinhada à experiência dos seringueiros e à criação das reservas extrativistas."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Foca na produção guiada por preços nacionais, o que não condiz com o enfoque local e sustentável do texto."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Associa sustentabilidade a normas e instituições mundiais, enquanto o texto destaca experiência local autônoma."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Confunde valorização de tradições com determinações globais, sendo o texto claro na valorização da autonomia local."
+        }
+      ],
+      "questionCode": "CH_GESTAO_TERRITORIAL_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução técnica, a explicação didática e o campo oficialResolution estão coerentes entre si e com o enunciado fornecido. O tratamento da questão é claro e didático, respeitando o conteúdo e o contexto do texto-base, com justificativas adequadas para a alternativa correta e explicações para as incorretas. Não há contradições ou lacunas relevantes.",
+      "issues": []
+    }
+  }
+}

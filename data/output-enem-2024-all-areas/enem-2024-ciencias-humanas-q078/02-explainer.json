@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:08:30.356Z",
+  "questionId": "enem-2024-ciencias-humanas-q078",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A \"Regra de Ouro\", que diz \"Trate os outros como gostaria de ser tratado\", reflete o princípio do imperativo categórico de Kant, que orienta agir segundo regras que poderiam ser adotadas por todos universalmente, ou seja, agir conforme uma máxima que se possa tornar lei geral.",
+      "stepByStep": [
+        "Leia o enunciado atentamente para identificar que ele apresenta um princípio moral universal: a Regra de Ouro.",
+        "Reconheça que essa regra indica que devemos agir pensando se nossa ação poderia valer para todas as pessoas, em todas as situações.",
+        "Associe essa ideia ao imperativo categórico de Kant, que propõe agir somente segundo máximas que possam ser universalizadas.",
+        "Analise as alternativas do teste, buscando aquela que traduz essa universalização da ação ética.",
+        "Verifique que a alternativa B é a que corresponde ao imperativo categórico e, portanto, à Regra de Ouro apresentada no texto."
+      ],
+      "commonPitfalls": [
+        "Confundir a regra de ouro com uma ética baseada apenas nas consequências das ações (ética teleológica ou utilitarista).",
+        "Achar que o princípio depende do resultado ou da satisfação pessoal, enquanto ele é fundamentado na ideia de universalização do dever.",
+        "Não reconhecer o contexto filosófico e tentarem associar a regra a conceitos que soam similares, mas são diferentes, como raciocínio consequencialista.",
+        "Desconhecer a terminologia filosófica correta e descartar o imperativo categórico, que é o fundamento central da Regra de Ouro."
+      ],
+      "teachingTips": [
+        "Apresente a Regra de Ouro em exemplos práticos do cotidiano para facilitar a compreensão.",
+        "Explique as diferenças entre ética deontológica (como o imperativo categórico) e ética teleológica/consequencialista (como o utilitarismo).",
+        "Utilize esquemas que mostrem o conceito de universalização da ação para facilitar a visualização da ideia de Kant.",
+        "Estimule os alunos a relacionar princípios morais com conceitos filosóficos estudados, fortalecendo a capacidade de associação conceitual.",
+        "Reforce o uso da leitura atenta do enunciado para identificar elementos-chave que direcionam à resposta correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1322,
+    "outputTokens": 449,
+    "estimatedCostUsd": 0.001247
+  }
+}

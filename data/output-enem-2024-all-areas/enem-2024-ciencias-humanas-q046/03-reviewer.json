@@ -1,0 +1,170 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T22:36:11.097Z",
+  "questionId": "enem-2024-ciencias-humanas-q046",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A resposta correta é a letra C, pois os eventos sísmicos na região de Valparaíso estão relacionados às zonas de subducção, onde as placas tectônicas interagem ativamente, diferentemente do Amazonas e interior de São Paulo.",
+        "strategy": "Analisar o contexto geológico das regiões e relacioná-las às atividades das placas tectônicas, principalmente às zonas de subducção ao longo da costa do Chile e do Peru.",
+        "steps": [
+          "Identificar as regiões citadas: Valparaíso, Amazonas e interior de São Paulo.",
+          "Perceber que Valparaíso está próximo da zona de subducção da placa de Nazca sob a placa Sul-Americana.",
+          "Verificar que Amazonas e interior de SP têm menos atividade relacionada à subducção, apresentando terremotos de menor magnitude por outros mecanismos internos ou falhas locais.",
+          "Relacionar a maior intensidade dos terremotos de Valparaíso com a presença de uma zona de subducção ativa.",
+          "Concluindo que a principal diferença entre esses eventos está na relação geológica e na interação das placas tectônicas, especialmente na região de Valparaíso."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Mapa das placas tectônicas indicando zonas de subducção na região do Chile."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "As diferenças na ocorrência de terremotos nas regiões mencionadas estão relacionadas às posições das placas tectônicas, especialmente às zonas de subducção, onde as placas se encontram e geram maior atividade sísmica.",
+        "stepByStep": [
+          "Identificar as regiões e os eventos de terremoto no texto: Valparaíso, Amazonas e interior de SP.",
+          "Reconhecer que Valparaíso está próximo da zona de subducção adjacente à placa de Nazca e a placa Sul-Americana.",
+          "Perceber que as regiões do Amazonas e interior de SP não estão em áreas de grande subducção, tendo menos atividade sísmica de grande magnitude.",
+          "Entender que as diferenças na magnitude dos terremotos estão relacionadas às posições das placas tectônicas, particularmente às zonas de subducção.",
+          "Concluir que as posições relativas às zonas de subducção explicam as diferenças na intensidade e ocorrência de terremotos."
+        ],
+        "commonPitfalls": [
+          "Confundir a relação entre proximidade ao mar ou ao relevo com a atividade sísmica.",
+          "Achar que todos os terremotos ocorrem em áreas costeiras ou de relevo íngreme. ",
+          "Ignorar o papel das placas tectônicas e focar apenas em fatores superficiais, como relevo ou densidade populacional."
+        ],
+        "teachingTips": [
+          "Use mapas de placas tectônicas para ilustrar as regiões e facilitar a compreensão.",
+          "Explique o conceito de zonas de subducção e sua relação com eventos sísmicos.",
+          " Faça perguntas que estimulem o aluno a relacionar a posição geográfica das regiões com a atividade tectônica."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A) Planícies costeiras.",
+          "likelyReasoning": "Associar a proximidade costeira com maior atividade sísmica.",
+          "misconceptionType": "Falta de compreensão da relação entre a atividade sísmica e a dinâmica das placas tectônicas.",
+          "whyItLooksPlausible": "Por estar próximo ao mar, a região costeira pode parecer mais propensa a terremotos.",
+          "whyItIsWrong": "Pois a atividade sísmica forte na região do Chile está relacionada às zonas de subducção, não apenas à proximidade ao mar."
+        },
+        {
+          "option": "B) Bacias continentais.",
+          "likelyReasoning": "Assumir que regiões de bacias apresentariam menos atividade tectônica.",
+          "misconceptionType": "Confusão entre estruturas geológicas e zonas de atividade tectônica.",
+          "whyItLooksPlausible": "Porque bacias podem parecer menos sujeitas a movimentos sísmicos de grandes magnitudes.",
+          "whyItIsWrong": "Mesmo que as bacias sejam estruturas geológicas relevantes, as maiores atividades sísmicas na costa do Chile estão relacionadas às placas de subducção."
+        },
+        {
+          "option": "D) Áreas de denudação.",
+          "likelyReasoning": "Associar processos superficiais ao risco sísmico.",
+          "misconceptionType": "Confusão entre processos superficiais (denudação) e processos tectônicos.",
+          "whyItLooksPlausible": "Devido à erosão e desgaste do relevo, pode parecer que essas áreas tenham maior atividade sísmica.",
+          "whyItIsWrong": "A atividade sísmica intensa na costa do Chile é devido à subducção, não a processos de denudação."
+        },
+        {
+          "option": "E) Vertentes escarpadas.",
+          "likelyReasoning": "Relacionar relevo de escarpamento com maior sismicidade.",
+          "misconceptionType": "Confusão entre relevo e origem de atividade tectônica.",
+          "whyItLooksPlausible": "Relevo íngreme pode parecer mais suscetível a terremotos.",
+          "whyItIsWrong": "A questão centra-se nas zonas de subducção, não no relevo escarpado."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão da relação entre placas tectônicas, zonas de subducção e atividade sísmica.",
+        "secondarySkills": [
+          "Interpretação de mapas tectônicos",
+          "Relacionamento entre geologia e processos sísmicos"
+        ],
+        "cognitiveDemand": "Análise e aplicação de conceitos geológicos e tectônicos para entender eventos sísmicos.",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Reforçar conceitos de subducção e limites de placas tectônicas.",
+          "Relacionar atividades sísmicas às áreas de interação entre placas."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌎",
+        "shortThemeTitle": "Atividade tectônica e terremotos",
+        "interpretationIntro": "O enunciado apresenta diferentes eventos sísmicos e busca compreender as causas das variações na sua magnitude e frequência, relacionando-os às posições geográficas das regiões.",
+        "commandTerms": [
+          {
+            "term": "placas tectônicas",
+            "explanation": "Contexto de movimento das grandes placas da crosta terrestre."
+          },
+          {
+            "term": "subducção",
+            "explanation": "Processo onde uma placa permanece abaixo da outra em zonas de colisão."
+          }
+        ],
+        "whatTheQuestionAsks": "Por que os terremotos nessas regiões diferem na magnitude e na frequência?",
+        "strategyParagraph": "Para responder, deve-se relacionar as regiões ao contexto das atividades tectônicas, especialmente às zonas de subducção, que são responsáveis por tensões que geram terremotos de maior magnitude. Mapas das placas tectônicas auxiliam na visualização dessas áreas.",
+        "reviewTable": [
+          {
+            "concept": "Zonas de subducção",
+            "keyIdea": "Locais de maior atividade sísmica devido à interação de placas",
+            "application": "Valparaíso, próximo à zona de subducção Nazca-Sul-Americana."
+          },
+          {
+            "concept": "Atividade tectônica",
+            "keyIdea": "Movimentos das placas causam terremotos",
+            "application": "Diferenças entre regiões próximas e afastadas das zonas de subducção."
+          }
+        ],
+        "theoryParagraphs": [
+          "As atividades sísmicas estão relacionadas às fronteiras das placas tectônicas. Em zonas de subducção, a tensão gerada pela interação das placas provoca terremotos de alta magnitude, como os registrados em Valparaíso. Já em regiões interiores ou de afastamento dessas zonas, a atividade sísmica é menor, com terremotos de menor magnitude.",
+          "A compreensão dessa dinâmica explica por que os eventos na costa chilena são mais severos do que os registrados na Amazônia ou interior de São Paulo, cujas atividades tectônicas não envolvem subducção próxima."
+        ],
+        "resolutionParagraphs": [
+          "O texto indica que Valparaíso sofreu um terremoto de magnitude 5,9 na costa do Chile, uma região de forte atividade de subducção devido à interação da placa de Nazca sob a placa Sul-Americana. Os eventos na Amazônia e interior de São Paulo, de magnitudes menores, acontecem em áreas menos próximas às zonas de subducção, sendo atribuídos a movimentos internos ou falhas locais. Assim, as diferenças na magnitude e na frequência dos eventos se devem às posições das regiões em relação às zonas de subducção, regiões de maior atividade sísmica.",
+          "Portanto, a posição dessas áreas relativas às fronteiras de placas tectônicas explica as variações nos eventos sísmicos relatados."
+        ],
+        "puloDoGato": "Conhecer as zonas de subducção e sua relação com a atividade sísmica é essencial para entender as diferenças regionais.",
+        "alternatives": [
+          {
+            "option": "A) Planícies costeiras.",
+            "isCorrect": false,
+            "explanation": "Embora a proximidade ao mar possa estar relacionada à região de subducção, nem todas as áreas costeiras apresentam maior atividade sísmica, sendo o mais relevante a presença de zonas de subducção ativas."
+          },
+          {
+            "option": "B) Bacias continentais.",
+            "isCorrect": false,
+            "explanation": "As bacias não estão relacionadas às zonas de atividade de subducção que causam grandes terremotos na costa do Chile."
+          },
+          {
+            "option": "C) Zonas de subducção.",
+            "isCorrect": true,
+            "explanation": "Correta, pois as zonas de subducção são regiões de intensa atividade tectônica e maior potencial de terremotos severos, como ocorre em Valparaíso."
+          },
+          {
+            "option": "D) Áreas de denudação.",
+            "isCorrect": false,
+            "explanation": "Embora processos de denudação moldem o relevo, não explicam a atividade sísmica relacionada às placas tectônicas na zona de subducção."
+          },
+          {
+            "option": "E) Vertentes escarpadas.",
+            "isCorrect": false,
+            "explanation": "Relevo de escarpamento pode estar presente em zonas de atividade tectônica, mas não é o principal fator de diferenciação aqui, sendo as zonas de subducção a característica relevante."
+          }
+        ],
+        "questionCode": "CIH_HY_SIS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved_with_notes",
+        "summary": "A questão apresenta uma boa relação entre enunciado, análise e resolução, com foco nas zonas de subducção como fator diferencial da atividade sísmica.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3453,
+    "outputTokens": 2410,
+    "estimatedCostUsd": 0.001309
+  }
+}

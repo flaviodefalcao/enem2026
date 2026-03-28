@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:43:25.247Z",
+  "questionId": "enem-2024-linguagens-q005",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A carta da editora informa à escritora que seu manuscrito foi recusado devido ao uso excessivo de pontos de exclamação, explicando o motivo da decisão editorial.",
+      "stepByStep": [
+        "Leia atentamente o texto da carta para entender seu conteúdo.",
+        "Identifique o tom da comunicação, que é formal e expressa insatisfação.",
+        "Note que a editora elogia a narrativa, mas reclama do uso constante de pontos de exclamação.",
+        "Perceba que a editora anuncia a decisão difícil de recusar o manuscrito ('passar' no manuscrito).",
+        "Compreenda que a carta não menciona recebimento, pedido de revisão ou transferência, mas sim rejeição da publicação."
+      ],
+      "commonPitfalls": [
+        "Pensar que a carta simplesmente acusa o recebimento do trabalho, quando na verdade recusa-o.",
+        "Interpretar a crítica como um convite para revisão, em vez de uma recusa definitiva.",
+        "Confundir a recusa com uma transferência para outra editora.",
+        "Entender que a carta problematiza o enredo, e não o estilo do texto."
+      ],
+      "teachingTips": [
+        "Incentive a leitura cuidadosa e a análise do tom da carta para captar a intenção comunicativa.",
+        "Trabalhe a função da linguagem expressiva versus a função referencial na carta.",
+        "Apresente exemplos de cartas editoriais para diferenciar recusas, pedidos de revisão e comunicados.",
+        "Questione os alunos sobre o significado de expressões editoriais como 'passar no manuscrito'.",
+        "Estimule a atenção a detalhes textuais que são decisivos para a interpretação correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2045,
+    "outputTokens": 329,
+    "estimatedCostUsd": 0.001344
+  }
+}

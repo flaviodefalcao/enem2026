@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:52:20.147Z",
+  "questionId": "enem-2024-ciencias-humanas-q059",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que as universidades medievais são uma importante realização intelectual, tornando seu legado um patrimônio histórico-cultural relevante pelo trabalho de agregar tradição e conhecimento científico.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o que ele valoriza nas universidades medievais.",
+        "Observe que o texto enaltece a universidade como uma instituição medieval importante na área intelectual.",
+        "Identifique que o legado valorizado é a tradição de conhecimento e os produtos intelectuais gerados pelas universidades.",
+        "Análise as alternativas e escolha aquela que reflete essa valorização da intelectualidade e tradição como patrimônio cultural.",
+        "Confirme que a alternativa escolhida explica que o legado das universidades é seu papel na transmissão e produção do conhecimento científico."
+      ],
+      "commonPitfalls": [
+        "Achar que o texto valoriza métodos ou currículos padronizados, o que não é mencionado.",
+        "Interpretar que as universidades rejeitavam influências ou ideologias externas, o que não consta no texto.",
+        "Confundir o papel das universidades com funções econômicas ou mercantis.",
+        "Pensar que o texto enfatiza valores ecumênicos, quando o foco é na realização intelectual."
+      ],
+      "teachingTips": [
+        "Incentive a leitura cuidadosa do texto para compreender o foco da mensagem.",
+        "Explique os termos-chave como \"instituição medieval\" e \"realização intelectual\" para contextualizar.",
+        "Mostre como relacionar as informações do texto com as alternativas para escolher a mais adequada.",
+        "Apresente exemplos históricos breves das universidades medievais para enriquecer o entendimento.",
+        "Reforce a importância de distinguir entre o que o texto diz explicitamente e o que não está presente para evitar interpretações erradas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1124,
+    "outputTokens": 339,
+    "estimatedCostUsd": 0.000992
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:12:56.702Z",
+  "questionId": "enem-2024-ciencias-humanas-q082",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A alternativa C está correta porque o texto ilustra o raciocínio indutivo, onde o peru generaliza uma conclusão a partir de várias observações particulares.",
+        "strategy": "Analisar a narrativa do peru e identificar o tipo de raciocínio com base nas definições clássicas de raciocínio indutivo, dedutivo, analógico, entre outros.",
+        "steps": [
+          "Ler o texto e entender o comportamento do peru na fazenda.",
+          "Observar que ele recolhe várias observações das alimentações às 9h em diferentes dias e condições.",
+          "Perceber que o peru parte de muitos casos específicos para concluir algo geral.",
+          "Relacionar essa característica com o raciocínio indutivo (do particular para o geral).",
+          "Comparar com as alternativas disponíveis e escolher aquela que define o raciocínio indutivo corretamente.",
+          "Confirmar que a alternativa C é a que descreve isso.",
+          "Descartar as outras alternativas apresentando justificativas. "
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto exemplifica o raciocínio indutivo, que é observar diversas ocorrências particulares para chegar a uma conclusão geral ou universal.",
+        "stepByStep": [
+          "Examine o texto atentamente.",
+          "Note que o peru observa o horário da alimentação repetidas vezes, em várias condições.",
+          "Entenda que o peru usa essas observações para construir uma regra geral: alimentação sempre às 9h.",
+          "Reconheça que esse é o princípio do raciocínio indutivo, que generaliza a partir do específico.",
+          "Compare a descrição do raciocínio com as alternativas e identifique a correta (C)."
+        ],
+        "commonPitfalls": [
+          "Confundir raciocínio indutivo com dedutivo, pensando que o peru parte de uma regra geral para um caso específico.",
+          "Interpretar a coleta de múltiplas observações apenas como ação prática, e não raciocínio lógico.",
+          "Relacionar observação em diferentes condições a raciocínio analógico, quando na verdade é uma ampliação para confirmar a hipótese.",
+          "Desconsiderar a validade do raciocínio indutivo por pensar que ele não prova universalmente, ignorando seu papel científico."
+        ],
+        "teachingTips": [
+          "Explique claramente a diferença entre raciocínio indutivo (particular para geral) e dedutivo (geral para particular).",
+          "Apresente exemplos cotidianos simples de raciocínio indutivo, como observar que o sol nasce todos os dias e concluir que nascerá amanhã.",
+          "Enfatize a importância do raciocínio indutivo na ciência, destacando seu caráter provisório.",
+          "Oriente a leitura textual focando na estrutura lógica do argumento apresentado.",
+          "Aborde os tipos de raciocínio na filosofia e ciência para clarificar confusões comuns."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confunde a coleta de evidências com uma ação baseada em raciocínio prático.",
+          "misconceptionType": "Confusão conceitual entre raciocínio prático e lógico.",
+          "whyItLooksPlausible": "O texto relata a ação do peru de observar e coletar dados, algo prático.",
+          "whyItIsWrong": "Não enfatiza a generalização a partir de casos particulares, característica do raciocínio indutivo."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Interpreta o comportamento do peru como um raciocínio absoluto ou dogmático.",
+          "misconceptionType": "Confusão sobre viés e absolutismo em raciocínio.",
+          "whyItLooksPlausible": "O peru aguarda diversas evidências antes de concluir.",
+          "whyItIsWrong": "Não há indicação de que o peru ignora evidências contrárias ou que seu raciocínio seja absoluto."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Mistura raciocínio dedutivo com indutivo, confundindo origem das premissas.",
+          "misconceptionType": "Confusão entre raciocínio dedutivo e indutivo.",
+          "whyItLooksPlausible": "A conclusão é um encadeamento de ideias, podendo remeter à dedução.",
+          "whyItIsWrong": "A conclusão não é derivada de premissas universais, mas de observações particulares."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Identifica erroneamente a menção a diversas circunstâncias como analogia.",
+          "misconceptionType": "Confusão entre raciocínio analógico e indutivo.",
+          "whyItLooksPlausible": "O texto cita diferentes condições de observação, que pode ser confundido com analogia.",
+          "whyItIsWrong": "O peru observa a mesma situação repetida, não compara situações distintas para inferir algo novo."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Identificação e análise de tipos de raciocínio lógico",
+        "secondarySkills": [
+          "Leitura e interpretação textual",
+          "Conhecimento de conceitos filosóficos e científicos"
+        ],
+        "cognitiveDemand": "Medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Avalia compreensão dos tipos de raciocínio, especialmente indução.",
+          "Não há imagens envolvidas.",
+          "Texto baseado em exemplo clássico da filosofia da ciência."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Raciocínio Indutivo",
+        "interpretationIntro": "A questão solicita identificar o tipo de raciocínio que o personagem (o peru) utiliza a partir do seu comportamento descrito no texto.",
+        "commandTerms": [
+          {
+            "term": "Raciocínio Indutivo",
+            "explanation": "Tipo de raciocínio que generaliza uma conclusão a partir de várias observações particulares."
+          },
+          {
+            "term": "Observação",
+            "explanation": "Ato de coletar dados e informações para construir conhecimento."
+          },
+          {
+            "term": "Generalização",
+            "explanation": "Construção de uma regra geral ou princípio a partir de casos específicos."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual padrão de raciocínio o peru utiliza ao formar sua conclusão baseada em várias observações repetidas.",
+        "strategyParagraph": "Para responder, deve-se compreender os tipos de raciocínio comuns – principalmente o indutivo e o dedutivo – e relacioná-los com a narrativa apresentada. Analisando que o peru parte de observações repetidas para formar uma regra geral, reconhece-se a indução. Em seguida, compara-se essa compreensão com as alternativas para selecionar aquela que define adequadamente o raciocínio apresentado.",
+        "reviewTable": [
+          {
+            "concept": "Raciocínio Indutivo",
+            "keyIdea": "Parte do particular para o geral, criando uma regra a partir de observações específicas.",
+            "application": "O peru observa várias vezes sua alimentação para concluir que sempre ocorre às 9h."
+          },
+          {
+            "concept": "Raciocínio Dedutivo",
+            "keyIdea": "Parte de uma regra geral para aplicar a um caso específico.",
+            "application": "Não se aplica, pois o peru não parte de uma regra universal já conhecida."
+          },
+          {
+            "concept": "Raciocínio Analógico",
+            "keyIdea": "Baseia-se na comparação entre situações semelhantes para inferir algo novo.",
+            "application": "Não ocorre, pois o peru não compara diferentes situações para formar uma conclusão."
+          }
+        ],
+        "theoryParagraphs": [
+          "O raciocínio indutivo é um processo lógico que consiste em reunir múltiplas observações específicas para formar uma conclusão geral. Ele é fundamental na construção do conhecimento científico e na formulação de hipóteses, embora suas conclusões sejam provisórias e abertas a revisões com novas evidências.",
+          "Diferentemente do raciocínio dedutivo, que parte de princípios gerais para explicar casos particulares, o indutivo constrói uma regra a partir de dados particulares observados, como exemplifica o comportamento do peru no texto.",
+          "O raciocínio analógico envolve a comparação entre duas ou mais situações diferentes para inferir que algo que ocorre em uma acontece também na outra; este não é o processo descrito no enunciado, que apresenta repetição de uma mesma situação em diferentes condições."
+        ],
+        "resolutionParagraphs": [
+          "O texto expõe que o peru recolhe uma grande quantidade de observações em horários variados e circunstâncias diversificadas, para concluir que é alimentado sempre às 9 da manhã.",
+          "Esse modo de raciocinar caracteriza o raciocínio indutivo, pois parte de observações particulares repetidas para formar uma regra geral.",
+          "Ao analisar as alternativas, a letra C identifica corretamente o raciocínio indutivo, enquanto as demais se confundem com outros tipos de raciocínio ou concepções erradas.",
+          "Portanto, a resposta correta é a alternativa C, que reflete fielmente o tipo de raciocínio da narrativa."
+        ],
+        "puloDoGato": "Identifique se a conclusão é geral a partir de vários casos específicos; se sim, é raciocínio indutivo.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa confunde raciocínio prático com lógico. Embora o peru colete evidências, o foco é a generalização, que é característica do raciocínio indutivo."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Aqui, há erro ao interpretar o raciocínio como absoluto e exclusivo; o texto mostra apenas observações repetidas para formar uma hipótese, não fechamento dogmático."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Correta. O peru usa múltiplas observações para estabelecer uma conclusão geral, típica do raciocínio indutivo."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Confunde dedução com indução. A dedução parte de uma regra geral para particular, o que não é o caso descrito no texto."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Erra ao interpretar observações em diferentes condições como raciocínio por analogia, quando na verdade é ampliação para confirmar a hipótese indutiva."
+          }
+        ],
+        "questionCode": "CH_HUMANAS_RACIOCINIO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explainer estão coerentes e alinhados entre si. A resolução oficial está clara, didática e segue o padrão editorial ENEM com comentários completos para todas as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2704,
+    "outputTokens": 2089,
+    "estimatedCostUsd": 0.004424
+  }
+}

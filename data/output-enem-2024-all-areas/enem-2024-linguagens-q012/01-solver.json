@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:05:00.562Z",
+  "questionId": "enem-2024-linguagens-q012",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque a preservação da Língua da Tabatinga está relacionada ao fortalecimento do sentimento de identidade linguística dos seus falantes, conforme indicado no texto.",
+      "strategy": "Analisar as informações do texto que explicam os motivos da preservação da Língua da Tabatinga e relacioná-las com as alternativas apresentadas.",
+      "steps": [
+        "Ler atentamente o texto para identificar os fatores que contribuem para a preservação da Língua da Tabatinga.",
+        "Observa-se que o texto fala sobre o fortalecimento da relação dos falantes com sua origem afro-brasileira e a valorização da língua como um legado importante.",
+        "Comparar as alternativas com a informação do texto para identificar qual corresponde à explicação dada.",
+        "Eliminar as alternativas que não estão apoiadas pelos dados textuais.",
+        "Concluir que a alternativa que fala do sentimento de identidade linguística consolidado é a correta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode pensar que a passagem da forma oral para a escrita facilita a preservação da língua.",
+        "misconceptionType": "Confusão entre formas de preservação linguística",
+        "whyItLooksPlausible": "Normalmente, a escrita é uma forma eficaz de preservar uma língua.",
+        "whyItIsWrong": "O texto não menciona a passagem da Língua da Tabatinga da oralidade para a escrita como fator de preservação."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se achar que a classe social dos falantes ter ganho prestígio ajuda na preservação da língua.",
+        "misconceptionType": "Associação incorreta entre prestígio social e preservação linguística",
+        "whyItLooksPlausible": "O prestígio social de um grupo pode influenciar a valorização cultural, incluindo a língua.",
+        "whyItIsWrong": "O texto mostra que a classe social ainda enfrenta estigma, e não presta um aumento de prestígio social."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer que a língua mantém a mesma função inicial, possibilitando sua preservação.",
+        "misconceptionType": "Falsa manutenção da função linguística",
+        "whyItLooksPlausible": "Preservar a função original pode ser um motivo para continuar usando uma língua.",
+        "whyItIsWrong": "O texto indica que a função inicial (língua secreta para escravizados) mudou para um sentido de identidade cultural."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O aluno pode achar que a homogeneidade etária incentiva a preservação da língua.",
+        "misconceptionType": "Interpretação incorreta de perfil demográfico",
+        "whyItLooksPlausible": "Grupos etários homogêneos podem facilitar transmissão linguística.",
+        "whyItIsWrong": "O texto apenas informa a faixa etária dos falantes, não que sua homogeneidade etária é motivo de preservação."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Relação entre linguagem e identidade cultural"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige interpretação textual para identificar motivo sociocultural de preservação lingüística.",
+        "Não há necessidade de dados visuais para resolução.",
+        "Fooca na relação entre língua e identidade étnico-cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 848,
+    "outputTokens": 711,
+    "estimatedCostUsd": 0.001477
+  }
+}

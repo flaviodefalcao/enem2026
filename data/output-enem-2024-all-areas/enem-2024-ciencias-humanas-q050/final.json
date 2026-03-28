@@ -1,0 +1,190 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q050",
+  "generatedAt": "2026-03-28T00:45:50.623Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 708,
+      "outputTokens": 844,
+      "estimatedCostUsd": 0.001634
+    },
+    "explainer": {
+      "inputTokens": 1401,
+      "outputTokens": 409,
+      "estimatedCostUsd": 0.001215
+    },
+    "reviewer": {
+      "inputTokens": 2738,
+      "outputTokens": 2006,
+      "estimatedCostUsd": 0.004305
+    },
+    "totalEstimatedCostUsd": 0.007154
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta pois o texto mostra que Bartolomeu de Las Casas era odiado pelos colonizadores (senhores, conquistadores, imperador) por defender os indígenas contra a escravidão, e amado pelos povos locais que ele protegia. Assim, ele era simultaneamente detestado por uns e respeitado por outros, conforme a alternativa B.",
+      "strategy": "Identificar no texto os grupos que odeiam e que amam o bispo, relacionando-os aos colonizadores e povos indígenas, para inferir a visão adversa sobre Bartolomeu de Las Casas.",
+      "steps": [
+        "Ler o texto para destacar quem odeia o bispo: senhores, conquistadores, imperador.",
+        "Identificar quem o ama: os pobres indígenas chamados de \"voz dos mudos\" e quem sofre pior tratamento.",
+        "Relacionar os grupos sociais mencionados no texto com os colonizadores e indígenas.",
+        "Comparar essas informações com as alternativas dadas.",
+        "Escolher a alternativa que expressa simultaneamente que ele era odiado pelos colonizadores e amado pelos indígenas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto revela que Bartolomeu de Las Casas era uma figura de opiniões opostas: repudiado pelos colonizadores por enfrentar suas práticas, e amado pelos indígenas por sua defesa de seus direitos.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique os agentes de ódio e de carinho dirigidos a Las Casas.",
+        "Observe que os colonizadores (senhores, conquistadores, imperador) o odiavam pelas mudanças que ameaçavam seus interesses.",
+        "Note que os povos locais, discriminados e explorados, o amavam como defensor.",
+        "Contextualize historicamente sua luta contra a escravidão indígena e sua postura crítica ao sistema colonial.",
+        "Escolha a alternativa que melhor represente essa dualidade de sentimentos: a letra B."
+      ],
+      "commonPitfalls": [
+        "Confundir os grupos sociais que odiavam ou apoiavam o bispo.",
+        "Ignorar a tensão histórica entre colonizadores e indígenas refletida no texto.",
+        "Assumir apoio religioso local sem base no texto.",
+        "Interpretar equivocadamente o papel do imperador como aliado do bispo.",
+        "Desconsiderar o ponto de vista indígena como fonte de afirmação do amor pelo bispo."
+      ],
+      "teachingTips": [
+        "Apresente aos alunos o contexto histórico da colonização das Américas e as críticas de Las Casas.",
+        "Estimule a identificação dos atores sociais no texto e suas relações conflitantes.",
+        "Promova a leitura de textos com múltiplas perspectivas para ampliar a compreensão crítica.",
+        "Discuta a importância da defesa de grupos oprimidos na história.",
+        "Use o exemplo para mostrar que personagens podem ter visões conflitantes conforme o grupo social."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Assumir que religiosos locais reverenciavam o bispo e os reis o odiavam, sem menção textual disso.",
+        "misconceptionType": "Interpretação incorreta dos papéis sociais citados.",
+        "whyItLooksPlausible": "Porque o bispo estaria ligado a uma autoridade religiosa local que poderia apoiá-lo.",
+        "whyItIsWrong": "O texto destaca o ódio dos senhores e conquistadores, não citando religiosos locais apoiadores."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a colônia rejeitava o bispo, mas os governantes o idolatram, invertendo as posições descritas.",
+        "misconceptionType": "Confusão sobre quem apoiava ou rejeitava o bispo.",
+        "whyItLooksPlausible": "Governantes costumam ser vistos como figuras de poder que poderiam apoiá-lo.",
+        "whyItIsWrong": "O imperador reprimiu as ações do bispo, promulgando leis contrárias a ele."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir invasores espanhóis com apoiadores do bispo e a metrópole como adversária.",
+        "misconceptionType": "Confusão geográfica e social dos atores históricos.",
+        "whyItLooksPlausible": "Las Casas era espanhol, o que poderia sugerir apoio dos invasores de sua terra natal.",
+        "whyItIsWrong": "O bispo atuava contra os interesses coloniais, provocando ódio dos colonizadores espanhóis."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Supor que negociantes de escravos valorizariam o bispo, embora defendesse indígenas.",
+        "misconceptionType": "Pressupor apoio econômico contrário aos interesses do bispo.",
+        "whyItLooksPlausible": "Escravidão era um negócio lucrativo, o que poderia gerar apoio de negociantes.",
+        "whyItIsWrong": "Las Casas lutava contra a escravidão indígena, contrariando os interesses dos negociantes."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Conhecimento histórico-social"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Requer compreensão de múltiplas perspectivas no texto.",
+        "Exige conhecimento básico sobre colonização e papel de Las Casas.",
+        "Não envolve interpretação de imagens.",
+        "Avalia análise crítica e entendimento histórico-social."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Percepções sobre Bartolomeu de Las Casas na colonização",
+      "interpretationIntro": "A questão exige interpretar os diferentes posicionamentos expressos no texto sobre Bartolomeu de Las Casas e identificar a ambivalência de sua recepção social.",
+      "commandTerms": [
+        {
+          "term": "Interpretar",
+          "explanation": "Compreender os pontos de vista conflitantes sobre o bispo apresentados no texto."
+        },
+        {
+          "term": "Identificar",
+          "explanation": "Reconhecer os grupos sociais que o apoiam e os que o rejeitam."
+        }
+      ],
+      "whatTheQuestionAsks": "O que o texto revela sobre a relação contraditória que Bartolomeu de Las Casas tinha com diferentes grupos sociais na América colonial?",
+      "strategyParagraph": "Para responder, deve-se analisar cuidadosamente o texto para distinguir quais agentes sociais o odeiam e quais o amam, relacionando essas atitudes aos papéis de colonizadores e indígenas. A compreensão histórica do contexto da colonização e da atuação de Las Casas fortalece essa análise.",
+      "reviewTable": [
+        {
+          "concept": "Pontos de vista múltiplos",
+          "keyIdea": "As mesmas ações podem gerar opiniões opostas em diferentes grupos.",
+          "application": "O bispo é odiado pelos colonizadores, mas amado pelos indígenas."
+        },
+        {
+          "concept": "Grupos sociais na colonização",
+          "keyIdea": "Existem confrontos entre colonizadores que exploram e indígenas explorados.",
+          "application": "Conquistadores e senhores rejeitam o bispo; indígenas o apoiam."
+        },
+        {
+          "concept": "Contexto histórico",
+          "keyIdea": "As leis e direitos originavam conflitos de interesses.",
+          "application": "As novas leis contra a escravidão indígena, defendidas por Las Casas, irritam os colonizadores."
+        }
+      ],
+      "theoryParagraphs": [
+        "Bartolomeu de Las Casas foi um bispo que denunciou os abusos contra os povos indígenas durante a colonização da América, defendendo seus direitos frente à exploração e escravidão promovida pelos colonizadores.",
+        "No texto, ele é apresentado sob duas formas: odiado pelos colonizadores, que perdiam mão de obra escrava, e amado pelos indígenas, que eram vítimas da opressão.",
+        "Essa dualidade reflete os interesses conflitantes na sociedade colonial, onde a defesa dos direitos indígenas chocava-se com os interesses econômicos e políticos dos colonizadores."
+      ],
+      "resolutionParagraphs": [
+        "O texto evidencia que Las Casas é chamado de \"o homem mais odiado\" pelos senhores e conquistadores, pois suas ações ameaçavam a exploração dos indígenas como escravos.",
+        "Por outro lado, ele é também \"o homem mais amado\", pois era o defensor dos povos indígenas, \"a voz dos mudos\" e daqueles que sofriam opressão extrema.",
+        "Compreendendo os grupos mencionados e seu posicionamento, compreende-se que Las Casas era simultaneamente rejeitado e respeitado, o que corresponde ao que afirma a alternativa B.",
+        "Portanto, a resposta correta é a alternativa B, que reconhece essa ambivalência na figura histórica de Bartolomeu de Las Casas."
+      ],
+      "puloDoGato": "Identifique quem odeia e quem ama o personagem no texto, relacionando com os grupos sociais envolvidos — colonizadores versus indígenas.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois o texto não menciona o apoio dos religiosos locais e sim o ódio dos senhores e conquistadores."
+        },
+        {
+          "option": "B",
+          "isCorrect": true,
+          "explanation": "Correta, pois o texto mostra que ele era odiado pelos colonizadores e amado pelos povos indígenas."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois os governantes (imperador) agiram contra ele, não o idolatravam."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta, porque os invasores espanhóis são parte dos colonizadores que o odiavam, e não seus apoiadores."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois o bispo defendia os indígenas contra a escravidão, contrária aos interesses dos negociantes de escravos."
+        }
+      ],
+      "questionCode": "CH_HISTORIA_INTERPRETACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes entre si e condizentes com o texto apresentado. A resolução oficial foi elaborada seguindo as diretrizes editoriais e aborda todos os aspectos importantes.",
+      "issues": []
+    }
+  }
+}

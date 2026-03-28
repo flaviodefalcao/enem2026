@@ -1,0 +1,182 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q063",
+  "generatedAt": "2026-03-28T00:55:46.855Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 606,
+      "outputTokens": 646,
+      "estimatedCostUsd": 0.001276
+    },
+    "explainer": {
+      "inputTokens": 1142,
+      "outputTokens": 352,
+      "estimatedCostUsd": 0.00102
+    },
+    "reviewer": {
+      "inputTokens": 2420,
+      "outputTokens": 1890,
+      "estimatedCostUsd": 0.003992
+    },
+    "totalEstimatedCostUsd": 0.006288
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta pois o texto descreve a indústria cultural como uma forma que ilude e controla os indivíduos, caracterizando-se, portanto, como um mecanismo de controle social.",
+      "strategy": "Analisar o texto para identificar a função atribuída à indústria cultural pelas autoras, relacionando a ideia de ilusão de liberdade e uniformização da massa com um processo de controle social.",
+      "steps": [
+        "Ler atentamente o texto para entender a crítica à indústria cultural.",
+        "Identificar as características atribuídas à indústria cultural: ilusão de liberdade, tratamento dos indivíduos como massa homogênea.",
+        "Relacionar essas características a conceitos sociológicos, como controle social.",
+        "Analisar cada alternativa para verificar qual corresponde melhor ao conceito exposto no texto.",
+        "Selecionar a alternativa que indica que a indústria cultural atua como um mecanismo de controle social."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta a indústria cultural como um mecanismo que engana as pessoas fazendo-as acreditar que são livres e originais, quando, na verdade, as controla como uma massa homogênea. Portanto, o conceito-chave aqui é o de controle social, pois a indústria cultural atua para limitar a liberdade e uniformizar os indivíduos.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender a crítica feita à indústria cultural.",
+        "Observe que a indústria cultural cria a ilusão de liberdade, mas na prática controla as pessoas.",
+        "Lembre-se do conceito sociológico de controle social, que se refere a mecanismos que regulam o comportamento dos indivíduos numa sociedade.",
+        "Relacione a descrição do texto com esse conceito de controle social.",
+        "Confira as alternativas e escolha aquela que define a indústria cultural como um mecanismo de controle social."
+      ],
+      "commonPitfalls": [
+        "Associar a indústria cultural apenas à promoção da reflexão ou da luta coletiva, sem perceber que o texto critica a ausência dessa reflexão.",
+        "Pensar que a indústria cultural é uma instituição formal ou órgão público.",
+        "Focar somente nos aspectos econômicos da indústria cultural, esquecendo seu papel ideológico e de controle.",
+        "Confundir o controle social exercido pela indústria cultural com controle direto do Estado."
+      ],
+      "teachingTips": [
+        "Explique o conceito de controle social e como ele pode se manifestar por meios culturais e ideológicos.",
+        "Incentive os alunos a relacionarem textos críticos com conceitos sociológicos conhecidos.",
+        "Trabalhe exemplos reais ou atuais de como a mídia e a cultura podem influenciar comportamentos e crenças.",
+        "Estimule debates sobre liberdade individual versus controle social para melhor compreensão do tema.",
+        "Use comparações simples para mostrar a diferença entre controle social pelo Estado e pela indústria cultural privada."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode ser confundida com a ideia de que a reflexão (atividade da arte) poderia ser uma ferramenta para luta coletiva.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "O texto menciona reflexão, que pode ser associada a luta coletiva.",
+        "whyItIsWrong": "O texto critica a indústria cultural por abandonar a reflexão; logo, ela não é uma ferramenta de luta, mas sim de controle."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundir indústria cultural com uma instituição formal ligada ao interesse público.",
+        "misconceptionType": "Interpretação literal ou institucional incorreta",
+        "whyItLooksPlausible": "O termo 'indústria' pode levar a pensar em instituição organizada.",
+        "whyItIsWrong": "Indústria cultural é um conceito crítico, não uma instituição de interesse público."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Associar a indústria cultural a uma organização privada pelo aspecto econômico.",
+        "misconceptionType": "Foco limitado a aspectos econômicos",
+        "whyItLooksPlausible": "Indústria cultural envolve empresas privadas e iniciativa privada.",
+        "whyItIsWrong": "Embora envolva comércio, o texto enfoca seu papel ideológico como controle social, não organização empresarial."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que a manipulação vem diretamente do Estado quando se fala em controle.",
+        "misconceptionType": "Confusão entre controle social estatal e por indústrias culturais privadas",
+        "whyItLooksPlausible": "O termo controle social é frequentemente associado pelo público à ação estatal.",
+        "whyItIsWrong": "A indústria cultural é uma forma de controle social que não depende diretamente do Estado, mas de estruturas culturais e econômicas privadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação crítica de textos sociológicos",
+      "secondarySkills": [
+        "Conhecimento de conceitos sociológicos",
+        "Raciocínio analítico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão conceitual sobre indústria cultural e controle social.",
+        "Importante distinguir entre diferentes formas de controle e manipulação social.",
+        "Não há imagens associadas à questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧠",
+      "shortThemeTitle": "Indústria Cultural e Controle Social",
+      "interpretationIntro": "O enunciado convoca o leitor a analisar criticamente o papel da indústria cultural conforme apresentado no texto, destacando suas consequências sobre os indivíduos.",
+      "commandTerms": [
+        {
+          "term": "Analisar",
+          "explanation": "Examinar minuciosamente o texto para compreender a função e efeitos da indústria cultural."
+        },
+        {
+          "term": "Destacar",
+          "explanation": "Identificar o conceito central atribuído à indústria cultural pelas autoras."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar qual conceito sociológico as autoras destacam ao analisar as consequências da dinâmica da indústria cultural descrita no texto.",
+      "strategyParagraph": "Para responder, deve-se interpretar o texto atentamente, identificando que a indústria cultural promove uma ilusão de liberdade e originalidade enquanto, na prática, homogeneíza e controla os indivíduos. A estratégia consiste em relacionar essa descrição ao conceito sociológico que melhor representa essa função, que é o de controle social. Posteriormente, é preciso confrontar as alternativas a fim de selecionar aquela que exprime esse conceito.",
+      "reviewTable": [
+        {
+          "concept": "Indústria Cultural",
+          "keyIdea": "Produção cultural voltada à massificação e padronização",
+          "application": "Texto destaca a ilusão de liberdade enquanto promove controle social"
+        },
+        {
+          "concept": "Controle Social",
+          "keyIdea": "Mecanismos que regulam e limitam comportamentos sociais",
+          "application": "A indústria cultural age como instrumento que uniformiza e controla indivíduos"
+        }
+      ],
+      "theoryParagraphs": [
+        "O conceito de indústria cultural, originado na Escola de Frankfurt, refere-se à produção e disseminação de conteúdos culturais em escala massificada, com o objetivo de entreter e ao mesmo tempo controlar a população, reduzindo a capacidade crítica e a reflexão.",
+        "Controle social abrange os mecanismos pelos quais a sociedade regula o comportamento dos seus membros, podendo ocorrer tanto por meios formais (leis, Estado) quanto informais (cultura, mídia). A indústria cultural age como um controle social informal, produzindo conformidade e uma falsa sensação de liberdade."
+      ],
+      "resolutionParagraphs": [
+        "Inicialmente, o texto destaca uma crítica à indústria cultural: ela abandona uma das principais funções da arte que é a reflexão crítica, promovendo ao invés disso uma falsa ideia de liberdade e originalidade, enquanto controla os indivíduos como uma massa homogênea.",
+        "Dessa descrição, infere-se que a indústria cultural não é um instrumento de libertação ou luta, mas sim um meio de controle social, pois homogeneíza pensares e comportamentos.",
+        "Analisando as alternativas, a única que corresponde a essa interpretação é a letra B, que aponta a indústria cultural como mecanismo de controle social.",
+        "Portanto, a alternativa correta é a B."
+      ],
+      "puloDoGato": "A indústria cultural mascarando controle social de forma sutil é o 'pulo do gato' para entender a crítica das autoras.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "A alternativa associa a reflexão, que o texto diz ser abandonada, a uma ferramenta de luta coletiva, o que contraria a crítica da ausência dessa reflexão na indústria cultural."
+        },
+        {
+          "option": "B",
+          "isCorrect": true,
+          "explanation": "Correta. A indústria cultural é descrita como um mecanismo que controla os indivíduos, criando uma ilusão de liberdade, caracterizando controle social."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Confunde indústria cultural com uma instituição formal de interesse público, o que não corresponde à crítica do texto."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Enfoca apenas o aspecto econômico da indústria cultural, ignorando seu papel ideológico e de controle social salientado no texto."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Confunde o controle social disciplinar do Estado com o controle de natureza cultural e econômica exercido pela indústria cultural privada, conforme apresentado no enunciado."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_SOCIOL_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está coerente com o enunciado, solver e explainer. A resposta correta (alternativa B) está claramente justificada e todas as alternativas são comentadas adequadamente. A linguagem está clara, didática e bem estruturada conforme o padrão ENEM.",
+      "issues": []
+    }
+  }
+}

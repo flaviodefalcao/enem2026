@@ -1,0 +1,165 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T22:36:45.919Z",
+  "questionId": "enem-2024-ciencias-natureza-q091",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C) Microfilamentos",
+        "correctnessClaim": "A citocalasina B atua na despolimerização dos microfilamentos de actina, componentes do citoesqueleto que determinam a forma e o movimento celular. Sua ação impede a formação adequada dessas estruturas, afetando a motilidade e forma da célula.",
+        "strategy": "Analisar as mudanças no formato e movimento das células após o tratamento, associando a ação da citocalasina B aos componentes do citosqueleto responsáveis por essas funções.",
+        "steps": [
+          "Observa as diferenças de forma e movimento entre as células controle e tratada na imagem.",
+          "Lembra que a citocalasina B interfere na formação de microfilamentos, impedindo seu funcionamento normal.",
+          "Relaciona a perda de forma e movimento às ações dos microfilamentos na sustentação da célula e na sua movimentação.",
+          "Conclui que a alternativa correta indica os microfilamentos como componentes afetados."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem que mostra as diferenças de forma e movimento entre células controle e tratada."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A droga citocalasina B ataca os microfilamentos do citoesqueleto, causando perda da forma e movimento das células.",
+        "stepByStep": [
+          "Observe as diferenças visuais na forma e movimento das células na imagem.",
+          "Saiba que a citocalasina B despolimeriza microfilamentos de actina, que sustentam a forma e possibilitam o movimento celular.",
+          "Associe a ausência de forma e movimento aos microfilamentos desorganizados pela droga.",
+          "Identifique a alternativa que aponta os microfilamentos como os componentes afetados."
+        ],
+        "commonPitfalls": [
+          "Pensar que vacúolos ou mitocôndrias alteram diretamente a forma/movimento em curto prazo.",
+          "Confundir ações do material genético ou membrana com componentes do citosqueleto.",
+          "Não relacionar a ação específica da droga aos microfilamentos."
+        ],
+        "teachingTips": [
+          "Reforce o papel do citoesqueleto e microfilamentos.",
+          "Use imagens que mostrem estruturas do citoesqueleto.",
+          "Demonstre o efeito de drogas específicas nos componentes do citoesqueleto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A) Vacúolos",
+          "likelyReasoning": "Vacúolos podem mudar a aparência da célula por armazenamento de substâncias, mas não influenciam diretamente a forma ou movimento.",
+          "misconceptionType": "Confusão entre organelas de armazenamento e de sustentação.",
+          "whyItLooksPlausible": "Porque vacúolos podem afetar a forma de células grandes.",
+          "whyItIsWrong": "Eles não têm papel na alteração rápida de forma/movimento causada pela droga."
+        },
+        {
+          "option": "B) Mitocôndrias",
+          "likelyReasoning": "Embora energizem a célula e influenciem movimentações, não atuam na sustentação estrutural da forma ou movimento imediato.",
+          "misconceptionType": "Confusão entre energia e estrutura.",
+          "whyItLooksPlausible": "Porque mitocôndrias fornecem energia para movimento celular.",
+          "whyItIsWrong": "Não são responsáveis por formar ou manter a forma ou movimento diretamente."
+        },
+        {
+          "option": "D) Material genético",
+          "likelyReasoning": "O DNA regula as funções celulares, mas sua influência na forma/movimento não é imediata.",
+          "misconceptionType": "Confusão entre núcleo e citoesqueleto.",
+          "whyItLooksPlausible": "Alterações genéticas podem alterar a motilidade ao modificar proteínas envolvidas.",
+          "whyItIsWrong": "A droga citocalasina B não atua no DNA ou centro de controle genético nesta questão."
+        },
+        {
+          "option": "E) Membrana plasmática",
+          "likelyReasoning": "A membrana mantém a integridade, podendo influenciar a forma, mas não o movimento interno ao interferir nos microfilamentos.",
+          "misconceptionType": "Confusão entre membrana e estruturas internas.",
+          "whyItLooksPlausible": "Formas anormais podem sugerir alteração da membrana.",
+          "whyItIsWrong": "A ação da citocalasina B é interna, atuando na rede de microfilamentos, que dá suporte à membrana."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Identificar componentes do citosqueleto afetados por drogas químicas.",
+        "secondarySkills": [
+          "Interpretar imagens de células com diferentes tratamentos.",
+          "Relacionar conhecimento de funções celulares à observação visual."
+        ],
+        "cognitiveDemand": "Médio, envolve compreensão do citosqueleto e análise de imagens.",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Fundamental conhecer o papel dos microfilamentos na sustentação da célula.",
+          "A interpretação da imagem é essencial para a resposta."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Efeito de drogas no citosqueleto",
+        "interpretationIntro": "A questão avalia o entendimento do impacto de drogas específicas nos componentes do citosqueleto celular, especialmente o efeito da citocalasina B em células de ameba.",
+        "commandTerms": [
+          {
+            "term": "componentes do citosqueleto",
+            "explanation": "Estruturas internas que dão suporte, forma e movimentação às células."
+          },
+          {
+            "term": "microfilamentos",
+            "explanation": "Filamentos de actina que formam parte do citosqueleto, importantes na sustentação da forma celular e movimento."
+          }
+        ],
+        "whatTheQuestionAsks": "Qual componente celular foi afetado pela droga citocalasina B no experimento com a ameba?",
+        "strategyParagraph": "Ao observar as diferenças de forma e movimento na imagem, relaciona-se a ação da citocalasina B na despolimerização dos microfilamentos, que compõem uma rede de suporte estrutural e motilidade da célula.",
+        "reviewTable": [
+          {
+            "concept": "Citosqueleto",
+            "keyIdea": "Microfilamentos de actina sustentam a forma e a movimentação da célula.",
+            "application": "A droga citocalasina B prejudica esses microfilamentos, levando à perda de forma e movimento na célula tratada."
+          }
+        ],
+        "theoryParagraphs": [
+          "O citosqueleto é uma rede de filamentos internos que dá forma à célula e possibilita seu movimento.",
+          "Microfilamentos, formados por actina, são os principais componentes na sustentação da forma e na movimentação celular.",
+          "Drogas como a citocalasina B atuam na despolimerização e desorganização desses microfilamentos, afetando as funções citosqueléticas."
+        ],
+        "resolutionParagraphs": [
+          "A análise das imagens mostra que a célula tratada perdeu sua forma e movimento, indicando a destruição do suporte estrutural interno.",
+          "Sabe-se que a citocalasina B atua na despolimerização de microfilamentos de actina, interrompendo sua formação e manutenção.",
+          "Portanto, a estrutura afetada pela droga são os microfilamentos, essenciais na manutenção da forma e na movimentação das células."
+        ],
+        "puloDoGato": "A citocalasina B destrói microfilamentos, impedindo o movimento e a forma celular.",
+        "alternatives": [
+          {
+            "option": "A) Vacúolos",
+            "isCorrect": false,
+            "explanation": "Vacúolos armazenam substâncias, mas não estão diretamente envolvidos na manutenção da forma ou movimento impulsionado pela citocalasina B."
+          },
+          {
+            "option": "B) Mitocôndrias",
+            "isCorrect": false,
+            "explanation": "Mitocôndrias produzem energia, mas não são responsáveis pela sustentação estrutural ou movimento imediato afetado pela droga."
+          },
+          {
+            "option": "C) Microfilamentos",
+            "isCorrect": true,
+            "explanation": "Microfilamentos, feitos de actina, sustentam a forma e movimento das células, e são afetados pela ação da citocalasina B."
+          },
+          {
+            "option": "D) Material genético",
+            "isCorrect": false,
+            "explanation": "O DNA regula funções celulares, não sendo o alvo imediato da ação da citocalasina B na estrutura do citosqueleto."
+          },
+          {
+            "option": "E) Membrana plasmática",
+            "isCorrect": false,
+            "explanation": "A membrana mantém a integridade da célula, mas sua alteração não é o efeitoprimário da citocalasina B, que age nos microfilamentos internos."
+          }
+        ],
+        "questionCode": "CIEN_CEL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão apresenta coerência entre o enunciado, a resolução e a explicação. Os conceitos de citosqueleto, microfilamentos e ação da droga estão bem relacionados.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3530,
+    "outputTokens": 2112,
+    "estimatedCostUsd": 0.001198
+  }
+}

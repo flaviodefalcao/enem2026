@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:31:36.801Z",
+  "questionId": "enem-2024-linguagens-q032",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é a correta porque o texto destaca a atmosfera de afeto entre a narradora e Marília, evidenciado pelo cuidado sensível nas ações de ambas e pelo reconhecimento do carinho mesmo nas imperfeições.",
+        "strategy": "Análise do trecho por elementos que indicam emoção e relação entre personagens, buscando compreender o sentido do drama físico narrado para identificar o sentimento principal transmitido.",
+        "steps": [
+          "Leitura atenta do trecho para identificar os elementos que apresentam o drama da narradora.",
+          "Identificação das ações de Marília e da narradora que demonstram cuidado e afeto, como o uso do andador, o fechar do casaco e o aperto nos ombros.",
+          "Observação da expressão 'Eu gosto. Porque entendo que naquele ato, naquela força está o nosso carinho.' que explicita o sentimento de afeto.",
+          "Comparação das alternativas com o sentido transmitido no texto, descartando aquelas que não enfatizam a relação afetiva.",
+          "Conclusão de que a alternativa B representa melhor a sensibilidade lírica presente no trecho."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O trecho transmite uma sensibilidade lírica focada no afeto e no cuidado mútuo entre a narradora e Marília, mesmo diante das dificuldades físicas. Isso fica claro nas pequenas ações que revelam carinho e na valorização da presença e da força no relacionamento.",
+        "stepByStep": [
+          "Leia o trecho atentamente, percebendo as descrições do cotidiano e as sensações que a narradora expressa.",
+          "Note as atitudes de Marília, como ajudar com o andador e cobrir a narradora com a manta, que evidenciam cuidado.",
+          "Observe as emoções implícitas, especialmente na frase que revela como a narradora interpreta o gesto de carinho mesmo na certa força brusca.",
+          "Analise as alternativas oferecidas, buscando qual delas enfatiza o afeto e a sensibilidade entre as personagens.",
+          "Escolha a alternativa que melhor representa a atmosfera de cuidado e ligação emocional presente no texto."
+        ],
+        "commonPitfalls": [
+          "Interpretar o foco do texto apenas nas limitações físicas ou na necessidade de adaptações no espaço.",
+          "Concluir que o trecho enfatiza somente a dependência física da narradora sem perceber a força do vínculo afetivo.",
+          "Desconsiderar o tom lírico e emocional, focando apenas em aspectos práticos e literais da narrativa.",
+          "Confundir a expressão de carinho com simples descrição de ações e perder o sentido simbólico do cuidado."
+        ],
+        "teachingTips": [
+          "Estimule os alunos a identificar o tom geral do texto, perguntando que sentimento ele transmite.",
+          "Peça para destacarem frases que evidenciem emoções e relações entre personagens.",
+          "Trabalhe a importância de ler além do literal, compreendendo nuances de sentimentos por meio de ações cotidianas.",
+          "Utilize questionamentos que direcionem os alunos a relacionar emoções com as escolhas narrativas do texto.",
+          "Incentive a análise comparativa das alternativas, refletindo sobre o que cada uma implica em relação ao texto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O texto menciona o uso do andador e dificuldade com escadas, fazendo o leitor pensar na necessidade de adaptações no ambiente.",
+          "misconceptionType": "Foco em detalhes literais sem considerar o sentido geral do trecho.",
+          "whyItLooksPlausible": "Menção explícita a equipamentos e limitações físicas pode sugerir a necessidade de alterações na casa.",
+          "whyItIsWrong": "O foco do trecho não é instruir sobre adaptações na casa, mas sim transmitir a relação afetiva entre personagens."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A narradora depende do apoio de Marília para se movimentar, levando à conclusão de dependência.",
+          "misconceptionType": "Interpretação literal da dependência física sem captar o tom afetivo.",
+          "whyItLooksPlausible": "Descrever a narradora utilizando andador e tendo dificuldade com escadas pode sugerir dependência.",
+          "whyItIsWrong": "Apesar da presença de auxílio, o texto enfatiza o carinho e autonomia preservada, não apenas dependência."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "O trecho destaca ações rotineiras como tomar café e sair para o pátio, sugerindo resistência em mudar a rotina.",
+          "misconceptionType": "Generalização da rotina sem considerar o sentido principal do trecho.",
+          "whyItLooksPlausible": "A narradora demonstra vontade de se levantar sozinha e manter hábitos.",
+          "whyItIsWrong": "A rotina serve mais como cenário para a relação afetiva do que como foco do sofrimento ou drama."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "A narradora decide não usar elevador nem cadeira de rodas, parecendo aceitar as limitações de mobilidade.",
+          "misconceptionType": "Sinalizar aceitação literal das restrições em vez de enfatizar o afeto.",
+          "whyItLooksPlausible": "Frases sobre não tolerar elevador ou rampa podem indicar uma aceitação das limitações.",
+          "whyItIsWrong": "O trecho foca mais no sentimento e no cuidado mútuo que na simples aceitação das limitações físicas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto e análise literária",
+        "secondarySkills": [
+          "Compreensão de sentimentos e relações interpessoais",
+          "Leitura crítica"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige interpretar a sensibilidade e o tom afetivo do trecho narrativo, relacionando com as alternativas.",
+          "Não há elementos visuais para suporte da resolução.",
+          "O leitor deve ir além da descrição literal e captar o sentido emocional do texto."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📝",
+        "shortThemeTitle": "Sensibilidade lírica e afeto na narrativa",
+        "interpretationIntro": "A questão pede que se identifique a sensibilidade lírica centrada na narrativa do drama físico apresentado no trecho, destacando qual sentimento predomina na relação entre as personagens.",
+        "commandTerms": [
+          {
+            "term": "Sensibilidade lírica",
+            "explanation": "Capacidade do texto expressar emoções e sentimentos de forma poética ou emotiva."
+          },
+          {
+            "term": "Transmite",
+            "explanation": "Revela ou comunica uma ideia ou sentimento através dos elementos do texto."
+          }
+        ],
+        "whatTheQuestionAsks": "O enunciado solicita a compreensão do sentimento central transmitido pela narradora diante das dificuldades físicas e da relação estabelecida com Marília.",
+        "strategyParagraph": "Para responder, é fundamental ler o trecho atentamente, identificar os gestos e as atitudes que revelam os sentimentos das personagens, e analisar como esses elementos se combinam para produzir uma atmosfera de afeto e cuidado. É importante focar não apenas nas limitações físicas, mas principalmente na dimensão emocional traduzida pela narrativa.",
+        "reviewTable": [
+          {
+            "concept": "Sensibilidade lírica",
+            "keyIdea": "Expressão de sentimentos através de pequenos detalhes e cenas do cotidiano",
+            "application": "No trecho, o cuidado e o afeto são revelados por meio de gestos delicados e descrições sensoriais."
+          },
+          {
+            "concept": "Relação interpessoal",
+            "keyIdea": "Dinâmica afetiva entre personagens evidenciada pelas ações e percepções",
+            "application": "A interação entre narradora e Marília traduz carinho mesmo diante das dificuldades físicas."
+          },
+          {
+            "concept": "Interpretar além do literal",
+            "keyIdea": "Compreender emoções implícitas e simbolismos no texto",
+            "application": "As ações descritas carregam significado emocional que ultrapassa a descrição factual."
+          }
+        ],
+        "theoryParagraphs": [
+          "Sensibilidade lírica refere-se à forma como a linguagem literária expressa emoções profundas, utilizando imagens, sentimentos e pequenas ações que evocam o íntimo e o subjetivo do narrador ou das personagens. Esse tipo de sensibilidade é percebido pelo leitor em detalhes sutis, que comunicam afeto, dor ou alegria de uma maneira mais poética e humana.",
+          "Na análise de textos narrativos contemporâneos, compreender a relação entre personagens e o ambiente em volta é fundamental para identificar as emoções presentes. O cuidado, o toque, o olhar e as atitudes cotidianas são veículos para transmitir o que não está explicitamente dito, revelando a carga emocional subjacente.",
+          "Para interpretar corretamente, deve-se ir além da literalidade do texto, buscando o significado simbólico das ações e a atmosfera criada pelas palavras. Isso permite uma leitura enriquecedora, reconhecendo a dimensão lírica do texto e a sensibilidade que ele carrega. "
+        ],
+        "resolutionParagraphs": [
+          "Ao ler o trecho, percebe-se que a narradora enfrenta dificuldades físicas, mas o que se destaca é o cuidado carinhoso de Marília e o reconhecimento desse afeto pela narradora.",
+          "As ações de Marília, como pegar o andador, colocar a manta e apertar os ombros de maneira firme, indicam um amor que se manifesta mesmo em gestos imperfeitos.",
+          "A expressão clara do sentimento aparece na frase: 'Eu gosto. Porque entendo que naquele ato, naquela força está o nosso carinho.' Essa frase revela que o que predomina não é o sofrimento, mas a sensibilidade e o vínculo afetivo.",
+          "Ao analisar as alternativas, aquela que melhor capta essa sensibilidade lírica e o afeto mútuo é a alternativa B, pois reflete o verdadeiro centro da narrativa deste trecho."
+        ],
+        "puloDoGato": "Foque no que o texto transmite emocionalmente, não apenas nas descrições físicas ou limitações.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar de o texto mencionar dispositivos como o andador, seu foco principal não é a necessidade de adaptações no espaço físico, mas o cuidado e a relação afetiva entre as personagens."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta porque identifica a sensibilidade lírica como centrada no afeto e cuidado entre a narradora e Marília, evidenciada pelas pequenas ações e reconhecimento emocional."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Embora existam indicações de dependência física, o texto destaca a autonomia preservada e o carinho, não apenas a dependência."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "A rotina está presente, mas ela serve de cenário para o relacionamento afetivo, não sendo o foco principal da sensibilidade lírica."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A aceitação das limitações físicas é mencionada, porém o trecho enfatiza mais a dimensão do cuidado e do afeto do que a mera aceitação."
+          }
+        ],
+        "questionCode": "LINGUAGENS_INTERPRETACAO_ENUNCIADO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e alinhados quanto ao entendimento central da questão: a sensibilidade lírica centrada no afeto entre as personagens. As alternativas estão bem comentadas e a resolução consolidada segue a estrutura editorial solicitada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2754,
+    "outputTokens": 2261,
+    "estimatedCostUsd": 0.004719
+  }
+}

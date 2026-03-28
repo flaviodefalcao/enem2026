@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:10:57.357Z",
+  "questionId": "enem-2024-linguagens-q019",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto do romance destaca o contraste entre a vida confortável da narradora e a de Sancha, uma jovem negra em condições muito precárias, evidenciando uma crítica social à exploração da força de trabalho da população negra no Brasil pós-abolição.",
+      "stepByStep": [
+        "Leia o fragmento atentamente, identificando os personagens e suas condições de vida.",
+        "Note que a narradora vive em conforto enquanto Sancha vive em miséria e sofrimento.",
+        "Observe como o texto mostra um contraste forte entre essas duas realidades.",
+        "Perceba que essa comparação implica uma crítica social sobre desigualdade e exploração.",
+        "Relacione essa crítica com o contexto histórico do Brasil pós-abolição, quando muitos negros foram libertados da escravidão, mas continuaram em situação de exploração.",
+        "Com base nisso, identifique que a questão aborda a crítica da exploração da força de trabalho da população negra no período pós-abolição."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o foco da crítica é a arte ou a produção artística mencionada no texto, o que não é o tema central.",
+        "Confundir a análise com aspectos relacionados apenas à pobreza ou condições de moradia, sem perceber a dimensão da exploração social e racial.",
+        "Achar que o texto trata da emancipação política feminina, quando o foco é a questão racial e social.",
+        "Generalizar o conflito social como uma disputa entre brancos e negros, sem observar que o foco está na exploração da população negra.",
+        "Ignorar o contexto histórico, o que dificulta compreender a crítica social presente no texto."
+      ],
+      "teachingTips": [
+        "Apresente aos alunos o contexto histórico do Brasil no pós-abolição para fundamentar a leitura do texto.",
+        "Incentive a leitura cuidadosa do fragmento, destacando as diferenças entre as personagens para perceber o contraste social.",
+        "Explique a importância da análise crítica em textos literários, conectando elementos da narrativa ao cenário social.",
+        "Use questionamentos que levem os alunos a refletirem sobre desigualdade social e racial presentes no texto.",
+        "Mostre como eliminar alternativas incorretas ao identificar o tema central, ajudando no desenvolvimento da habilidade de interpretação crítica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1481,
+    "outputTokens": 435,
+    "estimatedCostUsd": 0.001288
+  }
+}

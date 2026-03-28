@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:41:36.002Z",
+  "questionId": "enem-2024-linguagens-q003",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A imagem usa uma metáfora visual que mostra a destruição da natureza como se fosse a exclusão de arquivos em um computador, alertando sobre a rápida perda ambiental.",
+      "stepByStep": [
+        "Observe que a imagem apresenta uma barra de progresso típica de programas de computador com a frase '70% Deleted', aplicada a símbolos de árvores que vão desaparecendo.",
+        "Note o texto informando o tempo estimado restante para a remoção ('2 décadas'), indicando que essa destruição está acontecendo rápido.",
+        "Relacione essa metáfora à mensagem que a imagem quer passar: um alerta sobre a rápida destruição da natureza.",
+        "Analise as alternativas e descarte aquelas que falam apenas em passagem do tempo, avanços tecnológicos, orientações de uso sustentável ou crescimento das árvores, pois não correspondem à mensagem principal.",
+        "Escolha a alternativa que aponta o alerta para a rápida destruição da natureza, que é o foco da metáfora criada na imagem."
+      ],
+      "commonPitfalls": [
+        "Confundir a indicação do tempo na imagem como simples passagem do tempo, sem associar à ideia de destruição.",
+        "Interpretar os elementos tecnológicos como sinal de avanço ou benefício, ao invés de uma metáfora crítica.",
+        "Tentar ver na imagem uma orientação para uso sustentável quando ela mostra justamente uma remoção rápida e prejudicial.",
+        "Entender o tempo mostrado como referência ao crescimento natural das árvores, e não à sua destruição."
+      ],
+      "teachingTips": [
+        "Explique o conceito de metáfora visual e como símbolos tecnológicos podem ser usados para criticar problemas ambientais.",
+        "Peça aos alunos que descrevam o que veem antes de ler o enunciado, para estimular a interpretação visual e a inferência.",
+        "Discuta a importância de analisar o contexto e os elementos textuais para compreender a mensagem completa.",
+        "Incentive a leitura crítica das alternativas para identificar qual reflete de fato a mensagem central da imagem.",
+        "Use outras metáforas visuais para praticar interpretação e análise crítica em diferentes contextos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1829,
+    "outputTokens": 402,
+    "estimatedCostUsd": 0.001375
+  }
+}

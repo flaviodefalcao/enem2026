@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 155 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Um proprietário deseja instalar um sensor de presença para proteger seu imóvel. A área de cobertura do sensor é um setor circular definido pelo ponto \(S\), com raio \(R\) e ângulo de abertura \(\alpha\), ambos variando conforme o modelo do sensor. Cinco tipos de sensores estão disponíveis, com especificações:
+\begin{itemize}
+  \item Tipo I: \(\alpha = 15^\circ\), \(R = 20\,m\);
+  \item Tipo II: \(\alpha = 30^\circ\), \(R = 22\,m\);
+  \item Tipo III: \(\alpha = 40^\circ\), \(R = 12\,m\);
+  \item Tipo IV: \(\alpha = 60^\circ\), \(R = 16\,m\);
+  \item Tipo V: \(\alpha = 90^\circ\), \(R = 10\,m\).
+\end{itemize}
+O proprietário requer um sensor com área mínima de cobertura de 70 \(\mathrm{m}^2\), desejando o modelo mais barato possível (menor área que atenda a essa condição). Considere \(\pi \approx 3\).
+
+\subsection*{Solução}
+Aplicamos a fórmula da área do setor circular:
+\[
+A = \frac{\alpha}{360} \times \pi \times R^2.
+\]
+Calculando para cada sensor:
+
+\begin{tabular}{c|c|c|c}
+Tipo & $\alpha$ (°) & $R$ (m) & $A$ ($\mathrm{m}^2$) \\
+\hline
+I & 15 & 20 & $\frac{15}{360} \times 3 \times 400 = 50$ \\
+II & 30 & 22 & $\frac{30}{360} \times 3 \times 484 = 121$ \\
+III & 40 & 12 & $\frac{40}{360} \times 3 \times 144 = 48$ \\
+IV & 60 & 16 & $\frac{60}{360} \times 3 \times 256 = 128$ \\
+V & 90 & 10 & $\frac{90}{360} \times 3 \times 100 = 75$ \\
+\end{tabular}
+
+Sensores que atendem a pelo menos 70 m²: tipos II, IV e V.
+
+\subsection*{Escolha final}
+Entre os sensores que cobrem a área mínima, o tipo V apresenta a menor área de 75 m², o que também indica menor preço. Portanto, o proprietário deve adquirir o sensor do tipo \textbf{V}.
+
+\subsection*{Discussão de alternativas incorretas}
+\begin{itemize}
+\item Tipo I e III possuem áreas inferiores ao mínimo, logo não atendem.
+\item Tipo II e IV atendem, porém têm áreas maiores que o tipo V, o que pressupõe maior custo.
+\end{itemize}
+
+\subsection*{Perfil da questão}
+A questão avalia a habilidade de cálculo da área de setores circulares, interpretação de figuras geométricas e tomada de decisão baseada em comparação quantitativa.
+
+\subsection*{Considerações finais}
+A resposta correta é a opção que representa o sensor do tipo \textbf{V}.
+
+\end{document}

@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:40:15.608Z",
+  "questionId": "enem-2024-linguagens-q002",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa 'A' está correta porque o marcador 'instead of' introduz a ideia de substituição ou mudança de comportamento, contrastando a ação negativa anterior com uma sugestão positiva.",
+      "strategy": "Analisar o significado do marcador conjuntivo 'instead of' no contexto da letra da música, buscando compreender a ideia que ele introduz em relação ao trecho anterior.",
+      "steps": [
+        "Identificar no trecho quais são as ações ou comportamentos apresentados antes do 'instead of'.",
+        "Observar que 'polishing the bombs of holy war' refere-se a uma ação negativa (preparar bombas para uma guerra santa).",
+        "Interpretar que 'instead of' indica que algo deve ser feito em lugar dessa ação negativa.",
+        "Observar que as linhas anteriores sugerem amor e cuidado como alternativas.",
+        "Concluir que 'instead of' indica mudança de comportamento, de ódio e guerra para amor e cuidado."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode ter interpretado o trecho como evidência de um contexto contínuo de conflitos, associando 'holy war' a um panorama bélico.",
+        "misconceptionType": "Interpretação parcial",
+        "whyItLooksPlausible": "O termo 'holy war' e a menção a bombas reforçam a ideia de conflitos.",
+        "whyItIsWrong": "O marcador 'instead of' indica uma alternativa à guerra, não a descrição do conflito em si."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se achar que o 'locked in' implica isolamento, levando à ideia de 'rotina de isolamento'.",
+        "misconceptionType": "Foco em vocabulário isolado",
+        "whyItLooksPlausible": "A expressão 'keep yourself locked in' sugere isolamento.",
+        "whyItIsWrong": "O foco do marcador 'instead of' não ressalta o isolamento, mas a mudança de comportamento para amor."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A menção a bombas e guerra pode levar à escolha da perspectiva bélica.",
+        "misconceptionType": "Interpretação literal",
+        "whyItLooksPlausible": "'Polishing the bombs of holy war' claramente remete ao contexto militar.",
+        "whyItIsWrong": "O 'instead of' propõe mudança, não reforça a perspectiva bélica."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A expressão 'holy war' pode fazer o candidato pensar diretamente em um cenário religioso.",
+        "misconceptionType": "Associação direta",
+        "whyItLooksPlausible": "'Holy war' é termo ligado a guerras religiosas.",
+        "whyItIsWrong": "Embora o tema religioso esteja presente, o foco do 'instead of' não é no cenário religioso mas na mudança de comportamento."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Análise linguística",
+        "Compreensão de conectivos",
+        "Inferência de sentido"
+      ],
+      "cognitiveDemand": "Medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto de letra de música com linguagem figurada.",
+        "Foco no entendimento do conector 'instead of' para indicar contraste e substituição.",
+        "Requer habilidade para inferir a intenção comunicativa do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 564,
+    "outputTokens": 677,
+    "estimatedCostUsd": 0.001309
+  }
+}

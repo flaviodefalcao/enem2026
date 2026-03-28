@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:34:24.968Z",
+  "questionId": "enem-2024-q156",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O valor a ser pago pela corrida é dado pela soma da tarifa fixa, mais o custo proporcional ao tempo da viagem e à distância percorrida. Assim, a fórmula correta é V = 2,00 + 0,26T + 1,40D.",
+      "stepByStep": [
+        "Compreenda que o valor total V depende de três elementos: tarifa fixa, tempo de viagem e distância percorrida.",
+        "Identifique os valores dados no problema: tarifa fixa F = 2,00 reais, custo por minuto = 0,26 reais, custo por quilômetro = 1,40 reais.",
+        "Formule a expressão matemática somando a tarifa fixa com os custos proporcionais ao tempo e à distância: V = 2,00 + 0,26T + 1,40D.",
+        "Verifique entre as opções qual expressão corresponde exatamente à fórmula montada, confirmando a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir a tarifa fixa com um coeficiente multiplicando uma variável, em vez de ser um valor constante somado.",
+        "Esquecer de multiplicar a distância pelo custo por quilômetro, tratando D como um valor isolado.",
+        "Ignorar completamente a tarifa fixa, considerando apenas o custo variável.",
+        "Representar a fórmula apenas com variáveis sem os coeficientes numéricos correspondentes, perdendo o sentido monetário."
+      ],
+      "teachingTips": [
+        "Use exemplos numéricos simples para mostrar a importância de somar a tarifa fixa ao custo variável.",
+        "Explique a diferença entre termos constantes (tarifa fixa) e termos variáveis multiplicados por coeficientes.",
+        "Estimule os alunos a montar expressões algébricas a partir de situações do cotidiano para facilitar a compreensão.",
+        "Reforce a interpretação correta das variáveis e coeficientes dentro do contexto do problema."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1341,
+    "outputTokens": 373,
+    "estimatedCostUsd": 0.001133
+  }
+}

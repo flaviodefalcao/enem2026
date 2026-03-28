@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:08:59.371Z",
+  "questionId": "enem-2024-ciencias-humanas-q079",
+  "payload": {
+    "theme": "Espaço geográfico e território",
+    "subtheme": "Dinâmicas populacionais",
+    "rationale": "A questão aborda o acolhimento e a integração de refugiados, que são fluxos populacionais forçados, e discute políticas públicas para eliminar fronteiras de exclusão, o que está diretamente relacionado à dinâmica populacional na geografia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 793,
+    "outputTokens": 77,
+    "estimatedCostUsd": 0.00044
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:20:07.482Z",
+  "questionId": "enem-2024-linguagens-q020",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A crônica mantém a unidade temática ao repetir a palavra \"coisa\" e seus derivados várias vezes ao longo do texto, utilizando o recurso de reiteração para reforçar o tema principal.",
+      "stepByStep": [
+        "Leia o texto atentamente e observe as palavras ou expressões que se repetem.",
+        "Identifique qual recurso linguístico está sendo usado para conectar as ideias e garantir a unidade do texto.",
+        "Veja que a palavra \"coisa\" e variantes aparecem frequentemente, criando um elo temático.",
+        "Analise as alternativas e verifique qual delas corresponde ao uso dessa repetição no texto.",
+        "Conclua que o recurso utilizado é a reiteração, pois ela mantém a unidade textual por meio da repetição lexical."
+      ],
+      "commonPitfalls": [
+        "Confundir a repetição de \"coisa\" com intertextualidade, por causa das citações a Caetano Veloso.",
+        "Assumir que metalinguagem está presente ao interpretar a autora falando sobre sua escrita, sem que isso seja foco do texto.",
+        "Entender que conectores como \"quando\" e \"porque\" são o principal recurso para unidade temática, quando eles são apenas coesivos.",
+        "Pensar que a pronominalização é o recurso principal por causa dos pronomes presentes, mesmo que eles não sejam o foco para a unidade do texto.",
+        "Associar erroneamente elementos que não aparecem no texto (ex: \"um namorado ruim\" e \"lo\") ao recurso textual em questão."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre os principais recursos de coesão e progressão textual: reiteração, pronominalização, substituição, elipse, e conectores.",
+        "Use exemplos claros e textos curtos para que os alunos identifiquem a repetição de palavras como recurso de reiteração.",
+        "Peça para os alunos destacarem as palavras repetidas em um texto e discutirem qual efeito elas produzem na unidade temática.",
+        "Mostre como as citações e referências não necessariamente configuram intertextualidade que sustenta o texto inteiro.",
+        "Estimule os alunos a sempre relacionarem o recurso linguístico com o objetivo de manter a unidade e progressão do texto, evitando confusão com outros elementos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1591,
+    "outputTokens": 451,
+    "estimatedCostUsd": 0.001358
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:40:57.956Z",
+  "questionId": "enem-2024-linguagens-q003",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Inferência e informação implícita",
+    "rationale": "A questão apresenta um texto em língua estrangeira que faz uma relação metafórica entre a destruição da natureza e comandos de computador, explorando a interpretação das informações implícitas no exemplo dado, o que está alinhado com entender inferências no texto.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1372,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.000675
+  }
+}

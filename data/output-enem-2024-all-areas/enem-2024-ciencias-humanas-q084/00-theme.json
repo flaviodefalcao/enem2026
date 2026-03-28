@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:14:11.544Z",
+  "questionId": "enem-2024-ciencias-humanas-q084",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Patrimônio cultural",
+    "rationale": "A questão trata do regatão, uma prática de comércio fluvial tradicional da Amazônia no século XIX, considerada patrimônio cultural da região. A questão aborda as relações sociais e culturais estabelecidas por meio dessa atividade, o que está alinhado ao estudo do patrimônio cultural dentro da temática de cultura e identidade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1255,
+    "outputTokens": 85,
+    "estimatedCostUsd": 0.000638
+  }
+}

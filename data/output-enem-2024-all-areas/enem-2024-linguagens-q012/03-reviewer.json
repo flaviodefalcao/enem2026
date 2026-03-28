@@ -1,0 +1,189 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:05:40.666Z",
+  "questionId": "enem-2024-linguagens-q012",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta porque a preservação da Língua da Tabatinga está diretamente relacionada ao fortalecimento do sentimento de identidade cultural e linguística dos seus falantes, conforme explicitado no texto.",
+        "strategy": "Analisar o texto para identificar as motivações que levam à preservação da Língua da Tabatinga e confrontar essas informações com as alternativas apresentadas para selecionar a que melhor expressa esse motivo.",
+        "steps": [
+          "Ler atentamente o texto e destacar aspectos que expliquem a preservação da Língua da Tabatinga.",
+          "Identificar que os falantes veem a língua como um legado cultural ligado à sua origem afro-brasileira.",
+          "Observar que há um fortalecimento da identidade linguística e cultural que motiva a preservação e transmissão da língua.",
+          "Analisar as alternativas para verificar qual delas está alinhada com essa informação.",
+          "Excluir alternativas que trazem informações não sustentadas pelo texto, como prestígio social, passagem para escrita, função original da língua ou faixa etária dos falantes.",
+          "Concluir que a alternativa D, que indica a consolidação do sentimento de identidade linguística, é a correta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A Língua da Tabatinga é preservada porque seus falantes reconhecem sua importância para a identidade afro-brasileira, o que fortalece o senso de pertencimento e a transmissão da língua como um legado cultural.",
+        "stepByStep": [
+          "Leia o texto atentamente para entender o contexto histórico e social da Língua da Tabatinga.",
+          "Identifique que o texto reforça o vínculo dos falantes com sua origem africana e a valorização da língua como um legado.",
+          "Observe que a preservação está ligada ao fortalecimento da identidade linguística dos falantes.",
+          "Analise as alternativas e compare com as informações do texto.",
+          "Elimine alternativas que mencionam fatores não contemplados ou contraditos pelo texto.",
+          "Selecione a alternativa que evidencia o papel da identidade linguística na preservação da língua."
+        ],
+        "commonPitfalls": [
+          "Considerar que a passagem da língua da oralidade para a escrita é motivo de preservação, quando o texto não menciona isso.",
+          "Achar que o prestígio social dos falantes aumentou e isso ajuda na preservação, quando o texto fala em estigma.",
+          "Pensar que a função original de língua secreta se mantém como motivo da preservação, o que o texto contraria.",
+          "Associar a faixa etária homogênea dos falantes à preservação, embora o texto não indique isso.",
+          "Não reconhecer a ligação entre identidade cultural e a preservação linguística."
+        ],
+        "teachingTips": [
+          "Incentive a leitura atenta e a identificação dos elementos no texto que explicam fenômenos sociais e culturais.",
+          "Apresente exemplos de línguas ou dialetos que foram preservados por motivos de identidade cultural.",
+          "Trabalhe a ideia de que valores sociais e sentido de pertencimento podem estimular a conservação de uma língua.",
+          "Estimule a análise cuidadosa das alternativas, buscando evidência direta no texto.",
+          "Explique que as funções e usos das línguas podem mudar com o tempo e isso influencia na sua preservação."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode acreditar que a transição da língua da oralidade para a escrita favorece a preservação.",
+          "misconceptionType": "Confusão sobre formas de preservação linguística",
+          "whyItLooksPlausible": "Em geral, a escrita ajuda na documentação e preservação das línguas.",
+          "whyItIsWrong": "O texto não menciona a escrita como fator para a preservação da Língua da Tabatinga."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode-se pensar que o prestígio social dos falantes contribui para a preservação da língua.",
+          "misconceptionType": "Associação incorreta entre classe social e valorização linguística",
+          "whyItLooksPlausible": "O prestígio social frequentemente valoriza elementos culturais de um grupo.",
+          "whyItIsWrong": "O texto enfatiza o estigma e rejeição social, não o prestígio dos falantes."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode parecer que a língua mantém a mesma função original e isso impede que desapareça.",
+          "misconceptionType": "Falsa atribuição da função original",
+          "whyItLooksPlausible": "A manutenção da função social pode justificar o uso contínuo de uma língua.",
+          "whyItIsWrong": "O texto explica que a função mudou, existindo agora uma valorização identitária."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O aluno pode considerar que a faixa etária dos falantes é um fator de preservação.",
+          "misconceptionType": "Interpretação incorreta de dados demográficos",
+          "whyItLooksPlausible": "Grupos com faixa etária determinada podem influenciar a transmissão linguística.",
+          "whyItIsWrong": "O texto apenas informa a faixa etária, sem relacioná-la à preservação da língua."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de texto",
+        "secondarySkills": [
+          "Análise crítica",
+          "Relação entre linguagem e identidade cultural"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão exige interpretação textual focada na relação entre língua e identidade social.",
+          "Não depende de elementos visuais ou cálculos.",
+          "Enfatiza a compreensão da relação entre valor cultural e preservação linguística."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Preservação Linguística e Identidade Cultural",
+        "interpretationIntro": "A questão solicita que se identifique o motivo pelo qual a Língua da Tabatinga tem sido preservada, com base nas informações do texto fornecido.",
+        "commandTerms": [
+          {
+            "term": "Preservar",
+            "explanation": "Manter a existência ou continuidade de algo ao longo do tempo."
+          },
+          {
+            "term": "Identidade linguística",
+            "explanation": "Sensação de pertencimento e ligação cultural manifestada pelo uso e valorização da língua."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar a razão principal indicada no texto para a preservação da Língua da Tabatinga.",
+        "strategyParagraph": "Para resolver a questão, é imprescindível realizar uma leitura atenta do texto, destacando elementos que expliquem a preservação da língua. Em seguida, analisar criticamente as alternativas, confrontando-as com as informações textuais para validar a correta. O foco está no aspecto sociocultural que justifica a manutenção da fala como legado e símbolo de identidade.",
+        "reviewTable": [
+          {
+            "concept": "Identidade Linguística",
+            "keyIdea": "Língua como elemento central da identidade cultural do grupo",
+            "application": "Motiva os falantes a valorizar e transmitir a Língua da Tabatinga"
+          },
+          {
+            "concept": "Estigma Social",
+            "keyIdea": "Contexto social desfavorável não impede valorização interna",
+            "application": "Apesar do preconceito, há fortalecimento do sentimento de pertencimento"
+          },
+          {
+            "concept": "Função Social da Língua",
+            "keyIdea": "Mudança da função original de código secreto para símbolo cultural",
+            "application": "Nova função está ligada à preservação e identidade"
+          },
+          {
+            "concept": "Faixa Etária dos Falantes",
+            "keyIdea": "Informação demográfica sem relação direta com preservação",
+            "application": "Não caracteriza motivo para manter a língua viva"
+          }
+        ],
+        "theoryParagraphs": [
+          "Línguas e dialetos frequentemente estão ligados à identidade cultural de grupos sociais. Quando os falantes reconhecem e valorizam sua língua como parte do patrimônio cultural e histórico, isso fortalece o desejo de preservá-la e transmiti-la para futuras gerações.",
+          "Aspectos sociais, como estigmatização ou preconceito, embora dificultem o uso open da língua, não necessariamente implicam em seu desaparecimento quando existe valorização interna do grupo. O sentimento de pertencimento pode superar barreiras externas.",
+          "A função social da língua pode mudar com o tempo. No caso da Língua da Tabatinga, sua função original como código secreto para pessoas escravizadas evoluiu para um símbolo de identidade cultural afro-brasileira, o que influencia diretamente sua preservação. "
+        ],
+        "resolutionParagraphs": [
+          "O texto apresenta a Língua da Tabatinga e destaca que embora tenha sofrido estigmatização por sua origem social e étnica, os falantes atuais têm uma forte consciência de sua descendência africana e da importância da língua para sua identidade.",
+          "Esse fortalecimento do sentimento de identidade linguística leva os falantes a enxergarem a língua como um legado cultural que deve ser preservado e transmitido para as próximas gerações, conforme indica o documento do Iphan citado no texto.",
+          "As alternativas devem ser analisadas à luz dessas informações. Frente a isso, só a alternativa D atribui a preservação ao fortalecimento da identidade linguística, alinhada com a leitura interpretativa do texto.",
+          "As outras alternativas apontam fatores não citados ou contrários ao texto, como prestígio social elevado, passagem para a escrita, manutenção da função original da língua, ou a homogeneidade da faixa etária dos falantes.",
+          "Portanto, a alternativa correta é a letra D, pois reflete o conteúdo e o sentido do texto: a preservação da Língua da Tabatinga ocorre porque seus falantes consolidaram um sentimento de identidade linguística e cultural que valoriza esse patrimônio."
+        ],
+        "puloDoGato": "Valorize sempre o vínculo entre língua e identidade cultural ao analisar questões sobre preservação linguística — o sentimento de pertencimento é chave para a conservação.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta. Embora a escrita costume ajudar na preservação de línguas, o texto não menciona a entrada da Língua da Tabatinga no uso escrito como motivo de preservação."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. O texto destaca estigma social contra os falantes, não um aumento de prestígio; portanto, esse não é um fator que contribui para a preservação da língua."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. A função original da língua como código secreto mudou; a preservação está ligada à valorização identitária, não à função inicial."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta. O texto aponta que a preservação decorre do fortalecimento do sentimento de identidade linguística e cultural entre os falantes, vinculando a língua ao legado afro-brasileiro."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta. A faixa etária dos falantes é informada, mas não é apresentada no texto como razão para a preservação da língua."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LINGUAGEM_IDENTIDADE_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "As informações do enunciado, solver e explainer estão alinhadas e coerentes. A resolução oficial segue a linguagem clara e didática, adequando-se ao formato editorial solicitado. Todos os aspectos interpretativos e analíticos são consistentes e as alternativas estão corretamente analisadas baseadas no conteúdo do texto.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2825,
+    "outputTokens": 2299,
+    "estimatedCostUsd": 0.004808
+  }
+}

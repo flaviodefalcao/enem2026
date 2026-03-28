@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:56:38.178Z",
+  "questionId": "enem-2024-ciencias-humanas-q065",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que a globalização transforma as identidades culturais tradicionais, tornando-as mais plurais, diversificadas e politizadas. Isso significa que as identidades não são mais fixas ou unificadas, mas variadas e abertas, o que fortalece a valorização das minorias e a diversidade cultural.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender o efeito da globalização nas identidades culturais.",
+        "Note que o texto fala em pluralidade e diversidade das identidades, que passam a ser mais políticas e menos fixas.",
+        "Observe que o texto não menciona aspectos econômicos, valores morais, igualdade racial específica ou migrações.",
+        "Relacione essa pluralidade a um fortalecimento das pautas das minorias e à valorização da diversidade cultural.",
+        "Escolha a alternativa que melhor representa essa ideia, que é a alternativa D, que fala do fortalecimento das pautas das minorias."
+      ],
+      "commonPitfalls": [
+        "Confundir pluralidade cultural com aumento de renda ou aspectos econômicos, que não são abordados no texto.",
+        "Interpretar a diversidade como perda ou abandono de valores morais tradicionais.",
+        "Associar diretamente a pluralidade identitária com igualdade racial, quando o texto é mais geral sobre identidades culturais.",
+        "Relacionar globalização com mudanças nos fluxos migratórios, que não são discutidas no excerto."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a fazerem uma leitura atenta e criteriosa do texto, destacando termos-chave como 'pluralizante', 'posições de identificação' e 'diversas'.",
+        "Explique o conceito de identidades culturais fluidas e plurais, mostrando como isso se manifesta no mundo contemporâneo.",
+        "Trabalhe com exemplos concretos de como a globalização pode ampliar o reconhecimento e a valorização das minorias culturais.",
+        "Pratique com os alunos a exclusão das alternativas que não têm relação direta com o texto, para desenvolver habilidades de compreensão e análise crítica.",
+        "Enfatize a importância de relacionar conceitos apresentados no texto com as alternativas de resposta, evitando suposições sem base textual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1148,
+    "outputTokens": 427,
+    "estimatedCostUsd": 0.001142
+  }
+}

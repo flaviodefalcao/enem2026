@@ -1,0 +1,183 @@
+{
+  "questionId": "enem-2024-linguagens-q040",
+  "generatedAt": "2026-03-28T00:38:21.521Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 741,
+      "outputTokens": 863,
+      "estimatedCostUsd": 0.001677
+    },
+    "explainer": {
+      "inputTokens": 1477,
+      "outputTokens": 372,
+      "estimatedCostUsd": 0.001186
+    },
+    "reviewer": {
+      "inputTokens": 2770,
+      "outputTokens": 1930,
+      "estimatedCostUsd": 0.004196
+    },
+    "totalEstimatedCostUsd": 0.007059
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o texto destaca a rivalidade entre os bois Caprichoso e Garantido, usando termos e elementos típicos do esporte como torcida, títulos e gritos de guerra, evidenciando a apropriação esportiva na manifestação folclórica.",
+      "strategy": "Identificação dos elementos de rivalidade, torcida e competividade esportiva presentes no texto, para relacioná-los ao contexto do festival de Parintins e escolher a alternativa que melhor reflete essa relação.",
+      "steps": [
+        "Ler o texto e identificar os elementos de competição entre os bois.",
+        "Observar títulos conquistados e músicas (gritos de guerra) como da torcida.",
+        "Relacionar rivalidade e torcida do festival com o esporte.",
+        "Comparar alternativas para achar a que expressa essa associação folclore-esporte.",
+        "Escolher a alternativa D por representar a aproximação do folclore com o esporte."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O festival de Parintins incorpora características típicas de competições esportivas, como rivalidade entre times, torcida, títulos e músicas de incentivo, mostrando a aproximação entre cultura folclórica e o esporte.",
+      "stepByStep": [
+        "Identificou-se no texto os aspectos competitivos, como o número de títulos dos bois.",
+        "Reconheceu-se a presença de torcidas e músicas que funcionam como gritos de guerra.",
+        "Compreendeu-se a metáfora que relaciona a manifestação folclórica com a lógica esportiva.",
+        "Analisou-se as alternativas para selecionar aquela que representa a apropriação esportiva na cultura folclórica."
+      ],
+      "commonPitfalls": [
+        "Focar apenas no local ou nome da cidade, sem perceber o tema principal da rivalidade esportiva.",
+        "Interpretar o texto como experiência turística, sem notar a dimensão competitiva.",
+        "Considerar o texto apenas como relato social pós-evento, sem relação com a rixa esportiva.",
+        "Confundir o termo “garanchoso” como relacionado à composição musical e não como fusão das torcidas."
+      ],
+      "teachingTips": [
+        "Estimule alunos a buscar metáforas e analogias entre cultura popular e esportes.",
+        "Destacar palavras-chave como torcida, rivalidade e títulos para entendimento de contextos implícitos.",
+        "Propor estudos de casos com outras manifestações culturais de rivalidade e competições.",
+        "Utilizar discussão sobre como cultura e esporte podem se misturar para ampliar compreensão cultural dos alunos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir a menção à localização com o foco principal da questão.",
+        "misconceptionType": "Interpretação literal focada em detalhe secundário",
+        "whyItLooksPlausible": "O texto cita Parintins e Bumbódromo, gerando a ideia de que a questão versa sobre local.",
+        "whyItIsWrong": "A questão foca na rivalidade e elementos esportivos presentes, não no local do festival."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que a experiência do autor como visitante indica valorização turística.",
+        "misconceptionType": "Foco equivocado na perspectiva do visitante",
+        "whyItLooksPlausible": "O autor menciona cantar músicas aprendidas no festival, sugerindo atenção ao turista.",
+        "whyItIsWrong": "O texto destaca a rivalidade e os elementos competitivos, não a valorização turística."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar o canto pós-evento com interação social prolongada.",
+        "misconceptionType": "Interpretação inadequada do contexto social",
+        "whyItLooksPlausible": "O autor canta músicas após o festival, indicando continuidade da interação.",
+        "whyItIsWrong": "A questão central é a apropriação da rivalidade e competitividade, não a interação social."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confundir 'garanchoso' com participantes de composição musical.",
+        "misconceptionType": "Entendimento incorreto do termo e da função dos 'garanchosos'",
+        "whyItLooksPlausible": "O texto menciona músicas e o termo 'garanchoso', levando à idéia de composição.",
+        "whyItIsWrong": "'Garanchoso' é um termo para quem não escolhe lado, não para compositores; isso não é foco da questão."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise cultural",
+      "secondarySkills": [
+        "Relação entre cultura popular e esporte",
+        "Compreensão de discursos sobre manifestações folclóricas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige reconhecimento de metáforas e analogias implícitas.",
+        "Precisa entender termos como torcida, rivalidade e títulos no contexto do folclore.",
+        "Texto não possui imagens.",
+        "Relação cultural entre manifestações folclóricas e esportivas deve ser percebida."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🎭",
+      "shortThemeTitle": "Rivalidade Folclórica e Elementos Esportivos em Parintins",
+      "interpretationIntro": "A questão pede para analisar a apropriação de aspectos típicos do esporte no festival folclórico de Parintins, evidenciados pela rivalidade entre os bois e seus elementos discursivos.",
+      "commandTerms": [
+        {
+          "term": "Apropriação",
+          "explanation": "Identificar como elementos de um campo cultural são adaptados ou utilizados em outro contexto."
+        },
+        {
+          "term": "Rivalidade",
+          "explanation": "Conflito ou competição entre grupos, aqui entre bois e suas torcidas."
+        }
+      ],
+      "whatTheQuestionAsks": "O que a presença de rivalidade, competitividade, torcida e músicas no festival evidencia sobre a manifestação cultural em Parintins?",
+      "strategyParagraph": "Para responder, interpreta-se o texto identificando palavras associadas a competições esportivas — como títulos, torcida e gritos de guerra — e relaciona-se esses elementos com o festival folclórico. Em seguida, compara-se as alternativas para escolher a que expressa adequadamente essa relação entre manifestação folclórica e esportiva.",
+      "reviewTable": [
+        {
+          "concept": "Rivalidade e Torcida",
+          "keyIdea": "Presença de competição simbólica entre grupos culturais",
+          "application": "Textos mostram contagem de títulos e cantos de torcida nos bois Caprichoso e Garantido."
+        },
+        {
+          "concept": "Metáfora esportiva em cultura popular",
+          "keyIdea": "Expressar manifestações culturais com elementos típicos do esporte",
+          "application": "Festival incorpora títulos, músicas e rivalidade, aproximando-se das competições esportivas."
+        }
+      ],
+      "theoryParagraphs": [
+        "No contexto cultural, manifestações folclóricas podem incorporar práticas e símbolos originados em outras áreas, como o esporte, para potencializar a emoção e a identificação do público.",
+        "A rivalidade entre grupos culturais, exemplificada pelas torcidas dos bois, funciona similarmente a rivalidades esportivas, com títulos e gritos de guerra, criando um ambiente competitivo e de paixão coletiva.",
+        "Esse fenômeno cultural é uma forma de apropriação, onde elementos do esporte são usados para intensificar o engajamento social em eventos folclóricos, sem perder suas características originais."
+      ],
+      "resolutionParagraphs": [
+        "O texto relata que o Boi Caprichoso possui 23 títulos e o Garantido, 31, indicando competição em números de vitórias.",
+        "Há menção a músicas de torcida — os famosos gritos de guerra — que refletem a paixão dos apoiadores e a presença de torcida organizada, comum em esportes coletivos.",
+        "A expressão “ter um lado” e a existência de ‘garanchosos’ (que tentam não escolher) indica uma rivalidade arraigada e que remete ao espírito esportivo.",
+        "Assim, considerando os elementos de rivalidade, torcida, títulos e músicas de apoio, conclui-se que o festival utiliza características típicas do esporte para construir sua dinâmica cultural.",
+        "Portanto, a alternativa D, que destaca a apropriação de características do esporte na manifestação folclórica, é a correta."
+      ],
+      "puloDoGato": "Procure no texto as palavras que remetem ao esporte — títulos, torcida, rivalidade — para perceber a apropriação esportiva em manifestações culturais.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Foca na localização do festival, que é apenas cenário e não o tema da questão."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Enfatiza a valorização turística, mas o texto foca na rivalidade e competição, não nas experiências dos visitantes."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Interpreta interação social após evento, mas a questão destaca a competição e rivalidade, não essa continuidade."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Correta pois reconhece que os elementos de rivalidade, torcida e títulos representam uma apropriação do esporte na cultura folclórica."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Interpreta 'garanchoso' como compositores de músicas, quando na verdade é quem não escolhe lado, sem relação com composição musical."
+        }
+      ],
+      "questionCode": "LINGUAGENS_FOLCLORE_ANALISE_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes, com foco claro na apropriação de elementos esportivos no festival folclórico.",
+      "issues": []
+    }
+  }
+}

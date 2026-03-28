@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:06:54.753Z",
+  "questionId": "enem-2024-linguagens-q014",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto mostra que as variedades linguísticas são formas diferentes de falar o português, que refletem a diversidade cultural do Brasil e são igualmente legítimas. Embora haja diferenças regionais, elas não impedem a compreensão entre falantes.",
+      "stepByStep": [
+        "Leia o texto para identificar os exemplos de expressões usadas pelos maranhenses.",
+        "Entenda que variedades linguísticas são diferentes formas de falar o mesmo idioma em várias regiões ou grupos.",
+        "Perceba que o texto evidencia que essas diferentes formas não são erradas, mas sim formas próprias e valorizadas do português brasileiro.",
+        "Analise as alternativas e elimine as que dizem que as variedades dificultam a comunicação ou que são inferiores.",
+        "Escolha a alternativa que mostra que as variedades fazem parte da riqueza e legitimidade do português no Brasil, que é a alternativa C."
+      ],
+      "commonPitfalls": [
+        "Pensar que as variedades regionais atrapalham a comunicação e causam confusão.",
+        "Achar que só existe uma forma correta de falar o português e que as variações são erradas.",
+        "Confundir variedades linguísticas com erros de linguagem ou uso informal indevido.",
+        "Achar que as expressões regionais precisam estar nos dicionários para serem válidas.",
+        "Associar variedades linguísticas apenas a contextos informais e não perceber seu uso em diferentes situações."
+      ],
+      "teachingTips": [
+        "Explique o conceito de variedades linguísticas com exemplos regionais conhecidos dos alunos.",
+        "Utilize textos e vídeos que mostram diferentes formas de falar o português para tornar o tema mais próximo da realidade dos estudantes.",
+        "Promova debates sobre a importância da diversidade linguística e o respeito às diferentes formas de expressão.",
+        "Reforce que todas as variedades são legítimas e importantes para a cultura e identidade das regiões.",
+        "Use situações do dia a dia para ilustrar como mesmo com variedades diferentes a comunicação pode acontecer sem problemas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1503,
+    "outputTokens": 375,
+    "estimatedCostUsd": 0.001201
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:36:24.774Z",
+  "questionId": "enem-2024-linguagens-q038",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O poema utiliza a metáfora do deslocamento para mostrar como as pessoas tentam fugir de si mesmas, mas isso é impossível, pois não podem escapar da própria identidade.",
+      "stepByStep": [
+        "Leia o poema com atenção, destacando expressões que indicam movimento, como 'chegam e se vão', 'se encontram', 'se despedem'.",
+        "Observe a última frase 'como se pudessem chegar a algum lugar onde elas mesmas não estivessem', que sugere a impossibilidade de se afastar da própria identidade.",
+        "Interprete o deslocamento não como uma mudança externa, mas como uma tentativa interna de fugir de si mesmo.",
+        "Compare as alternativas da questão com essa interpretação para identificar a que melhor expressa essa ideia (resposta B)."
+      ],
+      "commonPitfalls": [
+        "Interpretar o deslocamento de forma literal, pensando que o poema fala apenas de movimentos físicos ou encontros.",
+        "Associar o poema com descobertas de lugares novos ou experiências inéditas, sem perceber o foco na identidade.",
+        "Confundir a despedida e o movimento com desaparecimento social ou abandono, o que não é sugerido no texto.",
+        "Desconsiderar a metáfora interna e enxergar apenas o aspecto externo do deslocamento."
+      ],
+      "teachingTips": [
+        "Estimule a leitura atenta e a reflexão sobre metáforas na poesia.",
+        "Peça para os alunos identificarem expressões chave que indicam sentido metafórico.",
+        "Discuta como o deslocamento pode ser símbolo de aspectos emocionais ou identitários, além do movimento físico.",
+        "Use exemplos de outras metáforas para ampliar a compreensão dos estudantes sobre interpretação textual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1449,
+    "outputTokens": 331,
+    "estimatedCostUsd": 0.001109
+  }
+}

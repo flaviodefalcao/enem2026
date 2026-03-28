@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:58:08.711Z",
+  "questionId": "enem-2024-ciencias-humanas-q067",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A internet fortalece a economia das populações tradicionais ao integrar pequenos produtores em cadeias de abastecimento maiores, aumentando sua rentabilidade e visibilidade.",
+      "stepByStep": [
+        "Leia o enunciado com atenção para entender o papel da internet nas comunidades tradicionais e indígenas.",
+        "Identifique que a internet conecta pequenos agricultores e produtores a mercados maiores, permitindo maior alcance e negócios.",
+        "Perceba que essa integração tecnológica potencializa a economia local, aumentando a renda dessas populações.",
+        "Analise as alternativas e escolha aquela que destaca o aumento da rentabilidade e o fortalecimento econômico das comunidades, conforme o texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o principal efeito é o desenvolvimento cultural, desviando do foco econômico.",
+        "Achar que a internet determina regras comerciais para os produtores, quando o texto ressalta fortalecimento e inovação.",
+        "Associar diretamente a melhoria educacional ou infraestrutura educacional às ações da internet neste contexto.",
+        "Confundir fortalecimento econômico com homogenização ou uniformização da qualificação profissional, que não é mencionada."
+      ],
+      "teachingTips": [
+        "Enfatize a importância de relacionar o texto à consequência econômica e social destacada, não apenas aspectos gerais.",
+        "Incentive a leitura crítica para identificar a ideia principal sobre o impacto da internet em populações tradicionais.",
+        "Utilize exemplos práticos de integração via internet para facilitar o entendimento do aumento da rentabilidade.",
+        "Trabalhe as alternativas para que o aluno compreenda a sutileza entre propostas plausíveis e aquela que está devidamente fundamentada no texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1305,
+    "outputTokens": 312,
+    "estimatedCostUsd": 0.001021
+  }
+}

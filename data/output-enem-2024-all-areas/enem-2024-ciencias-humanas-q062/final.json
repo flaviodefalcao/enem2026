@@ -1,0 +1,196 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q062",
+  "generatedAt": "2026-03-28T00:55:07.022Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1016,
+      "outputTokens": 806,
+      "estimatedCostUsd": 0.001696
+    },
+    "explainer": {
+      "inputTokens": 1714,
+      "outputTokens": 462,
+      "estimatedCostUsd": 0.001425
+    },
+    "reviewer": {
+      "inputTokens": 3101,
+      "outputTokens": 2226,
+      "estimatedCostUsd": 0.004802
+    },
+    "totalEstimatedCostUsd": 0.007923
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A resposta correta é a alternativa A porque os textos apresentam discussões diretamente relacionadas ao estatuto epistemológico da linguagem, destacando debates sobre o significado, a fundamentação dos enunciados e a validade do conhecimento dentro do empirismo moderno.",
+      "strategy": "Realizar uma leitura crítica e conceitual dos textos apresentados, identificando os dogmas do empirismo moderno relacionados à linguagem e ao significado dos enunciados. Comparar essas ideias com as alternativas, buscando a que melhor expressa a divergência filosófica entre os textos, especialmente no campo epistemológico.",
+      "steps": [
+        "Analisar o TEXTO I, observando os dois dogmas do empirismo moderno: divisão entre verdades analíticas e sintéticas, e reducionismo na linguagem.",
+        "Compreender que somente enunciados com conteúdo factual são considerados teoricamente significativos conforme o empirismo mencionado.",
+        "Identificar a distinção entre a abordagem empírica nas ciências e a concepção não empírica na filosofia proposta.",
+        "Examinar as alternativas para identificar qual delas se relaciona diretamente à epistemologia da linguagem, tema central dos textos.",
+        "Concluir que os textos divergem em relação ao estatuto epistemológico da linguagem, i.e., como a linguagem estabelece conhecimento e significado no empirismo moderno."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado 1",
+        "Imagem do enunciado 2"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A questão trata da divergência filosófica entre autores sobre o papel da linguagem e do significado no empirismo moderno, enfocando a epistemologia da linguagem e sua relação com o conhecimento.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar os dogmas do empirismo: distinção entre verdades analíticas e sintéticas e reducionismo linguístico.",
+        "Entenda que, para o empirismo moderno, apenas enunciados com base factual são significativos e fundamentados pela experiência.",
+        "Reconheça a diferença entre ciências empíricas e a filosofia quanto ao uso de conceitos empíricos e não empíricos.",
+        "Compare as alternativas buscando aquela que aborda diretamente a epistemologia da linguagem, isto é, a relação entre linguagem, conhecimento e significado.",
+        "Conclua que a divergência apontada nos textos está centrada no estatuto epistemológico da linguagem, que sustenta o conhecimento."
+      ],
+      "commonPitfalls": [
+        "Confundir a questão com temas morais ou éticos, desviando o foco da epistemologia da linguagem.",
+        "Interpretar os textos como debates metafísicos ou ontológicos, o que não é objetivo da questão.",
+        "Generalizar o tema para estética ou outras áreas filosóficas sem relação com linguagem e conhecimento.",
+        "Não distinguir conceitos técnicos do empirismo, como verdades analíticas/sintéticas e reducionismo, levando a interpretações erradas."
+      ],
+      "teachingTips": [
+        "Explique previamente conceitos como empirismo, verdades analíticas e sintéticas, e reducionismo para facilitar a compreensão dos textos.",
+        "Incentive a análise crítica antes de avaliar as alternativas, focando nos temas centrais.",
+        "Utilize exemplos cotidianos para ilustrar a diferença entre enunciados analíticos e sintéticos e a importância da experiência para o conhecimento.",
+        "Ressalte a relevância da epistemologia da linguagem na filosofia moderna e suas implicações.",
+        "Promova discussões para que estudantes possam diferenciar abordagens filosóficas sobre linguagem e conhecimento."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o foco dos textos, interpretando-os como discussões de princípios morais.",
+        "misconceptionType": "Confusão temática",
+        "whyItLooksPlausible": "O empirismo pode parecer relacionado a debates morais, por sua ênfase na experiência.",
+        "whyItIsWrong": "Os textos abordam epistemologia da linguagem, não questões morais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretar os textos como debates metafísicos devido à menção de filosofia e realidade.",
+        "misconceptionType": "Interpretação literal e generalização imprecisa",
+        "whyItLooksPlausible": "Filosofia e realidade são termos que remetem a metafísica em muitos contextos.",
+        "whyItIsWrong": "O foco está na linguagem e no significado epistemológico, não na metafísica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Ler a discussão como uma questão ontológica sobre ser e existência.",
+        "misconceptionType": "Mistura de campos filosóficos",
+        "whyItLooksPlausible": "Termos como 'realidade' podem remeter à ontologia.",
+        "whyItIsWrong": "A análise é epistemológica e de linguagem, não ontológica."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretar a reflexão filosófica como ligada à estética.",
+        "misconceptionType": "Generalização errônea da reflexão em filosofia",
+        "whyItLooksPlausible": "Reflexividade pode ser associada à estética ou crítica artística.",
+        "whyItIsWrong": "Os textos não discutem estética, mas epistemologia da linguagem."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise filosófica e epistemológica",
+      "secondarySkills": [
+        "Compreensão de teoria do conhecimento",
+        "Leitura crítica de textos filosóficos"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "high",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento prévio sobre empirismo e epistemologia da linguagem.",
+        "Requer distinção clara entre áreas da filosofia para responder corretamente.",
+        "Necessita entendimento dos conceitos de verdades analíticas, sintéticas e reducionismo."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Epistemologia da linguagem no empirismo moderno",
+      "interpretationIntro": "A questão pede para identificar a divergência filosófica presente em dois textos que discutem o empirismo moderno e seu enfoque sobre o significado dos enunciados e o papel da linguagem no conhecimento.",
+      "commandTerms": [
+        {
+          "term": "Epistemologia",
+          "explanation": "Estudo do conhecimento, sua natureza e fundamentação."
+        },
+        {
+          "term": "Empirismo",
+          "explanation": "Doutrina que enfatiza a experiência sensorial como base do conhecimento."
+        },
+        {
+          "term": "Reducionismo",
+          "explanation": "Crença de que toda linguagem significativa pode ser reduzida a termos baseados na experiência."
+        }
+      ],
+      "whatTheQuestionAsks": "O que os dois textos apresentam como divergência no campo filosófico relacionado ao empirismo moderno?",
+      "strategyParagraph": "Para responder, é importante analisar os dogmas do empirismo mencionados nos textos — a distinção entre verdades analíticas e sintéticas e o reducionismo — e identificar como eles impactam a concepção do significado e da validade dos enunciados. Depois, comparar essas ideias com as alternativas para encontrar qual expressa essa divergência no estatuto epistemológico da linguagem.",
+      "reviewTable": [
+        {
+          "concept": "Epistemologia da linguagem",
+          "keyIdea": "A linguagem sustenta o conhecimento por meio do significado dos enunciados.",
+          "application": "Textos discutem como enunciados são fundamentados no empirismo moderno."
+        },
+        {
+          "concept": "Verdades analíticas e sintéticas",
+          "keyIdea": "Analíticas são verdadeiras por significado; sintéticas, por fatos.",
+          "application": "Diferenciação usada para classificar enunciados na epistemologia."
+        },
+        {
+          "concept": "Reducionismo",
+          "keyIdea": "Todo enunciado significativo pode ser traduzido em termos de experiência direta.",
+          "application": "Dogma que condiciona o empirismo clássico e seu entendimento da linguagem."
+        }
+      ],
+      "theoryParagraphs": [
+        "O empirismo moderno é marcado pela tentativa de fundamentar o conhecimento apenas na experiência sensorial, o que implica uma investigação rigorosa sobre o significado dos enunciados e sua relação com a realidade observável. Os dois dogmas citados — a distinção entre verdades analíticas e sintéticas e o reducionismo da linguagem — refletem essa preocupação, ao estruturar a epistemologia do empirismo em torno da experiência e da lógica linguística.",
+        "Considerar enunciados teoricamente significativos apenas aqueles que têm fundamentação empírica implica uma restrição epistemológica que exclui muitos conceitos filosóficos e metafísicos tradicionais. Essa posição gera tensões entre modos diferentes de entender a linguagem e o conhecimento, evidenciando divergências filosóficas importantes na modernidade.",
+        "A distinção entre o uso empírico da ciência e o uso potencialmente não empírico da filosofia destaca uma divisão metodológica e epistemológica no tratamento da realidade, que está no centro do debate apresentado pelos textos."
+      ],
+      "resolutionParagraphs": [
+        "Comece reconhecendo que o primeiro texto apresenta dois dogmas do empirismo: a distinção entre verdades analíticas e sintéticas e o reducionismo da linguagem.",
+        "Identifique que os textos discutem a tese de que apenas enunciados com base factual (simplicidade empírica) são significativos, o que afeta a validade do conhecimento.",
+        "Note a diferença apontada entre a ciência empírica — que usaria apenas conteúdo empírico — e a filosofia — que poderia usar conceitos não empíricos.",
+        "Avalie cada alternativa com base nessa análise e verifique que apenas a alternativa A corresponde diretamente à divergência filosófica entre os textos: o estatuto epistemológico da linguagem, ou seja, como a linguagem fundamenta o conhecimento e o significado dentro do empirismo moderno.",
+        "Portanto, a alternativa correta é a letra A."
+      ],
+      "puloDoGato": "Para resolver, foque em como a linguagem é vista no empirismo: o que torna um enunciado significativo e como isso abala a relação entre ciência e filosofia.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Correta. Aponta a divergência própria do estatuto epistemológico da linguagem na filosofia do empirismo moderno, tema central dos textos."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Errada. Confunde o foco epistemológico com discussões morais, que não são tratadas nos textos."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Errada. Interpreta o debate como metafísico, mas o foco é epistemológico e linguístico."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Errada. A discussão não aborda ontologia, mas a validade do conhecimento e significado na linguagem."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Errada. Estética não é tema dos textos; o foco é na epistemologia da linguagem."
+        }
+      ],
+      "questionCode": "CH_EPST_EMP_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O solver e o explainer estão alinhados e coerentes com o enunciado da questão. A resolução cobre de forma adequada e didática o tema da epistemologia da linguagem no empirismo moderno e explica claramente a escolha da alternativa correta.",
+      "issues": []
+    }
+  }
+}

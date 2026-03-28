@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:57:01.170Z",
+  "questionId": "enem-2024-ciencias-humanas-q066",
+  "payload": {
+    "theme": "Espaço geográfico e território",
+    "subtheme": "Dinâmicas populacionais",
+    "rationale": "A questão aborda a introdução da pílula anticoncepcional, um avanço tecnológico, e seu impacto social ligado a debates sobre crise demográfica e planejamento familiar, o que está diretamente relacionado às dinâmicas populacionais dentro do espaço geográfico.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 882,
+    "outputTokens": 78,
+    "estimatedCostUsd": 0.000478
+  }
+}

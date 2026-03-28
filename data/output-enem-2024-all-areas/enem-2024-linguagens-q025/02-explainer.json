@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:25:08.038Z",
+  "questionId": "enem-2024-linguagens-q025",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A pintura \"Três meninas no jardim\" de Eliseu Visconti apresenta características típicas do Impressionismo, como pinceladas soltas, uso da luz natural e a captura de um momento fugaz, elementos que ajudam a identificar seu estilo artístico.",
+      "stepByStep": [
+        "Observe atentamente a pintura, focando em como a luz, as cores e os movimentos são representados.",
+        "Conheça as principais características dos movimentos artísticos envolvidos: futurismo, cubismo, impressionismo, surrealismo e realismo.",
+        "Compare as características da obra com as descritas para cada movimento.",
+        "Note que a obra usa pinceladas leves e vibrantes, dando uma sensação de luz natural e de momento passageiro, típico do impressionismo.",
+        "Verifique que as outras opções apresentam elementos que não correspondem ao que se vê na pintura, como fragmentação (cubismo) ou temas oníricos (surrealismo).",
+        "Conclua que a alternativa correta é a C, que corresponde ao impressionismo."
+      ],
+      "commonPitfalls": [
+        "Confundir o tema do movimento presente na obra (como crianças no jardim) com o movimento artístico correto.",
+        "Associar erroneamente a fluidez da imagem ao futurismo, quando na verdade o futurismo foca mais em temas industriais e dinâmicos com linhas de movimento.",
+        "Interpretar formas complexas como cubistas, sem observar a ausência de fragmentação geométrica típica desse estilo.",
+        "Relacionar a composição com aspectos de sonho, equivocado ao ligar ao surrealismo, quando a obra é claramente figurativa.",
+        "Pegar elementos cotidianos e achar que a obra é realista, sem considerar a técnica impressionista de pinceladas soltas e ênfase na luz."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a estudarem as características visuais e conceitos essenciais de cada movimento artístico para facilitar a identificação de obras.",
+        "Utilize imagens e reproduções para que os alunos possam comparar estilos diretamente e desenvolver um olhar crítico.",
+        "Explore a relação entre o contexto histórico das obras e suas técnicas, ajudando a solidificar a compreensão dos movimentos artísticos.",
+        "Promova atividades que associem análise visual a teorias e conceitos artísticos, para integrar conhecimento teórico e prático.",
+        "Explique a importância das pinceladas, controle da luz, cor e composição como elementos chave para identificar o impressionismo.",
+        "Leve os alunos a evitar conclusões precipitadas baseadas apenas em temas superficiais, focando mais nos elementos estilísticos da obra."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2325,
+    "outputTokens": 506,
+    "estimatedCostUsd": 0.00174
+  }
+}

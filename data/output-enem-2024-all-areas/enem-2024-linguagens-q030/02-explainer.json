@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:29:37.282Z",
+  "questionId": "enem-2024-linguagens-q030",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Tanto Antônio Prata quanto Graciliano Ramos entendem que a arte deve expor a realidade com suas contradições e imperfeições, provocando uma reflexão que abale certezas fixas, em vez de apenas reforçar crenças pessoais.",
+      "stepByStep": [
+        "Leia com atenção o trecho de Antônio Prata, identificando a ideia central sobre a arte: ela deve mostrar a realidade nua, com defeitos, e fazer o leitor questionar suas certezas.",
+        "Lembre-se do pensamento de Graciliano Ramos, conhecido por sua literatura que critica e desestabiliza a realidade social, mostrando suas contradições.",
+        "Compare as ideias: ambos valorizam a arte crítica, que provoca reflexão e não reforça crenças.",
+        "Analise as alternativas, eliminando as que não refletem esse posicionamento sobre a arte.",
+        "Escolha a alternativa que mostra essa aproximação no papel desestabilizador da arte, que questiona e expõe complexidades."
+      ],
+      "commonPitfalls": [
+        "Focar apenas na valorização do artista e não no conteúdo crítico da arte.",
+        "Interpretar que a arte deve reforçar crenças pessoais, quando o texto aponta exatamente o contrário.",
+        "Pensar que a pobreza ou mudanças na produção são o foco da questão, quando o que importa é a função da arte.",
+        "Confundir comentário sobre mudança com tese comum entre os autores."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar a tese central dos textos, não apenas detalhes superficiais.",
+        "Trabalhe a reflexão sobre o papel da arte na sociedade, diferenciando arte que reforça certezas da que questiona.",
+        "Promova comparações entre textos para desenvolver a habilidade de análise crítica e intertextualidade.",
+        "Use exemplos literários e artísticos para ilustrar o que é arte desestabilizadora versus arte que confirma crenças.",
+        "Reforce a importância da leitura atenta para evitar confusões causadas por interpretações parciais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2332,
+    "outputTokens": 400,
+    "estimatedCostUsd": 0.001573
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:18:56.093Z",
+  "questionId": "enem-2024-ciencias-humanas-q089",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda o funcionamento do Conselho de Segurança da ONU, que é uma instituição política internacional central na tomada de decisões sobre segurança mundial e poder entre nações. O foco está nas características institucionais e políticas dessa organização, em especial a desigualdade de poder entre seus membros, revelando a dinâmica interna das instituições de poder entre países na arena internacional.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 951,
+    "outputTokens": 99,
+    "estimatedCostUsd": 0.000539
+  }
+}

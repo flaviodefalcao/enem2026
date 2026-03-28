@@ -1,0 +1,83 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:47:39.317Z",
+  "questionId": "enem-2024-q173",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta pois corresponde à faixa etária com maior número total de funcionários, evidenciado pela soma dos valores absolutos obtidos a partir dos percentuais e quantidades de cada setor.",
+      "strategy": "Calcular o número absoluto de funcionários em cada faixa etária, utilizando as porcentagens dadas e os totais dos setores, depois comparar para encontrar a maior quantidade, que indica a maior probabilidade.",
+      "steps": [
+        "Identificar o número de funcionários em cada setor: Administrativo (80), Logística (120) e Produção (200), totalizando 400 funcionários.",
+        "Calcular o número de funcionários em cada faixa etária por setor multiplicando o total do setor pelas percentagens mostradas.",
+        "Para a faixa 'Até 25 anos': Administrativo: 80 x 20% = 16; Logística: 120 x 25% = 30; Produção: 200 x 40% = 80; Total = 126.",
+        "Para a faixa 'Entre 25 e 45 anos': Administrativo: 80 x 30% = 24; Logística: 120 x 40% = 48; Produção: 200 x 35% = 70; Total = 142.",
+        "Para a faixa 'A partir de 45 anos': Administrativo: 80 x 50% = 40; Logística: 120 x 35% = 42; Produção: 200 x 25% = 50; Total = 132.",
+        "Comparar os totais: 126 (até 25 anos), 142 (25 a 45 anos), 132 (mais de 45 anos). A maior quantidade é 142, correspondente à faixa entre 25 e 45 anos.",
+        "Portanto, a maior probabilidade é de um funcionário estar na faixa entre 25 e 45 anos."
+      ],
+      "formulasUsed": [
+        "Número de funcionários por faixa etária = Total do setor × Percentual da faixa etária no setor"
+      ],
+      "visualEvidenceUsed": [
+        "Gráfico de barras que apresenta percentuais por faixa etária e por setor.",
+        "Escala no eixo y indicando quantidades totais por setor."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir a interpretação dos percentuais maiores que mínimos com a quantidade total de funcionários.",
+        "misconceptionType": "Interpretação incorreta de estatísticas relativas e absolutos.",
+        "whyItLooksPlausible": "Os percentuais mais altos nas faixas podem parecer indicativos da maior quantidade de funcionários.",
+        "whyItIsWrong": "Percentuais isolados não indicam a quantitativa absoluta total sem consideração do tamanho do setor."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que variações dos percentuais correlacionam diretamente à maior probabilidade.",
+        "misconceptionType": "Confusão entre tendências percentuais e quantidades totais.",
+        "whyItLooksPlausible": "O aumento percentual pode parecer sinalizar maior concentração de funcionários.",
+        "whyItIsWrong": "A probabilidade depende da quantidade absoluta, não da tendência dos percentuais."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Focar no maior número de funcionários no setor de produção e a faixa predominante neste setor.",
+        "misconceptionType": "Considerar apenas um setor mais representativo sem calcular totais globais.",
+        "whyItLooksPlausible": "Produção tem a maior quantidade de funcionários e maior percentual até 25 anos.",
+        "whyItIsWrong": "Outras faixas etárias em diferentes setores somam mais, como a faixa 25-45 anos."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Somar porcentagens diretamente e interpretá-las como quantidade total.",
+        "misconceptionType": "Somar percentuais de categorias distintas como se fossem acumulativas.",
+        "whyItLooksPlausible": "A soma das porcentagens parece indicar maior quantidade.",
+        "whyItIsWrong": "Somar percentuais de diferentes setores é inválido, pois cada percentual é relativo ao seu setor, não total global."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de gráficos de barras e porcentagens",
+      "secondarySkills": [
+        "Cálculo de porcentagens e números absolutos",
+        "Raciocínio probabilístico básico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar corretamente a relação entre percentuais e totais absolutos.",
+        "Exige soma ponderada dos grupos com base nos tamanhos dos setores.",
+        "Demonstra compreensão de probabilidade básica envolvendo frequência relativa."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1351,
+    "outputTokens": 936,
+    "estimatedCostUsd": 0.002038
+  }
+}

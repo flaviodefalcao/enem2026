@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q084",
+  "generatedAt": "2026-03-28T01:15:14.823Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1059,
+      "outputTokens": 871,
+      "estimatedCostUsd": 0.001817
+    },
+    "explainer": {
+      "inputTokens": 1796,
+      "outputTokens": 430,
+      "estimatedCostUsd": 0.001406
+    },
+    "reviewer": {
+      "inputTokens": 3154,
+      "outputTokens": 2376,
+      "estimatedCostUsd": 0.005063
+    },
+    "totalEstimatedCostUsd": 0.008286
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o texto evidencia que o regatão estabelecia relações comerciais entre diversos grupos sociais (quilombolas, indígenas, pequenos produtores e comerciantes locais), configurando redes de sociabilidade no interior da Amazônia no século XIX.",
+      "strategy": "Análise do texto para identificar a função social e cultural do regatão apresentado, relacionando-o às alternativas propostas e eliminando aquelas que não correspondem à função descrita.",
+      "steps": [
+        "Ler e interpretar o texto, identificando o papel do regatão na Amazônia no século XIX.",
+        "Notar que o regatão transportava diversos produtos, abastecendo a população de forma alternativa.",
+        "Identificar os grupos sociais envolvidos (quilombolas, indígenas, pequenos produtores, comerciantes locais).",
+        "Compreender que o regatão permitia a criação de vínculos sociais e econômicos entre esses grupos, formando redes de sociabilidade.",
+        "Analisar as alternativas, eliminando aquelas que não correspondem ao papel descrito (como rotas de fuga, postos de trabalho ou ambientes de lazer).",
+        "Concluir que a alternativa D é a que melhor sintetiza a função do regatão no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto apresentado que descreve o papel do regatão na Amazônia no século XIX"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O regatão, citado no texto, era uma embarcação fundamental no comércio amazônico do século XIX, conectando diferentes grupos sociais e comunidades, como quilombolas, indígenas e pequenos produtores, formando assim redes de sociabilidade e abastecimento alternativas na região.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar o papel do regatão na Amazônia do século XIX.",
+        "Observe quais produtos o regatão transportava e sua importância no abastecimento local.",
+        "Identifique os grupos sociais mencionados (quilombolas, indígenas, pequenos produtores e comerciantes locais).",
+        "Reconheça que o regatão permitia o estabelecimento de vínculos sociais e econômicos entre esses grupos.",
+        "Analise as alternativas da questão, eliminando aquelas que não refletem o papel social e comercial do regatão descrito no texto.",
+        "Escolha a alternativa que melhor representa a função do regatão como formador de redes de sociabilidade na Amazônia do século XIX."
+      ],
+      "commonPitfalls": [
+        "Interpretar o regatão como facilitador de rotas de fuga ou movimentos de evasão, algo não mencionado no texto.",
+        "Associar o regatão exclusivamente à geração de empregos formais, como nos seringais, o que não é o foco do texto.",
+        "Confundir o transporte de mercadorias com a promoção de conhecimento técnico ou científico, como receitas médicas.",
+        "Entender o regatão como espaço de lazer ou ambiente recreativo, quando sua função era predominantemente econômica e social."
+      ],
+      "teachingTips": [
+        "Incentive a leitura atenta e a identificação dos elementos sociais e econômicos presentes no texto.",
+        "Peça que os alunos reflitam sobre a importância das relações comerciais alternativas e suas redes sociais no contexto histórico da Amazônia.",
+        "Use mapas ou imagens de embarcações tradicionais para tornar o tema mais concreto e visual para os estudantes.",
+        "Reforce a distinção entre diferentes funções sociais (comércio, lazer, trabalho formal) para evitar interpretações equivocadas.",
+        "Estimule o debate sobre como as comunidades locais se organizavam economicamente no século XIX através de redes alternativas de comércio."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Poderia parecer que o regatão ajudava na organização de rotas de fuga pela floresta, pelo fato de sua mobilidade e alcance em áreas remotas.",
+        "misconceptionType": "Interpretação incorreta do papel do regatão como facilitador de rotas de fuga.",
+        "whyItLooksPlausible": "O texto menciona a movimentação por rios em áreas da Amazônia, que são regiões de floresta densa.",
+        "whyItIsWrong": "O texto não menciona em nenhum momento o uso do regatão para a organização de rotas de fuga, mas sim para o comércio e para conectar comunidades."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que o regatão poderia estar ligado à criação de postos de trabalho nos seringais, dado seu papel econômico na região.",
+        "misconceptionType": "Generalização do papel comercial como gerador exclusivo de empregos formais em seringais.",
+        "whyItLooksPlausible": "O comércio e transporte podem estar relacionados à economia da região, incluindo seringais.",
+        "whyItIsWrong": "O texto fala especificamente do regatão como comércio fluvial e meio de troca e ligação social, não mencionando postos de trabalho nos seringais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A presença de diversos produtos poderia levar à ideia de que era importante para a divulgação de fármacos e receitas médicas.",
+        "misconceptionType": "Confusão entre transporte de mercadorias e promoção de conhecimento técnico ou científico.",
+        "whyItLooksPlausible": "O regatão transportava variados objetos podendo incluir fármacos.",
+        "whyItIsWrong": "O texto não cita qualquer função relacionada à divulgação de conhecimento ou receitas médicas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Supor que o regatão ampliava ambientes de lazer, devido à circulação cultural e social proporcionada pelo comércio.",
+        "misconceptionType": "Confusão entre função social e função recreativa/lúdica.",
+        "whyItLooksPlausible": "A circulação de mercadorias e pessoas poderia ser associada ao lazer nas comunidades.",
+        "whyItIsWrong": "O texto destaca o papel econômico e social do regatão, não comportamental como lazer."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de texto histórico",
+      "secondarySkills": [
+        "Compreensão de contexto histórico e social",
+        "Raciocínio crítico sobre função social e econômica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige leitura atenta e compreensão da função social do regatão no contexto amazônico do século XIX.",
+        "Não há necessidade de cálculos ou modelagem, depende diretamente da análise textual.",
+        "As imagens apresentadas são apenas citações bibliográficas e não oferecem dados visuais adicionais para resolução."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📜",
+      "shortThemeTitle": "Comércio e Redes Sociais na Amazônia do Século XIX",
+      "interpretationIntro": "Esta questão requer a análise do papel do regatão no comércio e nas relações sociais na Amazônia durante o século XIX, conforme descrito no texto.",
+      "commandTerms": [
+        {
+          "term": "Analisar",
+          "explanation": "Examinar o texto para compreender o papel social e econômico do regatão."
+        },
+        {
+          "term": "Identificar",
+          "explanation": "Reconhecer os grupos sociais e a função do regatão na formação de redes de sociabilidade."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para determinar a função fundamental do regatão no contexto amazônico do século XIX, conforme apresentado no texto.",
+      "strategyParagraph": "Para resolver, é necessário interpretar o conteúdo do texto atentamente, destacando os elementos que indicam o papel do regatão na circulação de bens e na criação de vínculos sociais entre diferentes grupos da Amazônia. A análise crítica das alternativas permite eliminar opções que não se alinham ao texto, concentrando-se na função socioeconômica do regatão.",
+      "reviewTable": [
+        {
+          "concept": "Regatão",
+          "keyIdea": "Embarcação que transportava mercadorias pela Amazônia, conectando comunidades",
+          "application": "Representa um meio fundamental para o comércio e redes sociais no século XIX"
+        },
+        {
+          "concept": "Redes de Sociabilidade",
+          "keyIdea": "Relações econômicas e sociais entre quilombolas, indígenas e produtores locais",
+          "application": "O regatão cria vínculos que vão além do comércio, integrando grupos isolados"
+        },
+        {
+          "concept": "Função Social do Comércio",
+          "keyIdea": "O comércio como meio de abastecimento alternativo e interação social",
+          "application": "O regatão abastecia comunidades oferecendo acesso a produtos variados e fomentando trocas"
+        }
+      ],
+      "theoryParagraphs": [
+        "No século XIX, a Amazônia era uma região marcada por comunidades isoladas e diversos grupos sociais, como indígenas, quilombolas e pequenos produtores. A comunicação entre esses grupos ocorria majoritariamente por meio dos rios, que funcionavam como verdadeiras estradas líquidas.",
+        "O regatão, embarcação típica da região, era um dos instrumentos essenciais para o comércio e transporte de mercadorias. Além de transportar produtos variados, essa embarcação possibilitava a criação de redes sociais entre os grupos envolvidos, fomentando relações econômicas alternativas ao abastecimento tradicional.",
+        "Assim, a função do regatão ultrapassava o simples transporte de mercadorias: ele era um meio de conexão social, econômico e cultural entre as diversas populações da Amazônia, promovendo trocas comerciais e fortalecendo laços comunitários."
+      ],
+      "resolutionParagraphs": [
+        "Ao ler o texto, observa-se que o regatão não era apenas um meio de transporte, mas também um elemento-chave nas redes de sociabilidade na Amazônia do século XIX.",
+        "O texto destaca que o regatão transportava uma variedade de produtos que abasteciam as comunidades locais, mostrando sua importância econômica.",
+        "Além disso, menciona explicitamente a relação do regatão com quilombolas, indígenas, pequenos produtores e comerciantes locais, demonstrando a produção de vínculos sociais e econômicos entre esses grupos.",
+        "Analisando as alternativas, verifica-se que a única que condiz com essa função multifacetada do regatão é a alternativa D, que fala em redes de sociabilidade no interior da Amazônia.",
+        "As demais opções não encontram sustentação no texto, pois não correspondem ao papel comercial, social e cultural evidenciado do regatão."
+      ],
+      "puloDoGato": "Reconhecer que o regatão é mais que transporte: ele é o elo social que integra comunidades isoladas pelo comércio.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "A alternativa A supõe que o regatão ajudava a organizar rotas de fuga, mas o texto não menciona essa função, focando no comércio e conexão entre comunidades."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A alternativa B associa o regatão à criação de postos de trabalho em seringais, o que não é abordado no texto, que destaca seu papel comercial e social."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A alternativa C sugere divulgação de fármacos e receitas médicas via regatão, função que o texto não sustenta, pois foca no comércio de mercadorias diversas."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "A alternativa D está correta porque reflete exatamente o papel do regatão no estabelecimento de redes de sociabilidade e comércio entre diferentes grupos sociais na Amazônia do século XIX."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A alternativa E associa o regatão a ambientes de lazer, mas o texto evidencia suas funções econômicas e sociais, não recreativas."
+        }
+      ],
+      "questionCode": "CH_HISTORIA_ANALISETEXTO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solver e explainer estão coerentes e consistentes entre si. A resolução apresentada é clara, didática e segue as orientações editoriais do ENEM para o tema histórico-social do século XIX na Amazônia.",
+      "issues": []
+    }
+  }
+}

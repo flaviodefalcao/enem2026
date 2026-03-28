@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:49:16.588Z",
+  "questionId": "enem-2024-ciencias-humanas-q055",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta uma visão metafísica clássica que distingue alma e corpo como duas entidades separadas, evidenciando o chamado pensamento dicotômico ou dualismo, onde a alma é imortal e distinta do corpo físico.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique o que ele diz sobre alma e corpo.",
+        "Note que a alma é apresentada como algo que existe dentro do corpo, mas que pode escapar dele, como quando sonhamos ou morremos.",
+        "Reconheça que essa ideia mostra uma separação clara (dicotomia) entre alma e corpo, conceito típico do pensamento dicotômico.",
+        "Compreenda que essa visão está ligada a concepções metafísicas clássicas, especialmente ao dualismo filosófico, que afirma a existência de duas substâncias diferentes: a alma e o corpo.",
+        "Diferencie essa visão das outras opções, descartando análises que não correspondem à metafísica, como argumentos lógicos puros ou contemplação da natureza. "
+      ],
+      "commonPitfalls": [
+        "Interpretar o texto como um argumento lógico formal ao invés de uma reflexão metafísica.",
+        "Focar apenas na descrição dos sentidos e pensar que é uma contemplação da natureza.",
+        "Confundir reflexão metafórica com argumentação lógica.",
+        "Ver uma crítica à individualidade humana onde o texto valoriza a alma como algo positivo e duradouro."
+      ],
+      "teachingTips": [
+        "Ajude os alunos a entenderem o que é metafísica e como ela lida com questões sobre alma e corpo.",
+        "Trabalhe o conceito de dualismo e pensamento dicotômico em filosofia para um melhor reconhecimento textual.",
+        "Use exemplos clássicos para ilustrar a ideia de alma distinta do corpo, reforçando o pensamento dicotômico.",
+        "Estimule a leitura cuidadosa para identificar a intencionalidade do texto (reflexão metafísica versus argumento lógico).",
+        "Apresente as diferentes interpretações erradas como oportunidades para discutir compreensão leitora e análise crítica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1283,
+    "outputTokens": 403,
+    "estimatedCostUsd": 0.001158
+  }
+}

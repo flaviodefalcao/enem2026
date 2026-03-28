@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:52:39.639Z",
+  "questionId": "enem-2024-linguagens-q011",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Variação linguística",
+    "rationale": "A questão trata da identificação da variedade linguística presente nas falas do personagem Evanildo Bechara, relacionando aspectos da linguagem a situações sociais específicas, o que se enquadra no estudo da variação linguística da língua portuguesa.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1122,
+    "outputTokens": 75,
+    "estimatedCostUsd": 0.000569
+  }
+}

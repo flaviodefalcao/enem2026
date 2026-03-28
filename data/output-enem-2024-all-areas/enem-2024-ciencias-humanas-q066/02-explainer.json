@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:57:18.651Z",
+  "questionId": "enem-2024-ciencias-humanas-q066",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A chegada da pílula anticoncepcional no Brasil durante a década de 1960 provocou um importante efeito social: ampliou o debate público sobre planejamento familiar, conectando avanços tecnológicos à mudanças sociais e discussões sobre controle populacional.",
+      "stepByStep": [
+        "Leia o texto com atenção, focando na relação entre a pílula anticoncepcional e as transformações sociais mencionadas.",
+        "Identifique no texto as principais consequências sociais, especialmente a ampliação das discussões sobre planejamento familiar.",
+        "Compare as alternativas da questão para verificar qual delas reflete melhor essa relação entre tecnologia e impacto social apresentada no texto.",
+        "Descartar alternativas baseadas em premissas não confirmadas pelo texto, como afastamento da medicina, centralização da pesquisa ou rigidez religiosa.",
+        "Conclua que a alternativa que destaca a ampliação do debate público sobre planejamento familiar é a correta, pois está alinhada ao texto e ao contexto histórico da época."
+      ],
+      "commonPitfalls": [
+        "Confundir a ampliação do debate público com diminuição da intervenção médica, acreditando que a pílula trouxe autonomia total sem influência médica.",
+        "Acreditar que o governo ou a mídia estatal foram os principais responsáveis por superar discursos moralistas, quando o debate foi mais amplo e diverso.",
+        "Assumir que a indústria farmacêutica causou a centralização da pesquisa exclusivamente no sistema privado, o que não é afirmado no texto.",
+        "Interpretar as mudanças sociais provocadas pela pílula como levando ao enrijecimento das doutrinas religiosas, embora o texto destaque o aumento do debate público."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a relacionar avanços tecnológicos a seus contextos sociais e históricos, além do aspecto técnico.",
+        "Trabalhe com textos históricos para desenvolver a habilidade de interpretação crítica, enfatizando o impacto social das inovações.",
+        "Estimule a comparação cuidadosa entre alternativas, focando na coerência com o texto e com o conhecimento histórico.",
+        "Reforce a importância de identificar o que o texto realmente afirma antes de escolher uma alternativa.",
+        "Use outras fontes históricas para contextualizar a discussão neomalthusiana e o planejamento familiar no Brasil na década de 1960, enriquecendo o debate em sala."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1371,
+    "outputTokens": 454,
+    "estimatedCostUsd": 0.001275
+  }
+}

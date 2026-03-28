@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:43:52.428Z",
+  "questionId": "enem-2024-ciencias-humanas-q048",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque o texto enfatiza que a tragédia causou mudanças permanentes nas vidas das pessoas afetadas e que elas tiveram que abandonar suas casas e histórias, indicando uma quebra nos vínculos afetivos com o espaço vivido.",
+      "strategy": "Analisar o texto para identificar qual impacto ele destaca na relação entre as pessoas e o espaço onde viviam, focando na linguagem de perda, abandono e transformação permanente.",
+      "steps": [
+        "Ler o texto atentamente para entender o contexto: rompimento da barragem de Fundão em Mariana (MG) e seus efeitos.",
+        "Identificar no texto elementos que indiquem mudanças na relação das pessoas com o seu espaço.",
+        "Perceber que o texto menciona o abandono das localidades, a perda das histórias e que 'Nada jamais seria igual', indicando ruptura afetiva e social.",
+        "Comparar as alternativas com essa compreensão para encontrar aquela que melhor representa essa ruptura.",
+        "Descartar alternativas que não estão relacionadas com o impacto afetivo e social descrito no texto.",
+        "Confirmar que a alternativa C reflete a fragilização dos vínculos afetivos entre as pessoas e seu espaço vivido."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter interpretado que, após o desastre, houve mudanças nas normas ambientais, acreditando que flexibilizaram regras para permitir reconstrução.",
+        "misconceptionType": "Interpretação literal equivocada do impacto ambiental.",
+        "whyItLooksPlausible": "O desastre envolveu rompimento de barragem e rejeitos, assuntos ambientais importantes.",
+        "whyItIsWrong": "O texto não aborda flexibilização de parâmetros ambientais, e o foco é na relação afetiva das pessoas com o espaço."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que a tragédia fortaleceu a identidade comunitária local, unindo as pessoas em torno de um legado comum.",
+        "misconceptionType": "Confundir solidariedade pós-desastre com consolidação de identidades.",
+        "whyItLooksPlausible": "Desastres podem fortalecer identidades regionais pela experiência compartilhada.",
+        "whyItIsWrong": "O texto aponta diferenças nas formas de afetação, perda e abandono, indicando fragmentação e não consolidação."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Alguns podem pensar que o desastre levou à suspensão de atividades exploratórias na região.",
+        "misconceptionType": "Confundir impactos econômicos ou ambientais com impactos afetivos.",
+        "whyItLooksPlausible": "A lama pode ter inviabilizado práticas econômicas locais.",
+        "whyItIsWrong": "O texto não menciona supressão das práticas, mas sim impactos sociais e afetivos."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Poderia parecer que o desastre levou as comunidades a resgatar suas tradições para se reconstruírem.",
+        "misconceptionType": "Interpretar uma reconstrução cultural como recuperação de tradições ancestrais.",
+        "whyItLooksPlausible": "Desastres podem reforçar tradições como estratégia de resiliência.",
+        "whyItIsWrong": "O texto não sugere esse retorno a tradições, focaliza a perda e ruptura."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise crítica",
+      "secondarySkills": [
+        "Leitura de contexto sociocultural",
+        "Compreensão de impacto social"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Item exige compreensão da relação afetiva entre pessoas e espaço.",
+        "Foco na análise da narrativa e interpretação do impacto social da tragédia.",
+        "Não há imagens associadas para análise visual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 640,
+    "outputTokens": 757,
+    "estimatedCostUsd": 0.001467
+  }
+}

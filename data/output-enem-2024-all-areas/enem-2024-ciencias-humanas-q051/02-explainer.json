@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:46:17.616Z",
+  "questionId": "enem-2024-ciencias-humanas-q051",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A valsa foi rejeitada no início da Idade Moderna pela aristocracia francesa porque estava associada à cultura popular, considerada inferior ou inadequada aos padrões da elite social da época.",
+      "stepByStep": [
+        "Leia o texto com atenção e destaque a origem da valsa, relacionada às danças campestres e folclóricas, isto é, à cultura popular.",
+        "Observe que o texto afirma que a aristocracia francesa abandonou a valsa por sua ligação estreita com a cultura plebeia.",
+        "Compreenda que \"plebeia\" refere-se às classes populares, ou seja, pessoas comuns, em contraposição à aristocracia.",
+        "Analise as alternativas da questão e identifique qual delas expressa a rejeição feita pela aristocracia devido a essa origem cultural.",
+        "Confirme que a alternativa E corresponde a essa ideia, indicando a rejeição pelo fato de a valsa congregar elementos da cultura popular. "
+      ],
+      "commonPitfalls": [
+        "Interpretar a rejeição como por causa de rituais pagãos ou feitiçaria, quando o texto não menciona essas relações.",
+        "Confundir o motivo da rejeição com fatores externos, como a influência de territórios colonizados ou regras do Renascimento, que não são mencionados no texto.",
+        "Não associar o termo \"cultura plebeia\" a cultura popular, o que é essencial para resolver a questão corretamente."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de classes sociais históricas, especialmente a distinção entre aristocracia e plebeus, para compreender as tensões culturais.",
+        "Trabalhe a habilidade de leitura e interpretação crítica ao identificar causas e relações no texto.",
+        "Incentive a comparação entre as alternativas para que os alunos entendam por que a resposta correta é a que melhor dialoga com o texto.",
+        "Utilize exemplos atuais de manifestações culturais rejeitadas ou apropriadas por diferentes grupos sociais para contextualizar e facilitar o entendimento.",
+        "Estimule os alunos a sempre buscar evidências no texto para justificar suas escolhas, evitando interpretações baseadas só em suposições ou conhecimentos prévios não mencionados."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1311,
+    "outputTokens": 432,
+    "estimatedCostUsd": 0.001216
+  }
+}

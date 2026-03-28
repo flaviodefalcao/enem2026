@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:52:50.664Z",
+  "questionId": "enem-2024-linguagens-q011",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque as falas atribuídas a Evanildo Bechara apresentam um vocabulário técnico e específico da área da linguística e filologia, indicando a variedade linguística ocupacional.",
+      "strategy": "Analisar o contexto do texto e as características da fala atribuída a Evanildo Bechara para identificar a variedade linguística predominante, relacionando-a ao uso específico do vocabulário da sua área profissional.",
+      "steps": [
+        "Identificar o contexto e o perfil de Evanildo Bechara: um filólogo e membro da Academia Brasileira de Letras.",
+        "Observar as falas de Evanildo Bechara, que apresentam termos técnicos, como 'lexicologia' e discussão sobre estrangeirismos.",
+        "Relacionar o uso desse vocabulário técnico à variedade linguística ocupacional, característica do ambiente de trabalho ou profissão.",
+        "Verificar as alternativas e descartar as que não se alinham com a análise feita.",
+        "Confirmar que a alternativa E (variedade ocupacional) é a que melhor representa a fala segundo o contexto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode pensar que o tom formal da fala indica uma variedade situacional, pois formalidade é frequentemente associada a contextos específicos.",
+        "misconceptionType": "Confusão entre registro formal e variedade situacional",
+        "whyItLooksPlausible": "A fala tem tom técnico e formal, sugerindo um contexto que exige formalidade.",
+        "whyItIsWrong": "Embora formal, o fator determinante é o vocabulário técnico ligado à profissão, característica da variedade ocupacional, não apenas do contexto situacional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode associar a localidade do personagem (Pernambuco) ao uso da variedade regional.",
+        "misconceptionType": "Confusão entre características regionais e profissionais",
+        "whyItLooksPlausible": "Bechara é pernambucano; assim, pode-se esperar marcas regionais na fala.",
+        "whyItIsWrong": "Não há no texto marcas claras da fala regional; as falas têm foco no vocabulário técnico, sem regionalismos evidentes."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A ideia de linguagem rebuscada pode levar a pensar na variedade sociocultural relacionada à formação acadêmica.",
+        "misconceptionType": "Associação equivocada entre linguagem elaborada e variedade sociocultural",
+        "whyItLooksPlausible": "O texto cita que ele tem um tom técnico e professoral, o que pode indicar um estilo cult",
+        "whyItIsWrong": "O foco não está em uma linguagem rebuscada genérica, mas em termos técnicos específicos de sua área, caracterizando a variedade ocupacional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se pensar que pelo fato dele ter 95 anos e falar de modo diferente, sua fala representa a variedade geracional.",
+        "misconceptionType": "Confusão entre idade e variedade linguística",
+        "whyItLooksPlausible": "Idade avançada pode influenciar o vocabulário e expressões usadas.",
+        "whyItIsWrong": "As falas não empregam termos típicos de uma faixa etária específica, mas sim um vocabulário técnico relativo à filologia e gramática."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Reconhecimento e análise das variedades linguísticas no discurso",
+      "secondarySkills": [
+        "Interpretação textual",
+        "Análise linguística"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento prévio sobre variedades linguísticas.",
+        "Necessita compreender que vocabulário técnico indica variedade ocupacional.",
+        "Texto vem acompanhado de citações diretas que ajudam a evidenciar a variedade usada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 870,
+    "outputTokens": 783,
+    "estimatedCostUsd": 0.001601
+  }
+}

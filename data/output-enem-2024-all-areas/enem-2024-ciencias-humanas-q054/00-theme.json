@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:48:07.794Z",
+  "questionId": "enem-2024-ciencias-humanas-q054",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda o preconceito de identidade como uma forma de injustiça epistêmica, ou seja, relacionada ao controle do discurso e reconhecimento legítimo dentro das instituições sociais. A habilidade e competência indicam análise da justiça e instituições. Assim, se encaixa no tema que envolve instituições e poder, especialmente no subtema de instituições sociais e políticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 884,
+    "outputTokens": 65,
+    "estimatedCostUsd": 0.000458
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:19:59.281Z",
+  "questionId": "enem-2024-ciencias-humanas-q090",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca uma contradição do capitalismo: embora tente tratar os trabalhadores como peças de máquina, desumanizando-os, ele ainda depende da atividade humana deles para funcionar. Essa situação é um exemplo clássico de alienação no trabalho, onde o ser humano é reduzido a uma função mecânica, mas sem perder sua humanidade essencial.",
+      "stepByStep": [
+        "Leia o texto atentamente e observe a ideia de operários como \"peças de máquinas\" que executam ordens cegamente.",
+        "Perceba que o texto aponta que a fábrica pararia se os trabalhadores agissem apenas como máquinas, mostrando que sua atividade humana é indispensável.",
+        "Identifique a contradição: o sistema capitalista quer desumanizar os trabalhadores, mas depende da participação ativa deles.",
+        "Relacione essa contradição ao conceito sociológico de alienação, que descreve essa redução do trabalhador a uma função mecânica dentro do processo produtivo.",
+        "Compare as alternativas da questão e reconheça que a que melhor representa essa contradição é a que menciona a alienação decorrente da organização do trabalho.",
+        "Escolha a alternativa correta (C) como resposta definitiva."
+      ],
+      "commonPitfalls": [
+        "Confundir a discussão com obsolescência tecnológica por causa da metáfora das \"peças de máquinas\".",
+        "Interpretar que o texto está falando sobre conflitos trabalhistas a serem geridos, quando o foco é a desumanização e dependência do trabalho humano.",
+        "Pensar que o texto defende igualdade ou justiça social no capitalismo, ao invés de evidenciar exploração e alienação.",
+        "Achar que o texto fala sobre aumento de produtividade ligado à autonomia do trabalhador, quando aponta o oposto: desumanização e redução da autonomia."
+      ],
+      "teachingTips": [
+        "Explique o conceito de alienação no trabalho com exemplos simples e como isso aparece no texto.",
+        "Incentive o aluno a identificar contradições no texto que revelam tensões no sistema capitalista.",
+        "Mostre como metáforas (como \"peças de máquinas\") indicam processos sociais, não apenas aspectos técnicos.",
+        "Trabalhe com os alunos a distinção entre interpretações superficiais e leituras críticas de textos sociológicos.",
+        "Utilize debates sobre condições de trabalho para conectar o texto a experiências sociais mais próximas do aluno."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1168,
+    "outputTokens": 467,
+    "estimatedCostUsd": 0.001214
+  }
+}

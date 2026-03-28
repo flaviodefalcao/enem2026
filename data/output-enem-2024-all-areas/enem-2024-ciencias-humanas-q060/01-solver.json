@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:53:07.792Z",
+  "questionId": "enem-2024-ciencias-humanas-q060",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta pois o texto enfatiza que a nova racionalidade produtiva está baseada em uma gestão territorial que valoriza valores e decisões locais, evidenciado pela experiência dos seringueiros que criaram a reserva extrativista e promovem um modo de produção alinhado à sustentabilidade local.",
+      "strategy": "Interpretar o conteúdo do texto para identificar o conceito central da nova racionalidade produtiva, observando quais características dessa gestão territorial são destacadas e relacionar com as alternativas apresentadas para escolher a que melhor corresponde.",
+      "steps": [
+        "Ler atentamente o texto para identificar a proposta principal: uma nova racionalidade produtiva ligada à gestão territorial sustentável.",
+        "Observar que o texto destaca a experiência dos seringueiros que inventaram o conceito de reserva extrativista, ou seja, uma gestão baseada em práticas locais e decisões comunitárias.",
+        "Considerar que o texto menciona \"territórios produtivos\" que \"potencializam a produtividade ecológica\" e não apenas economias de subsistência, o que evidencia uma gestão que parte de valores locais e específicos de cada território.",
+        "Comparar as alternativas com as informações coletadas do texto, descartando aquelas que falam em normas mundiais, pressões regionais, preços nacionais e determinações globais, que não condizem com o foco local destacado.",
+        "Selecionar a alternativa B, que fala em 'conexão de valores fundamentados por decisões locais', pois é a que melhor representa a ideia presente no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir a gestão territorial baseada em valores locais com uma integração motivada por pressões regionais.",
+        "misconceptionType": "Generalização incorreta do contexto regional.",
+        "whyItLooksPlausible": "O texto fala de lutas sociais e regiões específicas, o que pode levar a pensar em pressões regionais influenciando a produção.",
+        "whyItIsWrong": "O texto enfatiza decisões locais e autonomia na gestão, não pressões externas regionais predominantes."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar o conceito de produção a preços delimitados por demandas nacionais, pensando na economia nacional como referência.",
+        "misconceptionType": "Focalização equivocada na dimensão econômica nacional.",
+        "whyItLooksPlausible": "Produção e comercialização podem parecer relacionadas a demandas e preços nacionais.",
+        "whyItIsWrong": "O texto destaca experiências comunitárias e territórios produtivos, não um foco em preços e demandas nacionais."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que a gestão sustentável depende de normas e regras globais, dada a ênfase contemporânea em questões ambientais internacionais.",
+        "misconceptionType": "Confusão entre regulamentação internacional e gestão local.",
+        "whyItLooksPlausible": "O discurso sustentável é associado frequentemente a normas e instituições mundiais.",
+        "whyItIsWrong": "O texto descreve uma experiência local e autônoma, não normativa global."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretar valorização de tradições como orientadas por determinações globais, confundindo globalização com valorização das raízes culturais.",
+        "misconceptionType": "Confusão sobre a direção da influência cultural e produtiva.",
+        "whyItLooksPlausible": "O texto fala em reapropriação cultural e tradições, que poderiam parecer conectadas a processos globais.",
+        "whyItIsWrong": "O texto destaca autonomia local, não determinações globais como base de valorização."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Raciocínio contextualizado"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Envolve compreensão da relação entre lutas sociais, sustentabilidade e gestão territorial a partir da leitura do texto.",
+        "Exige distinguir conceitos sociais e econômicos relacionados à produção e gestão local versus influências externas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 668,
+    "outputTokens": 823,
+    "estimatedCostUsd": 0.001584
+  }
+}

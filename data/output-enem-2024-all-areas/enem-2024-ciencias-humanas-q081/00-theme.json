@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:10:54.910Z",
+  "questionId": "enem-2024-ciencias-humanas-q081",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Inclusão social",
+    "rationale": "A questão trata dos remanescentes de quilombos e da atenção do Estado após a Constituição de 1988, envolvendo políticas públicas direcionadas a grupos historicamente excluídos, o que está relacionado a inclusão social e direitos civis.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 800,
+    "outputTokens": 73,
+    "estimatedCostUsd": 0.000437
+  }
+}

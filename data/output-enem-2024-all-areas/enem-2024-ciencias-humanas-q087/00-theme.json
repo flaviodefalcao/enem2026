@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:17:25.730Z",
+  "questionId": "enem-2024-ciencias-humanas-q087",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Direitos e participação social",
+    "rationale": "A questão aborda a temática da soberania popular e o exercício do poder público pela coletividade dos cidadãos, que é fundamental para a compreensão da cidadania e da participação social dentro da democracia. A habilidade H24 e a competência 5 reforçam essa relação entre cidadania, democracia e o papel dos indivíduos na sociedade, o que encaixa diretamente no tema e subtema selecionados.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 992,
+    "outputTokens": 103,
+    "estimatedCostUsd": 0.000562
+  }
+}

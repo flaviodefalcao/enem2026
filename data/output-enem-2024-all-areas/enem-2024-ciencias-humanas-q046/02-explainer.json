@@ -1,0 +1,34 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T22:35:48.256Z",
+  "questionId": "enem-2024-ciencias-humanas-q046",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As diferenças na ocorrência de terremotos nas regiões mencionadas estão relacionadas às posições das placas tectônicas, especialmente às zonas de subducção, onde as placas se encontram e geram maior atividade sísmica.",
+      "stepByStep": [
+        "Identificar as regiões e os eventos de terremoto no texto: Valparaíso, Amazonas e interior de SP.",
+        "Reconhecer que Valparaíso está próximo da zona de subducção adjacente à placa de Nazca e a placa Sul-Americana.",
+        "Perceber que as regiões do Amazonas e interior de SP não estão em áreas de grande subducção, tendo menos atividade sísmica de grande magnitude.",
+        "Entender que as diferenças na magnitude dos terremotos estão relacionadas às posições das placas tectônicas, particularmente às zonas de subducção.",
+        "Concluir que as posições relativas às zonas de subducção explicam as diferenças na intensidade e ocorrência de terremotos."
+      ],
+      "commonPitfalls": [
+        "Confundir a relação entre proximidade ao mar ou ao relevo com a atividade sísmica.",
+        "Achar que todos os terremotos ocorrem em áreas costeiras ou de relevo íngreme.",
+        "Ignorar o papel das placas tectônicas e focar apenas em fatores superficiais, como relevo ou densidade populacional."
+      ],
+      "teachingTips": [
+        "Use mapas de placas tectônicas para ilustrar as regiões e facilitar a compreensão.",
+        "Explique o conceito de zonas de subducção e sua relação com eventos sísmicos.",
+        " Faça perguntas que estimulem o aluno a relacionar a posição geográfica das regiões com a atividade tectônica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2205,
+    "outputTokens": 328,
+    "estimatedCostUsd": 0.000352
+  }
+}

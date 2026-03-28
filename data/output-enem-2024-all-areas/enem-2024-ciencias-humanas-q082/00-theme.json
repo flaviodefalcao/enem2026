@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:12:11.153Z",
+  "questionId": "enem-2024-ciencias-humanas-q082",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Memória e representações",
+    "rationale": "A questão envolve a interpretação de um texto que apresenta um tipo de raciocínio baseado na observação e na formação de conhecimento, aspectos centrais à compreensão dos elementos culturais que constituem identidades, alinhando-se à habilidade de interpretar fontes documentais acerca de aspectos da cultura. \"Memória e representações\" é o subtema adequado, pois o raciocínio do peru se relaciona à construção de representações baseadas em observações repetidas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 899,
+    "outputTokens": 117,
+    "estimatedCostUsd": 0.000547
+  }
+}

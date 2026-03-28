@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:45:12.527Z",
+  "questionId": "enem-2024-ciencias-humanas-q050",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda a figura histórica de Bartolomeu de Las Casas e os diferentes pontos de vista sobre sua atuação na defesa dos indígenas na colonização da América, tratando das instituições sociais e políticas envolvidas no conflito entre colonizadores e indígenas. A habilidade e competência focam na análise das instituições sociais e seus conflitos, o que se enquadra diretamente em 'Instituições sociais e políticas'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 939,
+    "outputTokens": 107,
+    "estimatedCostUsd": 0.000547
+  }
+}

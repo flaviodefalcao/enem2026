@@ -1,0 +1,138 @@
+{
+  "questionId": "enem-2024-q180",
+  "generatedAt": "2026-03-26T19:56:06.259Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 739,
+      "outputTokens": 759,
+      "estimatedCostUsd": 0.00151
+    },
+    "explainer": {
+      "inputTokens": 1297,
+      "outputTokens": 526,
+      "estimatedCostUsd": 0.00136
+    },
+    "reviewer": {
+      "inputTokens": 2238,
+      "outputTokens": 1658,
+      "estimatedCostUsd": 0.003548
+    },
+    "totalEstimatedCostUsd": 0.006418
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "Correta",
+      "strategy": "Contagem combinatória para formar equipes com restrição de pelo menos 3 cardiologistas.",
+      "steps": [
+        "Identificar o número total de médicos em cada especialidade: 7 cardiologistas e 6 neurologistas.",
+        "A equipe deve ter 5 médicos, com pelo menos 3 cardiologistas.",
+        "Considerar as possíveis combinações para o número de cardiologistas na equipe: 3, 4 ou 5.",
+        "Calcular a quantidade de maneiras de escolher os cardiologistas para cada caso usando combinações: C(7,3), C(7,4), C(7,5).",
+        "Calcular a quantidade de maneiras de escolher os neurologistas para completar a equipe com 5 médicos: para 3 cardiologistas, escolher 2 neurologistas (C(6,2)); para 4 cardiologistas, escolher 1 neurologista (C(6,1)); para 5 cardiologistas, escolher 0 neurologistas (C(6,0)).",
+        "Somar todas as possibilidades para obter o total de maneiras distintas: C(7,3)*C(6,2) + C(7,4)*C(6,1) + C(7,5)*C(6,0)."
+      ],
+      "formulasUsed": [
+        "C(n,k) = n! / (k! * (n-k)!)",
+        "Número total de equipes = Σ C(7,i) * C(6,5-i), i = 3 a 5"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa C, que mostra a expressão com a soma das combinações para 3, 4 e 5 cardiologistas."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para formar uma equipe com 5 médicos, sendo pelo menos 3 cardiologistas, somamos as maneiras de escolher 3, 4 e 5 cardiologistas, completando com neurologistas para totalizar 5. Cada possibilidade é calculada pela combinação de cardiologistas multiplicada pela combinação de neurologistas.",
+      "stepByStep": [
+        "Identifique o total de médicos: 7 cardiologistas e 6 neurologistas.",
+        "A equipe deve ter 5 médicos, com pelo menos 3 cardiologistas; ou seja, podem ser 3, 4 ou 5 cardiologistas.",
+        "Para cada caso, calcule a combinação para escolher os cardiologistas, usando C(7, número de cardiologistas).",
+        "Calcule a combinação para escolher os neurologistas restantes, para completar 5 médicos, com C(6, número de neurologistas).",
+        "Multiplique as combinações correspondentes a cardiologistas e neurologistas para cada caso.",
+        "Some as quantidades obtidas para 3, 4 e 5 cardiologistas para encontrar o total de formas distintas de montar a equipe.",
+        "A expressão geral é C(7,3)*C(6,2) + C(7,4)*C(6,1) + C(7,5)*C(6,0)."
+      ],
+      "commonPitfalls": [
+        "Multiplicar apenas uma possibilidade de formação da equipe, ignorando outras configurações possíveis de cardiologistas.",
+        "Confundir combinação com permutação, utilizando fórmulas erradas.",
+        "Ignorar a exigência de 'pelo menos' e considerar apenas um número fixo de cardiologistas.",
+        "Somar ou multiplicar combinações de forma incorreta, sem respeitar as regras do problema.",
+        "Não reconhecer a necessidade de somar casos para cobrir a restrição 'pelo menos 3 cardiologistas'.",
+        "Aplicar a combinação de forma errada nos neurologistas, calculando números incorretos de escolhas."
+      ],
+      "teachingTips": [
+        "Explique claramente o conceito de combinação e a diferença entre combinação e permutação.",
+        "Mostre a importância de interpretar corretamente 'pelo menos' no enunciado para considerar múltiplos casos.",
+        "Use exemplos concretos com pequenos grupos para ilustrar a ideia de somar possibilidades distintas.",
+        "Faça exercícios que reforcem a ideia de somar resultados quando lidamos com casos mutuamente exclusivos.",
+        "Use diagramas para representar as escolhas possíveis e facilitar a visualização.",
+        "Oriente os alunos a sempre considerar todas as possibilidades dentro das restrições do problema antes de calcular."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Multiplicar duas combinações sem considerar soma das possibilidades de 3, 4 ou 5 cardiologistas.",
+        "misconceptionType": "Falsa aplicação de combinação",
+        "whyItLooksPlausible": "Parece correto multiplicar combinações de grupos distintos.",
+        "whyItIsWrong": "Não considera a opção 'pelo menos 3 cardiologistas', que envolve soma de possibilidades."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Multiplicar combinações com números diferentes para 3 cardiologistas e 2 neurologistas, sem somar outras configurações.",
+        "misconceptionType": "Visão incompleta do problema",
+        "whyItLooksPlausible": "Apresenta divisão que lembra fórmula de combinação e parece sofisticada.",
+        "whyItIsWrong": "Ignora outras quantidades possíveis de cardiologistas (4 e 5)."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Soma das combinações para diferentes quantidades apropriadas, mas com sinais ou estrutura errada.",
+        "misconceptionType": "Erro na estrutura da expressão",
+        "whyItLooksPlausible": "Implementa a soma das diferentes possibilidades, o que é a abordagem correta.",
+        "whyItIsWrong": "Pode apresentar erro na formulação matemática correta, como agrupamento ou símbolos omitidos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Combinatória e Arranjos",
+      "secondarySkills": [
+        "Análise de restrições",
+        "Uso de fórmulas de combinação"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar corretamente o enunciado para identificar que a equipe deve ter pelo menos 3 cardiologistas.",
+        "Requer conhecimento de combinação e soma de casos possíveis.",
+        "Imagens das alternativas ajudam a visualizar a forma da expressão matemática.",
+        "Alternativa correta soma as combinações dos cenários possíveis, não apenas produto isolado."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "needs_revision",
+      "summary": "A análise técnica e explicação didática estão coerentes entre si e com o enunciado. Entretanto, há inconsistência quanto à alternativa correta indicada na análise técnica (E) em relação às alternativas apresentadas, pois as imagens mostram somente opções A, B e C. Também a análise técnica cita que a alternativa C é a correta baseada na expressão matemática correta, mas o finalAnswer é 'E', que não aparece nas imagens. Além disso, a descrição da alternativa C sugere possíveis erros na expressão da soma, mas a análise técnica afirma que a expressão da alternativa C está correta como resposta. Isso gera confusão na identificação da resposta correta.",
+      "issues": [
+        {
+          "severity": "high",
+          "field": "correta alternativa",
+          "description": "O solver indica que a resposta correta é a alternativa E, mas as imagens das alternativas apresentadas são apenas A, B e C, sem opção E.",
+          "suggestedFix": "Verificar corretamente a alternativa correta e garantir que ela esteja entre as apresentadas, ou ajustar o finalAnswer para uma das alternativas A, B ou C baseando-se na expressão correta."
+        },
+        {
+          "severity": "medium",
+          "field": "descrição dos distractors",
+          "description": "No distractor C, é afirmado que a alternativa apresenta erro na expressão, mas também é usada como a base da resposta correta na análise técnica, gerando incoerência.",
+          "suggestedFix": "Clarificar se a alternativa C está correta ou incorreta e ajustar a descrição dos distractors para refletir isso."
+        },
+        {
+          "severity": "low",
+          "field": "coerência textual",
+          "description": "O solver menciona uso de 'Imagem da alternativa C' como evidência visual da resposta correta, o que conflita com a designação finalAnswer como E.",
+          "suggestedFix": "Uniformizar a referência às alternativas para manter a coerência."
+        }
+      ]
+    }
+  }
+}

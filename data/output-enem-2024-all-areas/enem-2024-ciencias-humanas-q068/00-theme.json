@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:58:30.333Z",
+  "questionId": "enem-2024-ciencias-humanas-q068",
+  "payload": {
+    "theme": "Sociedade e natureza",
+    "subtheme": "Recursos naturais e sustentabilidade",
+    "rationale": "A questão trata da relação entre a perda da floresta amazônica, um recurso natural, e as consequências ambientais, como a redução da intensidade das chuvas convectivas, evidenciando a função dos recursos naturais na produção do espaço geográfico e as mudanças provocadas pelas ações humanas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1262,
+    "outputTokens": 83,
+    "estimatedCostUsd": 0.000638
+  }
+}

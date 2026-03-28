@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:50:02.417Z",
+  "questionId": "enem-2024-ciencias-humanas-q056",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O ritual descrito no texto utiliza símbolos e práticas tradicionais para representar e preservar a memória e a identidade cultural do grupo, destacando a importância do respeito aos mortos e à transmissão dos valores coletivos.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar as ações e símbolos presentes no ritual.",
+        "Observe que a panela de barro simboliza o espírito do morto, indicando reverência e memória ancestral.",
+        "Note os elementos ao redor (milho, mel, água, acaçás, cachaça) como ofertas típicas que reforçam tradições culturais.",
+        "Analise o papel dos ogãs e o caminho ritualístico, que evidenciam a dimensão comunitária e sagrada da cerimônia.",
+        "Entenda que o rito com o lençol e folhas verdes simboliza respeito e ligação com a vida e a natureza.",
+        "Associe esses elementos à ideia de memória coletiva, que é a preservação e valorização da identidade cultural por meio de práticas e símbolos comuns."
+      ],
+      "commonPitfalls": [
+        "Interpretar o ritual como uma contestação étnica ou política, quando na verdade é uma celebração da cultura.",
+        "Confundir oferendas com sacrifícios ou imolações, levando a interpretações equivocadas.",
+        "Classificar o ritual como uma prática ilegítima ou pagã com base em preconceitos religiosos.",
+        "Ver o rito como preparação para uma revolta social, sem evidências no texto."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar símbolos e suas funções culturais nos textos que descrevem rituais.",
+        "Trabalhe o conceito de memória coletiva e como ela se manifesta em tradições e cerimônias.",
+        "Promova discussões que evitem julgamentos de valor baseados em crenças pessoais sobre práticas culturais diversas.",
+        "Use a questão para desenvolver habilidades de leitura interpretativa, relacionando texto e contexto cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1440,
+    "outputTokens": 376,
+    "estimatedCostUsd": 0.001178
+  }
+}

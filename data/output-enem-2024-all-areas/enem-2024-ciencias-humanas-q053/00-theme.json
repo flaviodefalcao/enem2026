@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:47:26.679Z",
+  "questionId": "enem-2024-ciencias-humanas-q053",
+  "payload": {
+    "theme": "Sociedade e natureza",
+    "subtheme": "Ocupação do espaço",
+    "rationale": "A questão aborda o processo de inundação, que está diretamente relacionado ao relevo e à ocupação do espaço físico, tratando das interações entre a natureza e a presença humana no território. Isso corresponde ao tema 'Sociedade e natureza' e ao subtema 'Ocupação do espaço', conforme evidenciado pela habilidade H26 de identificar a relação da vida humana com a paisagem.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1276,
+    "outputTokens": 103,
+    "estimatedCostUsd": 0.000675
+  }
+}

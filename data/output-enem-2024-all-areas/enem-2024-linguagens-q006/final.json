@@ -1,0 +1,190 @@
+{
+  "questionId": "enem-2024-linguagens-q006",
+  "generatedAt": "2026-03-27T23:44:47.881Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 870,
+      "outputTokens": 728,
+      "estimatedCostUsd": 0.001513
+    },
+    "explainer": {
+      "inputTokens": 1460,
+      "outputTokens": 415,
+      "estimatedCostUsd": 0.001248
+    },
+    "reviewer": {
+      "inputTokens": 2800,
+      "outputTokens": 2106,
+      "estimatedCostUsd": 0.00449
+    },
+    "totalEstimatedCostUsd": 0.007251
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta pois tanto o livro quanto as camisetas valorizam o repertório linguístico do povo do Amazonas, resgatando e registrando expressões e termos típicos da fala amazonense.",
+      "strategy": "Analisar o enunciado para identificar o objetivo comum das iniciativas apresentadas (livro e camisetas) relacionando as informações com as alternativas dadas.",
+      "steps": [
+        "Ler com atenção o texto, identificando os objetivos do livro e das camisetas.",
+        "Perceber que o livro registra cerca de 1.100 expressões típicas do amazonês, enfatizando a valorização do falar local.",
+        "Observar que as camisetas trazem expressões típicas, com o intuito de resgatar o orgulho do povo manauara.",
+        "Concluir que ambas as iniciativas valorizam o repertório linguístico local.",
+        "Comparar essa conclusão com as alternativas e escolher a que expressa esse aspecto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A alternativa correta é a E, pois tanto o livro \"Amazonês\" quanto as camisetas \"Caboquês Ilustrado\" têm como objetivo valorizar e registrar o repertório linguístico típico do povo do Amazonas, resgatando seu orgulho e identidade na forma de falar local.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender qual é o foco das duas iniciativas apresentadas: o livro e as camisetas.",
+        "Observe que o livro registra em torno de 1.100 expressões típicas do amazonense, mostrando preocupação em preservar e valorizar a fala local.",
+        "Note que as camisetas trazem expressões regionais com humor e buscam resgatar o orgulho do povo manauara, reforçando o valor cultural da linguagem.",
+        "Perceba que o objetivo comum de ambas as iniciativas é destacar a importância e riqueza do repertório linguístico local.",
+        "Compare essa conclusão com as alternativas do enunciado e escolha aquela que apresenta essa ideia, que é a alternativa E."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o texto indica apenas apoio a produtos locais, sem perceber o foco na linguagem.",
+        "Confundir a comparação dos portuguêses regionais com o objetivo das iniciativas.",
+        "Acreditar que o destaque é para o trabalho acadêmico, e não para a valorização da fala amazonense.",
+        "Enfatizar somente o aspecto do bom humor das camisetas, esquecendo o valor cultural e linguístico."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a lerem o texto com atenção, destacando quais são os objetivos das iniciativas apresentadas.",
+        "Promova discussões sobre a importância de valorizar as variações linguísticas regionais e sua relação com identidade cultural.",
+        "Peça para os alunos identificarem palavras ou expressões do texto que evidenciem valorização cultural e linguística.",
+        "Trabalhe com exemplos práticos de expressão regional para ampliar a compreensão sobre diversidade linguística.",
+        "Estimule a comparação cuidadosa das alternativas, para que entendam o que exatamente está sendo solicitado na pergunta."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode pensar que o livro e as camisetas indicam produtos de empreendedores locais, baseando-se no fato das camisetas serem feitas por um designer amazonense.",
+        "misconceptionType": "Interpretação superficial",
+        "whyItLooksPlausible": "O texto menciona produtos regionais (camisetas) e um livro produzido localmente, sugerindo um apoio a produtos locais.",
+        "whyItIsWrong": "O foco principal do texto não é recomendar produtos, mas sim valorizar a linguagem local."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Parece que o texto estabelece uma comparação entre o português amazonense e outros falares brasileiros.",
+        "misconceptionType": "Confusão entre conteúdo e tema",
+        "whyItLooksPlausible": "O enunciado menciona diferenças entre o português caboco e outros sotaques como o mineiro e carioca.",
+        "whyItIsWrong": "Apesar da comparação, o objetivo das iniciativas é valorizar o repertório linguístico amazonense, não simplesmente ressaltar diferenças."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O leitor pode supor que o texto reverencia trabalhos acadêmicos, já que menciona um doutor em linguística.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "O texto cita um professor e pesquisador que escreveu o livro.",
+        "whyItIsWrong": "O destaque não é o reconhecimento do trabalho acadêmico, mas a valorização do idioma regional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se interpretar que as camisetas têm um tom descontraído, indicando que o foco das iniciativas é a leveza do jeito de ser amazonense.",
+        "misconceptionType": "Focalização incorreta no aspecto lúdico",
+        "whyItLooksPlausible": "As camisetas são descritas como misturando bom humor com expressões típicas.",
+        "whyItIsWrong": "O bom humor é um aspecto das camisetas, mas o objetivo comum das duas iniciativas é a valorização linguística, não apenas a descontração."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Análise de linguística regional",
+        "Compreensão crítica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Foco na interpretação da mensagem principal do texto.",
+        "Exige identificar o objetivo comum entre duas ações distintas.",
+        "Não há imagens associadas para análise."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Valorização do linguajar regional no Amazonas",
+      "interpretationIntro": "O comando solicita identificar o objetivo comum das duas iniciativas descritas: o livro \"Amazonês\" e as camisetas \"Caboquês Ilustrado\".",
+      "commandTerms": [
+        {
+          "term": "Valorizar",
+          "explanation": "Dar importância e reconhecimento a algo, neste caso, à linguagem regional."
+        },
+        {
+          "term": "Repertório linguístico",
+          "explanation": "Conjunto de expressões e termos usados por um grupo específico."
+        },
+        {
+          "term": "Resgatar",
+          "explanation": "Recuperar o orgulho e a identidade cultural ligados à fala local."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão busca compreender qual é o ponto de convergência entre o livro e as camisetas no que tange à linguagem e cultura Amazonense.",
+      "strategyParagraph": "Para responder, é essencial ler atentamente o texto, identificar o propósito de cada iniciativa e perceber que ambas convergem na valorização do falar do Amazonas, seja por registro detalhado ou pela divulgação cultural e humorística. Em seguida, relaciona-se essa conclusão com as alternativas e escolhe-se aquela que expressa essa ideia.",
+      "reviewTable": [
+        {
+          "concept": "Variedade linguística regional",
+          "keyIdea": "Cada região possui expressões e formas de falar próprias.",
+          "application": "O livro lista 1.100 expressões típicas do Amazonas, enquanto as camisetas exibem expressões humorísticas regionais."
+        },
+        {
+          "concept": "Valorização cultural",
+          "keyIdea": "Preservar e destacar elementos da cultura local fortalece a identidade do grupo.",
+          "application": "Ambas iniciativas promovem o orgulho da população amazonense, resgatando sua linguagem e cultura."
+        },
+        {
+          "concept": "Objetivo das iniciativas",
+          "keyIdea": "Focar no propósito comum para entender a mensagem principal.",
+          "application": "Livro e camisetas têm como objetivo valorizar o português caboco, destacando sua riqueza e singularidade."
+        }
+      ],
+      "theoryParagraphs": [
+        "A variação linguística mostra que o idioma português falado no Brasil apresenta diferenças regionais que são marcadores culturais e de identidade. Reconhecer e valorizar essas diferenças contribui para a inclusão e o respeito às diversidades do país.",
+        "O registro e a divulgação das expressões típicas de uma região são formas eficazes de preservar a língua e fortalecer o sentimento de pertencimento dos moradores. Livros, produtos culturais e peças de vestuário podem ser veículos poderosos dessa valorização."
+      ],
+      "resolutionParagraphs": [
+        "O texto apresenta duas iniciativas relacionadas à linguagem no Amazonas: o livro que registra e sistematiza expressões da fala local e as camisetas que estampam e promovem tais expressões de forma criativa e humorística.",
+        "Ambas as ações têm como foco central a valorização do repertório linguístico do povo amazonense, seja pela documentação cuidadosa ou pela divulgação cultural que busca resgatar o orgulho do manauara.",
+        "Analisando as alternativas, percebe-se que a alternativa E expressa corretamente essa ideia comum, destacando o valor cultural e identitário do falar regional presente tanto no livro como nas camisetas."
+      ],
+      "puloDoGato": "Foque sempre no objetivo comum das iniciativas para responder; não se deixe levar por detalhes secundários como humor ou comparação dos sotaques.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Aponta um apoio a produtos locais, mas o texto enfatiza a valorização da linguagem, não a promoção comercial."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Menciona diferenças de fala, mas isso não é o objetivo comum apontado entre as iniciativas."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "O texto cita o trabalho acadêmico, porém o foco está na valorização do idioma Amazonense, não no reconhecimento do pesquisador."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "O bom humor é apenas um aspecto das camisetas; o objetivo comum das duas iniciativas é a valorização linguística."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Expressa corretamente a valorização e o registro da linguagem típica do Amazonas realizadas pelo livro e pelas camisetas."
+        }
+      ],
+      "questionCode": "LINGUAGENS_LINGUAGEM_REGIONAL_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si e condizem com o tema da questão, que exige a compreensão do objetivo comum entre duas iniciativas culturais relacionadas à linguagem amazonense. As alternativas foram corretamente analisadas e todas recebem comentários apropriados. A resolução oficial segue a estrutura pedida e mantém a clareza e didática necessária para o ENEM.",
+      "issues": []
+    }
+  }
+}

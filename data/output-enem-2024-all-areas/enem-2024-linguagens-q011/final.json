@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-linguagens-q011",
+  "generatedAt": "2026-03-27T23:53:22.347Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 870,
+      "outputTokens": 783,
+      "estimatedCostUsd": 0.001601
+    },
+    "explainer": {
+      "inputTokens": 1494,
+      "outputTokens": 413,
+      "estimatedCostUsd": 0.001258
+    },
+    "reviewer": {
+      "inputTokens": 2832,
+      "outputTokens": 1947,
+      "estimatedCostUsd": 0.004248
+    },
+    "totalEstimatedCostUsd": 0.007107
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque as falas atribuídas a Evanildo Bechara apresentam um vocabulário técnico e específico da área da linguística e filologia, caracterizando a variedade linguística ocupacional, relacionada a seu ambiente profissional.",
+      "strategy": "Analisar o contexto do texto e as características das falas para identificar o uso de vocabulário técnico e relacioná-lo à variedade ocupacional, descartando outras variedades por não apresentarem as mesmas características.",
+      "steps": [
+        "Identificar o contexto: um filólogo e membro da Academia Brasileira de Letras.",
+        "Observar o vocabulário presente nas falas, com termos técnicos como 'lexicologia' e expressões relacionadas à filologia.",
+        "Relacionar esse uso com a variedade linguística ocupacional, que envolve o uso de termos específicos de uma profissão.",
+        "Comparar com as alternativas para verificar qual indica essa variedade.",
+        "Confirmar a alternativa E como correta, pois corresponde à variedade ocupacional."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "As falas de Evanildo Bechara usam vocabulário técnico próprio da linguística, o que caracteriza a variedade ocupacional, ligada ao uso da linguagem em ambientes profissionais específicos.",
+      "stepByStep": [
+        "Identifique o falante e seu contexto profissional no texto.",
+        "Observe os termos técnicos e específicos usados nas falas.",
+        "Associe esse vocabulário à variedade ocupacional, ligada a uma profissão ou área de conhecimento.",
+        "Verifique as alternativas e confronte-as com a característica identificada.",
+        "Conclua que a fala representa a variedade ocupacional por evidenciar vocabulário técnico ligado à profissão."
+      ],
+      "commonPitfalls": [
+        "Confundir a formalidade presente na fala com variedade situacional.",
+        "Associar a origem regional do personagem à variação linguística, confundindo variedade regional com ocupacional.",
+        "Interpretar linguagem técnica como variedade sociocultural ou culta, em vez de ocupacional.",
+        "Interpretar a idade do falante como indicativa de variedade geracional."
+      ],
+      "teachingTips": [
+        "Explique os diferentes tipos de variedades linguísticas e como distingui-las.",
+        "Enfatize a relação entre vocabulário técnico e variedade ocupacional.",
+        "Pratique a análise do contexto e perfil do falante para identificação da variedade.",
+        "Mostre exemplos práticos de vocabulário técnico em várias profissões.",
+        "Destaque que formalidade não equivale a variedade situacional obrigatoriamente."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar o tom formal à variedade situacional, pensando que a formalidade indica variação contextual.",
+        "misconceptionType": "Confusão entre registro formal e variedade situacional",
+        "whyItLooksPlausible": "As falas têm tom técnico e professoral, sugerindo um contexto formal específico.",
+        "whyItIsWrong": "O foco da variação está no vocabulário técnico profissional, característico da variedade ocupacional, e não simplesmente na situação contextual."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Conectar a origem pernambucana do falante com a ideia de variedade regional.",
+        "misconceptionType": "Confusão entre regionalismos e vocabulário técnico",
+        "whyItLooksPlausible": "O personagem é regional e pode usar expressões locais típicas.",
+        "whyItIsWrong": "As falas não apresentam marcas regionais evidentes, predominando o vocabulário técnico da linguística, típico da variedade ocupacional."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretar o nível culto e rebuscado da fala como variedade sociocultural.",
+        "misconceptionType": "Associação errônea entre linguagem culta e variedade sociocultural",
+        "whyItLooksPlausible": "A fala tem um tom elaborado, técnico e professoral.",
+        "whyItIsWrong": "O que caracteriza a variedade é o vocabulário técnico da profissão, não apenas um estilo culto ou formal."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Associar a idade avançada do falante com uma possível variedade geracional.",
+        "misconceptionType": "Confusão entre variedade geracional e ocupacional",
+        "whyItLooksPlausible": "A idade pode influenciar no vocabulário ou na forma de falar.",
+        "whyItIsWrong": "Não há indicações no texto de marcas linguísticas relacionadas à idade, e o destaque está no vocabulário técnico ligado à profissão."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Reconhecimento e análise das variedades linguísticas no discurso",
+      "secondarySkills": [
+        "Interpretação textual",
+        "Análise linguística"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento prévio sobre variedades linguísticas.",
+        "Necessita compreender que vocabulário técnico indica variedade ocupacional.",
+        "Texto traz citações diretas úteis à identificação da variedade."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Variedade linguística ocupacional",
+      "interpretationIntro": "A questão solicita a identificação da variedade linguística presente nas falas atribuídas a Evanildo Bechara, considerando seu contexto e vocabulário.",
+      "commandTerms": [
+        {
+          "term": "Variedade linguística",
+          "explanation": "Forma particular de uso da língua associada a fatores sociais, profissionais, regionais, etc."
+        },
+        {
+          "term": "Variedade ocupacional",
+          "explanation": "Variedade da língua usada em ambientes profissionais, com vocabulário e expressões específicas."
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar a variedade linguística caracterizada nas falas atribuídas a Evanildo Bechara indicadas no texto.",
+      "strategyParagraph": "Para resolver a questão, é necessário analisar o contexto do falante e o vocabulário empregado. O texto apresenta um filólogo renomado usando termos técnicos e específicos da sua área, o que evidencia uma variedade linguística ocupacional. Comparar essa característica com as alternativas permite selecionar a que melhor expressa essa realidade: a variedade ocupacional.",
+      "reviewTable": [
+        {
+          "concept": "Variedade linguística",
+          "keyIdea": "Modos diferenciados de uso da língua conforme contextos sociais e profissionais",
+          "application": "Analisar o vocabulário técnico ligado à profissão do falante"
+        },
+        {
+          "concept": "Variedade ocupacional",
+          "keyIdea": "Linguagem específica de uma área profissional",
+          "application": "Identificar termos como 'lexicologia' e discussões sobre estrangeirismos"
+        },
+        {
+          "concept": "Formalidade versus variedade",
+          "keyIdea": "Formalidade não necessariamente define variedade situacional",
+          "application": "Termos técnicos indicam variedade ocupacional, apesar do registro formal"
+        }
+      ],
+      "theoryParagraphs": [
+        "A língua apresenta diversas variedades, que se manifestam conforme fatores sociais, regionais, geracionais e profissionais. A variedade ocupacional relaciona-se à linguagem específica usada por profissionais em suas áreas, com vocabulário e expressões técnicas.",
+        "No texto, as falas de Evanildo Bechara mostram o uso de termos técnicos ligados à filologia e à gramática, indicando uma variedade ocupacional, característica do ambiente profissional do filólogo.",
+        "É importante distinguir formalidade, que pode surgir em diversas situações, do uso de vocabulário técnico que delimita uma variedade ocupacional, ligada à especialização do falante."
+      ],
+      "resolutionParagraphs": [
+        "Iniciamos identificando quem é o falante e seu contexto: Evanildo Bechara, filólogo e membro da Academia Brasileira de Letras.",
+        "Observamos as falas atribuídas a ele, que contêm termos e temas técnicos, como 'lexicologia' e discussões sobre estrangeirismos, sinais claros de vocabulário técnico.",
+        "Relacionamos esse uso ao conceito de variedade ocupacional, que caracteriza a fala em ambientes profissionais especializados.",
+        "Comparando as alternativas, verificamos que somente a alternativa E aborda essa característica específica da fala relacionada ao ambiente profissional.",
+        "Assim, concluímos que a variedade linguística predominante nas falas é a variedade ocupacional, confirmando a alternativa E como correta."
+      ],
+      "puloDoGato": "Foque no vocabulário técnico e na profissão do falante: vocabulário técnico indica variedade ocupacional, não apenas formalidade ou localidade.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora a fala tenha tom formal, a questão central é o vocabulário técnico ligado à profissão, característico da variedade ocupacional e não apenas da variedade situacional."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Não há presença de regionalismos na fala de Bechara; o destaque é o vocabulário técnico, portanto, não representa variedade regional."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A linguagem culta ou rebuscada não é o foco principal, mas sim o vocabulário especializado, que caracteriza a variedade ocupacional."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "A idade do falante não é indicativa de variedade geracional neste contexto, pois o uso do vocabulário está ligado à área profissional."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "As falas apresentam vocabulário técnico da filologia, caracterizando a variedade linguística ocupacional, ligada ao ambiente profissional e especialização do falante."
+        }
+      ],
+      "questionCode": "LIGU_OCCU_DISC_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está coerente, clara e didática, alinhada com o enunciado e análise técnica. Comentários sobre as alternativas esclarecem por que cada uma é incorreta, exceto a correta, que está bem fundamentada.",
+      "issues": []
+    }
+  }
+}

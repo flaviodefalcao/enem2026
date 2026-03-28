@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:23:48.492Z",
+  "questionId": "enem-2024-linguagens-q024",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Variação linguística",
+    "rationale": "A questão aborda a discussão sobre a relação entre a fala coloquial, com seus traços de variação linguística social, e a escrita artística, destacando a distinção entre o uso da língua na literatura e o registro padrão, o que se encaixa em variação linguística.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 991,
+    "outputTokens": 86,
+    "estimatedCostUsd": 0.000534
+  }
+}

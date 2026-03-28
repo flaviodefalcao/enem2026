@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:46:42.408Z",
+  "questionId": "enem-2024-linguagens-q009",
+  "payload": {
+    "theme": "Linguagem corporal",
+    "subtheme": "Saúde e movimento",
+    "rationale": "A questão trata do impacto das pressões e crises emocionais na saúde mental dos atletas, relacionando-se diretamente com a habilidade H10 (transformação de hábitos corporais em função das necessidades cinestésicas) e competência 3, enfatizando a relevância da linguagem corporal e do corpo para a vida e identidade das pessoas, especialmente no contexto esportivo e de saúde mental.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 989,
+    "outputTokens": 101,
+    "estimatedCostUsd": 0.000557
+  }
+}

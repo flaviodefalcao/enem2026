@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:52:11.604Z",
+  "questionId": "enem-2024-ciencias-humanas-q059",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta pois o texto destaca que as universidades medievais representam uma grande realização intelectual, implicando a importância de agregar tradição e conhecimento científico como seu legado histórico-cultural duradouro.",
+      "strategy": "Interpretar o texto para identificar qual característica das universidades medievais é valorizada como um patrimônio histórico-cultural relevante.",
+      "steps": [
+        "Ler attentamente o texto para entender o foco do legado das universidades medievais.",
+        "Identificar que o texto destaca as universidades como uma instituição medieval importante na esfera intelectual.",
+        "Relacionar essa importância intelectual com a ideia de tradição e conhecimento científico.",
+        "Avaliar as alternativas para verificar qual corresponde a essa ideia transmitida pelo texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode acreditar que as universidades medievais tinham currículos e métodos padronizados como legado principal.",
+        "misconceptionType": "Interpretação incorreta do texto",
+        "whyItLooksPlausible": "A ideia de currículo e método é ligada à educação, que é função das universidades.",
+        "whyItIsWrong": "O texto não menciona currículos ou métodos padronizados, mas sim a sua importância intelectual geral."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode pensar que as universidades rejeitavam influências orientais e ideologias como parte do seu legado.",
+        "misconceptionType": "Conclusão não suportada pelo texto",
+        "whyItLooksPlausible": "O medieval é frequentemente associado a uma cultura europeia distinta das orientais.",
+        "whyItIsWrong": "O texto não sugere rejeição, apenas afirma a importância das universidades sem menção a tal rejeição."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O aluno pode confundir a função das universidades com organização mercantil.",
+        "misconceptionType": "Equívoco conceitual",
+        "whyItLooksPlausible": "Em certos momentos históricos, instituições podem ter funções econômicas.",
+        "whyItIsWrong": "O texto destaca o valor intelectual e não mercantil das universidades."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar que as universidades transmitiam valores ecumênicos como maior legado.",
+        "misconceptionType": "Interpretação errada do texto",
+        "whyItLooksPlausible": "A palavra \"ecumênico\" pode ser associada a abrangência e integração, ligada ao caráter universitário.",
+        "whyItIsWrong": "O texto enfatiza tradição e realização intelectual, não fala especificamente em valores ecumênicos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual em Ciências Humanas",
+      "secondarySkills": [
+        "Análise crítica",
+        "Relação entre contexto histórico e instituições"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão requer leitura e interpretação do texto base para identificar a resposta correta.",
+        "A bibliografia e contexto histórico ajudam no entendimento, mas não são indispensáveis para responder.",
+        "Não há imagens para auxiliar nesta questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 614,
+    "outputTokens": 631,
+    "estimatedCostUsd": 0.001255
+  }
+}

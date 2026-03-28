@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:40:14.150Z",
+  "questionId": "enem-2024-linguagens-q044",
+  "payload": {
+    "theme": "Linguagem corporal",
+    "subtheme": "Práticas corporais",
+    "rationale": "A questão aborda a inclusão de modalidades que envolvem movimentos corporais, como o break dance nos Jogos Olímpicos, destacando a relação entre esporte, cultura e linguagem corporal, alinhada à habilidade H9 que trata das manifestações corporais de movimento originadas de necessidades sociais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 987,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.000521
+  }
+}

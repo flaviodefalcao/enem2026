@@ -1,0 +1,191 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q085",
+  "generatedAt": "2026-03-28T01:16:08.342Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 707,
+      "outputTokens": 700,
+      "estimatedCostUsd": 0.001403
+    },
+    "explainer": {
+      "inputTokens": 1288,
+      "outputTokens": 446,
+      "estimatedCostUsd": 0.001229
+    },
+    "reviewer": {
+      "inputTokens": 2660,
+      "outputTokens": 2114,
+      "estimatedCostUsd": 0.004446
+    },
+    "totalEstimatedCostUsd": 0.007078
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque o movimento das Madres de Plaza de Mayo denunciou a violação dos direitos humanos durante a ditadura militar argentina, especialmente os desaparecimentos forçados de seus filhos.",
+      "strategy": "Identificar o contexto histórico e o foco do movimento social mencionado na questão a partir da descrição textual e do conhecimento histórico geral.",
+      "steps": [
+        "Ler atentamente o enunciado que fala sobre as Madres de Plaza de Mayo, um grupo de mães que protestavam contra o desaparecimento de seus filhos.",
+        "Identificar que o movimento foi contra um regime repressivo e militar, denunciando violações graves cometidas pelo Estado.",
+        "Relacionar o movimento com a denúncia mundial da violação de direitos humanos, especialmente desaparecimentos e repressão durante a ditadura argentina.",
+        "Analisar as alternativas e encontrar aquela que corresponde a essa denúncia: violação dos direitos humanos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O movimento das Madres de Plaza de Mayo expôs ao mundo as graves violações dos direitos humanos cometidas pela ditadura militar argentina, principalmente os desaparecimentos forçados de seus filhos.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar de quem se fala: as Madres de Plaza de Mayo, mães que protestavam na Argentina.",
+        "Reconheça o contexto histórico da ditadura militar argentina, um período em que muitos opositores foram perseguidos e desapareceram.",
+        "Entenda que o movimento denunciava publicamente essa repressão e os desaparecimentos forçados, que eram crimes cometidos pelo Estado.",
+        "Analise as alternativas e escolha aquela que menciona a violação dos direitos humanos durante a ditadura, que é o foco do movimento.",
+        "Descarte outras alternativas que tratem de problemas diferentes, como violência doméstica ou desigualdade social, pois não correspondem ao tema central do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir a denúncia das Madres com problemas de violência doméstica por associar o grupo a mulheres e mães.",
+        "Interpretar o protesto como uma luta contra a insegurança juvenil, quando o foco era o desaparecimento de seus filhos pela repressão política.",
+        "Associar o movimento exclusivamente à luta contra a desigualdade social, apesar de ser um problema sério, não era o principal objetivo das Madres.",
+        "Pensar que o movimento criticava só a crise democrática e não a gravidade dos crimes de desaparecimento e repressão do Estado."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da ditadura militar argentina para que os alunos entendam a gravidade dos fatos denunciados.",
+        "Use fontes históricas e documentários para mostrar depoimentos das próprias Madres e vítimas, tornando o assunto mais próximo e real.",
+        "Estimule a leitura atenta do texto, destacando palavras-chave como ‘ditador’, ‘silêncio’, ‘repressão’ e ‘Madres de Plaza de Mayo’.",
+        "Faça comparações com outros movimentos sociais para que os alunos compreendam as diferentes formas de resistência política.",
+        "Ressalte a importância dos direitos humanos e como sua violação deve ser denunciada para evitar o esquecimento e a impunidade."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O estudante pode associar o problema à insegurança juvenil por conta da menção de jovens ou filhos das mães.",
+        "misconceptionType": "generalização indevida",
+        "whyItLooksPlausible": "As mães protestavam pela situação de seus filhos; pode surgir a ideia de insegurança ligada à juventude.",
+        "whyItIsWrong": "O foco principal era a repressão estatal e desaparecimento, não exclusivamente a segurança da juventude periférica."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundir a questão da violência estatal com violência doméstica por questão dos grupos sociais e sofrimento das mulheres.",
+        "misconceptionType": "confusão temática",
+        "whyItLooksPlausible": "Como o grupo é de mães, pode haver associação errada com violência doméstica.",
+        "whyItIsWrong": "O movimento se dirige contra violência política do Estado, não violência doméstica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que as manifestações eram sobre desigualdade social, um problema comum na América Latina.",
+        "misconceptionType": "ampliação do tema central",
+        "whyItLooksPlausible": "Contexto latino-americano frequentemente associa-se movimentos a desigualdade social.",
+        "whyItIsWrong": "O protesto das Madres era focado na repressão e violações, não diretamente em desigualdade social."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Assumir que o movimento criticava uma crise democrática, relativização dos princípios democráticos.",
+        "misconceptionType": "erro de escopo histórico-político",
+        "whyItLooksPlausible": "A ditadura militar é antidemocrática, pode levar a pensar que o foco é na relativização da democracia.",
+        "whyItIsWrong": "Embora o regime fosse autoritário, o movimento especificamente denunciava as violações de direitos humanos como sequestros e desaparecimentos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise histórica de movimentos sociais",
+      "secondarySkills": [
+        "Compreensão crítica de textos",
+        "Conhecimento histórico sobre ditaduras na América Latina"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento histórico sobre a ditadura na Argentina e ações de resistência social.",
+        "Não há imagens associadas que complementem a informação para a resposta.",
+        "Interpretar corretamente o foco do movimento é fundamental para identificar a resposta correta."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🕊️",
+      "shortThemeTitle": "Direitos Humanos e Ditadura Argentina",
+      "interpretationIntro": "O enunciado convida o leitor a identificar qual problema nacional argentino foi exposto mundialmente pelo movimento social das Madres de Plaza de Mayo.",
+      "commandTerms": [
+        {
+          "term": "Madres de Plaza de Mayo",
+          "explanation": "Grupo de mães que protestavam contra o desaparecimento de seus filhos durante a ditadura argentina."
+        },
+        {
+          "term": "Ditadura Militar",
+          "explanation": "Regime autoritário responsável por graves violações dos direitos humanos na Argentina."
+        },
+        {
+          "term": "Direitos Humanos",
+          "explanation": "Garantias fundamentais que foram sistematicamente violadas durante o período de repressão."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar o problema nacional argentino que o movimento das Madres de Plaza de Mayo denunciou ao mundo, relacionando a descrição textual ao contexto histórico.",
+      "strategyParagraph": "Para responder, conecte-se ao contexto da ditadura militar argentina, reconheça o papel das Madres de Plaza de Mayo como denunciantes dos desaparecimentos forçados e da violação dos direitos humanos, e escolha a alternativa que melhor reflete esses fatos.",
+      "reviewTable": [
+        {
+          "concept": "Ditadura Militar",
+          "keyIdea": "Regime repressivo que cometeu crimes contra a população.",
+          "application": "Madres protestavam contra esse regime autoritário e suas práticas violentas."
+        },
+        {
+          "concept": "Desaparecimentos Forçados",
+          "keyIdea": "Prática de sumiço de opositores políticos pelo Estado.",
+          "application": "Principal objeto de denúncia das Madres, mães de desaparecidos."
+        },
+        {
+          "concept": "Direitos Humanos",
+          "keyIdea": "Garantias fundamentais que foram violadas no período.",
+          "application": "Violação exposta pelo movimento social ao denunciar o regime."
+        }
+      ],
+      "theoryParagraphs": [
+        "Durante a ditadura militar argentina (1976-1983), o governo perseguiu ilegalmente opositores políticos, resultando em prisões arbitrárias, desaparecimentos e tortura de milhares de pessoas.",
+        "O movimento das Madres de Plaza de Mayo surgem como resistência civil pacífica, denunciando a repressão e exigindo respostas sobre o paradeiro dos seus filhos desaparecidos, tornando-se símbolo internacional da luta pelos direitos humanos.",
+        "Esse grupo expôs ao mundo a gravidade das violações praticadas pelo regime, denunciando a ausência de garantias fundamentais e pedindo justiça, o que contribuiu para o debate global sobre direitos humanos."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado menciona o protesto silencioso e persistente das Madres de Plaza de Mayo, caracterizado por lenços brancos e marchas constantes, que desafiaram o aparato militar.",
+        "Reconhece-se que este movimento é conhecido por denunciar a política de desaparecimentos forçados e repressão da ditadura argentina.",
+        "Ao ler as alternativas, identifica-se que somente a alternativa que aponta à violação dos direitos humanos aborda essa denúncia específica, explicando o teor da luta das Madres.",
+        "Portanto, conclui-se que o problema nacional exposto mundialmente por este movimento social foi a severa violação dos direitos humanos durante o regime militar."
+      ],
+      "puloDoGato": "Lembre-se que as Madres de Plaza de Mayo são mundialmente conhecidas por denunciar os desaparecimentos forçados durante a ditadura argentina, foco que dirige a resposta.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Alternativa correta. Reflete exatamente a denúncia das Madres contra as violações de direitos humanos, principalmente desaparecimentos forçados durante a ditadura militar argentina."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Errada. Embora mencione os filhos, a questão não trata de insegurança juvenil, mas de repressão política e desaparecimentos forçados."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Errada. Não há relação com violência doméstica; o movimento denuncia violência do Estado contra opositores políticos."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Errada. O foco não é desigualdade social, mas as violações dos direitos humanos pelas forças militares."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Errada. Apesar da ditadura ser antidemocrática, o movimento denuncia especificamente a repressão e desaparecimentos, não uma crise democrática mais ampla."
+        }
+      ],
+      "questionCode": "CH_CIENCIAHUMANA_ANALISE_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, o solver e o explainer estão coerentes entre si, aderindo ao contexto histórico correto e identificando claramente a denúncia central do movimento das Madres de Plaza de Mayo. A resolução oficial segue as diretrizes editoriais solicitadas e está completa, didática e clara.",
+      "issues": []
+    }
+  }
+}

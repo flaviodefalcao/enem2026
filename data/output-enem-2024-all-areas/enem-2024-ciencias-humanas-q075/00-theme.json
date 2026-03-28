@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:04:35.614Z",
+  "questionId": "enem-2024-ciencias-humanas-q075",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "A questão aborda espaços sociais do Iluminismo, como salões e cafés, que representam instituições sociais e políticas onde se discutiam ideias e se articulavam relações de poder na sociedade do Antigo Regime, mostrando a configuração das instituições sociais e a circulação das ideias, característica do subtema de instituições sociais e políticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1036,
+    "outputTokens": 92,
+    "estimatedCostUsd": 0.000562
+  }
+}

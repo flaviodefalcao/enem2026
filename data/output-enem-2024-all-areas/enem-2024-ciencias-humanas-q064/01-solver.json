@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:55:58.420Z",
+  "questionId": "enem-2024-ciencias-humanas-q064",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta pois os textos destacam a atuação de Chiquinha Gonzaga e Castro Alves na defesa do fim da escravidão, indicando claramente o movimento abolicionista.",
+      "strategy": "Analisou-se o conteúdo textual para identificar o tema comum abordado por ambos os autores mencionados (Chiquinha Gonzaga e Castro Alves), especificamente sua luta contra a escravidão e defesa dos direitos das mulheres e dos escravos.",
+      "steps": [
+        "Leitura atenta do Texto I que destaca Chiquinha Gonzaga como alforriada e ativista pelo fim da escravidão.",
+        "Leitura do Texto II que apresenta Castro Alves e sua poesia antiescravista, conhecida por sua crítica à escravidão.",
+        "Identificação da temática comum presente em ambos os textos: a luta contra a escravidão e pelo fim dela.",
+        "Comparação das alternativas apresentadas com a temática dos textos.",
+        "Exclusão das alternativas que não se relacionam com a abolição ou com o contexto histórico tratado.",
+        "Conclusão que a alternativa C (movimento abolicionista) está alinhada com os temas dos textos.",
+        "Confirmação pelo gabarito de referência informado."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode-se confundir a luta por direitos e movimentos políticos gerais com o integralismo, especialmente se não se conhece o contexto histórico adequado.",
+        "misconceptionType": "Confusão histórica",
+        "whyItLooksPlausible": "Porque a alternativa menciona um movimento político e os textos falam de ativismo.",
+        "whyItIsWrong": "O integralismo foi um movimento político posterior e não tem relação com a luta contra a escravidão abordada nos textos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode gerar confusão por citar literatura, já que Castro Alves foi poeta e Chiquinha Gonzaga compositora.",
+        "misconceptionType": "Generalização incorreta",
+        "whyItLooksPlausible": "Porque envolve literatura e artes, atributos mencionados nos textos.",
+        "whyItIsWrong": "Os textos mencionam especificamente a temática antiescravista e não a literatura realista, que é um movimento posterior e diferente."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Alguns podem pensar que a luta social referida envolve os povos indígenas, dada a tradição de lutas sociais no Brasil.",
+        "misconceptionType": "Conflação temática",
+        "whyItLooksPlausible": "Porque envolve defesa de direitos de grupos marginalizados.",
+        "whyItIsWrong": "Os textos não citam povos indígenas, mas sim a escravidão e o combate a ela."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode haver confusão com temas nacionais de valorização cultural ou social.",
+        "misconceptionType": "Interpretação equivocada de termos",
+        "whyItLooksPlausible": "O nacionalismo parece relacionado à valorização cultural, algo presente nos textos sobre música e poesia brasileiras.",
+        "whyItIsWrong": "Os textos enfocam a abolição da escravatura, não o nacionalismo desenvolvimentista, que é um conceito posterior e econômico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise crítica",
+      "secondarySkills": [
+        "Conhecimento histórico",
+        "Relação interdisciplinar entre artes e história"
+      ],
+      "cognitiveDemand": "Médio-alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão histórica da abolição da escravidão no Brasil.",
+        "Necessita identificar a atuação de intelectuais e artistas como agentes sociais.",
+        "Envolve o reconhecimento do movimento abolicionista a partir do texto escrito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 798,
+    "outputTokens": 762,
+    "estimatedCostUsd": 0.001538
+  }
+}

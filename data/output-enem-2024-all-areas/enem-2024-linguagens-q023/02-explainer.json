@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:23:21.684Z",
+  "questionId": "enem-2024-linguagens-q023",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O autor da resenha elogia a série, mas logo em seguida utiliza expressões adversativas, como \"mas\" e \"porém\", para apresentar críticas. Essas expressões marcam a transição entre avaliações positivas e negativas, mostrando ressalvas ao elogio inicial.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique os elogios feitos à série.",
+        "Observe as palavras que indicam oposição ou restrição, como \"mas\", \"porém\" ou \"continua sendo uma pena\".",
+        "Perceba que essas expressões indicam uma ressalva ou crítica logo após um comentário positivo.",
+        "Reflita sobre outras alternativas e perceba que o texto não é impessoal, não utiliza eufemismos para minimizar críticas, nem tem diálogo direto com o leitor nem uma antítese formal.",
+        "Conclua que o recurso linguístico predominante para apresentar críticas após elogios são as expressões adversativas, correspondendo à alternativa B."
+      ],
+      "commonPitfalls": [
+        "Interpretar o texto como impessoal ou neutro, quando há opinião claramente presente.",
+        "Confundir interlocução com o leitor com a simples presença de uma linguagem próxima.",
+        "Achar que as críticas são suavizadas por eufemismos, quando na verdade são diretas.",
+        "Ver como antítese a simples oposição de ideias sem estrutura formal do recurso."
+      ],
+      "teachingTips": [
+        "Explique o papel das expressões adversativas como conectores que contrapõem ideias.",
+        "Exercite com textos que contenham conjunções adversativas para identificar o efeito delas.",
+        "Incentive a identificação de opinião e crítica mesmo quando o texto começa com elogios.",
+        "Use exemplos de eufemismos, interlocução e antíteses para contrastar com as expressões adversativas, ajudando na diferenciação.",
+        "Peça que os alunos justifiquem suas escolhas com base no efeito das expressões no texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1392,
+    "outputTokens": 388,
+    "estimatedCostUsd": 0.001178
+  }
+}

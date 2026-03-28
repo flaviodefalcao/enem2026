@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:57:53.429Z",
+  "questionId": "enem-2024-ciencias-humanas-q067",
+  "payload": {
+    "theme": "Trabalho, técnica e produção",
+    "subtheme": "Tecnologia e trabalho",
+    "rationale": "A questão aborda o impacto da internet como tecnologia no fortalecimento da economia local de comunidades tradicionais e indígenas, integrando pequenos produtores a cadeias maiores, o que se relaciona diretamente com o uso da tecnologia para modificar o trabalho e a produção.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 945,
+    "outputTokens": 75,
+    "estimatedCostUsd": 0.000498
+  }
+}

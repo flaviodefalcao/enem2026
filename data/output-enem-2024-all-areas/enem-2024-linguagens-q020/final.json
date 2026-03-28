@@ -1,0 +1,199 @@
+{
+  "questionId": "enem-2024-linguagens-q020",
+  "generatedAt": "2026-03-28T00:20:45.798Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 858,
+      "outputTokens": 924,
+      "estimatedCostUsd": 0.001822
+    },
+    "explainer": {
+      "inputTokens": 1591,
+      "outputTokens": 451,
+      "estimatedCostUsd": 0.001358
+    },
+    "reviewer": {
+      "inputTokens": 2969,
+      "outputTokens": 2339,
+      "estimatedCostUsd": 0.00493
+    },
+    "totalEstimatedCostUsd": 0.00811
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa correta é a letra C, pois a crônica utiliza a repetição da palavra \"coisa\" e seus derivados ao longo do texto para manter a unidade temática, caracterizando o recurso de reiteração.",
+      "strategy": "Analisar os recursos linguísticos indicados nas alternativas, confrontando-os com os elementos presentes no texto da crônica para identificar qual garante a unidade temática.",
+      "steps": [
+        "Ler o texto atentamente, observando as repetições e os recursos linguísticos presentes.",
+        "Analisar cada alternativa à luz do texto:",
+        "- A: Apesar de haver referência a Caetano Veloso e menção a letras de canções, o foco não é intertextualidade predominante na progressão textual.",
+        "- B: Metalinguagem envolveria a autora falando sobre o ato de escrever, mas a crônica não enfatiza isso para manter a unidade temática.",
+        "- C: Identifica-se a repetição constante da palavra \"coisa\" e seus derivados (coisinha, coisar), que mantém o tema.",
+        "- D: Embora existam conectores como \"quando\" e \"porque\", eles não são o recurso principal para unidade temática.",
+        "- E: Há menção a \"minha filha\" e o pronome \"ela\" aparece, mas \"um namorado ruim\" e \"lo\" não constam no texto, tornando essa alternativa incorreta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A crônica mantém a unidade temática ao repetir a palavra \"coisa\" e seus derivados várias vezes ao longo do texto, utilizando o recurso de reiteração para reforçar o tema principal.",
+      "stepByStep": [
+        "Leia o texto atentamente e observe as palavras ou expressões que se repetem.",
+        "Identifique qual recurso linguístico está sendo usado para conectar as ideias e garantir a unidade do texto.",
+        "Veja que a palavra \"coisa\" e variantes aparecem frequentemente, criando um elo temático.",
+        "Analise as alternativas e verifique qual delas corresponde ao uso dessa repetição no texto.",
+        "Conclua que o recurso utilizado é a reiteração, pois ela mantém a unidade textual por meio da repetição lexical."
+      ],
+      "commonPitfalls": [
+        "Confundir a repetição de \"coisa\" com intertextualidade, por causa das citações a Caetano Veloso.",
+        "Assumir que metalinguagem está presente ao interpretar a autora falando sobre sua escrita, sem que isso seja foco do texto.",
+        "Entender que conectores como \"quando\" e \"porque\" são o principal recurso para unidade temática, quando eles são apenas coesivos.",
+        "Pensar que a pronominalização é o recurso principal por causa dos pronomes presentes, mesmo que eles não sejam o foco para a unidade do texto.",
+        "Associar erroneamente elementos que não aparecem no texto (ex: \"um namorado ruim\" e \"lo\") ao recurso textual em questão."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre os principais recursos de coesão e progressão textual: reiteração, pronominalização, substituição, elipse, e conectores.",
+        "Use exemplos claros e textos curtos para que os alunos identifiquem a repetição de palavras como recurso de reiteração.",
+        "Peça para os alunos destacarem as palavras repetidas em um texto e discutirem qual efeito elas produzem na unidade temática.",
+        "Mostre como as citações e referências não necessariamente configuram intertextualidade que sustenta o texto inteiro.",
+        "Estimule os alunos a sempre relacionarem o recurso linguístico com o objetivo de manter a unidade e progressão do texto, evitando confusão com outros elementos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode achar que a menção a Caetano Veloso e frases famosas de canções representam intertextualidade relevante para a unidade temática.",
+        "misconceptionType": "Interpretação incorreta de intertextualidade",
+        "whyItLooksPlausible": "O texto cita versos de músicas, sugerindo uma ligação entre textos que pode ser confundida com recurso principal.",
+        "whyItIsWrong": "A intertextualidade aparece, mas o recurso para unidade temática é a repetição da palavra \"coisa\", não a mera citação de versos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode pensar que o fato da autora mencionar sua escrita configura metalinguagem para manter a unidade.",
+        "misconceptionType": "Confusão conceitual sobre metalinguagem",
+        "whyItLooksPlausible": "Metalinguagem costuma ser uma estratégia importante para reflexões textuais; o candidato pode achar que a menção da autora sobre ler e escrever crônicas aponta para isso.",
+        "whyItIsWrong": "O texto não aborda o ato de escrever a crônica enquanto tema, e sim a repetição da palavra \"coisa\" para unidade temática."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode se prender ao uso frequente dos conectores \"quando\" e \"porque\" achando que são o recurso principal de coesão e unidade.",
+        "misconceptionType": "Confusão entre coesão e progressão temática",
+        "whyItLooksPlausible": "Conectores são essenciais em textos para ligar orações, sendo um recurso comum para progressão textual.",
+        "whyItIsWrong": "Embora presentes, eles não constituem o foco principal da unidade temática, que está na repetição lexical."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode se confundir ao ver pronomes que retomam nomes, associando isso a pronominalização como recurso principal.",
+        "misconceptionType": "Erro na identificação de elementos pronominais e referentes no texto",
+        "whyItLooksPlausible": "Pronominalização é um recurso comum para unidade textual, e a presença de pronomes pode induzir ao erro.",
+        "whyItIsWrong": "A alternativa menciona \"um namorado ruim\" e o pronome \"lo\", que não aparecem no texto, e a pronominalização não é o recurso mais destacado para a unidade temática."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise linguística",
+      "secondarySkills": [
+        "Reconhecimento de recursos linguísticos",
+        "Análise de progressão textual"
+      ],
+      "cognitiveDemand": "Médio - exige compreensão textual e conhecimento dos recursos linguísticos",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão requer conhecimento sobre recursos de coesão e progressão textual, especialmente reiteração.",
+        "É importante discriminá-los de outros recursos como intertextualidade, metalinguagem, pronominalização e conectores."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📝",
+      "shortThemeTitle": "Reiteração para Unidade Temática",
+      "interpretationIntro": "Para responder a questão, é fundamental compreender qual recurso linguístico garante a unidade temática na crônica apresentada.",
+      "commandTerms": [
+        {
+          "term": "Unidade temática",
+          "explanation": "Coerência e continuidade de um mesmo assunto ao longo do texto."
+        },
+        {
+          "term": "Reiteração",
+          "explanation": "Repetição lexical que reforça a ideia central e a continuidade temática."
+        },
+        {
+          "term": "Recursos linguísticos",
+          "explanation": "Elementos da linguagem que organizam e conectam as ideias no texto."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar o recurso utilizado na progressão textual que mantém a unidade temática da crônica.",
+      "strategyParagraph": "Para identificar o recurso, deve-se analisar os elementos linguísticos que se repetem ao longo do texto e que contribuem para a continuidade do tema, descartando outros recursos presentes que não são o foco para garantir a unidade temática.",
+      "reviewTable": [
+        {
+          "concept": "Reiteração",
+          "keyIdea": "Repetição de palavras ou expressões para reforçar o tema.",
+          "application": "A palavra \"coisa\" e seus derivados aparecem repetidamente, mantendo a unidade do texto."
+        },
+        {
+          "concept": "Intertextualidade",
+          "keyIdea": "Citação ou referência a outros textos para ampliar o significado.",
+          "application": "Citações a Caetano Veloso existem, mas não sustentam a unidade temática principal."
+        },
+        {
+          "concept": "Metalinguagem",
+          "keyIdea": "Texto que fala sobre si mesmo ou o ato da escrita.",
+          "application": "Não ocorre neste texto, já que a crônica não enfatiza o ato de escrever."
+        },
+        {
+          "concept": "Conectores",
+          "keyIdea": "Palavras que ligam orações e ideias para coesão.",
+          "application": "Estão presentes, mas não são o recurso principal para a unidade temática."
+        }
+      ],
+      "theoryParagraphs": [
+        "A reiteração é um recurso linguístico que consiste na repetição propositada de uma palavra ou expressão para destacar ou reforçar um tema, ajudando na progressão textual e na manutenção da unidade temática.",
+        "A unidade temática é fundamental para que o texto apresente coerência, ou seja, que as ideias estejam conectadas e relacionadas em torno de um mesmo assunto central.",
+        "Outros recursos como intertextualidade e metalinguagem podem aparecer em um texto, mas nem sempre são centrais para garantir a unidade temática; é preciso identificar qual recurso é efetivamente responsável por essa função."
+      ],
+      "resolutionParagraphs": [
+        "Ao ler a crônica percebe-se que a palavra \"coisa\" e suas variações (\"coisinha\", \"coisar\") aparecem repetidamente em diferentes contextos ao longo do texto.",
+        "Essa repetição lexical cria uma linha temática que conecta todas as partes do texto, dando continuidade e coerência à crônica.",
+        "Analisando as alternativas, verifica-se que a letra C, que indica a reiteração, corresponde ao recurso utilizado, pois nenhum outro recurso apresentado caracteriza tão bem a unidade temática como essa repetição.",
+        "Assim, conclui-se que o recurso de reiteração é o responsável por garantir a unidade temática da crônica, justificando a escolha da alternativa C."
+      ],
+      "puloDoGato": "Foque na palavra que mais se repete no texto — essa é a pista para identificar a reiteração e garantir a unidade temática.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora o texto cite frases de Caetano Veloso, a intertextualidade não é o recurso principal que sustenta a unidade temática da crônica."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A metalinguagem, que seria o texto falando sobre si mesmo, não ocorre de forma a manter a unidade temática no texto apresentado."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "A repetição da palavra \"coisa\" e seus derivados configura o recurso de reiteração, que garante a unidade temática da crônica."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Os conectores \"quando\" e \"porque\" estão presentes, mas não são o principal recurso responsável pela unidade temática."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A alternativa menciona elementos que não aparecem no texto, e a pronominalização não é o foco da unidade temática neste caso."
+        }
+      ],
+      "questionCode": "LINGUAGENS_PROGRESSÃO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, resposta técnica e explicação didática estão coerentes entre si e com o conteúdo da questão. A resolução oficial cumpre os requisitos editoriais e aborda todos os aspectos importantes para o entendimento da questão.",
+      "issues": []
+    }
+  }
+}

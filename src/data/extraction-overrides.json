@@ -1,0 +1,14 @@
+{
+  "180": {
+    "options": {
+      "D": {
+        "mode": "suppress_text",
+        "reason": "Texto OCR com baixa confiança; ocultado até revisão do extrator."
+      },
+      "E": {
+        "mode": "suppress_text",
+        "reason": "Texto OCR com baixa confiança; ocultado até revisão do extrator."
+      }
+    }
+  }
+}

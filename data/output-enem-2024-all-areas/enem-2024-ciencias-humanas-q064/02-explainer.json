@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:56:03.713Z",
+  "questionId": "enem-2024-ciencias-humanas-q064",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os textos apresentados falam sobre Chiquinha Gonzaga e Castro Alves, ambos importantes figuras na luta pelo fim da escravidão no Brasil. Portanto, a questão aborda a participação de artistas e intelectuais brasileiros no movimento abolicionista, que buscava acabar com a escravidão.",
+      "stepByStep": [
+        "Leia com atenção o Texto I, que mostra Chiquinha Gonzaga como uma mulher ativista contra a escravidão.",
+        "Observe no Texto II que Castro Alves é descrito como um poeta que criticava a escravidão por meio de suas obras.",
+        "Identifique o tema comum entre os textos: a defesa do fim da escravidão.",
+        "Compare as alternativas da questão com esse tema central.",
+        "Elimine as alternativas que não tenham relação direta com a luta contra a escravidão.",
+        "Perceba que a alternativa que menciona o movimento abolicionista está em consonância com o conteúdo dos textos.",
+        "Finalize a resposta escolhendo a alternativa correta, que corresponde à participação no movimento abolicionista. "
+      ],
+      "commonPitfalls": [
+        "Confundir o movimento abolicionista com outros movimentos políticos posteriores, como o integralismo.",
+        "Achar que a questão envolve a literatura realista, quando na verdade trata da poesia antiescravista e da música popular ligada à luta social.",
+        "Considerar que o foco seja a luta dos povos indígenas, embora a questão destaque a escravidão.",
+        "Interpretar que o tema central seja o nacionalismo, quando o assunto é a abolição da escravatura."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar temas comuns em textos diferentes como estratégia para responder perguntas.",
+        "Reforce o contexto histórico da escravidão e do movimento abolicionista no Brasil para melhor compreensão dos textos.",
+        "Trabalhe com exemplos de artistas e intelectuais que participaram de causas sociais para mostrar a relação entre cultura e luta social.",
+        "Explique a importância da leitura crítica para distinguir movimentos históricos e contextos específicos abordados nos textos.",
+        "Estimule a análise das alternativas para eliminar opções que, apesar de plausíveis, não se encaixam no contexto dado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1460,
+    "outputTokens": 428,
+    "estimatedCostUsd": 0.001269
+  }
+}

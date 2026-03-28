@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:46:07.525Z",
+  "questionId": "enem-2024-ciencias-humanas-q051",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque o texto descreve que a valsa tinha origem nas danças campestres e folclóricas, que são expressões culturais populares, e que no século XVI a aristocracia francesa a rejeitou devido à sua associação com a cultura plebeia.",
+      "strategy": "Identificar no texto a razão da rejeição da valsa na aristocracia francesa e relacioná-la com a origem cultural da dança para encontrar a alternativa correta que exprime essa rejeição.",
+      "steps": [
+        "Ler atentamente o texto e identificar a origem da valsa: danças campestres e folclóricas.",
+        "Observar que a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia (popular).",
+        "Relacionar a rejeição descrita no texto com as alternativas apresentadas.",
+        "Selecionar a alternativa que corresponde a elementos provenientes de segmentos populares.",
+        "Verificar que a alternativa E corresponde exatamente a essa ideia."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A associação da rejeição da dança à suposta ligação com feitiçaria nórdica pode parecer uma explicação cultural plausível para a exclusão, já que a feitiçaria é historicamente marginalizada.",
+        "misconceptionType": "Causalidade incorreta",
+        "whyItLooksPlausible": "A relação entre práticas culturais rejeitadas e feitiçaria poderia parecer uma justificativa para a proibição.",
+        "whyItIsWrong": "O texto não menciona qualquer relação entre a valsa e a feitiçaria nórdica, nem isso é historicamente vinculada à valsa."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Práticas pagãs são frequentemente rejeitadas por sociedades mais tradicionais, o que poderia explicar a proibição da dança.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "Muitas expressões culturais populares derivam de rituais pagãos, o que poderia justificar a rejeição.",
+        "whyItIsWrong": "O texto não menciona rituais pagãos ou essa justificativa para a rejeição da valsa."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Poderiam pensar que regras do Renascimento influenciaram a rejeição, já que o período trazia normas sociais rígidas.",
+        "misconceptionType": "Confusão conceitual temporal",
+        "whyItLooksPlausible": "O Renascimento estaria associado ao início da Idade Moderna e normas sociais, podendo justificar rejeição.",
+        "whyItIsWrong": "O texto vincula a rejeição à cultura popular, não a regras renascentistas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Poderiam imaginar que a música ou ritmo associados a territórios colonizados eram rejeitados pela aristocracia.",
+        "misconceptionType": "Errada associação geográfica",
+        "whyItLooksPlausible": "Música de territórios colonizados poderia ser vista como estrangeira e rejeitada pela elite.",
+        "whyItIsWrong": "Nenhum vínculo com territórios colonizados é mencionado no texto, e a rejeição é cultural interna, à cultura popular."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise cultural histórica",
+      "secondarySkills": [
+        "Conhecimento histórico-cultural",
+        "Raciocínio crítico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreender contexto histórico-social da cultura e reconhecer categorias sociais (aristocracia vs cultura plebeia).",
+        "Não exige cálculo nem interpretação visual.",
+        "Foca em interpretação textual e histórico-cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 675,
+    "outputTokens": 764,
+    "estimatedCostUsd": 0.001492
+  }
+}

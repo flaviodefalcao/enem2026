@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:33:56.033Z",
+  "questionId": "enem-2024-linguagens-q035",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O fragmento evidencia uma visão romântica que critica a interferência da riqueza na relação amorosa e no casamento, mostrando uma esposa que reconhece ter \"comprado\" seu marido, o que revela a condição do casamento como uma transação financeira, característica comum na literatura romântica que aborda conflitos entre amor e interesses econômicos.",
+      "stepByStep": [
+        "Leia atentamente o trecho para captar o diálogo e os sentimentos envolvidos entre os personagens.",
+        "Observe a fala de Aurélia, que diz ser rica e que comprou seu marido, indicando que o casamento está vinculado a uma transação financeira.",
+        "Analise como o marido se sente ferido ao ser chamado de \"homem vendido\", evidenciando o conflito entre amor e dinheiro.",
+        "Entenda que a crítica social presente no texto está ligada à relação econômica no casamento, uma temática recorrente na literatura romântica.",
+        "Compare as alternativas da questão e escolha a que reconhece essa crítica à influência da riqueza no amor e casamento."
+      ],
+      "commonPitfalls": [
+        "Focar somente na menção ao primeiro beijo e interpretar como defesa da castidade, quando o tema central é a influência da riqueza.",
+        "Confundir a crítica social abordada com uma defesa da igualdade de gêneros ou das relações interpessoais positivas.",
+        "Generalizar o tema para uma crítica ampla à injustiça social sem vincular diretamente ao casamento e ao amor.",
+        "Interpretar o diálogo como algo positivo e não perceber a ironia e a denúncia da situação de 'compra' no relacionamento."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o contexto histórico e literário para melhor interpretar o texto.",
+        "Trabalhe a análise de personagens e seus diálogos como fonte de informação sobre temas e críticas.",
+        "Estimule a comparação entre as alternativas com base no texto, para desenvolver o julgamento crítico.",
+        "Aborde a literatura romântica destacando seus aspectos típicos, como o conflito entre sentimento e convenção social ou econômica.",
+        "Use questões discursivas para que os alunos justifiquem suas escolhas, evitando leituras superficiais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1491,
+    "outputTokens": 420,
+    "estimatedCostUsd": 0.001268
+  }
+}

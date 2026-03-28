@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:43:42.660Z",
+  "questionId": "enem-2024-ciencias-humanas-q048",
+  "payload": {
+    "theme": "Sociedade e natureza",
+    "subtheme": "Impactos socioambientais",
+    "rationale": "A questão aborda o rompimento da barragem de Fundão e seus impactos na relação das pessoas com o espaço vivido, afetando vidas e vínculos afetivos, o que está diretamente relacionado a impactos socioambientais decorrentes de desastres ambientais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 857,
+    "outputTokens": 76,
+    "estimatedCostUsd": 0.000464
+  }
+}

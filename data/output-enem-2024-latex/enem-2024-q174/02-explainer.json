@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:48:42.673Z",
+  "questionId": "enem-2024-q174",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a projeção ortogonal da trajetória ABCDEF no plano da base, projetamos cada ponto verticalmente para baixo nesse plano, eliminando a altura (coordenada z). Depois, ligamos os pontos projetados na ordem da trajetória original para obter o caminho projetado, que corresponde à alternativa C.",
+      "stepByStep": [
+        "Observe que os pontos A, D e E estão em um plano perpendicular ao plano da base, assim como os pontos B e C estão em outro plano perpendicular ao da base.",
+        "Identifique o plano da base onde está o ponto F; a projeção ortogonal consiste em eliminar a coordenada vertical (altura) dos pontos para trazê-los ao plano da base.",
+        "Projete o ponto A diretamente para baixo no plano da base, mantendo suas coordenadas horizontais (x, y), mas zerando a altura (z).",
+        "Faça o mesmo para os pontos D e E, colocando-os na projeção no plano da base com coordenadas horizontais iguais às suas originais e altura zero.",
+        "Os pontos B e C já estão em um plano paralelo à base, mas em um plano ortogonal a ele, então suas projeções sobre a base manterão as coordenadas x e y, com z zerado.",
+        "O ponto F já está no plano da base, logo sua projeção é ele mesmo.",
+        "Conecte os pontos projetados na ordem A-B-C-D-E-F para desenhar a trajetória no plano da base.",
+        "Compare essa linha projetada com as alternativas dadas para verificar que a correta é a alternativa C."
+      ],
+      "commonPitfalls": [
+        "Confundir a ordem dos pontos na trajetória projetada, conectando-os incorretamente.",
+        "Não eliminar a coordenada vertical corretamente, mantendo valores de altura na projeção.",
+        "Trocar os pontos B e C na projeção, invertendo sua posição relativa.",
+        "Interpretar mal os planos ortogonais, projetando em direção errada, não vertical para o plano da base.",
+        "Assumir que a projeção deve manter alguma inclinação, quando na verdade a projeção ortogonal é sempre perpendicular ao plano da base."
+      ],
+      "teachingTips": [
+        "Use modelos tridimensionais ou software de geometria para mostrar a projeção ortogonal em tempo real.",
+        "Explique e demonstre o conceito de projeção ortogonal como uma 'sombra' dos pontos sobre o plano da base.",
+        "Peça que os alunos identifiquem os planos e as coordenadas dos pontos antes de projetar, para preparar visualmente a resolução.",
+        "Foquem na ordem da trajetória e na conexão correta dos pontos projetados.",
+        "Explique que a projeção ortogonal é como eliminar uma dimensão (a altura), simplificando o problema para um plano 2D."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 3043,
+    "outputTokens": 555,
+    "estimatedCostUsd": 0.002105
+  }
+}

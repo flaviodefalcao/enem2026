@@ -1,0 +1,175 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:46:41.068Z",
+  "questionId": "enem-2024-ciencias-humanas-q051",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E está correta porque o texto indica que a valsa foi rejeitada pela aristocracia francesa por sua ligação com a cultura plebeia, ou seja, a cultura popular, que era vista como inferior à elite social da época.",
+        "strategy": "Analisar o texto para identificar a origem cultural da valsa e a razão pela qual foi rejeitada, relacionando essas informações com as alternativas apresentadas para escolher a que melhor representa essa rejeição.",
+        "steps": [
+          "Ler o texto atentamente para compreender a origem da valsa ligada a danças campestres e folclóricas.",
+          "Identificar no texto que a aristocracia francesa abandonou a valsa por sua associação com a cultura plebeia.",
+          "Associar cultura plebeia a cultura popular e relacionar isso com as alternativas dadas.",
+          "Examinar as alternativas e escolher a que expressa a rejeição da aristocracia a expressões culturais populares.",
+          "Confirmar que a alternativa E corresponde a essa rejeição descrita no texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A valsa foi rejeitada pela aristocracia porque estava ligada à cultura popular, considerada inadequada aos padrões sociais elitistas do período.",
+        "stepByStep": [
+          "Ler o texto enfocando a origem da valsa relacionada à cultura popular.",
+          "Identificar que a aristocracia francesa rejeitava a valsa por essa ligação social.",
+          "Entender que 'cultura plebeia' significa cultura das classes populares.",
+          "Relacionar essa rejeição social com as alternativas apresentadas.",
+          "Selecionar a alternativa que expressa essa rejeição à cultura popular, que é a E."
+        ],
+        "commonPitfalls": [
+          "Interpretar a rejeição como por práticas pagãs ou feitiçaria sem base no texto.",
+          "Confundir a rejeição com influências renascentistas ou coloniais não mencionadas.",
+          "Não compreender o significado de 'cultura plebeia' e sua relação com cultura popular."
+        ],
+        "teachingTips": [
+          "Explorar o conceito histórico de classes sociais para melhor compreensão do texto.",
+          "Estimular leitura crítica focando em causas e efeitos dentro do texto.",
+          "Promover comparação entre alternativas para fortalecer a argumentação.",
+          "Usar exemplos contemporâneos de rejeição ou apropriação cultural para contextualizar.",
+          "Incentivar o uso de evidências textuais para fundamentar as respostas."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Ligação da rejeição à suposta feitiçaria nórdica, justificando a exclusão.",
+          "misconceptionType": "Causalidade incorreta",
+          "whyItLooksPlausible": "Feitiçaria é historicamente rejeitada e associada a marginalização cultural.",
+          "whyItIsWrong": "O texto não menciona feitiçaria nórdica em relação à valsa."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Rejeição ligada a práticas pagãs, comum em sociedades tradicionais.",
+          "misconceptionType": "Generalização indevida",
+          "whyItLooksPlausible": "Muitas tradições populares têm raízes pagãs, o que poderia justificar rejeição.",
+          "whyItIsWrong": "O texto não faz referência a práticas pagãs como motivo da rejeição."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Supor que regras do Renascimento levaram à rejeição.",
+          "misconceptionType": "Confusão temporal/conceitual",
+          "whyItLooksPlausible": "Renascimento associa-se a normas sociais rígidas que poderiam influenciar.",
+          "whyItIsWrong": "O texto relaciona rejeição à cultura popular, não a regras renascentistas."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Assumir rejeição por influência de territórios colonizados.",
+          "misconceptionType": "Associação geográfica incorreta",
+          "whyItLooksPlausible": "Música e ritmos coloniais poderiam ser vistos como estrangeiros e rejeitados.",
+          "whyItIsWrong": "Não há menção a territórios colonizados no texto nem relação com rejeição cultural."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto e análise cultural histórica",
+        "secondarySkills": [
+          "Conhecimento histórico-cultural",
+          "Raciocínio crítico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão do contexto histórico e social da cultura e distinção de classes sociais.",
+          "Não envolve cálculos nem interpretação de imagens.",
+          "Foco em leitura crítica e histórico-cultural."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🕰️",
+        "shortThemeTitle": "Rejeição da Cultura Popular na Idade Moderna",
+        "interpretationIntro": "O enunciado solicita compreender o motivo pelo qual a valsa foi inicialmente rejeitada no início da Idade Moderna pela aristocracia francesa.",
+        "commandTerms": [
+          {
+            "term": "Rejeição",
+            "explanation": "Refere-se ao ato de recusar ou não aceitar uma prática cultural."
+          },
+          {
+            "term": "Cultura plebeia",
+            "explanation": "Designa as expressões culturais e sociais das classes populares, em contraposição à aristocracia."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pergunta qual grupo cultural estava congregado na expressão da valsa e que motivou sua rejeição pela aristocracia no início da Idade Moderna.",
+        "strategyParagraph": "Para resolver, deve-se identificar no texto a origem da valsa e compreender que a rejeição ocorrida se deu por sua associação a grupos sociais considerados inferiores, relacionando essas informações com as alternativas fornecidas para encontrar a correta.",
+        "reviewTable": [
+          {
+            "concept": "Expressão cultural",
+            "keyIdea": "A valsa tem origem nas danças campestres e folclóricas, ligadas à cultura popular.",
+            "application": "O texto destaca sua relação com a cultura plebeia."
+          },
+          {
+            "concept": "Rejeição cultural",
+            "keyIdea": "A aristocracia rejeitou a valsa por sua ligação a grupos populares considerados inferiores.",
+            "application": "Essa rejeição social motivou o abandono temporário da dança pela elite."
+          }
+        ],
+        "theoryParagraphs": [
+          "A cultura plebeia se refere às práticas, costumes e manifestações artísticas das classes populares, frequentemente vistas com preconceito pela aristocracia, que buscava manter distinção social.",
+          "Durante a Idade Moderna, as tensões sociais entre elites e populações populares refletiam-se na valorização ou rejeição de expressões culturais, como ocorre com a valsa descrita no texto.",
+          "A análise histórica das manifestações culturais permite entender as dinâmicas de aceitação ou exclusão social baseadas em questões de classe e identidade cultural."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, o texto explica que a valsa é a mais antiga dança de salão tradicional, originária das danças campestres e folclóricas, ou seja, da cultura popular.",
+          "Esclarece que no século XVI a aristocracia francesa abandonou a valsa por causa de sua estreita relação com a cultura plebeia, associada às classes populares.",
+          "Assim, a rejeição expressa no texto está ligada à origem social da valsa, o que guia para a alternativa que indica a rejeição da cultura popular.",
+          "Ao analisar as alternativas, nota-se que a alternativa E é a única que expressa essa rejeição causada pela associação da dança às classes populares.",
+          "Portanto, a resposta correta é a alternativa E, pois reflete precisamente as informações do texto sobre a rejeição da valsa pela aristocracia devido à sua relação com a cultura plebeia."
+        ],
+        "puloDoGato": "Identifique sempre no texto se a rejeição cultural está associada a grupos sociais específicos — aqui, a cultura plebeia indica a origem popular da valsa, que motivou sua exclusão pela aristocracia.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta. O texto não menciona feitiçaria nórdica como motivo da rejeição da valsa."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. Não há no texto referência a práticas pagãs ligadas à rejeição da dança."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. O texto não relaciona a rejeição às regras do Renascimento ou normas sociais específicas deste período."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. Não há menção a territórios colonizados ou música associada a eles na rejeição descrita."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Correta. O texto explica que a aristocracia rejeitou a valsa por sua ligação com a cultura plebeia, ou seja, a cultura das classes populares."
+          }
+        ],
+        "questionCode": "CH_HISTORIA_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução proposta e a explicação didática estão alinhados e coerentes. A resposta correta está bem fundamentada no texto e as alternativas incorretas são justificadas adequadamente. A resolução oficial segue o padrão editorial solicitado, com linguagem clara e didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2667,
+    "outputTokens": 1869,
+    "estimatedCostUsd": 0.004057
+  }
+}

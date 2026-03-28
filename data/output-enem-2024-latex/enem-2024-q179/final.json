@@ -1,0 +1,140 @@
+{
+  "questionId": "enem-2024-q179",
+  "generatedAt": "2026-03-26T19:55:22.724Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 627,
+      "outputTokens": 953,
+      "estimatedCostUsd": 0.001776
+    },
+    "explainer": {
+      "inputTokens": 1493,
+      "outputTokens": 559,
+      "estimatedCostUsd": 0.001492
+    },
+    "reviewer": {
+      "inputTokens": 2469,
+      "outputTokens": 1619,
+      "estimatedCostUsd": 0.003578
+    },
+    "totalEstimatedCostUsd": 0.006846
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "3 500",
+      "correctnessClaim": "A resposta correta é a alternativa C, 3 500 reais, pois corresponde à maior diferença entre os valores recebidos pelos engenheiros, calculada com base nas horas trabalhadas proporcionais ao pagamento total destinado a eles.",
+      "strategy": "Calcular o total de horas trabalhadas por cada engenheiro, somar todas essas horas para obter o total geral, determinar o valor a ser pago proporcionalmente para cada engenheiro com base em suas horas trabalhadas e, em seguida, comparar os valores para encontrar a maior diferença entre eles.",
+      "steps": [
+        "Calcular as horas totais trabalhadas por cada engenheiro:",
+        "- Engenheiro I: 4 dias × 5,5 horas/dia = 22 horas",
+        "- Engenheiro II: 5 dias × 4 horas/dia = 20 horas",
+        "- Engenheiro III: 6 dias × 2,5 horas/dia = 15 horas",
+        "Somar as horas totais trabalhadas: 22 + 20 + 15 = 57 horas",
+        "Calcular o valor total destinado aos engenheiros: 40% de R$ 71.250 = 0,40 × 71.250 = R$ 28.500",
+        "Calcular o valor recebido por hora: R$ 28.500 ÷ 57 horas ≈ R$ 500 por hora",
+        "Calcular o valor recebido por cada engenheiro:",
+        "- Engenheiro I: 22 horas × 500 = R$ 11.000",
+        "- Engenheiro II: 20 horas × 500 = R$ 10.000",
+        "- Engenheiro III: 15 horas × 500 = R$ 7.500",
+        "Determinar as diferenças entre os valores:",
+        "- I e II: 11.000 - 10.000 = 1.000",
+        "- I e III: 11.000 - 7.500 = 3.500",
+        "- II e III: 10.000 - 7.500 = 2.500",
+        "A maior diferença é entre o engenheiro I e o engenheiro III, que é R$ 3.500."
+      ],
+      "formulasUsed": [
+        "Valor por hora = Valor total para engenheiros / Total de horas trabalhadas",
+        "Pagamento do engenheiro = Valor por hora × Horas trabalhadas do engenheiro"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir qual a maior diferença entre os pagamentos dos engenheiros, calculamos as horas trabalhadas por cada um, somamos para achar o total geral, determinamos o valor pago por hora e assim calculamos quanto cada engenheiro recebe. Em seguida, comparamos esses valores para encontrar a maior diferença.",
+      "stepByStep": [
+        "Calcular as horas totáis trabalhadas por cada engenheiro multiplicando os dias pelas horas diárias:",
+        "- Engenheiro I: 4 dias × 5,5 horas = 22 horas",
+        "- Engenheiro II: 5 dias × 4 horas = 20 horas",
+        "- Engenheiro III: 6 dias × 2,5 horas = 15 horas",
+        "Somar as horas dos três engenheiros para obter o total geral: 22 + 20 + 15 = 57 horas",
+        "Calcular o valor total destinado aos engenheiros: 40% de R$71.250 = R$28.500",
+        "Dividir esse valor pelo total de horas para obter o valor pago por hora: R$28.500 ÷ 57 ≈ R$500 por hora",
+        "Multiplicar o valor por hora pelas horas trabalhadas de cada engenheiro para saber quanto cada recebe:",
+        "- Engenheiro I: 22 × 500 = R$11.000",
+        "- Engenheiro II: 20 × 500 = R$10.000",
+        "- Engenheiro III: 15 × 500 = R$7.500",
+        "Calcular as diferenças entre os valores pagos para encontrar a maior diferença:",
+        "- Entre I e II: R$1.000",
+        "- Entre I e III: R$3.500",
+        "- Entre II e III: R$2.500",
+        "A maior diferença é R$3.500 entre os engenheiros I e III."
+      ],
+      "commonPitfalls": [
+        "Confundir qual diferença deve ser calculada, escolhendo a menor em vez da maior.",
+        "Não calcular corretamente as horas totais para cada engenheiro.",
+        "Esquecer de calcular o valor total destinado aos engenheiros antes de determinar o valor por hora.",
+        "Fazer erros de arredondamento que alteram os valores finais.",
+        "Confundir porcentagem do valor total com valores absolutos a pagar."
+      ],
+      "teachingTips": [
+        "Utilize exemplos com números menores para facilitar o entendimento do conceito de proporcionalidade.",
+        "Explique claramente o conceito de valor pago proporcional às horas trabalhadas.",
+        "Estimule os alunos a organizar os dados em tabelas para visualizarem melhor as informações.",
+        "Reforce a importância da leitura cuidadosa do enunciado para identificar quais valores devem ser usados.",
+        "Pratique exercícios que envolvam porcentagens e cálculo proporcional para consolidar o aprendizado."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "1 000",
+        "likelyReasoning": "Pode ser resultado da diferença nas horas trabalhadas entre os engenheiros I e II, confundindo menor diferença com maior diferença.",
+        "misconceptionType": "Confusão entre diferença mínima e máxima",
+        "whyItLooksPlausible": "É uma diferença real entre dois valores calculados.",
+        "whyItIsWrong": "Não é a maior diferença possível, pois a maior está entre I e III."
+      },
+      {
+        "option": "1 500",
+        "likelyReasoning": "Erro de cálculo ou arredondamento incorreto na proporção das horas trabalhadas.",
+        "misconceptionType": "Erro aritmético",
+        "whyItLooksPlausible": "Parece um valor intermediário plausível entre as diferenças calculadas.",
+        "whyItIsWrong": "Não corresponde a nenhuma das diferenças reais entre os pagamentos."
+      },
+      {
+        "option": "3 800",
+        "likelyReasoning": "Erro de cálculo devido a arredondamentos ou confusão no total de horas/dias/hora trabalhadas.",
+        "misconceptionType": "Erro de cálculo com aproximação incorreta",
+        "whyItLooksPlausible": "Está próximo do valor correto, pode parecer detalhe de cálculo refinado.",
+        "whyItIsWrong": "Valor incorreto baseado em dados precisos; correto é 3.500 reais."
+      },
+      {
+        "option": "5 250",
+        "likelyReasoning": "Confunde o valor total destinado ou o total do serviço com a diferença de valores entre engenheiros.",
+        "misconceptionType": "Confusão de grandezas",
+        "whyItLooksPlausible": "É um valor elevado que pode parecer a diferença máxima se mal interpretado.",
+        "whyItIsWrong": "Diferença entre horários não suporta tal valor, está muito maior que valores possíveis."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Raciocínio proporcional e cálculo percentual",
+      "secondarySkills": [
+        "Cálculo básico",
+        "Interpretação de problemas financeiros e de trabalho"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Envolve calcular horas totais, porcentagens e proporcionalidade.",
+        "Não há elementos visuais necessários para resolução.",
+        "Reflete competência de interpretação quantitativa e proporcionalidade aplicada a situações reais."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão consistentes entre si. Os cálculos de horas, valor proporcional por hora e determinação da maior diferença entre valores recebidos estão corretos e coerentes. As alternativas incorretas são bem justificadas com base em erros comuns e confusões típicas. O nível de dificuldade e as habilidades envolvidas estão bem definidas. Não foram identificados problemas relevantes ou incoerências.",
+      "issues": []
+    }
+  }
+}

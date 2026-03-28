@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:10:16.054Z",
+  "questionId": "enem-2024-linguagens-q018",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto mostra como fatores sociais e econômicos, como baixa renda e morar em áreas urbanas, influenciam negativamente a manutenção da atividade física e da saúde mental durante a pandemia, apresentando uma visão ampliada e crítica da saúde.",
+      "stepByStep": [
+        "Leia o texto atentamente para entender o tema central: os efeitos da pandemia sobre saúde mental e atividade física.",
+        "Identifique que famílias de baixa renda tiveram mais dificuldades para manter exercícios, evidenciando um determinante socioeconômico.",
+        "Observe a comparação entre áreas urbanas e rurais, destacando como o ambiente influencia a prática de atividade física.",
+        "Note que o texto relaciona motivação, saúde mental e condições sociais em um contexto ampliado da saúde.",
+        "Avalie as alternativas considerando qual delas aborda essa relação crítica entre fatores socioeconômicos e saúde."
+      ],
+      "commonPitfalls": [
+        "Focar apenas na dificuldade de encontrar espaços para exercícios, sem considerar os determinantes sociais.",
+        "Interpretar que o texto fala apenas sobre equilíbrio emocional, ignorando o contexto socioeconômico.",
+        "Pensar que o principal tema é o distanciamento social, quando ele é só um fator entre outros.",
+        "Achar que o texto destaca exclusivamente os benefícios de morar em áreas rurais, sem considerar a análise crítica mais ampla."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar não só fatos do texto, mas a conexão entre eles e o contexto social maior.",
+        "Use perguntas que desenvolvam a habilidade de leitura crítica e análise de causas e consequências.",
+        "Trabalhe o conceito de determinantes sociais da saúde para ampliar a compreensão do tema.",
+        "Pratique comparação entre alternativas para desenvolver o senso crítico na escolha da resposta correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1337,
+    "outputTokens": 344,
+    "estimatedCostUsd": 0.001085
+  }
+}

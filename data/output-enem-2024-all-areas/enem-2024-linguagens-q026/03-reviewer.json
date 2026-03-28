@@ -1,0 +1,186 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:26:30.688Z",
+  "questionId": "enem-2024-linguagens-q026",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa correta é B, pois o texto destaca que a luta é vista como uma expressão corporal masculina, o que justifica a menor participação das meninas nas aulas. Essa percepção está relacionada diretamente à masculinização da modalidade em questão.",
+        "strategy": "Ler atentamente o trecho do texto que explica a justificativa dos alunos para a menor participação das meninas. Encontrar a alternativa que corresponde ao motivo citado, ou seja, o fato de a luta ser vista como uma prática masculina, afastando o interesse feminino.",
+        "steps": [
+          "Identificar no texto o motivo da menor participação das meninas nas aulas de Educação Física em relação às lutas.",
+          "Perceber que o texto fala sobre o fato das lutas serem consideradas expressão corporal masculina.",
+          "Relacionar essa percepção com a opção que fala da masculinização da modalidade.",
+          "Comparar as alternativas para confirmar qual se conecta diretamente com a justificativa do texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem do texto adaptado da pesquisa das autoras SO, M.R.; MARTINS, M.Z.; BETTI, M."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto explica que, apesar do crescimento da participação feminina nas lutas, nas escolas essa prática ainda é associada ao universo masculino, o que diminui o interesse e a participação das meninas nas aulas de Educação Física. Essa percepção é chamada de masculinização da modalidade.",
+        "stepByStep": [
+          "Leia atentamente o trecho que fala sobre a participação das meninas e o motivo dado por elas para essa situação.",
+          "Observe que elas associam a luta a algo masculino, o que reduz o interesse feminino.",
+          "Procure a alternativa que menciona essa questão da luta ser vista como uma prática masculina.",
+          "Verifique que a alternativa correta é a que fala da masculinização da modalidade.",
+          "Descarta as outras alternativas que falam de esportivização, mídia, pedagogia ou marginalização, pois não explicam a percepção de gênero apontada no texto."
+        ],
+        "commonPitfalls": [
+          "Confundir a razão da menor participação das meninas com aspectos relacionados à organização dos conteúdos, como esportivização.",
+          "Pensar que a mídia é o principal fator que influencia a participação nas aulas.",
+          "Achar que o problema está no tratamento pedagógico, sem perceber o foco no estereótipo de gênero.",
+          "Interpretar que a modalidade é marginalizada na escola, quando o problema é a percepção da luta como masculina."
+        ],
+        "teachingTips": [
+          "Peça para os alunos destacarem no texto o motivo apontado para a menor participação das meninas.",
+          "Trabalhe o conceito de estereótipos de gênero e como eles influenciam práticas sociais, como as aulas de luta.",
+          "Proponha discutir como percepções culturais podem afetar o interesse por atividades físicas.",
+          "Incentive a análise crítica de alternativas para identificar a que melhor se relaciona com o argumento do texto.",
+          "Use exemplos atuais de mulheres em esportes considerados masculinos para desafiar estereótipos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode-se pensar que a esportivização seja a razão da menor participação, associando o ensino à modalidade de forma competitiva e institucionalizada.",
+          "misconceptionType": "Interpretação incorreta do motivo dado no texto",
+          "whyItLooksPlausible": "A educação física enfatiza o esporte, então pode parecer que essa 'esportivização' afeta a participação.",
+          "whyItIsWrong": "O texto foca no aspecto da percepção de gênero, não na forma de organização do conteúdo (esportivização)."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Alunos podem pensar que a cobertura midiática influencia diretamente o interesse e participação.",
+          "misconceptionType": "Confusão entre influência social externa e percepção interna nos ambientes escolares",
+          "whyItLooksPlausible": "O texto menciona transmissões televisivas de lutas femininas como fenômeno social crescente.",
+          "whyItIsWrong": "Não é a mídia que limita a participação nas aulas, mas sim a visão internalizada da luta como masculina."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pode parecer que o modo como a educação física aborda a luta (trato pedagógico) influencia na participação.",
+          "misconceptionType": "Interpretação errada do papel docente e do conteúdo",
+          "whyItLooksPlausible": "Há menção a tensões relacionais no ensino, sugerindo problemas no tratamento pedagógico.",
+          "whyItIsWrong": "Apesar de tensões, o motivo principal é o estigma da masculinização da luta, não explicitamente o trato pedagógico."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode ser entendido que o tema é marginalizado nas aulas, levando à exclusão das mulheres.",
+          "misconceptionType": "Erro na compreensão do que marginalização representa no contexto",
+          "whyItLooksPlausible": "O texto cita a possibilidade de exclusão do conteúdo devido às tensões relacionadas a gênero.",
+          "whyItIsWrong": "O foco é na percepção da modalidade ligada ao gênero e não na marginalização explícita do tema na Educação Física."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual",
+        "secondarySkills": [
+          "Análise crítica",
+          "Relação de texto e realidade social"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão da relação entre gênero e práticas corporais conforme o texto.",
+          "Demanda analisar um argumento implícito sobre estereótipos de gênero.",
+          "Requer discriminar qual alternativa corresponde ao argumento do texto e quais desviam do foco principal."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🥋",
+        "shortThemeTitle": "Masculinização das lutas e gênero",
+        "interpretationIntro": "A questão solicita compreender o motivo da menor participação das meninas nas aulas de Educação Física no contexto das lutas, segundo o texto apresentado.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar o trecho do texto que explica as justificativas dadas pelos estudantes para a menor participação das meninas."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Associar o argumento do texto com a alternativa correta entre as opções apresentadas."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar a razão principal, apontada no texto, pela qual a participação feminina nas aulas de lutas é menor, apesar do aumento geral da presença de mulheres em ambientes de luta.",
+        "strategyParagraph": "Para resolver a questão, é necessário focar na justificativa que o texto apresenta para a menor participação das meninas nas aulas de Educação Física. O texto mostra que elas percebem as lutas como algo vinculado ao universo masculino, criando um estigma que afasta o interesse feminino. Portanto, a estratégia é buscar no texto o elemento que explica essa percepção e escolher a alternativa que corresponde a essa ideia.",
+        "reviewTable": [
+          {
+            "concept": "Masculinização da luta",
+            "keyIdea": "Luta é vista como prática predominantemente masculina",
+            "application": "Diminui o interesse das meninas nas aulas de Educação Física"
+          },
+          {
+            "concept": "Estereótipos de gênero",
+            "keyIdea": "Percepção cultural que associa certas práticas a um gênero específico",
+            "application": "Explica a menor participação feminina nas aulas de lutas"
+          },
+          {
+            "concept": "Tensões no ensino",
+            "keyIdea": "Questões de gênero e sexualidade impactam o ensino das lutas",
+            "application": "Podem levar à exclusão da luta como conteúdo na disciplina"
+          },
+          {
+            "concept": "Fenômeno social versus realidade escolar",
+            "keyIdea": "Aumento da presença feminina em MMA e mídia",
+            "application": "Não reflete diretamente na participação das meninas nas aulas de Educação Física"
+          }
+        ],
+        "theoryParagraphs": [
+          "O texto destaca que, embora as mulheres estejam cada vez mais presentes nas lutas, na escola essa prática ainda é vista pelas meninas como algo masculino, o que faz com que se afastem dessas atividades nas aulas de Educação Física. Essa percepção está ligada ao fenômeno da masculinização da modalidade, que cria barreiras culturais e sociais para a participação feminina.",
+          "A influência dos estereótipos de gênero é um fator crucial para entender as escolhas e interesses das estudantes nas aulas, evidenciando que componentes culturais impactam diretamente o ensino e a aprendizagem no contexto escolar.",
+          "Além disso, o texto menciona que essa situação pode gerar tensões no ambiente pedagógico, interferindo na inclusão das lutas no currículo da Educação Física, o que reforça a importância de um olhar crítico sobre as relações de gênero no contexto educacional."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, leu-se o trecho do texto que justifica a menor participação das meninas nas aulas de Educação Física em relação às lutas, destacando a percepção delas de que a luta é uma expressão corporal masculina.",
+          "Em seguida, buscou-se na lista de alternativas aquela que traduz essa ideia central. A opção B fala em 'masculinização dessa modalidade', o que coincide diretamente com a explicação do texto.",
+          "Analisaram-se as outras alternativas para certificar que elas não correspondiam ao motivo principal apresentado, já que abordam esportivização, influência da mídia, pedagogia e marginalização, que, embora citadas no texto, não são as causas centrais da menor participação feminina.",
+          "Dessa forma, confirmou-se que a alternativa B é a correta, pois representa com precisão a justificativa dada no texto para a exclusão das meninas nas aulas de lutas."
+        ],
+        "puloDoGato": "Quando a questão fala sobre menos participação por causa da percepção, pense sempre em estereótipos de gênero e masculinização da prática.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Esta alternativa fala em esportivização, que não é o motivo citado no texto para a menor participação das meninas. O texto destaca a questão da percepção de gênero, não a forma de organização do conteúdo."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta. O texto afirma que as meninas veem a luta como expressão corporal masculina, o que corresponde à ideia de masculinização da modalidade."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Embora o texto mencione a mídia, ela não é apontada como causa da menor participação nas aulas, mas sim a percepção interna das alunas sobre gênero."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "O texto menciona tensões pedagógicas, mas o motivo principal da exclusão está ligado à percepção da luta como prática masculina, não ao trato pedagógico em si."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O tema não está explicitamente marginalizado na Educação Física, o foco é a percepção interna das meninas, relacionada ao gênero e masculinização."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LUTAS_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão apresenta coerência entre enunciado, solução e explicação didática. A resolução oficial foi consolidada com linguagem clara, didática e fundamentada exclusivamente no texto fornecido. As alternativas estão corretamente analisadas com justificativas claras.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2849,
+    "outputTokens": 2248,
+    "estimatedCostUsd": 0.004736
+  }
+}

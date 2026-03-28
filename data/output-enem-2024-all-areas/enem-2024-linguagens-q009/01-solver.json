@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:46:53.357Z",
+  "questionId": "enem-2024-linguagens-q009",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E reflete corretamente o motivo do desequilíbrio na saúde mental dos atletas mencionados no texto, destacando as pressões constantes causadas por grandes eventos esportivos e pela mídia.",
+      "strategy": "Identificar e relacionar no texto as causas específicas do desequilíbrio emocional e mental mencionadas, descartando opções que não estejam evidenciadas ou relacionadas ao problema principal descrito.",
+      "steps": [
+        "Ler atentamente o texto para identificar as causas do desequilíbrio mental mencionadas.",
+        "Observar que o texto destaca pressão por grandes eventos, ser uma estrela jovem e a influência da imprensa.",
+        "Analisar as alternativas e verificar quais delas condizem com essas causas mencionadas no texto.",
+        "Descartar opções A, B e C porque nacionalidade, modalidade e faixa etária não são apresentadas como causas das doenças mentais.",
+        "Descartar a alternativa D porque, embora o texto mencione a imprensa chamando os atletas de heróis, o foco está no impacto dessa representação como pressão, que está melhor detalhada em E.",
+        "Concluir que a alternativa E é a que expressa claramente as causas indicadas no texto.",
+        "Confirmar que a resposta correta é E."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode achar que a diversidade cultural ou de nacionalidade influencia a saúde mental dos atletas.",
+        "misconceptionType": "Compreensão incorreta do critério de causa e efeito",
+        "whyItLooksPlausible": "O texto menciona atletas de diferentes países, o que pode confundir alguns a pensar que isso é a causa do problema.",
+        "whyItIsWrong": "A nacionalidade não é apontada como causadora do desequilíbrio mental, o texto foca nas pressões internas do esporte e da mídia."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode pensar que diferentes modalidades dificultam a rotina e causam estresse.",
+        "misconceptionType": "Inferência indevida",
+        "whyItLooksPlausible": "O texto menciona tenistas e jogador de basquete, dando a impressão que modalidades distintas seriam causa.",
+        "whyItIsWrong": "O texto não relaciona as modalidades distintas às causas dos problemas, somente exemplifica casos variados."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O aluno pode acreditar que as faixas etárias parecidas causam os problemas de saúde mental.",
+        "misconceptionType": "Relação causal errada",
+        "whyItLooksPlausible": "O texto menciona idades próximas (23, 25 anos) o que pode levar a achar que isso é causa.",
+        "whyItIsWrong": "A idade não é mencionada como causa dos problemas, mas sim o fato de serem jovens estrelas sob pressão."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar que a representação do atleta como herói é a principal causa do desequilíbrio.",
+        "misconceptionType": "Interpretação parcial do texto",
+        "whyItLooksPlausible": "O texto fala sobre a imprensa chamar os atletas de heróis como uma forma de pressão.",
+        "whyItIsWrong": "Embora a representação heróica seja citado, o problema maior está nas pressões de eventos e mídia descritas na alternativa E."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão leitora e interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Identificação de causa e efeito"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto reflexivo sobre saúde mental, pressão social e esportiva.",
+        "Foco em extrair do texto a causa do problema apresentado.",
+        "Exige compreensão de implicações sociais e psicológicas no contexto esportivo."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 737,
+    "outputTokens": 773,
+    "estimatedCostUsd": 0.001532
+  }
+}

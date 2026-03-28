@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:47:24.889Z",
+  "questionId": "enem-2024-linguagens-q010",
+  "payload": {
+    "theme": "Tecnologias da comunicação",
+    "subtheme": "Mídias e linguagens",
+    "rationale": "A questão trata da análise do podcast como meio comunicativo e sua relação com outras mídias, como o rádio e as redes sociais, destacando diferenças nos formatos e impactos na disseminação do conhecimento, o que se enquadra na categoria de mídias e linguagens dentro das tecnologias da comunicação.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 970,
+    "outputTokens": 85,
+    "estimatedCostUsd": 0.000524
+  }
+}

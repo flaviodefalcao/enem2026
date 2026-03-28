@@ -1,0 +1,116 @@
+{
+  "questionId": "enem-2024-q140",
+  "generatedAt": "2026-03-26T19:22:11.662Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 608,
+      "outputTokens": 1025,
+      "estimatedCostUsd": 0.001883
+    },
+    "explainer": {
+      "inputTokens": 1537,
+      "outputTokens": 483,
+      "estimatedCostUsd": 0.001388
+    },
+    "reviewer": {
+      "inputTokens": 2423,
+      "outputTokens": 1585,
+      "estimatedCostUsd": 0.003505
+    },
+    "totalEstimatedCostUsd": 0.006776
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B está correta.",
+      "strategy": "Calcular o número de acertos de João e Felipe, determinar o percentual de acertos de Felipe a partir do dado de '30% a menos que a quantidade de questões que João acertou', e depois converter cada percentual no respectivo conceito conforme a tabela fornecida.",
+      "steps": [
+        "João acertou 75% das 200 questões, portanto acertou 0,75 × 200 = 150 questões.",
+        "Felipe acertou 30% a menos que a quantidade que João acertou, ou seja, Felipe acertou 150 − 0,30 × 150 = 150 − 45 = 105 questões.",
+        "Calcular o percentual de acertos de Felipe: (105 / 200) × 100% = 52,5%.",
+        "Verificar o conceito de cada um: João (75%) está entre 75% e 90% — conceito 'muito bom'; Felipe (52,5%) está entre 50% e 60% — conceito 'regular'.",
+        "Assim, os conceitos são respectivamente: João - muito bom, Felipe - regular."
+      ],
+      "formulasUsed": [
+        "Número de acertos = porcentagem de acertos × número total de questões",
+        "Porcentagem = (número de acertos / total de questões) × 100%"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir os conceitos de João e Felipe, primeiro calculamos quantas questões cada um acertou, usando as porcentagens dadas, e depois verificamos em qual intervalo de conceito cada porcentagem se encaixa.",
+      "stepByStep": [
+        "João acertou 75% das 200 questões. Calculamos o número de acertos dele multiplicando: 0,75 × 200 = 150.",
+        "Felipe acertou 30% a menos que João, ou seja, ele acertou 30% menos do que 150 questões: 150 − 0,30 × 150 = 105 questões.",
+        "Para encontrar a porcentagem de acertos de Felipe, dividimos o número de acertos pelo total de questões e multiplicamos por 100: (105 / 200) × 100% = 52,5%.",
+        "Agora, verificamos os conceitos: João com 75% está no intervalo 75 ≤ P < 90, que corresponde a 'muito bom'. Felipe, com 52,5%, está no intervalo 50 ≤ P < 60, que significa 'regular'.",
+        "Portanto, os conceitos são: João - muito bom; Felipe - regular."
+      ],
+      "commonPitfalls": [
+        "Interpretar '30% a menos' como subtrair 30 pontos percentuais direto da porcentagem de João (75% − 30% = 45%), em vez de calcular 30% da quantidade de questões e subtrair.",
+        "Confundir os intervalos dos conceitos, por exemplo, achar que 75% está na categoria 'bom' quando na verdade está em 'muito bom'.",
+        "Não calcular corretamente a porcentagem de Felipe após encontrar a quantidade de acertos, levando a um conceito errado.",
+        "Arredondar de forma imprecisa o percentual de Felipe e classificá-lo incorretamente."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre reduzir uma quantidade em 30% e subtrair 30 pontos percentuais de uma porcentagem.",
+        "Use exemplos práticos com números para mostrar como calcular porcentagens de quantidades e depois o percentual final.",
+        "Reforce o entendimento de intervalos numéricos e como identificar a qual categoria certa um número pertence.",
+        "Estimule os alunos a fazerem os cálculos passo a passo e a conferirem em cada etapa para evitar erros cumulativos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pensar que 30% a menos se aplica ao percentual original de João (75%) como 75% − 30% = 45%, levando a um conceito 'bom' para Felipe (como se fosse 45% de acertos).",
+        "misconceptionType": "Erro na interpretação de porcentagem reduzida sobre quantidade versus porcentagem absoluta.",
+        "whyItLooksPlausible": "A pessoa pode aplicar a subtração diretamente no percentual, entendendo que '30% a menos' significa subtrair 30 pontos percentuais, e não 30% da quantidade de acertos de João.",
+        "whyItIsWrong": "O problema diz que Felipe acertou 30% a menos da quantidade de questões acertadas por João, ou seja, devemos calcular 30% do número de questões e subtrair do total de acertos de João (não subtrair 30 pontos percentuais)."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Considerar que o percentual de Felipe caiu abaixo de 50%, posicionando-o como insatisfatório.",
+        "misconceptionType": "Erro no cálculo do percentual de acertos de Felipe ou arredondamento muito conservador.",
+        "whyItLooksPlausible": "A ideia de '30% a menos' pode levar à conclusão errada de que Felipe tem menos que 50% de acertos, caindo no intervalo insatisfatório.",
+        "whyItIsWrong": "O cálculo correto mostra que Felipe tem 52,5%, que está no intervalo regular (50 ≤ P < 60)."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir o conceito de João como 'bom' (60% ≤ P < 75%) mesmo com 75% de acertos, e aplicar para Felipe como 'regular'.",
+        "misconceptionType": "Erro na correta interpretação dos limites dos intervalos dados para os conceitos.",
+        "whyItLooksPlausible": "Alguém pode entender o limite 'bom' até 75%, incluindo justamente a porcentagem de João, ou arredondar para baixo.",
+        "whyItIsWrong": "O intervalo para 'bom' é 60 ≤ P < 75, ou seja, 75% pertence ao próximo conceito 'muito bom'. Portanto, João é 'muito bom', não 'bom'."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Considerar João com conceito 'bom' e Felipe com 'insatisfatório', possivelmente pelo mesmo erro de arredondamento ou interpretação do enunciado sobre 30% a menos.",
+        "misconceptionType": "Erro tanto na classificação de João quanto na de Felipe.",
+        "whyItLooksPlausible": "Parece coerente classificar João como 'bom' e Felipe como 'insatisfatório' se a pessoa não calcular exatamente ou interpretar os intervalos de forma incorreta.",
+        "whyItIsWrong": "Como explicado, João tem 75%, portanto 'muito bom', e Felipe tem 52,5%, portanto 'regular'."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e aplicação de porcentagem",
+      "secondarySkills": [
+        "Cálculo de percentual",
+        "Classificação por intervalos numéricos"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É importante entender a diferença entre '30% a menos da quantidade' e 'subtrair 30 pontos percentuais'",
+        "Conhecimento dos intervalos de classificação é essencial para a resposta correta",
+        "A questão avalia raciocínio matemático aplicado em contexto realista"
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica e a explicação didática estão coerentes entre si e compatíveis com o enunciado da questão. O método, cálculos, classificação dos conceitos e justificativas dos itens distratores são apropriados e corretos. Não foram identificados erros ou incoerências significativas.",
+      "issues": []
+    }
+  }
+}

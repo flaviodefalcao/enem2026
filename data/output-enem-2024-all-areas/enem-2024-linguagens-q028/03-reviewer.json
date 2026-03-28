@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:28:37.317Z",
+  "questionId": "enem-2024-linguagens-q028",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é correta pois o texto apresenta uma contextualização subjetiva do romance de Machado de Assis, destacando impressões pessoais e críticas do narrador, e conclui explicando o foco narrativo assumido pelo autor ao dar voz plena à personagem Capitu.",
+        "strategy": "Analisar o texto para identificar a estrutura argumentativa, observando como o autor apresenta a obra original, suas impressões e críticas, e depois expõe a proposta narrativa assumida em sua apropriação.",
+        "steps": [
+          "Ler o texto atentamente, identificando o modo como o autor se relaciona com a obra de Machado de Assis.",
+          "Observar que inicialmente o autor apresenta suas primeiras impressões e sentimentos subjetivos com relação à obra (por exemplo, \"os olhos de água da jovem de Matacavalos atraíram-me\", \"indignação diante do narrador e seu texto\").",
+          "Notar que o autor discute o posicionamento do narrador de Machado de Assis, mostrando crítica e subjetividade.",
+          "Perceber que na conclusão do texto o autor revela o objetivo de dar voz plena à personagem feminina (Capitu), mostrando o foco narrativo assumido no livro por ele escrito, que é uma apropriação literária da obra original.",
+          "Comparar essas observações com as alternativas para definir qual delas melhor representa essa organização do texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto apresenta uma leitura subjetiva e crítica da obra original de Machado de Assis, destacando impressões pessoais do autor do texto e sua decisão de criar uma narrativa que dá voz plena à personagem Capitu, ressignificando o foco narrativo da história.",
+        "stepByStep": [
+          "Leia cuidadosamente o texto para entender como o autor se relaciona com a obra original de Machado de Assis.",
+          "Observe que o autor inicia expressando suas impressões pessoais, sentimentos e críticas ao narrador original da história.",
+          "Note que o texto destaca a indignação com o ponto de vista autoritário do narrador e sua condenação da personagem Capitu.",
+          "Perceba que na conclusão, o autor revela sua proposta literária de dar voz à personagem feminina, oferecendo uma nova perspectiva sobre o romance.",
+          "Analise as alternativas e escolha aquela que melhor representa essa progressão argumentativa: apresentação da obra, crítica subjetiva e proposta de ressignificação narrativa."
+        ],
+        "commonPitfalls": [
+          "Achar que o texto reafirma simplesmente o ponto de vista original do narrador do romance.",
+          "Interpretar o texto como uma mera defesa ou redimensionamento da crítica literária existente, sem perceber a nova voz criada.",
+          "Pensar que o autor refuta a história original em vez de criar uma perspectiva complementar.",
+          "Confundir a expressão do risco na escrita como uma reconsideração ou recuo na proposta do autor."
+        ],
+        "teachingTips": [
+          "Estimule os alunos a identificarem as impressões subjetivas e os posicionamentos críticos no texto.",
+          "Peça para relacionarem a estrutura do texto com a progressão da argumentação do autor.",
+          "Trabalhe a diferença entre narrador e narratário, enfatizando a importância do foco narrativo e a voz dos personagens na literatura.",
+          "Utilize exemplos que mostrem como uma obra pode ser apropriada e reinterpretada para ampliar ou mudar perspectivas originais.",
+          "Enfatize o valor da leitura crítica e subjetiva para a compreensão profunda de textos literários e suas ressignificações."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O examinando pode pensar que o autor reafirma o ponto de vista original, pois menciona aspectos centrais da obra como Bentinho e Capitu.",
+          "misconceptionType": "Interpretação incorreta da estrutura do texto",
+          "whyItLooksPlausible": "O texto cita personagens e elementos centrais do romance de Machado de Assis.",
+          "whyItIsWrong": "O autor não reafirma o ponto de vista original, mas sim cria uma nova perspectiva, dando voz a Capitu."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O candidato pode supor que o texto explica posições críticas para depois redimensioná-las, visto que há menção à crítica da obra.",
+          "misconceptionType": "Confusão sobre o papel da crítica literária no texto",
+          "whyItLooksPlausible": "O texto menciona \"a crítica do texto\" e \"muito poucos escapam das linhas do libelo condenatório\".",
+          "whyItIsWrong": "O texto não se limita a redimensionar críticas, mas expõe uma perspectiva subjetiva e narra a decisão de dar voz à personagem."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode-se pensar que o autor introduz elementos da história e depois os refuta, por criticar o narrador original.",
+          "misconceptionType": "Erro na identificação da progressão argumentativa",
+          "whyItLooksPlausible": "Há crítica ao narrador e sua injustiça para com Capitu.",
+          "whyItIsWrong": "O autor não refuta a história, mas apresenta nova narrativa a partir da perspectiva de Capitu."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "O examinando pode entender que o autor justifica sua abordagem e depois a reconsidera.",
+          "misconceptionType": "Interpretação errada do texto final",
+          "whyItLooksPlausible": "O texto fala que a empresa era temerária e que escrever é sempre um risco, podendo parecer que o autor reconsidera sua proposta.",
+          "whyItIsWrong": "O texto não reconsidera a abordagem; ao contrário, afirma o resultado do projeto de dar voz à personagem."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Leitura e interpretação de texto literário",
+        "secondarySkills": [
+          "Interpretação crítica",
+          "Análise de estrutura argumentativa"
+        ],
+        "cognitiveDemand": "Medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "O texto é um fragmento que apresenta uma apropriação crítica e subjetiva da obra de Machado de Assis.",
+          "Exige capacidade de identificar a progressão do discurso e o propósito do autor.",
+          "Não há imagens anexadas nesta questão para análise."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Apropriação literária e inovação narrativa",
+        "interpretationIntro": "O enunciado solicita identificar, a partir do texto apresentado, a maneira como o autor faz uma apropriação literária da obra de Machado de Assis.",
+        "commandTerms": [
+          {
+            "term": "Apropriação literária",
+            "explanation": "Uso criativo e crítica de uma obra existente para gerar uma nova produção literária."
+          },
+          {
+            "term": "Foco narrativo",
+            "explanation": "Perspectiva de onde se apresenta a narrativa, determinando quem conta a história."
+          },
+          {
+            "term": "Subjetividade",
+            "explanation": "Expressão de impressões e sentimentos pessoais do autor no texto."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para reconhecer a forma como o autor do texto se relaciona com o romance original, apresentando uma nova voz e perspectiva narrativa para uma personagem central.",
+        "strategyParagraph": "Para responder corretamente, deve-se analisar o texto para perceber a progressão argumentativa: inicia-se com impressões pessoais e críticas sobre o narrador e a obra de Machado de Assis, destacando a condenação da personagem Capitu, e conclui revelando a proposta inovadora do autor de dar voz plena à personagem feminina, ressignificando a narrativa. Comparar essa progressão com as alternativas apresentadas assegura a escolha correta.",
+        "reviewTable": [
+          {
+            "concept": "Foco narrativo",
+            "keyIdea": "A mudança do olhar da obra original para uma nova perspectiva narrativa.",
+            "application": "O texto explora a decisão de dar voz a Capitu, distinta do narrador original."
+          },
+          {
+            "concept": "Subjetividade na crítica",
+            "keyIdea": "Expressão de opiniões e sentimentos pessoais ao abordar uma obra literária.",
+            "application": "O autor mostra indignação e crítica ao narrador original, posicionando-se subjetivamente."
+          },
+          {
+            "concept": "Apropriação literária",
+            "keyIdea": "Recriação ou ressignificação de uma obra por meio de releitura.",
+            "application": "O autor cria um discurso que permite à personagem Capitu apresentar sua versão da história."
+          }
+        ],
+        "theoryParagraphs": [
+          "Na literatura, a apropriação literária consiste em reutilizar elementos de uma obra previamente existente para construir uma nova narrativa, com perspectivas próprias e diferentes do original.",
+          "O foco narrativo é essencial para definir a voz que conta a história e pode modificar a percepção do leitor, especialmente quando se altera o ponto de vista de personagens centrais.",
+          "A subjetividade do autor na literatura permite que críticas e interpretações pessoais sejam incorporadas à obra, enriquecendo a leitura e promovendo reflexões diversas sobre um mesmo texto original."
+        ],
+        "resolutionParagraphs": [
+          "O texto inicia-se relatando as impressões do autor ao conhecer a obra de Machado de Assis, especialmente sua revolta diante do narrador de \"Dom Casmurro\" e sua condenação severa da personagem Capitu.",
+          "Em seguida, são mencionadas críticas gerais ao romance e à postura do narrador, enfatizando que muitos leitores rejeitam o ponto de vista original ou, no máximo, mantêm a dúvida.",
+          "No trecho final, o autor revela a proposta de sua obra: dar voz plena à personagem Capitu, criando um discurso próprio que ressignifica a narrativa, aproximando-se da técnica de um narrador-personagem à la Brás Cubas, também de Machado de Assis.",
+          "Assim, a alternativa correta é aquela que melhor descreve esse percurso: o texto apresenta a obra original, acompanha impressões e críticas subjetivas, e finaliza explicando a apropriação literária realizada, dando voz à personagem feminina central."
+        ],
+        "puloDoGato": "Fique atento à progressão do texto: conhecer como o autor começa com impressões pessoais, critica o narrador original e conclui apresentando sua proposta inovadora é o caminho para achar a alternativa correta.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Reafirmar o ponto de vista original não é o que ocorre no texto, pois o autor cria uma nova perspectiva ao dar voz a Capitu, contrariando a narrativa autoritária do marido."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Embora o texto mencione a crítica da obra original, não se limita a isso; ele expõe uma proposta inovadora, indo além da redimensionação crítica para apresentar uma nova narrativa."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O autor não refuta a história original, mas a ressignifica ao criar uma voz nova para Capitu, complementando e enriquecendo a narrativa."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "A menção ao risco da escrita não significa que o autor reconsidera sua proposta; pelo contrário, afirma o resultado da sua apropriação literária."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "O texto apresenta as impressões do autor sobre o romance, critica o narrador original e expõe a proposta literária de dar voz plena à personagem Capitu, indicando o foco narrativo adotado."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LITERATURA_APROPRIACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução está coerente com o enunciado e as saídas técnicas e didáticas. O texto do solver e do explainer convergem e fundamentam adequadamente a alternativa correta. A linguagem da resolução oficial é clara, didática e segue a estrutura editorial requerida. As explicações para as alternativas incorretas são completas e objetivas, enfatizando os conceitos essenciais da questão.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3039,
+    "outputTokens": 2397,
+    "estimatedCostUsd": 0.005051
+  }
+}

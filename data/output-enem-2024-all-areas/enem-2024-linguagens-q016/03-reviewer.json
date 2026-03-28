@@ -1,0 +1,178 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:09:02.467Z",
+  "questionId": "enem-2024-linguagens-q016",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta porque expressa a ideia de que a arte afro-brasileira, segundo o texto, nasce da interação complexa entre as experiências pessoais dos artistas e os elementos culturais de matriz africana, refletindo um processo de construção cultural e estética que não é homogêneo nem uniforme.",
+        "strategy": "Analisar cada alternativa confrontando com o texto para verificar se corresponde à ideia de multiculturalidade e à definição de arte afro-brasileira apresentada.",
+        "steps": [
+          "Ler atentamente o texto para entender a definição de arte afro-brasileira e o exemplo dado.",
+          "Identificar que a arte é fruto das experiências sociais e vivências pessoais, em contato com a cultura negra nacional.",
+          "Examinar as alternativas uma a uma para verificar se representam ou contradizem essa ideia central.",
+          "Descartar alternativas que indicam uniformidade, estranhamento ou distanciamento, pois o texto destaca a interação e influência pessoal e cultural.",
+          "Selecionar a alternativa que expressa a relação complexa entre vivências pessoais e os referenciais estéticos, que é a alternativa D."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A produção artística afro-brasileira, conforme o texto, resulta da interação entre as experiências pessoais dos artistas e a cultura negra nacional, refletindo diversidade e construção cultural, e não uma produção homogênea ou padronizada.",
+        "stepByStep": [
+          "Leia o texto com atenção, identificando como define a arte afro-brasileira.",
+          "Observe que a arte é feita a partir das experiências sociais dos artistas com a cultura negra nacional.",
+          "Analise cada alternativa da questão para verificar se correspondem a essa definição.",
+          "Descarta opções que sugerem uniformidade, distanciamento ou estranhamento cultural, já que o texto enfatiza interação e influência pessoal.",
+          "Escolha a alternativa que apresenta a ideia de construção complexa e enriquecida pelas vivências pessoais, que é a alternativa D."
+        ],
+        "commonPitfalls": [
+          "Pensar que a arte afro-brasileira é homogênea e padronizada.",
+          "Interpretar a atuação de artistas como Carybé como distanciamento ou apropriação superficial.",
+          "Assumir que há uma separação rígida entre cultura afro-brasileira e outras influências artísticas.",
+          "Ignorar a influência das experiências sociais na criação artística, considerando apenas aspectos formais.",
+          "Confundir diversidade cultural com falta de identidade ou coerência estética."
+        ],
+        "teachingTips": [
+          "Incentive a leitura cuidadosa e a identificação de ideias-chave no texto.",
+          "Trabalhe com exemplos de artistas afro-brasileiros que exemplifiquem a diversidade e multiculturalidade.",
+          "Discuta conceitos como apropriação cultural e interação cultural de forma contextualizada.",
+          "Estimule o pensamento crítico sobre como as vivências pessoais influenciam a produção artística.",
+          "Use questões semelhantes para praticar a análise de textos e reconhecimento de argumentos implícitos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que a apropriação da cultura por alguém de fora, como Carybé, cause estranhamento.",
+          "misconceptionType": "Interpretação incorreta do envolvimento cultural",
+          "whyItLooksPlausible": "O texto menciona que Carybé era argentino, sugerindo possível estranhamento na apropriação cultural.",
+          "whyItIsWrong": "O texto sinaliza que Carybé se envolveu profundamente com a cultura, sem estranhamento, mas como parte de um processo de construção cultural."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O distanciamento pode parecer lógico por ser uma arte com raízes africanas, diferente de outras culturas.",
+          "misconceptionType": "Generalização indevida sobre as relações culturais",
+          "whyItLooksPlausible": "Pode-se pensar que há distanciamento entre diferentes culturas estéticas.",
+          "whyItIsWrong": "O texto destaca a aproximação e a influência da cultura negra na formação da arte, rejeitando a ideia de distanciamento."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A uniformidade pode parecer uma característica da arte com base em uma cultura específica.",
+          "misconceptionType": "Ignorar a diversidade cultural e pessoal",
+          "whyItLooksPlausible": "A existência de uma visão uniforme poderia parecer natural para denominar algo a partir de uma matriz cultural.",
+          "whyItIsWrong": "O texto enfatiza a diversidade e experiências pessoais, não uma visão uniformizadora."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "A padronização poderia ser entendida como característica da formação de estilos concretos.",
+          "misconceptionType": "Simplificação da diversidade artística",
+          "whyItLooksPlausible": "Parece razoável que uma matriz cultural influa padronizando temas e formas.",
+          "whyItIsWrong": "O texto contrapõe essa ideia, apresentando uma produção artística diversificada em relação às temáticas e formas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de textos",
+        "secondarySkills": [
+          "Compreensão de conceitos culturais",
+          "Raciocínio crítico sobre diversidade cultural"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreensão da multiculturalidade aplicada à arte.",
+          "Não há necessidade de cálculo ou uso de imagens para a resolução.",
+          "Possibilita análise dos sentidos das expressões usadas no texto, especialmente sobre cultura e vivência."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🖼️",
+        "shortThemeTitle": "Multiculturalidade na Arte Afro-brasileira",
+        "interpretationIntro": "A questão nos convida a compreender de que maneira a produção artística afro-brasileira se caracteriza a partir da perspectiva da multiculturalidade, segundo o texto fornecido.",
+        "commandTerms": [
+          {
+            "term": "Caracteriza-se",
+            "explanation": "Descrever ou identificar as características essenciais do objeto, neste caso, a arte afro-brasileira."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual característica da produção artística afro-brasileira, conforme o texto, corresponde à perspectiva da multiculturalidade.",
+        "strategyParagraph": "Para responder, é preciso analisar o texto atentamente e confrontar as alternativas, buscando qual delas expressa a relação entre a vida social dos artistas e a cultura negra nacional, evidenciando a diversidade e o processo de construção cultural, ao invés de uniformidade ou distanciamento.",
+        "reviewTable": [
+          {
+            "concept": "Multiculturalidade",
+            "keyIdea": "Reconhecimento e valorização das diversas influências culturais na arte.",
+            "application": "O texto destaca como a arte afro-brasileira resulta das experiências sociais diversas dos artistas diante da cultura negra nacional."
+          },
+          {
+            "concept": "Cultura Negra Nacional",
+            "keyIdea": "Elementos culturais afro-brasileiros que influenciam a produção artística.",
+            "application": "Exemplificado pela vivência no candomblé e pelo envolvimento profundo de artistas como Mestre Didi e Carybé."
+          },
+          {
+            "concept": "Construção Cultural e Estética",
+            "keyIdea": "Processo dinâmico de criação artística influenciado por múltiplas referências e experiências.",
+            "application": "O texto aponta que a arte é resultado da interação entre experiência pessoal e cultura, não uma produção padronizada."
+          }
+        ],
+        "theoryParagraphs": [
+          "A multiculturalidade refere-se à convivência e interação de múltiplas culturas, resultando em produções culturais que refletem diversidade e complexidade.",
+          "No contexto da arte afro-brasileira, essa multiculturalidade manifesta-se na forma como artistas de diferentes origens vivenciam e reinterpretam a cultura negra nacional, através de suas experiências sociais.",
+          "Portanto, a arte resultante é uma construção pessoal e cultural, que não se reduz a uma visão homogênea ou padronizada, mas é marcada pela diversidade estética e simbólica."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado define arte afro-brasileira como produção plástica feita a partir de experiências sociais com a cultura negra nacional, exemplificada por artistas como Mestre Didi, Carybé e Djanira.",
+          "O texto enfatiza que essa produção surge do ambiente social desses artistas e da vivência multicultural, sem impor uniformidade.",
+          "Ao analisar as alternativas, percebe-se que as opções A, B, C e E sugerem estranhamento, distanciamento, uniformidade ou padronização, contrariando o exposto no texto.",
+          "A alternativa D resume corretamente a ideia de que a arte é resultado de uma interação complexa entre experiências pessoais e os elementos culturais afro-brasileiros, refletindo diversidade e construção cultural.",
+          "Logo, a alternativa D é a resposta correta."
+        ],
+        "puloDoGato": "A arte afro-brasileira é plural porque nasce da interação entre as vivências pessoais dos artistas e a cultura negra, não de uma matriz única e uniforme.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora Carybé tenha origem argentina, o texto mostra que sua relação com a cultura negra foi de profundo envolvimento, e não de estranhamento."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "O texto destaca a aproximação entre os artistas e a cultura negra, rejeitando a ideia de distanciamento ou afastamento."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "A produção artística afro-brasileira não é uniforme; ela se caracteriza por diversidade e múltiplas influências, como enfatiza o texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Essa alternativa reflete corretamente a ideia de que a arte resulta da interação entre as experiências sociais dos artistas e a cultura negra, representando um processo multicultural e dinâmico."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A padronização contraria a diversidade e a contextualização pessoal apresentadas no texto sobre a arte afro-brasileira."
+          }
+        ],
+        "questionCode": "LINGUAGENS_MULTICULTURALIDADE_AFROBRASILEIRA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução está coerente com o enunciado, com a saída do solver e com o explainer. Todos os segmentos estão alinhados, oferecendo uma explicação clara, consistente e didática sobre o conceito de multiculturalidade aplicado à arte afro-brasileira, conforme solicitado na questão.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2614,
+    "outputTokens": 2071,
+    "estimatedCostUsd": 0.004359
+  }
+}

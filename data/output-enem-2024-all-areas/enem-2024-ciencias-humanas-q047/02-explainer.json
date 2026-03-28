@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:43:18.505Z",
+  "questionId": "enem-2024-ciencias-humanas-q047",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto utiliza a metáfora do exército para mostrar que, assim como em uma tropa, a saúde pública precisa de uma hierarquia profissional, com oficiais (técnicos graduados) e auxiliares (enfermeiras, educadoras, técnicos). Isso destaca uma organização estruturada e hierarquizada.",
+      "stepByStep": [
+        "Leia o texto atento e identifique a metáfora do exército usada para se referir à estrutura da saúde pública.",
+        "Note que o texto menciona diferentes níveis profissionais, desde técnicos graduados (oficiais) até auxiliares especializados.",
+        "Entenda que essa divisão demonstra a necessidade de uma hierarquia e organização no trabalho na saúde pública.",
+        "Analise as alternativas e descarte as que não falam sobre essa estrutura hierárquica e profissional.",
+        "Conclua que a mensagem principal do texto é a hierarquização dos profissionais na área da saúde pública."
+      ],
+      "commonPitfalls": [
+        "Interpretar a mensagem como relacionada a campanhas de higienização moral, quando o foco é organização profissional.",
+        "Relacionar o texto a conceitos de eugenia, comum no período, mas que não se aplica aqui.",
+        "Pensar que o texto aborda assimilação cultural devido à menção de educadoras e visitadoras.",
+        "Confundir organização hierárquica com controle identitário ou hegemonia cultural."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar metáforas e o que elas representam no contexto do texto.",
+        "Trabalhe a leitura crítica e a capacidade de diferenciar temas próximos (higienização, eugenia, organização profissional).",
+        "Estimule a análise de elementos específicos do texto para conectar com o contexto histórico da saúde pública.",
+        "Ensine a eliminar alternativas vendo o foco principal do texto, valorizando a hierarquia e estrutura.",
+        "Promova debates sobre o papel dos diferentes profissionais na saúde pública para fixar o conceito de organização hierárquica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1557,
+    "outputTokens": 392,
+    "estimatedCostUsd": 0.00125
+  }
+}

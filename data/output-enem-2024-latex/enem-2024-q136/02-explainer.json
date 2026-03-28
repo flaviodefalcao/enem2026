@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:18:40.385Z",
+  "questionId": "enem-2024-q136",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para visualizar hemácias muito pequenas, precisamos calcular o aumento mínimo que o microscópio deve ter. Multiplicando a ampliação da lente ocular pela objetiva, escolhemos a lente objetiva com a menor ampliação que permite ver claramente as hemácias.",
+      "stepByStep": [
+        "Converter o tamanho mínimo visível pelo olho humano para milímetros: 100 micrômetros = 0,1 mm.",
+        "Comparar esse tamanho com o diâmetro da hemácia (0,007 mm) para entender que a hemácia não é visível a olho nu.",
+        "Calcular a ampliação mínima necessária dividindo o tamanho mínimo visível pelo diâmetro da hemácia: 0,1 mm / 0,007 mm ≈ 14,29.",
+        "Calcular o aumento total do microscópio, que é o produto da ampliação da lente ocular (10x) pela ampliação de cada lente objetiva.",
+        "Multiplicar 10x pelas ampliações das lentes objetivas: I (2x)=20x, II (10x)=100x, III (15x)=150x, IV (1,1x)=11x, V (1,4x)=14x.",
+        "Escolher a lente objetiva de menor ampliação cuja ampliação total seja igual ou maior que 14,29x.",
+        "Concluir que a lente I, com ampliação total de 20x, é a menor que permite visualizar as hemácias."
+      ],
+      "commonPitfalls": [
+        "Não converter corretamente as unidades (micrômetros para milímetros).",
+        "Esquecer que a ampliação total do microscópio é o produto das ampliações ocular e objetiva.",
+        "Escolher a lente com maior ampliação em vez da menor que atende ao requisito.",
+        "Confundir número próximo da ampliação necessária com valor suficiente sem calcular direito.",
+        "Ignorar que a ampliação mínima necessária deve ser igual ou maior que o cálculo para visualizar o objeto."
+      ],
+      "teachingTips": [
+        "Enfatize a importância da conversão correta de unidades para evitar erros.",
+        "Use exemplos práticos para mostrar como o olho humano percebe objetos e como o aumento é necessário para ver detalhes pequenos.",
+        "Mostre visualmente como o aumento total é calculado multiplicando ocular e objetiva.",
+        "Explique que o problema pede a menor ampliação que permita ver os objetos para evitar escolher a maior ampliação disponível.",
+        "Incentive os alunos a organizar os cálculos passo a passo para facilitar a análise e evitar confusão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2278,
+    "outputTokens": 505,
+    "estimatedCostUsd": 0.001719
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:19:11.268Z",
+  "questionId": "enem-2024-ciencias-humanas-q089",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O Conselho de Segurança da ONU tem cinco membros permanentes com poder de veto, o que demonstra uma relação desigual de poder político entre os países-membros, caracterizando uma assimetria política nas decisões internacionais.",
+      "stepByStep": [
+        "Observe que o Conselho de Segurança possui 15 membros, sendo 5 permanentes com poder de veto.",
+        "O poder de veto permite que esses membros bloqueiem decisões, dando-lhes influência maior que os demais.",
+        "Essa influência desigual mostra que nem todos os países têm o mesmo peso nas decisões do Conselho.",
+        "Entenda que essa diferença de poder é chamada de assimetria política.",
+        "Analise as alternativas e identifique que a que melhor descreve essa característica é a 'Assimetria política'.",
+        "Descarte outras alternativas que falham em reconhecer a influência desigual."
+      ],
+      "commonPitfalls": [
+        "Pensar que todos os países têm igual poder decisório, confundindo com igualdade militar.",
+        "Achar que o Conselho funciona por consenso multipolar, ignorando o poder de veto dos permanentes.",
+        "Considerar que há equilíbrio estratégico quando, na verdade, o veto gera desequilíbrio.",
+        "Acreditar que há soberania compartilhada, quando países mantêm soberania e poder veto distinto."
+      ],
+      "teachingTips": [
+        "Explique o conceito de poder de veto e seu impacto nas decisões internacionais.",
+        "Utilize exemplos históricos reais de vetos para ilustrar a assimetria política.",
+        "Discuta a diferença entre igualdade formal e desigualdade prática nas organizações internacionais.",
+        "Estimule a comparação crítica entre as alternativas para reforçar a correta interpretação.",
+        "Inclua atividades que ajudem os alunos a identificar características de relações internacionais, como assimetria e soberania."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1404,
+    "outputTokens": 342,
+    "estimatedCostUsd": 0.001109
+  }
+}

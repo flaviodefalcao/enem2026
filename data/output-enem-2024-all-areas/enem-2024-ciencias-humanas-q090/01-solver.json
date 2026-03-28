@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:19:49.414Z",
+  "questionId": "enem-2024-ciencias-humanas-q090",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque o texto destaca a necessidade da participação humana ativa mesmo em um sistema que tenta desumanizar os trabalhadores. Isso se relaciona diretamente com o conceito de alienação, onde os trabalhadores são reduzidos a meras peças da máquina, mas ainda assim precisam contribuir com sua atividade humana, o que é uma contradição do capitalismo.",
+      "strategy": "Analisar o texto para identificar a contradição mencionada, relacionando os conceitos com as alternativas para encontrar a que melhor representa essa contradição interna.",
+      "steps": [
+        "Ler cuidadosamente o texto de Castoriadis sobre a condição dos operários na fábrica.",
+        "Identificar a contradição do capitalismo: embora tente desumanizar os trabalhadores (reduzi-los a peças de máquinas), depende da atividade humana deles para funcionar.",
+        "Associar esta ideia ao conceito sociológico de alienação no trabalho.",
+        "Comparar cada alternativa com essa ideia para verificar qual representa melhor essa contradição.",
+        "Concluir que a alternativa C, sobre alienação decorrente da organização do trabalho, é a mais adequada."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A obsolescência tecnológica poderia ser confundida como uma limitação do capitalismo, dada a menção a 'peças de máquinas'.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "O texto cita máquinas e peças, o que pode remeter à tecnologia e obsolescência.",
+        "whyItIsWrong": "A questão não trata de tecnologia ficando obsoleta, mas sim da relação humana com o trabalho e o processo capitalista."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se pensar que a contradição gera conflitos que precisam de administração.",
+        "misconceptionType": "Interpretação parcial",
+        "whyItLooksPlausible": "Capitalismo envolve conflitos entre classes que precisam ser geridos.",
+        "whyItIsWrong": "O texto enfatiza a desumanização e contribuição humana, não a mediação de conflitos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode parecer que haja justiça igualitária associada à riqueza produzida.",
+        "misconceptionType": "Interpretação errada da igualdade",
+        "whyItLooksPlausible": "A palavra 'isonomia' está associada à igualdade e pode ser confundida com aspectos econômicos.",
+        "whyItIsWrong": "O texto evidencia exploração e contradição, não igualdade remanescente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Alguém pode achar que a produtividade aumente com autonomia.",
+        "misconceptionType": "Relação incorreta entre produtividade e autonomia",
+        "whyItLooksPlausible": "Productividade normalmente está ligada à eficiência e autonomia do trabalhador pode ajudar nisso.",
+        "whyItIsWrong": "O texto aponta para desumanização e alienação, ou seja, diminuição da autonomia."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de textos filosóficos e sociológicos",
+      "secondarySkills": [
+        "Conhecimento sobre sociologia do trabalho",
+        "Análise crítica do capitalismo"
+      ],
+      "cognitiveDemand": "alta",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão profunda do texto e conceitos sociológicos.",
+        "Não há necessidade de dados visuais ou cálculos.",
+        "Envolve análise crítica da contradição entre desumanização e contribuição humana no capitalismo."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 619,
+    "outputTokens": 712,
+    "estimatedCostUsd": 0.001387
+  }
+}

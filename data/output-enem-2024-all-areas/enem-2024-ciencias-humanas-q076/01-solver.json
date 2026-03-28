@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:05:54.763Z",
+  "questionId": "enem-2024-ciencias-humanas-q076",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque o conceito de rizoma descrito por Deleuze e Guattari enfatiza um sistema não hierárquico, a-centrado, que conecta pontos de forma múltipla e diversa, refletindo uma pluralidade de interações culturais contemporâneas.",
+      "strategy": "Interpretar o texto sobre o conceito de rizoma, identificar suas características principais (não hierárquico, múltiplas ligações irrestritas, ausência de centralidade), e relacionar essas características com as alternativas, escolhendo aquela que melhor representa as interações culturais contemporâneas compatíveis com o conceito.",
+      "steps": [
+        "Ler atentamente o trecho do texto sobre rizoma, destacando que ele apresenta um sistema a-centrado, não hierárquico, sem memória organizadora ou controle central.",
+        "Analisar cada alternativa procurando um elemento que se relacione às características do rizoma.",
+        "Descartar alternativas que indiquem estrutura fixa, lógica binária, controle homogêneo e uniformidade de opiniões, pois estas implicam centralização, hierarquia ou isolamento de conexões.",
+        "Identificar que \"pluralidade de interações\" é a alternativa que condiz com a ideia do rizoma, pois sugere múltiplas conexões diversas e não hierárquicas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolheu porque pensa em uma estrutura estável, similar a conceitos tradicionais hierárquicos.",
+        "misconceptionType": "Interpretação equivocada do texto, confundindo estrutura fixa com sistema rizomático.",
+        "whyItLooksPlausible": "Estruturas fixas são comuns em sistemas organizados, mas o texto enfatiza justamente a ausência dessa fixidez.",
+        "whyItIsWrong": "O rizoma é exatamente o contrário de estrutura fixa, pois é a-centrado e flexível."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associou a lógica binária a formas de conexão ou sistemas complexos.",
+        "misconceptionType": "Confusão entre tipos de lógica computacional e sistemas culturais complexos descritos por o rizoma.",
+        "whyItLooksPlausible": "Lógica binária é base de sistemas digitais, aparentemente múltiplos, mas estritamente binários e hierárquicos.",
+        "whyItIsWrong": "O rizoma rejeita a lógica binária e hierárquica, sendo não linear e sem centralização."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Entendeu que controle homogêneo poderia significar uniformidade e organização societal.",
+        "misconceptionType": "Desconhecimento do conceito de controle central ou homogêneo contra sistemas descentralizados.",
+        "whyItLooksPlausible": "Controle homogêneo sugere certa ordem, mas uniformidade centralizada, o que parece útil em organização social.",
+        "whyItIsWrong": "O rizoma não possui controle homogêneo; é a-centrado e descentralizado."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumiu que uniformidade nas opiniões indica harmonia e comunhão social.",
+        "misconceptionType": "Concepção incorreta de uniformidade como característica positiva de sistemas culturais dinâmicos.",
+        "whyItLooksPlausible": "Uniformidade pode parecer atrativa para união cultural, mas implica falta de diversidade.",
+        "whyItIsWrong": "Rizoma promove diversidade e pluralidade, não uniformidade."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto filosófico e sociológico",
+      "secondarySkills": [
+        "Compreensão de conceitos abstratos",
+        "Raciocínio crítico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O item exige compreensão das ideias de Deleuze e Guattari sobre rizoma.",
+        "Não há necessidade de conhecimento prévio aprofundado em filosofia, mas requer atenção ao texto.",
+        "Relacionar conceitos abstratos com elementos da cultura contemporânea."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 640,
+    "outputTokens": 824,
+    "estimatedCostUsd": 0.001574
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:07:07.304Z",
+  "questionId": "enem-2024-ciencias-humanas-q077",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As capas da revista Travel in Brazil, publicadas pelo Departamento de Imprensa e Propaganda durante o Estado Novo, mostram imagens idealizadas e estereotipadas da cultura brasileira, exaltando elementos folclóricos e rurais para criar uma identidade nacional homogênea e positiva.",
+      "stepByStep": [
+        "Observe atentamente as imagens das três capas da revista Travel in Brazil, notando os detalhes como roupas típicas e personagens retratados.",
+        "Identifique elementos culturais evidentes, como vestimentas tradicionais, personagens rurais e símbolos do folclore brasileiro.",
+        "Relacione o contexto histórico do Estado Novo e do DIP, que buscava fortalecer e unificar a identidade nacional por meio de símbolos culturais e propagandas.",
+        "Descartar interpretações que não condizem com as imagens, como foco em pobreza, preconceitos explícitos, censura midiática ou industrialização.",
+        "Conclua que as capas serviam para reforçar estereótipos culturais positivos, cumprindo um papel propagandístico de valorização da cultura brasileira na época. "
+      ],
+      "commonPitfalls": [
+        "Confundir a representação idealizada com uma crítica ou denúncia da pobreza social.",
+        "Interpretar as capas como evidências de preconceitos raciais explícitos, quando na verdade são estereótipos culturais gerais.",
+        "Associar a função do DIP exclusivamente à censura, sem considerar seu papel na propaganda cultural.",
+        "Supor que as imagens mostram o Brasil industrializado, quando focam na cultura rural e folclórica.",
+        "Ignorar o contexto histórico e a intenção política por trás das imagens, levando a interpretações erradas."
+      ],
+      "teachingTips": [
+        "Enfatize a importância de analisar imagens dentro do contexto histórico e político em que foram produzidas.",
+        "Incentive os alunos a identificar elementos visuais e iconográficos antes de tirar conclusões sobre o conteúdo.",
+        "Discuta o papel do Departamento de Imprensa e Propaganda no Estado Novo para ajudar a compreender o uso da propaganda cultural.",
+        "Trabalhe a distinção entre propaganda cultural e outras formas de controle social, como censura ou críticas sociais.",
+        "Use exemplos visuais semelhantes para praticar a interpretação de estereótipos culturais e seus objetivos na propaganda."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2263,
+    "outputTokens": 451,
+    "estimatedCostUsd": 0.001627
+  }
+}

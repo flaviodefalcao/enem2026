@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:47:00.475Z",
+  "questionId": "enem-2024-linguagens-q009",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto mostra que os problemas de saúde mental dos atletas surgem principalmente pela pressão constante de grandes eventos esportivos, o fato de serem jovens estrelas e a cobrança da imprensa, que vão afetando sua mente mesmo que pareçam fisicamente fortes.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender quais são as causas dos problemas de ansiedade e depressão dos atletas.",
+        "Identifique que o texto destaca o peso dos grandes eventos, a fama precoce e a influência da imprensa sobre os atletas.",
+        "Observe as alternativas e veja qual delas inclui essas causas apontadas no texto.",
+        "Descartar opções que falam sobre nacionalidade, modalidade e idade, pois não são indicadas como causas no texto.",
+        "Analisar o papel da imprensa: ela aumenta a pressão, mas essa narrativa está melhor apresentada na alternativa E, que fala das pressões externas e cobranças.",
+        "Conclua que a alternativa E corresponde corretamente às causas do desequilíbrio mental apontadas no texto.",
+        "Confirme que a resposta correta é a alternativa E."
+      ],
+      "commonPitfalls": [
+        "Assumir que a nacionalidade dos atletas influencia a saúde mental, quando o texto não afirma isso.",
+        "Pensar que as diferentes modalidades esportivas são causa do problema, apenas porque os exemplos são variados.",
+        "Achar que a faixa etária é a causa da ansiedade e depressão, em vez de compreender que é a pressão sobre jovens estrelas.",
+        "Interpretar que apenas a ideia de atleta como herói é a causa, sem entender que esse conceito contribui para as pressões descritas em conjunto.",
+        "Não relacionar as informações do texto diretamente com as opções, escolhendo alternativas que parecem plausíveis mas não estão explicitamente no texto."
+      ],
+      "teachingTips": [
+        "Encoraje os alunos a sempre buscar no texto pistas claras sobre causas e efeitos, evitando inferências sem base.",
+        "Faça exercícios para identificação da causa e consequência em textos variados, fortalecendo essa habilidade de leitura crítica.",
+        "Trabalhe como distinguir entre exemplos e causas propriamente ditas dentro de um texto.",
+        "Discuta com os alunos o impacto da mídia e das pressões sociais na saúde mental para contextualizar o tema.",
+        "Explique como eliminar alternativas que apresentam informações não sustentadas pelo texto ajuda a encontrar a resposta correta de forma mais segura."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1400,
+    "outputTokens": 458,
+    "estimatedCostUsd": 0.001293
+  }
+}

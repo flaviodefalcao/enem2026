@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:45:20.837Z",
+  "questionId": "enem-2024-ciencias-humanas-q050",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B está correta porque o texto mostra que Bartolomeu de Las Casas era odiado pelos colonizadores (senhores, conquistadores, imperador) por defender os indígenas e lutar contra a exploração e escravidão, e era amado pelos povos locais que recebiam pior tratamento, pois ele os defendia. Portanto, ele era detestado pelos colonizadores e respeitado pelos povos indígenas, conforme a alternativa B.",
+      "strategy": "Identificar no texto os protagonistas que o odeiam e os que o amam, inferindo os grupos sociais representados e suas relações com o bispo Bartolomeu de Las Casas.",
+      "steps": [
+        "Ler o texto atentamente e identificar os grupos que detestam Las Casas: conquistadores, senhores, imperador.",
+        "Identificar os grupos que o amam: os povos locais, chamados de \"os mudos\", os que recebem pior tratamento.",
+        "Interpretação dos grupos sociais: colonizadores correspondem aos senhores e conquistadores; povos do lugar são os indígenas.",
+        "Comparar as opções com o entendimento extraído do texto.",
+        "Selecionar a alternativa que corresponde a este entendimento."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir os religiosos locais como um grupo que reverenciaria o bispo e os reis como odiadores, mas o texto não menciona especificamente os religiosos do local.",
+        "misconceptionType": "Interpretação incorreta dos papéis sociais mencionados no texto.",
+        "whyItLooksPlausible": "A referência a bispo poderia associar a religiosos locais que o apoiariam.",
+        "whyItIsWrong": "O texto menciona que ele era odiado pelos senhores e conquistadores, não aborda apoio dos religiosos do local."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a colônia menosprezava e que os governantes o idolatravam, invertendo os papéis sociais.",
+        "misconceptionType": "Confusão sobre quem apoiava ou detestava Las Casas.",
+        "whyItLooksPlausible": "Governantes podem ser vistos como figuras de autoridade que apoiam defender um bispo.",
+        "whyItIsWrong": "O texto deixa claro que o imperador promulgou leis contra as ideias do bispo, logo os governantes não o idolatravam."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir os invasores espanhóis como apoiadores do bispo, e a metrópole como desrespeitadora, invertendo papéis.",
+        "misconceptionType": "Confusão geográfica e social em relação aos invasores e a metrópole.",
+        "whyItLooksPlausible": "Bartolomeu era espanhol e poderia se pensar que os invasores da Espanha o apoiavam.",
+        "whyItIsWrong": "O texto indica oposição dos colonizadores (que são geralmente espanhóis) e do imperador às ações do bispo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Considerar que os negociantes de negros valorizariam o bispo enquanto ele era desacatado pelos excluídos, o que não está no texto.",
+        "misconceptionType": "Assumir apoio de um grupo econômico antagonista à defesa dos direitos indígenas.",
+        "whyItLooksPlausible": "A importância econômica da escravidão poderia levar a crer que negociantes valorizariam o bispo.",
+        "whyItIsWrong": "O bispo defendia os indígenas contra a escravidão, o que ia contra os interesses dos negociantes de escravos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Conhecimento histórico-social"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão requer compreensão das múltiplas perspectivas apresentadas no texto.",
+        "Exige conhecimento básico sobre a história da colonização americana e o papel de Bartolomeu de Las Casas.",
+        "Não há imagens associadas para interpretação visual.",
+        "A questão envolve avaliação crítica dos grupos sociais mencionados no contexto histórico."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 708,
+    "outputTokens": 844,
+    "estimatedCostUsd": 0.001634
+  }
+}

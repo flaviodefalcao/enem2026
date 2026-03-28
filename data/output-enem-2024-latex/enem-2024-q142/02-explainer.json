@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:23:33.482Z",
+  "questionId": "enem-2024-q142",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A criança começa com 3 figuras e, a cada etapa, duplica o número de figuras que tinha na etapa anterior. Isso gera uma sequência onde a quantidade de figuras na etapa n é dada por 3 vezes 2 elevado a (n-1). Para a 20ª etapa, aplicamos essa fórmula para calcular o total.",
+      "stepByStep": [
+        "Na 1ª etapa, foram inseridas 3 figuras.",
+        "Na 2ª etapa, a criança copiou as 3 figuras e colou ao lado, dobrando para 6.",
+        "Na 3ª etapa, copiou as 6 figuras da etapa anterior e colou novamente, dobrando para 12.",
+        "Observamos que em cada etapa, o número de figuras dobra em relação à etapa anterior.",
+        "Assim, a quantidade de figuras na etapa n é 3 × 2^(n-1).",
+        "Para a 20ª etapa, substituímos n por 20 na fórmula: 3 × 2^(20-1) = 3 × 2^19."
+      ],
+      "commonPitfalls": [
+        "Confundir o índice do expoente, usando 2^20 ao invés de 2^19 para a 20ª etapa.",
+        "Achar que o número de figuras cresce de uma forma diferente, não dobrando exatamente a cada etapa.",
+        "Tentar subtrair valores para ajustar a quantidade de figuras, o que não corresponde ao processo de duplicação.",
+        "Não reconhecer que a sequência forma uma progressão geométrica a partir da segunda etapa."
+      ],
+      "teachingTips": [
+        "Mostre exemplos concretos das primeiras etapas para evidenciar a duplicação.",
+        "Ensine a identificação de progressões geométricas em problemas de crescimento multiplicativo.",
+        "Destaque a importância de entender o índice correto dos expoentes em sequências.",
+        "Utilize tabelas para ajudar alunos a visualizar o padrão numérico antes de expressá-lo em fórmula."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1536,
+    "outputTokens": 391,
+    "estimatedCostUsd": 0.00124
+  }
+}

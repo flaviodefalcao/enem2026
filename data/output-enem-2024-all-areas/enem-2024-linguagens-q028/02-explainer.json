@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:27:43.195Z",
+  "questionId": "enem-2024-linguagens-q028",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta uma leitura subjetiva e crítica da obra original de Machado de Assis, destacando impressões pessoais do autor do texto e sua decisão de criar uma narrativa que dá voz plena à personagem Capitu, ressignificando o foco narrativo da história.",
+      "stepByStep": [
+        "Leia cuidadosamente o texto para entender como o autor se relaciona com a obra original de Machado de Assis.",
+        "Observe que o autor inicia expressando suas impressões pessoais, sentimentos e críticas ao narrador original da história.",
+        "Note que o texto destaca a indignação com o ponto de vista autoritário do narrador e sua condenação da personagem Capitu.",
+        "Perceba que na conclusão, o autor revela sua proposta literária de dar voz à personagem feminina, oferecendo uma nova perspectiva sobre o romance.",
+        "Analise as alternativas e escolha aquela que melhor representa essa progressão argumentativa: apresentação da obra, crítica subjetiva e proposta de ressignificação narrativa."
+      ],
+      "commonPitfalls": [
+        "Achar que o texto reafirma simplesmente o ponto de vista original do narrador do romance.",
+        "Interpretar o texto como uma mera defesa ou redimensionamento da crítica literária existente, sem perceber a nova voz criada.",
+        "Pensar que o autor refuta a história original em vez de criar uma perspectiva complementar.",
+        "Confundir a expressão do risco na escrita como uma reconsideração ou recuo na proposta do autor."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificarem as impressões subjetivas e os posicionamentos críticos no texto.",
+        "Peça para relacionarem a estrutura do texto com a progressão da argumentação do autor.",
+        "Trabalhe a diferença entre narrador e narratário, enfatizando a importância do foco narrativo e a voz dos personagens na literatura.",
+        "Utilize exemplos que mostrem como uma obra pode ser apropriada e reinterpretada para ampliar ou mudar perspectivas originais.",
+        "Enfatize o valor da leitura crítica e subjetiva para a compreensão profunda de textos literários e suas ressignificações."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1705,
+    "outputTokens": 409,
+    "estimatedCostUsd": 0.001336
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:41:13.786Z",
+  "questionId": "enem-2024-linguagens-q045",
+  "payload": {
+    "theme": "Tecnologias da comunicação",
+    "subtheme": "Tecnologia e sociedade",
+    "rationale": "A questão aborda o impacto das memes e fake news na educação das crianças, destacando a importância da leitura e análise crítica para o uso consciente da informação em mídias sociais. O foco é a crítica ao uso social das linguagens digitais e seus efeitos na sociedade, alinhando-se ao tema 'Tecnologia e sociedade' dentro da área de linguagens.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 22146,
+    "outputTokens": 95,
+    "estimatedCostUsd": 0.00901
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T22:37:05.716Z",
+  "questionId": "enem-2024-matematica-q136",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para visualizar hemácias de 0,007 mm (7 micrômetros) com um limite de visualização de 100 micrômetros, devemos calcular a ampliação total necessária e escolher a menor lente objetiva que, combinada com a ocular de 10x, atinja essa ampliação.",
+      "stepByStep": [
+        "Converter o diâmetro da hemácia para micrômetros: 0,007 mm = 7 micrômetros.",
+        "Calcular a ampliação mínima necessária: 100 micrômetros / 7 micrômetros ≈ 14,29 vezes.",
+        "Calcular as ampliações totais possíveis de cada lente objetiva multiplicando pela ocular de 10x.",
+        "Verificar qual delas oferece uma ampliação igual ou maior que 14,29 vezes.",
+        "Selecionar a lente objetiva de menor capacidade de ampliação que satisfaça a condição."
+      ],
+      "commonPitfalls": [
+        "Confundir as ampliações, somando em vez de multiplicar.",
+        "Esquecer de converter unidades ou usar unidades diferentes.",
+        "Pensar que qualquer aumento acima do limite visual é suficiente, sem verificar se é o menor possível.",
+        "Não considerar o produto das ampliações ao combinar lentes."
+      ],
+      "teachingTips": [
+        "Reforce a importância da conversão de unidades para micrômetros.",
+        "Destaque que a ampliação total é o produto das ampliações da ocular e da objetiva.",
+        "Use exemplos práticos de cálculos de ampliação para fixar o conceito.",
+        "Enfatize que o objetivo é encontrar a menor objetiva que satisfaça a condição, não a maior."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1781,
+    "outputTokens": 323,
+    "estimatedCostUsd": 0.000307
+  }
+}

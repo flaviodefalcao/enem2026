@@ -1,0 +1,194 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q075",
+  "generatedAt": "2026-03-28T01:05:43.723Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 840,
+      "outputTokens": 808,
+      "estimatedCostUsd": 0.001629
+    },
+    "explainer": {
+      "inputTokens": 1518,
+      "outputTokens": 454,
+      "estimatedCostUsd": 0.001334
+    },
+    "reviewer": {
+      "inputTokens": 2902,
+      "outputTokens": 2105,
+      "estimatedCostUsd": 0.004529
+    },
+    "totalEstimatedCostUsd": 0.007492
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta pois representa com precisão a função dos salões e cafés no Iluminismo, destacando seus papéis distintos na circulação das ideias entre diferentes camadas sociais, conforme o texto e conceitos históricos.",
+      "strategy": "Analisar o texto para compreender os papéis sociais e funcionais dos salões e cafés, relacionando com o contexto histórico do Alto e Baixo Iluminismo e o conceito de esfera pública de Habermas.",
+      "steps": [
+        "Ler atentamente o texto para identificar o papel dos salões e cafés na sociedade iluminista.",
+        "Reconhecer que os salões eram frequentados pela elite, associados ao Alto Iluminismo.",
+        "Identificar que os cafés eram acessíveis a todos, correspondendo ao Baixo Iluminismo.",
+        "Compreender que ambos promoviam a circulação de ideias, mas de forma socialmente segmentada.",
+        "Comparar o entendimento adquirido com as alternativas apresentadas.",
+        "Selecionar a alternativa que melhor reflete esses aspectos.",
+        "Descartar alternativas que não se alinhem ao contexto histórico ou à informação do texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto de Habermas sobre esfera pública"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Os salões e cafés durante o Iluminismo eram espaços que representavam a circulação das ideias iluministas em diferentes estratos sociais, com os salões dedicados à elite intelectual e os cafés abertos ao público em geral.",
+      "stepByStep": [
+        "Ler o texto para entender a função dos salões e cafés no período iluminista.",
+        "Observar a distinção social entre salões (elite - Alto Iluminismo) e cafés (acessíveis a todos - Baixo Iluminismo).",
+        "Verificar como ambos contribuíam para o debate e circulação das ideias.",
+        "Analisar as alternativas para identificar qual melhor representa essa dinâmica.",
+        "Excluir respostas que atribuam características incorretas ou não sustentadas pelo texto."
+      ],
+      "commonPitfalls": [
+        "Presumir que os salões e cafés fomentavam revoluções contra a nobreza, sem base no texto.",
+        "Generalizar que as mulheres eram excluídas desses espaços, ignorando o papel das mesmas nos salões.",
+        "Confundir esses espaços com locais de censura e repressão.",
+        "Associar os salões e cafés diretamente a atividades comerciais, desviando do foco literário e filosófico.",
+        "Ignorar a segregação social refletida na distinção entre Alto e Baixo Iluminismo."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico e social do Iluminismo e do Antigo Regime.",
+        "Introduza o conceito de esfera pública de Habermas para fundamentar a análise.",
+        "Utilize comparações claras entre espaços fechados (salões) e abertos (cafés).",
+        "Destaque a participação das mulheres nos salões para evitar anacronismos.",
+        "Estimule os alunos a buscar evidências textuais para apoiar suas escolhas."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Associam o Iluminismo diretamente a apoio a revoluções e conflitos com a nobreza, devido a eventos históricos posteriores.",
+        "misconceptionType": "Interpretação histórica equivocada",
+        "whyItLooksPlausible": "O Iluminismo influenciou revoluções, então pode parecer que esses espaços já fomentavam esse apoio.",
+        "whyItIsWrong": "O texto evidencia circulação de ideias e segregação social, sem mencionar apoio direto a revoluções ou antagonismo à nobreza."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pressupõem exclusão das mulheres por preconceito social da época.",
+        "misconceptionType": "Generalização anacrônica",
+        "whyItLooksPlausible": "Muitas instituições históricas excluíam mulheres.",
+        "whyItIsWrong": "O texto refere-se aos salões, espaços historicamente vinculados à participação feminina influente."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumem que os locais eram ambientes de censura e repressão aos discursos.",
+        "misconceptionType": "Confusão entre controle estatal e liberdade de expressão",
+        "whyItLooksPlausible": "Censura era realidade em alguns contextos históricos.",
+        "whyItIsWrong": "O Iluminismo valorizava debate e circulação de ideias, função central desses espaços."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensam que salões e cafés eram principalmente espaços de comércio e integração econômica.",
+        "misconceptionType": "Confusão entre dimensão cultural e comercial",
+        "whyItLooksPlausible": "Salões e cafés também eram centros sociais que poderiam incluir aspectos econômicos.",
+        "whyItIsWrong": "O texto destaca seu papel literário-filosófico, não comercial."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise histórica",
+      "secondarySkills": [
+        "Conhecimento histórico sobre o Iluminismo",
+        "Compreensão das transformações sociais no Antigo Regime"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão das diferenças entre Alto e Baixo Iluminismo e seus espaços sociais",
+        "Requer conhecimento básico da estrutura social do Antigo Regime",
+        "Importante para entender o conceito de esfera pública conforme Habermas"
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Espaços do Iluminismo e circulação de ideias",
+      "interpretationIntro": "Esta questão exige compreender o papel dos salões e cafés como espaços sociais no período iluminista e relacioná-los às camadas sociais do Antigo Regime e à circulação das ideias.",
+      "commandTerms": [
+        {
+          "term": "Contribuíram",
+          "explanation": "Entender o impacto ou papel exercido pelos espaços sociais iluministas."
+        },
+        {
+          "term": "Espaços sociais",
+          "explanation": "Locais ou ambientes onde ocorriam interações sociais significativas para o debate."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pergunta como os salões e cafés, como espaços sociais literários no Iluminismo, contribuíram para a dinâmica da circulação de ideias e a estrutura social da época.",
+      "strategyParagraph": "É preciso analisar o texto para identificar as funções distintas dos salões (espaço da elite - Alto Iluminismo) e dos cafés (abertos a todos - Baixo Iluminismo), reconhecendo a segregação social e a ampliação da circulação de ideias no contexto do Antigo Regime. Relacionar isso ao conceito de esfera pública, de Habermas, ajuda a compreender o funcionamento desses espaços no debate filosófico.",
+      "reviewTable": [
+        {
+          "concept": "Alto Iluminismo",
+          "keyIdea": "Filósofos da elite social concentrados em espaços fechados (salões).",
+          "application": "Salões como ambientes exclusivos para a elite intelectual."
+        },
+        {
+          "concept": "Baixo Iluminismo",
+          "keyIdea": "Pensamento popular e debates abertos em espaços acessíveis (cafés).",
+          "application": "Cafés como locais abertos onde as ideias circulavam entre diversos grupos sociais."
+        },
+        {
+          "concept": "Esfera Pública (Habermas)",
+          "keyIdea": "Local de debate público e circulação de ideias na sociedade burguesa.",
+          "application": "Salões e cafés como instituições da esfera pública iluminista, embora segmentadas socialmente."
+        }
+      ],
+      "theoryParagraphs": [
+        "No Iluminismo, a circulação das ideias ganhou importância fundamental para as transformações sociais e políticas que se anunciavam. Nesse contexto, os salões representavam espaços exclusivos da elite, onde o Alto Iluminismo estava concentrado, enquanto os cafés eram ambientes públicos, acessíveis a diversos grupos sociais, associando-se ao Baixo Iluminismo.",
+        "O conceito de esfera pública, proposto por Habermas, ajuda a compreender como esses espaços sociais funcionavam como arenas de debate e circulação de ideias dentro da sociedade burguesa e do Antigo Regime, ainda que existisse uma clara segregação social entre eles.",
+        "Dessa forma, salões e cafés exemplificam a pluralidade e segmentação da circulação do pensamento iluminista, mostrando a complexidade dessa época, que não poderia ser reduzida a um único grupo ou espaço social."
+      ],
+      "resolutionParagraphs": [
+        "O texto deixa claro que os salões eram frequentados pela elite intelectual e alinhados ao Alto Iluminismo, enquanto os cafés, abertos e acessíveis, correspondiam ao Baixo Iluminismo.",
+        "Essa distinção revela a segregação social na circulação das ideias, mas também evidencia o crescimento do espaço público literário e político na sociedade do Antigo Regime.",
+        "Assim, o principal papel desses espaços foi permitir a circulação das ideias iluministas em diferentes camadas da sociedade, fomentando debates e a circulação do conhecimento, ainda que segmentados.",
+        "Analisando as alternativas, apenas a letra A reflete essa realidade de circulação social e intelectual, conforme evidenciado no texto e no conceito da esfera pública.",
+        "As demais opções interpretam incorretamente o papel desses espaços, desviando-se das informações do texto e do contexto histórico."
+      ],
+      "puloDoGato": "Salões = elite intelectual; cafés = espaço aberto; ambos ampliam a circulação das ideias iluministas em diferentes camadas sociais.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Correta porque representa a distinção social entre salões e cafés e a circulação das ideias, conforme o texto e contexto histórico."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta pois associa apoio direto a revoluções contra a nobreza, o que o texto não afirma."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta por generalizar exclusão das mulheres, ignorando seu papel nos salões."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta por confundir os espaços iluministas com censura, quando promoviam debates."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta por atribuir aos espaços uma função comercial, não evidenciada no texto."
+        }
+      ],
+      "questionCode": "CH_ILUMINISMO_QUESTAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A questão apresenta coerência entre enunciado, solver e explainer. A resolução é clara, didática e segue o padrão editorial pedido. A análise das alternativas está completa e correta, com justificativas precisas.",
+      "issues": []
+    }
+  }
+}

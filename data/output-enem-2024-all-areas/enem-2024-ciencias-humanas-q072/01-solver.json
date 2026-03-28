@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:02:06.250Z",
+  "questionId": "enem-2024-ciencias-humanas-q072",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta porque o texto trata das vulnerabilidades e assimetrias enfrentadas por pessoas com deficiência, indicando a necessidade de uma ética interpessoal que priorize cuidado, proteção e valorização dessas pessoas, promovendo respeito e igualdade.",
+      "strategy": "Analisar o texto para entender a mensagem central sobre a vulnerabilidade e a assimetria nas relações de poder envolvendo pessoas com deficiência, e escolher a alternativa que melhor reflete uma postura ética adequada a esse contexto.",
+      "steps": [
+        "Ler o texto atentamente para identificar o problema principal: vulnerabilidade e assimetria nas relações entre pessoas com deficiência e pessoas sem deficiência.",
+        "Observar que o texto evidencia o aumento da vulnerabilidade para pessoas com deficiência que também pertencem a outros grupos de risco, como mulheres e crianças.",
+        "Entender que é necessária uma ética interpessoal que contemple esse cenário de vulnerabilidade e desigualdade.",
+        "Analisar as alternativas para verificar qual delas propõe uma ética baseada em valores que promovam a dignidade e a proteção dessas pessoas.",
+        "Concluir que a alternativa A, que fala em cuidado, proteção e valorização, é a que melhor corresponde ao entendimento do texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto do enunciado da questão destacando a vulnerabilidade e assimetria nas relações entre pessoas com deficiência e pessoas sem deficiência."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode acreditar que a solução para a vulnerabilidade está no entendimento e perdão, algo que envolve um aspecto moral, porém com ênfase nos responsáveis, desviando do foco da valorização da pessoa com deficiência.",
+        "misconceptionType": "Interpretação incorreta do foco ético",
+        "whyItLooksPlausible": "Toca em valores morais como perdão e tolerância, que são frequentemente associados à resolução de conflitos.",
+        "whyItIsWrong": "O texto não fala em perdão ou tolerância dos responsáveis, mas sim em assegurar cuidado e proteção à pessoa vulnerável."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer que controlar entidades para garantir regras seja uma solução para vulnerabilidades, mas isso sugere cerceamento e arregimentação, que não promovem uma ética interpessoal inclusiva.",
+        "misconceptionType": "Interpretação literal equivocada do poder",
+        "whyItLooksPlausible": "O termo 'controle' pode parecer adequado para lidar com desigualdades e riscos.",
+        "whyItIsWrong": "O cerceamento e o controle não correspondem a uma ética centrada no cuidado e valorização das pessoas com deficiência."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que a solução é legislar e responsabilizar culpados pode parecer uma abordagem prática para combater a desigualdade e vulnerabilidade.",
+        "misconceptionType": "Foco em abordagem legal ao invés de ética interpessoal",
+        "whyItLooksPlausible": "Menciona legislação e responsabilização, que são meios de enfrentar injustiças.",
+        "whyItIsWrong": "O texto enfatiza uma ética interpessoal, não um sistema legal ou punitivo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Poderia ser confundido que a introspecção e indulgência pessoal sejam formas de lidar com a situação da deficiência.",
+        "misconceptionType": "Conclusão equivocada sobre a postura necessária",
+        "whyItLooksPlausible": "Termos relativos a sentimentos parecem refletir uma dimensão ética.",
+        "whyItIsWrong": "Ensimesmamento e indulgência indicam passividade e não promovem a proteção ou valorização da pessoa com deficiência."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise crítica de textos",
+      "secondarySkills": [
+        "Compreensão ética",
+        "Relações sociais e vulnerabilidades"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão do texto para identificar a postura ética adequada.",
+        "Não requer cálculos ou modelagem matemática.",
+        "A interpretação correta foca em conceitos éticos e sociais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 783,
+    "outputTokens": 832,
+    "estimatedCostUsd": 0.001644
+  }
+}

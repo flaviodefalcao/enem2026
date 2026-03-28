@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:13:13.691Z",
+  "questionId": "enem-2024-ciencias-humanas-q083",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque o texto destaca que os mapas sempre estiveram a serviço da dominação e do poder, retratando os interesses de uma minoria, o que indica a sustentação de hegemonias territoriais.",
+      "strategy": "Análise interpretativa do texto sobre a função histórica dos mapas, relacionando o papel da cartografia com o exercício do poder e dominação social e territorial.",
+      "steps": [
+        "Ler atentamente o texto que apresenta a finalidade histórica dos mapas.",
+        "Identificar as palavras-chave: 'prática', 'dominação', 'poder', 'interessava a uma minoria'.",
+        "Compreender que a principal função destacada é a manutenção da dominação e suporte ao poder.",
+        "Relacionar essa função à ideia de manter hegemonias territoriais, ou seja, sustentar estruturas de poder sobre espaços.",
+        "Comparar com as alternativas para encontrar a que melhor se encaixa nesse conceito."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associação equivocada da cartografia com a proteção ambiental e preservação de espaços naturais, possivelmente por associar mapas ao estudo do território.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Mapas são usados na geografia para representar espaços naturais, o que pode levar à ideia de que sua função principal é a preservação ambiental.",
+        "whyItIsWrong": "O texto não menciona a preservação ambiental como objetivo dos mapas, mas sim o poder e a dominação."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Entender que os mapas podem ser ferramentas para emancipação e inclusão social, focando em sujeitos marginais.",
+        "misconceptionType": "Leitura voltada ao contexto social atual",
+        "whyItLooksPlausible": "Em contextos modernos, mapas podem servir para dar visibilidade a grupos marginalizados.",
+        "whyItIsWrong": "O texto destaca que historicamente os mapas serviram aos interesses de uma minoria dominante, não à emancipação de sujeitos marginais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que mapas revalorizam culturas reprimidas ao representar diferentes aspectos culturais no território.",
+        "misconceptionType": "Interpretação fora do contexto histórico fornecido",
+        "whyItLooksPlausible": "Mapas temáticos podem retratar culturas locais, sugerindo valorização cultural.",
+        "whyItIsWrong": "O texto enfatiza o papel dos mapas a serviço da dominação, não da revalorização de culturas reprimidas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar que os mapas têm potencial para inverter hierarquias, promovendo mudanças sociais.",
+        "misconceptionType": "Equívoco sobre função histórica dos mapas",
+        "whyItLooksPlausible": "Mapas podem ser vistos como instrumentos de transformação social e política.",
+        "whyItIsWrong": "No texto, os mapas reforçam hierarquias e o poder da minoria, não promovem a inversão delas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de Texto",
+      "secondarySkills": [
+        "Análise Crítica",
+        "Conhecimento Histórico",
+        "Compreensão de Função Social"
+      ],
+      "cognitiveDemand": "Mediana (Interpretação e análise crítica)",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão trabalha interpretação textual vinculada à compreensão histórica e social da cartografia.",
+        "Não há imagens associadas a essa questão para análise visual.",
+        "Exige correlacionar conceito de hegemonia e poder com função dos mapas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 586,
+    "outputTokens": 745,
+    "estimatedCostUsd": 0.001426
+  }
+}

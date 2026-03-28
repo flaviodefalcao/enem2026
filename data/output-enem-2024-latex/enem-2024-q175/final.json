@@ -1,0 +1,122 @@
+{
+  "questionId": "enem-2024-q175",
+  "generatedAt": "2026-03-26T19:51:59.758Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 979,
+      "outputTokens": 809,
+      "estimatedCostUsd": 0.001686
+    },
+    "explainer": {
+      "inputTokens": 1694,
+      "outputTokens": 360,
+      "estimatedCostUsd": 0.001254
+    },
+    "reviewer": {
+      "inputTokens": 2463,
+      "outputTokens": 1237,
+      "estimatedCostUsd": 0.002964
+    },
+    "totalEstimatedCostUsd": 0.005904
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "1000 \\pi",
+      "correctnessClaim": "A resposta dada no gabarito (D) está correta.",
+      "strategy": "Calcular o volume de cada cilindro formado pelas duas dimensões possíveis da folha de alumínio e comparar os volumes para determinar qual embalagem apresenta maior capacidade.",
+      "steps": [
+        "Considerar que a folha de alumínio retangular tem dimensões 10 cm por 20 cm.",
+        "Opção 1: usar 10 cm como altura (h) do cilindro e 20 cm como circunferência da base (C).",
+        "Opção 2: usar 20 cm como altura (h) do cilindro e 10 cm como circunferência da base (C).",
+        "Calcular o raio da base em cada opção usando a fórmula r = C/(2\\pi).",
+        "Calcular o volume do cilindro com V = \\pi r^2 h para cada opção.",
+        "Comparar os volumes e escolher o maior."
+      ],
+      "formulasUsed": [
+        "C = 2\\pi r",
+        "V = \\pi r^2 h"
+      ],
+      "visualEvidenceUsed": [
+        "As imagens mostram as duas formas diferentes da embalagem usando os lados da folha como altura e circunferência."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar qual embalagem cilíndrica terá maior capacidade, calculamos o volume de cada uma usando as duas formas possíveis do retângulo como altura e circunferência, e comparamos os resultados. A maior capacidade corresponde ao maior volume obtido.",
+      "stepByStep": [
+        "Identifique as dimensões da folha como 10 cm e 20 cm.",
+        "Monte os dois cilindros considerando cada dimensão como altura e a outra como circunferência da base.",
+        "Calcule o raio da base para cada cilindro usando a fórmula: raio = circunferência / (2\\pi).",
+        "Calcule o volume de cada cilindro usando V = \\pi \\times raio² \\times altura.",
+        "Compare os volumes calculados para as duas opções.",
+        "Escolha o volume maior como a capacidade da embalagem de maior capacidade."
+      ],
+      "commonPitfalls": [
+        "Confundir qual dimensão usar como altura e qual usar como circunferência.",
+        "Esquecer que a circunferência é a medida do lado que envolve a base do cilindro.",
+        "Erro ao calcular o raio a partir da circunferência (não dividir por 2\\pi corretamente).",
+        "Trocar altura e raio na fórmula do volume.",
+        "Fazer cálculos incorretos de área e volume, levando a resultados errados."
+      ],
+      "teachingTips": [
+        "Explique a relação entre o retângulo e a superfície lateral do cilindro para visualização do problema.",
+        "Reforce a fórmula da circunferência para cálculo correto do raio.",
+        "Use esquemas ou modelagem para ajudar os alunos a visualizarem os cilindros formados.",
+        "Pratique a aplicação da fórmula do volume do cilindro com exemplos distintos.",
+        "Realize juntos os cálculos passo a passo para evitar erros de manipulação e interpretação."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "4 000 \\pi",
+        "likelyReasoning": "Calcular o volume supondo que a altura é 20 cm e a circunferência 10 cm, mas usar erradamente os valores para a fórmula.",
+        "misconceptionType": "Erro na aplicação das fórmulas do volume do cilindro e raio.",
+        "whyItLooksPlausible": "Parece correspondente ao volume com a maior dimensão como altura, porém o raio e altura foram trocados ou calculados errado.",
+        "whyItIsWrong": "O volume calculado para essa configuração é menor, e o valor 4 000\\pi não corresponde ao volume correto da embalagem maior."
+      },
+      {
+        "option": "2 000 \\pi",
+        "likelyReasoning": "Confundir as medidas e fazer um cálculo parcial errôneo do volume, talvez usando metade do raio ou altura.",
+        "misconceptionType": "Erro conceitual e cálculo impreciso do volume do cilindro.",
+        "whyItLooksPlausible": "Número intermediário que pode surgir de um cálculo errado, parece razoável próximo ao valor real.",
+        "whyItIsWrong": "Não corresponde ao volume real calculado para as medidas dadas."
+      },
+      {
+        "option": "4 000 \\pi (duplicado)",
+        "likelyReasoning": "Erro de repetição da alternativa A, causando confusão.",
+        "misconceptionType": "Erro de digitação ou repetição, sem base de cálculo.",
+        "whyItLooksPlausible": "Repetição pode confundir, fazendo parecer que é uma alternativa considerada correta.",
+        "whyItIsWrong": "Duplicata sem fundamento e errada."
+      },
+      {
+        "option": "500 \\pi",
+        "likelyReasoning": "Errar para usar metade dos valores do raio ou altura, resultando em volume menor.",
+        "misconceptionType": "Erro de cálculo ao usar valores errados de medida.",
+        "whyItLooksPlausible": "Parece um valor pequeno que pode surgir de metade do volume real em algum erro.",
+        "whyItIsWrong": "Volume da embalagem maior é maior, cerca de 1000 \\pi, não 500 \\pi."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Geometria espacial e cálculo de volumes",
+      "secondarySkills": [
+        "Uso de fórmulas de geometria",
+        "Interpretação de figuras geométricas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Questão envolve entender que o retângulo forma a superfície lateral do cilindro.",
+        "É necessário calcular o raio a partir da circunferência.",
+        "Comparar volumes para determinar qual é maior."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A análise técnica e a explicação didática estão coerentes com o enunciado e a imagem apresentada. As estratégias e os cálculos recomendados são adequados e corretos para determinar a maior capacidade das embalagens cilíndricas formadas. Os distractores são consistentes e apresentam erros comuns plausíveis. Não foram identificados problemas relevantes de coerência ou omissão.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:30:21.697Z",
+  "questionId": "enem-2024-linguagens-q031",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é a correta porque o trecho demonstra a alienação da elite em relação ao fim da monarquia, evidenciada pela postura tranquila e indiferente de Flora diante das mudanças políticas iminentes, enquanto o narrador usa ironia para mostrar essa desconexão.",
+      "strategy": "Analisar o contexto do trecho para identificar o tema central e o tom utilizado pelo narrador – especialmente a ironia – para compreender a crítica implícita à elite monarquista na passagem, relacionando com as alternativas disponíveis.",
+      "steps": [
+        "1. Ler atentamente o trecho para captar o estado emocional e os pensamentos de Flora.",
+        "2. Identificar o tom do narrador, especialmente a utilização da ironia em 'Ao contrário do que ficou dito atrás, Flora não se aborreceu'.",
+        "3. Observar que Flora está mais envolvida na festa e em perspectivas pessoais do que em preocupações com o contexto político e social ao redor.",
+        "4. Notar a referência à princesa imperial e o comentário de que 'toda alma livre é imperatriz!' como um indicativo de distanciamento da realidade política e social.",
+        "5. Analisar as opções de resposta considerando as evidências textuais e o tom irônico, eliminando as alternativas que não correspondem ao conteúdo e ao enfoque do trecho.",
+        "6. Concluir que a alternativa B aborda corretamente a alienação da elite diante do fim da monarquia, elemento presente na ironia do narrador e na postura da personagem Flora."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode associar a presença da princesa imperial e referências ao futuro à ideia de esperança no futuro regime.",
+        "misconceptionType": "Interpretação literal seletiva",
+        "whyItLooksPlausible": "A fala sobre a princesa que 'viria a ser imperatriz um dia' pode sugerir expectativas futuras positivas.",
+        "whyItIsWrong": "O tom irônico e a indiferença de Flora indicam que não há otimismo, mas sim alienação, descartando a promessa de esperança."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A menção à 'cidade defronte' pode ser confundida com uma perspectiva externa e contemplativa da capital.",
+        "misconceptionType": "Foco superficial em detalhes pontuais",
+        "whyItLooksPlausible": "O trecho descreve vistas do local, o que pode sugerir uma perspectiva de contemplação distanciada.",
+        "whyItIsWrong": "O problema central não é a contemplação geográfica, mas a alienação social frente aos acontecimentos do império."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Podem interpretar a fala 'Toda alma livre é imperatriz!' como indicativa de animosidade entre grupos sociais, supondo tensão.",
+        "misconceptionType": "Leitura exagerada de metáforas",
+        "whyItLooksPlausible": "A afirmação pode ser vista como crítica social que sugere conflitos entre classes.",
+        "whyItIsWrong": "No trecho, não há evidência clara de animosidade ou conflito, mas sim de abandono passivo dos problemas políticos."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A menção a Flora e as referências à festa podem ser interpretadas como um enfoque em fantasias amorosas da mulher burguesa.",
+        "misconceptionType": "Generalização temática",
+        "whyItLooksPlausible": "Personagens femininas em contextos sociais frequentemente evocam temas amorosos em literatura clássica.",
+        "whyItIsWrong": "O texto não apresenta foco em amor ou casamento e sim na postura social perante o contexto político, invalidando essa alternativa."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Leitura e interpretação de texto",
+      "secondarySkills": [
+        "Análise de contexto",
+        "Reconhecimento de ironia e crítica social"
+      ],
+      "cognitiveDemand": "Análise crítica e interpretação inferencial",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto literário com linguagem irônica.",
+        "É necessário interpretar não apenas o literal, mas também o tom e a crítica implícita.",
+        "Enfoca a análise da postura social da elite monárquica diante do fim do império."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 843,
+    "outputTokens": 869,
+    "estimatedCostUsd": 0.001728
+  }
+}

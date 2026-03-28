@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T23:46:40.485Z",
+  "questionId": "enem-2024-linguagens-q008",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta porque o texto enfatiza que, embora os instrumentos tenham uma origem comum portuguesa, eles se modificaram e adaptaram a diferentes contextos culturais no Brasil e no Havaí, adquirindo características distintas e formando novas identidades culturais.",
+        "strategy": "Analisar o texto para identificar a origem dos instrumentos e observar as adaptações e transformações culturais que ocorrem com sua circulação geográfica.",
+        "steps": [
+          "Identificar os instrumentos portugueses citados no texto: cavaquinho minhoto e machete/machetinho.",
+          "Observar que o cavaquinho chega ao Brasil e tem alteração em seu tamanho e na caixa de ressonância, mostrando adaptação.",
+          "Perceber que o ukulele originou-se no século XIX a partir do braguinha/machete e rajão trazidos para o Havaí, indicando uma transformação cultural.",
+          "Concluir que os instrumentos, mesmo relacionados, assumem novas identidades culturais conforme seu contexto.",
+          "Portanto, os instrumentos evidenciam um processo de adaptação e formação de identidades culturais distintas, o que corresponde à alternativa B."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Apesar das origens comuns em Portugal, os instrumentos musicais mencionados se transformaram e adaptaram a novos contextos culturais, formando identidades próprias no Brasil e no Havaí.",
+        "stepByStep": [
+          "Ler o texto atentamente e destacar a origem e as características dos instrumentos.",
+          "Notar as diferenças entre o cavaquinho português e o brasileiro indicadas no texto.",
+          "Reconhecer que o ukulele deriva de instrumentos portugueses levados para o Havaí.",
+          "Entender que essas mudanças representam adaptações culturais e criação de novas identidades.",
+          "Responder com base nessa compreensão de transformação cultural, escolhendo a alternativa correta."
+        ],
+        "commonPitfalls": [
+          "Acreditar que os instrumentos dependem da matéria-prima europeia, sem menção no texto.",
+          "Assumir que a origem portuguesa implica exclusividade na criação dos instrumentos.",
+          "Confundir adaptação cultural com dominação ou conflito cultural.",
+          "Julgar que a manutenção do nome indica ausência de modificações."
+        ],
+        "teachingTips": [
+          "Estimular a relação entre texto, cultura e história para interpretar adaptações culturais.",
+          "Destacar a diferença entre origem comum e adaptação cultural.",
+          "Explicar como manifestações culturais evoluem e formam novas identidades.",
+          "Trazer exemplos de outras culturas que exemplifiquem adaptação e transformação cultural."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Interpretação literal da origem europeia e generalização indevida sobre matéria-prima.",
+          "misconceptionType": "Interpretação literal e generalização indevida.",
+          "whyItLooksPlausible": "O texto reforça a origem portuguesa, podendo levar a crer na dependência da matéria-prima europeia.",
+          "whyItIsWrong": "O texto não menciona matéria-prima nem dependência, foca em adaptação cultural."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "supor hegemonia na invenção por causa da origem portuguesa dos instrumentos.",
+          "misconceptionType": "Generalização e interpretação parcial.",
+          "whyItLooksPlausible": "Refere-se às violas de mão de Portugal, sugerindo primazia na criação.",
+          "whyItIsWrong": "O texto não sugere exclusividade ou hegemonia na invenção desses instrumentos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Confundir difusão cultural com dominação e conflito cultural.",
+          "misconceptionType": "Interpretação errônea da interação cultural.",
+          "whyItLooksPlausible": "A disseminação pode ser vista como imposição cultural.",
+          "whyItIsWrong": "O texto enfatiza adaptação e transformação, não dominação ou conflito."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Assumir que a manutenção dos nomes reflete fidelidade às formas originais.",
+          "misconceptionType": "Confusão entre nome e identidade cultural.",
+          "whyItLooksPlausible": "Os nomes mantêm conexão com instrumentos ancestrais.",
+          "whyItIsWrong": "O texto mostra que características se modificaram, indicando nova identidade cultural."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de texto",
+        "secondarySkills": [
+          "Análise cultural",
+          "Relação entre texto e contexto",
+          "Inferência crítica"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Base principal é texto informativo.",
+          "Integra cultura e objetos (instrumentos musicais).",
+          "Necessita compreensão do processo de adaptação cultural."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🎼",
+        "shortThemeTitle": "Adaptação cultural de instrumentos musicais",
+        "interpretationIntro": "A questão requer que o leitor analise o texto para compreender como os instrumentos musicais citados se relacionam com os contextos culturais a que pertencem.",
+        "commandTerms": [
+          {
+            "term": "Demonstrar",
+            "explanation": "Mostrar evidências no texto que comprovem uma característica sobre os instrumentos."
+          },
+          {
+            "term": "Analisar",
+            "explanation": "Examinar as informações para compreender processos culturais envolvidos."
+          }
+        ],
+        "whatTheQuestionAsks": "O que as práticas musicais mencionadas indicam sobre os instrumentos apresentados no texto?",
+        "strategyParagraph": "Para responder, é necessário identificar a origem comum dos instrumentos e perceber como eles foram adaptados e transformados ao migrarem para culturas diferentes, formando novas identidades e características. Isso exige uma leitura atenta do texto que evidencia tais processos de adaptação cultural.",
+        "reviewTable": [
+          {
+            "concept": "Origem cultural",
+            "keyIdea": "Instrumentos derivam de contextos portugueses.",
+            "application": "Cavaquinho e machete têm raízes em Portugal."
+          },
+          {
+            "concept": "Adaptação cultural",
+            "keyIdea": "Instrumentos modificados conforme novos contextos.",
+            "application": "Cavaquinho brasileiro tem caixa mais funda; ukulele deriva de instrumentos trazidos para o Havaí."
+          },
+          {
+            "concept": "Formação de identidade cultural",
+            "keyIdea": "Adaptações geram novas identidades e funções culturais.",
+            "application": "Ukulele representa uma nova manifestação cultural distinta de seus ancestrais portugueses."
+          }
+        ],
+        "theoryParagraphs": [
+          "Instrumentos musicais muitas vezes refletem processos culturais de transmissão e transformação quando circulam por diferentes regiões e comunidades. A origem comum pode ser mantida, mas adaptações físicas, sonoras e simbólicas ocorrem para se ajustarem a novos contextos culturais.",
+          "No caso do cavaquinho, machete e ukulele, observa-se um fenômeno de adaptação que resulta não apenas em diferenças técnicas dos instrumentos, mas também na criação de novas identidades culturais ligadas a cada região onde passaram a ser tocados.",
+          "Este processo de transformação cultural é comum em manifestações artísticas, evidenciando a dinâmica das culturas em interação e evolução contínua."
+        ],
+        "resolutionParagraphs": [
+          "O texto apresenta o cavaquinho originalmente do Minho, Portugal, com características específicas, e explica que sua versão brasileira ganhou alterações, como tamanho maior e caixa mais funda, evidenciando adaptação.",
+          "Também relata que o ukulele tem origem no século XIX, derivado de instrumentos portugueses que os imigrantes madeirenses levaram ao Havaí, representando transformação e nova identidade cultural distinta.",
+          "Portanto, entende-se que os instrumentos, embora tenham um ponto de origem comum, foram incorporados e modificados nos diferentes contextos culturais, formando identidades próprias.",
+          "Assim, a alternativa correta é a B, que indica que esses instrumentos adquiriram novas identidades culturais por meio das adaptações ocorridas em suas trajetórias."
+        ],
+        "puloDoGato": "Foque na ideia de transformação cultural e adaptação, não apenas na origem dos instrumentos.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Relaciona os instrumentos à matéria-prima europeia, o que o texto não aborda; o enfoque correto é a transformação cultural."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Reflete corretamente que os instrumentos, apesar da origem comum, se adaptaram e assumiram novas identidades culturais em diferentes contextos."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Sugere hegemonia portuguesa na invenção, não sustentada pelo texto; o foco está na adaptação, não exclusividade."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Interpreta a disseminação como dominação cultural, o que não corresponde ao espírito do texto, que valoriza adaptações positivas."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Associa nomes mantidos às formas originais, ignorando as mudanças físicas e culturais destacadas no texto."
+          }
+        ],
+        "questionCode": "LINGUAGENS_CULTURA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e convergentes. A alternativa correta B está bem justificada com base no texto. A resolução oficial segue as diretrizes da estrutura solicitada, apresentando comentários claros para todas as alternativas. Não foram identificados problemas significativos.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2625,
+    "outputTokens": 1862,
+    "estimatedCostUsd": 0.004029
+  }
+}

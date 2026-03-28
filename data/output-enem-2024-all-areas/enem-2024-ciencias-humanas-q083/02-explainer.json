@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:13:21.664Z",
+  "questionId": "enem-2024-ciencias-humanas-q083",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que os mapas, ao longo da história, foram ferramentas criadas para atender aos interesses de uma minoria dominante, servindo à prática do poder e da dominação territorial.",
+      "stepByStep": [
+        "Leia o texto com atenção, focando na ideia principal sobre os mapas.",
+        "Identifique expressões-chave como 'dominação', 'poder' e 'interessava a uma minoria'.",
+        "Entenda que os mapas foram usados para sustentar relações de poder, facilitando a dominação territorial.",
+        "Relacionar essa ideia com a manutenção de hegemonias sociais e políticas através da cartografia.",
+        "Escolha a alternativa que representa essa função dos mapas, que é a de sustentar a dominação e o poder. "
+      ],
+      "commonPitfalls": [
+        "Pensar que a principal função dos mapas é a preservação ambiental, confundindo representação territorial com proteção de espaços naturais.",
+        "Achar que mapas historicamente serviram para emancipar grupos marginalizados, quando o texto indica o contrário.",
+        "Interpretar que mapas valorizam culturas reprimidas, sem observar o enfoque histórico na dominação.",
+        "Acreditar que mapas promovem a inversão de hierarquias sociais, ignorando que eles reforçam o poder vigente."
+      ],
+      "teachingTips": [
+        "Explique que mapas são construções sociais e políticas, não apenas representações neutras do espaço.",
+        "Use exemplos históricos para mostrar como mapas foram usados para justificar domínio territorial e político.",
+        "Promova debates sobre o papel da cartografia no controle do território e na manutenção do poder.",
+        "Incentive os alunos a identificar as palavras-chave e a ler criticamente textos para entender intenções implícitas.",
+        "Apresente outras funções dos mapas para ampliar a compreensão, mas destaque o contexto histórico do enunciado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1207,
+    "outputTokens": 359,
+    "estimatedCostUsd": 0.001057
+  }
+}

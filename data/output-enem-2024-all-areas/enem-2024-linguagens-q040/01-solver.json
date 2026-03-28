@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:37:53.257Z",
+  "questionId": "enem-2024-linguagens-q040",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque a questão mostra a rivalidade acirrada entre os bois Caprichoso e Garantido, com torcidas, títulos, músicas (gritos de guerra) e a expressão \"torcida\", que são elementos tipicamente associados a competições esportivas. Portanto, há uma aproximação clara da manifestação folclórica com o esporte.",
+      "strategy": "Identificar os elementos destacados no texto que remetem à ideia de rivalidade, torcida e competitividade, típicos do esporte, para relacioná-los ao festival folclórico de Parintins.",
+      "steps": [
+        "1. Ler o texto atentamente para identificar os elementos de rivalidade entre Boi Caprichoso e Garantido.",
+        "2. Observar que o texto menciona títulos, músicas (gritos de guerra) e torcida, aspectos comuns em competições esportivas.",
+        "3. Analisar as alternativas para encontrar qual delas reflete essa apropriação esportiva na manifestação folclórica.",
+        "4. Concluir que a alternativa D é a que melhor representa essa relação, pois fala da aproximação da manifestação folclórica com o esporte."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O texto menciona o local (Parintins e Bumbódromo), fazendo o candidato associar diretamente à localização específica da festa.",
+        "misconceptionType": "Interpretação literal ou foco em detalhe irrelevante",
+        "whyItLooksPlausible": "O festival ocorre num local conhecido, o Bumbódromo, e o texto indica o nome da cidade, sugerindo uma relação com o local.",
+        "whyItIsWrong": "O foco do texto não está na escolha do local, mas na rivalidade e elementos de torcida que remetem ao esporte."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode pensar que os turistas valorizam os bois, já que o autor cita que aprendeu músicas no festival.",
+        "misconceptionType": "Foco inadequado na perspectiva do turista, que não é o ponto principal.",
+        "whyItLooksPlausible": "O autor relata sua experiência de cantar músicas aprendidas, sugerindo importância para os visitantes.",
+        "whyItIsWrong": "O texto não destaca a importância dada pelos turistas, mas a forte rivalidade e características esportivas do festival."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpreta que o texto indica uma interação social após o evento, como o canto contínuo das músicas.",
+        "misconceptionType": "Inferência incorreta do contexto temporal da interação social",
+        "whyItLooksPlausible": "O autor menciona que não para de cantar músicas após o festival, indicando uma possível interação prolongada.",
+        "whyItIsWrong": "A questão enfatiza a rivalidade e competitividade, não apenas a continuidade da interação social após o evento."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode assumir que os “garanchosos” (mistura dos bois Garantido e Caprichoso) compõem músicas (enredos) novas, pois cita \"composição de enredos musicais\".",
+        "misconceptionType": "Compreensão errada do papel dos 'garanchosos' e da composição musical.",
+        "whyItLooksPlausible": "A palavra \"garanchoso\" aparece e a música é citada no texto, induzindo a pensar que há composições específicas para eles.",
+        "whyItIsWrong": "O texto não afirma que os \"garanchosos\" compõem músicas, apenas que existe a figura que mistura as torcidas, e o foco da questão não é essa atividade."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise cultural",
+      "secondarySkills": [
+        "Relação entre cultura popular e esporte",
+        "Compreensão de discursos sobre manifestações folclóricas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige reconhecimento da metáfora e comparação implícita entre a manifestação folclórica e o esporte.",
+        "Exige entendimento de termos como torcida, rivalidade e títulos no contexto do festival.",
+        "Não há imagens anexadas para esta questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 741,
+    "outputTokens": 863,
+    "estimatedCostUsd": 0.001677
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:54:12.389Z",
+  "questionId": "enem-2024-q178",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A mediana é o valor que divide um conjunto de dados ordenados ao meio. Para um número par de dados, ela é a média dos dois valores centrais após a ordenação.",
+      "stepByStep": [
+        "Liste os valores da umidade relativa do ar: 66, 64, 54, 46, 60, 64.",
+        "Ordene esses valores em ordem crescente: 46, 54, 60, 64, 64, 66.",
+        "Identifique que há 6 dados (número par), então a mediana será a média dos dois valores centrais, que são o 3º e o 4º elemento da lista ordenada.",
+        "Calcule a média desses dois valores centrais: (60 + 64) ÷ 2 = 124 ÷ 2 = 62.",
+        "Assim, a mediana dos dados é 62%."
+      ],
+      "commonPitfalls": [
+        "Não ordenar corretamente os dados antes de calcular a mediana.",
+        "Confundir o cálculo da mediana para número par de elementos, usando apenas um dos valores centrais.",
+        "Erro ao identificar quais são os dois valores centrais em uma lista com número par de dados.",
+        "Arredondar incorretamente o resultado da média dos valores centrais."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre mediana para conjuntos com número ímpar e par de elementos.",
+        "Utilize exemplos práticos para mostrar a necessidade de ordenar os dados antes de encontrar a mediana.",
+        "Faça exercícios práticos com conjuntos de dados simples para fixar o conceito de mediana.",
+        "Incentive o uso da calculadora para aumentar a precisão no cálculo da média dos valores centrais.",
+        "Mostre a relação da mediana com outras medidas de tendência central, como a média e a moda, para contextualizar o conceito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1556,
+    "outputTokens": 375,
+    "estimatedCostUsd": 0.001222
+  }
+}

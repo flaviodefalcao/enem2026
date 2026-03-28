@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:54:18.646Z",
+  "questionId": "enem-2024-ciencias-humanas-q062",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Ética e política",
+    "rationale": "A questão discute posicionamentos filosóficos sobre o estatuto epistemológico da linguagem, que relaciona-se ao entendimento dos fundamentos do conhecimento e da verdade, temas importantes para a ética e política, uma vez que refletem sobre valores, moralidade e bases do conhecimento em sociedade. As alternativas indicam que o foco é epistemológico e filosófico, o que conecta melhor com 'Ética e política' dentro do campo de 'Cidadania e democracia', considerando que a questão aborda diferentes perspectivas culturais sobre conceitos fundamentais à convivência social e política.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1210,
+    "outputTokens": 137,
+    "estimatedCostUsd": 0.000703
+  }
+}

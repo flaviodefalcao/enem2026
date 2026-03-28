@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:43:52.533Z",
+  "questionId": "enem-2024-linguagens-q006",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Variação linguística",
+    "rationale": "A questão trata da valorização das expressões e termos típicos da fala amazonense, destacando a importância do patrimônio linguístico regional e suas variações dentro do português falado no Brasil, alinhando-se ao tema 'Língua portuguesa e variação' e ao subtema 'Variação linguística'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1132,
+    "outputTokens": 93,
+    "estimatedCostUsd": 0.000602
+  }
+}

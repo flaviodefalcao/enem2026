@@ -1,0 +1,133 @@
+{
+  "questionId": "enem-2024-q146",
+  "generatedAt": "2026-03-26T19:27:09.036Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 586,
+      "outputTokens": 988,
+      "estimatedCostUsd": 0.001815
+    },
+    "explainer": {
+      "inputTokens": 1508,
+      "outputTokens": 569,
+      "estimatedCostUsd": 0.001514
+    },
+    "reviewer": {
+      "inputTokens": 2494,
+      "outputTokens": 1655,
+      "estimatedCostUsd": 0.003646
+    },
+    "totalEstimatedCostUsd": 0.006975
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "100",
+      "correctnessClaim": "A resposta B (100) é correta.",
+      "strategy": "Modelar o problema como uma maximização da área do retângulo dado um custo máximo de tela para o cercamento, escrevendo o custo em função dos lados e impondo a restrição de custo para definir uma função da área a ser maximizada.",
+      "steps": [
+        "Definir os lados do retângulo como L e C metros.",
+        "O custo total do cercamento é dado por: 2*L*20 + 2*C*15 (dois lados de cada tipo).",
+        "Expressar o custo total: Custo = 40L + 30C.",
+        "O fazendeiro deseja gastar no máximo R$ 6.000,00: 40L + 30C ≤ 6000.",
+        "Isolar C: 30C ≤ 6000 - 40L -> C ≤ (6000 - 40L)/30 = 200 - (4/3)L.",
+        "A área é A = L*C. Substituir C: A(L) = L*(200 - (4/3)L) = 200L - (4/3)L².",
+        "Maximizar A(L). Derivar A em relação a L: dA/dL = 200 - (8/3)L.",
+        "Igualar derivada a zero para máximo: 200 - (8/3)L = 0.",
+        "Resolvendo: (8/3)L = 200 -> L = 200 * (3/8) = 75.",
+        "Verificar restrição para C: C = 200 - (4/3)*75 = 200 - 100 = 100.",
+        "O maior lado será o maior entre L e C, ou seja, 100 metros.",
+        "Confirmar que o custo não ultrapassa R$ 6.000: 40*75 + 30*100 = 3000 + 3000 = 6000."
+      ],
+      "formulasUsed": [
+        "Custo total = 2*L*20 + 2*C*15 = 40L + 30C",
+        "Área A = L*C",
+        "Restrições: 40L + 30C ≤ 6000",
+        "Maximização: A(L) = 200L - (4/3)L²"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para maximizar a área do galinheiro sem exceder o gasto de R$ 6.000, calculamos o custo total das cercas, criamos uma função da área em função do lado L, usamos a restrição do custo para expressar o outro lado C, e encontramos o valor de L que maximiza essa área. O maior lado é então 100 metros.",
+      "stepByStep": [
+        "Defina os lados do galinheiro como L (metros) e C (metros).",
+        "Calcule o custo do cercamento: 20 reais por metro nos lados L e 15 reais por metro nos lados C, totalizando 40L + 30C.",
+        "Sabemos que o custo máximo é R$ 6.000, logo a inequação é 40L + 30C ≤ 6000.",
+        "Isolamos C para obter C ≤ (6000 - 40L) / 30 = 200 - (4/3)L.",
+        "A área é dada por A = L*C. Substituímos C na expressão da área: A(L) = L * [200 - (4/3)L] = 200L - (4/3)L².",
+        "Para maximizar A(L), derivamos em relação a L e igualamos a zero: dA/dL = 200 - (8/3)L = 0.",
+        "Resolvendo, encontramos L = 75 metros.",
+        "Calculamos C substituindo L: C = 200 - (4/3)*75 = 100 metros.",
+        "O maior lado do galinheiro é o maior entre L e C, que é 100 metros.",
+        "Verifique que o custo total com esses valores é 40*75 + 30*100 = 6000 reais, dentro do orçamento."
+      ],
+      "commonPitfalls": [
+        "Confundir os custos por metro linear entre os lados L e C.",
+        "Não usar a restrição de custo para definir a função da área corretamente.",
+        "Não derivar ou resolver a equação da derivada corretamente para encontrar o máximo.",
+        "Escolher o menor lado como resposta sem comparar L e C após maximização.",
+        "Esquecer de verificar se o custo total está dentro do limite permitido."
+      ],
+      "teachingTips": [
+        "Explique a importância de traduzir o enunciado em inequações e funções matemáticas.",
+        "Mostre como usar a restrição para expressar uma variável em função da outra, reduzindo graus de liberdade na maximização.",
+        "Reforce o conceito de derivada como ferramenta para encontrar extremos de função.",
+        "Utilize exemplos simples de otimização com restrição para fixar o conceito antes da aplicação no problema.",
+        "Incentive os alunos a sempre verificar se o resultado atende às condições iniciais do problema, como orçamentos e limites impostos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "85",
+        "likelyReasoning": "Errou a resolução da inequação do custo ou arredondou o resultado da maximização da área para baixo.",
+        "misconceptionType": "Cálculo incorreto ou arredondamento errado",
+        "whyItLooksPlausible": "Está próximo do valor correto e pode parecer razoável como máxima dimensão para não extrapolar o orçamento.",
+        "whyItIsWrong": "Não maximiza a área sob a restrição; a análise exata do custo e área demonstra que existe valor maior que atende à restrição."
+      },
+      {
+        "option": "175",
+        "likelyReasoning": "Confundiu os lados ou aplicou incorretamente as restrições, talvez trocando o custo dos lados.",
+        "misconceptionType": "Interpretação errada do problema",
+        "whyItLooksPlausible": "Valor maior que os anteriores pode parecer uma solução para maximizar área, mas sem considerar os custos.",
+        "whyItIsWrong": "Extrapola o orçamento dado o custo por metro linear, inviabilizando a compra das telas."
+      },
+      {
+        "option": "200",
+        "likelyReasoning": "Considerou custo igual para todos os lados ou usou apenas um tipo de tela para o cálculo.",
+        "misconceptionType": "Ignorar diferenças nos custos",
+        "whyItLooksPlausible": "Aparenta ser solução máxima sem considerar os custos específicos diferentes para cada lado.",
+        "whyItIsWrong": "O custo ultrapassa o orçamento de R$ 6.000 quando a dimensão é 200 metros para um dos lados."
+      },
+      {
+        "option": "350",
+        "likelyReasoning": "Sem cálculo adequado, apenas escolheu o maior valor fornecido supondo que maximiza a área.",
+        "misconceptionType": "Suposição sem análise",
+        "whyItLooksPlausible": "Maior medida parece a melhor para maximizar área.",
+        "whyItIsWrong": "Ilimitadamente alto, não respeita a restrição de custo da cerca e não foi calculado a partir da condição do problema."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Resolução de problemas com sistema de inequações e funções quadráticas",
+      "secondarySkills": [
+        "Matemática financeira",
+        "Funções quadráticas",
+        "Análise de restrições"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "Envolve formulação e manipulação de funções e inequações",
+        "Exige otimização sob restrição",
+        "Cuidado com unidades e custos distintos para diferentes lados"
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão bem alinhados e consistentes entre si. O cálculo da maximização da área com restrição orçamentária é correto, a resposta final (100 metros) é justificada de forma clara e coerente. Os passos, fórmulas e justificativas estão adequados e completos. Os distratores são coerentes com erros comuns possíveis no tema.",
+      "issues": []
+    }
+  }
+}

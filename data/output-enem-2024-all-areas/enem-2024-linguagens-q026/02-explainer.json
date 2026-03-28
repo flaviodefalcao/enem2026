@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:26:04.088Z",
+  "questionId": "enem-2024-linguagens-q026",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto explica que, apesar do crescimento da participação feminina nas lutas, nas escolas essa prática ainda é associada ao universo masculino, o que diminui o interesse e a participação das meninas nas aulas de Educação Física. Essa percepção é chamada de masculinização da modalidade.",
+      "stepByStep": [
+        "Leia atentamente o trecho que fala sobre a participação das meninas e o motivo dado por elas para essa situação.",
+        "Observe que elas associam a luta a algo masculino, o que reduz o interesse feminino.",
+        "Procure a alternativa que menciona essa questão da luta ser vista como uma prática masculina.",
+        "Verifique que a alternativa correta é a que fala da masculinização da modalidade.",
+        "Descarta as outras alternativas que falam de esportivização, mídia, pedagogia ou marginalização, pois não explicam a percepção de gênero apontada no texto."
+      ],
+      "commonPitfalls": [
+        "Confundir a razão da menor participação das meninas com aspectos relacionados à organização dos conteúdos, como esportivização.",
+        "Pensar que a mídia é o principal fator que influencia a participação nas aulas.",
+        "Achar que o problema está no tratamento pedagógico, sem perceber o foco no estereótipo de gênero.",
+        "Interpretar que a modalidade é marginalizada na escola, quando o problema é a percepção da luta como masculina."
+      ],
+      "teachingTips": [
+        "Peça para os alunos destacarem no texto o motivo apontado para a menor participação das meninas.",
+        "Trabalhe o conceito de estereótipos de gênero e como eles influenciam práticas sociais, como as aulas de luta.",
+        "Proponha discutir como percepções culturais podem afetar o interesse por atividades físicas.",
+        "Incentive a análise crítica de alternativas para identificar a que melhor se relaciona com o argumento do texto.",
+        "Use exemplos atuais de mulheres em esportes considerados masculinos para desafiar estereótipos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1546,
+    "outputTokens": 378,
+    "estimatedCostUsd": 0.001223
+  }
+}

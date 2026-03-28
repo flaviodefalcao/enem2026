@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:39:35.439Z",
+  "questionId": "enem-2024-linguagens-q043",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Artes visuais",
+    "rationale": "A questão aborda um experimento fotográfico de Regina Valkenborgh, enfocando a produção artística e a criatividade no campo da fotografia, que se enquadra na categoria de artes visuais. A habilidade e competência indicam a compreensão da arte como forma cultural e estética de significação, reforçando esta classificação.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1709,
+    "outputTokens": 88,
+    "estimatedCostUsd": 0.000824
+  }
+}

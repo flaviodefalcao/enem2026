@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:53:15.100Z",
+  "questionId": "enem-2024-ciencias-humanas-q060",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda uma nova forma de produzir que valoriza a gestão local dos territórios, como a experiência dos seringueiros na criação das reservas extrativistas, que une sustentabilidade ambiental e bem-estar social baseados em decisões e valores da própria comunidade.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o que está sendo proposto sobre a nova racionalidade produtiva.",
+        "Note que o texto destaca a experiência dos seringueiros que criaram um modelo chamado reserva extrativista, pautado em práticas locais e comunitárias.",
+        "Observe que essa nova gestão valoriza a produtividade ecológica do território e que vai além da simples subsistência, mostrando um modo de viver em harmonia com a natureza.",
+        "Analise as alternativas procurando a que está alinhada com essa ideia de valorização das decisões e valores locais.",
+        "Descartem-se alternativas que falam em regras externas, normas mundiais ou pressões regionais, pois o foco do texto é a autonomia local.",
+        "Escolha a alternativa que reflete a conexão de valores e decisões fundamentadas na comunidade local, que é a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir gestão local com pressões ou normas regionais e globais.",
+        "Focar apenas nos aspectos econômicos nacionais, ignorando o aspecto cultural e socioambiental local.",
+        "Pensar que sustentabilidade depende exclusivamente de regras e instituições mundiais.",
+        "Assumir que valorização das tradições é determinada por forças globais, quando na verdade é um resgate local.",
+        "Não perceber que o texto destaca experiências comunitárias que inovam em modos de produção sustentável."
+      ],
+      "teachingTips": [
+        "Estimule os estudantes a identificar no texto palavras-chave como 'luta social', 'reserva extrativista', 'decisões locais' e 'produtividade ecológica'.",
+        "Promova debates sobre o que é gestão territorial e como ela pode ser feita de forma autônoma e sustentável.",
+        "Use exemplos práticos, como as reservas extrativistas, para conectar teoria e realidade.",
+        "Enfatize a diferença entre regulação externa e a construção de valores locais.",
+        "Estimule a análise crítica das alternativas, relacionando-as diretamente com o texto antes de escolher a resposta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1356,
+    "outputTokens": 447,
+    "estimatedCostUsd": 0.001258
+  }
+}

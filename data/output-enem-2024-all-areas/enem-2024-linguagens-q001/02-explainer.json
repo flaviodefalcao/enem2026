@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:39:23.402Z",
+  "questionId": "enem-2024-linguagens-q001",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As citações de Albert Einstein e Bob Marley mostram que mesmo em situações difíceis ou adversas, é possível encontrar oportunidades ou uma forma de aproveitar a situação de modo positivo. A questão pede para identificar essa ideia comum entre as frases.",
+      "stepByStep": [
+        "Leia atentamente a citação de Albert Einstein: \"No meio da dificuldade existe oportunidade\". Isso indica que dificuldades podem ser portas para algo positivo.",
+        "Leia a citação de Bob Marley: \"Algumas pessoas sentem a chuva, outras apenas se molham\". Isso sugere que algumas pessoas percebem e aproveitam o momento, enquanto outras só passam pelo problema.",
+        "Entenda que ambas as citações falam sobre perceber e tirar proveito de situações adversas, não apenas sobre reconhecer dificuldade ou evitá-la.",
+        "Analise as alternativas da questão com base nesse entendimento, procurando a que expressa melhor a ideia de aproveitar situações difíceis.",
+        "Conclua que a alternativa C, que fala em tirar proveito de situações adversas, é a resposta correta."
+      ],
+      "commonPitfalls": [
+        "Interpretar ‘opportunity’ apenas como ajudar ou dar chance a alguém, confundindo com solidariedade.",
+        "Pensar que a mensagem é reconhecer o perigo ou a dificuldade, e não aproveitar a situação.",
+        "Achar que a lição é evitar dificuldades em vez de encará-las para obter algo positivo.",
+        "Confundir ‘harmonia’ com contestar situações aparentemente calmas, tentando encontrar um sentido contrário ao proposto."
+      ],
+      "teachingTips": [
+        "Explique o significado das citações em inglês para garantir compreensão.",
+        "Peça aos alunos que interpretem o sentido implícito das frases, não só o literal.",
+        "Use comparação entre as frases para mostrar a ideia comum que elas apresentam.",
+        "Oriente a análise crítica das alternativas, relacionando cada uma ao conteúdo das citações.",
+        "Estimule pensar em exemplos práticos de situações em que é possível encontrar oportunidade em dificuldades."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2396,
+    "outputTokens": 390,
+    "estimatedCostUsd": 0.001582
+  }
+}

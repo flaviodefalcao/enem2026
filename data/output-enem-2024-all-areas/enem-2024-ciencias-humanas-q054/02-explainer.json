@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:48:21.304Z",
+  "questionId": "enem-2024-ciencias-humanas-q054",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O preconceito de identidade mencionado no texto diminui a credibilidade das falas de certos grupos sociais, configurando uma injustiça epistêmica, que ocorre quando um indivíduo é injustamente descreditado pela sua identidade social.",
+      "stepByStep": [
+        "Leia atentamente o enunciado para entender que o foco é a perda de credibilidade das falas de certos grupos sociais devido a preconceitos relacionados a gênero e raça.",
+        "Reconheça que a situação descrita trata da desvalorização da capacidade de produção ou de transmissão de conhecimento de indivíduos ou grupos.",
+        "Identifique que essa perda de credibilidade por causa da identidade social é uma injustiça epistêmica, um conceito em filosofia que explica esse tipo de discriminação no âmbito do conhecimento.",
+        "Compare as alternativas oferecidas, eliminando aquelas que tratam de outros tipos de injustiça (estética, sensorial, afetiva ou econômica) que não correspondem ao foco do texto.",
+        "Escolha a alternativa que descreve a injustiça epistêmica, pois ela melhor corresponde ao cenário apresentado no enunciado."
+      ],
+      "commonPitfalls": [
+        "Confundir injustiça epistêmica com injustiça estética, achando que o foco seja aparência física ou padrões.",
+        "Interpretar o preconceito sensorial como relacionado ao tema, embora o texto fale sobre credibilidade e não sobre sentidos ou percepções.",
+        "Associar injustiça afetiva à dificuldade de expressão emocional, quando o texto trata especificamente da descredibilização do discurso.",
+        "Acreditar que o preconceito de identidade mencionado gera diretamente desigualdade econômica, confundindo causas e consequências."
+      ],
+      "teachingTips": [
+        "Explique o conceito de injustiça epistêmica, destacando como preconceitos sociais podem afetar quem é ouvido e acreditado.",
+        "Use exemplos cotidianos para ilustrar quando a credibilidade de alguém é injustamente diminuída por fatores como raça ou gênero.",
+        "Incentive os estudantes a relacionarem conceitos filosóficos e sociais com textos e situações reais, praticando assim a interpretação crítica.",
+        "Reforce a importância de desconstruir estereótipos e preconceitos que influem nas relações de conhecimento e comunicação entre diferentes grupos sociais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1279,
+    "outputTokens": 444,
+    "estimatedCostUsd": 0.001222
+  }
+}

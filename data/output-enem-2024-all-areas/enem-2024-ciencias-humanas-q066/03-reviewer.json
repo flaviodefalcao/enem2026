@@ -1,0 +1,181 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:57:51.814Z",
+  "questionId": "enem-2024-ciencias-humanas-q066",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A alternativa C está correta porque a introdução das pílulas anticoncepcionais desencadeou um debate público mais amplo sobre o planejamento familiar, conforme sugerido pelo texto que relaciona o avanço tecnológico aos processos sociais, incluindo discussões neomalthusianas e modernização.",
+        "strategy": "Análise do texto fornecido para identificar o impacto social relacionado à difusão da pílula anticoncepcional no Brasil, com ênfase na discussão pública e nas transformações sociais. Além disso, comparação das alternativas para verificar a coerência com o texto.",
+        "steps": [
+          "Ler cuidadosamente o texto para compreender o contexto da chegada das pílulas anticoncepcionais no Brasil na década de 1960.",
+          "Identificar os efeitos sociais associados ao avanço tecnológico da pílula conforme indicados no texto e no conhecimento histórico-social.",
+          "Analisar cada alternativa confrontando seu conteúdo com as informações do texto e o contexto histórico.",
+          "Descartar as alternativas que não condizem ou que apresentam contradições com o texto.",
+          "Confirmar que a alternativa C, que fala da ampliação do debate público sobre planejamento familiar, é a mais adequada e coerente com o texto.",
+          "Finalizar com a escolha da alternativa correta C."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A chegada da pílula anticoncepcional no Brasil durante a década de 1960 provocou um importante efeito social: ampliou o debate público sobre planejamento familiar, conectando avanços tecnológicos à mudanças sociais e discussões sobre controle populacional.",
+        "stepByStep": [
+          "Leia o texto com atenção, focando na relação entre a pílula anticoncepcional e as transformações sociais mencionadas.",
+          "Identifique no texto as principais consequências sociais, especialmente a ampliação das discussões sobre planejamento familiar.",
+          "Compare as alternativas da questão para verificar qual delas reflete melhor essa relação entre tecnologia e impacto social apresentada no texto.",
+          "Descartar alternativas baseadas em premissas não confirmadas pelo texto, como afastamento da medicina, centralização da pesquisa ou rigidez religiosa.",
+          "Conclua que a alternativa que destaca a ampliação do debate público sobre planejamento familiar é a correta, pois está alinhada ao texto e ao contexto histórico da época."
+        ],
+        "commonPitfalls": [
+          "Confundir a ampliação do debate público com diminuição da intervenção médica, acreditando que a pílula trouxe autonomia total sem influência médica.",
+          "Acreditar que o governo ou a mídia estatal foram os principais responsáveis por superar discursos moralistas, quando o debate foi mais amplo e diverso.",
+          "Assumir que a indústria farmacêutica causou a centralização da pesquisa exclusivamente no sistema privado, o que não é afirmado no texto.",
+          "Interpretar as mudanças sociais provocadas pela pílula como levando ao enrijecimento das doutrinas religiosas, embora o texto destaque o aumento do debate público."
+        ],
+        "teachingTips": [
+          "Incentive os alunos a relacionar avanços tecnológicos a seus contextos sociais e históricos, além do aspecto técnico.",
+          "Trabalhe com textos históricos para desenvolver a habilidade de interpretação crítica, enfatizando o impacto social das inovações.",
+          "Estimule a comparação cuidadosa entre alternativas, focando na coerência com o texto e com o conhecimento histórico.",
+          "Reforce a importância de identificar o que o texto realmente afirma antes de escolher uma alternativa.",
+          "Use outras fontes históricas para contextualizar a discussão neomalthusiana e o planejamento familiar no Brasil na década de 1960, enriquecendo o debate em sala."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que a popularização da pílula diminuiu a intervenção médica, levando a pensar no afastamento da autoridade médica na regulação da fecundidade.",
+          "misconceptionType": "Compreensão incorreta do papel da medicina na contracepção",
+          "whyItLooksPlausible": "A entrada da pílula como método de contracepção pode sugerir autonomia e afastamento da regulação médica.",
+          "whyItIsWrong": "Na verdade, a regulamentação e orientação médica sobre o uso da pílula intensificaram-se, mantendo ou até ampliando o papel da medicina."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Poderia-se pensar que a mídia estatal teria papel central para superar discursos moralistas, numa tentativa de secularização.",
+          "misconceptionType": "Superestimação da força da mídia estatal na época",
+          "whyItLooksPlausible": "A mídia pode influenciar a mudança de moralidade pública, e a alternativa sugere essa ação direta.",
+          "whyItIsWrong": "O texto não menciona mídia estatal nem mostra que esta tenha superado o discurso moral, além de a influência ter sido mais diversificada e não exclusivamente estatal."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "A expansão das farmacêuticas pode levar à ideia da centralização da pesquisa pelo sistema privado de saúde.",
+          "misconceptionType": "Generalização indevida das relações entre indústria farmacêutica e sistema de saúde",
+          "whyItLooksPlausible": "O boom da indústria farmacêutica multinacional sugere influência privada no avanço científico.",
+          "whyItIsWrong": "O texto fala da difusão social e demográfica, não da centralização da pesquisa, que não foi determinada pelo sistema privado exclusivamente."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode-se pensar que as doutrinas religiosas ficaram mais rígidas diante das mudanças relativas à contracepção.",
+          "misconceptionType": "Interpretação simplista das reações religiosas",
+          "whyItLooksPlausible": "Mudanças sociais geralmente provocam reações conservadoras religiosas.",
+          "whyItIsWrong": "O texto enfatiza o debate público e discussão sobre planejamento e não aponta o enrijecimento das doutrinas religiosas como efeito social predominante."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de textos históricos e sociais",
+        "secondarySkills": [
+          "Análise crítica de impacto social de tecnologia",
+          "Conhecimento histórico-social do Brasil e do mundo na década de 1960"
+        ],
+        "cognitiveDemand": "Médio - exige interpretação e aplicação de conhecimentos históricos e sociais",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "O texto é histórico-social e requer conhecimento contextual da época.",
+          "Não há imagens associadas para análise.",
+          "Questão avalia compreensão de impacto social de inovação tecnológica."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Impacto social da pílula anticoncepcional no Brasil",
+        "interpretationIntro": "Esta questão solicita a identificação do principal efeito social decorrente da introdução da pílula anticoncepcional no Brasil na década de 1960, a partir do texto apresentado.",
+        "commandTerms": [
+          {
+            "term": "Identificar",
+            "explanation": "Reconhecer especificamente o efeito social mencionado no texto relacionado à pílula anticoncepcional."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Associar avanços tecnológicos a transformações sociais e históricas documentadas."
+          }
+        ],
+        "whatTheQuestionAsks": "O enunciado pede para compreender qual foi o impacto social provocado pela chegada da pílula anticoncepcional, tendo como base o texto que destaca seu contexto histórico e social no Brasil dos anos 1960.",
+        "strategyParagraph": "Para responder, deve-se analisar o texto em sua totalidade, compreendendo o contexto histórico da década de 1960 no Brasil, marcado pelas discussões neomalthusianas, modernização e expansão da indústria farmacêutica. A partir disso, compara-se as alternativas para verificar qual reflete o efeito social legível no texto e sua base histórica.",
+        "reviewTable": [
+          {
+            "concept": "Neomalthusianismo",
+            "keyIdea": "Discussões sobre controle da população.",
+            "application": "Texto relaciona a pílula à crise demográfica e debates sobre planejamento familiar."
+          },
+          {
+            "concept": "Avanço tecnológico",
+            "keyIdea": "Difusão da pílula anticoncepcional como inovação em saúde reprodutiva.",
+            "application": "Origina transformações sociais, provocando debates públicos sobre contracepção."
+          },
+          {
+            "concept": "Modernização social",
+            "keyIdea": "Mudanças nas práticas e discursos relacionados à família e saúde.",
+            "application": "Contexto em que o método contraceptivo se insere intensificando debates e planos sociais."
+          }
+        ],
+        "theoryParagraphs": [
+          "A introdução da pílula anticoncepcional na década de 1960 constitui um marco tecnológico e social que transformou profundamente as dinâmicas familiares, a saúde reprodutiva e o planejamento familiar em diversas sociedades, incluindo o Brasil.",
+          "No contexto brasileiro, essa inovação coincidiu com debates neomalthusianos que buscavam controlar a crise demográfica, refletindo-se em mudanças nos discursos públicos e privados relacionados às políticas populacionais e saúde da mulher.",
+          "O avanço da indústria farmacêutica multinacional facilitou a disseminação do método, embasando discussões sociais que aprofundaram o debate público acerca do planejamento familiar e os direitos reprodutivos das mulheres."
+        ],
+        "resolutionParagraphs": [
+          "O texto destaca que a chegada da pílula anticoncepcional no Brasil veio acompanhada de intensos debates neomalthusianos e processos de modernização social, vinculando avanço tecnológico e transformação social.",
+          "Assim, o principal efeito social foi a ampliação do debate público sobre planejamento familiar, evidenciando como a tecnologia impactou discussões sociais e políticas demográficas.",
+          "Analisando as alternativas, observa-se que somente a alternativa C retrata adequadamente esse efeito, enquanto as demais apresentam interpretações incorretas ou que não correspondem ao texto fornecido.",
+          "Portanto, a resposta correta é a alternativa C, que aponta para a ampliação do debate público sobre o planejamento familiar como efeito social relevante da difusão da pílula."
+        ],
+        "puloDoGato": "Conecte o avanço tecnológico da pílula ao contexto das discussões neomalthusianas e da modernização social para identificar seu impacto no debate público.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta: embora a pílula tenha alterado práticas contraceptivas, não diminuiu a intervenção médica; na verdade, reforçou o papel da medicina na regulação da fecundidade."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta: o texto não menciona a mídia estatal superando discursos moralistas, e o debate foi mais diverso e não centralizado no poder estatal."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Correta: evidenciado pelo texto, a introdução da pílula ampliou o debate público sobre planejamento familiar, integrando avanços tecnológicos e transformações sociais."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta: apesar do boom das farmacêuticas, o texto não indica centralização da pesquisa pelo sistema privado de saúde ou impacto exclusivo neste setor."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta: o texto não afirma que houve enrijecimento das doutrinas religiosas, mas sim maior discussão pública sobre planejamento familiar."
+          }
+        ],
+        "questionCode": "CH_SOC_HIST_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução consolidada apresenta coerência total entre enunciado, análise técnica e explicação didática, além de contemplar comentários detalhados para todas as alternativas. A linguagem está clara, objetiva e didática, adequada ao perfil ENEM. Não foram detectados erros ou incoerências relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2750,
+    "outputTokens": 2337,
+    "estimatedCostUsd": 0.004839
+  }
+}

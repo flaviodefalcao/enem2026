@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:51:42.057Z",
+  "questionId": "enem-2024-q175",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para determinar qual embalagem cilíndrica terá maior capacidade, calculamos o volume de cada uma usando as duas formas possíveis do retângulo como altura e circunferência, e comparamos os resultados. A maior capacidade corresponde ao maior volume obtido.",
+      "stepByStep": [
+        "Identifique as dimensões da folha como 10 cm e 20 cm.",
+        "Monte os dois cilindros considerando cada dimensão como altura e a outra como circunferência da base.",
+        "Calcule o raio da base para cada cilindro usando a fórmula: raio = circunferência / (2π).",
+        "Calcule o volume de cada cilindro usando V = π × raio² × altura.",
+        "Compare os volumes calculados para as duas opções.",
+        "Escolha o volume maior como a capacidade da embalagem de maior capacidade."
+      ],
+      "commonPitfalls": [
+        "Confundir qual dimensão usar como altura e qual usar como circunferência.",
+        "Esquecer que a circunferência é a medida do lado que envolve a base do cilindro.",
+        "Erro ao calcular o raio a partir da circunferência (não dividir por 2π corretamente).",
+        "Trocar altura e raio na fórmula do volume.",
+        "Fazer cálculos incorretos de área e volume, levando a resultados errados."
+      ],
+      "teachingTips": [
+        "Explique a relação entre o retângulo e a superfície lateral do cilindro para visualização do problema.",
+        "Reforce a fórmula da circunferência para cálculo correto do raio.",
+        "Use esquemas ou modelagem para ajudar os alunos a visualizarem os cilindros formados.",
+        "Pratique a aplicação da fórmula do volume do cilindro com exemplos distintos.",
+        "Realize juntos os cálculos passo a passo para evitar erros de manipulação e interpretação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1694,
+    "outputTokens": 360,
+    "estimatedCostUsd": 0.001254
+  }
+}

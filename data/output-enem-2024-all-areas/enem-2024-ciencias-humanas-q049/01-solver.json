@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:44:30.555Z",
+  "questionId": "enem-2024-ciencias-humanas-q049",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa correta é a letra E, pois descreve a visão republicana de nação associada às mudanças tecnológicas e políticas ocorridas no Brasil entre 1890 e 1914.",
+      "strategy": "Analisei o contexto histórico apresentado no texto, relacionando a chegada das inovações científicas e tecnológicas no Brasil à conjuntura política da época, que é o início da República.",
+      "steps": [
+        "Identificar o período histórico: final do século XIX e início do século XX, coincidindo com a República Velha no Brasil.",
+        "Observar que o texto destaca a introdução acelerada de tecnologias modernas como luz elétrica, telégrafo, telefone, cinematógrafo, trens elétricos, automóveis e aeroplanos.",
+        "Relacionar essa modernização com o projeto político vigente que buscava construir uma imagem de progresso e desenvolvimento nacional.",
+        "Lembrar que a República inaugurada em 1889 buscava uma visão de nação moderna e progressista, alinhada com o avanço científico e tecnológico.",
+        "Descartar outras opções pois: imperialismo (A) está mais ligado a política externa; mercantilismo (B) é um sistema econômico antigo; laicidade da educação (C) não está diretamente relacionada às inovações tecnológicas do texto; e retomada do absolutismo (D) é contraditória com o contexto republicano e de modernização."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir o avanço tecnológico com expansão imperialista, pensando que as invenções serviram à estratégia de dominação externa.",
+        "misconceptionType": "Confusão contextual",
+        "whyItLooksPlausible": "O imperialismo esteve ligado a muitos avanços tecnológicos para a dominação colonial nas grandes potências.",
+        "whyItIsWrong": "O Brasil não estava em um processo de imperialismo externo nesse período, e o texto foca no contexto interno de modernização e política nacional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associar erroneamente o progresso tecnológico à ascensão do mercantilismo, outra fase econômica histórica.",
+        "misconceptionType": "Erro histórico",
+        "whyItLooksPlausible": "O mercantilismo envolve comércio e desenvolvimento econômico, que podem parecer ligados ao avanço tecnológico.",
+        "whyItIsWrong": "O mercantilismo é um sistema anterior aos séculos XIX e XX, e não tem relação direta com as transformações tecnológicas e políticas da República no Brasil."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a laicidade da educação é resultado direto das transformações científicas e tecnológicas mencionadas.",
+        "misconceptionType": "Confusão temática",
+        "whyItLooksPlausible": "A modernização científica pode ser confundida com processos de secularização na educação.",
+        "whyItIsWrong": "O texto não aborda diretamente a educação ou sua laicidade; a modernização citada está relacionada a invenções tecnológicas e política nacional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar que houve uma volta ao absolutismo diante das mudanças descritas.",
+        "misconceptionType": "Contradição histórica",
+        "whyItLooksPlausible": "A menção a \"certezas\" e controle tecnológico poderia ser equivocadamente associada a regimes autoritários.",
+        "whyItIsWrong": "No Brasil, o fim do século XIX marca o fim da monarquia e a instauração da república, afastando o absolutismo."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação histórica e contextualização",
+      "secondarySkills": [
+        "Análise de textos históricos",
+        "Conhecimento de história política brasileira"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento do contexto histórico brasileiro entre a República Velha e as inovações tecnológicas.",
+        "Requer associar aspectos tecnológicos a mudanças políticas e socioculturais.",
+        "Não envolve análise de gráficos ou imagens visuais, pois nenhuma foi fornecida."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 678,
+    "outputTokens": 827,
+    "estimatedCostUsd": 0.001594
+  }
+}

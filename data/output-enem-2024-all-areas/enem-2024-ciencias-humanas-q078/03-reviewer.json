@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:08:57.256Z",
+  "questionId": "enem-2024-ciencias-humanas-q078",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta pois o princípio ético conhecido como a 'Regra de Ouro' se alinha diretamente ao conceito do imperativo categórico formulado por Kant, que propõe agir segundo máximas que possam ser universalizadas, ou seja, que cada pessoa atue de modo que sua ação possa ser uma regra geral para todos.",
+        "strategy": "Identificar o princípio ético descrito no texto e relacioná-lo às teorias éticas clássicas estudadas em filosofia moral para encontrar a formulação correta que corresponda ao enunciado da 'Regra de Ouro'.",
+        "steps": [
+          "Ler atentamente o enunciado para compreender que se refere ao princípio moral: 'Trate os outros como gostaria de ser tratado'.",
+          "Reconhecer que essa formulação corresponde à ideia de universalização da ação ética.",
+          "Relacionar esta noção com o conceito filosófico do imperativo categórico de Immanuel Kant, que exige que as ações sejam feitas de acordo com máximas que possam ser universalizadas.",
+          "Analisar as demais alternativas e verificar que nenhuma corresponde a esse princípio específico.",
+          "Confirmar que a alternativa B é a que teoricamente traduz a regra de ouro segundo Kant."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A \"Regra de Ouro\", que diz \"Trate os outros como gostaria de ser tratado\", reflete o princípio do imperativo categórico de Kant, que orienta agir segundo regras que poderiam ser adotadas por todos universalmente, ou seja, agir conforme uma máxima que se possa tornar lei geral.",
+        "stepByStep": [
+          "Leia o enunciado atentamente para identificar que ele apresenta um princípio moral universal: a Regra de Ouro.",
+          "Reconheça que essa regra indica que devemos agir pensando se nossa ação poderia valer para todas as pessoas, em todas as situações.",
+          "Associe essa ideia ao imperativo categórico de Kant, que propõe agir somente segundo máximas que possam ser universalizadas.",
+          "Analise as alternativas do teste, buscando aquela que traduz essa universalização da ação ética.",
+          "Verifique que a alternativa B é a que corresponde ao imperativo categórico e, portanto, à Regra de Ouro apresentada no texto."
+        ],
+        "commonPitfalls": [
+          "Confundir a regra de ouro com uma ética baseada apenas nas consequências das ações (ética teleológica ou utilitarista).",
+          "Achar que o princípio depende do resultado ou da satisfação pessoal, enquanto ele é fundamentado na ideia de universalização do dever.",
+          "Não reconhecer o contexto filosófico e tentarem associar a regra a conceitos que soam similares, mas são diferentes, como raciocínio consequencialista.",
+          "Desconhecer a terminologia filosófica correta e descartar o imperativo categórico, que é o fundamento central da Regra de Ouro."
+        ],
+        "teachingTips": [
+          "Apresente a Regra de Ouro em exemplos práticos do cotidiano para facilitar a compreensão.",
+          "Explique as diferenças entre ética deontológica (como o imperativo categórico) e ética teleológica/consequencialista (como o utilitarismo).",
+          "Utilize esquemas que mostram o conceito de universalização da ação para facilitar a visualização da ideia de Kant.",
+          "Estimule os alunos a relacionar princípios morais com conceitos filosóficos estudados, fortalecendo a capacidade de associação conceitual.",
+          "Reforce o uso da leitura atenta do enunciado para identificar elementos-chave que direcionam à resposta correta."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer correta porque 'doutrina teleológica' se relaciona com análise das consequências das ações, e o texto fala de princípios morais.",
+          "misconceptionType": "Confusão conceitual entre tipos de ética (teleológica versus deontológica).",
+          "whyItLooksPlausible": "Parece que a regra de ouro avalia as ações pelo resultado (como em teleologia).",
+          "whyItIsWrong": "A regra de ouro não se baseia no resultado das ações, mas no princípio universalizável, que é deontológico."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensamento utilitarista é conhecido e relacionado a princípios éticos, pode confundir pois utilitarismo também avalia ações pelo impacto.",
+          "misconceptionType": "Confusão com ética consequencialista.",
+          "whyItLooksPlausible": "Utilitarismo é uma ética popular que avalia ações pelo benefício geral, o que pode parecer semelhante à regra de ouro.",
+          "whyItIsWrong": "Regra de ouro enfatiza agir conforme princípio universal, não somente o cálculo das consequências."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Termo complexo pode causar confusão, sendo descartado ou escolhido por desconhecimento.",
+          "misconceptionType": "Falta de conhecimento da terminologia específica.",
+          "whyItLooksPlausible": "O termo tem ar sofisticado, podendo parecer uma teoria ética avançada.",
+          "whyItIsWrong": "'Secularização inautêntica' não é um conceito ético relacionado a regras morais universais."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode ser confundido com o imperativo categórico, já que se fala em raciocínio ligado a consequências.",
+          "misconceptionType": "Confusão entre raciocínio consequencialista e imperativo categórico.",
+          "whyItLooksPlausible": "Ambos envolvem análise moral e podem soar parecidos para quem não domina filosofia ética.",
+          "whyItIsWrong": "Imperativo categórico é uma ética deontológica, não consequencialista; a regra de ouro corresponde a ele e não a raciocínio consequencialista."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de conceitos filosóficos e morais",
+        "secondarySkills": [
+          "Identificação de conceitos éticos fundamentais",
+          "Raciocínio crítico sobre teorias filosóficas"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão exige conhecimento específico em filosofia moral.",
+          "Não há apoio visual para a questão.",
+          "Confunde teorias éticas distintas: deontologia (imperativo categórico) vs. teleologia/ consequencialismo."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧠",
+        "shortThemeTitle": "Princípio Ético da Regra de Ouro",
+        "interpretationIntro": "O enunciado apresenta um princípio ético fundamental e universalmente conhecido, chamado Regra de Ouro, e solicita a identificação da formulação teórica que melhor o represente.",
+        "commandTerms": [
+          {
+            "term": "Princípio Ético",
+            "explanation": "Regra ou norma que orienta o comportamento moral humano."
+          },
+          {
+            "term": "Regra de Ouro",
+            "explanation": "Principio moral que determina tratar os outros como gostaríamos de ser tratados."
+          },
+          {
+            "term": "Imperativo Categórico",
+            "explanation": "Conceito kantiano de agir segundo máxima universalizável."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar, entre as alternativas apresentadas, aquela que teoricamente traduz o princípio ético da Regra de Ouro descrita no texto, relacionando-o aos conceitos de filosofia moral.",
+        "strategyParagraph": "A estratégia consiste em compreender o significado da Regra de Ouro e associá-la às principais correntes éticas. É essencial reconhecer que esse princípio está alinhado ao conceito kantiano do imperativo categórico, que propõe que as ações sejam guiadas por máximas que possam ser universalizadas. A partir dessa compreensão, deve-se analisar as alternativas para indicar a que melhor corresponde à teoria apresentada no enunciado.",
+        "reviewTable": [
+          {
+            "concept": "Regra de Ouro",
+            "keyIdea": "Tratar os outros como gostaria de ser tratado.",
+            "application": "Princípio moral universal presente em diversas religiões e filosofias."
+          },
+          {
+            "concept": "Imperativo Categórico (Kant)",
+            "keyIdea": "Agir segundo máximas que possam ser leis universais.",
+            "application": "Base filosófica da Regra de Ouro, fundamentando ação ética deontológica."
+          },
+          {
+            "concept": "Ética Deontológica",
+            "keyIdea": "Juízo moral baseado no dever e regras universais, não nas consequências.",
+            "application": "Corrente ética à qual pertence o imperativo categórico e a Regra de Ouro."
+          }
+        ],
+        "theoryParagraphs": [
+          "A Regra de Ouro é um princípio universal encontrado em praticamente todas as tradições religiosas e que orienta a conduta ética básica: tratar os outros como se quer ser tratado.",
+          "Immanuel Kant formulou o imperativo categórico, conceito central da ética deontológica, que estabelece que as ações devem ser realizadas segundo máximas que possam ser elevadas à condição de leis universais, ou seja, que possam valer para todos indistintamente.",
+          "A Regra de Ouro expressa essa universalidade do dever moral, afastando-se das abordagens éticas baseadas nos resultados ou nas consequências das ações, como ocorre na ética teleológica ou utilitarista."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, observa-se que o enunciado cita o princípio moral conhecido como Regra de Ouro, que consiste em agir conforme se gostaria que os outros agissem conosco.",
+          "Compreendendo que essa regra exige uma universalização da norma moral, é possível relacioná-la ao imperativo categórico formulado por Kant, que direciona que as ações sejam tomadas segundo máximas que poderiam ser ampliadas para regras gerais, aplicadas a todos.",
+          "Ao analisar as alternativas propostas, verifica-se que a alternativa B é a única que retrata a ética deontológica de Kant, alinhada ao conceito de universalização do dever, e corresponde exatamente à formulação teórica solicitada pela questão.",
+          "As demais opções apresentam confusões conceituais ou conceitos não relacionados diretamente à regra de ouro, como ética teleológica, utilitarismo ou terminologias não éticas, e por isso são incorretas."
+        ],
+        "puloDoGato": "Lembre que a Regra de Ouro é uma ética deontológica, centrada no dever universal, não nas consequências das ações.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora a doutrina teleológica avalie ações pelos seus resultados, a Regra de Ouro não se trata disso, mas sim da universalização do dever, característica da ética deontológica."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "A alternativa B está correta pois identifica o imperativo categórico de Kant como a formulação teórica da Regra de Ouro, baseada na ideia de agir conforme máximas universalizáveis."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O utilitarismo avalia as ações considerando suas consequências para o maior prazer ou benefício, o que difere da Regra de Ouro, que se fundamenta na universalizabilidade das máximas."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "O termo 'secularização inautêntica' não corresponde a nenhum princípio ético relacionado à Regra de Ouro, carecendo de fundamentação filosófica para esta questão."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Raciocínio consequencialista baseia-se nas consequências para avaliar ações, enquanto o imperativo categórico, que é deontológico, corresponde à Regra de Ouro; essa alternativa confunde esses conceitos."
+          }
+        ],
+        "questionCode": "CIENCIAS_HUMANAS_FILOSOFIA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução apresenta coerência entre enunciado, análise técnica e explicação didática. A alternativa correta (B) está bem fundamentada, e todas as distractoras são comentadas clarificando as razões de seu equívoco. As seções obedecem aos critérios editoriais do ENEM, com linguagem clara e estruturada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2697,
+    "outputTokens": 2411,
+    "estimatedCostUsd": 0.004936
+  }
+}

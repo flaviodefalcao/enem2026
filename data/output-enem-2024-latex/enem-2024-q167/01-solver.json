@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:42:31.008Z",
+  "questionId": "enem-2024-q167",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "1,3",
+      "correctnessClaim": "A resposta correta é 1,3 polegadas, que corresponde à alternativa D.",
+      "strategy": "Converter as medidas das telas dos celulares para números decimais, calcular a diferença absoluta entre esses valores, e arredondar o resultado com uma casa decimal.",
+      "steps": [
+        "Converter a medida da tela do celular 1 de fração mista para decimal: 3 1/2 = 3 + 0,5 = 3,5 polegadas.",
+        "Converter a medida da tela do celular 2 de fração mista para decimal: 4 5/6 = 4 + 5/6 ≈ 4 + 0,8333 = 4,8333 polegadas.",
+        "Calcular a diferença absoluta entre as medidas: |4,8333 - 3,5| = 1,3333.",
+        "Arredondar o resultado para uma casa decimal: 1,3 polegadas."
+      ],
+      "formulasUsed": [
+        "Diferença absoluta = |medida do celular 2 - medida do celular 1|"
+      ],
+      "visualEvidenceUsed": [
+        "As imagens dos dois celulares com suas respectivas medidas diagonais: 3 1/2 e 4 5/6 polegadas indicadas."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "0,1",
+        "likelyReasoning": "Confundir as frações e calcular uma diferença muito pequena, talvez subtraindo apenas as partes decimais.",
+        "misconceptionType": "Erro na conversão de frações para decimais",
+        "whyItLooksPlausible": "Por se tratar de uma diferença em polegadas, pode parecer que a diferença pequena é correta.",
+        "whyItIsWrong": "A diferença real é maior, dado o valor das frações mistas fornecidas."
+      },
+      {
+        "option": "0,5",
+        "likelyReasoning": "Considerar apenas um meio polegada de diferença, ignorando o valor de 5/6 na segunda medida.",
+        "misconceptionType": "Ignorar adequadamente o valor da fração maior",
+        "whyItLooksPlausible": "Metade de polegada é uma medida comum para diferenças pequenas em tamanho.",
+        "whyItIsWrong": "O segundo valor é bem maior que 3 1/2, portanto a diferença é maior que 0,5."
+      },
+      {
+        "option": "1,0",
+        "likelyReasoning": "Arredondar a diferença para o número inteiro mais próximo sem considerar o arredondamento correto para uma casa decimal.",
+        "misconceptionType": "Arredondamento inadequado",
+        "whyItLooksPlausible": "Diferenciar números próximos, como 1,3 para 1,0 pode parecer uma simplificação razoável.",
+        "whyItIsWrong": "O enunciado pede uma casa decimal correta, e a diferença exata é 1,3."
+      },
+      {
+        "option": "1,8",
+        "likelyReasoning": "Somar os valores ao invés de subtrair ou interpretar mal a fração 5/6 como maior que realmente é.",
+        "misconceptionType": "Erro de operação ou interpretação da fração",
+        "whyItLooksPlausible": "1,8 é uma diferença grande que algumas pessoas podem considerar visualmente correta pela disparidade dos tamanhos.",
+        "whyItIsWrong": "O cálculo correto da diferença absoluta não produz esse valor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Operações com frações e números decimais",
+      "secondarySkills": [
+        "Conversão de frações mistas em decimais",
+        "Cálculo de diferença absoluta",
+        "Arredondamento numérico"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Requer interpretar medidas em fração mista apresentadas visualmente.",
+        "Necessita interpretação do símbolo de polegadas e leitura atenta das frações.",
+        "É um exercício típico para reforçar conversão entre fração e decimal e calcular diferenças."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1310,
+    "outputTokens": 807,
+    "estimatedCostUsd": 0.001815
+  }
+}

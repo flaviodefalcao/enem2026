@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:10:02.349Z",
+  "questionId": "enem-2024-ciencias-humanas-q080",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os textos mostram como as novelas brasileiras tiveram grande influência cultural na Rússia e em Angola, aproximando esses países por meio da incorporação de costumes e comportamentos vistos na teledramaturgia brasileira.",
+      "stepByStep": [
+        "Leia atentamente o Texto I, observando o impacto das novelas brasileiras na Rússia na década de 1980, destacando a recepção e a influência social.",
+        "Leia o Texto II e identifique que as novelas brasileiras também influenciaram fortemente Angola, influenciando inclusive moda e comportamento.",
+        "Compare o que os dois textos revelam sobre essa influência para identificar um aspecto comum que aproxima os dois países.",
+        "Analise as alternativas procurando aquela que melhor represente essa aproximação cultural, especialmente ligada à influência das novelas.",
+        "Descarta alternativas que tratem de aspectos econômicos, geográficos, antropológicos ou políticos não evidenciados nos textos.",
+        "Conclua que a alternativa que aponta a aproximação cultural por meio da subjetivação dos costumes das novelas brasileiras é a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir influência cultural com relações econômicas ou políticas citadas nos textos.",
+        "Interpretação equivocada da aproximação como redução de distância geográfica, quando o texto aborda laços culturais.",
+        "Generalizar a influência cultural como adaptação antropológica de valores tradicionais sem base textual.",
+        "Relacionar menção ao Parlamento e República a aspectos políticos, quando a questão focaliza o impacto cultural."
+      ],
+      "teachingTips": [
+        "Estimule a leitura crítica dos textos para identificar a ideia central antes de analisar as alternativas.",
+        "Oriente os alunos a relacionarem informações dos textos com cada alternativa para descartar as incorretas.",
+        "Trabalhe a diferença entre aspectos culturais e outros (econômicos, políticos, geográficos) para evitar confusões.",
+        "Use exemplos de outras situações onde produtos culturais aproximam países para reforçar o conceito de influência cultural.",
+        "Enfatize a importância de interpretar o sentido das ações culturais mencionadas, não apenas fatos isolados."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1473,
+    "outputTokens": 404,
+    "estimatedCostUsd": 0.001236
+  }
+}

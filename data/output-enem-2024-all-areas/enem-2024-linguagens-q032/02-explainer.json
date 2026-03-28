@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:31:12.454Z",
+  "questionId": "enem-2024-linguagens-q032",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O trecho transmite uma sensibilidade lírica focada no afeto e no cuidado mútuo entre a narradora e Marília, mesmo diante das dificuldades físicas. Isso fica claro nas pequenas ações que revelam carinho e na valorização da presença e da força no relacionamento.",
+      "stepByStep": [
+        "Leia o trecho atentamente, percebendo as descrições do cotidiano e as sensações que a narradora expressa.",
+        "Note as atitudes de Marília, como ajudar com o andador e cobrir a narradora com a manta, que evidenciam cuidado.",
+        "Observe as emoções implícitas, especialmente na frase que revela como a narradora interpreta o gesto de carinho mesmo na certa força brusca.",
+        "Analise as alternativas oferecidas, buscando qual delas enfatiza o afeto e a sensibilidade entre as personagens.",
+        "Escolha a alternativa que melhor representa a atmosfera de cuidado e ligação emocional presente no texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar o foco do texto apenas nas limitações físicas ou na necessidade de adaptações no espaço.",
+        "Concluir que o trecho enfatiza somente a dependência física da narradora sem perceber a força do vínculo afetivo.",
+        "Desconsiderar o tom lírico e emocional, focando apenas em aspectos práticos e literais da narrativa.",
+        "Confundir a expressão de carinho com simples descrição de ações e perder o sentido simbólico do cuidado."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar o tom geral do texto, perguntando que sentimento ele transmite.",
+        "Peça para destacarem frases que evidenciem emoções e relações entre personagens.",
+        "Trabalhe a importância de ler além do literal, compreendendo nuances de sentimentos por meio de ações cotidianas.",
+        "Utilize questionamentos que direcionem os alunos a relacionar emoções com as escolhas narrativas do texto.",
+        "Incentive a análise comparativa das alternativas, refletindo sobre o que cada uma implica em relação ao texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1436,
+    "outputTokens": 393,
+    "estimatedCostUsd": 0.001203
+  }
+}

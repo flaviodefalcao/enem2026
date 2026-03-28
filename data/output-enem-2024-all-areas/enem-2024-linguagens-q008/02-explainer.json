@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:45:51.855Z",
+  "questionId": "enem-2024-linguagens-q008",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os instrumentos musicais mencionados no texto, apesar de terem origens comuns em Portugal, sofreram adaptações ao chegarem a diferentes regiões como o Brasil e o Havaí, desenvolvendo características próprias e formando novas identidades culturais.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar as origens dos instrumentos (cavaquinho minhoto, machete e ukulele).",
+        "Observe que o cavaquinho chega ao Brasil e ganha formato maior e caixa de ressonância mais funda, indicando adaptação.",
+        "Note que o ukulele tem origem nos instrumentos portugueses trazidos para o Havaí, mostrando transformação cultural.",
+        "Entenda que, embora relacionados, esses instrumentos assumem diferentes características conforme o contexto cultural em que são incorporados.",
+        "Conclua que os instrumentos ilustram um processo de adaptação e formação de novas identidades culturais, confirmando a alternativa correta."
+      ],
+      "commonPitfalls": [
+        "Interpretar que os instrumentos dependem da matéria-prima europeia, embora o texto não mencione isso.",
+        "Achar que a origem portuguesa implica exclusividade ou hegemonia na criação desses instrumentos.",
+        "Confundir adaptação cultural com dominação ou choque cultural, inferindo conflitos inexistentes no texto.",
+        "Associar a manutenção do nome dos instrumentos à ausência de mudanças em suas características."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a relacionarem a informação textual com contextos culturais e históricos para melhor compreensão.",
+        "Trabalhe a diferença entre origem e adaptação cultural para evitar interpretações literais excessivas.",
+        "Explique a importância da transformação cultural na criação de novas identidades a partir de elementos comuns.",
+        "Utilize exemplos similares de outras manifestações culturais para reforçar o conceito de adaptação e identidade cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1350,
+    "outputTokens": 352,
+    "estimatedCostUsd": 0.001103
+  }
+}

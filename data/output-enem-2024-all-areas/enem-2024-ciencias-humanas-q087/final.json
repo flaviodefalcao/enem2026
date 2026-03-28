@@ -1,0 +1,195 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q087",
+  "generatedAt": "2026-03-28T01:18:05.406Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 786,
+      "outputTokens": 729,
+      "estimatedCostUsd": 0.001481
+    },
+    "explainer": {
+      "inputTokens": 1424,
+      "outputTokens": 329,
+      "estimatedCostUsd": 0.001096
+    },
+    "reviewer": {
+      "inputTokens": 2677,
+      "outputTokens": 1980,
+      "estimatedCostUsd": 0.004239
+    },
+    "totalEstimatedCostUsd": 0.006816
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque o texto enfatiza que o poder público deve ser exercido pela coletividade dos cidadãos, ou seja, por todos, configurando a ideia de soberania popular.",
+      "strategy": "Ler atentamente o texto para identificar o conceito político central que sustenta o exercício do poder segundo a definição democrática apresentada.",
+      "steps": [
+        "Ler o enunciado atentamente, entendendo que a democracia responde a quem deve exercer o poder público.",
+        "Identificar que o texto diz que o poder público deve ser exercido pela coletividade dos cidadãos, ou seja, todos devem mandar e intervir nos fatos sociais.",
+        "Reconhecer que esta ideia corresponde ao conceito de soberania popular, onde o poder emana do povo e é exercido por ele coletivo.",
+        "Analisar as alternativas para verificar qual corresponde ao conceito identificado.",
+        "Confirmar que a alternativa A (Soberania popular) corresponde corretamente ao conceito identificado no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Não há imagens relacionadas diretamente ao conteúdo da questão que influenciem a solução."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A democracia afirma que o poder deve ser exercido por todos os cidadãos coletivamente, conceito que é conhecido como soberania popular.",
+      "stepByStep": [
+        "Leia o enunciado com atenção para entender que ele pergunta quem deve exercer o poder público na democracia.",
+        "Observe que o texto diz que o poder público é exercido pela coletividade dos cidadãos, ou seja, por todos.",
+        "Reconheça que essa ideia é a definição de soberania popular, onde o poder político vem do povo e é exercido por ele.",
+        "Analise as alternativas para identificar qual delas corresponde a esse conceito.",
+        "Verifique que a alternativa A, 'Soberania popular', é a que melhor representa o que o texto explica."
+      ],
+      "commonPitfalls": [
+        "Confundir soberania popular com divisão de classes, pensando que o poder depende das classes sociais.",
+        "Associar o poder à posse de capital ou riqueza econômica, que não é o foco do texto.",
+        "Considerar que a defesa da propriedade é a base do poder, quando o texto fala da coletividade cidadã.",
+        "Pensar que o exercício do poder está ligado à centralização administrativa, mas o texto enfatiza o poder coletivo."
+      ],
+      "teachingTips": [
+        "Explique o conceito de soberania popular para que os alunos entendam que é o povo quem deve exercer o poder.",
+        "Faça com que os alunos identifiquem no texto as palavras-chave que indicam coletividade e participação geral.",
+        "Incentive a comparação entre os conceitos das alternativas para evitar confusões conceituais.",
+        "Use exemplos históricos e atuais para ilustrar a soberania popular e sua importância na democracia."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o conceito de poder social com a divisão de classes na sociedade, pensando que o poder deriva da estrutura de classes.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Como a divisão de classes é um tema comum em discussões políticas, pode parecer que o poder público seja baseado nisso.",
+        "whyItIsWrong": "O texto não menciona classes sociais, mas a coletividade como base do exercício do poder."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar o exercício do poder à força econômica, ou seja, o acúmulo de capital como a base do poder político.",
+        "misconceptionType": "Redução econômica do poder",
+        "whyItLooksPlausible": "O capital influencia bastante a política, levando a crer que a democracia deve estar baseada nisso.",
+        "whyItIsWrong": "O texto destaca a coletividade dos cidadãos, não uma base econômica ou material para o exercício do poder."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que a proteção da propriedade é a base do poder público na democracia.",
+        "misconceptionType": "Generalização equivocada",
+        "whyItLooksPlausible": "Propriedade é frequentemente associada a regras e poder.",
+        "whyItIsWrong": "O enunciado não trata da propriedade, mas do exercício do poder pelos cidadãos coletivamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que o poder centralizado e administrado é a base da autoridade política.",
+        "misconceptionType": "Confusão entre centralização administrativa e exercício democrático do poder",
+        "whyItLooksPlausible": "Muitos relacionam poder a estruturas administrativas centrais.",
+        "whyItIsWrong": "O texto ressalta o exercício coletivo do poder, oposto à centralização estrita."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto político-filosófico",
+      "secondarySkills": [
+        "Conhecimento em teoria política",
+        "Análise crítica",
+        "Raciocínio conceitual"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretação de texto para identificar conceitos políticos importantes.",
+        "Não há necessidade de cálculo ou conhecimento matemático.",
+        "A imagem presente no enunciado é apenas referência bibliográfica e não contribui para a solução.",
+        "Exige entendimento da ideia de soberania popular para responder corretamente."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🗳️",
+      "shortThemeTitle": "Soberania popular na democracia",
+      "interpretationIntro": "A questão solicita que identifiquemos o princípio fundamental que sustenta o exercício do poder público segundo uma concepção democrática expressa no texto.",
+      "commandTerms": [
+        {
+          "term": "Exercer o poder público",
+          "explanation": "Atuar no espaço político, tomando decisões e governando em nome da sociedade."
+        },
+        {
+          "term": "Coletividade dos cidadãos",
+          "explanation": "Conjunto dos indivíduos que formam a sociedade política, participando do poder em comum."
+        },
+        {
+          "term": "Soberania popular",
+          "explanation": "Princípio que afirma que o poder político emana do povo, que o exerce direta ou indiretamente."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão cobra o reconhecimento do conceito político que sustenta o poder público segundo a ideia democrática do texto, ou seja, quem deve mandar e como esse poder é legitimado.",
+      "strategyParagraph": "Para responder, é necessário interpretar o texto atentamente, destacando que o poder público deve ser exercido pela coletividade dos cidadãos. Isso leva ao conceito de soberania popular, que afirma que o poder emana do povo. Em seguida, devem ser analisadas as alternativas para selecionar aquela que melhor representa esse princípio.",
+      "reviewTable": [
+        {
+          "concept": "Soberania popular",
+          "keyIdea": "O poder político é exercido pelo povo coletivamente.",
+          "application": "O texto ensina que na democracia todos devem mandar e participar do poder público."
+        },
+        {
+          "concept": "Divisão de classes",
+          "keyIdea": "Separação da sociedade em grupos sociais distintos.",
+          "application": "Não mencionada pelo texto, não sustenta o exercício do poder."
+        },
+        {
+          "concept": "Centralização administrativa",
+          "keyIdea": "Concentração do poder em uma autoridade central.",
+          "application": "Contraria a ideia do texto sobre o poder coletivo."
+        }
+      ],
+      "theoryParagraphs": [
+        "A soberania popular é um dos pilares fundamentais da democracia, indicando que o poder político deve emanar do povo e ser exercido por ele, direta ou indiretamente, através de representantes eleitos.",
+        "O texto enfatiza esse princípio ao afirmar que o exercício do poder deve corresponder à coletividade dos cidadãos, ou seja, a todos, reforçando a participação ampla na tomada de decisões.",
+        "Diferentes concepções podem apresentar o poder baseado em outras estruturas, como classes sociais ou centralização, mas o que define a democracia, conforme o texto, é a soberania popular."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado apresenta um texto que define a democracia como o regime em que o poder público é exercido pela coletividade dos cidadãos, sem mencionar extensão ou centralização do poder.",
+        "Ao entender que o texto destaca a coletividade dos cidadãos como sujeitos que mandam e intervêm nos fatos sociais, reconhecemos a ideia política de soberania popular.",
+        "Analisando as alternativas, somente a opção A corresponde a essa definição clara do texto.",
+        "Assim, o caminho para a resposta é compreender que o exercício do poder público numa democracia, segundo o texto, é sustentado pela soberania popular."
+      ],
+      "puloDoGato": "Identifique as palavras-chave que indicam o exercício do poder pela coletividade para reconhecer imediatamente a soberania popular.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Correta. Reflete o conceito de soberania popular, onde o poder público é exercido por todos os cidadãos."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta. Divisão de classes não é mencionada no texto nem fundamenta o poder público na democracia."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta. O acúmulo de capital não é apresentado como base do poder no texto."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta. Defesa da propriedade não é o conceito central discutido no texto."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta. Centralização administrativa contraria a ideia de poder exercido pela coletividade."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_POLITICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e consistentes. A resposta correta está clara e justificada, e as alternativas são bem analisadas. A resolução oficial segue a estrutura editorial requerida, trazendo clareza, didática e concisão. Não foram detectadas inconsistências ou problemas relevantes.",
+      "issues": []
+    }
+  }
+}

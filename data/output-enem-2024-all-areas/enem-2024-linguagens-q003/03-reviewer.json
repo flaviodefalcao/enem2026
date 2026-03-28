@@ -1,0 +1,190 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T23:42:10.548Z",
+  "questionId": "enem-2024-linguagens-q003",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta pois a imagem utiliza a metáfora visual de um programa de computador deletando arquivos para simbolizar a destruição rápida da natureza, exemplificada pela remoção progressiva das árvores e o indicador temporal. Isso representa um alerta claro sobre a perda ambiental acelerada, que é a mensagem principal da questão.",
+        "strategy": "Interpretar a imagem observando os elementos visuais que relacionam a exclusão de arquivos com a destruição natural, compreender o significado simbólico do progresso de exclusão e do tempo estimado restante, e analisar as alternativas para identificar qual representa essa mensagem de alerta.",
+        "steps": [
+          "Observar a imagem com a barra de progresso '70% Deleted' associada a ícones de árvores, e um galho morto no final para representar destruição.",
+          "Interpretar o texto 'Estimated time left: 2 decades' como indicador do tempo para a remoção total, sugerindo rapidez na destruição.",
+          "Entender que essa metáfora visual relaciona comandos de computador com a destruição da natureza.",
+          "Examinar cada alternativa para verificar se estão alinhadas com essa mensagem de alerta.",
+          "Descartar alternativas que abordam apenas passagem do tempo, avanços tecnológicos, orientações de uso sustentável ou crescimento das árvores.",
+          "Confirmar que a alternativa A, que traz o alerta sobre a rápida destruição da natureza, corresponde à ideia central da imagem."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Barra de progresso com 70% de exclusão indicando perda progressiva.",
+          "Ícones de árvores que desaparecem e terminam em um galho morto.",
+          "Texto '2 decades' indicando tempo estimado para completar o processo."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A imagem usa a metáfora da exclusão de arquivos para alertar sobre a rápida destruição da natureza, mostrando uma perda progressiva representada pela remoção de árvores.",
+        "stepByStep": [
+          "Verifique a barra de progresso com a indicação '70% Deleted' aplicada a símbolos de árvores desaparecendo.",
+          "Note o aviso de tempo restante para a exclusão completa ('2 decades'), indicando rapidez.",
+          "Relacione tudo como uma metáfora de alerta ambiental sobre a destruição da natureza.",
+          "Leia e descarte alternativas que não correspondam a essa ideia central.",
+          "Escolha a alternativa que aponta o alerta para a rápida destruição da natureza."
+        ],
+        "commonPitfalls": [
+          "Confundir o tempo mostrado como simples passagem do tempo, sem perceber a metáfora de destruição.",
+          "Interpretar o uso dos elementos tecnológicos como algo positivo, em vez de metáfora crítica.",
+          "Achar que a imagem promove uso sustentável quando ela mostra destruição.",
+          "Interpretar o tempo da imagem como crescimento das árvores, não sua destruição."
+        ],
+        "teachingTips": [
+          "Explique o conceito de metáfora visual e como símbolos tecnológicos podem ser usados para criticar problemas ambientais.",
+          "Peça para os alunos descreverem a imagem antes de ler o enunciado para estimular interpretação visual.",
+          "Discutir a importância de contextos e textos na compreensão de imagens.",
+          "Incentive a leitura crítica das alternativas para focar na mensagem central.",
+          "Use outras metáforas visuais para praticar interpretação crítica."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "As pessoas podem interpretar a indicação de '2 décadas' como uma referência à passagem do tempo em geral.",
+          "misconceptionType": "Foco equivocado no tempo mostrado, sem relacioná-lo à destruição.",
+          "whyItLooksPlausible": "Presença clara do elemento temporal na imagem.",
+          "whyItIsWrong": "O tempo mostra estimativa de remoção, não mera passagem do tempo."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Associar o tema computacional da imagem a avanços tecnológicos positivos na agricultura.",
+          "misconceptionType": "Interpretação literal e otimista do tema tecnológico.",
+          "whyItLooksPlausible": "Uso de interface de computador e árvores pode sugerir tecnologia benéfica.",
+          "whyItIsWrong": "A imagem denuncia perda ambiental, não avanços tecnológicos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que a imagem instrui sobre práticas sustentáveis com tecnologia.",
+          "misconceptionType": "Superinterpretação do simbolismo tecnológico.",
+          "whyItLooksPlausible": "Uso de elementos tecnológicos pode sugerir instrução ou orientação.",
+          "whyItIsWrong": "A imagem destaca destruição, não práticas sustentáveis."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Interpretar o tempo mostrado como relacionado ao crescimento natural das árvores.",
+          "misconceptionType": "Leitura literal do elemento temporal sem considerar o contexto visual.",
+          "whyItLooksPlausible": "Tempo pode ser confundido com períodos naturais de crescimento.",
+          "whyItIsWrong": "Contexto da imagem é remoção rápida, não crescimento vegetal."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise crítica de textos e imagens",
+        "secondarySkills": [
+          "Leitura de elementos visuais",
+          "Raciocínio inferencial"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão exige interpretação de metáfora visual aliando elementos tecnológicos e ambientais.",
+          "A imagem simula uma interface de computador para sinalizar alerta ambiental.",
+          "É preciso associar elementos gráficos ao significado implícito da imagem."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌳",
+        "shortThemeTitle": "Metáfora Visual e Alerta Ambiental",
+        "interpretationIntro": "O enunciado solicita compreender a relação estabelecida entre elementos da natureza e comandos de computador na imagem apresentada.",
+        "commandTerms": [
+          {
+            "term": "Metáfora visual",
+            "explanation": "Uso de elementos gráficos para representar ideias simbólicas."
+          },
+          {
+            "term": "Barra de progresso",
+            "explanation": "Indicador visual que mostra avanço ou retrocesso em uma tarefa."
+          },
+          {
+            "term": "Alerta ambiental",
+            "explanation": "Mensagem que visa chamar atenção para questões ambientais urgentes."
+          }
+        ],
+        "whatTheQuestionAsks": "O que a imagem simboliza ao relacionar elementos naturais com comandos de computador?",
+        "strategyParagraph": "Para responder, veja como a imagem utiliza a interface de um programa para deletar arquivos, substituindo arquivos por árvores e mostrando a remoção progressiva delas com um indicador temporal. Essa analogia sinaliza a destruição rápida da natureza, uma mensagem crítica que deve ser reconhecida e relacionada às alternativas apresentadas.",
+        "reviewTable": [
+          {
+            "concept": "Metáfora visual",
+            "keyIdea": "Usar símbolos visuais para representar conceitos abstratos.",
+            "application": "A imagem usa a exclusão de arquivos para simbolizar a destruição da natureza."
+          },
+          {
+            "concept": "Interpretação textual e visual",
+            "keyIdea": "Analisar texto e imagem juntos para compreender a mensagem.",
+            "application": "O texto '70% Deleted' e '2 decades' reforça a mensagem visual da perda ambiental."
+          },
+          {
+            "concept": "Pensamento crítico",
+            "keyIdea": "Distinguir intenções simbólicas das literais nas imagens.",
+            "application": "Entender que tecnologia aqui é metáfora crítica, não avanço positivo."
+          }
+        ],
+        "theoryParagraphs": [
+          "A metáfora visual é uma técnica que utiliza símbolos gráficos para representar conceitos abstratos ou críticas sociais, facilitando a compreensão e o impacto da mensagem.",
+          "Neste caso, a imagem simula a interface de um programa de computador que exclui arquivos, substituindo esses arquivos por árvores que desaparecem progressivamente, simbolizando a rápida destruição da natureza.",
+          "O uso do indicador temporal de '2 décadas' reforça a urgência do problema ambiental representado, destacando como a tecnologia pode servir de metáfora para denunciar questões do mundo real."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, observa-se que a imagem mostra uma barra de progresso típica de exclusão de arquivos, mas com ícones de árvores que desaparecem até restar apenas um galho morto.",
+          "O texto '70% Deleted' indica que grande parte da 'natureza' já foi removida, e o tempo estimado para completar a exclusão é de '2 décadas', chamando a atenção para a rapidez da destruição.",
+          "Essa analogia conecta comandos de computador com a perda ambiental, sinalizando um alerta crítico sobre a destruição acelerada da natureza.",
+          "Analisando as alternativas, verifica-se que apenas a alternativa A reflete esse alerta direto sobre a rápida destruição, enquanto as demais abordam temas como passagem do tempo, avanço tecnológico ou sustentabilidade, que não condizem com a mensagem principal da imagem.",
+          "Portanto, a alternativa A é a correta, pois reconhece a intenção alertar as pessoas sobre a rápida destruição da natureza, que é a ideia central da metáfora criada."
+        ],
+        "puloDoGato": "Entenda que a imagem não é literal: os comandos de computador simbolizam a destruição ambiental rápida e programada.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta. Essa alternativa traduz com fidelidade a mensagem da imagem, que alerta para a rápida destruição da natureza por meio da metáfora do computador."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada. Embora mencione o tempo, a alternativa confunde passagem do tempo com o processo de destruição representado na imagem."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada. Interpreta o uso tecnológico como um avanço, quando, na verdade, a metáfora denuncia a perda ambiental."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errada. A imagem não oferece orientações para uso sustentável, mas sim evidencia a rápida remoção da natureza."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada. O tempo indicado não se refere ao crescimento das árvores, mas ao tempo estimado para sua destruição."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LINGUAGENS_MULTIMODAL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, análise técnica e explicação didática estão consistentes e alinhados, apresentando coerência entre a questão, solução e explicação. A resolução está clara e bem estruturada conforme o padrão exigido.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3156,
+    "outputTokens": 2052,
+    "estimatedCostUsd": 0.004546
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:20:51.095Z",
+  "questionId": "enem-2024-linguagens-q021",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Multiculturalismo e identidade",
+    "rationale": "A questão aborda a arte plumária indígena e sua função cultural, relacionando os adornos à identidade social e cosmológica dos povos indígenas, o que está diretamente ligado ao tema 'Artes e produção cultural' e ao subtema 'Multiculturalismo e identidade', pois trata da diversidade artística e das relações culturais expressas na manifestação artística indígena.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1777,
+    "outputTokens": 97,
+    "estimatedCostUsd": 0.000866
+  }
+}

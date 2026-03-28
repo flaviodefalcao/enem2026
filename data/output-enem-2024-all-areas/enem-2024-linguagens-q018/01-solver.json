@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:10:10.414Z",
+  "questionId": "enem-2024-linguagens-q018",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o texto destaca a influência dos determinantes socioeconômicos (como baixa renda) na dificuldade de manter a prática de exercícios físicos durante a pandemia, refletindo uma análise crítica ampliada da saúde.",
+      "strategy": "Ler atentamente o texto, identificar suas ideias principais e relacioná-las ao tema da saúde sob uma perspectiva abrangente, avaliando cada alternativa para verificar qual sintetiza melhor essa conexão.",
+      "steps": [
+        "Analisar que o texto discute os efeitos da pandemia na saúde mental e na atividade física.",
+        "Identificar que famílias de baixa renda foram mais afetadas no ciclo da falta de motivação e sedentarismo.",
+        "Reconhecer que o texto menciona a influência de fatores socioeconômicos na prática de atividades físicas.",
+        "Observar que o texto compara zonas urbanas e rurais quanto às oportunidades para atividade física.",
+        "Avaliar as alternativas e verificar qual aborda essa relação crítica entre condicionantes sociais e saúde."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode pensar que o foco é apenas na busca dos espaços para exercícios, pois o texto menciona a diminuição de espaços seguros.",
+        "misconceptionType": "redução do foco temático",
+        "whyItLooksPlausible": "O texto aborda a diminuição de espaços para exercícios durante a pandemia.",
+        "whyItIsWrong": "O problema não é apenas a busca por espaços, mas a influência socioeconômica na manutenção da atividade física."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que o texto enfatiza a relação entre atividade física e equilíbrio emocional.",
+        "misconceptionType": "foco parcial",
+        "whyItLooksPlausible": "O texto fala que pessoas ativas têm melhor saúde mental.",
+        "whyItIsWrong": "Não é só sobre equilíbrio emocional, mas sim uma análise ampliada envolvendo determinantes sociais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se entender que a questão central seja o distanciamento social e sua relação com a atividade física.",
+        "misconceptionType": "êxtese do tema",
+        "whyItLooksPlausible": "O texto cita a necessidade do distanciamento social e sua consequência na redução de espaços para exercícios.",
+        "whyItIsWrong": "O distanciamento é um fator, mas o foco ampliado no texto é a relação com o contexto socioeconômico."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O leitor pode pensar que o texto destaca benefícios de viver em áreas rurais para a saúde mental.",
+        "misconceptionType": "interpretação seletiva",
+        "whyItLooksPlausible": "O texto indica que residentes rurais têm mais facilidade para manter atividades físicas.",
+        "whyItIsWrong": "Não destaca especificamente estabilidade psicológica, e sim as condições de prática de exercícios associadas a determinantes socioeconômicos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual crítica",
+      "secondarySkills": [
+        "Análise de relação causa-efeito",
+        "Compreensão de determinantes sociais da saúde"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão crítica da relação entre determinantes socioeconômicos e saúde.",
+        "Está dentro da área de linguagens, privilegiando a interpretação de texto.",
+        "Não há imagens associadas com conteúdo relevante para a resolução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 776,
+    "outputTokens": 703,
+    "estimatedCostUsd": 0.001435
+  }
+}

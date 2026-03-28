@@ -1,0 +1,172 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 177 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Uma empresa produz mochilas escolares sob encomenda. O custo total de produção é composto por um custo fixo, que não depende do número de mochilas, e um custo variável, proporcional à quantidade produzida. O custo total cresce de forma linear. A tabela abaixo apresenta o custo total para três quantidades distintas de mochilas produzidas.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+  \hline
+  \rowcolor{pink}
+  \textbf{Quantidade de mochilas} & 30 & 50 & 100 \\
+  \hline
+  \textbf{Custo total (R\$)} & 1050,00 & 1650,00 & 3150,00 \\
+  \hline
+\end{tabular}
+\end{center}
+
+O custo total para produzir 80 mochilas será solicitado.
+
+\section*{Solução Técnica}
+
+Considere que o custo total $C$ em reais depende da quantidade de mochilas produzidas $x$ segundo uma função linear:
+
+\[
+C = ax + b,
+\]
+
+onde $a$ representa o custo variável por mochila e $b$ o custo fixo.
+
+\textbf{Passos:}
+\begin{enumerate}
+  \item Dados os pontos $(x, C)$ da tabela: (30, 1050), (50, 1650) e (100, 3150).
+  \item Calcule o coeficiente angular $a$ com os pontos $(30,1050)$ e $(50,1650)$:
+  \[
+  a = \frac{1650 - 1050}{50 - 30} = \frac{600}{20} = 30.
+  \]
+  \item Encontre o custo fixo $b$ usando o ponto $(30, 1050)$:
+  \[
+  1050 = 30 \times 30 + b \implies 1050 = 900 + b \implies b = 150.
+  \]
+  \item Portanto, a função do custo total é:
+  \[
+  C = 30x + 150.
+  \]
+  \item Calcule o custo para $x=80$ mochilas:
+  \[
+  C = 30 \times 80 + 150 = 2400 + 150 = 2550.
+  \]
+\end{enumerate}
+
+\textbf{Resposta:} O custo total para a produção de 80 mochilas será \textbf{R\$ 2\,550,00}.
+
+\section*{Fórmulas Utilizadas}
+
+\begin{itemize}
+  \item Função linear do custo total:
+  \[
+  C = ax + b,
+  \]
+  onde $C$ é o custo total, $x$ a quantidade produzida, $a$ o custo variável por unidade, e $b$ o custo fixo.
+
+  \item Coeficiente angular (taxa de variação):
+  \[
+  a = \frac{C_2 - C_1}{x_2 - x_1}.
+  \]
+\end{itemize}
+
+\section*{Evidência Visual Utilizada}
+
+A tabela fornecida apresenta os seguintes dados importantes para a formulação da função linear:
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+  \hline
+  \rowcolor{pink}
+  \textbf{Quantidade de mochilas} & 30 & 50 & 100 \\
+  \hline
+  \textbf{Custo total (R\$)} & 1050,00 & 1650,00 & 3150,00 \\
+  \hline
+\end{tabular}
+\end{center}
+
+\section*{Explicação Didática}
+
+\subsection*{Resumo}
+
+Esta questão trabalha o conceito de função linear para modelar o custo total de produção, que é a soma de um custo fixo e de um custo variável proporcional à quantidade produzida. A partir dos dados da tabela, construímos a função e depois a utilizamos para calcular um custo intermediário.
+
+\subsection*{Passo a Passo}
+
+\begin{enumerate}
+  \item Observe os pontos dados na tabela: (30, 1050), (50, 1650), (100, 3150).
+  \item Identifique que $C = ax + b$, uma função linear, descreve o custo total.
+  \item Calcule o coeficiente angular:
+  \[
+  a = \frac{1650 - 1050}{50 - 30} = 30,
+  \]
+  ou seja, cada mochila custa R\$30 adicionais.
+  \item Determine o custo fixo $b$ usando um ponto da tabela:
+  \[
+  1050 = 30 \times 30 + b \Rightarrow b = 150.
+  \]
+  \item A função é então:
+  \[
+  C = 30x + 150.
+  \]
+  \item Calcule para 80 mochilas:
+  \[
+  C = 30 \times 80 + 150 = 2\,550.
+  \]
+  \item Portanto, o custo para 80 mochilas é R\$2\,550,00.
+\end{enumerate}
+
+\subsection*{Erros Comuns}
+
+\begin{itemize}
+  \item Ignorar o custo fixo e multiplicar apenas o custo variável.
+  \item Calcular errado o coeficiente angular.
+  \item Confundir o custo fixo com a taxa de variação.
+  \item Interpretação incorreta da tabela.
+  \item Usar média simples sem modelar com função.
+\end{itemize}
+
+\subsection*{Dicas para Ensino}
+
+\begin{itemize}
+  \item Demonstre a diferença entre custos fixos e variáveis.
+  \item Ensine a calcular taxa de variação e formação da função linear.
+  \item Explore tabelas e gráficos para visualização.
+  \item Pratique exercícios de interpolação e extrapolação.
+\end{itemize}
+
+\section*{Distratores}
+
+\begin{itemize}
+  \item \textbf{R\$2\,400,00} - Multiplicar apenas custo variável $30\times 80$ e esquecer o custo fixo.
+  \item \textbf{R\$2\,520,00} - Erro no cálculo do coeficiente angular ou cálculo do custo fixo.
+  \item \textbf{R\$2\,700,00} - Confusão na interpretação dos pontos e proporções.
+  \item \textbf{R\$2\,800,00} - Erro de soma ou interpretação incorreta dos dados da tabela.
+\end{itemize}
+
+\section*{Perfil do Item}
+
+\textbf{Habilidade Primária:} Modelagem e interpretação de funções lineares.
+
+\textbf{Habilidades Secundárias:}
+\begin{itemize}
+  \item Cálculo do coeficiente angular.
+  \item Interpretação de tabelas.
+  \item Aplicação prática da matemática.
+\end{itemize}
+
+\textbf{Demanda Cognitiva:} Média.
+
+\textbf{Dificuldade:} Média.
+
+\textbf{Requisitos: Visualização, modelagem e cálculo.}
+
+\textbf{Notas:}
+\begin{itemize}
+  \item Entender custo fixo e variável.
+  \item Interpretar dados tabelados.
+  \item Calcular coeficiente angular e aplicar substituição.
+\end{itemize}
+
+\end{document}

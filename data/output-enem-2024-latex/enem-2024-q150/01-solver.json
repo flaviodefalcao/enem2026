@@ -1,0 +1,91 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:30:22.729Z",
+  "questionId": "enem-2024-q150",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta pois resulta no menor custo total das colunas considerando a quantidade mínima necessária e o preço unitário.",
+      "strategy": "Determinar o número mínimo de colunas necessárias para dividir a sala sem que os vãos entre as colunas ou entre as colunas e paredes ultrapassem 15 cm. Depois calcular o custo total para cada loja multiplicando o número de colunas pelo preço unitário das colunas de cada loja. Comparar os custos e escolher aquele com menor valor.",
+      "steps": [
+        "Identificar a dimensão paralela à linha das colunas como 3 metros (300 cm).",
+        "Cada círculo representa a base da coluna, com um raio dado por loja.",
+        "O centro das colunas está alinhado numa reta paralela ao lado menor da sala, ou seja, as colunas ficam espaçadas ao longo da distância de 6 metros.",
+        "Para que os vãos entre as colunas e entre as colunas e as paredes não ultrapassem 15 cm, a distância entre duas colunas consecutivas deve ser no máximo 30 cm (15 cm + 15 cm).",
+        "A largura total da sala é 3 m (300 cm), e as colunas devem estar dispostas nessa dimensão para dividir a sala.",
+        "A visualização e dado do esquema mostra as colunas alinhadas horizontalmente ao longo de 3 m dividindo a sala em duas.",
+        "Para cada loja, calcular o número mínimo de colunas necessárias para que os vãos (distância entre bordas das colunas) não ultrapassem 15 cm.",
+        "O diâmetro de cada coluna é 2 vezes o raio dado.",
+        "A distância mínima entre colunas (de centro a centro) é diâmetro da coluna + 30 cm (porque o vão máximo é 15 cm entre bordas de colunas).",
+        "Calcular quantas colunas cabem no comprimento de 3 m de acordo com essa distância mínima entre centros.",
+        "Calcular o custo total multiplicando o número de colunas pelo preço unitário da loja.",
+        "Comparar os custos obtidos para as cinco lojas e escolher a menor.",
+        "A loja III, com raio 12 cm e preço por unidade de R$ 75, oferece o menor custo total."
+      ],
+      "formulasUsed": [
+        "Distância mínima entre centros = 2 * raio + 30 cm (vãos máximos de 15 cm em cada lado)",
+        "Número mínimo de colunas = ceil(300 cm / distância mínima entre centros)"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem do piso da sala mostrando a disposição das colunas na linha paralela ao lado menor da sala de 3m.",
+        "Tabela com os raios e preços das colunas por loja."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Considerou o menor raio (5 cm) e preço baixo, mas não calculou que muitas colunas seriam necessárias, aumentando o custo total.",
+        "misconceptionType": "Erro de contagem ou cálculo da quantidade de colunas necessárias.",
+        "whyItLooksPlausible": "Tem um preço unitário baixo, dando a impressão de menor custo total.",
+        "whyItIsWrong": "O número elevado de colunas, devido ao pequeno raio, eleva o custo total, excedendo outras opções."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Escolheu o preço unitário mais baixo dentre os maiores raios, pode ter ignorado a quantidade exata de colunas necessárias.",
+        "misconceptionType": "Ignorar que a quantidade depende da medida e espaçamento.",
+        "whyItLooksPlausible": "Preço por unidade relativamente baixo e tamanho razoável para menos colunas.",
+        "whyItIsWrong": "O cálculo total dos custos é maior que a alternativa C."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Optou por coluna com maior tamanho entre as de preço alto, achando que reduziria número de colunas.",
+        "misconceptionType": "Não computar preço unitário proporcionalmente maior e erro na avaliação custo-benefício.",
+        "whyItLooksPlausible": "Colunas maiores implicam menos unidades necessárias.",
+        "whyItIsWrong": "Preço unitário elevado supera benefício do menor número de colunas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Selecionou a coluna com maior raio e maior preço, talvez supondo menos unidades e assim menor custo total.",
+        "misconceptionType": "Ignorar impacto do preço unitário muito alto no total.",
+        "whyItLooksPlausible": "Redução na quantidade das colunas pela maior dimensão, justificando suposto menor custo.",
+        "whyItIsWrong": "Preço unitário muito alto torna o custo total maior, mesmo com menos colunas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo e raciocínio proporcional",
+      "secondarySkills": [
+        "Geometria",
+        "Análise de tabelas",
+        "Planejamento e estratégia de compra"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar o esquema da sala com as colunas e relacionar com as medidas e limites de espaçamento.",
+        "Requer cálculo da quantidade mínima de colunas necessária considerando as restrições.",
+        "Comparar múltiplos valores para decisão de menor custo final."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1209,
+    "outputTokens": 1066,
+    "estimatedCostUsd": 0.002189
+  }
+}

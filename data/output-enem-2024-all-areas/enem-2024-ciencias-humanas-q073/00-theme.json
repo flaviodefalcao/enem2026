@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:02:51.027Z",
+  "questionId": "enem-2024-ciencias-humanas-q073",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Patrimônio cultural",
+    "rationale": "O enunciado trata da produção artística das capas dos folhetos de cordel, uma manifestação típica da cultura popular nordestina, destacando a técnica de xilogravura e a importância dos artesãos locais. Isso evidencia o patrimônio cultural material e imaterial, relacionada à expressão artística e cultural de uma comunidade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 926,
+    "outputTokens": 89,
+    "estimatedCostUsd": 0.000513
+  }
+}

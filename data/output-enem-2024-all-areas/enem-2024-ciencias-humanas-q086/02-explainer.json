@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:16:35.635Z",
+  "questionId": "enem-2024-ciencias-humanas-q086",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As imagens de satélite de Dubai mostram mudança significativa entre 2000 e 2020, com a construção de ilhas artificiais no mar, indicando um processo de artificialização do espaço geográfico.",
+      "stepByStep": [
+        "Observe a imagem de satélite de Dubai em 2000 e identifique que a maior parte do litoral está em seu estado natural, com poucos sinais de intervenção humana no mar.",
+        "Observe a imagem de satélite de Dubai em 2020 e note as ilhas artificiais construídas no mar, como as Ilhas Palmeira, que mudam totalmente a configuração da costa.",
+        "Compare as duas imagens e constate que essas mudanças são causadas por ações humanas, como a construção e modificação do ambiente natural.",
+        "Analise as alternativas apresentadas no enunciado e escolha aquela que melhor descreve esse processo de transformação, no caso, a artificialização do espaço geográfico. "
+      ],
+      "commonPitfalls": [
+        "Confundir a artificialização com preservação ou conservação ambiental, que indica proteção da área, não transformação.",
+        "Pensar que há aumento de desertificação, quando na verdade há expansão de áreas construídas artificialmente.",
+        "Interpretar mudanças físicas no território como alterações de fronteiras políticas, o que não é o caso aqui.",
+        "Associar as alterações às mudanças climáticas globais, quando são intervenções humanas locais específicas."
+      ],
+      "teachingTips": [
+        "Use imagens comparativas para demonstrar como o espaço geográfico pode ser transformado por ações humanas.",
+        "Explore exemplos reais de artificialização, explicando seu impacto ambiental e territorial.",
+        "Incentive os alunos a identificar diferença entre processos naturais e intervenções humanas no espaço geográfico.",
+        "Relacione a questão com conceitos de urbanização e desenvolvimento territorial para contextualizar a transformação observada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2239,
+    "outputTokens": 360,
+    "estimatedCostUsd": 0.001472
+  }
+}

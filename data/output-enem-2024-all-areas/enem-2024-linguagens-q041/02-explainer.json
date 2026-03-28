@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:38:37.883Z",
+  "questionId": "enem-2024-linguagens-q041",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca sinais importantes para a detecção do câncer de mama em homens, como caroços e retração na pele, que são essenciais para identificar a doença precocemente e combater o problema de forma eficaz.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o tema principal: câncer de mama masculino.",
+        "Observe que o texto aponta fatores e sinais importantes para identificar a doença.",
+        "Entenda que o objetivo do texto é alertar para os sinais que facilitam a detecção precoce.",
+        "Compare as alternativas e verifique qual delas está mais alinhada com essa ideia central.",
+        "Identifique que a alternativa A corresponde aos sinais que ajudam na detecção e no combate ao câncer de mama masculino.",
+        "Elimine as demais, pois não refletem o foco principal do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir números absolutos com índices de crescimento, levando a escolher opções que falam sobre taxas erradas.",
+        "Interpretar sintomas listados como métodos diagnósticos, confundindo sinais com exames.",
+        "Focar apenas na menção ao Outubro Rosa e achar que a conscientização do mês é o principal alerta do texto.",
+        "Compreender a menção à genética como um mito, e não como fator de risco ou alerta.",
+        "Não perceber que o texto enfatiza a importância da identificação dos sinais para o combate à doença."
+      ],
+      "teachingTips": [
+        "Enfatize a leitura cuidadosa para compreender o enfoque do texto, diferenciando dados principais de informações secundárias.",
+        "Trabalhe a distinção entre sintomas, sinais clínicos e métodos de diagnóstico.",
+        "Use exemplos de mitos comuns para esclarecer diferenças entre informações corretas e falsas no contexto da saúde.",
+        "Promova atividades que desenvolvam a habilidade de identificar a ideia central em textos informativos.",
+        "Estimule o debate sobre a importância da conscientização tanto para mulheres quanto para homens em relação ao câncer de mama."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1345,
+    "outputTokens": 379,
+    "estimatedCostUsd": 0.001144
+  }
+}

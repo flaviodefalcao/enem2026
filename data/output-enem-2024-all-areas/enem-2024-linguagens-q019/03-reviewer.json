@@ -1,0 +1,190 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:11:35.218Z",
+  "questionId": "enem-2024-linguagens-q019",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta porque o texto apresenta um contraste entre a personagem Sancha, negra, em condições precárias e explorada, e a narradora, que vive em conforto. Essa oposição evidencia a exploração da força de trabalho da população negra no cenário pós-abolição.",
+        "strategy": "Realizar análise textual focando no conteúdo social e histórico, identificando elementos que indicam a crítica da narradora à condição da população negra, principalmente da personagem Sancha, para associar com o contexto pós-abolição e a exploração trabalhista.",
+        "steps": [
+          "Ler atentamente o fragmento para identificar o contexto social e histórico.",
+          "Observar os personagens retratados: a narradora em conforto, Sancha em miséria.",
+          "Identificar a crítica social implícita na comparação entre as duas personagens.",
+          "Relacionar essa crítica com o cenário histórico do Brasil pós-abolição, quando a população negra sofreu exploração laboral mesmo após a liberdade oficial.",
+          "Avaliar as opções de resposta, eliminando as que não se conectam diretamente com o tema da exploração da força de trabalho da população negra.",
+          "Selecionar a alternativa D como aquela que melhor expressa o olhar crítico da narradora."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto do romance destaca o contraste entre a vida confortável da narradora e a de Sancha, uma jovem negra em condições muito precárias, evidenciando uma crítica social à exploração da força de trabalho da população negra no Brasil pós-abolição.",
+        "stepByStep": [
+          "Leia o fragmento atentamente, identificando os personagens e suas condições de vida.",
+          "Note que a narradora vive em conforto enquanto Sancha vive em miséria e sofrimento.",
+          "Observe como o texto mostra um contraste forte entre essas duas realidades.",
+          "Perceba que essa comparação implica uma crítica social sobre desigualdade e exploração.",
+          "Relacione essa crítica com o contexto histórico do Brasil pós-abolição, quando muitos negros foram libertados da escravidão, mas continuaram em situação de exploração.",
+          "Com base nisso, identifique que a questão aborda a crítica da exploração da força de trabalho da população negra no período pós-abolição."
+        ],
+        "commonPitfalls": [
+          "Interpretar que o foco da crítica é a arte ou a produção artística mencionada no texto, o que não é o tema central.",
+          "Confundir a análise com aspectos relacionados apenas à pobreza ou condições de moradia, sem perceber a dimensão da exploração social e racial.",
+          "Achar que o texto trata da emancipação política feminina, quando o foco é a questão racial e social.",
+          "Generalizar o conflito social como uma disputa entre brancos e negros, sem observar que o foco está na exploração da população negra.",
+          "Ignorar o contexto histórico, o que dificulta compreender a crítica social presente no texto."
+        ],
+        "teachingTips": [
+          "Apresente aos alunos o contexto histórico do Brasil no pós-abolição para fundamentar a leitura do texto.",
+          "Incentive a leitura cuidadosa do fragmento, destacando as diferenças entre as personagens para perceber o contraste social.",
+          "Explique a importância da análise crítica em textos literários, conectando elementos da narrativa ao cenário social.",
+          "Use questionamentos que levem os alunos a refletirem sobre desigualdade social e racial presentes no texto.",
+          "Mostre como eliminar alternativas incorretas ao identificar o tema central, ajudando no desenvolvimento da habilidade de interpretação crítica."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer correta por mencionar 'mulheres' e 'arte', mas o texto não aborda a produção artística ou desvalorização da arte por mulheres.",
+          "misconceptionType": "Interpretação errônea do tema central",
+          "whyItLooksPlausible": "O texto fala de uma 'doida aspiração da artista incipiente', que pode levar a pensar em questões artísticas relacionadas a mulheres.",
+          "whyItIsWrong": "O foco principal do texto é a desigualdade social e exploração, não a arte produzia por mulheres."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode ser escolhida pela menção às condições de Sancha, feminina e negra, vivendo em situação precária.",
+          "misconceptionType": "Foco limitado em aspectos superficiais do texto",
+          "whyItLooksPlausible": "O texto descreve a pobreza e situação de moradia de Sancha.",
+          "whyItIsWrong": "O texto enfatiza mais a exploração do trabalho do que mudanças habitacionais específicas."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A alternativa pode parecer plausível por mencionar emancipação feminina e a personagem feminina da narrativa.",
+          "misconceptionType": "Confusão entre temas femininos e sociais raciais",
+          "whyItLooksPlausible": "Há personagens femininas, mas não há discussão explícita sobre projeto político de emancipação feminina.",
+          "whyItIsWrong": "O tema central é a exploração pós-abolição, não a emancipação política das mulheres."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "É uma interpretação possível pelo cenário do século XIX e menção a brancos e negros.",
+          "misconceptionType": "Generalização indevida do conflito social",
+          "whyItLooksPlausible": "A tensão racial é um pano de fundo implícito no período histórico citado.",
+          "whyItIsWrong": "O texto não aborda disputa de poder entre brancos e negros, mas sim a exploração da população negra."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual crítica",
+        "secondarySkills": [
+          "Contextualização histórica",
+          "Análise social",
+          "Compreensão de texto narrativo"
+        ],
+        "cognitiveDemand": "Alto",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige conhecimento do contexto histórico do Brasil pós-abolição.",
+          "Exige leitura detalhada e análise crítica do texto.",
+          "Não utiliza elementos visuais para a solução."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Crítica social pós-abolição",
+        "interpretationIntro": "A questão apresenta um fragmento literário cuja análise requer a compreensão do olhar crítico da narradora sobre as condições sociais específicas do contexto brasileiro após a abolição da escravatura.",
+        "commandTerms": [
+          {
+            "term": "Análise textual",
+            "explanation": "Examinar o conteúdo do texto para compreender sua mensagem e implicações."
+          },
+          {
+            "term": "Contextualização histórica",
+            "explanation": "Relacionar o texto ao período histórico do Brasil pós-abolição para entender suas críticas."
+          },
+          {
+            "term": "Contraste",
+            "explanation": "Identificar a oposição entre as condições de vida das personagens para revelar crítica social."
+          }
+        ],
+        "whatTheQuestionAsks": "Interpretar o olhar crítico expresso pela narradora no fragmento em relação à situação social da população negra no Brasil pós-abolição, evidenciando a exploração da força de trabalho nessa época.",
+        "strategyParagraph": "Para resolver a questão, deve-se ler atentamente o fragmento, observando os personagens e o cenário descrito, identificando o contraste entre a vida confortável da narradora e a dura realidade da jovem Sancha. Reconhece-se que essa oposição expressa uma crítica social relacionada ao contexto histórico do pós-abolição, quando a população negra, embora livre, continuava a ser submetida a condições precárias e exploração trabalhista. Ao conectar esses elementos ao enunciado e analisar as alternativas, encontra-se a resposta correta que melhor traduz essa crítica presente no texto.",
+        "reviewTable": [
+          {
+            "concept": "Contexto histórico pós-abolição",
+            "keyIdea": "Libertação formal da escravidão não resultou em igualdade social para a população negra.",
+            "application": "O texto evidencia que, embora livre, Sancha sofre exploração e miséria."
+          },
+          {
+            "concept": "Análise textual",
+            "keyIdea": "O contraste entre personagens revela crítica social.",
+            "application": "Comparação entre vida confortável da narradora e vida sofrida de Sancha expõe desigualdade."
+          },
+          {
+            "concept": "Crítica social",
+            "keyIdea": "Exposição das condições injustas e exploração da força de trabalho negra.",
+            "application": "Narradora questiona o direito de poucos desfrutarem privilégios enquanto outros são explorados."
+          }
+        ],
+        "theoryParagraphs": [
+          "No Brasil pós-abolição, apesar do fim legal da escravidão em 1888, muitos negros continuaram enfrentando desigualdade social e exploração econômica. A falta de políticas públicas adequadas perpetuou condições precárias para essa população, tornando a liberdade formal pouco efetiva na prática.",
+          "Na literatura desse período, autores frequentemente utilizavam personagens e narrativas para denunciar essas injustiças e evidenciar as contradições sociais. A oposição entre personagens em condições muito distintas serve como recurso para expor críticas ao sistema social.",
+          "A análise literária exige que se observe não apenas os elementos narrativos, mas também o contexto histórico e social para captar a profundidade da mensagem crítica presente no texto."
+        ],
+        "resolutionParagraphs": [
+          "O fragmento do romance apresenta a narradora, que vive em conforto e satisfação das necessidades, contraposta à jovem Sancha, negra e submetida a uma vida de miséria e exploração laboral.",
+          "Essa oposição revela a percepção da narradora sobre desigualdade e o contraste marcante entre diferentes realidades sociais no Brasil pós-abolição.",
+          "A narradora expressa um questionamento moral e social: por que alguns teriam direito a todos os privilégios enquanto outros vivem sob sofrimento e exploração?",
+          "Esse questionamento evidencia um olhar crítico sobre a exploração da força de trabalho da população negra no período.",
+          "Dessa forma, a alternativa que melhor captura essa crítica social e histórica expressa no texto é a alternativa D.",
+          "As demais alternativas falham ao não considerar esse aspecto central, seja desviando para temas de arte, pobreza isolada, emancipação feminina ou conflito racial generalizado."
+        ],
+        "puloDoGato": "Identifique o contraste social no texto e conecte-o ao contexto pós-abolição para entender a crítica sobre exploração da população negra.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar da menção a uma 'aspiração da artista incipiente', o foco do texto não é a desvalorização da arte produzida por mulheres, mas sim a crítica social à exploração e desigualdade."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Embora descreva condições precárias, o texto enfatiza a exploração do trabalho e desigualdade social mais amplamente, não apenas mudanças habitacionais."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Não há discussão explícita de um projeto político de emancipação feminina, então essa alternativa não corresponde ao tema central do texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta. O texto evidencia a exploração da força de trabalho da população negra no contexto brasileiro pós-abolição, demonstrando o olhar crítico da narradora por meio do contraste entre ela e Sancha."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O texto não aborda uma disputa direta de poder entre brancos e negros, mas sim a exploração social da população negra, que vai além de conflitos raciais tradicionais."
+          }
+        ],
+        "questionCode": "LINGUAGENS_CRITICA_SOCIAL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solver e explainer apresentam coerência plena. A resolução técnica e didática estão alinhadas, detalhando corretamente o tema da crítica social no contexto pós-abolição. A estrutura do officialResolution cumpre todos os requisitos editoriais demandados e esclarece adequadamente as alternativas, com justificativas pertinentes para as incorretas e correta identificação da alternativa D.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2845,
+    "outputTokens": 2358,
+    "estimatedCostUsd": 0.004911
+  }
+}

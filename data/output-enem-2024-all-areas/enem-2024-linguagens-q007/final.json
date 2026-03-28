@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-linguagens-q007",
+  "generatedAt": "2026-03-27T23:45:30.593Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 870,
+      "outputTokens": 695,
+      "estimatedCostUsd": 0.00146
+    },
+    "explainer": {
+      "inputTokens": 1432,
+      "outputTokens": 386,
+      "estimatedCostUsd": 0.00119
+    },
+    "reviewer": {
+      "inputTokens": 2745,
+      "outputTokens": 1994,
+      "estimatedCostUsd": 0.004288
+    },
+    "totalEstimatedCostUsd": 0.006938
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque o texto ressalta a trajetória profissional das atletas paralímpicas brasileiras, focando em suas histórias de vida, as modalidades esportivas praticadas, mudanças e conquistas ao longo da carreira.",
+      "strategy": "Compreender o objetivo do texto e das mini-biografias apresentadas, identificando qual alternativa melhor sintetiza o propósito geral do conjunto das informações fornecidas.",
+      "steps": [
+        "Ler atentamente as mini-biografias das três atletas.",
+        "Identificar o foco principal das narrativas, que são suas trajetórias esportivas e adaptação a diferentes modalidades paralímpicas.",
+        "Analisar cada alternativa para verificar qual melhor descreve o objetivo do texto.",
+        "Descartar alternativas que não correspondem ao conteúdo ou ao propósito do texto, como descrições de rotinas, comparações de desempenho, indicações de categorias ou incentivo geral à participação feminina.",
+        "Concluir que o texto visa destacar a trajetória profissional das atletas mencionadas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta mini-biografias de atletas paralímpicas brasileiras destacando suas trajetórias esportivas, as mudanças de modalidade e suas conquistas ao longo da carreira, com o propósito de mostrar suas histórias profissionais.",
+      "stepByStep": [
+        "Leia atentamente todas as mini-biografias para compreender o que é destacado nas narrativas.",
+        "Identifique o foco principal do texto: a trajetória profissional das atletas, as modalidades que praticaram e as conquistas obtidas.",
+        "Observe que o texto não detalha rotinas de treino, nem faz comparações diretas de desempenho entre as atletas.",
+        "Analise cada alternativa de resposta e elimine as que não correspondem ao objetivo do texto considerado.",
+        "Conclua que a alternativa correta é a que ressalta a trajetória profissional e as mudanças de modalidade das atletas ao longo do tempo."
+      ],
+      "commonPitfalls": [
+        "Confundir a descrição das modalidades e conquistas com rotinas de treinamento detalhadas.",
+        "Acreditar que o texto compara os desempenhos das atletas entre si, quando na verdade cada história é individual.",
+        "Pensar que o texto indica categorias adaptadas, embora apresente diferentes modalidades paralímpicas.",
+        "Interpretar a narrativa como um estímulo direto à participação feminina no esporte, o que não é o foco declarado.",
+        "Desconsiderar o contexto biográfico e focar apenas em dados isolados como medalhas e recordes."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o objetivo geral do texto antes de analisar as alternativas.",
+        "Trabalhe com eles a distinção entre relatos biográficos e textos descritivos ou comparativos.",
+        "Explique a importância de eliminar alternativas incorretas por análise do conteúdo e não apenas pela aparência inicial.",
+        "Promova a leitura atenta e a releitura para melhor compreensão das informações implícitas.",
+        "Utilize perguntas guiadas para ajudar na identificação dos elementos que compõem a finalidade do texto."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode confundir a descrição das modalidades e conquistas com rotinas de treinamento específicas das atletas.",
+        "misconceptionType": "Interpretação textual incorreta",
+        "whyItLooksPlausible": "O texto menciona diversas modalidades praticadas e conquistas, dando a impressão de que detalha o treinamento.",
+        "whyItIsWrong": "O texto não descreve rotinas de treino, mas sim trajetória e mudanças de modalidade ao longo da carreira."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que o texto compara desempenhos pelo destaque das medalhas e recordes citados.",
+        "misconceptionType": "Foco interpretativo inadequado",
+        "whyItLooksPlausible": "Há menção a títulos e recordes que sugerem comparação de rendimento.",
+        "whyItIsWrong": "Não há uma comparação direta entre as atletas ou seus desempenhos; foca cada história individualmente."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O texto apresenta diversas modalidades paralímpicas, o que pode levar à ideia de estar sugerindo categorias adaptadas.",
+        "misconceptionType": "Generalização incorreta",
+        "whyItLooksPlausible": "Apresenta várias modalidades, o que pode ser confundido com uma indicação de categorias.",
+        "whyItIsWrong": "Não há indicação ou recomendação sobre as categorias, apenas relatos das mudanças de modalidade."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O destaque para atletas femininas e conquistas em campeonatos internacionais pode ser interpretado como um estímulo à participação feminina.",
+        "misconceptionType": "Inferência excessiva",
+        "whyItLooksPlausible": "As atletas ganharam medalhas internacionais, o que pode sugerir encorajamento.",
+        "whyItIsWrong": "O texto não faz um apelo ou estímulo direto; é apenas biográfico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de texto",
+      "secondarySkills": [
+        "Interpretação de biografias",
+        "Identificação do propósito textual"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto contém narrativas biográficas de atletas paralímpicas brasileiras.",
+        "Necessita distinguir entre diferentes tipos de propósitos textuais.",
+        "As opções de resposta são semelhantes e requerem discriminação cuidadosa."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🏅",
+      "shortThemeTitle": "Trajetórias de atletas paralímpicas e mudança de modalidades",
+      "interpretationIntro": "O comando solicita identificar o propósito do conjunto de mini-biografias de atletas paralímpicas brasileiras apresentadas no texto.",
+      "commandTerms": [
+        {
+          "term": "Propósito",
+          "explanation": "Finalidade ou objetivo principal do texto."
+        },
+        {
+          "term": "Mini-biografia",
+          "explanation": "Relato breve sobre a vida e trajetória de uma pessoa."
+        },
+        {
+          "term": "Modalidade esportiva",
+          "explanation": "Diferentes esportes ou categorias dentro do esporte."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão quer que o leitor compreenda e interprete o objetivo geral das mini-biografias, ou seja, o que o conjunto das informações pretende mostrar.",
+      "strategyParagraph": "Para responder, deve-se ler atentamente as mini-biografias, identificando o foco principal das narrativas e relacionando com as alternativas de resposta. Eliminar opções que não condizem com o texto e confirmar aquela que melhor traduz o propósito geral do conjunto.",
+      "reviewTable": [
+        {
+          "concept": "Propósito do texto",
+          "keyIdea": "Identificar o objetivo principal do texto",
+          "application": "Reconhecer que o texto destaca trajetórias profissionais e mudanças de modalidade das atletas."
+        },
+        {
+          "concept": "Interpretação de biografia",
+          "keyIdea": "Compreender relatos resumidos da vida de alguém",
+          "application": "Entender as informações sobre as modalidades praticadas e conquistas das atletas."
+        },
+        {
+          "concept": "Análise crítica de alternativas",
+          "keyIdea": "Comparar opções para verificar adequação ao texto",
+          "application": "Eliminar respostas que interpretam o texto de modo incorreto, como rotina ou comparações diretas."
+        }
+      ],
+      "theoryParagraphs": [
+        "Textos biográficos, mesmo que breves, têm como objetivo transmitir aspectos essenciais da vida ou carreira de uma pessoa, focando em fatos relevantes e marcantes.",
+        "Em textos de interpretação, é fundamental identificar o objetivo ou propósito para escolher a alternativa correta, diferenciando o que está explícito e o que é inferência indevida.",
+        "A análise cuidadosa do texto, somada à comparação crítica das alternativas, é técnica essencial para uma boa compreensão e escolha da resposta correta."
+      ],
+      "resolutionParagraphs": [
+        "Primeiro, lemos as mini-biografias das três atletas para entender o que o texto destaca: suas trajetórias, mudanças de modalidade e conquistas no esporte paralímpico.",
+        "Observamos que o texto não detalha suas rotinas de treinamento, nem faz comparações diretas entre elas, tampouco indica categorias adaptadas ou faz um apelo direto à participação feminina.",
+        "Ao analisar as alternativas, eliminamos as que indicam propósitos diferentes, como descrição de rotina (A), comparação de desempenho (B), indicação de categorias adaptadas (D), e estímulo à participação feminina (E).",
+        "Resta a alternativa C, que corresponde ao propósito real do texto: ressaltar a trajetória profissional, as mudanças de modalidade esportiva e as conquistas dessas atletas paralímpicas brasileiras."
+      ],
+      "puloDoGato": "Foque no objetivo geral do texto: as trajetórias profissionais e mudanças de modalidade, não nos detalhes ou inferências extras.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Falsa porque o texto não detalha rotinas de treinamento, mas foca na trajetória e mudanças de modalidade."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Falsa pois o texto não compara desempenho entre atletas, apenas conta histórias individuais."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Correta porque sintetiza exatamente o propósito do texto: mostrar a trajetória profissional e mudança de modalidades das atletas."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Falsa por não indicar nem sugerir categorias adaptadas, apenas relata as modalidades praticadas."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Falsa porque não há um estímulo ou apelo direto à participação feminina, apenas biografias informativas."
+        }
+      ],
+      "questionCode": "LIGUAGENS_BI_ANALISETEXTO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está coerente com o enunciado, solver e explainer. Todas as seções do template oficial foram plenamente atendidas e consistem em uma resolução didática, clara e escaneável. Os comentários às alternativas explicam claramente por que são incorretas ou correta. Não foram detectados erros ou incoerências.",
+      "issues": []
+    }
+  }
+}

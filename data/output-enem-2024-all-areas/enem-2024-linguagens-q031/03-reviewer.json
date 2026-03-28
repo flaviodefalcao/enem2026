@@ -1,0 +1,183 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:30:54.982Z",
+  "questionId": "enem-2024-linguagens-q031",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é a correta porque o trecho demonstra a alienação da elite em relação ao fim da monarquia, evidenciada pela postura tranquila e indiferente de Flora diante das mudanças políticas iminentes, enquanto o narrador usa ironia para mostrar essa desconexão.",
+        "strategy": "Analisar o contexto do trecho para identificar o tema central e o tom utilizado pelo narrador – especialmente a ironia – para compreender a crítica implícita à elite monarquista na passagem, relacionando com as alternativas disponíveis.",
+        "steps": [
+          "Ler atentamente o trecho para captar o estado emocional e os pensamentos de Flora.",
+          "Identificar o tom do narrador, especialmente a utilização da ironia em 'Ao contrário do que ficou dito atrás, Flora não se aborreceu'.",
+          "Observar que Flora está mais envolvida na festa e em perspectivas pessoais do que em preocupações com o contexto político e social ao redor.",
+          "Notar a referência à princesa imperial e o comentário de que 'toda alma livre é imperatriz!' como um indicativo de distanciamento da realidade política e social.",
+          "Analisar as opções de resposta considerando as evidências textuais e o tom irônico, eliminando as alternativas que não correspondem ao conteúdo e ao enfoque do trecho.",
+          "Concluir que a alternativa B aborda corretamente a alienação da elite diante do fim da monarquia, elemento presente na ironia do narrador e na postura da personagem Flora."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O trecho sublinha a alienação da elite monarquista representada por Flora, que está tranquila e desligada diante do fim iminente da monarquia. O narrador usa ironia para criticar essa indiferença social, mostrando que, mesmo em momentos decisivos, a personagem se preocupa mais com a festa e a aparência do que com as transformações políticas.",
+        "stepByStep": [
+          "Leia atentamente o trecho, focando nas atitudes e pensamentos de Flora.",
+          "Identifique o tom do narrador, especialmente a ironia implícita em frases que minimizam possíveis aborrecimentos.",
+          "Observe como Flora se distrai com a festa e pensamentos pessoais, ignorando o contexto político tenso ao seu redor.",
+          "Note a referência à princesa imperial e a frase ‘Toda alma livre é imperatriz!’, que evidenciam a idealização e o distanciamento da realidade.",
+          "Relacione essas observações à situação histórica do fim da monarquia e à postura de alienação da elite ilustrada no texto.",
+          "Use essas análises para escolher a alternativa que reconhece essa crítica social através da ironia, que é a alternativa correta."
+        ],
+        "commonPitfalls": [
+          "Interpretar literalmente a fala sobre a princesa imperial como esperança no futuro regime, ignorando o tom irônico.",
+          "Focar demasiado em descrições do cenário, esquecendo a crítica social implícita.",
+          "Enxergar conflito ou animosidade entre grupos sociais sem evidência textual.",
+          "Atribuir à personagem preocupações amorosas que não aparecem no texto.",
+          "Desconsiderar o tom de ironia e considerar que Flora está genuinamente alegre e otimista."
+        ],
+        "teachingTips": [
+          "Incentive os alunos a identificar o tom do narrador e como a ironia funciona para transmitir críticas sociais.",
+          "Promova discussões sobre o contexto histórico para ampliar a compreensão do texto.",
+          "Estimule a análise das atitudes das personagens diante de mudanças sociais para entender o posicionamento ideológico.",
+          "Realce a importância de interpretar além do sentido literal, captando o subtexto e as intenções do autor.",
+          "Use exemplos de ironia em outros textos para ajudar na familiarização com esse recurso literário."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O leitor pode associar a presença da princesa imperial e referências ao futuro à ideia de esperança no futuro regime.",
+          "misconceptionType": "Interpretação literal seletiva",
+          "whyItLooksPlausible": "A fala sobre a princesa que 'viria a ser imperatriz um dia' pode sugerir expectativas futuras positivas.",
+          "whyItIsWrong": "O tom irônico e a indiferença de Flora indicam que não há otimismo, mas sim alienação, descartando a promessa de esperança."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A menção à 'cidade defronte' pode ser confundida com uma perspectiva externa e contemplativa da capital.",
+          "misconceptionType": "Foco superficial em detalhes pontuais",
+          "whyItLooksPlausible": "O trecho descreve vistas do local, o que pode sugerir uma perspectiva de contemplação distanciada.",
+          "whyItIsWrong": "O problema central não é a contemplação geográfica, mas a alienação social frente aos acontecimentos do império."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Podem interpretar a fala 'Toda alma livre é imperatriz!' como indicativa de animosidade entre grupos sociais, supondo tensão.",
+          "misconceptionType": "Leitura exagerada de metáforas",
+          "whyItLooksPlausible": "A afirmação pode ser vista como crítica social que sugere conflitos entre classes.",
+          "whyItIsWrong": "No trecho, não há evidência clara de animosidade ou conflito, mas sim de abandono passivo dos problemas políticos."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "A menção a Flora e as referências à festa podem ser interpretadas como um enfoque em fantasias amorosas da mulher burguesa.",
+          "misconceptionType": "Generalização temática",
+          "whyItLooksPlausible": "Personagens femininas em contextos sociais frequentemente evocam temas amorosos em literatura clássica.",
+          "whyItIsWrong": "O texto não apresenta foco em amor ou casamento e sim na postura social perante o contexto político, invalidando essa alternativa."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Leitura e interpretação de texto",
+        "secondarySkills": [
+          "Análise de contexto",
+          "Reconhecimento de ironia e crítica social"
+        ],
+        "cognitiveDemand": "Análise crítica e interpretação inferencial",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Texto literário com linguagem irônica.",
+          "É necessário interpretar não apenas o literal, mas também o tom e a crítica implícita.",
+          "Enfoca a análise da postura social da elite monárquica diante do fim do império."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Ironia e alienação social no texto literário",
+        "interpretationIntro": "A questão solicita a análise crítica do comportamento da personagem Flora em um contexto histórico e social particular, destacando o tom narrativo e a crítica implícita.",
+        "commandTerms": [
+          {
+            "term": "Interpretar",
+            "explanation": "Compreender o sentido profundo do texto, levando em conta o contexto e os recursos literários usados."
+          },
+          {
+            "term": "Analisar",
+            "explanation": "Examinar cuidadosamente o trecho para identificar a crítica social e o tom empregado pelo narrador."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede que se identifique o sentido da postura de Flora na festa do Império, bem como o tom irônico utilizado pelo narrador para expressar uma crítica à elite monarquista em face do iminente fim da monarquia.",
+        "strategyParagraph": "Para responder, leia atentamente o trecho, identificando as emoções e pensamentos da personagem Flora, e perceba o tom irônico do narrador. Observe como Flora está desvinculada das tensões sociais e políticas do momento, focada nos aspectos superficiais da festa. Avalie as alternativas relacionando-as com essa crítica implícita evidenciada no texto.",
+        "reviewTable": [
+          {
+            "concept": "Ironia",
+            "keyIdea": "Uso de linguagem que expressa o contrário do que se diz para criticar ou destacar uma situação.",
+            "application": "O narrador minimiza o possível aborrecimento de Flora para evidenciar sua alienação perante os eventos políticos."
+          },
+          {
+            "concept": "Alienação social",
+            "keyIdea": "Distanciamento e desinteresse de grupos sociais importantes frente a mudanças relevantes.",
+            "application": "Flora representa a elite que não se abala diante do colapso do Império, preferindo a festa e o entretenimento."
+          },
+          {
+            "concept": "Contexto histórico",
+            "keyIdea": "Entendimento do momento político e social em que a narrativa se passa para interpretar suas críticas.",
+            "application": "A festa ocorre no fim do Império brasileiro; o texto evidencia a elite que ignora a gravidade da situação."
+          }
+        ],
+        "theoryParagraphs": [
+          "O uso da ironia na literatura serve para criticar aspectos sociais ou comportamentais, invertendo o sentido literal das palavras para evidenciar uma visão crítica do autor sobre a realidade.",
+          "A alienação social é um fenômeno em que certos grupos se afastam ou ignoram os acontecimentos que impactam seu contexto social e político, demonstrando indiferença ou desinteresse diante de mudanças significativas.",
+          "Entender o contexto histórico e social é fundamental para interpretar textos literários que utilizam elementos implícitos, como ironia, para fazer críticas veladas à realidade presente na época da narrativa."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, o texto apresenta Flora como uma personagem que permanece tranquila e até desfruta da festa na Ilha Fiscal, despreocupada com os eventos políticos ao redor, o que já indica uma certa alienação.",
+          "O narrador utiliza ironia quando afirma que Flora “não se aborreceu”, contrapondo uma expectativa de aborrecimento real perante a crise social à sua indiferença evidente.",
+          "A menção à princesa imperial e a máxima “Toda alma livre é imperatriz!” reforçam o afastamento e a idealização de uma realidade distante dos conflitos e da crise, característica da elite que o texto critica.",
+          "Assim, entre as alternativas apresentadas, a que melhor representa essa análise é a alternativa B, que destaca a alienação da elite diante do fim da monarquia, como expressa no trecho e no tom irônico do narrador."
+        ],
+        "puloDoGato": "Identifique o tom irônico do narrador para perceber a crítica à alienação da elite; o literal pode enganar.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora mencione a princesa imperial com futuro promissor, o tom irônico do texto desmente qualquer ideia de esperança real, indicando alienação, e não otimismo."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta, pois captura a alienação da elite personificada por Flora e o tom irônico do narrador que critica essa desconexão diante do fim da monarquia."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Foca apenas no cenário, desconsiderando a crítica social central ao comportamento da elite perante o contexto político do trecho."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Interpreta mal a expressão, supondo conflito social direto, enquanto o trecho aponta para uma indiferença passiva, não animosidade."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada por focar em temática amorosa ausente, desviando-se do tema principal de alienação e ironia social do texto."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LITERATURA_ENEM_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e alinhados. A resolução oficial foi elaborada com base nas evidências do texto e no contexto da questão, respeitando a linguagem e a estrutura do ENEM. Todas as alternativas foram comentadas adequadamente. Não foram encontrados problemas relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2949,
+    "outputTokens": 2380,
+    "estimatedCostUsd": 0.004988
+  }
+}

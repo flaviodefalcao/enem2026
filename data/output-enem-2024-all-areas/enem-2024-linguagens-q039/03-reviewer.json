@@ -1,0 +1,183 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:37:39.580Z",
+  "questionId": "enem-2024-linguagens-q039",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E está correta porque o texto mostra que o uso da linguagem coloquial, considerada 'falar errado', por Adoniran Barbosa transgredia a norma-padrão formal vigente na época, caracterizando um preconceito linguístico sofrido pelo compositor.",
+        "strategy": "Analisar o texto buscando compreender o motivo do preconceito contra Adoniran Barbosa e relacioná-lo com as normas da língua portuguesa, para identificar qual alternativa melhor explica essa relação.",
+        "steps": [
+          "Ler o texto para entender o contexto da fala errada de Adoniran Barbosa.",
+          "Identificar que o texto fala do uso da linguagem coloquial nas músicas do compositor.",
+          "Reconhecer que o preconceito ocorre pelo desvio da norma-padrão da língua portuguesa.",
+          "Analisar as alternativas para determinar qual explica a origem do preconceito.",
+          "Descartar alternativas que falam sobre consequência negativa (compreensão prejudicada, restrição poética) que não são mencionadas no texto.",
+          "Selecionar a alternativa que menciona a transgressão da norma-padrão, diretamente relacionada ao preconceito linguístico descrito."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca que o preconceito contra Adoniran Barbosa surgiu porque ele usava a linguagem coloquial, considerada 'falar errado' pela norma-padrão formal da língua portuguesa. Essa transgressão à norma padrão gerava rejeição, caracterizando preconceito linguístico, apesar da escolha artística e da identificação do público.",
+        "stepByStep": [
+          "Leia o texto atentamente para entender como Adoniran Barbosa usava a linguagem coloquial em suas músicas.",
+          "Observe que o texto mostra que esse 'falar errado' é proposital e artístico, ligado ao estilo do compositor.",
+          "Reconheça que o preconceito aparece porque essa linguagem não segue a norma-padrão, considerada correta pela sociedade na época.",
+          "Compare as alternativas para identificar qual relaciona o preconceito ao uso do português fora da norma-padrão.",
+          "Descarte opções que falam de consequências não mencionadas no texto, como dificuldade de compreensão ou limitação poética.",
+          "Escolha a alternativa que explica o preconceito linguístico pela transgressão da norma-padrão, conforme indicado no texto."
+        ],
+        "commonPitfalls": [
+          "Confundir o uso artístico da linguagem coloquial com falta de habilidade ou ignorância linguística.",
+          "Associar o preconceito ao estilo cômico ou à pior compreensão das músicas, sendo que o texto mostra o contrário.",
+          "Entender que a linguagem fora da norma limita a criação poética, quando o texto valoriza a escolha artística de Adoniran.",
+          "Ignorar o conceito de norma-padrão e preconceito linguístico, focando apenas na linguagem informal como erro absoluto."
+        ],
+        "teachingTips": [
+          "Explique o conceito de norma-padrão e suas variações linguísticas para que os alunos compreendam o preconceito linguístico.",
+          "Use exemplos de linguagem coloquial em canções, poesias ou falas cotidianas para mostrar que o uso 'não padrão' pode ser estilisticamente válido.",
+          "Encoraje a leitura crítica para distinguir entre julgamento de valor sobre a linguagem e reconhecimento de sua função social e cultural.",
+          "Trabalhe a importância da diversidade linguística e respeitar variações sem preconceitos, especialmente em contextos artísticos.",
+          "Proponha atividades que relacionem o texto com conceitos de linguística, sociolinguística e interpretação textual para fixar o conteúdo."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Escolheram A porque associam o 'falar errado' à linguagem cômica, supondo que o texto diz que essa fala marcava os comediantes da época.",
+          "misconceptionType": "Interpretação incorreta do contexto histórico e do foco do texto",
+          "whyItLooksPlausible": "O texto menciona que Adoniran foi comediante e sua fala errada é característica marcante, o que pode levar à associação.",
+          "whyItIsWrong": "O texto não diz que o preconceito está ligado à linguagem dos comediantes, mas sim à quebra da norma-padrão da língua."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Acham que o 'falar errado' prejudicava a compreensão da música pelo público, que justificaria o preconceito.",
+          "misconceptionType": "Confusão entre forma e efeito da linguagem",
+          "whyItLooksPlausible": "É comum associar desvio da norma com dificuldade de entendimento pelo público.",
+          "whyItIsWrong": "O texto mostra que o povo se identificava com as músicas, indicando que a compreensão não era prejudicada."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Parece que a linguagem incorreta denunciava falta de estilo nas letras, motivo para preconceito.",
+          "misconceptionType": "Confusão entre estilo e correção linguística",
+          "whyItLooksPlausible": "A ideia de que linguagem errada vem da falta de estilo pode parecer lógica para alguns.",
+          "whyItIsWrong": "O texto afirma que a fala errada era uma arte escolhida, não ausência de estilo."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensam que o 'falar errado' restringia a criação poética, origem do preconceito.",
+          "misconceptionType": "Interpretação equivocada da relação entre norma e criatividade",
+          "whyItLooksPlausible": "A norma-padrão é vista como base para a expressão poética, então sua transgressão poderia ser vista como problema.",
+          "whyItIsWrong": "O texto mostra que 'falar errado' era uma estratégia artística, e não uma limitação da criação poética."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual",
+        "secondarySkills": [
+          "Análise linguística",
+          "Conhecimento sociolinguístico"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige entendimento do preconceito linguístico contra variações da norma-padrão.",
+          "Necessita reconhecer que um uso não padrão da língua pode ser uma escolha artística.",
+          "Avalia habilidade de relacionar informações do texto com conceitos de norma culta e linguística."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Preconceito linguístico e norma-padrão",
+        "interpretationIntro": "A questão apresenta um texto sobre Adoniran Barbosa e seu uso do português coloquial em músicas, pedindo para analisar o preconceito linguístico relacionado a esse 'falar errado'.",
+        "commandTerms": [
+          {
+            "term": "Preconceito linguístico",
+            "explanation": "Atitude negativa contra formas de fala que fogem à norma-padrão."
+          },
+          {
+            "term": "Norma-padrão",
+            "explanation": "Variante considerada formal e culta da língua, socialmente aceita como correta."
+          }
+        ],
+        "whatTheQuestionAsks": "O que caracteriza o preconceito linguístico atribuído ao uso coloquial feito por Adoniran Barbosa em suas composições, conforme o texto?",
+        "strategyParagraph": "Para responder, é necessário entender que o texto evidencia um uso intencional de linguagem coloquial por Adoniran, que foge à norma culta. O preconceito surge justamente dessa transgressão formal, ainda que a linguagem seja uma escolha artística autêntica e reconhecida pelo público. Assim, deve-se relacionar o 'falar errado' com o preconceito decorrente do desvio da norma-padrão e eliminar alternativas que falam de outras causas não suportadas pelo texto.",
+        "reviewTable": [
+          {
+            "concept": "Preconceito linguístico",
+            "keyIdea": "Rejeição a variações linguísticas não normatizadas.",
+            "application": "Explica o preconceito contra Adoniran pelo uso coloquial e desvio formal."
+          },
+          {
+            "concept": "Norma-padrão da língua",
+            "keyIdea": "Variante da língua que dita o padrão formal e correto socialmente aceito.",
+            "application": "Uso não-padrão nas músicas criou resistência e preconceito da elite."
+          },
+          {
+            "concept": "Uso artístico da linguagem",
+            "keyIdea": "Escolha consciente de formas linguísticas fora do padrão para efeitos culturais e identitários.",
+            "application": "Adoniran criou um estilo único, valorizando a fala popular apesar do preconceito."
+          }
+        ],
+        "theoryParagraphs": [
+          "O preconceito linguístico ocorre quando falantes discriminam ou desvalorizam outras formas de falar que não seguem a norma-padrão, que é a variante formal da língua ensinada e socialmente valorizada.",
+          "A linguagem coloquial ou popular, embora não seja normatizada, tem valor comunicativo, social e cultural significativo, especialmente em manifestações artísticas como a música.",
+          "O uso intencional da fala considerada 'errada' em obras artísticas pode ser uma forma de expressão identitária e resistência, desafiando padrões e normas sociais, como aconteceu com Adoniran Barbosa."
+        ],
+        "resolutionParagraphs": [
+          "O texto mostra que o 'falar errado' de Adoniran Barbosa consistia na utilização da linguagem coloquial, como \"nóis vai\", fora da norma-padrão.",
+          "Esse uso da linguagem gerava preconceito porque a sociedade formal e os eruditos rejeitavam tais desvios à norma culta.",
+          "Entretanto, o compositor escolheu esse tipo de fala como uma arte, para representar o povo e sua cultura musicalmente.",
+          "O preconceito, portanto, não se originava de prejuízo de compreensão ou de falta de estilo, mas do não alinhamento com a norma-padrão formal.",
+          "Assim, a alternativa E é a que melhor explica o motivo do preconceito linguístico descrito no texto, pois cita que o uso fora da norma-padrão era a origem dessa rejeição."
+        ],
+        "puloDoGato": "Compreenda que o preconceito linguístico existe porque a norma-padrão exclui variações legítimas, e que o 'falar errado' pode ser uma escolha artística e cultural.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora o texto cite que Adoniran era comediante, o preconceito linguístico não se baseava em sua linguagem cômica, mas na quebra da norma-padrão da língua."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "O texto indica que o público se identificava com as músicas, mostrando que a compreensão não era prejudicada, logo o preconceito não tem essa justificativa."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O texto valoriza a fala errada como uma escolha artística e não como ausência de estilo, portanto o preconceito não derivava de falta de estilo nas letras."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Falar errado na obra de Adoniran não restringia a criação poética, mas era uma estratégia estilística, o que afasta essa alternativa como motivo de preconceito."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "A alternativa correta porque o preconceito descrito no texto advém do uso da linguagem coloquial fora da norma-padrão, o que era socialmente rejeitado, apesar da escolha artística do compositor."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LINGUAGEM_SOCIO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A análise técnica, a explicação didática e a resolução oficial estão coerentes entre si, com foco claro no preconceito linguístico decorrente do uso da linguagem coloquial fora da norma-padrão. A resolução atende aos critérios do ENEM para clareza, didática e estrutura editorial, sem contradições ou omissões relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3032,
+    "outputTokens": 2384,
+    "estimatedCostUsd": 0.005027
+  }
+}

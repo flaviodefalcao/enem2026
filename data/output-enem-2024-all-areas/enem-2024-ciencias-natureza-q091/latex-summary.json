@@ -1,0 +1,7 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q091",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "latex.v2_official_resolution",
+  "estimatedCostUsd": 0.000791,
+  "texPath": "data/output-enem-2024-sample-4areas/enem-2024-ciencias-natureza-q091/final.tex"
+}

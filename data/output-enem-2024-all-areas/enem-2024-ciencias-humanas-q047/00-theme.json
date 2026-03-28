@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:43:01.500Z",
+  "questionId": "enem-2024-ciencias-humanas-q047",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Instituições sociais e políticas",
+    "rationale": "O enunciado refere-se aos sanitaristas e suas práticas no contexto histórico das décadas de 1920 e 1930, discutindo a organização do trabalho na saúde pública, que é um tipo de instituição social e política. A habilidade indicada envolve identificar registros de práticas de grupos sociais no tempo e espaço, e a competência envolve compreender a produção histórica das instituições sociais. Portanto, o tema e subtema que mais correspondem ao conteúdo são 'Instituições, poder e movimentos sociais' e 'Instituições sociais e políticas', pois tratam da estrutura organizacional e do papel das instituições de saúde pública no contexto social e político.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1097,
+    "outputTokens": 155,
+    "estimatedCostUsd": 0.000687
+  }
+}

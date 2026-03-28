@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:49:46.946Z",
+  "questionId": "enem-2024-ciencias-humanas-q056",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Memória e representações",
+    "rationale": "A questão aborda um ritual brasileiro que simboliza a presença do espírito do morto e envolve elementos simbólicos ligados à memória coletiva e à representações culturais. A habilidade e a competência indicam foco na análise da produção da memória e na compreensão dos elementos culturais que constituem as identidades, o que está diretamente relacionado ao tema 'Memória e representações' dentro de 'Cultura e identidade'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 893,
+    "outputTokens": 105,
+    "estimatedCostUsd": 0.000525
+  }
+}

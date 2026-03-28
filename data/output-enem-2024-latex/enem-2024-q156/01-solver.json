@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:34:19.781Z",
+  "questionId": "enem-2024-q156",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "Correta porque representa a fórmula V = F + 0,26T + 1,40D, em que F = 2,00 é a tarifa fixa, T é o tempo e D a distância, correspondendo exatamente às condições dadas no problema.",
+      "strategy": "Identificar as variáveis apresentadas e os respectivos coeficientes dos termos (tarifa fixa, valor por minuto e valor por quilômetro), e montar a expressão algébrica com somatório desses valores para chegar ao custo final.",
+      "steps": [
+        "Identificar que V depende da tarifa fixa F, do tempo T e da distância D.",
+        "Identificar os valores dados no enunciado: tarifa fixa (F) = 2,00 reais, custo por minuto = 0,26 reais e custo por quilômetro = 1,40 reais.",
+        "Construir a expressão somando a tarifa fixa e os custos proporcionais: V = 2,00 + 0,26T + 1,40D.",
+        "Analisar as alternativas para verificar qual corresponde exatamente à expressão criada."
+      ],
+      "formulasUsed": [
+        "V = F + 0,26T + 1,40D"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confunde a tarifa fixa como um coeficiente multiplicando F, em vez de ser um valor fixo somado; interpreta '2,00F' como fórmula, errando o conceito de tarifa fixa.",
+        "misconceptionType": "Interpretação errada de variáveis e constantes",
+        "whyItLooksPlausible": "Parece plausível porque usa todas as variáveis da expressão, porém multiplica o valor fixo pelo símbolo F, que não é variável nessa questão.",
+        "whyItIsWrong": "A tarifa fixa é um valor constante a ser somado, não multiplicado por outra variável."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Considera preço fixo e custo por minuto corretos, mas usa D sem fator multiplicativo, subestimando o custo por quilômetro.",
+        "misconceptionType": "Omissão de coeficiente",
+        "whyItLooksPlausible": "Parece correto porque inclui todos os termos, embora desconsidere fator multiplicativo da distância.",
+        "whyItIsWrong": "Não aponta o custo correto por quilômetro, que é 1,40 reais; omite o fator multiplicativo em D."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Esquece da tarifa fixa F, considerando apenas custos variáveis por tempo e distância.",
+        "misconceptionType": "Ignorar tarifa fixa",
+        "whyItLooksPlausible": "Pode parecer razoável que só se pague pelo uso efetivo (tempo e distância).",
+        "whyItIsWrong": "Todos os trajetos possuem tarifa inicial tarifada, e isso não está contemplado."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confunde as variáveis com os valores numéricos, usando só letras, como se fosse somatório simples de variáveis sem coeficientes.",
+        "misconceptionType": "Equívoco na representação algébrica",
+        "whyItLooksPlausible": "Parece utilizar diretamente as variáveis do problema.",
+        "whyItIsWrong": "Não representa os valores monetários e coeficientes paramétricos descritos no problema."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Construção e interpretação de expressões algébricas",
+      "secondarySkills": [
+        "Compreensão de problema contextualizado",
+        "Raciocínio quantitativo"
+      ],
+      "cognitiveDemand": "Baixa (lembrar e aplicar fórmula básica)",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige entender que tarifa fixa é valor fixo somado, não multiplicado.",
+        "Requer associar coeficientes numéricos a variáveis correspondentes.",
+        "As alternativas testam principalmente a compreensão de estrutura de expressões algébricas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 672,
+    "outputTokens": 811,
+    "estimatedCostUsd": 0.001566
+  }
+}

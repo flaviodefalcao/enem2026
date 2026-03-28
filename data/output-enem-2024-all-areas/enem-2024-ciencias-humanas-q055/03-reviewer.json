@@ -1,0 +1,179 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:49:44.958Z",
+  "questionId": "enem-2024-ciencias-humanas-q055",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é a correta porque o texto expressa claramente uma dicotomia clássica entre alma e corpo, evidenciando a ideia de que a alma é distinta e pode escapar do corpo físico, característica essencial do pensamento dicotômico.",
+        "strategy": "Identificar a concepção metafísica apresentada no texto e relacioná-la com conceitos filosóficos conhecidos, diferenciando pluralidades como alma/corpo (dualismo) para associar ao pensamento dicotômico.",
+        "steps": [
+          "Ler atentamente o texto e notar a relação entre alma e corpo.",
+          "Observar que o texto apresenta a alma como algo distinto do corpo, que pode escapar dele e durar além dele.",
+          "Reconhecer que essa visão expressa uma dicotomia entre duas substâncias ou entidades (alma e corpo).",
+          "Relacionar essa dicotomia ao conceito de pensamento dicotômico, associado a concepções metafísicas clássicas, especialmente o dualismo.",
+          "Analisar as outras alternativas, que não correspondem à visão apresentada (ex: não é apenas um pressuposto lógico, nem contemplação da natureza, nem raciocínio argumentativo, nem crítica à individualidade)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto apresenta uma visão metafísica clássica que distingue alma e corpo como duas entidades separadas, evidenciando o chamado pensamento dicotômico ou dualismo, onde a alma é imortal e distinta do corpo físico.",
+        "stepByStep": [
+          "Leia o texto atentamente e identifique o que ele diz sobre alma e corpo.",
+          "Note que a alma é apresentada como algo que existe dentro do corpo, mas que pode escapar dele, como quando sonhamos ou morremos.",
+          "Reconheça que essa ideia mostra uma separação clara (dicotomia) entre alma e corpo, conceito típico do pensamento dicotômico.",
+          "Compreenda que essa visão está ligada a concepções metafísicas clássicas, especialmente ao dualismo filosófico, que afirma a existência de duas substâncias diferentes: a alma e o corpo.",
+          "Diferencie essa visão das outras opções, descartando análises que não correspondem à metafísica, como argumentos lógicos puros ou contemplação da natureza. "
+        ],
+        "commonPitfalls": [
+          "Interpretar o texto como um argumento lógico formal ao invés de uma reflexão metafísica.",
+          "Focar apenas na descrição dos sentidos e pensar que é uma contemplação da natureza.",
+          "Confundir reflexão metafórica com argumentação lógica.",
+          "Ver uma crítica à individualidade humana onde o texto valoriza a alma como algo positivo e duradouro."
+        ],
+        "teachingTips": [
+          "Ajude os alunos a entenderem o que é metafísica e como ela lida com questões sobre alma e corpo.",
+          "Trabalhe o conceito de dualismo e pensamento dicotômico em filosofia para um melhor reconhecimento textual.",
+          "Use exemplos clássicos para ilustrar a ideia de alma distinta do corpo, reforçando o pensamento dicotômico.",
+          "Estimule a leitura cuidadosa para identificar a intencionalidade do texto (reflexão metafísica versus argumento lógico).",
+          "Apresente as diferentes interpretações erradas como oportunidades para discutir compreensão leitora e análise crítica."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O candidato pode achar que o texto está apenas fazendo uma afirmação lógica de existência da alma, interpretando 'maneira maravilhosa' como um pressuposto lógico.",
+          "misconceptionType": "Confusão conceitual entre lógica e metafísica",
+          "whyItLooksPlausible": "O texto é uma reflexão e pode parecer uma premissa lógica ao leitor menos atento.",
+          "whyItIsWrong": "O texto expressa uma visão metafísica, não um argumento formal lógico."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "O candidato pode focar na ligação do corpo com o mundo sensorial ('janela dos meus olhos') e entender como contemplação da natureza.",
+          "misconceptionType": "Interpretação literal e superficial do texto",
+          "whyItLooksPlausible": "A descrição do corpo e sentidos remete a percepção do mundo natural.",
+          "whyItIsWrong": "O texto enfatiza a alma e sua separação do corpo, não a contemplação da natureza em si."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "O candidato pode achar que o texto é um argumento com base em raciocínios sobre alma e corpo.",
+          "misconceptionType": "Confusão entre exposição e argumentação",
+          "whyItLooksPlausible": "O texto reflete sobre o funcionamento da alma no corpo; pode parecer argumentativo.",
+          "whyItIsWrong": "Não há estrutura argumentativa lógica, o texto é uma afirmação metafórica e reflexiva."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O candidato pode interpretar o discurso do corpo e alma como uma crítica à individualidade humana.",
+          "misconceptionType": "Leitura interpretativa além do texto",
+          "whyItLooksPlausible": "A dualidade poderia ser entendida como uma crítica à identidade pessoal.",
+          "whyItIsWrong": "O texto valoriza a existência da alma como distinta e duradoura, não a critica."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de textos filosóficos/metafísicos",
+        "secondarySkills": [
+          "Reconhecimento de conceitos filosóficos clássicos",
+          "Análise crítica de concepções metafísicas"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Texto relaciona corpo e alma, conceito clássico de dualismo/metafísica.",
+          "Questão avalia conhecimento filosófico e interpretação textual profunda, típica das ciências humanas."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧠",
+        "shortThemeTitle": "Dualismo na Filosofia Clássica",
+        "interpretationIntro": "O enunciado nos convida a identificar qual concepção metafísica clássica está expressa no texto apresentado.",
+        "commandTerms": [
+          {
+            "term": "Concepção Metafísica",
+            "explanation": "Discussão filosófica que trata da natureza da realidade e suas entidades fundamentais."
+          },
+          {
+            "term": "Pensamento Dicotômico",
+            "explanation": "Forma de pensar que divide a realidade em duas partes opostas e fundamentais."
+          }
+        ],
+        "whatTheQuestionAsks": "A pergunta exige reconhecer a ideia filosófica que caracteriza a relação alma-corpo mostrada no texto, identificando-a como uma concepção metafísica clássica.",
+        "strategyParagraph": "Para responder, leia o texto atentamente buscando pistas sobre a relação alma-corpo. Note que a alma é retratada como algo distinto do corpo, que pode 'escapar' e sobreviver após a morte do corpo, o que indica uma dualidade entre duas entidades. Conecte essa ideia à filosofia clássica do dualismo, que propõe a existência de alma e corpo como substâncias separadas. Depois, descarte opções que não se encaixam nesse conceito, como argumentos lógicos, contemplação da natureza ou críticas sociais.",
+        "reviewTable": [
+          {
+            "concept": "Dualismo Filosófico",
+            "keyIdea": "Separação entre alma e corpo como duas substâncias distintas.",
+            "application": "O texto expressa esta separação ao retratar a alma escapando e sobrevivendo ao corpo."
+          },
+          {
+            "concept": "Pensamento Dicotômico",
+            "keyIdea": "Divisão da realidade em duas partes opostas.",
+            "application": "A dicotomia alma-corpo é um exemplo claro desse pensamento."
+          },
+          {
+            "concept": "Metafísica Clássica",
+            "keyIdea": "Explora a natureza e essência das coisas, como alma e corpo.",
+            "application": "O texto se insere nessa tradição filosófica ao refletir sobre a alma."
+          }
+        ],
+        "theoryParagraphs": [
+          "O dualismo é uma concepção filosófica clássica que entende a alma e o corpo como duas substâncias separadas e distintas. Essa visão remonta a pensadores como Platão e Descartes, que acreditavam que a alma é imortal e que o corpo físico é temporário.",
+          "O pensamento dicotômico parte do princípio de que a realidade ou o pensamento se organizam em pares opostos e mutuamente exclusivos, como alma e corpo, mente e matéria, espiritual e material.",
+          "A metafísica busca compreender a essência dos seres e a realidade além do mundo físico, e, neste contexto, a alma é vista como uma entidade imaterial e duradoura, em contraste com o corpo material e perecível."
+        ],
+        "resolutionParagraphs": [
+          "Ao ler o texto, percebe-se que a alma é apresentada como algo que existe dentro do corpo, mas que pode escapar e continuar existindo mesmo quando o corpo morre, indicando uma distinção clara entre os dois.",
+          "Essa distinção é característica do dualismo, um pensamento metafísico clássico que entende corpo e alma como substâncias diferentes.",
+          "As demais alternativas não correspondem ao conteúdo do texto: não é mera lógica formal, nem uma contemplação da natureza sensorial, nem um argumento lógico, tampouco uma crítica social à individualidade.",
+          "Portanto, a alternativa que representa essa concepção metafísica clássica é a que aponta para o pensamento dicotômico, ou dualismo (alternativa B)."
+        ],
+        "puloDoGato": "A chave está em perceber que o texto descreve alma e corpo como realidades distintas e opostas, típico do dualismo, base do pensamento dicotômico.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora pareça uma afirmação, o texto não é um argumento lógico, mas uma reflexão metafísica, logo A está incorreta."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta porque identifica corretamente a divisão entre alma e corpo, típica do pensamento dicotômico/metafísico clássico."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta porque, apesar de mencionar sentidos, o texto enfatiza a separação alma-corpo, não a contemplação da natureza."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "O texto não estrutura um argumento formal, é uma reflexão metafórica, portanto D está errada."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O texto valoriza a alma como positiva e duradoura, não critica a individualidade, logo E não é correta."
+          }
+        ],
+        "questionCode": "CH_METAFISICA_CONCEITOS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A análise técnica, explicação didática e resolução oficial estão coerentes e alinhadas. A resposta correta está justificada, as alternativas comentadas adequadamente, e o conteúdo está bem estruturado para o ENEM.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2612,
+    "outputTokens": 2180,
+    "estimatedCostUsd": 0.004533
+  }
+}

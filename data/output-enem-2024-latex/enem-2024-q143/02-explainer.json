@@ -1,0 +1,42 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:24:37.651Z",
+  "questionId": "enem-2024-q143",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular o gasto médio por pessoa com bebidas e petiscos, primeiro determinamos o lucro obtido com a venda de ingressos considerando a venda maior de meias-entradas. Depois, usamos o lucro total esperado para achar quanto falta ganhar nas vendas de bebidas e petiscos, e, conhecendo que o lucro sobre essa venda é de 60%, calculamos o faturamento total correspondente. Finalmente, dividimos esse faturamento pelo público para encontrar o gasto médio individual.",
+      "stepByStep": [
+        "Calcule a quantidade prevista de meias-entradas: 60% de 500 = 300 ingressos.",
+        "Determine a quantidade real de meias-entradas vendidas: 50% a mais que o previsto → 300 + 0,5×300 = 450.",
+        "Encontre a quantidade de ingressos integrais: 500 - 450 = 50.",
+        "Calcule a receita real da venda de ingressos: (50 × R$130) + (450 × R$65) = R$6.500 + R$29.250 = R$35.750.",
+        "Calcule o lucro obtido com ingressos: R$35.750 - R$34.350 (custo) = R$1.400.",
+        "Determine o lucro restante necessário para atingir o lucro total esperado: R$17.000 - R$1.400 = R$15.600.",
+        "Como o lucro sobre bebidas e petiscos é 60%, o faturamento dessas vendas é Lucro / 0,6 = R$15.600 / 0,6 = R$26.000.",
+        "Divida o faturamento total de bebidas e petiscos pelo número total de pessoas: R$26.000 / 500 = R$52,00.",
+        "Portanto, o gasto médio por pessoa com bebidas e petiscos deve ser de R$52,00."
+      ],
+      "commonPitfalls": [
+        "Confundir lucro com faturamento das vendas de bebidas e petiscos.",
+        "Não ajustar o número real de meias-entradas vendidas, considerando o aumento de 50%.",
+        "Calcular o gasto médio utilizando apenas o custo, sem considerar o lucro sobre essas vendas.",
+        "Ignorar o impacto do lucro obtido com ingressos ao calcular o lucro restante para bebidas e petiscos.",
+        "Dividir o lucro total diretamente pelo número de pessoas sem passar pelos cálculos intermediários."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre lucro e faturamento para evitar confusões.",
+        "Utilize exemplos com números menores para ilustrar o impacto do aumento da venda de meias-entradas.",
+        "Reforce o conceito de porcentagem aplicada sobre quantidades e valores financeiros.",
+        "Oriente os alunos a organizar as informações do problema passo a passo antes de começar os cálculos.",
+        "Proponha exercícios similares para prática da aplicação de percentuais em contextos financeiros reais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1790,
+    "outputTokens": 588,
+    "estimatedCostUsd": 0.001657
+  }
+}

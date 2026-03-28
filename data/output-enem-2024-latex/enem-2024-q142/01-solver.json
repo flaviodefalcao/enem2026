@@ -1,0 +1,81 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:23:28.313Z",
+  "questionId": "enem-2024-q142",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta.",
+      "strategy": "Interpretar o processo descrito e identificar a sequência de números de figuras em cada etapa para encontrar uma expressão geral e aplicá-la para a 20ª etapa.",
+      "steps": [
+        "Na 1ª etapa, a criança insere 3 figuras.",
+        "Na 2ª etapa, ela copia o que estava no visor na etapa 1 e cola ao lado, dobrando o número de figuras: 3 × 2 = 6.",
+        "Na 3ª etapa, ela novamente copia o que havia no visor na etapa 2 e cola ao lado, dobrando novamente o número de figuras: 6 × 2 = 12.",
+        "Percebe-se que em cada etapa, a criança está dobrando o número de figuras do visor da etapa anterior.",
+        "Assim, a quantidade de figuras na etapa n é: 3 × 2^(n-1).",
+        "Aplicando para a 20ª etapa: 3 × 2^(20-1) = 3 × 2^19."
+      ],
+      "formulasUsed": [
+        "Número de figuras na etapa n = 3 × 2^(n-1)"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela no enunciado mostrando as primeiras etapas e quantidade de figuras no visor"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Pode-se interpretar que o expoente seria 20 ao invés de 19.",
+        "misconceptionType": "Erro de índice/expoente",
+        "whyItLooksPlausible": "Parece natural que na 20ª etapa o número de figuras seja 3 vezes 2 elevado a 20, por confundir a contagem das etapas.",
+        "whyItIsWrong": "A primeira etapa corresponde a 3 × 2^0 = 3 figuras, então para a 20ª etapa o expoente é 19, não 20."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confunde o número de etapas e adiciona uma etapa a mais no expoente.",
+        "misconceptionType": "Erro de índice/expoente",
+        "whyItLooksPlausible": "O aumento progressivo pode sugerir um incremento maior no expoente.",
+        "whyItIsWrong": "O processo começa com 3 figuras na etapa 1, portanto o expoente é n-1 e não n+1."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Inclui uma subtração errada na quantidade total.",
+        "misconceptionType": "Falsa manipulação algébrica",
+        "whyItLooksPlausible": "Pode parecer que ao subtrair 1 a quantidade se ajusta ao processo de copiar e colar.",
+        "whyItIsWrong": "O processo de duplicação não gera uma diferença por subtração, é uma progressão geométrica exata."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Similar ao anterior, mas subtrai 3 ao invés de 1, tentando ajustar o resultado.",
+        "misconceptionType": "Falsa manipulação algébrica",
+        "whyItLooksPlausible": "Pode parecer que a subtração de 3 adequa o resultado à sequência observada.",
+        "whyItIsWrong": "O número total segue uma fórmula de progressão geométrica que não envolve subtração."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Reconhecimento de progressão geométrica",
+      "secondarySkills": [
+        "Raciocínio algébrico",
+        "Análise de sequência numérica"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário interpretar o padrão de duplicação de figuras a cada etapa.",
+        "Entender que a etapa inicial corresponde a 3 × 2^0.",
+        "O exercício requer manipulação de expoentes em progressão geométrica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 859,
+    "outputTokens": 782,
+    "estimatedCostUsd": 0.001595
+  }
+}

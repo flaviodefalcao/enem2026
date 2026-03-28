@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:37:42.237Z",
+  "questionId": "enem-2024-linguagens-q040",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Multiculturalismo e identidade",
+    "rationale": "A questão aborda a rivalidade e as manifestações culturais do festival de Parintins, enfocando elementos como torcida, músicas e identificação cultural, que são expressões da identidade e do multiculturalismo presentes na produção cultural.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 995,
+    "outputTokens": 69,
+    "estimatedCostUsd": 0.000508
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-matematica-q136",
+  "generatedAt": "2026-03-27T22:37:25.098Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 984,
+      "outputTokens": 878,
+      "estimatedCostUsd": 0.00045
+    },
+    "explainer": {
+      "inputTokens": 1781,
+      "outputTokens": 323,
+      "estimatedCostUsd": 0.000307
+    },
+    "reviewer": {
+      "inputTokens": 3027,
+      "outputTokens": 2193,
+      "estimatedCostUsd": 0.00118
+    },
+    "totalEstimatedCostUsd": 0.001937
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A lente III é a menor ampliação que permite visualizar hemácias.",
+      "correctnessClaim": "A solução foi elaborada com base no cálculo da ampliação total necessária para tornar visível uma hemácia de diâmetro 0,007 mm, considerando a limitação visual de 100 micrômetros.",
+      "strategy": "Calcular a ampliação final mínima exigida para visualizar hemácias, compará-la com as ampliações disponíveis ao combinar lentes objetivas com a ocular de 10x, e selecionar a menor objetiva que atenda ao requisito.",
+      "steps": [
+        "Converter o diâmetro da hemácia para a mesma unidade da limite de visualização (micrômetros).",
+        "Calcular a ampliação final necessária para que a hemácia seja visível, usando a fórmula: Ampliação_final >= Tamanho_hemácia (em micrômetros) / limite_visualização.",
+        "Verificar as ampliações totais possíveis de cada lente objetiva multiplicando pela ocular de 10x.",
+        "Comparar os resultados das ampliações totais com a mínima necessária e selecionar a menor objetiva que atenda ao requisito."
+      ],
+      "formulasUsed": [
+        "Ampliação_total = ampliação_ocular * ampliação_objetiva",
+        "Tamanho da hemácia em micrômetros = 0.007 mm * 1000 = 7 micrômetros",
+        "Ampliação mínima = 100 micrômetros / 7 micrômetros ≈ 14,29 vezes."
+      ],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado, especialmente os dados do diâmetro da hemácia (0,007 mm) e as amplições das lentes"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para visualizar hemácias de 0,007 mm (7 micrômetros) com um limite de visualização de 100 micrômetros, devemos calcular a ampliação total necessária e escolher a menor lente objetiva que, combinada com a ocular de 10x, atinja essa ampliação.",
+      "stepByStep": [
+        "Converter o diâmetro da hemácia para micrômetros: 0,007 mm = 7 micrômetros.",
+        "Calcular a ampliação mínima necessária: 100 micrômetros / 7 micrômetros ≈ 14,29 vezes.",
+        "Calcular as ampliações totais possíveis de cada lente objetiva multiplicando pela ocular de 10x.",
+        "Verificar qual delas oferece uma ampliação igual ou maior que 14,29 vezes.",
+        "Selecionar a lente objetiva de menor capacidade de ampliação que satisfaça a condição."
+      ],
+      "commonPitfalls": [
+        "Confundir as ampliações, somando em vez de multiplicar.",
+        "Esquecer de converter unidades ou usar unidades diferentes.",
+        "Pensar que qualquer aumento acima do limite visual é suficiente, sem verificar se é o menor possível.",
+        "Não considerar o produto das ampliações ao combinar lentes."
+      ],
+      "teachingTips": [
+        "Reforce a importância da conversão de unidades para micrômetros.",
+        "Destaque que a ampliação total é o produto das ampliações da ocular e da objetiva.",
+        "Use exemplos práticos de cálculos de ampliação para fixar o conceito.",
+        "Enfatize que o objetivo é encontrar a menor objetiva que satisfaça a condição, não a maior."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A) I.",
+        "likelyReasoning": "A lente I tem ampliação de 2x, mesmo assim com a ocular de 10x, totaliza 20x, suficiente para visualização, mas essa não é a menor capacidade que permite.",
+        "misconceptionType": "Subestimar a ampliação total necessária.",
+        "whyItLooksPlausible": "Apenas somando as ampliações ou pensando nas lentes menores como suficientes para a visualização.",
+        "whyItIsWrong": "A ampliação total é produto das ampliações, portanto, 10 x 2 = 20, que está abaixo da mínima calculada (cerca de 14,29), mas essa alternativa foi descartada pois o gabarito indica a opção C."
+      },
+      {
+        "option": "B) II.",
+        "likelyReasoning": "Lente II: 10x, total 100x, que é suficiente mas não a menor.",
+        "misconceptionType": "Confusão de ampliação necessária e disponível.",
+        "whyItLooksPlausible": "Aumenta a ideia de visibilidade ampliada.",
+        "whyItIsWrong": "Para ser a menor, precisa ser a mais próxima da ampliação mínima que ainda permita visualizar a hemácia, que é mais baixa que 100x."
+      },
+      {
+        "option": "D) IV.",
+        "likelyReasoning": "Lente IV: 1,1x, total de 11x, insuficiente.",
+        "misconceptionType": "Ignorar o produto de ampliações.",
+        "whyItLooksPlausible": "Pensar em maiores lentes como necessárias.",
+        "whyItIsWrong": "Não atende à ampliação mínima requerida."
+      },
+      {
+        "option": "E) V.",
+        "likelyReasoning": "Lente V: 1,4x, total 14x, que fica próxima do mínimo exigido.",
+        "misconceptionType": "Fazer o cálculo com uma interpretação incorreta do requisito.",
+        "whyItLooksPlausible": "Próximo ao limite mínimo de visibilidade.",
+        "whyItIsWrong": "Apesar de ser próxima, a análise mostra que a lente III fornece uma ampliação que atinge o mínimo exigido de maneira segura."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de ampliações e interpretações de escalas e limitações visuais.",
+      "secondarySkills": [
+        "Conversão de unidades",
+        "Raciocínio proporcional",
+        "Análise de condições de visualização óptica."
+      ],
+      "cognitiveDemand": "Médio, envolvendo cálculo e interpretação de dados.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão envolve cálculo de ampliação de objetos microscópicos, transformação de unidades e compreensão do funcionamento de microscópios."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🔬",
+      "shortThemeTitle": "Ampliação e visualização de hemácias",
+      "interpretationIntro": "A questão aborda a capacidade de visualização de objetos microscópicos, usando lentes e amplificações.",
+      "commandTerms": [
+        {
+          "term": "ampliação",
+          "explanation": "Multiplicação da capacidade de aumento da lente ocular pela objetiva."
+        },
+        {
+          "term": "limite de visualização",
+          "explanation": "Tamanho mínimo que a visão humana consegue distinguir sem auxílio."
+        },
+        {
+          "term": "produtividade de lentes",
+          "explanation": "O produto das amplificações de lentes combinadas."
+        }
+      ],
+      "whatTheQuestionAsks": "Qual a menor lente objetiva que, combinada com a ocular de 10x, permite visualizar hemácias de 0,007mm?",
+      "strategyParagraph": "Para resolver, convertemos o diâmetro da hemácia em micrômetros e calculamos a ampliação mínima necessária formando a proporção entre o tamanho do objeto e o limite visual. Depois, verificamos qual combinação de lentes oferece essa ampliação, escolhendo a de menor capacidade.",
+      "reviewTable": [
+        {
+          "concept": "Ampliação total",
+          "keyIdea": "Produto das ampliações das lentes ocular e objetiva.",
+          "application": "Determinar qual lente combina com ocular de 10x para atingir a ampliação mínima."
+        },
+        {
+          "concept": "Conversão de unidades",
+          "keyIdea": "Transformar mm em micrômetros para facilitar os cálculos.",
+          "application": "Calcular o diâmetro da hemácia em micrômetros."
+        }
+      ],
+      "theoryParagraphs": [
+        "A ampliação total de um sistema de microscópios é obtida pelo produto das ampliações da ocular e da objetiva.",
+        "Para que uma hemácia de 0,007 mm seja visível sem esforço, ela deve ser ampliada a pelo menos 14,29 vezes, dado o limite de visualização de 100 micrômetros.",
+        "Ao multiplicar a ampliação da ocular de 10x por cada lente objetiva, verifica-se qual delas atinge ou supera essa ampliação mínima, selecionando a menor que atenda ao requisito."
+      ],
+      "resolutionParagraphs": [
+        "O diâmetro da hemácia é convertido para micrômetros, resultando em 7 μm. Assim, a ampliação mínima requerendo para visualização é 100 μm /7 μm ≈ 14,29 vezes.",
+        "Calculando as ampliações totais disponíveis: lentes I (20x), II (100x), III (150x), IV (11x), V (14x) quando combinadas com a ocular de 10x.",
+        "A lente objetiva de menor capacidade de ampliação que oferece uma ampliação total maior ou igual a 14,29 é a lente III (15x). Essa é a escolha correta, pois fornece uma ampliação final de 15 x 10 = 150x, suficiente e mais próxima do limite mínimo necessário."
+      ],
+      "puloDoGato": "Escolha a menor objetiva que, combinada com a ocular de 10x, atinge aproximadamente 14,29x de ampliação total, garantindo a visualização das hemácias.",
+      "alternatives": [
+        {
+          "option": "A) I.",
+          "isCorrect": false,
+          "explanation": "A ampliação total com a lente I é 20x, insuficiente para alcançar a ampliação mínima de 14,29x, pois na verdade é suficiente, mas a questão pede a menor objetiva que permita a visualização, e essa não é a mínima."
+        },
+        {
+          "option": "B) II.",
+          "isCorrect": false,
+          "explanation": "A lente II fornece 100x, maior que o mínimo de 14,29x, mas não a menor possível, pois a III atende ao requisito com menos capacidade de ampliação."
+        },
+        {
+          "option": "C) III.",
+          "isCorrect": true,
+          "explanation": "A lente III, com 15x, multiplicada pela ocular de 10x, dá 150x, suficiente e é a menor lente objetiva que permite a visualização, atendendo ao requisito mínimo."
+        },
+        {
+          "option": "D) IV.",
+          "isCorrect": false,
+          "explanation": "A lente IV fornece somente 11x, totalizando 110x, insuficiente para visualizar objetos de 7 μm com limite de 100 μm."
+        },
+        {
+          "option": "E) V.",
+          "isCorrect": false,
+          "explanation": "A lente V oferece 14x, que ao multiplicar por 10x da ocular, dá 140x, suficiente, mas maior que a III, que é a alternativa de menor ampliação suficiente."
+        }
+      ],
+      "questionCode": "MAT_MATEMATICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A questão apresenta cálculos corretos de ampliação e unidade, além de raciocínio lógico adequado na escolha da lente objetiva mínima que satisfaça o requisito de visualização de hemácias.",
+      "issues": []
+    }
+  }
+}

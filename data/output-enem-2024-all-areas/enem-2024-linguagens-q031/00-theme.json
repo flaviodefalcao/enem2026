@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:30:08.136Z",
+  "questionId": "enem-2024-linguagens-q031",
+  "payload": {
+    "theme": "Literatura",
+    "subtheme": "Contexto histórico-literário",
+    "rationale": "A questão explora um trecho literário do contexto do Império brasileiro, convidando o aluno a relacionar a ironia do narrador com o momento histórico da monarquia, conforme a habilidade H15 que enfatiza a relação entre texto literário e contexto histórico-social e a competência 5 que envolve a análise de textos considerando seu contexto de produção.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1122,
+    "outputTokens": 94,
+    "estimatedCostUsd": 0.000599
+  }
+}

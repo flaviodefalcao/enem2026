@@ -1,0 +1,2968 @@
+{
+  "metadata": {
+    "year": 2024,
+    "areaCode": "MT",
+    "areaDescription": "Matemática",
+    "color": "AZUL",
+    "canonicalProof": 1407,
+    "equivalentProofs": [
+      1407
+    ],
+    "bookletNumber": 7,
+    "sourceFiles": {
+      "contentJson": "/Users/flaviodefalcao/Desktop/project_enem/src/data/generated/enem-2024-math-content.json",
+      "itemsCsv": "/Volumes/ELEMENTS/microdados_enem_2024/DADOS/ITENS_PROVA_2024.csv",
+      "matrixPdf": "/Users/flaviodefalcao/Desktop/matriz_referencia.pdf",
+      "dictionaryXlsx": "/Volumes/ELEMENTS/microdados_enem_2024/DICIONÁRIO/Dicionário_Microdados_Enem_2024.xlsx"
+    },
+    "dictionaryFieldsUsed": {
+      "CO_POSICAO": {
+        "name": "CO_POSICAO",
+        "description": "Posição do Item na Prova",
+        "size": 3,
+        "type": "Numérica",
+        "categories": {}
+      },
+      "SG_AREA": {
+        "name": "SG_AREA",
+        "description": "Área de Conhecimento do Item",
+        "size": 2,
+        "type": "Alfanumérica",
+        "categories": {
+          "CH": "Ciências Humanas",
+          "CN": "Ciências da Natureza",
+          "LC": "Linguagens e Códigos",
+          "MT": "Matemática"
+        }
+      },
+      "CO_ITEM": {
+        "name": "CO_ITEM",
+        "description": "Código do Item",
+        "size": 5,
+        "type": "Numérica",
+        "categories": {}
+      },
+      "TX_GABARITO": {
+        "name": "TX_GABARITO",
+        "description": "Gabarito do Item¹",
+        "size": 1,
+        "type": "Alfanumérica",
+        "categories": {}
+      },
+      "CO_HABILIDADE": {
+        "name": "CO_HABILIDADE",
+        "description": "Habilidade do Item",
+        "size": 2,
+        "type": "Numérica",
+        "categories": {}
+      },
+      "TX_COR": {
+        "name": "TX_COR",
+        "description": "Cor da Prova",
+        "size": 7,
+        "type": "Alfanumérica",
+        "categories": {}
+      },
+      "CO_PROVA": {
+        "name": "CO_PROVA",
+        "description": "Identificador da Prova",
+        "size": 3,
+        "type": "Numérica",
+        "categories": {}
+      }
+    },
+    "mathObjectsOfKnowledge": [
+      "Conhecimentos numéricos: operações em conjuntos numéricos (naturais, inteiros, racionais e reais), desigualdades, divisibilidade, fatoração, razões e proporções, porcentagem e juros, relações de dependência entre grandezas, sequências e progressões, princípios de contagem.",
+      "Conhecimentos geométricos: características das figuras geométricas planas e espaciais; grandezas, unidades de medida e escalas; comprimentos, áreas e volumes; ângulos; posições de retas; simetrias de figuras planas ou espaciais; congruência e semelhança de triângulos; teorema de Tales; relações métricas nos triângulos; circunferências; trigonometria do ângulo agudo.",
+      "Conhecimentos de estatística e probabilidade: representação e análise de dados; medidas de tendência central (médias, moda e mediana); desvios e variância; noções de probabilidade.",
+      "Conhecimentos algébricos: gráficos e funções; funções algébricas do 1.º e do 2.º graus, polinomiais, racionais, exponenciais e logarítmicas; equações e inequações; relações no ciclo trigonométrico e funções trigonométricas.",
+      "Conhecimentos algébricos/geométricos: plano cartesiano; retas; circunferências; paralelismo e perpendicularidade, sistemas de equações."
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "O tamanho mínimo que a visão humana é capaz de\nvisualizar sem o uso de equipamento auxiliar é equivalente\na 100 micrômetros (1 micrômetro = 10₋3 milímetros).\nUma estudante pretende visualizar e analisar hemácias\ndo sangue humano, que medem 0,007 mm de diâmetro.\nEla adquiriu um microscópio óptico que tem uma lente\nocular que amplia em 10 vezes a imagem do objeto em\nobservação, e um conjunto de lentes objetivas com estas\ncapacidades de ampliação:\n• lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez.\n\nO funcionamento desse microscópio permite o uso da\nlente ocular sozinha ou a combinação dela com uma\nde suas lentes objetivas, proporcionando, nesse caso,\num aumento de sua capacidade de ampliação final, que é\ndada pelo produto entre as capacidades de ampliação da\nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de\nmenor capacidade de ampliação que permita, na combinação\ncom a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-136/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-136/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "O tamanho mínimo que a visão humana é capaz de\nvisualizar sem o uso de equipamento auxiliar é equivalente\na 100 micrômetros (1 micrômetro = 10₋3 milímetros).\nUma estudante pretende visualizar e analisar hemácias\ndo sangue humano, que medem 0,007 mm de diâmetro.\nEla adquiriu um microscópio óptico que tem uma lente\nocular que amplia em 10 vezes a imagem do objeto em\nobservação, e um conjunto de lentes objetivas com estas\ncapacidades de ampliação:\n• lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez.\n\nO funcionamento desse microscópio permite o uso da\nlente ocular sozinha ou a combinação dela com uma\nde suas lentes objetivas, proporcionando, nesse caso,\num aumento de sua capacidade de ampliação final, que é\ndada pelo produto entre as capacidades de ampliação da\nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de\nmenor capacidade de ampliação que permita, na combinação\ncom a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V.",
+      "coPosicao": 136,
+      "coItem": 125949,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 13,
+      "skillCode": "H13",
+      "skillDescription": "Avaliar o resultado de uma medição na construção de um argumento consistente.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Ao calcular a média de suas notas em 4 provas, um\nestudante dividiu, por engano, a soma das notas por 5.\nCom isso, a média obtida foi 1 unidade menor do que\ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "19.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "21.",
+          "assets": []
+        }
+      ],
+      "rawText": "Ao calcular a média de suas notas em 4 provas, um\nestudante dividiu, por engano, a soma das notas por 5.\nCom isso, a média obtida foi 1 unidade menor do que\ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é\n\nA. 4.\nB. 5.\nC. 6.\nD. 19.\nE. 21.",
+      "coPosicao": 137,
+      "coItem": 29740,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 28,
+      "skillCode": "H28",
+      "skillDescription": "Resolver situação-problema que envolva conhecimentos de estatística e probabilidade.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Para abrir a porta de uma empresa, cada funcionário\ndeve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura.\n\nPor exemplo: a tecla que contém o número 2 traz as\nletras correlacionadas A, B e C. Cada toque nessa tecla\nmostra, sequencialmente, os seguintes caracteres: 2, A, B\ne C. Para os próximos toques, essa sequência se repete.\nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários\ndevem conter 5 caracteres, sendo 2 algarismos distintos\nseguidos de 3 letras diferentes, nessa ordem. Um funcionário\nirá cadastrar a sua primeira senha, podendo escolher entre\nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as\nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse\nfuncionário tem para cadastrar sua senha é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-138/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-138/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "11 520.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "14 400.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "18 000.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "312 000.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "390 000.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para abrir a porta de uma empresa, cada funcionário\ndeve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura.\n\nPor exemplo: a tecla que contém o número 2 traz as\nletras correlacionadas A, B e C. Cada toque nessa tecla\nmostra, sequencialmente, os seguintes caracteres: 2, A, B\ne C. Para os próximos toques, essa sequência se repete.\nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários\ndevem conter 5 caracteres, sendo 2 algarismos distintos\nseguidos de 3 letras diferentes, nessa ordem. Um funcionário\nirá cadastrar a sua primeira senha, podendo escolher entre\nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as\nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse\nfuncionário tem para cadastrar sua senha é\n\nA. 11 520.\nB. 14 400.\nC. 18 000.\nD. 312 000.\nE. 390 000.",
+      "coPosicao": 138,
+      "coItem": 29021,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 3,
+      "skillCode": "H3",
+      "skillDescription": "Resolver situação-problema envolvendo conhecimentos numéricos.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números, operações e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Um artesão utiliza dois tipos de componentes, X e\nY, nos enfeites que produz. Ele sempre compra todos os\ncomponentes em uma mesma loja. O quadro apresenta\nos preços dos dois tipos de componentes nas lojas I e II.\n\nEle confeccionará enfeites formados por duas unidades\ndo componente X e uma unidade do componente Y e\nefetuará a compra na loja que oferecer o menor valor total\npara a confecção de um enfeite.\nO artesão efetuará a compra na loja",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-139/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-139/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I, pois o valor é R$ 7,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "I, pois o valor é R$ 4,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "II, pois o valor é R$ 6,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "I, pois anuncia o componente com o menor preço.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "II, pois o componente X, que é o mais utilizado, tem menor preço.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um artesão utiliza dois tipos de componentes, X e\nY, nos enfeites que produz. Ele sempre compra todos os\ncomponentes em uma mesma loja. O quadro apresenta\nos preços dos dois tipos de componentes nas lojas I e II.\n\nEle confeccionará enfeites formados por duas unidades\ndo componente X e uma unidade do componente Y e\nefetuará a compra na loja que oferecer o menor valor total\npara a confecção de um enfeite.\nO artesão efetuará a compra na loja\n\nA. I, pois o valor é R$ 7,00.\nB. I, pois o valor é R$ 4,00.\nC. II, pois o valor é R$ 6,00.\nD. I, pois anuncia o componente com o menor preço.\nE. II, pois o componente X, que é o mais utilizado, tem menor preço.",
+      "coPosicao": 139,
+      "coItem": 117723,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 26,
+      "skillCode": "H26",
+      "skillDescription": "Analisar informações expressas em gráficos ou tabelas como recurso para a construção de argumentos.",
+      "competenceNumber": 6,
+      "competenceDescription": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+      "theme": "Gráficos e tabelas",
+      "subtheme": "Leitura, interpretação e inferência com dados",
+      "knowledgeObjects": [
+        "Gráficos e tabelas"
+      ]
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "João e Felipe participaram, na escola, de uma maratona\nde matemática na qual, durante uma semana, resolveram\n200 questões cada. Nessa maratona, a porcentagem P de\nacertos de cada participante é convertida em um conceito:\n• insatisfatório: se 0 ≤ P < 50;\n• regular: se 50 ≤ P < 60;\n• bom: se 60 ≤ P < 75;\n• muito bom: se 75 ≤ P < 90;\n• excelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe\nacertou 30% a menos que a quantidade de questões que\nJoão acertou.\nOs conceitos de João e Felipe foram, respectivamente,",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "muito bom e bom.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "muito bom e regular.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "muito bom e insatisfatório.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "bom e regular.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "bom e insatisfatório.",
+          "assets": []
+        }
+      ],
+      "rawText": "João e Felipe participaram, na escola, de uma maratona\nde matemática na qual, durante uma semana, resolveram\n200 questões cada. Nessa maratona, a porcentagem P de\nacertos de cada participante é convertida em um conceito:\n• insatisfatório: se 0 ≤ P < 50;\n• regular: se 50 ≤ P < 60;\n• bom: se 60 ≤ P < 75;\n• muito bom: se 75 ≤ P < 90;\n• excelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe\nacertou 30% a menos que a quantidade de questões que\nJoão acertou.\nOs conceitos de João e Felipe foram, respectivamente,\n\nA. muito bom e bom.\nB. muito bom e regular.\nC. muito bom e insatisfatório.\nD. bom e regular.\nE. bom e insatisfatório.",
+      "coPosicao": 140,
+      "coItem": 35949,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 4,
+      "skillCode": "H4",
+      "skillDescription": "Avaliar a razoabilidade de um resultado numérico na construção de argumentos sobre afirmações quantitativas.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números, operações e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Três grandezas (I, II e III) se relacionam entre si.\nOs gráficos a seguir, formados por segmentos de reta,\ndescrevem as relações de dependência existentes entre\nas grandezas I e II, e entre as grandezas II e III.\n\nO valor máximo assumido pela grandeza III, quando a\ngrandeza I varia de 1 a 3, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-141/statement-01.png",
+        "/generated/enem-2024/math/question-141/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-141/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,0.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2,5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3,0.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3,5.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4,0.",
+          "assets": []
+        }
+      ],
+      "rawText": "Três grandezas (I, II e III) se relacionam entre si.\nOs gráficos a seguir, formados por segmentos de reta,\ndescrevem as relações de dependência existentes entre\nas grandezas I e II, e entre as grandezas II e III.\n\nO valor máximo assumido pela grandeza III, quando a\ngrandeza I varia de 1 a 3, é\n\nA. 1,0.\nB. 2,5.\nC. 3,0.\nD. 3,5.\nE. 4,0.",
+      "coPosicao": 141,
+      "coItem": 141677,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 20,
+      "skillCode": "H20",
+      "skillDescription": "Interpretar gráfico cartesiano que represente relações entre grandezas.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Funções e interpretação de gráficos",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Uma criança, utilizando um aplicativo, escreveu uma\nmensagem para enviar a um amigo. Essa mensagem foi\nescrita seguindo estas etapas:\n\n3ª etapa: copiou o que tinha\nno visor na 2ª etapa e colou\nao lado.\nA criança seguiu copiando e colando, em cada etapa,\no que tinha no visor na etapa imediatamente anterior, até\nconcluir a 20ª etapa. Em seguida, enviou a mensagem.\nQual foi o total de figuras contidas na mensagem enviada?",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-142/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-142/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "3 × 219",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3 × 220",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3 × 221",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3 × 220 − 1",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "3 × 220 − 3",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma criança, utilizando um aplicativo, escreveu uma\nmensagem para enviar a um amigo. Essa mensagem foi\nescrita seguindo estas etapas:\n\n3ª etapa: copiou o que tinha\nno visor na 2ª etapa e colou\nao lado.\nA criança seguiu copiando e colando, em cada etapa,\no que tinha no visor na etapa imediatamente anterior, até\nconcluir a 20ª etapa. Em seguida, enviou a mensagem.\nQual foi o total de figuras contidas na mensagem enviada?\n\nA. 3 × 219\nB. 3 × 220\nC. 3 × 221\nD. 3 × 220 − 1\nE. 3 × 220 − 3",
+      "coPosicao": 142,
+      "coItem": 83799,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 2,
+      "skillCode": "H2",
+      "skillDescription": "Identificar padrões numéricos ou princípios de contagem.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Combinatória e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Uma casa de shows terá um evento cujo custo total\nde produção é de R$ 34 350,00, sendo que comporta\n500 pessoas. O preço do ingresso será de R$ 130,00 e,\nnormalmente, 60% das pessoas adquirem meia-entrada,\npagando R$ 65,00 pelo ingresso. Além do faturamento\nproveniente da venda de ingressos, a casa de shows\nvende, com 60% de lucro, bebidas e petiscos ao público\nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se\nque a quantidade de meias-entradas vendidas superou\nem 50% o que estava previsto, impactando o faturamento\nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual\nde 60% de lucro sobre as bebidas e petiscos, pois todo\no público que comprou ingresso compareceu ao\nshow. Com isso, espera-se ter lucro de R$ 17 000,00\nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por\npessoa com bebidas e petiscos, em real, deverá ser de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "19,50.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "28,80.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "34,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "52,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "68,70.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma casa de shows terá um evento cujo custo total\nde produção é de R$ 34 350,00, sendo que comporta\n500 pessoas. O preço do ingresso será de R$ 130,00 e,\nnormalmente, 60% das pessoas adquirem meia-entrada,\npagando R$ 65,00 pelo ingresso. Além do faturamento\nproveniente da venda de ingressos, a casa de shows\nvende, com 60% de lucro, bebidas e petiscos ao público\nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se\nque a quantidade de meias-entradas vendidas superou\nem 50% o que estava previsto, impactando o faturamento\nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual\nde 60% de lucro sobre as bebidas e petiscos, pois todo\no público que comprou ingresso compareceu ao\nshow. Com isso, espera-se ter lucro de R$ 17 000,00\nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por\npessoa com bebidas e petiscos, em real, deverá ser de\n\nA. 19,50.\nB. 28,80.\nC. 34,00.\nD. 52,00.\nE. 68,70.",
+      "coPosicao": 143,
+      "coItem": 117797,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 18,
+      "skillCode": "H18",
+      "skillDescription": "Avaliar propostas de intervenção na realidade envolvendo variação de grandezas.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Para obter um sólido de revolução (rotação de 360°\nem torno de um eixo fixo), uma professora realizou as\nseguintes etapas:\n• recortou o trapézio retângulo PQRS de um\nmaterial rígido;\n• afixou o lado PS do trapézio em uma vareta fixa\nretilínea (eixo de rotação);\n• girou o trapézio 360° em torno da vareta e obteve\num sólido de revolução.\nObserve a figura que apresenta o trapézio afixado na\nvareta e o sentido de giro.\n\nO sólido obtido foi um(a)",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-144/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-144/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "cone.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "cilindro.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "pirâmide.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "tronco de cone.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "tronco de pirâmide.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para obter um sólido de revolução (rotação de 360°\nem torno de um eixo fixo), uma professora realizou as\nseguintes etapas:\n• recortou o trapézio retângulo PQRS de um\nmaterial rígido;\n• afixou o lado PS do trapézio em uma vareta fixa\nretilínea (eixo de rotação);\n• girou o trapézio 360° em torno da vareta e obteve\num sólido de revolução.\nObserve a figura que apresenta o trapézio afixado na\nvareta e o sentido de giro.\n\nO sólido obtido foi um(a)\n\nA. cone.\nB. cilindro.\nC. pirâmide.\nD. tronco de cone.\nE. tronco de pirâmide.",
+      "coPosicao": 144,
+      "coItem": 125887,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 7,
+      "skillCode": "H7",
+      "skillDescription": "Identificar características de figuras planas ou espaciais.",
+      "competenceNumber": 2,
+      "competenceDescription": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "theme": "Conhecimentos geométricos",
+      "subtheme": "Geometria plana e espacial",
+      "knowledgeObjects": [
+        "Conhecimentos geométricos"
+      ]
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "O estádio do Maracanã passou por algumas\nmodificações estruturais para a realização da Copa do\nMundo de 2014, como, por exemplo, as dimensões do\ncampo retangular. Para se adaptar aos padrões da Fifa,\nas dimensões do campo foram reduzidas de 110 m × 75 m\npara 105 m × 68 m.\nDisponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado).\nEm quantos metros quadrados a área do campo do\nMaracanã foi reduzida?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "24",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "35",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "555",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 110",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 145",
+          "assets": []
+        }
+      ],
+      "rawText": "O estádio do Maracanã passou por algumas\nmodificações estruturais para a realização da Copa do\nMundo de 2014, como, por exemplo, as dimensões do\ncampo retangular. Para se adaptar aos padrões da Fifa,\nas dimensões do campo foram reduzidas de 110 m × 75 m\npara 105 m × 68 m.\nDisponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado).\nEm quantos metros quadrados a área do campo do\nMaracanã foi reduzida?\n\nA. 24\nB. 35\nC. 555\nD. 1 110\nE. 1 145",
+      "coPosicao": 145,
+      "coItem": 55423,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 8,
+      "skillCode": "H8",
+      "skillDescription": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma.",
+      "competenceNumber": 2,
+      "competenceDescription": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "theme": "Conhecimentos geométricos",
+      "subtheme": "Geometria plana e espacial",
+      "knowledgeObjects": [
+        "Conhecimentos geométricos"
+      ]
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "85",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "100",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "175",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "200",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "350",
+          "assets": []
+        }
+      ],
+      "rawText": "Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?\n\nA. 85\nB. 100\nC. 175\nD. 200\nE. 350",
+      "coPosicao": 146,
+      "coItem": 117796,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 22,
+      "skillCode": "H22",
+      "skillDescription": "Utilizar conhecimentos algébricos/geométricos como recurso para a construção de argumentação.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Funções, equações e modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Uma professora de matemática utiliza em suas\naulas uma “máquina caça-números” para verificar os\nconhecimentos de seus estudantes sobre representações\nde números racionais. Essa máquina tem um visor dividido\nem seis compartimentos e, na lateral, uma alavanca. Cada\nestudante puxa a alavanca e espera que os compartimentos\nparem de girar. A partir daí, precisa responder para a\nprofessora em quais posições se encontram os números\nque representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os\ncompartimentos parassem de girar e observou os números\napresentados no visor. A configuração da máquina naquele\ninstante está apresentada na imagem.\n\nEsse estudante respondeu corretamente à pergunta\nda professora.\nAs posições indicadas pelo estudante foram",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-147/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-147/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I, II e IV.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II, IV e V.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "II, III e V.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "III, V e VI.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "III, IV e VI.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma professora de matemática utiliza em suas\naulas uma “máquina caça-números” para verificar os\nconhecimentos de seus estudantes sobre representações\nde números racionais. Essa máquina tem um visor dividido\nem seis compartimentos e, na lateral, uma alavanca. Cada\nestudante puxa a alavanca e espera que os compartimentos\nparem de girar. A partir daí, precisa responder para a\nprofessora em quais posições se encontram os números\nque representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os\ncompartimentos parassem de girar e observou os números\napresentados no visor. A configuração da máquina naquele\ninstante está apresentada na imagem.\n\nEsse estudante respondeu corretamente à pergunta\nda professora.\nAs posições indicadas pelo estudante foram\n\nA. I, II e IV.\nB. II, IV e V.\nC. II, III e V.\nD. III, V e VI.\nE. III, IV e VI.",
+      "coPosicao": 147,
+      "coItem": 87519,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 1,
+      "skillCode": "H1",
+      "skillDescription": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números racionais e equivalência",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Uma caneca com água fervendo é retirada de um\nforno de micro-ondas. A temperatura T, em grau Celsius,\nda caneca, em função do tempo t, em minuto, pode ser\nmodelada pela função T(t) = a + 80 bt, representada no\ngráfico a seguir.\n\nOs valores das constantes a e b são",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-148/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-148/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "a = 20; b = log(0,5)",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "a = 100; b = 0,5",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-148/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-148/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "a = 20; b = 40",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma caneca com água fervendo é retirada de um\nforno de micro-ondas. A temperatura T, em grau Celsius,\nda caneca, em função do tempo t, em minuto, pode ser\nmodelada pela função T(t) = a + 80 bt, representada no\ngráfico a seguir.\n\nOs valores das constantes a e b são\n\nA. a = 20; b = log(0,5)\nB. a = 100; b = 0,5\nC.\nD.\nE. a = 20; b = 40",
+      "coPosicao": 148,
+      "coItem": 13141,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 21,
+      "skillCode": "H21",
+      "skillDescription": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Funções e interpretação de gráficos",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Em uma empresa é comercializado um produto em\nembalagens em formato de cilindro circular reto, com raio\nmedindo 3 cm, e altura medindo 15 cm. Essa empresa\nplaneja comercializar o mesmo produto em embalagens\nem formato de cubo, com capacidade igual a 80% da\ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.\nA medida da aresta da nova embalagem, em centímetro,\ndeve ser",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6 6",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-149/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-149/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Em uma empresa é comercializado um produto em\nembalagens em formato de cilindro circular reto, com raio\nmedindo 3 cm, e altura medindo 15 cm. Essa empresa\nplaneja comercializar o mesmo produto em embalagens\nem formato de cubo, com capacidade igual a 80% da\ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.\nA medida da aresta da nova embalagem, em centímetro,\ndeve ser\n\nA. 6\nB. 18\nC. 6 6\nD.\nE.",
+      "coPosicao": 149,
+      "coItem": 84940,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 14,
+      "skillCode": "H14",
+      "skillDescription": "Avaliar proposta de intervenção na realidade utilizando conhecimentos geométricos relacionados a grandezas e medidas.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Uma sala com piso no formato retangular, com lados\nde medidas 3 m e 6 m, será dividida em dois ambientes.\nPara isso, serão utilizadas colunas em formato cilíndrico,\ndispostas perpendicularmente ao piso e representadas na\nfigura pelos círculos de cor azul. Os centros desses círculos\nestarão sobre uma reta paralela aos lados de menor medida\ndo piso da sala. Os vãos entre duas colunas e entre uma\ncoluna e a parede não poderão ser superiores a 15 cm.\n\nPara efetuar a compra dessas colunas, foram feitos\norçamentos com base em dados fornecidos por cinco lojas.\n\nA compra será realizada na loja cujo orçamento resulte\nno menor valor total possível.\nA compra será realizada na loja",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-150/statement-01.png",
+        "/generated/enem-2024/math/question-150/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-150/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma sala com piso no formato retangular, com lados\nde medidas 3 m e 6 m, será dividida em dois ambientes.\nPara isso, serão utilizadas colunas em formato cilíndrico,\ndispostas perpendicularmente ao piso e representadas na\nfigura pelos círculos de cor azul. Os centros desses círculos\nestarão sobre uma reta paralela aos lados de menor medida\ndo piso da sala. Os vãos entre duas colunas e entre uma\ncoluna e a parede não poderão ser superiores a 15 cm.\n\nPara efetuar a compra dessas colunas, foram feitos\norçamentos com base em dados fornecidos por cinco lojas.\n\nA compra será realizada na loja cujo orçamento resulte\nno menor valor total possível.\nA compra será realizada na loja\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V.",
+      "coPosicao": 150,
+      "coItem": 111708,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 13,
+      "skillCode": "H13",
+      "skillDescription": "Avaliar o resultado de uma medição na construção de um argumento consistente.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O arquiteto Renzo Piano exibiu a maquete da nova\nsede do Museu Whitney de Arte Americana, um prédio\nassimétrico que tem um vão aberto para a galeria principal,\ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).\nA medida da área do vão aberto nessa maquete, em\ncentímetro quadrado, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4,18.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8,36.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "41,80.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "83,60.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "418,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "O arquiteto Renzo Piano exibiu a maquete da nova\nsede do Museu Whitney de Arte Americana, um prédio\nassimétrico que tem um vão aberto para a galeria principal,\ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).\nA medida da área do vão aberto nessa maquete, em\ncentímetro quadrado, é\n\nA. 4,18.\nB. 8,36.\nC. 41,80.\nD. 83,60.\nE. 418,00.",
+      "coPosicao": 151,
+      "coItem": 15394,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 11,
+      "skillCode": "H11",
+      "skillDescription": "Utilizar a noção de escalas na leitura de representação de situação do cotidiano.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O gráfico apresenta o valor total de exportações e o\nvalor total de importações, ao longo de um período, em\nbilhão de dólares. O saldo da balança comercial brasileira\né dado pelo valor total de exportações menos o valor total\nde importações num mesmo período.\nValor total de exportações e importações\n\nDisponível em: http://blogs.estadao.com.br.\nAcesso em: 20 fev. 2013 (adaptado).\nConsidere que os saldos da balança comercial\nbrasileira, nos três meses destacados no gráfico, sejam\nrepresentados por:\n• S₁: saldo em junho de 2009;\n• S₂: saldo em janeiro de 2010;\n• S₃: saldo em junho de 2010.\nA ordenação dos saldos S₁, S₂ e S₃, do maior para o menor, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-152/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-152/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "S₁, S₃ e S₂.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "S₂, S₁ e S₃.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "S₂, S₃ e S₁.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "S₃, S₁ e S₂.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "S₃, S₂ e S₁.",
+          "assets": []
+        }
+      ],
+      "rawText": "O gráfico apresenta o valor total de exportações e o\nvalor total de importações, ao longo de um período, em\nbilhão de dólares. O saldo da balança comercial brasileira\né dado pelo valor total de exportações menos o valor total\nde importações num mesmo período.\nValor total de exportações e importações\n\nDisponível em: http://blogs.estadao.com.br.\nAcesso em: 20 fev. 2013 (adaptado).\nConsidere que os saldos da balança comercial\nbrasileira, nos três meses destacados no gráfico, sejam\nrepresentados por:\n• S₁: saldo em junho de 2009;\n• S₂: saldo em janeiro de 2010;\n• S₃: saldo em junho de 2010.\nA ordenação dos saldos S₁, S₂ e S₃, do maior para o menor, é\n\nA. S₁, S₃ e S₂.\nB. S₂, S₁ e S₃.\nC. S₂, S₃ e S₁.\nD. S₃, S₁ e S₂.\nE. S₃, S₂ e S₁.",
+      "coPosicao": 152,
+      "coItem": 42136,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 25,
+      "skillCode": "H25",
+      "skillDescription": "Resolver problema com dados apresentados em tabelas ou gráficos.",
+      "competenceNumber": 6,
+      "competenceDescription": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+      "theme": "Gráficos e tabelas",
+      "subtheme": "Leitura, interpretação e inferência com dados",
+      "knowledgeObjects": [
+        "Gráficos e tabelas"
+      ]
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Um instituto de pesquisa constatou que, nos últimos\ndez anos, o crescimento populacional de uma cidade foi\nde 135,25%.\nQual é a representação decimal da taxa percentual desse\ncrescimento populacional?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "13 525,0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "135,25",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "13,525",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,3525",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0,13525",
+          "assets": []
+        }
+      ],
+      "rawText": "Um instituto de pesquisa constatou que, nos últimos\ndez anos, o crescimento populacional de uma cidade foi\nde 135,25%.\nQual é a representação decimal da taxa percentual desse\ncrescimento populacional?\n\nA. 13 525,0\nB. 135,25\nC. 13,525\nD. 1,3525\nE. 0,13525",
+      "coPosicao": 153,
+      "coItem": 76177,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 1,
+      "skillCode": "H1",
+      "skillDescription": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números racionais e equivalência",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Contratos de vários serviços disponíveis na internet\napresentam uma quantidade excessiva de informações.\nIsso faz com que o tempo necessário para a leitura desses\ncontratos possa ser longo.\nO quadro apresenta uma amostra do tempo considerado\nnecessário para a leitura completa do contrato de alguns\nserviços digitais.\n\nROMERO, L. Não li e concordo. Superinteressante,\nn. 307, ago. 2012 (adaptado).\nO tempo médio, em minuto, necessário para a leitura\ncompleta de um contrato de serviço dentre os listados\nno quadro é, com uma casa decimal, aproximadamente,",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-154/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-154/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "13,0.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "15,0.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "19,8.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "20,0.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "23,3.",
+          "assets": []
+        }
+      ],
+      "rawText": "Contratos de vários serviços disponíveis na internet\napresentam uma quantidade excessiva de informações.\nIsso faz com que o tempo necessário para a leitura desses\ncontratos possa ser longo.\nO quadro apresenta uma amostra do tempo considerado\nnecessário para a leitura completa do contrato de alguns\nserviços digitais.\n\nROMERO, L. Não li e concordo. Superinteressante,\nn. 307, ago. 2012 (adaptado).\nO tempo médio, em minuto, necessário para a leitura\ncompleta de um contrato de serviço dentre os listados\nno quadro é, com uma casa decimal, aproximadamente,\n\nA. 13,0.\nB. 15,0.\nC. 19,8.\nD. 20,0.\nE. 23,3.",
+      "coPosicao": 154,
+      "coItem": 55806,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 27,
+      "skillCode": "H27",
+      "skillDescription": "Calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Um proprietário pretende instalar um sensor de\npresença para a proteção de seu imóvel. O sensor\ndeverá detectar movimentos de objetos e pessoas numa\ndeterminada região plana. A figura ilustra a vista superior\nda área de cobertura (setor circular em azul) de um sensor\ncolocado no ponto S. Essa área depende da medida do\nângulo α, em grau, e do raio R, em metro.\n\nAo aumentar o ângulo αou o raio R aumenta-se a\nárea de cobertura do sensor. Entretanto, quanto maior\nessa área, maior o preço do sensor.\nPara esse fim, há cinco tipos de sensores disponíveis\nno mercado, cada um com as seguintes características:\n• tipo I: α₌ 15° e R = 20 m;\n• tipo II: α₌ 30° e R = 22 m;\n• tipo III: α₌ 40° e R = 12 m;\n• tipo IV: α₌ 60° e R = 16 m;\n• tipo V: α₌ 90° e R = 10 m.\nEsse proprietário pretende adquirir um desses sensores\nque seja capaz de cobrir, no mínimo, uma área de medida\n70 m2, com o menor preço possível.\nUse 3 como valor aproximado para π.\nO proprietário do imóvel deverá adquirir o sensor do tipo",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-155/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-155/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um proprietário pretende instalar um sensor de\npresença para a proteção de seu imóvel. O sensor\ndeverá detectar movimentos de objetos e pessoas numa\ndeterminada região plana. A figura ilustra a vista superior\nda área de cobertura (setor circular em azul) de um sensor\ncolocado no ponto S. Essa área depende da medida do\nângulo α, em grau, e do raio R, em metro.\n\nAo aumentar o ângulo αou o raio R aumenta-se a\nárea de cobertura do sensor. Entretanto, quanto maior\nessa área, maior o preço do sensor.\nPara esse fim, há cinco tipos de sensores disponíveis\nno mercado, cada um com as seguintes características:\n• tipo I: α₌ 15° e R = 20 m;\n• tipo II: α₌ 30° e R = 22 m;\n• tipo III: α₌ 40° e R = 12 m;\n• tipo IV: α₌ 60° e R = 16 m;\n• tipo V: α₌ 90° e R = 10 m.\nEsse proprietário pretende adquirir um desses sensores\nque seja capaz de cobrir, no mínimo, uma área de medida\n70 m2, com o menor preço possível.\nUse 3 como valor aproximado para π.\nO proprietário do imóvel deverá adquirir o sensor do tipo\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V.",
+      "coPosicao": 155,
+      "coItem": 125957,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 9,
+      "skillCode": "H9",
+      "skillDescription": "Utilizar conhecimentos geométricos de espaço e forma na seleção de argumentos propostos como solução de problemas do cotidiano.",
+      "competenceNumber": 2,
+      "competenceDescription": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "theme": "Conhecimentos geométricos",
+      "subtheme": "Geometria plana e espacial",
+      "knowledgeObjects": [
+        "Conhecimentos geométricos"
+      ]
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "O uso de aplicativos de transporte tem sido uma\nalternativa à população que busca preços mais competitivos\npara se locomover, principalmente nas grandes cidades.\nAs formas usadas para determinar o valor cobrado por\ncada viagem variam de um aplicativo para outro, mas, em\ngeral, o valor V a ser pago, em real, varia em função de:\n• tarifa base F: valor fixo, em real, cobrado no início\nda viagem;\n• tempo T: tempo, em minuto, de duração da viagem;\n• distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo,\nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40\npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a\nser pago por uma viagem desse aplicativo é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2,00F + 0,26T + 1,40D",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2,00 + 0,26T + 1,40D",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2,00 + 0,26T + D",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "0,26T + 1,40D",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "F + T + D",
+          "assets": []
+        }
+      ],
+      "rawText": "O uso de aplicativos de transporte tem sido uma\nalternativa à população que busca preços mais competitivos\npara se locomover, principalmente nas grandes cidades.\nAs formas usadas para determinar o valor cobrado por\ncada viagem variam de um aplicativo para outro, mas, em\ngeral, o valor V a ser pago, em real, varia em função de:\n• tarifa base F: valor fixo, em real, cobrado no início\nda viagem;\n• tempo T: tempo, em minuto, de duração da viagem;\n• distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo,\nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40\npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a\nser pago por uma viagem desse aplicativo é\n\nA. 2,00F + 0,26T + 1,40D\nB. 2,00 + 0,26T + 1,40D\nC. 2,00 + 0,26T + D\nD. 0,26T + 1,40D\nE. F + T + D",
+      "coPosicao": 156,
+      "coItem": 117618,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 19,
+      "skillCode": "H19",
+      "skillDescription": "Identificar representações algébricas que expressem a relação entre grandezas.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Uma doceira vende e entrega, em seu bairro, porções\nde 100 g de docinhos de aniversário. Atualmente, a taxa\núnica de entrega é R$ 10,00, e o valor cobrado por uma\nporção é R$ 25,00. Por uma estratégia de vendas, a partir\nda próxima semana, a taxa única de entrega será R$ 15,00,\ne um novo valor será cobrado por uma porção, de maneira\nque o valor total a ser pago por um cliente na compra de\n5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor\ncobrado, em real, por uma porção?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "12,50",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "20,00",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "24,00",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "30,00",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "37,50",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma doceira vende e entrega, em seu bairro, porções\nde 100 g de docinhos de aniversário. Atualmente, a taxa\núnica de entrega é R$ 10,00, e o valor cobrado por uma\nporção é R$ 25,00. Por uma estratégia de vendas, a partir\nda próxima semana, a taxa única de entrega será R$ 15,00,\ne um novo valor será cobrado por uma porção, de maneira\nque o valor total a ser pago por um cliente na compra de\n5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor\ncobrado, em real, por uma porção?\n\nA. 12,50\nB. 20,00\nC. 24,00\nD. 30,00\nE. 37,50",
+      "coPosicao": 157,
+      "coItem": 125993,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 23,
+      "skillCode": "H23",
+      "skillDescription": "Avaliar propostas de intervenção na realidade utilizando conhecimentos algébricos.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Funções, equações e modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Em uma loja de defensivos agrícolas, os preços de\nalguns produtos foram divulgados em um cartaz.\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente\npara aplicação em 0,5 hectare (ha), enquanto que 1 litro de\ndefensivo do Tipo B é suficiente para aplicação em 0,4 ha.\nUm agricultor precisa comprar, nessa loja, uma quantidade\nde litros de defensivo suficiente para aplicar em uma área\nde 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-158/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-158/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "147,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "150,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "162,50.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "165,75.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "168,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma loja de defensivos agrícolas, os preços de\nalguns produtos foram divulgados em um cartaz.\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente\npara aplicação em 0,5 hectare (ha), enquanto que 1 litro de\ndefensivo do Tipo B é suficiente para aplicação em 0,4 ha.\nUm agricultor precisa comprar, nessa loja, uma quantidade\nde litros de defensivo suficiente para aplicar em uma área\nde 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é\n\nA. 147,00.\nB. 150,00.\nC. 162,50.\nD. 165,75.\nE. 168,00.",
+      "coPosicao": 158,
+      "coItem": 60313,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 4,
+      "skillCode": "H4",
+      "skillDescription": "Avaliar a razoabilidade de um resultado numérico na construção de argumentos sobre afirmações quantitativas.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números, operações e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Uma tubulação despeja sempre o mesmo volume de\nágua por unidade de tempo em uma caixa-d’água, o que\nsignifica dizer que a vazão de água nessa tubulação é\nconstante. Na junção dessa tubulação com a caixa-d’água,\nestá instalada uma membrana de filtragem cujo objetivo é\nfiltrar eventuais impurezas presentes na água, combinado\na um bom fluxo de água. O fluxo (φ₎ de água através\nda superfície da membrana é diretamente proporcional\nà vazão de água na tubulação, medida em mililitro por\nsegundo, e inversamente proporcional à área da superfície\nda membrana, medida em centímetro quadrado.\nA unidade de medida adequada para descrever o fluxo\n(φ₎ de água que atravessa a superfície da membrana é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-159/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-159/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-159/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-159/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "cm s mL ⋅",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma tubulação despeja sempre o mesmo volume de\nágua por unidade de tempo em uma caixa-d’água, o que\nsignifica dizer que a vazão de água nessa tubulação é\nconstante. Na junção dessa tubulação com a caixa-d’água,\nestá instalada uma membrana de filtragem cujo objetivo é\nfiltrar eventuais impurezas presentes na água, combinado\na um bom fluxo de água. O fluxo (φ₎ de água através\nda superfície da membrana é diretamente proporcional\nà vazão de água na tubulação, medida em mililitro por\nsegundo, e inversamente proporcional à área da superfície\nda membrana, medida em centímetro quadrado.\nA unidade de medida adequada para descrever o fluxo\n(φ₎ de água que atravessa a superfície da membrana é\n\nA.\nB.\nC.\nD.\nE. cm s mL ⋅",
+      "coPosicao": 159,
+      "coItem": 117747,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 10,
+      "skillCode": "H10",
+      "skillDescription": "Identificar relações entre grandezas e unidades de medida.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina,\nem litro por minuto, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "8 250.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "7 920.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6 545.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5 500.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5 280.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina,\nem litro por minuto, é\n\nA. 8 250.\nB. 7 920.\nC. 6 545.\nD. 5 500.\nE. 5 280.",
+      "coPosicao": 160,
+      "coItem": 117712,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 16,
+      "skillCode": "H16",
+      "skillDescription": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na\nsua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três\nretângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido\npor uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias\n12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas\nao longo do enchimento do tanque, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-161/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-161/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-161/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-161/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-161/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-161/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-161/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na\nsua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três\nretângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido\npor uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias\n12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas\nao longo do enchimento do tanque, é\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 161,
+      "coItem": 141550,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 15,
+      "skillCode": "H15",
+      "skillDescription": "Identificar a relação de dependência entre grandezas.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Uma imobiliária iniciou uma campanha de divulgação\npara promover a venda de apartamentos que podem ser\npagos em 100 parcelas mensais. O valor da primeira delas\né fixado no momento da compra, com o pagamento dessa\nprimeira parcela. A partir da segunda parcela, o valor é\ndeterminado pela aplicação de um acréscimo percentual\nfixo ao valor da parcela anterior. Como atrativo, a imobiliária\nfará o pagamento de todas as parcelas correspondentes\nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio,\ndecidiu comprar um desses apartamentos por meio do\nfinanciamento oferecido pela imobiliária, e pretende escolher\no mês mais adequado para realizar essa compra, de modo\nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para\nrealizar a compra do apartamento?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Fevereiro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Abril.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Maio.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Junho.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Agosto.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma imobiliária iniciou uma campanha de divulgação\npara promover a venda de apartamentos que podem ser\npagos em 100 parcelas mensais. O valor da primeira delas\né fixado no momento da compra, com o pagamento dessa\nprimeira parcela. A partir da segunda parcela, o valor é\ndeterminado pela aplicação de um acréscimo percentual\nfixo ao valor da parcela anterior. Como atrativo, a imobiliária\nfará o pagamento de todas as parcelas correspondentes\nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio,\ndecidiu comprar um desses apartamentos por meio do\nfinanciamento oferecido pela imobiliária, e pretende escolher\no mês mais adequado para realizar essa compra, de modo\nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para\nrealizar a compra do apartamento?\n\nA. Fevereiro.\nB. Abril.\nC. Maio.\nD. Junho.\nE. Agosto.",
+      "coPosicao": 162,
+      "coItem": 125992,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 5,
+      "skillCode": "H5",
+      "skillDescription": "Avaliar propostas de intervenção na realidade utilizando conhecimentos numéricos.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números, operações e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Um sistema de polias circulares e correias é um dos\nmecanismos responsáveis pela transmissão de movimento\nem máquinas rotativas. O manual de um motor traz uma\nfigura representando um sistema composto por duas polias\ne uma correia de transmissão, tensionada e perfeitamente\najustada sobre as polias, de modo a não apresentar folgas\nnos contatos com as polias. Considere que as partes\ndessa correia que não ficam em contato com as polias são\nrepresentadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a\nespecificação de seu comprimento.\nConsidere 3 como valor aproximado para π.\nA medida do comprimento dessa correia, em centímetro, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-163/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-163/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "54.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "60.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "66.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "68.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "72.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um sistema de polias circulares e correias é um dos\nmecanismos responsáveis pela transmissão de movimento\nem máquinas rotativas. O manual de um motor traz uma\nfigura representando um sistema composto por duas polias\ne uma correia de transmissão, tensionada e perfeitamente\najustada sobre as polias, de modo a não apresentar folgas\nnos contatos com as polias. Considere que as partes\ndessa correia que não ficam em contato com as polias são\nrepresentadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a\nespecificação de seu comprimento.\nConsidere 3 como valor aproximado para π.\nA medida do comprimento dessa correia, em centímetro, é\n\nA. 54.\nB. 60.\nC. 66.\nD. 68.\nE. 72.",
+      "coPosicao": 163,
+      "coItem": 17539,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 12,
+      "skillCode": "H12",
+      "skillDescription": "Resolver situação-problema que envolva medidas de grandezas.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "A prefeitura de uma cidade planeja construir três postos\nde saúde. Esses postos devem ser construídos em locais\nequidistantes entre si e de forma que as distâncias desses\ntrês postos ao hospital dessa cidade sejam iguais. Foram\nconseguidos três locais para a construção dos postos de\nsaúde que apresentam as características desejadas, e\nque distam 10 km entre si, conforme o esquema, no qual o\nponto H representa o local onde está construído o hospital;\nos pontos P₁, P₂ e P₃, os postos de saúde; e esses quatro\npontos estão em um mesmo plano.\n\nA distância, em quilômetro, entre o hospital e cada um dos\npostos de saúde, é um valor entre",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-164/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 e 3.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4 e 5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "5 e 6.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "7 e 8.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "8 e 9.",
+          "assets": []
+        }
+      ],
+      "rawText": "A prefeitura de uma cidade planeja construir três postos\nde saúde. Esses postos devem ser construídos em locais\nequidistantes entre si e de forma que as distâncias desses\ntrês postos ao hospital dessa cidade sejam iguais. Foram\nconseguidos três locais para a construção dos postos de\nsaúde que apresentam as características desejadas, e\nque distam 10 km entre si, conforme o esquema, no qual o\nponto H representa o local onde está construído o hospital;\nos pontos P₁, P₂ e P₃, os postos de saúde; e esses quatro\npontos estão em um mesmo plano.\n\nA distância, em quilômetro, entre o hospital e cada um dos\npostos de saúde, é um valor entre\n\nA. 2 e 3.\nB. 4 e 5.\nC. 5 e 6.\nD. 7 e 8.\nE. 8 e 9.",
+      "coPosicao": 164,
+      "coItem": 79213,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 8,
+      "skillCode": "H8",
+      "skillDescription": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma.",
+      "competenceNumber": 2,
+      "competenceDescription": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "theme": "Conhecimentos geométricos",
+      "subtheme": "Geometria plana e espacial",
+      "knowledgeObjects": [
+        "Conhecimentos geométricos"
+      ]
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Para melhorar o fluxo de ônibus em uma avenida que\ntem dois semáforos, a prefeitura reduzirá o tempo em\nque cada sinal ficará vermelho, que atualmente é de 15\nsegundos a cada 60 segundos. Admita que o instante de\nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a\nprobabilidade de um ônibus encontrar cada um deles\nvermelho, obtendo 15/60\n. A partir daí, estabeleceu uma\nmesma redução na quantidade do tempo, em segundo,\nem que cada sinal ficará vermelho, de maneira que\na probabilidade de um ônibus encontrar ambos os\n\nconsiderando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará\nvermelho, em segundo, estabelecida pelo engenheiro foi de",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-165/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-165/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,35.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "9,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12,60.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "13,80.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para melhorar o fluxo de ônibus em uma avenida que\ntem dois semáforos, a prefeitura reduzirá o tempo em\nque cada sinal ficará vermelho, que atualmente é de 15\nsegundos a cada 60 segundos. Admita que o instante de\nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a\nprobabilidade de um ônibus encontrar cada um deles\nvermelho, obtendo 15/60\n. A partir daí, estabeleceu uma\nmesma redução na quantidade do tempo, em segundo,\nem que cada sinal ficará vermelho, de maneira que\na probabilidade de um ônibus encontrar ambos os\n\nconsiderando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará\nvermelho, em segundo, estabelecida pelo engenheiro foi de\n\nA. 1,35.\nB. 3,00.\nC. 9,00.\nD. 12,60.\nE. 13,80.",
+      "coPosicao": 165,
+      "coItem": 111706,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 30,
+      "skillCode": "H30",
+      "skillDescription": "Avaliar propostas de intervenção na realidade utilizando conhecimentos de estatística e probabilidade.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "A densidade demográfica de uma região é definida\ncomo sendo a razão entre o número de habitantes dessa\nregião e sua área, expressa na unidade habitantes por\nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo\numa delas a região Q. A área de Q é igual a três quartos da\nárea de R, e o número de habitantes de Q é igual à metade\ndo número de habitantes de R. As densidades demográficas\ncorrespondentes a essas regiões são denotadas por d(Q)\ne d(R).\nA expressão que relaciona d(Q) e d(R) é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-166/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-166/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-166/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-166/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-166/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A densidade demográfica de uma região é definida\ncomo sendo a razão entre o número de habitantes dessa\nregião e sua área, expressa na unidade habitantes por\nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo\numa delas a região Q. A área de Q é igual a três quartos da\nárea de R, e o número de habitantes de Q é igual à metade\ndo número de habitantes de R. As densidades demográficas\ncorrespondentes a essas regiões são denotadas por d(Q)\ne d(R).\nA expressão que relaciona d(Q) e d(R) é\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 166,
+      "coItem": 39631,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 19,
+      "skillCode": "H19",
+      "skillDescription": "Identificar representações algébricas que expressem a relação entre grandezas.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Atualmente, há telefones celulares com telas de\ndiversos tamanhos e em formatos retangulares. Alguns\ndeles apresentam telas medindo 3 1/2\npolegadas, com\ndeterminadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\ncelular, suas telas ficaram maiores, sendo muito comum\n\nDisponível em: www.tecmundo.com.br.\nAcesso em: 5 nov. 2014 (adaptado).\nA diferença de tamanho, em valor absoluto, entre as\nmedidas, em polegada, das telas do celular 2 e do celular 1,\nrepresentada apenas com uma casa decimal, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-167/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-167/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,0.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,3.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1,8.",
+          "assets": []
+        }
+      ],
+      "rawText": "Atualmente, há telefones celulares com telas de\ndiversos tamanhos e em formatos retangulares. Alguns\ndeles apresentam telas medindo 3 1/2\npolegadas, com\ndeterminadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\ncelular, suas telas ficaram maiores, sendo muito comum\n\nDisponível em: www.tecmundo.com.br.\nAcesso em: 5 nov. 2014 (adaptado).\nA diferença de tamanho, em valor absoluto, entre as\nmedidas, em polegada, das telas do celular 2 e do celular 1,\nrepresentada apenas com uma casa decimal, é\n\nA. 0,1.\nB. 0,5.\nC. 1,0.\nD. 1,3.\nE. 1,8.",
+      "coPosicao": 167,
+      "coItem": 81496,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 3,
+      "skillCode": "H3",
+      "skillDescription": "Resolver situação-problema envolvendo conhecimentos numéricos.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Números racionais e equivalência",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações\nsemelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve\nduração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos\nrestantes em superfície que simula uma estrada de chão.\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em\ncada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor\ndo que sua amplitude da oscilação na estrada de chão.\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-168/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-168/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-168/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-168/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-168/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações\nsemelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve\nduração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos\nrestantes em superfície que simula uma estrada de chão.\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em\ncada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor\ndo que sua amplitude da oscilação na estrada de chão.\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 168,
+      "coItem": 111549,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 15,
+      "skillCode": "H15",
+      "skillDescription": "Identificar a relação de dependência entre grandezas.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de dependência e proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas.\nJúlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim,\nse a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do\nalfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C”\npelo “F”, e assim sucessivamente.\n\nDisponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César\nou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído,\npois isso define todas as demais substituições a serem feitas.\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade\nde se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada\nnas tentativas seguintes.\nA probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-169/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-169/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-169/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-169/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-169/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-169/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-169/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas.\nJúlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim,\nse a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do\nalfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C”\npelo “F”, e assim sucessivamente.\n\nDisponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César\nou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído,\npois isso define todas as demais substituições a serem feitas.\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade\nde se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada\nnas tentativas seguintes.\nA probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 169,
+      "coItem": 125923,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 28,
+      "skillCode": "H28",
+      "skillDescription": "Resolver situação-problema que envolva conhecimentos de estatística e probabilidade.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram\nmagnitudes M₁ e M₂, medidos segundo a escala Richter, e liberaram energias iguais a E₁ e E₂, respectivamente. Entre\nos estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M₁ = 6,9 e a energia\nliberada foi um décimo da observada no segundo terremoto.\nO valor aproximado da magnitude M₂ do segundo terremoto, expresso com uma casa decimal, é igual a",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-170/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-170/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "5,4.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "6,2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "7,6.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "8,2.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "8,4.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram\nmagnitudes M₁ e M₂, medidos segundo a escala Richter, e liberaram energias iguais a E₁ e E₂, respectivamente. Entre\nos estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M₁ = 6,9 e a energia\nliberada foi um décimo da observada no segundo terremoto.\nO valor aproximado da magnitude M₂ do segundo terremoto, expresso com uma casa decimal, é igual a\n\nA. 5,4.\nB. 6,2.\nC. 7,6.\nD. 8,2.\nE. 8,4.",
+      "coPosicao": 170,
+      "coItem": 96636,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 21,
+      "skillCode": "H21",
+      "skillDescription": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado\npor essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será\npela forma que resulte na maior área.\nO jardineiro escolherá a forma de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-171/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-171/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-171/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-171/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-171/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado\npor essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será\npela forma que resulte na maior área.\nO jardineiro escolherá a forma de\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 171,
+      "coItem": 95687,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 22,
+      "skillCode": "H22",
+      "skillDescription": "Utilizar conhecimentos algébricos/geométricos como recurso para a construção de argumentação.",
+      "competenceNumber": 5,
+      "competenceDescription": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "theme": "Conhecimentos algébricos",
+      "subtheme": "Funções, equações e modelagem algébrica",
+      "knowledgeObjects": [
+        "Conhecimentos algébricos"
+      ]
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que\npartem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros,\ne o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem\ndiferentes partes do trecho, conforme o esquema.\n\nO alcance de cada uma das cinco câmeras é:\n• câmera I: 1/5\ndo percurso;\n• câmera II: 3/10 do percurso;\n• câmera III: 1/10\ndo percurso;\n• câmera IV: 1/10 do percurso;\n• câmera V: 3/10\ndo percurso.\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de\n250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.\nQual câmera registra o momento em que os ônibus A e B se encontram?",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-172/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-172/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V",
+          "assets": []
+        }
+      ],
+      "rawText": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que\npartem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros,\ne o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem\ndiferentes partes do trecho, conforme o esquema.\n\nO alcance de cada uma das cinco câmeras é:\n• câmera I: 1/5\ndo percurso;\n• câmera II: 3/10 do percurso;\n• câmera III: 1/10\ndo percurso;\n• câmera IV: 1/10 do percurso;\n• câmera V: 3/10\ndo percurso.\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de\n250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.\nQual câmera registra o momento em que os ônibus A e B se encontram?\n\nA. I\nB. II\nC. III\nD. IV\nE. V",
+      "coPosicao": 172,
+      "coItem": 125890,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 17,
+      "skillCode": "H17",
+      "skillDescription": "Analisar informações envolvendo a variação de grandezas como recurso para a construção de argumentação.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Uma empresa tem 400 funcionários, distribuídos em\ntrês setores: administrativo, logística e produção. O gráfico\napresenta a distribuição quantitativa desses funcionários,\npor setor e por faixa etária.\n\nUma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade\nde serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja\nna faixa etária",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-173/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-173/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa tem 400 funcionários, distribuídos em\ntrês setores: administrativo, logística e produção. O gráfico\napresenta a distribuição quantitativa desses funcionários,\npor setor e por faixa etária.\n\nUma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade\nde serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja\nna faixa etária\n\nA. entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.\nB. entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.\nC. até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.\nD. até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa.\nE. a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%.",
+      "coPosicao": 173,
+      "coItem": 84423,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "A",
+      "coHabilidade": 29,
+      "skillCode": "H29",
+      "skillDescription": "Utilizar conhecimentos de estatística e probabilidade como recurso para a construção de argumentação.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Em um jogo virtual para celular, um personagem pode\npercorrer trajetórias retilíneas voando ou se deslocando ao\nlongo de paredes. Considere que o personagem descreve\na trajetória ABCDEF, em que os pontos A, D e E estão em\num plano paralelo ao que contém os pontos B e C, sendo\nesses dois planos ortogonais ao plano da base que contém\no ponto F, conforme a figura.\n\nA projeção ortogonal, sobre o plano da base, da trajetória\nABCDEF descrita pelo personagem é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-174/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-174/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-174/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-174/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-174/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-174/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-174/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Em um jogo virtual para celular, um personagem pode\npercorrer trajetórias retilíneas voando ou se deslocando ao\nlongo de paredes. Considere que o personagem descreve\na trajetória ABCDEF, em que os pontos A, D e E estão em\num plano paralelo ao que contém os pontos B e C, sendo\nesses dois planos ortogonais ao plano da base que contém\no ponto F, conforme a figura.\n\nA projeção ortogonal, sobre o plano da base, da trajetória\nABCDEF descrita pelo personagem é\n\nA.\nB.\nC.\nD.\nE.",
+      "coPosicao": 174,
+      "coItem": 125996,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 6,
+      "skillCode": "H6",
+      "skillDescription": "Interpretar a localização e a movimentação de pessoas/objetos no espaço tridimensional e sua representação no espaço bidimensional.",
+      "competenceNumber": 2,
+      "competenceDescription": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "theme": "Conhecimentos geométricos",
+      "subtheme": "Geometria plana e espacial",
+      "knowledgeObjects": [
+        "Conhecimentos geométricos"
+      ]
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Uma indústria faz uma parceria com uma distribuidora\nde sucos para lançar no mercado dois tipos de\nembalagens. Para a fabricação dessas embalagens,\na indústria dispõe de folhas de alumínio retangulares,\nde dimensões 10 cm por 20 cm. Cada uma dessas\nfolhas é utilizada para formar a superfície lateral da\nembalagem, em formato de cilindro circular reto, que\nposteriormente recebe fundo e tampa circulares. A figura\nilustra, dependendo de qual das duas extensões será\nutilizada como altura, as duas opções para formar a\npossível embalagem.\n\nDentre essas duas embalagens, a de maior capacidade\napresentará volume, em centímetro cúbico, igual a",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-175/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-175/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4 000 π",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2 000 π",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4 000 π",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1000 π",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "500 π",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma indústria faz uma parceria com uma distribuidora\nde sucos para lançar no mercado dois tipos de\nembalagens. Para a fabricação dessas embalagens,\na indústria dispõe de folhas de alumínio retangulares,\nde dimensões 10 cm por 20 cm. Cada uma dessas\nfolhas é utilizada para formar a superfície lateral da\nembalagem, em formato de cilindro circular reto, que\nposteriormente recebe fundo e tampa circulares. A figura\nilustra, dependendo de qual das duas extensões será\nutilizada como altura, as duas opções para formar a\npossível embalagem.\n\nDentre essas duas embalagens, a de maior capacidade\napresentará volume, em centímetro cúbico, igual a\n\nA. 4 000 π\nB. 2 000 π\nC. 4 000 π\nD. 1000 π\nE. 500 π",
+      "coPosicao": 175,
+      "coItem": 49701,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "D",
+      "coHabilidade": 12,
+      "skillCode": "H12",
+      "skillDescription": "Resolver situação-problema que envolva medidas de grandezas.",
+      "competenceNumber": 3,
+      "competenceDescription": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Grandezas e medidas",
+      "subtheme": "Medidas, escalas e unidades",
+      "knowledgeObjects": [
+        "Grandezas e medidas"
+      ]
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "As receitas anuais obtidas por uma indústria no período\nde 2014 a 2021, em milhão de reais, foram registradas, por\npontos, em um gráfico. Nele, também está representada a\nreta que descreve a tendência de evolução das receitas.\nEssa reta pode ser utilizada para estimar as receitas dos\nanos seguintes.\n\nA estimativa da receita, em milhão de reais, dessa\nindústria, para o ano de 2026, obtida a partir dessa reta\nde tendência, é",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-176/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-176/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "7.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "9.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "10.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "11.",
+          "assets": []
+        }
+      ],
+      "rawText": "As receitas anuais obtidas por uma indústria no período\nde 2014 a 2021, em milhão de reais, foram registradas, por\npontos, em um gráfico. Nele, também está representada a\nreta que descreve a tendência de evolução das receitas.\nEssa reta pode ser utilizada para estimar as receitas dos\nanos seguintes.\n\nA estimativa da receita, em milhão de reais, dessa\nindústria, para o ano de 2026, obtida a partir dessa reta\nde tendência, é\n\nA. 7.\nB. 8.\nC. 9.\nD. 10.\nE. 11.",
+      "coPosicao": 176,
+      "coItem": 141579,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "B",
+      "coHabilidade": 24,
+      "skillCode": "H24",
+      "skillDescription": "Utilizar informações expressas em gráficos ou tabelas para fazer inferências.",
+      "competenceNumber": 6,
+      "competenceDescription": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+      "theme": "Gráficos e tabelas",
+      "subtheme": "Leitura, interpretação e inferência com dados",
+      "knowledgeObjects": [
+        "Gráficos e tabelas"
+      ]
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Uma empresa produz mochilas escolares sob\nencomenda. Essa empresa tem um custo total de produção,\ncomposto por um custo fixo, que não depende do número\nde mochilas, mais um custo variável, que é proporcional\nao número de mochilas produzidas. O custo total cresce\nde forma linear, e a tabela apresenta esse custo para três\nquantidades de mochilas produzidas.\n\nO custo total, em real, para a produção de 80 mochilas será",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-177/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-177/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 400,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2 520,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 550,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2 700,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2 800,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa produz mochilas escolares sob\nencomenda. Essa empresa tem um custo total de produção,\ncomposto por um custo fixo, que não depende do número\nde mochilas, mais um custo variável, que é proporcional\nao número de mochilas produzidas. O custo total cresce\nde forma linear, e a tabela apresenta esse custo para três\nquantidades de mochilas produzidas.\n\nO custo total, em real, para a produção de 80 mochilas será\n\nA. 2 400,00.\nB. 2 520,00.\nC. 2 550,00.\nD. 2 700,00.\nE. 2 800,00.",
+      "coPosicao": 177,
+      "coItem": 12877,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 25,
+      "skillCode": "H25",
+      "skillDescription": "Resolver problema com dados apresentados em tabelas ou gráficos.",
+      "competenceNumber": 6,
+      "competenceDescription": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+      "theme": "Gráficos e tabelas",
+      "subtheme": "Leitura, interpretação e inferência com dados",
+      "knowledgeObjects": [
+        "Gráficos e tabelas"
+      ]
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "A umidade relativa do ar é um dos indicadores utilizados\nna meteorologia para fazer previsões sobre o clima.\nO quadro apresenta as médias mensais, em porcentagem,\nda umidade relativa do ar em um período de seis meses\nconsecutivos em uma cidade.\n\nNessa cidade, a mediana desses dados, em porcentagem,\nda umidade relativa do ar no período considerado foi",
+      "statementAssets": [
+        "/generated/enem-2024/math/question-178/statement-01.png",
+        "/generated/enem-2024/math/question-178/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2024/math/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "56.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "58.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "59.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "60.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "62.",
+          "assets": []
+        }
+      ],
+      "rawText": "A umidade relativa do ar é um dos indicadores utilizados\nna meteorologia para fazer previsões sobre o clima.\nO quadro apresenta as médias mensais, em porcentagem,\nda umidade relativa do ar em um período de seis meses\nconsecutivos em uma cidade.\n\nNessa cidade, a mediana desses dados, em porcentagem,\nda umidade relativa do ar no período considerado foi\n\nA. 56.\nB. 58.\nC. 59.\nD. 60.\nE. 62.",
+      "coPosicao": 178,
+      "coItem": 14995,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 27,
+      "skillCode": "H27",
+      "skillDescription": "Calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos.",
+      "competenceNumber": 7,
+      "competenceDescription": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "theme": "Estatística e probabilidade",
+      "subtheme": "Medidas estatísticas, amostragem e chance",
+      "knowledgeObjects": [
+        "Estatística e probabilidade"
+      ]
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente:\n• engenheiro I: 4 dias, numa jornada de 5 horas e\nmeia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e\nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos\npor esse serviço entre dois desses engenheiros?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 000",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 500",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3 500",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3 800",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5 250",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente:\n• engenheiro I: 4 dias, numa jornada de 5 horas e\nmeia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e\nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos\npor esse serviço entre dois desses engenheiros?\n\nA. 1 000\nB. 1 500\nC. 3 500\nD. 3 800\nE. 5 250",
+      "coPosicao": 179,
+      "coItem": 117774,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "C",
+      "coHabilidade": 16,
+      "skillCode": "H16",
+      "skillDescription": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais.",
+      "competenceNumber": 4,
+      "competenceDescription": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "theme": "Variação de grandezas",
+      "subtheme": "Relações de proporcionalidade",
+      "knowledgeObjects": [
+        "Variação de grandezas"
+      ]
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2024 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Um hospital tem 7 médicos cardiologistas e 6 médicos\nneurologistas em seu quadro de funcionários. Para\nexecutar determinada atividade, a direção desse hospital\nformará uma equipe com 5 médicos, sendo, pelo menos,\n3 cardiologistas.\nA expressão numérica que representa o número máximo\nde maneiras distintas de formar essa equipe é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-180/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-180/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2024/math/question-180/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+          "assets": []
+        }
+      ],
+      "rawText": "Um hospital tem 7 médicos cardiologistas e 6 médicos\nneurologistas em seu quadro de funcionários. Para\nexecutar determinada atividade, a direção desse hospital\nformará uma equipe com 5 médicos, sendo, pelo menos,\n3 cardiologistas.\nA expressão numérica que representa o número máximo\nde maneiras distintas de formar essa equipe é\n\nA.\nB.\nC.\nD. 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !\nE. 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+      "coPosicao": 180,
+      "coItem": 60335,
+      "coProva": 1407,
+      "coProvasEquivalentes": [
+        1407
+      ],
+      "color": "AZUL",
+      "areaCode": "MT",
+      "areaDescription": "Matemática",
+      "gabarito": "E",
+      "coHabilidade": 2,
+      "skillCode": "H2",
+      "skillDescription": "Identificar padrões numéricos ou princípios de contagem.",
+      "competenceNumber": 1,
+      "competenceDescription": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "theme": "Conhecimentos numéricos",
+      "subtheme": "Combinatória e contagem",
+      "knowledgeObjects": [
+        "Conhecimentos numéricos"
+      ]
+    }
+  ]
+}

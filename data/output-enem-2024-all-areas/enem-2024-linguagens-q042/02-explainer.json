@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:39:13.932Z",
+  "questionId": "enem-2024-linguagens-q042",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Apesar de o texto apresentar elementos típicos de carta e receita, ele é definido como poema pela presença de uma linguagem expressiva, com ritmo, figuras de linguagem e uma construção poética que ultrapassa uma simples instrução culinária ou comunicação pessoal.",
+      "stepByStep": [
+        "Reconheça que o texto tem características formais de carta, como a menção ao destinatário (amiga Helena).",
+        "Note que o texto também descreve procedimentos e ingredientes, elementos típicos de uma receita culinária.",
+        "Observe que, apesar dessas marcas, o texto é escrito com uma linguagem expressiva, cheia de ritmo e figuras de linguagem, características próprias da poesia.",
+        "Entenda que essa linguagem expressiva é o traço fundamental que define o texto como poema, diferenciando-o de cartas ou receitas comuns.",
+        "Conclua que a alternativa que menciona a linguagem expressiva é a correta para identificar o texto como poema."
+      ],
+      "commonPitfalls": [
+        "Confundir a nomeação do destinatário como característica que define o texto como carta e achando que isso impede que seja um poema.",
+        "Achar que a presença de intimidade no texto caracteriza exclusivamente uma carta ou texto pessoal, e não reconhecer que poesia também pode ser íntima.",
+        "Pensar que a descrição de ingredientes e passos de preparo faz do texto apenas uma receita, sem perceber o uso da linguagem poética.",
+        "Assumir que a presença de qualquer elemento típico de outro gênero textual exclui o texto da classificação poética."
+      ],
+      "teachingTips": [
+        "Explique aos estudantes que gêneros textuais podem se mesclar, mas que aspectos específicos definem a classificação predominante do texto.",
+        "Trabalhe o conceito de linguagem expressiva, apresentando exemplos de ritmo, rima e figuras de linguagem presentes em poemas, mesmo quando falam de temas cotidianos.",
+        "Estimule a análise crítica para diferenciar entre marcas formais do texto e sua essência estilística e comunicativa.",
+        "Use o exemplo da feijoada poética para mostrar como um mesmo texto pode assumir múltiplas formas, promovendo a flexibilidade na interpretação textual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1413,
+    "outputTokens": 424,
+    "estimatedCostUsd": 0.001244
+  }
+}

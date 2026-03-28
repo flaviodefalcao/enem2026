@@ -1,0 +1,26 @@
+node_modules/
+.next/
+out/
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Large local datasets and scratch outputs
+data/external/
+data/output/
+data/output-smoke/
+data/output-q171-test/
+data/output-latex-batch/
+data/output-latex-three/
+
+# Notebook and analysis scratch files
+*.ipynb
+
+output_enem_all_areas_2024/
+data/output-enem-2024-linguagens-10-mini/
+data/output-enem-2024-sample-4areas/

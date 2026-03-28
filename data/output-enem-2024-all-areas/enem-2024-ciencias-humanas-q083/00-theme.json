@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:13:01.349Z",
+  "questionId": "enem-2024-ciencias-humanas-q083",
+  "payload": {
+    "theme": "Espaço geográfico e território",
+    "subtheme": "Relações de poder",
+    "rationale": "A questão aborda a cartografia como ferramenta histórica voltada para a prática do poder e dominação, evidenciando as relações de poder manifestas nos mapas, o que se encaixa no tema 'Espaço geográfico e território' e subtema 'Relações de poder'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 791,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000456
+  }
+}

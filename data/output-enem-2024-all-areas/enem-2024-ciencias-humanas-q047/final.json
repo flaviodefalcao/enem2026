@@ -1,0 +1,190 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q047",
+  "generatedAt": "2026-03-28T00:43:41.057Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 888,
+      "outputTokens": 771,
+      "estimatedCostUsd": 0.001589
+    },
+    "explainer": {
+      "inputTokens": 1557,
+      "outputTokens": 392,
+      "estimatedCostUsd": 0.00125
+    },
+    "reviewer": {
+      "inputTokens": 2875,
+      "outputTokens": 1986,
+      "estimatedCostUsd": 0.004328
+    },
+    "totalEstimatedCostUsd": 0.007167
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque o texto destaca a necessária hierarquização profissional na saúde pública, comparando-a a uma estrutura militar onde oficiais e auxiliares desempenham papéis distintos, o que evidencia uma organização hierárquica de trabalho.",
+      "strategy": "Identificar a metáfora central do texto, que compara a organização da saúde pública a um exército, e compreender que o foco está na hierarquia e divisão de papéis entre profissionais técnicos e auxiliares.",
+      "steps": [
+        "Ler atentamente o texto para entender a metáfora do exército na organização da saúde pública.",
+        "Observar a enumeração dos diferentes cargos profissionais que indicam uma estrutura hierárquica.",
+        "Verificar que o texto não aborda conteúdos relacionados a higienização moral, eugenia, assimilação cultural ou controle identitário.",
+        "Comparar cada alternativa com a mensagem principal do texto.",
+        "Concluir que a hierarquização profissional é o ponto central que o texto expressa."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto que compara a organização da saúde pública a um exército, destacando diferentes níveis profissionais."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto usa a comparação com um exército para explicar que a saúde pública precisa de vários níveis profissionais, desde técnicos graduados até auxiliares, formando assim uma hierarquia estruturada.",
+      "stepByStep": [
+        "Ler o texto identificando a metáfora do exército como referência à organização e hierarquia.",
+        "Reconhecer os diferentes papéis profissionais indicados no texto, mostrando a complexidade da estrutura.",
+        "Entender que a mensagem principal é a necessidade dessa divisão e hierarquia na saúde pública.",
+        "Eliminar alternativas que abordam temas não presentes no texto, como eugenia ou assimilação cultural.",
+        "Selecionar a alternativa que indica a hierarquização profissional como essência do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir a mensagem com campanhas de higienização moral por causa do termo 'sanitaristas'.",
+        "Associar o texto a conceitos de eugenia, comum no período, mas não tratados no texto.",
+        "Interpretar a menção a educadoras e visitadoras como assimilação cultural.",
+        "Ler a organização como controle identitário ou hegemonia cultural, quando o foco é profissional."
+      ],
+      "teachingTips": [
+        "Estimular a identificação e interpretação de metáforas em textos históricos.",
+        "Trabalhar a distinção entre temas próximos para evitar confusões conceituais.",
+        "Focar na análise precisa do texto para conectar com o contexto histórico correto.",
+        "Ensinar técnicas de eliminação de alternativas pelo foco do texto.",
+        "Incentivar debates sobre organização profissional para fixar o conceito de hierarquia."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode associar o termo 'sanitaristas' a campanhas de higienização e pensar que o texto trata disso.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Sanitaristas trabalharam em campanhas de higienização, o que pode levar à interpretação de higienização moral.",
+        "whyItIsWrong": "O texto não aborda moral ou higienização, mas sim organização e hierarquia profissional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode associar sanitaristas dos anos 1920 e 1930 à eugenia, tema relevante na época.",
+        "misconceptionType": "Interpretação histórica incorreta",
+        "whyItLooksPlausible": "A eugenia foi um discurso importante naquele período e pode parecer relacionada ao texto.",
+        "whyItIsWrong": "O texto discute cargos e organização profissional, sem menção à eugenia."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato pode pensar que o texto trata de assimilação cultural devido a educadoras e visitadoras.",
+        "misconceptionType": "Leitura superficial do texto",
+        "whyItLooksPlausible": "Educadoras e visitadoras podem sugerir ação cultural ou educativa.",
+        "whyItIsWrong": "O texto enfatiza estrutura hierárquica, não processos culturais."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode interpretar a estrutura como controle ou hegemonia cultural.",
+        "misconceptionType": "Confusão entre organização profissional e hegemonia identitária",
+        "whyItLooksPlausible": "Organização pode sugerir controle ou hegemonia, mas isso não está no texto.",
+        "whyItIsWrong": "O texto fala apenas da divisão e hierarquia profissional, não sobre identidade ou hegemonia."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto histórico",
+      "secondarySkills": [
+        "Análise crítica",
+        "Conhecimento histórico sobre saúde pública"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O enunciado exige compreensão do texto e contexto histórico da saúde pública.",
+        "A metáfora do exército é fundamental para a compreensão.",
+        "A questão requer discriminação cuidadosa de alternativas próximas."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🩺",
+      "shortThemeTitle": "Hierarquização profissional na saúde pública",
+      "interpretationIntro": "O enunciado solicita a compreensão da mensagem veiculada pelo texto dos sanitaristas das décadas de 1920 e 1930.",
+      "commandTerms": [
+        {
+          "term": "Compreender",
+          "explanation": "Identificar a ideia principal do texto, relacionando-a ao contexto histórico."
+        },
+        {
+          "term": "Analisar",
+          "explanation": "Avaliar os elementos presentes no texto para determinar sua mensagem central."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar qual é a mensagem característica transmitida pelo texto dos sanitaristas sobre a organização da saúde pública no período.",
+      "strategyParagraph": "Para responder, o candidato deve focar na metáfora do exército usada no texto, que revela uma estrutura hierárquica na saúde pública, com técnicos graduados (oficiais) e auxiliares especializados. A análise crítica do texto permite eliminar interpretações que não correspondem à mensagem principal, como eugenia, higienização moral ou assimilação cultural.",
+      "reviewTable": [
+        {
+          "concept": "Metáfora do exército",
+          "keyIdea": "Representa a organização hierárquica e divisão de papéis na saúde pública.",
+          "application": "Texto destaca oficiais e auxiliares como níveis profissionais distintos."
+        },
+        {
+          "concept": "Hierarquização profissional",
+          "keyIdea": "Diferenciação entre cargos técnicos graduados e auxiliares com funções específicas.",
+          "application": "Texto menciona técnicos, enfermeiras, educadoras, inspetores, mostrando estrutura ordenada."
+        },
+        {
+          "concept": "Contexto histórico",
+          "keyIdea": "Condições sanitárias e organização da saúde pública nas décadas de 1920-1930.",
+          "application": "Esclarece o papel das profissões na gestão sanitária daquela época."
+        }
+      ],
+      "theoryParagraphs": [
+        "Os sanitaristas das décadas de 1920 e 1930 atuaram no contexto da organização e expansão das políticas públicas de saúde. Nesse período, havia a preocupação com o desenvolvimento de uma estrutura funcional eficiente, com divisão clara entre diferentes níveis profissionais, para dar conta das demandas sanitárias da população.",
+        "A metáfora do exército, presente no texto, exemplifica a necessidade de hierarquia e cooperação entre oficiais e auxiliares para um funcionamento eficaz. Essa imagem simboliza a complexidade e a organização do sistema de saúde pública.",
+        "Entender essa estrutura hierárquica é fundamental para compreender como os sanitaristas pensavam a organização do trabalho na saúde, valorizando tanto os técnicos graduados quanto os auxiliares como peças essenciais para o sistema."
+      ],
+      "resolutionParagraphs": [
+        "Ao analisar o texto, percebe-se que ele utiliza a comparação com um exército para explicar que a saúde pública não pode ser composta apenas por oficiais, ou seja, técnicos graduados, mas precisa do suporte de auxiliares especializados, como enfermeiras, educadoras e inspetores.",
+        "Essa organização reflete uma hierarquia profissional clara, onde diferentes níveis contribuem para o funcionamento do sistema de saúde.",
+        "Portanto, a mensagem transmitida pelo texto enfatiza a hierarquização na organização do trabalho em saúde pública, que deve ser composta por diferentes categorias profissionais em harmonia e com papéis bem definidos.",
+        "Analisando as alternativas, fica claro que apenas a alternativa E aborda essa ideia, enquanto as outras trazem conceitos não correspondentes ao texto."
+      ],
+      "puloDoGato": "Foque na metáfora e identifique a mensagem principal: o texto evidencia uma organização hierárquica profissional, semelhante à de um exército.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Falsa conexão com higienização moral; o texto aborda organização profissional, não moral."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Embora a eugenia tenha sido tema na época, o texto não fala sobre ela, mas sobre estrutura hierárquica."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Menção a educadoras não implica assimilação cultural; o foco é hierarquia profissional."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Não há no texto indícios de hegemonia cultural ou controle identitário, apenas organização de trabalho."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Correta – texto usa metáfora militar para destacar a hierarquização profissional na saúde pública."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_ORGANIZACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solver e explainer estão consistentes e coerentes entre si. A resolução está clara, didática e respeita o conteúdo do texto e as alternativas propostas. Os comentários para as alternativas estão adequados e esclarecedores.",
+      "issues": []
+    }
+  }
+}

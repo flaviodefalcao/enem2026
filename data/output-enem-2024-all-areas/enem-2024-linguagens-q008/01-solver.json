@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:45:47.184Z",
+  "questionId": "enem-2024-linguagens-q008",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é correta pois o texto enfatiza que, apesar da origem comum dos instrumentos, eles se adaptaram e assumiram características próprias em diferentes contextos culturais (Portugal, Brasil e Havaí), evidenciando uma transformação e nova identidade cultural para cada um.",
+      "strategy": "Analisar o texto para identificar a relação entre os instrumentos e as culturas mencionadas, buscando compreender como eles mudam ou permanecem ao serem incorporados em diferentes contextos.",
+      "steps": [
+        "O texto apresenta instrumentos originários de Portugal (cavaquinho minhoto, machete/machetinho madeirense).",
+        "Sinaliza que o cavaquinho chegou ao Brasil e ganhou características diferentes (modelo maior e caixa de ressonância mais funda).",
+        "Indica que o ukulele tem origem no século XIX a partir do braguinha e do rajão, instrumentos levados para o Havaí pelos madeirenses.",
+        "Com base nessas informações, percebe-se que os instrumentos mantêm uma ligação com suas origens, mas adaptam-se às novas culturas, criando novas identidades.",
+        "Portanto, os instrumentos mencionados demonstram adaptação e novas identidades culturais, conforme a alternativa B."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode ter interpretado que, por serem instrumentos semelhantes e originários, dependem da matéria-prima europeia para sua fabricação.",
+        "misconceptionType": "Interpretação literal e generalização indevida.",
+        "whyItLooksPlausible": "O texto menciona origem europeia, reforçando a ideia de matéria-prima europeia.",
+        "whyItIsWrong": "O texto não fala sobre dependência da matéria-prima, e a adaptação cultural é o ponto principal."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer que a origem portuguesa implica hegemonia na invenção desses instrumentos.",
+        "misconceptionType": "Generalização e interpretação parcial.",
+        "whyItLooksPlausible": "O texto cita instrumentos portugueses e suas famílias, como as violas de mão.",
+        "whyItIsWrong": "O texto não afirma hegemonia ou exclusividade na invenção desses cordófonos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar a disseminação dos instrumentos como processos de dominação cultural e choque cultural.",
+        "misconceptionType": "Interpretação errônea da interação cultural.",
+        "whyItLooksPlausible": "Disseminação cultural pode ser confundida com dominação e choque cultural.",
+        "whyItIsWrong": "O texto não fala em dominação ou conflitos culturais, mas em adaptação e transformação positiva."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O aluno pode considerar que a manutenção da nomenclatura indica fidelidade às formas originais.",
+        "misconceptionType": "Confusão entre nome e identidade cultural.",
+        "whyItLooksPlausible": "O ukulele tem nomes ligados a seus ancestrais como braguinha e machete.",
+        "whyItIsWrong": "O texto enfatiza transformações nas características, e não fidelidade estrita às formas originais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto",
+      "secondarySkills": [
+        "Análise cultural",
+        "Relação entre texto e contexto",
+        "Inferência crítica"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto é principal fonte para solução.",
+        "Questão exige ligação entre cultura e objeto (instrumentos musicais).",
+        "Necessário compreender processo de adaptação cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 770,
+    "outputTokens": 742,
+    "estimatedCostUsd": 0.001495
+  }
+}

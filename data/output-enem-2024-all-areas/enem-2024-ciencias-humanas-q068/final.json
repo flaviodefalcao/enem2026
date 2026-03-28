@@ -1,0 +1,197 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q068",
+  "generatedAt": "2026-03-28T00:59:14.271Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1045,
+      "outputTokens": 920,
+      "estimatedCostUsd": 0.00189
+    },
+    "explainer": {
+      "inputTokens": 1848,
+      "outputTokens": 452,
+      "estimatedCostUsd": 0.001462
+    },
+    "reviewer": {
+      "inputTokens": 3226,
+      "outputTokens": 2259,
+      "estimatedCostUsd": 0.004905
+    },
+    "totalEstimatedCostUsd": 0.008257
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque relaciona diretamente a função das árvores no ciclo da água com o impacto do desmatamento na diminuição da intensidade das chuvas convectivas na Amazônia.",
+      "strategy": "Para resolver a questão, analisa-se o papel das árvores no ciclo da água, especialmente a transpiração que libera água para a atmosfera, e vincula-se esse efeito com as consequências do desmatamento, que reduz o volume de água liberado e, portanto, diminui a umidade e as chuvas locais.",
+      "steps": [
+        "Ler o Texto I e entender que uma árvore transpira entre 300 e 1000 litros de água por dia, contribuindo para a umidade atmosférica local.",
+        "Reconhecer que essa transpiração é fundamental para a formação das chuvas convectivas na região amazônica.",
+        "Observar no Texto II que houve grande desmatamento na Amazônia, consequência da remoção das árvores.",
+        "Concluir que menos árvores significam menos água liberada por transpiração, o que reduz a umidade do ar.",
+        "Reconhecer que a menor umidade implica em diminuição da intensidade das chuvas convectivas na Amazônia.",
+        "Descartar outras alternativas que não têm relação direta com a redução da umidade causada pelo desmatamento."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagens de satélite mencionadas no texto que registram o desmatamento."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O desmatamento reduz o número de árvores que liberam água na atmosfera, diminuindo a umidade e a intensidade das chuvas convectivas na Amazônia.",
+      "stepByStep": [
+        "Reconhecer o papel das árvores na transpiração e liberação de água para a atmosfera.",
+        "Compreender que essa liberação contribui para a formação das chuvas convectivas.",
+        "Identificar o impacto do desmatamento em diminuir a quantidade de árvores e, consequentemente, a água liberada.",
+        "Relacionar a menor umidade com a diminuição da intensidade das chuvas convectivas.",
+        "Concluir que o desmatamento leva à diminuição da intensidade das chuvas na região.",
+        "Descartar outras causas não evidenciadas pelo texto para as alterações climáticas mencionadas."
+      ],
+      "commonPitfalls": [
+        "Confundir ventos alísios com fenômenos locais de umidade e chuva.",
+        "Focar no aquecimento do solo, que não é tema destacado pelo texto.",
+        "Assumir relação direta entre desmatamento e temperatura oceânica.",
+        "Associar principalmente à mudança na refletividade da superfície, em vez da diminuição da umidade atmosférica."
+      ],
+      "teachingTips": [
+        "Explique o ciclo da água e a importância da transpiração das árvores para as chuvas.",
+        "Diferencie fenômenos climáticos locais (chuvas convectivas) e globais (ventos alísios).",
+        "Estimule a análise crítica e a conexão entre causa (desmatamento) e efeito (redução das chuvas).",
+        "Pratique leitura crítica para evitar generalizações incorretas a partir de dados ambientais."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confusão entre fenômenos climáticos locais e globais, acreditando que ventos alísios são alterados diretamente pelo desmatamento.",
+        "misconceptionType": "Confusão conceitual sobre fenômenos atmosféricos.",
+        "whyItLooksPlausible": "Ventos alísios são relevantes para o clima regional e global, podendo parecer afetados por mudanças ambientais locais.",
+        "whyItIsWrong": "Desmatamento local não altera a circulação dos ventos alísios, que são fenômenos maiores e globais."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Generalização de que a remoção da vegetação aumenta a temperatura do solo, associando isso diretamente ao texto.",
+        "misconceptionType": "Simplificação inadequada do impacto ambiental.",
+        "whyItLooksPlausible": "A perda de vegetação pode aumentar o aquecimento do solo localmente.",
+        "whyItIsWrong": "O texto destaca o impacto no ciclo da água e chuvas, não o aquecimento do solo em si."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Equivocada associação entre temperatura oceânica e impacto do desmatamento na Amazônia.",
+        "misconceptionType": "Conflação de fenômenos climáticos regionais e globais.",
+        "whyItLooksPlausible": "Temperatura oceânica influencia o clima regional e pode parecer ligada ao desmatamento.",
+        "whyItIsWrong": "O texto não vincula o desmatamento à mudança da temperatura oceânica, que é fenômeno global e independente do desmatamento local."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Associação entre perda da cobertura vegetal e alteração na refletividade da superfície terrestre.",
+        "misconceptionType": "Falsa relação entre efeito físico e o impacto climático principal citado.",
+        "whyItLooksPlausible": "Alteração na vegetação muda a refletividade, afetando o clima superficialmente.",
+        "whyItIsWrong": "O texto enfatiza a redução da liberação de água e chuvas, não a mudança da refletividade."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de textos com foco em fenômenos ambientais e climáticos",
+      "secondarySkills": [
+        "Conhecimento sobre ciclo hidrológico e impactos do desmatamento",
+        "Raciocínio crítico sobre causas e efeitos ambientais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Enunciado exige integrar informações de dois textos com conhecimento ambiental.",
+        "Não requer cálculos matemáticos, mas análise crítica e interpretação.",
+        "Imagens anexadas são meramente ilustrativas e não essenciais para resposta."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🌳",
+      "shortThemeTitle": "Impacto do Desmatamento no Ciclo da Água na Amazônia",
+      "interpretationIntro": "A questão pede para identificar a consequência direta do desmatamento sobre aspectos ambientais da Amazônia, utilizando informações fornecidas sobre o papel das árvores e os dados de desmatamento recentes.",
+      "commandTerms": [
+        {
+          "term": "Considerando",
+          "explanation": "Analisar informações dadas para fundamentar a resposta."
+        },
+        {
+          "term": "Indica",
+          "explanation": "Mostrar o que é evidenciado ou apontado pelos textos."
+        }
+      ],
+      "whatTheQuestionAsks": "Compreender como a retirada da vegetação devido ao desmatamento afeta o ciclo hidrológico local e suas consequências ambientais.",
+      "strategyParagraph": "Para responder, primeiro reconhecemos que as árvores realizam transpiração, liberando grande volume de água para a atmosfera. Em seguida, relacionamos como a perda dessas árvores por desmatamento diminui essa liberação, reduzindo a umidade e, consequentemente, a intensidade das chuvas convectivas que caracterizam a região amazônica.",
+      "reviewTable": [
+        {
+          "concept": "Transpiração das Árvores",
+          "keyIdea": "Liberação de água pelas plantas na atmosfera",
+          "application": "Contribui para a umidade e formação de chuvas locais"
+        },
+        {
+          "concept": "Desmatamento",
+          "keyIdea": "Remoção da vegetação natural da floresta",
+          "application": "Reduz a quantidade de água liberada por transpiração"
+        },
+        {
+          "concept": "Chuvas Convectivas",
+          "keyIdea": "Chuvas causadas por ascensão do ar quente úmido",
+          "application": "Menos umidade reduz sua intensidade"
+        },
+        {
+          "concept": "Fenômenos Climáticos",
+          "keyIdea": "Diferença entre locais (chuvas) e globais (ventos alísios)",
+          "application": "Desmatamento afeta fenômenos locais, não globais"
+        }
+      ],
+      "theoryParagraphs": [
+        "A transpiração vegetal é parte fundamental do ciclo da água, pois as árvores liberam grande quantidade de vapor d'água, que contribui para a umidade atmosférica local. Essa umidade possibilita a formação das chuvas convectivas típicas da Amazônia, essenciais para manter o equilíbrio ambiental da região.",
+        "O desmatamento, que implica na remoção massiva de árvores, causa um impacto imediato nesse ciclo, diminuindo a quantidade de água liberada para a atmosfera e, por consequência, reduzindo a umidade e a intensidade das chuvas locais.",
+        "É importante distinguir fenômenos locais, como as chuvas convectivas, dos fenômenos globais, como os ventos alísios ou a temperatura oceânica, pois o impacto direto do desmatamento está relacionado à diminuição da umidade gerada pela vegetação, e não à alteração destes fenômenos globais."
+      ],
+      "resolutionParagraphs": [
+        "O Texto I informa que uma única árvore transpira entre 300 e 1000 litros de água por dia, o que contribui significativamente para a umidade local e formação de chuvas.",
+        "O Texto II mostra que houve um desmatamento considerável na Amazônia, eliminando grande parte das árvores disponíveis.",
+        "Com menos árvores, o volume de água sendo liberado na atmosfera pela transpiração diminui, causando redução da umidade ambiente.",
+        "Esta redução da umidade impacta diretamente a formação das chuvas convectivas, diminuindo sua intensidade na região amazônica.",
+        "Assim, a consequência direta do desmatamento apresentada pelos textos é a diminuição da intensidade das chuvas convectivas, correspondendo à alternativa E."
+      ],
+      "puloDoGato": "Pense no papel das árvores como 'fábricas de umidade': menos árvores, menos água na atmosfera, menos chuva.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Os ventos alísios são fenômenos de circulação atmosférica global, não diretamente afetados pelo desmatamento local da Amazônia, e o texto não indica mudança nessa circulação."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Embora o solo possa aquecer após a perda da cobertura vegetal, o texto destaca o impacto no ciclo da água, não o aquecimento do solo."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A temperatura oceânica influencia o clima regional, mas o texto não relaciona o desmatamento à alteração da temperatura dos oceanos."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "A mudança na refletividade superficial pode ocorrer após o desmatamento, porém o texto focaliza a redução da água liberada na atmosfera e sua influência nas chuvas."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "É a alternativa correta, pois o desmatamento reduz a quantidade de árvores que liberam água na atmosfera, diminuindo a umidade e, consequentemente, a intensidade das chuvas convectivas na Amazônia."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_AMBIENTAIS_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A questão apresenta coerência entre enunciado, solver e explicação didática. A resolução aborda corretamente o tema ambiental e ambiental-climático, com linguagem clara e adequada. As alternativas foram analisadas com detalhes, e o caminho para a resposta está bem fundamentado.",
+      "issues": []
+    }
+  }
+}

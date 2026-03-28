@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:26:32.503Z",
+  "questionId": "enem-2024-linguagens-q027",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Estratégias argumentativas",
+    "rationale": "A questão avalia o reconhecimento de uma estratégia argumentativa de empatia empregada pela autora para se aproximar do leitor, conforme indicado na habilidade H24 que menciona o reconhecimento de estratégias para convencimento do público, e a competência 7 que envolve confrontar opiniões em diferentes linguagens.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1103,
+    "outputTokens": 85,
+    "estimatedCostUsd": 0.000577
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "questionId": "enem-2024-q142",
+  "generatedAt": "2026-03-26T19:24:04.007Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 859,
+      "outputTokens": 782,
+      "estimatedCostUsd": 0.001595
+    },
+    "explainer": {
+      "inputTokens": 1536,
+      "outputTokens": 391,
+      "estimatedCostUsd": 0.00124
+    },
+    "reviewer": {
+      "inputTokens": 2332,
+      "outputTokens": 1052,
+      "estimatedCostUsd": 0.002616
+    },
+    "totalEstimatedCostUsd": 0.005451
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta.",
+      "strategy": "Interpretar o processo de duplicação em cada etapa e modelar a quantidade de figuras como uma progressão geométrica com base na etapa.",
+      "steps": [
+        "Na 1ª etapa, a criança insere 3 figuras.",
+        "Na 2ª etapa, ela copia as 3 figuras e cola ao lado, duplicando para 6 figuras.",
+        "Na 3ª etapa, copia as 6 figuras e cola ao lado, duplicando para 12 figuras.",
+        "A cada etapa, o número de figuras dobra comparado à etapa anterior.",
+        "Portanto, a quantidade de figuras na etapa n é 3 × 2^(n-1).",
+        "Para a 20ª etapa, aplicamos: 3 × 2^(20-1) = 3 × 2^19."
+      ],
+      "formulasUsed": [
+        "Número de figuras na etapa n = 3 × 2^(n-1)"
+      ],
+      "visualEvidenceUsed": [
+        "Tabela no enunciado mostrando as primeiras etapas e quantidade de figuras no visor"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A criança começa com 3 figuras e dobra esse número em cada etapa, formando uma progressão geométrica. O total na 20ª etapa é calculado usando 3 × 2^(20-1).",
+      "stepByStep": [
+        "Na 1ª etapa, foram inseridas 3 figuras.",
+        "Na 2ª etapa, as figuras foram duplicadas para 6.",
+        "Na 3ª etapa, novament duplicou para 12.",
+        "O número de figuras dobra a cada etapa.",
+        "A fórmula geral é 3 × 2^(n-1).",
+        "Substituindo n = 20, temos 3 × 2^19."
+      ],
+      "commonPitfalls": [
+        "Confundir expoente e usar 2^20 ao invés de 2^19.",
+        "Não reconhecer que o número de figuras dobra a cada etapa.",
+        "Tentar ajustar a quantidade subtraindo valores indevidamente.",
+        "Não identificar o padrão de progressão geométrica."
+      ],
+      "teachingTips": [
+        "Mostrar exemplos práticos das primeiras etapas para visualizar a duplicação.",
+        "Ensinar a reconhecer e aplicar progressões geométricas.",
+        "Enfatizar o correto uso dos expoentes e seus índices.",
+        "Utilizar tabelas para ajudar na visualização do padrão antes da formulação."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Interpretar incorretamente o índice do expoente como 20 em vez de 19.",
+        "misconceptionType": "Erro de índice/expoente",
+        "whyItLooksPlausible": "É comum confundir a contagem das etapas, levando a usar expoente 20 para a 20ª etapa.",
+        "whyItIsWrong": "A primeira etapa corresponde a 3 × 2^0, logo para a 20ª etapa o expoente é 19."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confusão no número da etapa, aumentando incorretamente o expoente.",
+        "misconceptionType": "Erro de índice/expoente",
+        "whyItLooksPlausible": "Parece que o aumento da etapa implicaria aumento maior no expoente.",
+        "whyItIsWrong": "O expoente correto é (n-1), não (n+1)."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Introdução incorreta de subtração na fórmula da quantidade total.",
+        "misconceptionType": "Falsa manipulação algébrica",
+        "whyItLooksPlausible": "Pode parecer que subtrair ajuda a ajustar o resultado à sequência.",
+        "whyItIsWrong": "A sequência é uma progressão geométrica exata, sem subtrações."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Subtrai 3 erroneamente para ajustar o cálculo.",
+        "misconceptionType": "Falsa manipulação algébrica",
+        "whyItLooksPlausible": "Pode dar a impressão que isso corrige algum erro na sequência.",
+        "whyItIsWrong": "A fórmula correta é direta, sem necessidade de subtração."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Reconhecimento de progressão geométrica",
+      "secondarySkills": [
+        "Raciocínio algébrico",
+        "Análise de sequência numérica"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Necessário interpretar padrão de duplicação em sequência.",
+        "Entender que a primeira etapa é base para progressão geométrica.",
+        "Manipular expoentes corretamente para calcular o resultado final."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão consistentes entre si. O enunciado e a imagem fornecem a base correta para a modelagem da questão. A solução apresenta estratégia e passos coerentes, com fórmula exata e resposta correta. O explainer complementa com explicações claras, potenciais erros comuns e dicas pedagógicas que reforçam a compreensão. As alternativas incorretas apresentam justificativas plausíveis e apontam erros típicos. Não foram identificados erros ou contradições relevantes.",
+      "issues": []
+    }
+  }
+}

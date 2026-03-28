@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T23:43:01.976Z",
+  "questionId": "enem-2024-linguagens-q004",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A resposta A está correta porque o texto apresenta claramente o problema do preconceito linguístico em relação ao sotaque espanhol dos imigrantes e a imposição da norma do inglês \"padrão\", destacando o repúdio e a discriminação explícita.",
+        "strategy": "Analisar o texto para identificar o problema principal relacionado à língua dos imigrantes, focando nas situações que indicam rejeição ao sotaque e imposição do inglês sem sotaque, e comparar com as alternativas oferecidas.",
+        "steps": [
+          "Ler atentamente o texto para entender o contexto e identificar as situações apresentadas de discriminação linguística.",
+          "Reconhecer que o texto evidencia formas de preconceito contra o sotaque espanhol e a língua materna dos imigrantes.",
+          "Examinar as alternativas buscando aquela que melhor corresponde ao problema destacado no texto.",
+          "Descartar alternativas cujo foco não condiz com o que foi descrito no texto.",
+          "Escolher a alternativa que revela o repúdio ao sotaque espanhol como o prejuízo principal para os imigrantes no contexto apresentado."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto denuncia o preconceito linguístico sofrido por imigrantes chicanos nos EUA, que são pressionados a abandonar o uso do espanhol e eliminar seus sotaques para se enquadrarem na norma do inglês \"padrão\".",
+        "stepByStep": [
+          "Leia o texto atentamente e identifique as expressões de rejeição ao uso do espanhol e ao sotaque do autor.",
+          "Observe as punições aplicadas por falar espanhol ou pronunciar nomes na forma original.",
+          "Associe essas situações ao tema do preconceito linguístico e à pressão para eliminar sotaques.",
+          "Analise as alternativas e selecione a que melhor expressa esse problema central.",
+          "Descubra que a alternativa A é a que reflete o repúdio ao sotaque espanhol.",
+          "Descarte as outras alternativas por não expressarem exatamente o problema destacado no texto."
+        ],
+        "commonPitfalls": [
+          "Interpretar que o problema é apenas a perda da língua materna, sem reconhecer o foco no preconceito contra o sotaque.",
+          "Confundir exigência de falar inglês com falta de aprendizagem do espanhol.",
+          "Pensar que o problema é um conflito geracional ou concorrência linguística, quando o foco é discriminação textual.",
+          "Ignorar o tom crítico do texto em relação à imposição da norma linguística hegemônica.",
+          "Ler o texto superficialmente e não captar a dimensão da rejeição e punição descritas."
+        ],
+        "teachingTips": [
+          "Trabalhe a valorização da diversidade linguística e cultural no ambiente escolar.",
+          "Explique o conceito e os impactos do preconceito linguístico para grupos minoritários.",
+          "Promova debates sobre identidade e respeito às variações linguísticas.",
+          "Utilize textos de autores que vivenciam a discriminação linguística para sensibilizar os alunos.",
+          "Estimule a análise textual crítica, ultrapassando interpretações superficiais e contextualizando o tema."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O candidato pode entender que o problema é a resignação diante da perda da língua materna devido às punições e pressão para falar inglês.",
+          "misconceptionType": "Interpretação exagerada",
+          "whyItLooksPlausible": "A pressão para eliminar o sotaque pode parecer um processo de aceitação passiva ou resignação.",
+          "whyItIsWrong": "O texto evidencia um repúdio explícito ao sotaque e à língua, não apenas resignação."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode-se pensar que o problema é a escassez de ensino do espanhol, confundindo o contexto da questão.",
+          "misconceptionType": "Confusão contextual",
+          "whyItLooksPlausible": "A presença de espanhol e inglês no texto pode levar a concluir que falta ensino do espanhol.",
+          "whyItIsWrong": "O texto não trata da escassez de ensino do espanhol, mas da imposição do inglês sem sotaque."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Alguns podem interpretar o problema como um choque entre gerações do ponto de vista linguístico.",
+          "misconceptionType": "Foco equivocado",
+          "whyItLooksPlausible": "A presença de diferentes grupos linguísticos pode sugerir conflito geracional.",
+          "whyItIsWrong": "O texto não aborda choque de gerações, mas sim preconceito linguístico baseado no sotaque."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode-se inferir que o problema é a concorrência entre línguas ao invés da discriminação.",
+          "misconceptionType": "Confusão semântica",
+          "whyItLooksPlausible": "O texto fala sobre diferenças e imposições linguísticas que podem ser entendidas como concorrência.",
+          "whyItIsWrong": "O foco do texto é discriminação e repúdio, não concorrência entre línguas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual e análise crítica",
+        "secondarySkills": [
+          "Análise sociolinguística",
+          "Compreensão cultural e linguística"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "O texto exige compreensão crítica e sociocultural sobre imigração e língua.",
+          "É necessário identificar o problema central, não só detalhes pontuais.",
+          "Explora preconceito linguístico e imposição de normas linguísticas."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Preconceito linguístico e imposição do inglês",
+        "interpretationIntro": "A questão solicita a identificação do prejuízo enfrentado pelos imigrantes chicanos nos Estados Unidos, segundo o texto apresentado.",
+        "commandTerms": [
+          {
+            "term": "Identificar",
+            "explanation": "Reconhecer o problema principal apresentado no texto."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Associar os exemplos do texto com as alternativas para escolher a mais adequada."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para identificar qual prejuízo relacionado aos imigrantes e língua é discutido no texto.",
+        "strategyParagraph": "Para responder, deve-se interpretar as situações narradas pelo autor que ilustram rejeição ao uso do espanhol e pressão para eliminar o sotaque ao falar inglês, comparando essas informações às alternativas, para identificar qual delas expressa de forma mais precisa o problema abordado.",
+        "reviewTable": [
+          {
+            "concept": "Preconceito linguístico",
+            "keyIdea": "Rejeição e discriminação de sotaques e línguas maternas",
+            "application": "Texto relata punições e críticas ao sotaque espanhol dos chicanos."
+          },
+          {
+            "concept": "Norma linguística hegemônica",
+            "keyIdea": "Pressão para falar inglês padrão",
+            "application": "Alunos têm que fazer aulas para eliminar o sotaque."
+          },
+          {
+            "concept": "Imigração e identidade",
+            "keyIdea": "Conflito entre manter identidade e adaptação cultural",
+            "application": "Autor se sente punido por tentar preservar a pronúncia do seu nome."
+          }
+        ],
+        "theoryParagraphs": [
+          "Preconceito linguístico é a discriminação sofrida por falantes de uma língua ou variante linguística devido ao sotaque ou à forma de falar. Isso gera impactos pessoais e sociais, como exclusão e desvalorização cultural.",
+          "A norma linguística hegemônica impõe padrões considerados 'corretos' ou 'ideais' para a fala, marginalizando variações como sotaques regionais ou línguas maternas de grupos minoritários. No contexto de imigrantes, há uma pressão intensa para assimilar essas normas para evitar discriminação.",
+          "Manter a identidade linguística e cultural é uma parte importante do reconhecimento e valorização pessoal, e a imposição ou rejeição dessa identidade gera conflitos e prejuízos emocionais e sociais, evidenciados no texto por experiências do autor."
+        ],
+        "resolutionParagraphs": [
+          "O texto apresenta trechos em que o autor relata punições e repreensões por falar espanhol e por possuir um sotaque espanhol ao falar inglês.",
+          "São mencionadas aulas especiais para eliminar o sotaque dos estudantes chicanos, demonstrando uma pressão institucional para a assimilação linguística.",
+          "Esses elementos indicam claramente um preconceito linguístico, caracterizado pela rejeição e repúdio ao sotaque espanhol e à língua materna, impondo um padrão linguístico dominante.",
+          "Ao analisar as alternativas, verifica-se que a opção A corresponde exatamente a essa situação de repúdio ao sotaque espanhol ao falar inglês.",
+          "As demais alternativas tratam de temas distintos, como resignação, dificuldades no aprendizado, choque geracional ou concorrência linguística, que não são enfatizados no texto.",
+          "Portanto, a alternativa A é a que melhor responde ao enunciado, pois descreve o problema central do preconceito linguístico enfrentado pelos imigrantes chicanos, conforme exemplificado no texto."
+        ],
+        "puloDoGato": "Foque no preconceito contra o sotaque e na pressão para eliminá-lo; é isso que o texto enfatiza, não só o uso do inglês.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta. Representa o repúdio explícito ao sotaque espanhol e a imposição do inglês padrão narrados no texto."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. O texto mostra rejeição ativa, não apenas resignação ou aceitação passiva da perda da língua materna."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. O problema não é a falta de aprendizado do espanhol, mas a imposição para falar inglês sem sotaque."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. O foco não é choque geracional, e sim preconceito linguístico contra o sotaque e idioma materno."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta. O texto fala de discriminação contra sotaques e línguas, não de concorrência entre elas."
+          }
+        ],
+        "questionCode": "LNG_SOCIOLING_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O texto da questão, a resposta do solver e a explanação estão coerentes e convergem para a alternativa A. A resolução oficial segue as recomendações editoriais e pedagógicas, explicando claramente o raciocínio e comentando todas as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2729,
+    "outputTokens": 2115,
+    "estimatedCostUsd": 0.004476
+  }
+}

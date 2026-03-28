@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:58:28.541Z",
+  "questionId": "enem-2024-ciencias-humanas-q067",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A é correta porque o texto explica que a internet fortalece o engajamento, visibilidade e integração dos produtores tradicionais em mercados maiores, ampliando a rentabilidade dessas comunidades.",
+        "strategy": "Identificar no enunciado o impacto econômico da internet para populações tradicionais e relacionar com as alternativas para escolher a que expressa melhor essa ampliação do rendimento financeiro.",
+        "steps": [
+          "Ler o enunciado atentamente para captar a função da internet nas populações tradicionais e indígenas.",
+          "Identificar que a internet promove integração dos pequenos produtores a redes maiores de abastecimento.",
+          "Compreender que essa integração favorece o fortalecimento econômico e aumenta a rentabilidade.",
+          "Comparar as alternativas com base no entendimento do texto para eleger a correta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem apresenta a referência bibliográfica que contextualiza a integração tecnológica na conservação ambiental, porém sem dados numéricos específicos."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A internet amplia a rentabilidade das populações tradicionais ao integrar pequenos produtores a cadeias maiores de abastecimento, fortalecendo sua economia e visibilidade.",
+        "stepByStep": [
+          "Ler o enunciado para entender a função da internet nas comunidades.",
+          "Reconhecer que a internet conecta produtores locais a mercados maiores.",
+          "Compreender que essa conexão resulta em valorização econômica local.",
+          "Selecionar a alternativa que expressa a ampliação da rentabilidade conforme o texto."
+        ],
+        "commonPitfalls": [
+          "Confundir o impacto econômico com desenvolvimento cultural apenas.",
+          "Achar que o estabelecimento de regras comerciais é o foco principal.",
+          "Associar o impacto da internet à educação sem base no texto.",
+          "Confundir fortalecimento econômico com uniformização profissional."
+        ],
+        "teachingTips": [
+          "Ressaltar a importância da relação entre tecnologia e impacto econômico.",
+          "Estimular a leitura crítica focando nos efeitos sociais reais descritos.",
+          "Usar exemplos práticos de integração digital para clarear o conceito.",
+          "Trabalhar as alternativas para distinguir propostas plausíveis mas incorretas."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "Assumir que o reforço da visibilidade significa aumento do desenvolvimento cultural.",
+          "misconceptionType": "Interpretação parcial do texto",
+          "whyItLooksPlausible": "O texto menciona visibilidade e engajamento social.",
+          "whyItIsWrong": "O foco do enunciado está na ampliação econômica, não na criação ou reforço de projetos culturais."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Supor que a tecnologia facilita diretamente o estabelecimento de regras comerciais.",
+          "misconceptionType": "Confusão entre efeitos diretos e indiretos",
+          "whyItLooksPlausible": "A internet pode viabilizar negociações e normas comerciais.",
+          "whyItIsWrong": "O texto enfatiza inovação e integração econômica, não regras comerciais especificamente."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que a internet impacta diretamente a educação e infraestrutura educacional.",
+          "misconceptionType": "Ampliação do tema",
+          "whyItLooksPlausible": "Tecnologia digital pode influenciar a educação.",
+          "whyItIsWrong": "O enunciado não aponta educação ou infraestrutura educacional como efeito da internet para essas comunidades."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Generalizar que a tecnologia causa padronização na qualificação profissional.",
+          "misconceptionType": "Generalização exagerada",
+          "whyItLooksPlausible": "Tecnologia pode influenciar padrões de mercado e profissão.",
+          "whyItIsWrong": "O texto indica fortalecimento das comunidades locais, sem mencionar uniformização profissional."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de texto",
+        "secondarySkills": [
+          "Conhecimento socioeconômico",
+          "Análise crítica"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Avalia a habilidade de relacionar tecnologia a impacto econômico em contextos tradicionais.",
+          "Exige interpretar texto para extrair consequências sociais e econômicas específicas."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌐",
+        "shortThemeTitle": "Impacto da internet em populações tradicionais",
+        "interpretationIntro": "A questão solicita que se compreenda e explique como a adoção da internet contribui para ampliar a rentabilidade das populações tradicionais e indígenas.",
+        "commandTerms": [
+          {
+            "term": "Adoção da tecnologia",
+            "explanation": "Uso ou introdução da internet nas comunidades tradicionais para transformar processos sociais e econômicos."
+          },
+          {
+            "term": "Ampliar a rentabilidade",
+            "explanation": "Aumentar as possibilidades de ganhos financeiros e valorização econômica dessas comunidades."
+          },
+          {
+            "term": "Integração a cadeias de abastecimento",
+            "explanation": "Conectar pequenos produtores a mercados maiores para melhor circulação de produtos e recursos."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual é o impacto da internet que resulta em maior rentabilidade para as populações tradicionais mencionadas.",
+        "strategyParagraph": "Após ler o enunciado, deve-se focar no aspecto econômico destacado, ou seja, o fortalecimento do engajamento e visualização das comunidades associado à integração de pequenos produtores em cadeias de abastecimento maiores. Com isso, é possível inferir que a internet amplia a rentabilidade pela maior valorização de seus produtos e contato com mercados mais amplos, o que deve ser refletido na alternativa correta.",
+        "reviewTable": [
+          {
+            "concept": "Internet e visibilidade social",
+            "keyIdea": "A tecnologia amplia o engajamento e a presença nas mídias sociais.",
+            "application": "Aumenta o alcance das culturas e produções tradicionais."
+          },
+          {
+            "concept": "Integração econômica",
+            "keyIdea": "Ligação dos pequenos produtores a redes maiores de comércio.",
+            "application": " possibilita o aumento da rentabilidade pela ampliação do mercado."
+          },
+          {
+            "concept": "Inovação nos sistemas de financiamento",
+            "keyIdea": "Novas formas de apoio financeiro facilitadas pela internet.",
+            "application": "Apoia a sustentabilidade econômica das comunidades locais."
+          }
+        ],
+        "theoryParagraphs": [
+          "A internet, ao proporcionar comunicação e troca de informações globalizadas, impulsiona o engajamento social das populações tradicionais, fortalecendo sua identidade cultural e presença nas mídias digitais.",
+          "Mais importante, ela promove a inclusão econômica ao conectar pequenos agricultores e produtores florestais a cadeias maiores de abastecimento, permitindo que seus produtos alcancem mercados mais amplos e gerando maior rentabilidade, o que impacta diretamente na economia local dessas comunidades.",
+          "Além disso, a inovação nos sistemas de financiamento facilitados pela internet permite criar mecanismos de apoio que potencializam a sustentabilidade e o desenvolvimento econômico dessas populações, consolidando a relação entre tecnologia e fortalecimento econômico local."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado destaca que a tecnologia — nesse caso, a internet — fortalece o engajamento e a visibilidade das populações tradicionais, além de facilitar a sua integração com mercados maiores.",
+          "Esse processo resulta em uma maior rentabilidade porque permite que pequenos produtores usufruam de redes maiores e mais consolidadas, potencializando a venda de seus produtos e ganhos financeiros.",
+          "Assim, ao analisar as alternativas, a correta é aquela que aponta a ampliação da rentabilidade devido a essa integração e fortalecimento econômico local.",
+          "As demais opções ou extrapolam o tema, focando em aspectos não destacados no enunciado, como cultura, regras comerciais, educação ou uniformização profissional, que não são o foco principal da questão."
+        ],
+        "puloDoGato": "Entenda que a internet fortalece comunidades locais ao ampliar acesso a mercados maiores, gerando mais renda — não apenas visibilidade ou aspectos culturais.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta. Expressa que a internet amplia a rentabilidade ao integrar pequenos produtores a cadeias de abastecimento maiores, reforçando o fortalecimento econômico local, conforme o texto."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. Embora mencione visibilidade, foca em projetos culturais, o que não é o principal impacto destacado no enunciado."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. Supõe que a internet estabelece regras comerciais, o que não é abordado na questão, que foca em fortalecimento econômico."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. Refere-se a melhorias na educação, tema não tratado no texto para essa aplicação."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta. Indica uniformização da qualificação profissional, que não condiz com o fortalecimento das comunidades mostrado no enunciado."
+          }
+        ],
+        "questionCode": "CH_SOCIO_QUEST_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si e fundamentam corretamente a alternativa A como resposta correta. A redação da resolução oficial está clara, objetiva e adequada ao padrão esperado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2539,
+    "outputTokens": 1819,
+    "estimatedCostUsd": 0.003926
+  }
+}

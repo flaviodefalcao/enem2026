@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:33:41.143Z",
+  "questionId": "enem-2024-linguagens-q034",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta pois o texto mostra que o aplicativo Linklado facilita a escrita de línguas indígenas ao permitir o uso de combinações ilimitadas de acentos e caracteres especiais, o que promove o registro escrito dessas línguas e contribui para sua preservação.",
+        "strategy": "Analisar detalhadamente o texto para identificar a função do aplicativo Linklado, relacionando-a com as opções de resposta e eliminando alternativas que não correspondem à informação apresentada.",
+        "steps": [
+          "Ler atentamente o texto para compreender a função do Linklado.",
+          "Reconhecer que o aplicativo facilita a escrita e transcrição de línguas indígenas, superando limitações de teclados convencionais.",
+          "Identificar que o Linklado permite o uso de diacríticos e letras ausentes dos teclados tradicionais.",
+          "Entender que essa facilidade promove o registro e preservação das línguas indígenas.",
+          "Comparar cada alternativa com o que o texto afirma sobre o aplicativo.",
+          "Selecionar a alternativa que melhor expressa a contribuição do Linklado conforme o texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O Linklado é um aplicativo que facilita a escrita das línguas indígenas no ambiente digital, permitindo o uso de acentos e caracteres específicos que não existem nos teclados comuns, o que auxilia na preservação dessas línguas por meio do registro escrito.",
+        "stepByStep": [
+          "Leia o texto atentamente para entender o que é o Linklado e sua finalidade.",
+          "Observe que o texto destaca a superação das limitações dos teclados comuns na representação gráfica das línguas indígenas.",
+          "Note que o Linklado possibilita combinações múltiplas de acentos e caracteres especiais para facilitar a escrita dessas línguas.",
+          "Reflita que essa facilidade ajuda no registro e preservação das línguas indígenas.",
+          "Analise as alternativas buscando aquela que corresponde ao papel do aplicativo descrito no texto.",
+          "Conclua que a alternativa que destaca a democratização do registro escrito das línguas indígenas é a correta."
+        ],
+        "commonPitfalls": [
+          "Confundir o aplicativo com criador de novos fonemas, quando ele facilita sua representação.",
+          "Achar que o aplicativo adapta regras de jogos, confundindo o exemplo inicial.",
+          "Pensar que o app divulga técnicas de tradução, o que não é informado no texto.",
+          "Interpretar que o app auxilia no aprendizado do português em línguas indígenas, o que não é o foco."
+        ],
+        "teachingTips": [
+          "Estimule a leitura cuidadosa do texto para captar o papel exato do aplicativo.",
+          "Trabalhe com os alunos para diferenciar funções semelhantes na área linguística.",
+          "Explique a limitação dos teclados comuns e a importância de recursos que permitam caracteres especiais.",
+          "Proponha exercícios de interpretação textuais que envolvam identificar funções e impactos.",
+          "Converse sobre a importância da preservação das línguas indígenas e o papel da escrita nesse processo."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confusão entre criação de fonemas e representação gráfica deles.",
+          "misconceptionType": "Confusão sobre funcionalidade do aplicativo",
+          "whyItLooksPlausible": "Texto menciona fonemas e possíveis representações gráficas, pode induzir à ideia de criação.",
+          "whyItIsWrong": "O app não cria fonemas, apenas facilita sua representação escrita."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Associação do aplicativo com tradução de regras do jogo.",
+          "misconceptionType": "Foco equivocado na função do aplicativo",
+          "whyItLooksPlausible": "O texto inicia falando da tradução com auxílio do app.",
+          "whyItIsWrong": "O foco do app é facilitar a escrita de línguas indígenas, não adaptar regras de jogos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Suposição de que o app divulga técnicas de tradução.",
+          "misconceptionType": "Confusão entre tradução e escrita",
+          "whyItLooksPlausible": "Presença no texto de tradução e trabalho de pesquisa.",
+          "whyItIsWrong": "O app facilita a escrita, não a divulgação de técnicas tradutórias."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Interpretar que o app ajuda no aprendizado do português.",
+          "misconceptionType": "Interpretação erronea de função do app",
+          "whyItLooksPlausible": "Texto fala de tradução do português para tukano.",
+          "whyItIsWrong": "O app serve para escrever línguas indígenas, não para ensinar português. "
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Leitura e compreensão textual",
+        "secondarySkills": [
+          "Interpretação de texto",
+          "Análise crítica",
+          "Conhecimento sociocultural"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige atenção para distinguir funções do aplicativo descritas.",
+          "Não requer conhecimento especializado em linguística.",
+          "Não envolve imagens ou dados numéricos."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Preservação de línguas indígenas pela escrita digital",
+        "interpretationIntro": "A questão requer compreender, a partir da leitura do texto, como o aplicativo Linklado contribui para as línguas indígenas.",
+        "commandTerms": [
+          {
+            "term": "Contribuir",
+            "explanation": "Indica contribuição, auxílio ou impacto positivo de algo sobre outra coisa."
+          },
+          {
+            "term": "De acordo com",
+            "explanation": "Solicita identificar o que está alinhado ou corresponde ao texto apresentado."
+          }
+        ],
+        "whatTheQuestionAsks": "O que o aplicativo Linklado proporcionou em relação às línguas indígenas, conforme o texto apresentado, especialmente no que tange à escrita e preservação dessas línguas?",
+        "strategyParagraph": "Para responder, deve-se ler atentamente o texto, identificar a função do aplicativo Linklado, analisando seus recursos e efeitos na escrita das línguas indígenas, e então confrontar essa compreensão com as alternativas oferecidas, buscando aquela que expressa o impacto real do aplicativo conforme o texto.",
+        "reviewTable": [
+          {
+            "concept": "Função de um aplicativo linguístico",
+            "keyIdea": "Permitir a escrita de línguas com caracteres não disponíveis em teclados comuns",
+            "application": "Linklado facilita a escrita de línguas indígenas com uso de diacríticos e caracteres especiais."
+          },
+          {
+            "concept": "Preservação linguística",
+            "keyIdea": "A escrita em língua materna é fundamental para manter viva a língua e cultura",
+            "application": "Linklado apoia a preservação ao facilitar o registro escrito do tukano e outras línguas indígenas."
+          },
+          {
+            "concept": "Interpretação textual",
+            "keyIdea": "Compreender corretamente papel e impacto para responder à questão",
+            "application": "Diferenciar funções reais do app de ideias errôneas como criar fonemas ou ensinar português."
+          }
+        ],
+        "theoryParagraphs": [
+          "A escrita é ferramenta essencial para a preservação de línguas, especialmente aquelas com poucos falantes e tradutores. A disponibilidade de meios digitais adequados que permitam incluir todos os sons e grafemas de uma língua é crucial para sua documentação e uso cotidiano.",
+          "Muitos teclados padrão não disponibilizam caracteres com diacríticos ou letras específicas necessários para a escrita de línguas indígenas brasileiras, o que dificulta sua transmissão escrita. Aplicativos que flexibilizam esse aspecto promovem o acesso e o uso dessas línguas no meio digital.",
+          "A interpretação correta de textos exige que o leitor avalie o contexto e as informações, identificando a função real dos elementos citados, evitando conclusões que extrapolem o conteúdo apresentado."
+        ],
+        "resolutionParagraphs": [
+          "O texto apresenta a experiência da professora indígena, que com o auxílio do Linklado traduziu rapidamente regras de um jogo de tabuleiro do português para o tukano, graças à facilidade que o aplicativo oferece para o uso de caracteres especiais e acentos.",
+          "A pesquisadora idealizadora explica que o Linklado permite combinações ilimitadas de acentos, superando limitações dos teclados tradicionais, e assim auxilia na criação de representações gráficas para fonemas ainda sem forma escrita.",
+          "A antropóloga destaca que escrever na língua materna é fundamental para sua preservação, e que o Linklado contribui para que o Brasil reconheça sua diversidade linguística.",
+          "Assim, conclui-se que o aplicativo contribui para que as línguas indígenas possam ser escritas e preservadas digitalmente, democratizando seu registro.",
+          "Portanto, a alternativa B é a correta, pois reconhece o papel do Linklado em promover o registro escrito e a preservação das línguas indígenas."
+        ],
+        "puloDoGato": "Leia com atenção para identificar exatamente o que o aplicativo faz; ele facilita a escrita, não cria fonemas nem adapta jogos.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar do texto mencionar fonemas e combinações, o aplicativo não cria novos fonemas, apenas facilita sua representação gráfica."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta, pois reflete que o Linklado facilita o registro escrito das línguas indígenas, promovendo sua democratização e preservação."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O aplicativo não adapta regras de jogos; o exemplo do jogo mostra só o uso facilitado da escrita com o app."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "O app não divulga técnicas de tradução, apenas facilita a escrita das línguas indígenas."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O Linklado não é ferramenta para ensino de português, mas para facilitar a escrita em línguas indígenas."
+          }
+        ],
+        "questionCode": "LINGUAGENS_TEXTOS_RESENHA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a saída do solver e o explainer estão coerentes e consistentes entre si. A resolução consolidada no formato oficial ENEM segue as normas editoriais e esclarece pontos importantes, explicando o raciocínio e comentando todas as alternativas de forma clara e didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2832,
+    "outputTokens": 2045,
+    "estimatedCostUsd": 0.004405
+  }
+}

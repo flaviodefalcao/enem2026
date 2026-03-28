@@ -1,0 +1,183 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:17:23.604Z",
+  "questionId": "enem-2024-ciencias-humanas-q086",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta porque as imagens mostram a transformação do espaço natural de Dubai em áreas artificiais, como ilhas construídas no mar, evidenciando um processo claro de artificialização do ambiente.",
+        "strategy": "Analisar as imagens comparativas de 2000 e 2020 para identificar alterações no espaço geográfico causadas por intervenções humanas, como a construção de ilhas artificiais.",
+        "steps": [
+          "Observar a imagem de 2000, que apresenta a costa natural com pouca intervenção humana.",
+          "Observar a imagem de 2020, identificando a presença das ilhas artificiais em forma de palmeiras e arquipélagos construídos no mar.",
+          "Comparar as imagens para confirmar a transformação causada pelas ações humanas.",
+          "Ler as alternativas e escolher aquela que descreve o processo como artificialização do espaço geográfico."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagens comparativas de satélites de Dubai em 2000 e 2020 mostrando a alteração da costa com áreas construídas artificialmente."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "As imagens indicam a construção de ilhas artificiais transformando o espaço natural, caracterizando um processo de artificialização.",
+        "stepByStep": [
+          "Identificar no ano 2000 a costa praticamente natural.",
+          "Notar em 2020 a presença de ilhas artificiais no mar, como as Ilhas Palmeira.",
+          "Comparar os dois momentos e concluir que a transformação é humana.",
+          "Selecionar a alternativa que descreve corretamente esse processo."
+        ],
+        "commonPitfalls": [
+          "Confundir artificialização com conservação ambiental.",
+          "Associar a mudança a desertificação.",
+          "Pensar que houve alteração de fronteiras políticas.",
+          "Interpretar as mudanças como efeitos de mudanças climáticas globais."
+        ],
+        "teachingTips": [
+          "Utilizar imagens comparativas para mostrar transformações espaciais.",
+          "Discutir os impactos da artificialização ambiental na geografia urbana.",
+          "Diferenciar processos naturais e intervenções humanas.",
+          "Relacionar com os temas de urbanização e expansão urbana."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Associar conservação a proteção ambiental em locais afetivos, o que não ocorre nas imagens.",
+          "misconceptionType": "Interpretação incorreta do conceito de conservação.",
+          "whyItLooksPlausible": "Crescimento urbano pode parecer preservação.",
+          "whyItIsWrong": "Imagens mostram intervenção humana que modifica o ambiente natural."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Confundir com aumento de desertificação dado o contexto do deserto.",
+          "misconceptionType": "Confusão entre processo natural e ação humana.",
+          "whyItLooksPlausible": "Região desértica induz à ideia de desertificação.",
+          "whyItIsWrong": "O que há é construção humana, não avanço do deserto."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que mudanças espaciais indicam mudança de fronteiras políticas.",
+          "misconceptionType": "Confusão entre transformações físicas e políticas.",
+          "whyItLooksPlausible": "Alterações físicas podem parecer mudanças administrativas.",
+          "whyItIsWrong": "Não há indício de mudança política nas imagens."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Supor que mudanças ambientais locais representam alterações macroclimáticas.",
+          "misconceptionType": "Confusão entre intervenções humanas locais e processos climáticos globais.",
+          "whyItLooksPlausible": "Mudanças podem parecer ligadas ao clima.",
+          "whyItIsWrong": "Mudanças são resultado de construções artificiais, não mudança climática."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise e interpretação de imagens geográficas",
+        "secondarySkills": [
+          "Conhecimento de processos territoriais",
+          "Compreensão da intervenção humana no espaço geográfico"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Requer observação atenta de imagens de satélite.",
+          "Indaga sobre processos de transformação urbana e espacial.",
+          "Necessita conhecimento sobre artificialização do espaço."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Artificialização do Espaço Geográfico",
+        "interpretationIntro": "A questão solicita identificar o processo geográfico representado pelas mudanças observadas nas imagens de satélite de Dubai entre 2000 e 2020.",
+        "commandTerms": [
+          {
+            "term": "Comparar",
+            "explanation": "Analisar as diferenças entre duas imagens para identificar mudanças."
+          },
+          {
+            "term": "Identificar",
+            "explanation": "Reconhecer o processo geográfico observado."
+          },
+          {
+            "term": "Analisar",
+            "explanation": "Estudar e interpretar o significado das transformações observadas."
+          }
+        ],
+        "whatTheQuestionAsks": "O que indicam as transformações apresentadas pelas imagens, caracterizadas por alterações significativas no espaço geográfico de Dubai entre 2000 e 2020?",
+        "strategyParagraph": "O caminho para resolver a questão consiste em observar atentamente as imagens de satélite dos dois períodos, identificando as principais modificações na paisagem, especialmente ao longo da costa. Reconhecer que a construção de ilhas artificiais representa intervenção humana que transforma o ambiente natural. Por fim, relacionar essas observações às alternativas apresentadas para selecionar a descrição correta do processo em questão.",
+        "reviewTable": [
+          {
+            "concept": "Artificialização do espaço",
+            "keyIdea": "Transformação do ambiente natural por intervenção humana.",
+            "application": "Construção das ilhas artificiais em Dubai entre 2000 e 2020."
+          },
+          {
+            "concept": "Análise de imagens de satélite",
+            "keyIdea": "Comparar imagens para identificar alterações espaciais.",
+            "application": "Comparação das imagens para observar mudanças na costa de Dubai."
+          },
+          {
+            "concept": "Processos territoriais",
+            "keyIdea": "Reconhecer mudanças físicas no espaço geográfico e suas causas.",
+            "application": "Distinguir entre processos naturais e ações humanas na transformação observada."
+          }
+        ],
+        "theoryParagraphs": [
+          "A artificialização do espaço geográfico ocorre quando o homem modifica o ambiente natural para adaptar, ocupar ou explorar territórios, por meio de construções, aterros, desmatamento ou outras intervenções.",
+          "As imagens de satélite são ferramentas importantes para identificar essas transformações, já que revelam alterações na paisagem natural e urbana ao longo do tempo.",
+          "No caso de Dubai, a construção das ilhas artificiais é um exemplo claro da capacidade humana de modificar o espaço, criando novos territórios artificiais que alteram a configuração do litoral."
+        ],
+        "resolutionParagraphs": [
+          "Comece observando a imagem da costa de Dubai em 2000, que mostra um litoral praticamente natural e sem grandes construções no mar.",
+          "Compare com a imagem de 2020, onde se evidenciam ilhas artificiais construídas no mar, representadas pelos contornos característicos das Ilhas Palmeira e outras formações de terra criadas pelo homem.",
+          "Perceba que essas mudanças são resultado da ação humana, configurando um processo de artificialização do espaço geográfico.",
+          "Releia as alternativas e identifique que apenas a alternativa que menciona a artificialização corresponde ao que as imagens indicam."
+        ],
+        "puloDoGato": "Para questões com imagens comparativas, sempre observe cuidadosamente as mudanças visuais e relacione-as ao conceito geográfico correto antes de decidir a alternativa.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa sugere conservação de lugares afetivos, o que não corresponde à intervenção humana observada nas imagens, que indicam construção e alteração do ambiente original."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Indica aumento da desertificação, processo natural, mas as imagens mostram expansão de áreas construídas, não avanço do deserto."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Trata-se de redefinição de fronteiras nacionais, que não é evidenciada nas imagens, pois as mudanças são físicas e locais, e não políticas."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta, pois descreve o processo de artificialização do espaço geográfico, claramente demonstrado pela construção de ilhas artificiais em Dubai."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Afirma alteração da dinâmica macroclimática, mas as mudanças observadas são resultado de intervenção humana local, não de fenômeno climático global."
+          }
+        ],
+        "questionCode": "CH_CIÊNCIASHUMANAS_INTERPRETAÇÃO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solver e explainer estão consistentes entre si e com as imagens fornecidas. A resolução final está clara, didática e atende ao padrão solicitado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3521,
+    "outputTokens": 1757,
+    "estimatedCostUsd": 0.00422
+  }
+}

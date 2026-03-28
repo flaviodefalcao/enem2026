@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:34:27.621Z",
+  "questionId": "enem-2024-linguagens-q036",
+  "payload": {
+    "theme": "Artes e produção cultural",
+    "subtheme": "Artes visuais",
+    "rationale": "A questão aborda a comparação entre duas esculturas de épocas diferentes, destacando a persistência de padrões estéticos ao longo do tempo. Isso envolve a análise de artes visuais como expressão cultural e estética, o que se enquadra no tema 'Artes e produção cultural' e no subtema 'Artes visuais'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 2318,
+    "outputTokens": 91,
+    "estimatedCostUsd": 0.001073
+  }
+}

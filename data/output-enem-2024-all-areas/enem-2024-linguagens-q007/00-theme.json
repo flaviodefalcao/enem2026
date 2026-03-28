@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:44:49.142Z",
+  "questionId": "enem-2024-linguagens-q007",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Compreensão global",
+    "rationale": "A questão pede a identificação do propósito do conjunto de minibiografias, ou seja, uma compreensão global do texto apresentado para determinar sua função principal.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1122,
+    "outputTokens": 55,
+    "estimatedCostUsd": 0.000537
+  }
+}

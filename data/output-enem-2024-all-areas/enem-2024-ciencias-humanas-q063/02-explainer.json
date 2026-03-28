@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:55:22.708Z",
+  "questionId": "enem-2024-ciencias-humanas-q063",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta a indústria cultural como um mecanismo que engana as pessoas fazendo-as acreditar que são livres e originais, quando, na verdade, as controla como uma massa homogênea. Portanto, o conceito-chave aqui é o de controle social, pois a indústria cultural atua para limitar a liberdade e uniformizar os indivíduos.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender a crítica feita à indústria cultural.",
+        "Observe que a indústria cultural cria a ilusão de liberdade, mas na prática controla as pessoas.",
+        "Lembre-se do conceito sociológico de controle social, que se refere a mecanismos que regulam o comportamento dos indivíduos numa sociedade.",
+        "Relacione a descrição do texto com esse conceito de controle social.",
+        "Confira as alternativas e escolha aquela que define a indústria cultural como um mecanismo de controle social."
+      ],
+      "commonPitfalls": [
+        "Associar a indústria cultural apenas à promoção da reflexão ou da luta coletiva, sem perceber que o texto critica a ausência dessa reflexão.",
+        "Pensar que a indústria cultural é uma instituição formal ou órgão público.",
+        "Focar somente nos aspectos econômicos da indústria cultural, esquecendo seu papel ideológico e de controle.",
+        "Confundir o controle social exercido pela indústria cultural com controle direto do Estado."
+      ],
+      "teachingTips": [
+        "Explique o conceito de controle social e como ele pode se manifestar por meios culturais e ideológicos.",
+        "Incentive os alunos a relacionarem textos críticos com conceitos sociológicos conhecidos.",
+        "Trabalhe exemplos reais ou atuais de como a mídia e a cultura podem influenciar comportamentos e crenças.",
+        "Estimule debates sobre liberdade individual versus controle social para melhor compreensão do tema.",
+        "Use comparações simples para mostrar a diferença entre controle social pelo Estado e pela indústria cultural privada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1142,
+    "outputTokens": 352,
+    "estimatedCostUsd": 0.00102
+  }
+}

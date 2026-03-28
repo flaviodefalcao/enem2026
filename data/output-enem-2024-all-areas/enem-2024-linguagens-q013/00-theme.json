@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:05:42.626Z",
+  "questionId": "enem-2024-linguagens-q013",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Compreensão global",
+    "rationale": "O enunciado solicita a identificação da função referencial da linguagem no texto, cuja finalidade principal é informar o leitor sobre o impacto da pobreza menstrual. Este aspecto está relacionado à compreensão global do texto, que envolve entender o propósito comunicativo explícito, típico do tema Leitura e interpretação textual, subtema Compreensão global.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1135,
+    "outputTokens": 91,
+    "estimatedCostUsd": 0.0006
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:43:05.002Z",
+  "questionId": "enem-2024-linguagens-q005",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Propósito comunicativo",
+    "rationale": "A questão aborda a análise do propósito comunicativo de uma carta escrita em língua estrangeira, solicitando ao aluno que compreenda a função e o uso social do texto. Isso se relaciona diretamente com o tema 'Argumentação e gêneros' e o subtema 'Propósito comunicativo', que enfocam a intenção do autor ao produzir o texto.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1616,
+    "outputTokens": 96,
+    "estimatedCostUsd": 0.0008
+  }
+}

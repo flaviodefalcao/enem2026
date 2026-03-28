@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:06:38.353Z",
+  "questionId": "enem-2024-ciencias-humanas-q077",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Estereótipos da cultura nacional",
+    "rationale": "A questão aborda capas de uma revista produzida pelo Departamento de Imprensa e Propaganda do Estado Novo, que representam estereótipos culturais brasileiros, alinhando-se ao tema de Cultura e identidade. O subtema mais adequado é Patrimônio cultural, pois envolve a construção de estereótipos da cultura nacional expressos nos meios de comunicação.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1714,
+    "outputTokens": 101,
+    "estimatedCostUsd": 0.000847
+  }
+}

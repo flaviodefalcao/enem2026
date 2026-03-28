@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:47:38.210Z",
+  "questionId": "enem-2024-linguagens-q010",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta o podcast como um meio de comunicação que promove imersão, concentração e aprendizado, diferentemente das redes sociais ou do rádio tradicional. Assim, a alternativa correta é aquela que destaca o papel educativo e aprofundado dos podcasts.",
+      "stepByStep": [
+        "Leia o texto atentamente, focando na opinião do autor sobre podcasts.",
+        "Observe que o autor relaciona podcasts à imersão, aprendizado e concentração.",
+        "Note que o texto distingue podcasts das redes sociais, que são dispersivas, e do rádio, que usa ondas tradicionais.",
+        "Compare as alternativas com as ideias do texto, eliminando as que associam o podcast a dispersão ou a rádio.",
+        "Identifique que a alternativa que destaca o aprendizado e a imersão, condiz com a argumentação do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir podcasts com redes sociais por serem mídias digitais e pensar que ambas dispersam a atenção.",
+        "Achar que podcasts são uma simples extensão ou evolução do rádio por também transmitirem áudio.",
+        "Supor que podcasts usam tecnologias de rádio, como ondas curtas ou médias.",
+        "Pensar que podcasts e redes sociais têm formato semelhante sem considerar a argumentação do texto.",
+        "Interpretar que o podcast promove dispersão, quando o texto indica o contrário."
+      ],
+      "teachingTips": [
+        "Encoraje os alunos a identificar a tese central do texto antes de analisar as alternativas.",
+        "Trabalhe a diferenciação entre diferentes mídias, reforçando suas características e finalidades.",
+        "Utilize exemplos reais de podcasts para ilustrar a ideia de imersão e aprendizado.",
+        "Explique a importância de comparar cuidadosamente cada alternativa com o texto para evitar erros de interpretação.",
+        "Promova debates sobre os diferentes formatos de mídia para desenvolver pensamento crítico em relação ao conteúdo.",
+        "Reforce a atenção à linguagem usada pelo autor para compreender o ponto de vista e a argumentação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1222,
+    "outputTokens": 375,
+    "estimatedCostUsd": 0.001089
+  }
+}

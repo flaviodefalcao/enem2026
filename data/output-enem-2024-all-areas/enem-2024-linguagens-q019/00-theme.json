@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:10:41.609Z",
+  "questionId": "enem-2024-linguagens-q019",
+  "payload": {
+    "theme": "Literatura",
+    "subtheme": "Contexto histórico-literário",
+    "rationale": "A questão propõe a análise de um fragmento literário relacionado ao contexto histórico brasileiro pós-abolição, e a habilidade H15 enfatiza a relação entre texto literário e momento de sua produção, considerando aspectos históricos, sociais e políticos. Assim, relaciona diretamente o texto ao contexto histórico-literário, compatível com o tema e subtema selecionados.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1123,
+    "outputTokens": 96,
+    "estimatedCostUsd": 0.000603
+  }
+}

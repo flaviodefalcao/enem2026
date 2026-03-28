@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:44:16.463Z",
+  "questionId": "enem-2024-linguagens-q006",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A alternativa correta é a E, pois tanto o livro \"Amazonês\" quanto as camisetas \"Caboquês Ilustrado\" têm como objetivo valorizar e registrar o repertório linguístico típico do povo do Amazonas, resgatando seu orgulho e identidade na forma de falar local.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender qual é o foco das duas iniciativas apresentadas: o livro e as camisetas.",
+        "Observe que o livro registra em torno de 1.100 expressões típicas do amazonense, mostrando preocupação em preservar e valorizar a fala local.",
+        "Note que as camisetas trazem expressões regionais com humor e buscam resgatar o orgulho do povo manauara, reforçando o valor cultural da linguagem.",
+        "Perceba que o objetivo comum de ambas as iniciativas é destacar a importância e riqueza do repertório linguístico local.",
+        "Compare essa conclusão com as alternativas do enunciado e escolha aquela que apresenta essa ideia, que é a alternativa E."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o texto indica apenas apoio a produtos locais, sem perceber o foco na linguagem.",
+        "Confundir a comparação dos portuguêses regionais com o objetivo das iniciativas.",
+        "Acreditar que o destaque é para o trabalho acadêmico, e não para a valorização da fala amazonense.",
+        "Enfatizar somente o aspecto do bom humor das camisetas, esquecendo o valor cultural e linguístico."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a lerem o texto com atenção, destacando quais são os objetivos das iniciativas apresentadas.",
+        "Promova discussões sobre a importância de valorizar as variações linguísticas regionais e sua relação com identidade cultural.",
+        "Peça para os alunos identificarem palavras ou expressões do texto que evidenciem valorização cultural e linguística.",
+        "Trabalhe com exemplos práticos de expressão regional para ampliar a compreensão sobre diversidade linguística.",
+        "Estimule a comparação cuidadosa das alternativas, para que entendam o que exatamente está sendo solicitado na pergunta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1460,
+    "outputTokens": 415,
+    "estimatedCostUsd": 0.001248
+  }
+}

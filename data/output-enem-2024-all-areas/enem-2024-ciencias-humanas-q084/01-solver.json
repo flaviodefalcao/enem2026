@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:14:22.549Z",
+  "questionId": "enem-2024-ciencias-humanas-q084",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o texto evidencia que o regatão estabelecia relações comerciais entre diversos grupos sociais (quilombolas, indígenas, pequenos produtores e comerciantes locais), configurando redes de sociabilidade no interior da Amazônia no século XIX.",
+      "strategy": "Análise do texto para identificar a função social e cultural do regatão apresentado, relacionando-o às alternativas propostas e eliminando aquelas que não correspondem à função descrita.",
+      "steps": [
+        "Ler e interpretar o texto, identificando o papel do regatão na Amazônia no século XIX.",
+        "Notar que o regatão transportava diversos produtos, abastecendo a população de forma alternativa.",
+        "Identificar os grupos sociais envolvidos (quilombolas, indígenas, pequenos produtores, comerciantes locais).",
+        "Compreender que o regatão permitia a criação de vínculos sociais e econômicos entre esses grupos, formando redes de sociabilidade.",
+        "Analisar as alternativas, eliminando aquelas que não correspondem ao papel descrito (como rotas de fuga, postos de trabalho ou ambientes de lazer).",
+        "Concluir que a alternativa D é a que melhor sintetiza a função do regatão no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto apresentado que descreve o papel do regatão na Amazônia no século XIX"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Poderia parecer que o regatão ajudava na organização de rotas de fuga pela floresta, pelo fato de sua mobilidade e alcance em áreas remotas.",
+        "misconceptionType": "Interpretação incorreta do papel do regatão como facilitador de rotas de fuga.",
+        "whyItLooksPlausible": "O texto menciona a movimentação por rios em áreas da Amazônia, que são regiões de floresta densa.",
+        "whyItIsWrong": "O texto não menciona em nenhum momento o uso do regatão para a organização de rotas de fuga, mas sim para o comércio e para conectar comunidades."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que o regatão poderia estar ligado à criação de postos de trabalho nos seringais, dado seu papel econômico na região.",
+        "misconceptionType": "Generalização do papel comercial como gerador exclusivo de empregos formais em seringais.",
+        "whyItLooksPlausible": "O comércio e transporte podem estar relacionados à economia da região, incluindo seringais.",
+        "whyItIsWrong": "O texto fala especificamente do regatão como comércio fluvial e meio de troca e ligação social, não mencionando postos de trabalho nos seringais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A presença de diversos produtos poderia levar à ideia de que era importante para a divulgação de fármacos e receitas médicas.",
+        "misconceptionType": "Confusão entre transporte de mercadorias e promoção de conhecimento técnico ou científico.",
+        "whyItLooksPlausible": "O regatão transportava variados objetos podendo incluir fármacos.",
+        "whyItIsWrong": "O texto não cita qualquer função relacionada à divulgação de conhecimento ou receitas médicas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Supor que o regatão ampliava ambientes de lazer, devido à circulação cultural e social proporcionada pelo comércio.",
+        "misconceptionType": "Confusão entre função social e função recreativa/lúdica.",
+        "whyItLooksPlausible": "A circulação de mercadorias e pessoas poderia ser associada ao lazer nas comunidades.",
+        "whyItIsWrong": "O texto destaca o papel econômico e social do regatão, não comportamental como lazer."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de texto histórico",
+      "secondarySkills": [
+        "Compreensão de contexto histórico e social",
+        "Raciocínio crítico sobre função social e econômica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige leitura atenta e compreensão da função social do regatão no contexto amazônico do século XIX.",
+        "Não há necessidade de cálculos ou modelagem, depende diretamente da análise textual.",
+        "As imagens apresentadas são apenas citações bibliográficas e não oferecem dados visuais adicionais para resolução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1059,
+    "outputTokens": 871,
+    "estimatedCostUsd": 0.001817
+  }
+}

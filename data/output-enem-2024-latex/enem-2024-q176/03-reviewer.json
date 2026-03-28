@@ -1,0 +1,117 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v1",
+  "generatedAt": "2026-03-26T19:52:52.539Z",
+  "questionId": "enem-2024-q176",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "8",
+        "correctnessClaim": "A resposta B) 8 está correta com base na extrapolação da reta de tendência apresentada no gráfico.",
+        "strategy": "Identificar a equação da reta de tendência a partir de dois pontos do gráfico, calculando o coeficiente angular e o coeficiente linear, e depois usar essa equação para estimar a receita para o ano de 2026.",
+        "steps": [
+          "Selecionar dois pontos claros da reta de tendência no gráfico. Por exemplo, (2014, 3.5) e (2021, 6.5).",
+          "Calcular o coeficiente angular (m) da reta: m = (6.5 - 3.5) / (2021 - 2014) = 3 / 7 ≈ 0.43.",
+          "Calcular o coeficiente linear (b) usando um dos pontos, por exemplo: 3.5 = 0.43 * 2014 + b => b = 3.5 - 0.43*2014.",
+          "Montar a equação da reta: Receita = 0.43 * Ano + b.",
+          "Calcular a receita estimada para 2026 substituindo o ano na equação: Receita(2026) = 0.43*2026 + b.",
+          "Com o valor de b aproximado, a receita estimada fica próxima de 8 milhões de reais.",
+          "Confirmar que a estimativa é coerente visualmente no gráfico com a reta projetada para 2026."
+        ],
+        "formulasUsed": [
+          "m = (y2 - y1) / (x2 - x1)",
+          "y = mx + b"
+        ],
+        "visualEvidenceUsed": [
+          "Gráfico com pontos de receita anual e reta de tendência para os anos 2014 a 2021"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para estimar a receita em 2026, utilizamos a reta de tendência do gráfico que mostra a receita anual da indústria entre 2014 e 2021. Calculamos a equação dessa reta com base em dois pontos conhecidos e depois substituímos o ano 2026 na equação para encontrar a estimativa da receita.",
+        "stepByStep": [
+          "Identifique dois pontos na reta de tendência para facilitar o cálculo. Por exemplo, use os anos 2014 com receita 3,5 milhões, e 2021 com receita 6,5 milhões.",
+          "Calcule o coeficiente angular (m) da reta que indica a taxa de crescimento anual da receita: m = (6,5 - 3,5) / (2021 - 2014) = 3 / 7 ≈ 0,43.",
+          "Determine o coeficiente linear (b) usando a equação da reta y = mx + b e um dos pontos. Exemplo: 3,5 = 0,43 × 2014 + b, logo, b ≈ 3,5 - 0,43×2014.",
+          "Monte a equação da reta: Receita = 0,43 × Ano + b.",
+          "Substitua o ano 2026 na equação para estimar a receita: Receita(2026) = 0,43 × 2026 + b.",
+          "Calcule e arredonde o resultado, obtendo aproximadamente 8 milhões de reais como estimativa para 2026.",
+          "Confirme visualmente no gráfico que essa estimativa está coerente com a projeção da reta para o ano 2026."
+        ],
+        "commonPitfalls": [
+          "Não calcular corretamente o coeficiente angular, o que leva a uma estimativa errada da inclinação da reta.",
+          "Usar apenas o valor inicial (2014) sem considerar o crescimento, subestimando o valor em 2026.",
+          "Superestimar a inclinação, pensando que a receita cresce muito rápido, o que leva a valores maiores que o real.",
+          "Fazer projeções muito além dos dados apresentados, sem verificar a coerência com a reta de tendência."
+        ],
+        "teachingTips": [
+          "Explique o conceito de coeficiente angular como taxa de variação que indica quanto a receita aumenta a cada ano.",
+          "Use exemplos concretos para mostrar como substituir valores na equação da reta para prever novos dados.",
+          "Incentive o aluno a sempre verificar se a estimativa faz sentido visualmente no gráfico.",
+          "Trabalhe com a simplificação de valores para facilitar as contas e verifique aproximações para reforçar o raciocínio.",
+          "Mostre a importância da extrapolação como ferramenta de previsão, mas também seus limites.",
+          "Utilize softwares ou calculadoras para reforçar a compreensão do cálculo da reta e suas aplicações."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "7",
+          "likelyReasoning": "Considerar apenas o ponto inicial da reta para 2014 e não calcular a inclinação, subestimando a receita em 2026.",
+          "misconceptionType": "Erro na extrapolação",
+          "whyItLooksPlausible": "7 é próximo do valor inicial e parece uma resposta razoável para números pequenos.",
+          "whyItIsWrong": "Não leva em conta o crescimento indicado pela reta ao longo dos anos."
+        },
+        {
+          "option": "9",
+          "likelyReasoning": "Calcular a receita para 2026 mas superestimar a inclinação da reta, levando a uma resposta maior que a correta.",
+          "misconceptionType": "Superestimação da inclinação",
+          "whyItLooksPlausible": "9 está próximo do valor real e parece um resultado de cálculo impreciso na subida da reta.",
+          "whyItIsWrong": "A inclinação correta, ao analisar o gráfico, leva a um valor menor, mais próximo de 8."
+        },
+        {
+          "option": "10",
+          "likelyReasoning": "Confundir o crescimento da receita e usar um valor alto da inclinação da reta, exagerando o aumento anual das receitas.",
+          "misconceptionType": "Exagero no crescimento esperado",
+          "whyItLooksPlausible": "10 é uma resposta numérica consistente com um grande aumento anual da receita.",
+          "whyItIsWrong": "A reta do gráfico não suporta um aumento tão acentuado entre 2014 e 2021."
+        },
+        {
+          "option": "11",
+          "likelyReasoning": "Supor que a receita continuará crescendo rapidamente após 2021, mesmo sem evidência clara no gráfico.",
+          "misconceptionType": "Projeção irrealista",
+          "whyItLooksPlausible": "11 é um número arredondado maior que 10, indicando crescimento forte.",
+          "whyItIsWrong": "Extrapola o crescimento além do indicado pela reta de tendência apresentada."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de gráficos",
+        "secondarySkills": [
+          "Regressão linear",
+          "Extrapolação de dados",
+          "Matemática básica"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": true,
+        "requiresCalculation": true,
+        "notes": [
+          "Exige o entendimento da reta de tendência para previsão futura.",
+          "Requer a habilidade de calcular a equação da reta a partir dos dados visuais.",
+          "Demanda fazer extrapolação além dos dados disponíveis no gráfico."
+        ]
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si e consistentes com o gráfico apresentado. A resposta final, o método e os cálculos estão corretos, e os distractores indicam possíveis erros e raciocínios plausíveis. A complexidade é adequada para o nível médio do ENEM, e todos os requisitos visuais e de modelagem necessários são atendidos.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3000,
+    "outputTokens": 1537,
+    "estimatedCostUsd": 0.003659
+  }
+}

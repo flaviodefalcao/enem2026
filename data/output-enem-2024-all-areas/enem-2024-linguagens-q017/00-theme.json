@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:09:04.749Z",
+  "questionId": "enem-2024-linguagens-q017",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Estratégias argumentativas",
+    "rationale": "A questão pede para inferir a intenção do autor ao apresentar um dado estatístico, o que envolve analisar a estratégia argumentativa usada para reforçar o argumento sobre impacto e alcance digital em relação ao viés racial.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1284,
+    "outputTokens": 69,
+    "estimatedCostUsd": 0.000624
+  }
+}

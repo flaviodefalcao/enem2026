@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:33:42.703Z",
+  "questionId": "enem-2024-linguagens-q035",
+  "payload": {
+    "theme": "Literatura",
+    "subtheme": "Contexto histórico-literário",
+    "rationale": "A questão explora um fragmento literário do Romantismo, relacionando o texto com o contexto social, histórico e político da época, exatamente como define a habilidade H15. A análise foca na concepção romântica de casamento, riqueza e amor, que são aspectos do contexto histórico-literário.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1110,
+    "outputTokens": 86,
+    "estimatedCostUsd": 0.000582
+  }
+}

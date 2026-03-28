@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:03:07.583Z",
+  "questionId": "enem-2024-ciencias-humanas-q073",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda a renovação das capas dos folhetos de cordel com a técnica de xilogravura, que trouxe uma transformação na estética visual e artística dessas publicações populares. A alternativa correta é a D, pois destaca essa renovação estética editorial, que é o principal impacto da técnica na produção dos folhetos.",
+      "stepByStep": [
+        "Leia atentamente o texto, identificando que ele fala sobre a produção das capas dos folhetos de cordel usando xilogravura.",
+        "Compreenda que xilogravura é uma técnica artística para fazer ilustrações, neste caso aplicadas nas capas dos folhetos.",
+        "Observe que o texto refere-se à transformação visual dessas capas, mostrando a renovação provocada pela técnica.",
+        "Analise cada alternativa, verificando se fala sobre mudança na arte e na estética das capas, ou se trata de outros aspectos como jornalismo, narrativa, indústria ou cultura erudita.",
+        "Descartar as alternativas que não focam na transformação artística e visual das capas, pois o enunciado enfatiza essa renovação estética.",
+        "Escolha a alternativa D, que refere a renovação na estética editorial das capas, refletindo corretamente a informação do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir manifestação jornalística com arte visual, pensando que a inovação foi na comunicação do folheto e não na ilustração.",
+        "Associar a renovação diretamente à narrativa literária, quando o texto fala da capa e técnica artística.",
+        "Interpretar a técnica como um impulso para a indústria regional, em vez de um impacto artístico e visual.",
+        "Classificar o folheto de cordel como cultura erudita pela técnica artística, apesar de ser manifestação da cultura popular."
+      ],
+      "teachingTips": [
+        "Explique a importância da xilogravura como técnica popular de ilustração, especialmente nos folhetos de cordel.",
+        "Destaque a diferença entre forma visual/artística e conteúdo literário ou jornalístico, para evitar confusões conceituais.",
+        "Utilize exemplos reais ou imagens de folhetos de cordel para evidenciar a transformação estética pelas ilustrações.",
+        "Estimule o aluno a ler atentamente e relacionar o texto com as alternativas de forma crítica, focando na correspondência direta com o enunciado.",
+        "Trabalhe o conceito de estética editorial para demonstrar como as técnicas artísticas influenciam a produção cultural popular."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1532,
+    "outputTokens": 490,
+    "estimatedCostUsd": 0.001397
+  }
+}

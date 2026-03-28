@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:34:49.419Z",
+  "questionId": "enem-2024-linguagens-q036",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As duas esculturas, apesar de terem sido feitas em épocas e culturas muito diferentes, mostram um estilo similar que destaca formas simplificadas e alongadas. Isso indica que certos padrões estéticos se repetem ao longo do tempo.",
+      "stepByStep": [
+        "Observe a escultura antiga 'Cabeça de uma figura feminina' e perceba como ela é simples, com poucas formas detalhadas e um rosto alongado.",
+        "Analise a escultura moderna 'Cabeça de mulher' de Modigliani, notando as características parecidas: linhas simples, rosto alongado e falta de muitos detalhes.",
+        "Compare as duas esculturas para perceber que, mesmo com mais de 2.500 anos de separação, elas compartilham esses traços estéticos similares.",
+        "Entenda que essa semelhança indica a persistência de estilos artísticos ao longo das eras, não uma influência direta ou similaridade por causa do material usado.",
+        "Por fim, escolha a alternativa que explicita que essas semelhanças apontam para a continuidade de padrões estéticos em diferentes períodos e culturas."
+      ],
+      "commonPitfalls": [
+        "Confundir similaridade estética com influência direta entre as obras.",
+        "Achar que as esculturas são iguais devido ao material usado, quando na verdade o estilo é independente do material.",
+        "Interpretar a ausência de detalhes como sinal de arte popular ou tecnológica, sem considerar o estilo artístico.",
+        "Pular etapas sem comparar visualmente os elementos básicos das esculturas."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a observar cuidadosamente as formas e os traços visuais antes de responder.",
+        "Use exemplos de obras de arte diferentes para mostrar que estilos podem se repetir ou persistir.",
+        "Explique a diferença entre influência direta, estilo comum e material usado na arte.",
+        "Estimule a comparação entre contextos históricos diferentes para entender a evolução ou persistência cultural."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2802,
+    "outputTokens": 377,
+    "estimatedCostUsd": 0.001724
+  }
+}

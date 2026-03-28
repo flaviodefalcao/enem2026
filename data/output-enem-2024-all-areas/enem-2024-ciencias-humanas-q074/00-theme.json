@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:03:47.014Z",
+  "questionId": "enem-2024-ciencias-humanas-q074",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Patrimônio cultural",
+    "rationale": "A questão trata do Círio de Nazaré como uma festa tradicional com origem histórica e valor cultural, enfatizando seu reconhecimento enquanto patrimônio histórico imaterial, o que se encaixa diretamente na categoria patrimônio cultural dentro do tema cultura e identidade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1006,
+    "outputTokens": 72,
+    "estimatedCostUsd": 0.000518
+  }
+}

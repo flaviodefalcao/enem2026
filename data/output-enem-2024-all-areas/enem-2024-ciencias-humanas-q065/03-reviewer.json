@@ -1,0 +1,185 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:56:59.611Z",
+  "questionId": "enem-2024-ciencias-humanas-q065",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta.",
+        "strategy": "Analisar o texto para identificar qual efeito da globalização sobre as identidades culturais é ressaltado e relacionar com as alternativas apresentadas.",
+        "steps": [
+          "Ler atentamente o texto para compreender a conclusão sobre o efeito da globalização nas identidades culturais.",
+          "Identificar que o texto destaca a pluralização, o deslocamento das identidades fechadas e a diversificação das posições de identificação, tornando as identidades mais políticas e plurais.",
+          "Excluir alternativas que não correspondem a esse efeito, ou seja, aquelas que falam de renda, valores morais, igualdade racial ou migrações, pois não são abordadas diretamente no texto.",
+          "Relacionar o efeito pluralizante e político das identidades com o fortalecimento das pautas das minorias, o que enfatiza pluralismo e reconhecimento da diversidade.",
+          "Concluir que a alternativa D é a que melhor representa o efeito descrito no texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca que a globalização transforma as identidades culturais tradicionais, tornando-as mais plurais, diversificadas e politizadas. Isso significa que as identidades não são mais fixas ou unificadas, mas variadas e abertas, o que fortalece a valorização das minorias e a diversidade cultural.",
+        "stepByStep": [
+          "Leia atentamente o texto para entender o efeito da globalização nas identidades culturais.",
+          "Note que o texto fala em pluralidade e diversidade das identidades, que passam a ser mais políticas e menos fixas.",
+          "Observe que o texto não menciona aspectos econômicos, valores morais, igualdade racial específica ou migrações.",
+          "Relacione essa pluralidade a um fortalecimento das pautas das minorias e à valorização da diversidade cultural.",
+          "Escolha a alternativa que melhor representa essa ideia, que é a alternativa D, que fala do fortalecimento das pautas das minorias."
+        ],
+        "commonPitfalls": [
+          "Confundir pluralidade cultural com aumento de renda ou aspectos econômicos, que não são abordados no texto.",
+          "Interpretar a diversidade como perda ou abandono de valores morais tradicionais.",
+          "Associar diretamente a pluralidade identitária com igualdade racial, quando o texto é mais geral sobre identidades culturais.",
+          "Relacionar globalização com mudanças nos fluxos migratórios, que não são discutidas no excerto."
+        ],
+        "teachingTips": [
+          "Estimule os alunos a fazerem uma leitura atenta e criteriosa do texto, destacando termos-chave como 'pluralizante', 'posições de identificação' e 'diversas'.",
+          "Explique o conceito de identidades culturais fluidas e plurais, mostrando como isso se manifesta no mundo contemporâneo.",
+          "Trabalhe com exemplos concretos de como a globalização pode ampliar o reconhecimento e a valorização das minorias culturais.",
+          "Pratique com os alunos a exclusão das alternativas que não têm relação direta com o texto, para desenvolver habilidades de compreensão e análise crítica.",
+          "Enfatize a importância de relacionar conceitos apresentados no texto com as alternativas de resposta, evitando suposições sem base textual."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode associar globalização com desenvolvimento econômico e aumento de renda.",
+          "misconceptionType": "generalization error",
+          "whyItLooksPlausible": "Globalização frequentemente está associada a mudanças econômicas e aumento de renda em alguns contextos.",
+          "whyItIsWrong": "O texto não aborda efeitos econômicos, e sim pluralidade e identidades culturais, logo essa alternativa não está relacionada."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode supor que a globalização leva à perda de valores tradicionais ou morais.",
+          "misconceptionType": "misinterpretation of cultural effects",
+          "whyItLooksPlausible": "Contestações culturais podem ser interpretadas como abandono de valores morais.",
+          "whyItIsWrong": "O texto fala em pluralidade e diversificação das identidades, não em abandono de valores morais."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "O aluno pode relacionar a pluralidade identitária com igualdade racial.",
+          "misconceptionType": "oversimplification",
+          "whyItLooksPlausible": "Igualdade racial é um tema relacionado à diversidade e identidades.",
+          "whyItIsWrong": "O texto não menciona igualdade racial especificamente, mas sim diversificação de posições identitárias em geral."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O aluno pode pensar que a globalização altera fluxos migratórios.",
+          "misconceptionType": "out of scope reasoning",
+          "whyItLooksPlausible": "Globalização é associada a migrações e movimentos populacionais.",
+          "whyItIsWrong": "O texto não discute fluxos migratórios, mas sim mudanças nas identidades culturais."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão textual e análise crítica de conceitos sociais",
+        "secondarySkills": [
+          "Interpretação de textos acadêmicos",
+          "Conhecimento sobre globalização e cultura"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão exige interpretação conceitual, sem cálculo ou visualização gráfica.",
+          "Baseia-se na compreensão da influência da globalização sobre a identidade cultural.",
+          "Demanda leitura crítica e conexão com questões sociais contemporâneas."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Globalização e identidades culturais",
+        "interpretationIntro": "O enunciado solicita que se interprete o efeito da globalização sobre as identidades culturais descrito no texto de Stuart Hall.",
+        "commandTerms": [
+          {
+            "term": "Globalização",
+            "explanation": "Processo de integração cultural, econômica e social em escala mundial que impacta identidades culturais."
+          },
+          {
+            "term": "Identidade Cultural",
+            "explanation": "Conjunto de traços, valores e práticas compartilhados por um grupo que definem sua singularidade cultural."
+          },
+          {
+            "term": "Pluralidade",
+            "explanation": "Diversidade e coexistência de diferentes identidades e formas culturais."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão demanda analisar a contribuição da globalização para as identidades culturais, conforme o trecho apresentado, e relacionar essa contribuição com as alternativas dadas.",
+        "strategyParagraph": "Para responder, deve-se interpretar o texto focando na descrição dos efeitos da globalização sobre as identidades culturais — especialmente a pluralização, deslocamento das identidades 'fechadas' e a maior diversidade. Em seguida, é preciso relacionar essa interpretação com as alternativas, eliminando as que não tratam do aspecto cultural e plural descrito, para escolher aquela que melhor reflete o conteúdo do texto.",
+        "reviewTable": [
+          {
+            "concept": "Globalização",
+            "keyIdea": "Processo que amplia as trocas culturais e sociais.",
+            "application": "Causa um deslocamento das identidades nacionais fixas, tornando-as plurais."
+          },
+          {
+            "concept": "Identidade cultural pós-moderna",
+            "keyIdea": "Identidades são fluidas, plurais e políticas.",
+            "application": "Globalização promove pluralidade e diversas posições identitárias."
+          },
+          {
+            "concept": "Pluralidade e política das identidades",
+            "keyIdea": "Identidades múltiplas ampliam a visibilidade das minorias.",
+            "application": "Contribui para o fortalecimento das pautas das minorias culturais."
+          }
+        ],
+        "theoryParagraphs": [
+          "A globalização é caracterizada pela integração crescente entre diferentes culturas, economias e sociedades, o que influencia profundamente a formação das identidades culturais, tornando-as menos fixas e mais fluidas.",
+          "Segundo Stuart Hall, as identidades culturais contemporâneas não são mais centradas em um único núcleo homogêneo, mas passam a assumir pluralidade, diversidade e dimensões políticas, o que reflete a complexidade do mundo globalizado.",
+          "Esse processo leva ao reconhecimento e à valorização das minorias culturais, ampliando o pluralismo e incentivando reivindicações sociais e políticas dessas comunidades.",
+          "Tentar relacionar a globalização a aspectos econômicos, valores morais, igualdade racial específica ou migrações, sem base no texto, configura desvios interpretativos."
+        ],
+        "resolutionParagraphs": [
+          "O texto aponta claramente que a globalização afeta as identidades culturais, tornando-as plurais e diversas, e deslocando identidades fechadas e homogêneas.",
+          "A pluralidade mencionada implica que novas posições de identificação cultural surgem e que as identidades se tornam mais políticas, o que fortalece as pautas das minorias.",
+          "Analisando as alternativas, apenas a letra D menciona o fortalecimento das pautas das minorias, alinhando-se ao efeito descrito no texto.",
+          "As demais alternativas abordam temas não destacados pelo texto, como incremento da renda (A), perda de valores morais (B), igualdade racial (C) e alterações nos fluxos migratórios (E), que devem ser descartadas por não estarem relacionadas à tese apresentada."
+        ],
+        "puloDoGato": "Na prova, leia o texto buscando as palavras-chave que indicam o efeito principal e elimine rapidamente alternativas que fogem do tema central para acertar com segurança.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora o aluno possa relacionar globalização a crescimento de renda, o texto não aborda efeitos econômicos, invalidando essa alternativa."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "A ideia de perda de valores morais não está no texto; a globalização é apresentada como pluralizante e diversificadora, não como destruidora de valores."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Apesar da igualdade racial ser importante, o texto discute identidade cultural de forma ampla, sem foco neste aspecto específico."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta porque reflete o fortalecimento das pautas das minorias decorrente da pluralidade e maior politicização das identidades culturais causada pela globalização."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Fluxos migratórios não são mencionados no texto, portanto essa alternativa não corresponde ao que é pedido."
+          }
+        ],
+        "questionCode": "CIENCIAS_HUMANAS_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução está coerente com o enunciado e saída do solver e explainer. A análise didática é clara e adequada para o público do ENEM. Não foram identificados problemas relevantes ou inconsistências.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2501,
+    "outputTokens": 2125,
+    "estimatedCostUsd": 0.0044
+  }
+}

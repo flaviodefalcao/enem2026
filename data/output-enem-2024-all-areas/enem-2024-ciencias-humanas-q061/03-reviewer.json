@@ -1,0 +1,186 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:54:16.040Z",
+  "questionId": "enem-2024-ciencias-humanas-q061",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é correta pois reflete a consciência da personagem sobre a finitude humana, evidenciada pela impossibilidade de envelhecer ou reviver experiências, o que é tema central do texto.",
+        "strategy": "Ler atentamente o texto para identificar indicações da reflexão sobre o tempo, existência e limitações humanas; relacionar essas ideias ao tema filosófico da finitude humana; comparar com as alternativas e escolher a que melhor corresponde a essa temática.",
+        "steps": [
+          "Ler o trecho para compreender os sentimentos da personagem.",
+          "Identificar expressões que indicam limitações temporais, como \"nunca envelheceria\" e \"nunca mais fosse ver o oceano\".",
+          "Interpretar essas limitações como uma reflexão sobre a finitude da existência humana.",
+          "Comparar a reflexão com as alternativas para identificar o conceito filosófico abordado.",
+          "Selecionar a alternativa B, que trata da finitude humana, como resposta correta."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto traz a reflexão da personagem sobre suas limitações temporais e existenciais, especialmente a impossibilidade de envelhecer e reviver certas experiências, abordando o tema filosófico da finitude humana.",
+        "stepByStep": [
+          "Leia o texto para entender o sentimento de limitação da personagem.",
+          "Observe palavras que indicam barreiras temporais como \"nunca envelheceria\".",
+          "Associe essa ideia à finitude humana na filosofia.",
+          "Leia as alternativas e relacione-as ao conceito de finitude.",
+          "Escolha a alternativa que melhor representa essa ideia, a letra B."
+        ],
+        "commonPitfalls": [
+          "Interpretar ambição como tema ético e não existencial.",
+          "Confundir limitações existenciais com limitações da linguagem.",
+          "Associar incorretamente ao conceito de pressuposição existencial.",
+          "Interpretar o texto como discussão sobre conhecimento objetivo."
+        ],
+        "teachingTips": [
+          "Incentive a identificação de expressões temporais no texto.",
+          "Explique o conceito de finitude humana na filosofia contemporânea.",
+          "Ajude a diferenciar temas filosóficos próximos para evitar confusões.",
+          "Utilize exemplos do cotidiano sobre limitações temporais.",
+          "Proponha discussões sobre o impacto da consciência da finitude na vida."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Focar na palavra \"ambição\" pode levar à interpretação de uma questão ética.",
+          "misconceptionType": "Interpretação equivocada do tema filosófico",
+          "whyItLooksPlausible": "Ambição pode sugerir temas morais ou éticos.",
+          "whyItIsWrong": "O texto aborda limitações temporais e existenciais, não dilemas morais."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Associar a impossibilidade de rever o oceano à limitação da linguagem.",
+          "misconceptionType": "Confusão conceitual entre linguagem e experiência existencial",
+          "whyItLooksPlausible": "Memórias e imaginação relacionam-se à linguagem.",
+          "whyItIsWrong": "O foco é a finitude da existência humana, não linguagem."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Interpretar a reflexão como tema de pressuposição existencial.",
+          "misconceptionType": "Confusão entre conceitos filosóficos próximos",
+          "whyItLooksPlausible": "A reflexão é existencial, tema da filosofia contemporânea.",
+          "whyItIsWrong": "Pressuposição existencial é termo específico e não aplicável aqui."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Interpretar o desejo de \"fazer outra vez\" como questão epistemológica.",
+          "misconceptionType": "Interpretação literal inadequada do texto",
+          "whyItLooksPlausible": "Sugere busca por conhecimento objetivo.",
+          "whyItIsWrong": "O texto trata da finitude e impossibilidade de repetir experiências."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto filosófico",
+        "secondarySkills": [
+          "Análise de conceitos filosóficos",
+          "Relação entre texto e tema filosófico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão da temática filosófica implícita na reflexão da personagem.",
+          "Não contém imagens para análise.",
+          "Alternativa correta relaciona-se ao conceito de finitude humana."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧠",
+        "shortThemeTitle": "Finitude Humana na Filosofia Contemporânea",
+        "interpretationIntro": "A questão propõe refletir sobre o sentido principal da meditação da personagem, que aborda aspectos da existência e do tempo.",
+        "commandTerms": [
+          {
+            "term": "Refletir",
+            "explanation": "Pensar cuidadosamente sobre as ideias e sentimentos expressos no texto."
+          },
+          {
+            "term": "Característico",
+            "explanation": "Que pertence a uma característica marcante de um tema ou assunto."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual problema filosófico contemporâneo está presente na reflexão da personagem sobre seu futuro e limitações existenciais.",
+        "strategyParagraph": "Para resolver a questão, é necessário analisar o texto considerando as expressões relacionadas à impossibilidade de envelhecer e reviver experiências. O foco está na percepção da personagem sobre suas limitações temporais e existenciais, o que remete ao conceito filosófico da finitude humana. Compreendendo essa ideia, deve-se correlacionar as alternativas e escolher aquela que melhor representa essa discussão.",
+        "reviewTable": [
+          {
+            "concept": "Finitude Humana",
+            "keyIdea": "Limitação temporal e existencial do ser humano.",
+            "application": "Expressa no texto pela impossibilidade de envelhecer e reviver experiências."
+          },
+          {
+            "concept": "Ambição Humana",
+            "keyIdea": "Desejo intenso e incessante dos seres humanos.",
+            "application": "Mencionada no texto, mas não como tema principal filosófico."
+          },
+          {
+            "concept": "Pressuposição Existencial",
+            "keyIdea": "Bases existenciais assumidas para a vida e o ser.",
+            "application": "Não diretamente abordada no texto."
+          },
+          {
+            "concept": "Epistemologia",
+            "keyIdea": "Estudo do conhecimento e sua objetividade.",
+            "application": "Não aplicada no contexto do texto."
+          }
+        ],
+        "theoryParagraphs": [
+          "Na filosofia contemporânea, a finitude humana refere-se à consciência das limitações impostas pela temporalidade e pela existência do ser humano, evidenciando que a vida é finita e que certas experiências não são reproduzíveis.",
+          "O texto reflete essa temática ao destacar a impossibilidade da personagem de envelhecer e rever o oceano, simbolizando a barreira temporal e existencial que impede a repetição plena dos momentos vividos.",
+          "Essa visão filosófica provoca uma sensação de insatisfação diante da vida, pois há sempre a percepção de que algo poderia ter sido vivido ou feito de forma diferente, evidenciando a consciência da finitude."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado apresenta um trecho reflexivo da personagem sobre a impossibilidade de envelhecer e reviver experiências, especialmente a imagem do oceano vista de longe.",
+          "Palavras e expressões como \"nunca envelheceria\" e \"nunca mais fosse ver o oceano\" indicam uma percepção clara das limitações temporais e existenciais da personagem.",
+          "Essa reflexão está associada ao conceito filosófico da finitude humana, que trata justamente dessas limitações inerentes à condição humana.",
+          "Analisando as opções, observa-se que a alternativa B é a que aborda a finitude humana, que corresponde ao tema central do texto.",
+          "As demais alternativas tratam de temas filosóficos diferentes ou interpretam incorretamente o foco da reflexão da personagem."
+        ],
+        "puloDoGato": "Identifique no texto as palavras que indicam impossibilidade e limite temporal para associá-las ao tema da finitude humana.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar de mencionar ambição, o texto não discute questões éticas ou morais, mas sim limitações existenciais."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correta pois expressa a temática da finitude humana, presente na impossibilidade de envelhecer e reviver momentos."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Confunde as limitações da experiência existencial com limitações da linguagem, tema não central no texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Embora a reflexão seja existencial, o termo 'pressuposição existencial' não se aplica diretamente ao conteúdo apresentado."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O texto não aborda o conhecimento objetivo, mas sim a impossibilidade de repetir experiências e a finitude."
+          }
+        ],
+        "questionCode": "CH_FILO_REFLEXAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução e explanação estão coerentes entre si e corretamente relacionados ao tema filosófico da finitude humana. Todos os elementos indicam que a alternativa B é a correta, com argumentos bem fundamentados. A resolução oficial segue a linguagem clara, didática e escaneável solicitada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2715,
+    "outputTokens": 1859,
+    "estimatedCostUsd": 0.00406
+  }
+}

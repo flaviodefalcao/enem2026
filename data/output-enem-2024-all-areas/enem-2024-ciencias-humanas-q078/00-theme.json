@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:07:43.159Z",
+  "questionId": "enem-2024-ciencias-humanas-q078",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Ética e política",
+    "rationale": "A questão trata de um princípio ético fundamental (a regra de ouro) e seu papel estruturante na vida em sociedade, relacionando valores éticos à estruturação política, o que se enquadra diretamente no tema 'Cidadania e democracia' e no subtema 'Ética e política', especialmente considerando a habilidade relacionada à análise dos valores éticos na política e a competência sobre fundamentos da cidadania e democracia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 817,
+    "outputTokens": 109,
+    "estimatedCostUsd": 0.000501
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:46:57.905Z",
+  "questionId": "enem-2024-ciencias-humanas-q052",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O movimento Black Lives Matter defende a valorização da diversidade dentro da comunidade negra, incluindo negros de diferentes orientações sexuais, gêneros e condições sociais, superando uma visão limitada e excludente.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender a mensagem principal do movimento Black Lives Matter.",
+        "Observe que o texto critica um nacionalismo estreito focado apenas na valorização masculina e heterossexual.",
+        "Perceba que o movimento inclui e valoriza negros homossexuais, transexuais, pessoas com deficiência, mulheres e outras identidades de gênero.",
+        "Compare as alternativas disponíveis e identifique qual delas reflete essa valorização da diversidade interna no movimento.",
+        "Conclua que a alternativa que destaca a integração da diversidade na comunidade negra é a correta."
+      ],
+      "commonPitfalls": [
+        "Acreditar que o movimento apenas quer manter conquistas sociais já alcançadas, quando na verdade busca ampliar a inclusão.",
+        "Confundir a valorização cultural com a inclusão social e identitária mencionadas no texto.",
+        "Interpretar o termo nacionalismo como supremacismo, levando a uma compreensão incorreta do movimento.",
+        "Pensar que o movimento apoia um protagonismo exclusivo de homens heterossexuais, quando o texto critica justamente isso."
+      ],
+      "teachingTips": [
+        "Incentive os estudantes a fazerem uma leitura crítica e atenta do texto antes de responder.",
+        "Ajude-os a diferenciar termos parecidos, como nacionalismo e supremacismo, para evitar confusões.",
+        "Promova debates sobre diversidade e inclusão para contextualizar melhor a proposta do movimento.",
+        "Estimule a comparação entre alternativas para que possam justificar a escolha com base no texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1452,
+    "outputTokens": 340,
+    "estimatedCostUsd": 0.001125
+  }
+}

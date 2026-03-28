@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:33:51.609Z",
+  "questionId": "enem-2024-linguagens-q035",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o fragmento evidencia claramente a interferência da riqueza no sentimento amoroso e na instituição do casamento, como expressa a personagem Aurélia ao assumir que comprou seu marido por dinheiro.",
+      "strategy": "Interpretar o fragmento literário, identificar o tema central relacionado ao casamento e os elementos que expressam uma concepção romântica, buscando no texto palavras e contextos que evidenciem a interferência da riqueza sobre o amor.",
+      "steps": [
+        "Analisar a fala de Aurélia, que afirma ser rica e ter comprado o marido por cem contos de réis.",
+        "Observar a caracterização do marido como vendido, ou seja, como objeto de transação financeira dentro da relação matrimonial.",
+        "Relacionar essa condição à crítica social e literária romântica, mostrando o conflito entre amor, casamento e interesses econômicos.",
+        "Comparar as alternativas para verificar qual delas está de acordo com a crítica apresentada no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter interpretado a fala de Aurélia como uma crítica à relação desigual entre homens e mulheres no casamento, associando isso a uma defesa da igualdade de gêneros.",
+        "misconceptionType": "Interpretação inadequada do tema principal",
+        "whyItLooksPlausible": "O trecho envolve uma mulher que expõe uma posição crítica sobre o casamento e seu papel, podendo ser confundido com uma defesa da igualdade.",
+        "whyItIsWrong": "O texto não enfatiza igualdade entre gêneros, mas sim a compra do marido pela riqueza da esposa, ou seja, o aspecto econômico influencia a relação."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode focar na menção ao primeiro beijo ser guardado para a esposa, relacionando isso à castidade e pureza sexual.",
+        "misconceptionType": "Foco em um detalhe secundário como tema principal",
+        "whyItLooksPlausible": "O trecho contém uma referência explícita ao primeiro beijo de amor e pureza.",
+        "whyItIsWrong": "Apesar da menção, o tema central do fragmento não é a castidade, mas sim a interferência da riqueza e o casamento como transação."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato pode interpretar a fala sobre \"homem vendido\" e a distinção entre classes sociais como uma crítica à injustiça social.",
+        "misconceptionType": "Generalização do tema social",
+        "whyItLooksPlausible": "O texto aborda uma relação marcada por aspectos econômicos, sugerindo uma desigualdade social e venda da pessoa.",
+        "whyItIsWrong": "Embora haja crítica social, o foco do fragmento está na riqueza que interfere no amor e no casamento, não numa ampla indignação com injustiças sociais."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode ter pensado que o texto destaca as relações entre as pessoas e, portanto, valoriza as relações interpessoais.",
+        "misconceptionType": "Confusão entre temática de relações e aspecto crítico",
+        "whyItLooksPlausible": "O texto é um diálogo intenso e emocional entre duas pessoas casadas.",
+        "whyItIsWrong": "O texto evidencia conflitos e mistificações na relação, e não uma valorização positiva das relações interpessoais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto literário",
+      "secondarySkills": [
+        "Análise crítica",
+        "Reconhecimento de temáticas literárias"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige compreensão do contexto literário romântico.",
+        "Requer identificar críticas sociais implícitas.",
+        "Foca em temática do casamento e relação entre amor e dinheiro."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 831,
+    "outputTokens": 779,
+    "estimatedCostUsd": 0.001579
+  }
+}

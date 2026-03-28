@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:21:08.416Z",
+  "questionId": "enem-2024-q139",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para decidir em qual loja o artesão deve comprar, é preciso calcular o custo total dos componentes necessários para um enfeite em cada loja e escolher onde o valor é menor.",
+      "stepByStep": [
+        "Observe na tabela os preços dos componentes X e Y em cada loja.",
+        "Multiplique a quantidade de cada componente pelos seus respectivos preços na loja I: 2 vezes o preço de X e 1 vez o preço de Y.",
+        "Some esses valores para encontrar o custo total na loja I.",
+        "Repita o cálculo para a loja II, multiplicando as quantidades pelos preços correspondentes e somando.",
+        "Compare o custo total das duas lojas e escolha a loja com o menor valor para comprar os componentes."
+      ],
+      "commonPitfalls": [
+        "Usar apenas o menor preço unitário sem considerar a quantidade necessária dos componentes.",
+        "Confundir as quantidades de componentes que são 2 para X e 1 para Y.",
+        "Somar os preços unitários sem multiplicar pela quantidade correta de cada componente.",
+        "Ignorar a soma total e escolher a loja pelo preço de um único componente."
+      ],
+      "teachingTips": [
+        "Explique que, para comparar preços, é fundamental calcular o custo total dos componentes necessários.",
+        "Use exemplos com quantidades diferentes para mostrar a importância de multiplicar preço pela quantidade.",
+        "Enfatize a leitura atenta da tabela de preços para evitar erros na identificação dos valores.",
+        "Incentive os alunos a escreverem as operações antes de calcular para organizar o raciocínio.",
+        "Pratique exercícios similares com tabelas para desenvolver a interpretação e cálculo simultâneos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1465,
+    "outputTokens": 318,
+    "estimatedCostUsd": 0.001095
+  }
+}

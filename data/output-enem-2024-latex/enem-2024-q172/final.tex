@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 172 --- ENEM 2024 --- Matemática}
+
+\subsection*{Enunciado}
+Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema.
+
+O alcance de cada uma das cinco câmeras é:
+\begin{itemize}
+  \item câmera I: $\frac{1}{5}$ do percurso;
+  \item câmera II: $\frac{3}{10}$ do percurso;
+  \item câmera III: $\frac{1}{10}$ do percurso;
+  \item câmera IV: $\frac{1}{10}$ do percurso;
+  \item câmera V: $\frac{3}{10}$ do percurso.
+\end{itemize}
+
+Em determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de $250\; \mathrm{m/min}$; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de $150 \; \mathrm{m/min}$.
+
+Qual câmera registra o momento em que os ônibus A e B se encontram?
+
+\subsection*{Solução}
+\begin{enumerate}
+  \item Dados:
+  \begin{align*}
+    D &= 9000 \; \mathrm{m} \\
+    v_A &= 250 \; \mathrm{m/min} \\
+    v_B &= 150 \; \mathrm{m/min}
+  \end{align*}
+  \item Velocidade relativa dos ônibus:
+  \[
+  v_{rel} = v_A + v_B = 400 \; \mathrm{m/min}.
+  \]
+  \item Tempo até o encontro:
+  \[
+  t = \frac{D}{v_{rel}} = \frac{9000}{400} = 22,5 \; \mathrm{min}.
+  \]
+  \item Posição do ônibus A no encontro:
+  \[
+  d_A = v_A \times t = 250 \times 22,5 = 5625 \; \mathrm{m}.
+  \]
+  \item Cálculo dos intervalos monitorados pelas câmeras (em metros):
+  \begin{align*}
+    \text{I} &= 0 \text{ a } 1800 \; (\frac{1}{5} \times 9000) \\
+    \text{II} &= 1800 \text{ a } 4500 \; (\frac{3}{10} \times 9000 + 1800) \\
+    \text{III} &= 4500 \text{ a } 5400 \; (\frac{1}{10} \times 9000 + 4500) \\
+    \text{IV} &= 5400 \text{ a } 6300 \; (\frac{1}{10} \times 9000 + 5400) \\
+    \text{V} &= 6300 \text{ a } 9000 \; (\frac{3}{10} \times 9000 + 6300)
+  \end{align*}
+  \item Como $5625$ está entre $5400$ e $6300$, o encontro ocorre sob a cobertura da câmera IV.
+\end{enumerate}
+
+\subsection*{Conclusão}
+A câmera que registra o encontro dos ônibus A e B é a \textbf{câmera IV}.
+
+\subsection*{Observação}
+Este resultado foi obtido considerando velocidades constantes e movimentos uniformes dos ônibus, além da correta conversão das frações do percurso para medidas absolutas em metros, respeitando o sentido dos deslocamentos.
+
+
+\end{document}

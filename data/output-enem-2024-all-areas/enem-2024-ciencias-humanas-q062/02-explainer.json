@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:54:38.781Z",
+  "questionId": "enem-2024-ciencias-humanas-q062",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda a divergência filosófica entre dois autores sobre o papel da linguagem e do significado no empirismo moderno, focando na epistemologia da linguagem e como ela fundamenta o conhecimento.",
+      "stepByStep": [
+        "Leia atentamente o TEXTO I para identificar os dois dogmas do empirismo moderno mencionados: a distinção entre verdades analíticas e sintéticas e o reducionismo da linguagem.",
+        "Compreenda a tese de que apenas enunciados com conteúdo factual têm significado teórico, destacando o papel da experiência na validação do conhecimento.",
+        "Identifique a distinção filosófica entre as ciências empíricas que utilizam apenas conteúdos empíricos e a filosofia que poderia empregar conceitos não empíricos.",
+        "Compare as alternativas da questão para ver qual delas aborda diretamente o tema da epistemologia da linguagem, isto é, a relação entre linguagem, conhecimento e significado.",
+        "Conclua que os textos apresentam uma divergência sobre o estatuto epistemológico da linguagem, isto é, sobre como e em que termos a linguagem sustenta o conhecimento no empirismo moderno."
+      ],
+      "commonPitfalls": [
+        "Confundir a questão principal com temas morais ou éticos, desviando o foco da epistemologia da linguagem.",
+        "Interpretar os textos como discussões metafísicas ou ontológicas, o que não é o foco principal aqui.",
+        "Generalizar o tema para a estética ou outras áreas da filosofia sem relação direta com linguagem e conhecimento.",
+        "Não distinguir os conceitos técnicos de empirismo, como verdades analíticas/sintéticas e reducionismo, levando a interpretações equivocadas."
+      ],
+      "teachingTips": [
+        "Explique previamente os conceitos de empirismo, verdades analíticas e sintéticas, e reducionismo, para facilitar a compreensão dos textos.",
+        "Estimule a análise crítica dos textos antes de olhar as alternativas, focando nos temas centrais.",
+        "Use exemplos cotidianos para ilustrar a diferença entre enunciados analíticos e sintéticos e como a experiência fundamenta o conhecimento.",
+        "Enfatize a importância da epistemologia da linguagem na filosofia moderna, mostrando sua influência em várias áreas do conhecimento.",
+        "Promova debates ou discussões para que os estudantes possam articular as diferenças entre as abordagens filosóficas apresentadas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1714,
+    "outputTokens": 462,
+    "estimatedCostUsd": 0.001425
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:28:47.355Z",
+  "questionId": "enem-2024-linguagens-q029",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "Correta, pois a reflexão do narrador evidencia o peso social e o estigma que envolve o termo \"filho adotivo\", indicando como a adoção carrega representações sociais que podem desvalorizar ou marcar a parentalidade adotiva.",
+      "strategy": "Análise do trecho textual para identificar o tema central da reflexão do narrador e relacioná-lo às alternativas apresentadas.",
+      "steps": [
+        "Ler cuidadosamente o excerto para compreender o sentido do termo \"filho adotivo\" e suas implicações sociais.",
+        "Identificar que o narrador percebe uma 'tecnicidade' no termo que influencia a aceitação social, evidenciando um estigma.",
+        "Observar que há um desconforto e questionamento sobre a relação parental estabelecida pela adoção.",
+        "Comparar cada alternativa com essa análise para verificar qual se associa melhor ao texto.",
+        "Verificar que a alternativa A aborda as representações sociais estigmatizadas que condizem com o tema do texto.",
+        "Concluir que a alternativa A é a que melhor expressa a perspectiva do narrador."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode entender que a aceitação social mencionada refere-se à aprovação de desconhecidos, por causa do trecho 'as pessoas tendem a assentir com solenidade', interpretando de forma superficial o papel do público.",
+        "misconceptionType": "Interpretação literal fora do contexto",
+        "whyItLooksPlausible": "Parece relacionar a aceitação social ao comportamento de pessoas externas, o que é mencionado no texto.",
+        "whyItIsWrong": "O foco do texto é na representação social e estigma ligados ao termo, não simplesmente na necessidade de aprovação de estranhos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se pensar que o julgamento velado ocorre dentro da família, pois o narrador fala do irmão e percepções pessoais, confundindo o ambiente social com o familiar.",
+        "misconceptionType": "Confusão quanto ao âmbito social versus familiar",
+        "whyItLooksPlausible": "O texto fala do narrador e uma inquietude pessoal, que pode ser associada ao núcleo familiar.",
+        "whyItIsWrong": "O texto enfatiza a aceitação social geral, não há indicação clara de juízos familiares."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar o conflito mencionado entre o termo técnico e o vínculo afetivo na afirmação \"meu irmão é filho - filho de quem?\", considerando que o problema é esse conflito conceitual.",
+        "misconceptionType": "Interpretação parcial do tema central",
+        "whyItLooksPlausible": "O texto explicitamente menciona uma contradição entre o termo e a aceitação emocional.",
+        "whyItIsWrong": "Embora haja essa reflexão, o foco maior trata das representações sociais e estigma, que são mais amplos do que apenas o conflito entre termo técnico e vínculo afetivo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode-se pensar que a inquietude mencionada se refira a questões entre irmãos, já que o narrador fala do irmão adotivo.",
+        "misconceptionType": "Focalização equivocada na relação direta entre irmãos",
+        "whyItLooksPlausible": "O narrador expressa inquietação pessoal referida a seu irmão, que poderia ser entendida como tensão entre irmãos.",
+        "whyItIsWrong": "O texto evidencia que a questão central está na percepção social e no termo \"filho adotivo\", não na dinâmica ou atritos entre irmãos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Leitura e interpretação de texto",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão de relações sociais e culturais",
+        "Reflexão sobre linguagem e significados"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige entendimento profundo do texto literário e sua carga social.",
+        "Reconhecer o estigma social implicado no termo é chave para responder.",
+        "Não há imagens ou dados visuais envolvidos na questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 737,
+    "outputTokens": 846,
+    "estimatedCostUsd": 0.001648
+  }
+}

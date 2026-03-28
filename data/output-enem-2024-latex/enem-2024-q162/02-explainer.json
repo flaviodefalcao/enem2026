@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:38:45.523Z",
+  "questionId": "enem-2024-q162",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para escolher o melhor mês para comprar o apartamento e pagar o menor valor total, precisamos entender que o valor das parcelas aumenta a cada mês (progressão geométrica), mas a imobiliária paga todas as parcelas do mês do aniversário do comprador. Assim, ao simular o total pago para cada mês de compra, percebemos que iniciar em fevereiro resulta na menor soma de pagamentos, já que maximiza o desconto das parcelas pagas pela imobiliária.",
+      "stepByStep": [
+        "Entenda que a primeira parcela é fixa e as seguintes aumentam por uma taxa constante (progressão geométrica).",
+        "Identifique que o comprador não paga as parcelas que caem no mês do seu aniversário (maio).",
+        "Para cada mês candidato a mês de compra, determine quais parcelas vão cair em maio ao longo dos 100 meses.",
+        "Calcule o valor total pago somando todas as parcelas e subtraindo as que a imobiliária paga (mês de maio).",
+        "Compare os totais para cada mês e identifique o menor valor pago.",
+        "Conclua que a compra feita em fevereiro gera o menor custo total para o comprador."
+      ],
+      "commonPitfalls": [
+        "Assumir que comprar no mês do aniversário é sempre o melhor sem considerar o aumento das parcelas.",
+        "Ignorar a sequência de meses e a posição das parcelas no ano ao calcular quais são pagas pela imobiliária.",
+        "Confundir o acréscimo percentual levando a erros na progressão geométrica.",
+        "Não contabilizar corretamente o número de parcelas que caem no mês de aniversário.",
+        "Pensar só no número de parcelas grátis, sem analisar os valores progressivos."
+      ],
+      "teachingTips": [
+        "Use exemplos numéricos simples para ilustrar como as parcelas aumentam e quais são pagas pela imobiliária.",
+        "Mostre um calendário para ajudar os alunos a visualizar o alinhamento dos meses e parcelas.",
+        "Explique progressão geométrica de forma intuitiva, relacionando com acréscimos percentuais.",
+        "Proponha exercícios semelhantes com diferentes meses de aniversário para praticar o raciocínio.",
+        "Incentive os alunos a escreverem a sequência e marcá-la mês a mês, para entender quais parcelas são descontadas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1473,
+    "outputTokens": 442,
+    "estimatedCostUsd": 0.001296
+  }
+}

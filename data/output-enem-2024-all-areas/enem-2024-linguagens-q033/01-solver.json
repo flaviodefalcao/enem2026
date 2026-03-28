@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:32:25.717Z",
+  "questionId": "enem-2024-linguagens-q033",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque a expressão “Vou deixar que você se vá” associada à imagem de uma pessoa sorridente segurando uma peça de roupa transmite a ideia de doação e desapego com objetos que podem aquecer outras pessoas.",
+      "strategy": "Analisamos a expressão verbal e os elementos visuais do cartaz para entender sua intenção comunicativa dentro do contexto da campanha do agasalho.",
+      "steps": [
+        "Observa-se a expressão verbal central no cartaz: \"Vou deixar que você se vá\".",
+        "Analisa-se a imagem: uma pessoa sorridente segura uma blusa, sugerindo uma ação positiva envolvendo roupas.",
+        "Lê-se o texto complementar que incentiva a doação de roupas em bom estado para ajudar pessoas que precisam.",
+        "Relaciona-se a expressão verbal com o gesto de doação, interpretando o \"deixar ir\" como ato de desapego e solidariedade.",
+        "Compara-se as opções de resposta, descartando as que não combinam com o contexto visual e textual do cartaz."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem de uma pessoa segurando uma blusa com a expressão ‘Vou deixar que você se vá’ estampada, transmitindo a ideia de doação e desapego."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter interpretado a expressão como incentivo a descartar itens defeituosos, associando 'deixar ir' a 'jogar fora'.",
+        "misconceptionType": "Interpretação incorreta do sentido figurado da expressão.",
+        "whyItLooksPlausible": "A expressão 'vou deixar que você se vá' pode ser confundida com descartar algo.",
+        "whyItIsWrong": "O cartaz claramente incentiva a doação de roupas em bom estado, e não o descarte de itens defeituosos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode ter ligado a ideia de 'deixar que vá' a um estímulo para dar novos usos aos produtos, interpretando como reciclagem.",
+        "misconceptionType": "Confusão entre doação e reciclagem.",
+        "whyItLooksPlausible": "Doação e reciclagem são formas de reutilização e cuidado ambiental, podendo ser confundidas.",
+        "whyItIsWrong": "O cartaz fala explicitamente sobre doação de roupas, não sobre reciclagem."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode ter havido confusão ao associar o cartaz à conservação de roupas, devido à menção de agasalhos.",
+        "misconceptionType": "Desvio de foco para cuidados com roupas ao invés de doação.",
+        "whyItLooksPlausible": "O cartaz menciona agasalhos, o que pode remeter a dicas para cuidar dessas roupas.",
+        "whyItIsWrong": "O texto claramente incentiva a doação, não fala em conservar roupas pessoais."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode ter interpretado a frase como uma metáfora emocional para despedida, relacionando a peça a sentimentos de separação.",
+        "misconceptionType": "Interpretação excessivamente literal e emocional da metáfora.",
+        "whyItLooksPlausible": "A frase 'Vou deixar que você se vá' pode ser entendida como uma despedida emocional.",
+        "whyItIsWrong": "No contexto visual e textual, a expressão é usada para estimular o desapego material, não emocional."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e imagem",
+      "secondarySkills": [
+        "Análise semiótica",
+        "Compreensão metafórica",
+        "Relação entre texto e imagem"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão da linguagem figurada.",
+        "Requer análise integrada do verbal e não verbal.",
+        "Avalia a capacidade de interpretar campanhas sociais por meio de cartazes."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1045,
+    "outputTokens": 808,
+    "estimatedCostUsd": 0.001711
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q081",
+  "generatedAt": "2026-03-28T01:12:06.801Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 612,
+      "outputTokens": 820,
+      "estimatedCostUsd": 0.001557
+    },
+    "explainer": {
+      "inputTokens": 1321,
+      "outputTokens": 428,
+      "estimatedCostUsd": 0.001213
+    },
+    "reviewer": {
+      "inputTokens": 2679,
+      "outputTokens": 2240,
+      "estimatedCostUsd": 0.004656
+    },
+    "totalEstimatedCostUsd": 0.007426
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque a Constituição Federal de 1988 reconheceu os territórios quilombolas e passou a garantir políticas específicas de inserção social, incluindo direitos territoriais, sociais e culturais às comunidades quilombolas, buscando sua integração e valorização na sociedade brasileira.",
+      "strategy": "Analisou-se o contexto histórico e constitucional do reconhecimento dos quilombos na Constituição de 1988, associando as opções apresentadas ao tipo de ação estatal contemplada na legislação vigente.",
+      "steps": [
+        "Ler atentamente o enunciado que destaca os remanescentes de quilombos reconhecidos como patrimônio cultural e territorial.",
+        "Identificar o marco legal citado, Constituição de 1988, que trouxe avanços no reconhecimento dos direitos das comunidades quilombolas.",
+        "Associar as alternativas apresentadas aos tipos de ações efetivamente promovidas pelo Estado no âmbito dessas comunidades.",
+        "Descartar as alternativas que não têm relação com o que se sabe sobre os direitos sociais e territoriais garantidos aos quilombolas após 1988.",
+        "Selecionar a alternativa que corresponde a políticas que promovem a inclusão social, reconhecendo direitos específicos destas comunidades."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A Constituição Federal de 1988 reconheceu os territórios quilombolas no Brasil e garantiu direitos territoriais, sociais e culturais às comunidades quilombolas, promovendo sua inclusão social e valorização.",
+      "stepByStep": [
+        "Leia atentamente o enunciado para entender que se trata dos remanescentes de quilombos e seu reconhecimento.",
+        "Identifique que o texto menciona a Constituição de 1988, importante marco legal para direitos sociais e territoriais.",
+        "Reconheça que a Constituição passou a garantir direitos específicos às comunidades quilombolas, incluindo suas terras e cultura.",
+        "Analise as alternativas buscando aquela que envolve a ação estatal de reconhecimento e garantia desses direitos.",
+        "Elimine as alternativas que se confundem com outras políticas sociais, religiosas, habitacionais ou educacionais que não refletem o reconhecimento constitucional.",
+        "Escolha a alternativa que fala sobre políticas de inclusão social e proteção dos direitos quilombolas, que é a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir o reconhecimento das comunidades quilombolas com políticas sociais específicas como planejamento familiar.",
+        "Associar o tema a intervenções religiosas, quando na verdade a ação estatal é laica e focada em direitos sociais e territoriais.",
+        "Pensar que o foco é apenas em moradia sustentável, quando o reconhecimento é mais amplo e inclui direitos territoriais.",
+        "Achar que a integração social ocorre via homogeneização cultural, quando o valor está na preservação da identidade quilombola.",
+        "Ignorar o marco constitucional de 1988, que foi fundamental para o reconhecimento legal dessas comunidades."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da luta das comunidades quilombolas e sua importância cultural e territorial.",
+        "Apresente a Constituição de 1988 como um avanço crucial para os direitos sociais e territoriais dessas comunidades.",
+        "Use exemplos concretos de políticas públicas que garantem direitos quilombolas para ilustrar a aplicação prática da Constituição.",
+        "Estimule a análise cuidadosa das alternativas para diferenciar políticas específicas de reconhecimento constitucional.",
+        "Reforce a importância de respeitar e valorizar a diversidade cultural, tema central na proteção das comunidades quilombolas."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A associação equivocada de 'quilombos' com planejamento familiar pode vir da ideia de políticas públicas aplicadas às comunidades.",
+        "misconceptionType": "Aplicação incorreta de políticas sociais específicas",
+        "whyItLooksPlausible": "Planejamento familiar é uma política social comum em áreas rurais e pode ser vista como ação estatal em comunidades tradicionais.",
+        "whyItIsWrong": "O texto e o contexto constitucional indicam reconhecimento territorial e inclusão social mais ampla, não limitada ao planejamento familiar."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que o reconhecimento das comunidades quilombolas envolva reorientação religiosa por questão histórica de discriminação ou diferenças religiosas.",
+        "misconceptionType": "Confusão entre dimensões culturais e religiosas",
+        "whyItLooksPlausible": "As comunidades têm forte identidade cultural, o que pode gerar associação com práticas religiosas específicas.",
+        "whyItIsWrong": "A ação do Estado após 1988 foi mais focada em direitos territoriais e sociais do que em intervenções religiosas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que o Estado tenha promovido programas de moradias sustentáveis para essas comunidades como forma de política pública.",
+        "misconceptionType": "Confusão entre políticas habitacionais e inclusão social ampla",
+        "whyItLooksPlausible": "Programas habitacionais muitas vezes são direcionados a comunidades vulneráveis e algumas políticas rurais incluem sustentabilidade.",
+        "whyItIsWrong": "O reconhecimento constitucional é mais abrangente e não se restringe a moradias sustentáveis, mas sim a políticas de inserção social e reconhecimento territorial."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que o Estado promoveu homogeneização educacional para integrar essas comunidades pode decorrer da ideia de integração social através da educação.",
+        "misconceptionType": "Interpretação errada da integração social como homogeneização cultural",
+        "whyItLooksPlausible": "A educação é meio comum de integração social e pode ser confundida com homogeneização.",
+        "whyItIsWrong": "O reconhecimento das comunidades quilombolas valorizou a diversidade cultural e seus direitos específicos, não a homogeneização."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e conhecimento histórico-cultural",
+      "secondarySkills": [
+        "Conhecimento constitucional",
+        "Relações étnico-raciais",
+        "Direitos sociais e territoriais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento histórico e constitucional sobre os direitos das comunidades quilombolas.",
+        "Requer compreensão das políticas públicas após a Constituição de 1988.",
+        "Não apresenta elementos visuais para análise, sendo todo o embasamento textual e conceitual."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧑🏿‍🤝‍🧑🏽",
+      "shortThemeTitle": "Reconhecimento Constitucional dos Quilombos",
+      "interpretationIntro": "A questão traz um trecho que destaca os remanescentes de quilombos no Brasil e sua recente atenção pelo Estado a partir da Constituição de 1988, solicitando a identificação da esfera de ação estatal resultante dessa mudança.",
+      "commandTerms": [
+        {
+          "term": "Reconhecimento",
+          "explanation": "Identificar o reconhecimento legal e constitucional das comunidades quilombolas."
+        },
+        {
+          "term": "Inclusão Social",
+          "explanation": "Compreender políticas que promovem a integração e valorização dessas comunidades."
+        }
+      ],
+      "whatTheQuestionAsks": "Indicar qual é a ação do Estado, especialmente após a Constituição Federal de 1988, em relação aos territórios e comunidades quilombolas mencionados.",
+      "strategyParagraph": "Para responder, deve-se analisar o marco constitucional de 1988 que passou a reconhecer os direitos territoriais, sociais e culturais das comunidades quilombolas, diferenciando essas políticas de outras ações sociais que não correspondem ao reconhecimento oficial e amparado pela Constituição.",
+      "reviewTable": [
+        {
+          "concept": "Quilombos e Comunidades Quilombolas",
+          "keyIdea": "Remanescentes históricos das comunidades negras no Brasil com identidade étnico-territorial.",
+          "application": "Objeto de reconhecimento pelo Estado na Constituição de 1988."
+        },
+        {
+          "concept": "Constituição Federal de 1988",
+          "keyIdea": "Marco que assegura direitos sociais, culturais e territoriais às comunidades quilombolas.",
+          "application": "Base legal para políticas públicas de inclusão e proteção dessas comunidades."
+        },
+        {
+          "concept": "Inclusão Social",
+          "keyIdea": "Políticas que promovem a valorização e integração plenas das comunidades quilombolas na sociedade.",
+          "application": "Direitos territoriais, culturais e sociais garantidos pela legislação atual."
+        }
+      ],
+      "theoryParagraphs": [
+        "Os quilombos representam comunidades remanescentes da resistência negra no Brasil colonial e pós-colonial, constituindo hoje patrimônio cultural e territorial reconhecido.",
+        "Com a Constituição de 1988, o Estado brasileiro passou a reconhecer explicitamente os direitos dessas comunidades, incluindo seu território e direitos culturais, o que representou uma importante conquista na luta contra discriminações históricas.",
+        "Esse reconhecimento constitucional implica a formulação e implementação de políticas públicas que garantem a inclusão social, o respeito à diversidade cultural e a proteção dos direitos territoriais dessas comunidades."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado indica que os remanescentes de quilombos ganharam atenção estatal mais efetiva a partir da Constituição de 1988, sugerindo um avanço legal importante.",
+        "Sabemos que essa Constituição incluiu dispositivos que reconhecem os direitos territoriais e culturais das comunidades quilombolas, o que levou à formulação de políticas específicas que promovem sua inclusão social.",
+        "Ao analisar as alternativas, deve-se escolher aquela que expressa esse reconhecimento e a garantia de direitos, descartando opções que falam em planejamento familiar, reorientação religiosa, moradia sustentável ou homogeneização educacional, pois nenhuma dessas resume o conteúdo constitucional relacionado.",
+        "Portanto, a alternativa D é a correta, pois aponta para a ação estatal que promove políticas de inserção social e garante direitos aos quilombolas, em consonância com o texto constitucional vigente."
+      ],
+      "puloDoGato": "Lembre-se: a Constituição de 1988 foi o divisor de águas que legalmente reconheceu os direitos territoriais e culturais das comunidades quilombolas.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Incorreta. Planejamento familiar não é o foco do reconhecimento constitucional das comunidades quilombolas, trata-se de políticas mais amplas de direitos sociais e territoriais."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta. A ação estatal não envolveu reorientação religiosa; o reconhecimento foi laico e voltado para direitos sociais e culturais."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta. Moradias sustentáveis podem ser políticas pontuais, mas o reconhecimento constitucional trata principalmente de direitos territoriais e inclusão social ampla."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Correta. Reflete o reconhecimento constitucional e a garantia de políticas de inclusão social, direitos territoriais, sociais e culturais às comunidades quilombolas."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta. A integração social promovida busca valorizar a diversidade cultural, não homogeneizar a educação ou cultura das comunidades."
+        }
+      ],
+      "questionCode": "CH_CIENCIAS_HUMANAS_QUE_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A solução técnica, a explicação didática e a resolução oficial estão coerentes e alinhadas ao enunciado e ao tema tratado. O tratamento das alternativas está adequado e fundamentado.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:30:06.268Z",
+  "questionId": "enem-2024-linguagens-q030",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta porque tanto Antônio Prata quanto Graciliano Ramos defendem a ideia de que a arte tem um papel desestabilizador, que questiona certezas e expõe as contradições e imperfeições da realidade e da sociedade, em vez de simplesmente reforçar crenças pessoais ou apresentar um olhar simplificado.",
+        "strategy": "Analisar o posicionamento sobre a arte nos textos mencionados, identificando qual ideia é comum a ambos os autores.",
+        "steps": [
+          "Identificar no texto de Antônio Prata que ele valoriza a arte como algo que mostra a realidade nua e crua, com defeitos e contraditória, e que a arte deve fazer o leitor sair da leitura ou sessão com a guarda abaixada e certezas abaladas.",
+          "Recordar que Graciliano Ramos é conhecido por uma literatura que tem um caráter crítico e desestabilizador da realidade social, mostrando suas contradições e imperfeições.",
+          "Comparar as ideias dos dois autores sobre a arte, verificando qual ideia está presente em ambos.",
+          "Descartar alternativas que não condizem com as ideias expressas nos textos, como as que falam somente sobre dignidade do artista, pobreza como inspiração, reforço de crenças pessoais ou mudanças significativas na produção artística.",
+          "Confirmar que o que aproxima os dois autores é a ênfase no caráter desestabilizador da arte que expõe a realidade em sua complexidade e contradições."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Tanto Antônio Prata quanto Graciliano Ramos entendem que a arte deve expor a realidade com suas contradições e imperfeições, provocando uma reflexão que abale certezas fixas, em vez de apenas reforçar crenças pessoais.",
+        "stepByStep": [
+          "Leia com atenção o trecho de Antônio Prata, identificando a ideia central sobre a arte: ela deve mostrar a realidade nua, com defeitos, e fazer o leitor questionar suas certezas.",
+          "Lembre-se do pensamento de Graciliano Ramos, conhecido por sua literatura que critica e desestabiliza a realidade social, mostrando suas contradições.",
+          "Compare as ideias: ambos valorizam a arte crítica, que provoca reflexão e não reforça crenças.",
+          "Analise as alternativas, eliminando as que não refletem esse posicionamento sobre a arte.",
+          "Escolha a alternativa que mostra essa aproximação no papel desestabilizador da arte, que questiona e expõe complexidades."
+        ],
+        "commonPitfalls": [
+          "Focar apenas na valorização do artista e não no conteúdo crítico da arte.",
+          "Interpretar que a arte deve reforçar crenças pessoais, quando o texto aponta exatamente o contrário.",
+          "Pensar que a pobreza ou mudanças na produção são o foco da questão, quando o que importa é a função da arte.",
+          "Confundir comentário sobre mudança com tese comum entre os autores."
+        ],
+        "teachingTips": [
+          "Estimule os alunos a identificar a tese central dos textos, não apenas detalhes superficiais.",
+          "Trabalhe a reflexão sobre o papel da arte na sociedade, diferenciando arte que reforça certezas da que questiona.",
+          "Promova comparações entre textos para desenvolver a habilidade de análise crítica e intertextualidade.",
+          "Use exemplos literários e artísticos para ilustrar o que é arte desestabilizadora versus arte que confirma crenças.",
+          "Reforce a importância da leitura atenta para evitar confusões causadas por interpretações parciais."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que ambos valorizam os artistas, então defendem a dignidade do ofício.",
+          "misconceptionType": "confusão entre valor do conteúdo e valorização dos artistas",
+          "whyItLooksPlausible": "Ambos os autores falam sobre arte, então parece lógico defender o ofício dos artistas.",
+          "whyItIsWrong": "O foco dos textos é sobre o papel da arte e não sobre a valorização formal dos artistas."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode-se pensar que a arte reforça crenças pessoais porque o texto menciona que hoje há um exercício de \"lacração\" em que as pessoas saem com certezas reforçadas.",
+          "misconceptionType": "interpretação parcial e superficial do texto",
+          "whyItLooksPlausible": "O texto de Prata menciona que hoje a arte reforça certezas pessoais.",
+          "whyItIsWrong": "Graciliano Ramos tem uma visão diferente, que enfatiza o caráter crítico e questionador da arte, não o reforço de crenças."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode-se inferir que a pobreza é inspiração para a arte, considerando o contexto de Graciliano Ramos e suas obras que falam da realidade brasileira.",
+          "misconceptionType": "associação incorreta do autor com o tema da questão",
+          "whyItLooksPlausible": "Graciliano Ramos muitas vezes retrata a pobreza e a realidade social.",
+          "whyItIsWrong": "A questão pede o que aproxima os textos, e essa ideia não está explicitamente apresentada em Antônio Prata."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Podem achar que o texto de Prata indica mudanças na produção artística ao mencionar que hoje há um exercício de lacração, algo diferente do passado.",
+          "misconceptionType": "foco na mudança factual e não na tese comum",
+          "whyItLooksPlausible": "Existem menções a transformações na arte ao longo do tempo.",
+          "whyItIsWrong": "A questão pede uma tese que se aproxima, não apenas um comentário sobre mudanças."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação textual",
+        "secondarySkills": [
+          "Análise crítica",
+          "Relação entre textos",
+          "Literatura e artes"
+        ],
+        "cognitiveDemand": "alto",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreender o pensamento dos dois autores sobre a função da arte.",
+          "É necessário fazer uma análise comparativa das ideias centrais apresentadas nos textos.",
+          "É uma questão textual com uma abordagem literária e artística."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Função crítica da arte na literatura",
+        "interpretationIntro": "A questão nos convida a analisar as ideias de dois autores sobre a arte, destacando qual tese aproxima o posicionamento de Antônio Prata, no Texto II, e Graciliano Ramos, no Texto I.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar detalhadamente as ideias apresentadas nos textos para compreender seus significados."
+          },
+          {
+            "term": "Aproxima-se da tese",
+            "explanation": "Identificar a ideia comum que une os autores em relação ao tema da arte."
+          }
+        ],
+        "whatTheQuestionAsks": "Indicar qual aspecto da visão sobre a arte em Antônio Prata se aproxima da defendida por Graciliano Ramos, destacando a tese que os dois compartilham.",
+        "strategyParagraph": "Para responder, é preciso ler com atenção as opiniões de ambos sobre a arte e identificar qual conceito ou função da arte aparece em ambos os textos. Em seguida, comparar as alternativas fornecidas, eliminando as que não refletem essa aproximação.",
+        "reviewTable": [
+          {
+            "concept": "Função da arte",
+            "keyIdea": "A arte expõe a realidade com suas contradições e defeitos.",
+            "application": "Ambos os autores destacam a arte como um espelho crítico da sociedade."
+          },
+          {
+            "concept": "Função crítica e desestabilizadora",
+            "keyIdea": "A arte deve provocar reflexão e abalar certezas.",
+            "application": "Os textos indicam que a arte não deve reforçar crenças, mas questioná-las."
+          },
+          {
+            "concept": "Interpretação textual",
+            "keyIdea": "Compreender a mensagem central dos textos sobre a arte.",
+            "application": "Analisar o enunciado e os textos para identificar a tese comum."
+          }
+        ],
+        "theoryParagraphs": [
+          "A arte tem sido historicamente entendida como um meio para expressar e questionar a realidade, expondo-lhe aspectos ocultos ou incômodos. Sua função não se limita ao entretenimento, mas inclui o papel de provocar reflexão e desestabilizar visões pré-concebidas.",
+          "Antônio Prata critica a arte contemporânea que reforça certezas pessoais, enquanto valoriza uma arte que mostra a realidade nua, com todos seus defeitos, preparando o leitor para enfrentar suas próprias contradições. Já Graciliano Ramos é conhecido por uma literatura que revela o lado sombrio e complexo da sociedade brasileira, enfatizando a função crítica da arte.",
+          "Entender a visão desses autores sobre a arte permite compreender que a arte autêntica deve provocar questionamentos e multiplicar perspectivas, distanciando-se de artifícios que apenas confirmam opiniões fixas. Esta é a aproximação fundamental entre os dois autores na questão."
+        ],
+        "resolutionParagraphs": [
+          "O primeiro passo é identificar a ideia central no texto de Antônio Prata: ele valoriza a arte que não suaviza a realidade, mas que a mostra em sua complexidade, com defeitos e contradições, e que faz com que o receptor da arte saia com suas certezas abaladas, nunca reforçadas.",
+          "Depois, é importante lembrar a característica da obra de Graciliano Ramos, que expõe criticamente as mazelas sociais e as imperfeições da humanidade, reforçando um olhar desestabilizador e questionador.",
+          "Comparando as duas posições, percebe-se a afinidade na valorização da arte que provoca uma reflexão profunda e desconstrói certezas, em oposição à arte que apenas consolida crenças pessoais.",
+          "Assim, ao analisar as alternativas, a correta é aquela que aponta a tese comum de ambos: o papel da arte como provocadora de questionamentos e crítica à realidade, que é justamente a alternativa D."
+        ],
+        "puloDoGato": "Foque na função da arte como ferramenta crítica e desestabilizadora, não apenas de entretenimento ou reforço de crenças fixas.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar de parecer que ambos valorizam os artistas, a questão focaliza o papel da arte, não a dignidade dos artistas, tornando esta alternativa incorreta."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "O texto critica a arte que reforça certezas pessoais, como a ‘lacração’ atual, o que contrasta com a visão crítica de Graciliano Ramos, por isso essa alternativa é errada."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Embora Graciliano retrate a pobreza, a aproximação com Antônio Prata não envolve a inspiração da pobreza, mas sim a função crítica da arte, tornando esta alternativa inadequada."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Esta alternativa é correta porque ambos os autores defendem que a arte é um instrumento crítico que mostra a realidade com suas contradições e provoca reflexão."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A menção à transformação da arte no tempo presente não caracteriza a tese comum entre os autores, portanto, esta alternativa está incorreta."
+          }
+        ],
+        "questionCode": "LINGUAGENS_ARTES_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a resposta do solver e a explicação didática estão coerentes e consistentes entre si. A resolução oficial consolidada está clara, didática e respeita as normas editoriais necessárias para o ENEM. Todas as alternativas foram devidamente comentadas, destacando a letra correta e explicando os motivos para a correção ou incorreção das demais.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3657,
+    "outputTokens": 2386,
+    "estimatedCostUsd": 0.00528
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:15:27.843Z",
+  "questionId": "enem-2024-ciencias-humanas-q085",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque o movimento das Madres de Plaza de Mayo denunciou a violação dos direitos humanos durante a ditadura militar Argentina, em especial os desaparecimentos forçados de seus filhos.",
+      "strategy": "Identificar o contexto histórico e o foco do movimento social mencionado na questão a partir da descrição textual e do conhecimento histórico geral.",
+      "steps": [
+        "Ler atentamente o enunciado que fala sobre as Madres de Plaza de Mayo, um grupo de mães que protestavam contra o desaparecimento de seus filhos.",
+        "Identificar que o movimento foi contra um regime repressivo e militar, denunciando violações graves cometidas pelo Estado.",
+        "Relacionar o movimento com a denúncia mundial da violação de direitos humanos, especialmente desaparecimentos e repressão durante a ditadura argentina.",
+        "Analisar as alternativas e encontrar aquela que corresponde a essa denúncia: violação dos direitos humanos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O estudante pode associar o problema à insegurança juvenil por conta da menção de jovens ou filhos das mães.",
+        "misconceptionType": "generalização indevida",
+        "whyItLooksPlausible": "As mães protestavam pela situação de seus filhos; pode surgir a ideia de insegurança ligada à juventude.",
+        "whyItIsWrong": "O foco principal era a repressão estatal e desaparecimento, não exclusivamente a segurança da juventude periférica."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confundir a questão da violência estatal com violência doméstica por questão dos grupos sociais e sofrimento das mulheres.",
+        "misconceptionType": "confusão temática",
+        "whyItLooksPlausible": "Como o grupo é de mães, pode haver associação errada com violência doméstica.",
+        "whyItIsWrong": "O movimento se dirige contra violência política do Estado, não violência doméstica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que as manifestações eram sobre desigualdade social, um problema comum na América Latina.",
+        "misconceptionType": "ampliação do tema central",
+        "whyItLooksPlausible": "Contexto latino-americano frequentemente associa-se movimentos a desigualdade social.",
+        "whyItIsWrong": "O protesto das Madres era focado na repressão e violações, não diretamente em desigualdade social."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Assumir que o movimento criticava uma crise democrática, relativização dos princípios democráticos.",
+        "misconceptionType": "erro de escopo histórico-político",
+        "whyItLooksPlausible": "A ditadura militar é antidemocrática, pode levar a pensar que o foco é na relativização da democracia.",
+        "whyItIsWrong": "Embora o regime fosse autoritário, o movimento especificamente denunciava as violações de direitos humanos como sequestros e desaparecimentos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise histórica de movimentos sociais",
+      "secondarySkills": [
+        "Compreensão crítica de textos",
+        "Conhecimento histórico sobre ditaduras na América Latina"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento histórico sobre a ditadura na Argentina e ações de resistência social.",
+        "Não há imagens associadas que complementem a informação para a resposta.",
+        "Interpretar corretamente o foco do movimento é fundamental para identificar a resposta correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 707,
+    "outputTokens": 700,
+    "estimatedCostUsd": 0.001403
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:19:37.383Z",
+  "questionId": "enem-2024-ciencias-humanas-q089",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta porque o Conselho de Segurança da ONU possui membros permanentes com poder de veto, indicando uma relação desigual de poder político entre os países-membros, ou seja, assimetria política.",
+        "strategy": "Analisar a descrição do funcionamento e composição do Conselho de Segurança da ONU, identificando a característica das relações internacionais que ela apresenta, especialmente a presença de cinco membros permanentes com poder de veto, e relacionar com os conceitos fornecidos nas alternativas.",
+        "steps": [
+          "Identificar que o Conselho de Segurança da ONU tem 15 membros, sendo 5 permanentes com poder de veto.",
+          "Reconhecer que o poder de veto confere aos membros permanentes uma influência desproporcional nas decisões do Conselho.",
+          "Entender que essa influência desigual é uma expressão de assimetria política entre os membros da ONU.",
+          "Comparar isso com as alternativas dadas para escolher a que melhor define essa característica, que é 'Assimetria política'.",
+          "Descartar alternativas que não correspondem à descrição fornecida (igualdade militar, consenso multipolar, equilíbrio estratégico, soberania compartilhada)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem do enunciado 1: referência bibliográfica do texto adaptado usado na questão."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O Conselho de Segurança da ONU tem cinco membros permanentes com poder de veto, o que demonstra uma relação desigual de poder político entre os países-membros, caracterizando uma assimetria política nas decisões internacionais.",
+        "stepByStep": [
+          "Observe que o Conselho de Segurança possui 15 membros, sendo 5 permanentes com poder de veto.",
+          "O poder de veto permite que esses membros bloqueiem decisões, dando-lhes influência maior que os demais.",
+          "Essa influência desigual mostra que nem todos os países têm o mesmo peso nas decisões do Conselho.",
+          "Entenda que essa diferença de poder é chamada de assimetria política.",
+          "Analise as alternativas e identifique que a que melhor descreve essa característica é a 'Assimetria política'.",
+          "Descarte outras alternativas que falham em reconhecer a influência desigual."
+        ],
+        "commonPitfalls": [
+          "Pensar que todos os países têm igual poder decisório, confundindo com igualdade militar.",
+          "Achar que o Conselho funciona por consenso multipolar, ignorando o poder de veto dos permanentes.",
+          "Considerar que há equilíbrio estratégico quando, na verdade, o veto gera desequilíbrio.",
+          "Acreditar que há soberania compartilhada, quando países mantêm soberania e poder veto distinto."
+        ],
+        "teachingTips": [
+          "Explique o conceito de poder de veto e seu impacto nas decisões internacionais.",
+          "Utilize exemplos históricos reais de vetos para ilustrar a assimetria política.",
+          "Discuta a diferença entre igualdade formal e desigualdade prática nas organizações internacionais.",
+          "Estimule a comparação crítica entre as alternativas para reforçar a correta interpretação.",
+          "Inclua atividades que ajudem os alunos a identificar características de relações internacionais, como assimetria e soberania."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que todos os países-membros têm igualdade na capacidade de segurança, o que levaria à ideia de igualdade militar.",
+          "misconceptionType": "Confusão conceitual",
+          "whyItLooksPlausible": "Os países membros atuam em questões de segurança, podendo sugerir igualdade militar.",
+          "whyItIsWrong": "O Conselho tem membros permanentes que têm mais poder (veto), o que contradiz a igualdade militar."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Parece que há um consenso entre múltiplos polos pela natureza do Conselho.",
+          "misconceptionType": "Interpretação errada do funcionamento",
+          "whyItLooksPlausible": "O Conselho tem diversos membros e envolve decisões internacionais importantes, que poderiam ser vistas como multipolares.",
+          "whyItIsWrong": "O poder de veto dos membros permanentes criou uma estrutura não equilibrada, e não um consenso multipolar."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pode dar a entender que existe equilíbrio estratégico entre os países-membros pela presença dos cinco membros permanentes.",
+          "misconceptionType": "Conceito inadequado para o contexto",
+          "whyItLooksPlausible": "O Conselho busca paz e segurança, que são objetivos de equilíbrio estratégico.",
+          "whyItIsWrong": "O poder de veto gera desequilíbrio de poder, não equilíbrio estratégico."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pode ser pensado que há soberania compartilhada pois o Conselho toma decisões coletivas.",
+          "misconceptionType": "Confusão sobre soberania",
+          "whyItLooksPlausible": "A ONU toma decisões internacionais, pode parecer que há compartilhamento de soberania.",
+          "whyItIsWrong": "Os membros mantêm sua soberania e o veto evidencia não compartilhamento equitativo de poder."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise e interpretação de relações internacionais",
+        "secondarySkills": [
+          "Compreensão de organizações internacionais",
+          "Raciocínio crítico",
+          "Conhecimento político-geográfico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão envolve o entendimento do funcionamento do Conselho de Segurança da ONU.",
+          "Exige conhecimento sobre conceitos de relações internacionais, como poder, veto e assimetria.",
+          "O uso da imagem refere-se apenas à referência do texto adaptado, sem impacto direto no conteúdo da questão."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🕊️",
+        "shortThemeTitle": "Relações Internacionais e Veto ONU",
+        "interpretationIntro": "A questão pede que se identifique a característica das relações internacionais entre os países-membros da ONU a partir da descrição do funcionamento do Conselho de Segurança.",
+        "commandTerms": [
+          {
+            "term": "Conselho de Segurança",
+            "explanation": "Órgão da ONU responsável por decisões sobre segurança e paz internacional, com membros permanentes e poder de veto."
+          },
+          {
+            "term": "Assimetria política",
+            "explanation": "Diferença na distribuição de poder político entre os países, refletida no poder de veto dos membros permanentes."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual característica das relações internacionais está evidenciada pela composição e função do Conselho de Segurança da ONU conforme descrito no enunciado.",
+        "strategyParagraph": "Para resolver, devemos analisar o papel dos cinco membros permanentes com poder de veto no Conselho de Segurança e como isso demonstra uma relação desigual de poder, comparando essa situação com os conceitos apresentados nas alternativas para selecionar a correta.",
+        "reviewTable": [
+          {
+            "concept": "Conselho de Segurança da ONU",
+            "keyIdea": "Possui 15 membros, 5 permanentes com poder de veto",
+            "application": "Demonstra que nem todos os países têm igual poder decisório."
+          },
+          {
+            "concept": "Poder de veto",
+            "keyIdea": "Confere influência desproporcional aos membros permanentes",
+            "application": "Gera assimetria política nas decisões internacionais."
+          },
+          {
+            "concept": "Assimetria política",
+            "keyIdea": "Distribuição desigual de poder político",
+            "application": "Caracteriza a relação entre países-membros do Conselho de Segurança."
+          }
+        ],
+        "theoryParagraphs": [
+          "O Conselho de Segurança da ONU é um órgão central de decisões internacionais que trata de temas de paz e segurança. Ele é composto por 15 membros, sendo 5 permanentes que possuem o poder de veto, ou seja, a capacidade de bloquear decisões mesmo que a maioria as apoie.",
+          "Esse poder de veto cria uma influência desproporcional, conferindo aos membros permanentes um peso político maior que os demais países, refletindo uma relação desigual ou assimétrica de poder dentro da organização.",
+          "Essa assimetria política é uma característica importante das relações internacionais na ONU, onde não há igualdade plena entre os membros, especialmente no que se refere à capacidade de decisão no Conselho de Segurança."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, é importante reconhecer que o Conselho de Segurança possui 15 membros, sendo que 5 são permanentes e têm poder de veto.",
+          "Esse poder concede a esses membros permanentes uma capacidade decisória muito maior do que a dos demais membros temporários, permitindo-lhes bloquear resoluções.",
+          "Por consequência, existe uma desigualdade ou assimetria política entre os países-membros, pois nem todos têm o mesmo peso nas decisões do Conselho.",
+          "Ao analisar as alternativas, a que melhor representa essa característica é a 'Assimetria política', pois aponta a disparidade no poder político entre os membros do Conselho de Segurança.",
+          "As demais alternativas (igualdade militar, consenso multipolar, equilíbrio estratégico e soberania compartilhada) não refletem essa estrutura de poder desigual destacada pelo poder de veto dos membros permanentes."
+        ],
+        "puloDoGato": "O poder de veto dos membros permanentes revela claramente a assimetria política nas decisões do Conselho de Segurança da ONU.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Errado: embora o Conselho atue em segurança, o poder de veto dos membros permanentes contradiz a ideia de igualdade militar entre os países."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correto: o poder de veto confere aos membros permanentes influência desproporcional, caracterizando assimetria política nas relações."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errado: o Conselho não funciona por consenso multipolar devido ao poder de veto dos membros permanentes, que desequilibra o processo decisório."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errado: o veto gera desequilíbrio, e não equilíbrio estratégico entre os membros do Conselho."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errado: apesar do trabalho conjunto, os membros mantêm soberania própria, e o veto evidencia que não há soberania compartilhada equitativa."
+          }
+        ],
+        "questionCode": "CH_RI_PE_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão apresenta coerência entre enunciado, resolução técnica e explicação didática. O enunciado descreve o funcionamento do Conselho de Segurança da ONU e pede uma caracterização das relações internacionais. A solução técnica escolheu corretamente a alternativa B, justificando pelo poder de veto e a assimetria política, que é bem explicada na seção didática. Todas as alternativas foram analisadas especificamente, demonstrando o motivo pelo qual são incorretas ou correta. O conteúdo está claro, didático e cumpre os critérios pedidos. O uso da imagem é apenas para referência bibliográfica e não interfere na resolução.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2674,
+    "outputTokens": 2132,
+    "estimatedCostUsd": 0.004481
+  }
+}

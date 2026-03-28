@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:29:18.581Z",
+  "questionId": "enem-2024-linguagens-q030",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Relações entre textos",
+    "rationale": "A questão exige que o aluno relacione o posicionamento de dois textos distintos sobre a arte, identificando a aproximação entre as ideias expressas. Isso caracteriza a habilidade de relacionar diferentes textos, comum ao subtema 'Relações entre textos'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1853,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.000868
+  }
+}

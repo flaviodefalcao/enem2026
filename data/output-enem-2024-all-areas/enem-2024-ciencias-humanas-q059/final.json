@@ -1,0 +1,196 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q059",
+  "generatedAt": "2026-03-28T00:52:45.302Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 614,
+      "outputTokens": 631,
+      "estimatedCostUsd": 0.001255
+    },
+    "explainer": {
+      "inputTokens": 1124,
+      "outputTokens": 339,
+      "estimatedCostUsd": 0.000992
+    },
+    "reviewer": {
+      "inputTokens": 2389,
+      "outputTokens": 2094,
+      "estimatedCostUsd": 0.004306
+    },
+    "totalEstimatedCostUsd": 0.006553
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta pois o texto destaca que as universidades medievais representam uma grande realização intelectual, implicando a importância de agregar tradição e conhecimento científico como seu legado histórico-cultural duradouro.",
+      "strategy": "Interpretar o texto para identificar qual característica das universidades medievais é valorizada como um patrimônio histórico-cultural relevante.",
+      "steps": [
+        "Ler attentamente o texto para entender o foco do legado das universidades medievais.",
+        "Identificar que o texto destaca as universidades como uma instituição medieval importante na esfera intelectual.",
+        "Relacionar essa importância intelectual com a ideia de tradição e conhecimento científico.",
+        "Avaliar as alternativas para verificar qual corresponde a essa ideia transmitida pelo texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que as universidades medievais são uma importante realização intelectual, tornando seu legado um patrimônio histórico-cultural relevante pelo trabalho de agregar tradição e conhecimento científico.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o que ele valoriza nas universidades medievais.",
+        "Observe que o texto enaltece a universidade como uma instituição medieval importante na área intelectual.",
+        "Identifique que o legado valorizado é a tradição de conhecimento e os produtos intelectuais gerados pelas universidades.",
+        "Análise as alternativas e escolha aquela que reflete essa valorização da intelectualidade e tradição como patrimônio cultural.",
+        "Confirme que a alternativa escolhida explica que o legado das universidades é seu papel na transmissão e produção do conhecimento científico."
+      ],
+      "commonPitfalls": [
+        "Achar que o texto valoriza métodos ou currículos padronizados, o que não é mencionado.",
+        "Interpretar que as universidades rejeitavam influências ou ideologias externas, o que não consta no texto.",
+        "Confundir o papel das universidades com funções econômicas ou mercantis.",
+        "Pensar que o texto enfatiza valores ecumênicos, quando o foco é na realização intelectual."
+      ],
+      "teachingTips": [
+        "Incentive a leitura cuidadosa do texto para compreender o foco da mensagem.",
+        "Explique os termos-chave como \"instituição medieval\" e \"realização intelectual\" para contextualizar.",
+        "Mostre como relacionar as informações do texto com as alternativas para escolher a mais adequada.",
+        "Apresente exemplos históricos breves das universidades medievais para enriquecer o entendimento.",
+        "Reforce a importância de distinguir entre o que o texto diz explicitamente e o que não está presente para evitar interpretações erradas."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode acreditar que as universidades medievais tinham currículos e métodos padronizados como legado principal.",
+        "misconceptionType": "Interpretação incorreta do texto",
+        "whyItLooksPlausible": "A ideia de currículo e método é ligada à educação, que é função das universidades.",
+        "whyItIsWrong": "O texto não menciona currículos ou métodos padronizados, mas sim a sua importância intelectual geral."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode pensar que as universidades rejeitavam influências orientais e ideologias como parte do seu legado.",
+        "misconceptionType": "Conclusão não suportada pelo texto",
+        "whyItLooksPlausible": "O medieval é frequentemente associado a uma cultura europeia distinta das orientais.",
+        "whyItIsWrong": "O texto não sugere rejeição, apenas afirma a importância das universidades sem menção a tal rejeição."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O aluno pode confundir a função das universidades com organização mercantil.",
+        "misconceptionType": "Equívoco conceitual",
+        "whyItLooksPlausible": "Em certos momentos históricos, instituições podem ter funções econômicas.",
+        "whyItIsWrong": "O texto destaca o valor intelectual e não mercantil das universidades."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar que as universidades transmitiam valores ecumênicos como maior legado.",
+        "misconceptionType": "Interpretação errada do texto",
+        "whyItLooksPlausible": "A palavra \"ecumênico\" pode ser associada a abrangência e integração, ligada ao caráter universitário.",
+        "whyItIsWrong": "O texto enfatiza tradição e realização intelectual, não fala especificamente em valores ecumênicos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual em Ciências Humanas",
+      "secondarySkills": [
+        "Análise crítica",
+        "Relação entre contexto histórico e instituições"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão requer leitura e interpretação do texto base para identificar a resposta correta.",
+        "A bibliografia e contexto histórico ajudam no entendimento, mas não são indispensáveis para responder.",
+        "Não há imagens para auxiliar nesta questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Legado intelectual das universidades medievais",
+      "interpretationIntro": "O comando pede para compreender por que o legado das universidades medievais constitui um importante patrimônio histórico-cultural.",
+      "commandTerms": [
+        {
+          "term": "Instituição medieval",
+          "explanation": "Organização ou estrutura social surgida e consolidada na Idade Média"
+        },
+        {
+          "term": "Patrimônio histórico-cultural",
+          "explanation": "Conjunto de bens e valores significativos para a memória e identidade de uma cultura"
+        },
+        {
+          "term": "Realização intelectual",
+          "explanation": "Produção e transmissão de conhecimento e saberes significativos para a sociedade"
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar, a partir do texto, qual aspecto das universidades medievais justifica seu valor como patrimônio histórico-cultural duradouro.",
+      "strategyParagraph": "É necessário interpretar o excerto para perceber que o texto valoriza as universidades como grandes conquistas intelectuais medievais. Portanto, a análise foca na identificação do legado ligado à produção e transmissão de conhecimento científico, destacando a tradição intelectual como característica central, e, a seguir, relacionar essa ideia com as alternativas apresentadas, escolhendo a que melhor reflete essa valorização.",
+      "reviewTable": [
+        {
+          "concept": "Universidades medievais",
+          "keyIdea": "Instituições surgidas na Idade Média com foco na produção intelectual",
+          "application": "Texto as considera verdadeira realização na esfera intelectual medieval"
+        },
+        {
+          "concept": "Patrimônio histórico-cultural",
+          "keyIdea": "Legado simbólico e material relevante para a memória cultural",
+          "application": "Universidades representam legado cultural pela tradição e conhecimento acumulado"
+        },
+        {
+          "concept": "Realização intelectual medieval",
+          "keyIdea": "Criação e difusão de saberes científicos e acadêmicos",
+          "application": "Universidades são apontadas como produtoras e mantenedoras dessa tradição"
+        },
+        {
+          "concept": "Interpretação textual",
+          "keyIdea": "Identificar mensagem explícita no texto para responder",
+          "application": "Analisar o que o texto destaca evitando pressupostos não mencionados"
+        }
+      ],
+      "theoryParagraphs": [
+        "As universidades medievais surgiram como centros de ensino e pesquisa, configurando-se como instituições estruturadas em torno da busca e transmissão do conhecimento. Ao longo da história, elas se tornaram fundamentais para a consolidação de saberes e para a formação de elites intelectuais, sendo reconhecidas como pioneiras na organização acadêmica europeia. O texto reforça essa importância ao qualificar essas instituições como grandes realizações na esfera intelectual da Idade Média.",
+        "O conceito de patrimônio histórico-cultural envolve tanto os bens materiais quanto imateriais que constituem a identidade e a memória de um povo. No contexto medieval, as universidades representam um patrimônio imaterial, pois abarcam a tradição intelectual e o conhecimento acumulado que influenciaram profundamente o pensamento e as estruturas educacionais até os tempos atuais.",
+        "Interpretar corretamente um texto requer atenção às informações explícitas e evitar inferências não sustentadas pelo texto, especialmente em provas do ENEM, onde a leitura crítica é essencial para relacionar as ideias apresentadas com as opções de resposta, identificando aquela que melhor responde ao comando da questão."
+      ],
+      "resolutionParagraphs": [
+        "O texto inicial já defende que as universidades são uma instituição medieval de grande valor intelectual, destacando-as como uma realização marcante dessa época, superior até mesmo às catedrais em termos de imperecibilidade.",
+        "Ao analisar as alternativas, deve-se buscar aquela que reflete essa valorização do legado intelectual, isto é, do conhecimento científico e da tradição acadêmica que as universidades medievais preservam e transmitem.",
+        "As demais alternativas sugerem aspectos não abordados ou contrários ao texto, como organização mercantil, rejeição de influências ou foco em valores ecumênicos, que não correspondem à mensagem principal.",
+        "Portanto, a alternativa E que aponta a importância do legado das universidades baseado em sua contribuição à tradição e ao conhecimento científico é a resposta correta."
+      ],
+      "puloDoGato": "Foque na valorização intelectual explícita no texto; o legado das universidades está na tradição do saber, não em aspectos organizacionais ou ideológicos.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Incorreta. O texto não destaca currículos ou métodos padronizados como legado, mas sim a realização intelectual das universidades."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta. O texto não menciona rejeição de influências ou ideologias; essa ideia não está presente na argumentação."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta. O enfoque não é econômico ou mercantil, e sim na produção intelectual e acadêmica."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta. O texto não enfatiza valores ecumênicos, mas sim a tradição e a realização intelectual das universidades."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Correta. Reflete o destaque do texto sobre o legado das universidades medievais como uma tradição intelectual e científica de grande valor e durabilidade."
+        }
+      ],
+      "questionCode": "CIENCIAS_HUMANAS_INTERPRETACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O conteúdo apresentado está coerente, com total alinhamento entre enunciado, resolução e explicação didática. A resolução adotou linguagem clara, focada e explicativa, comentando todas as alternativas conforme requisitado. A questão foi classificada e analisada respeitando o nível cognitivo e habilidades envolvidas, sem extrapolações indevidas.",
+      "issues": []
+    }
+  }
+}

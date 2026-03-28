@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:05:45.448Z",
+  "questionId": "enem-2024-ciencias-humanas-q076",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Diversidade cultural",
+    "rationale": "O conceito de rizoma enfatiza a pluralidade de interações e conexões não hierárquicas, características que remetem à diversidade cultural e à multiplicidade de relações presentes na cultura contemporânea, diferenciando-se de estruturas fixas ou uniformes.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 857,
+    "outputTokens": 75,
+    "estimatedCostUsd": 0.000463
+  }
+}

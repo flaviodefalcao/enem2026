@@ -1,0 +1,192 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q088",
+  "generatedAt": "2026-03-28T01:18:53.789Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 743,
+      "outputTokens": 742,
+      "estimatedCostUsd": 0.001484
+    },
+    "explainer": {
+      "inputTokens": 1375,
+      "outputTokens": 406,
+      "estimatedCostUsd": 0.0012
+    },
+    "reviewer": {
+      "inputTokens": 2709,
+      "outputTokens": 2026,
+      "estimatedCostUsd": 0.004325
+    },
+    "totalEstimatedCostUsd": 0.007009
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "Correta",
+      "strategy": "Análise do enunciado para identificar qual medida proposta atua efetivamente na mitigação de problemas urbanos relacionados às mudanças climáticas, priorizando soluções naturais e sistêmicas.",
+      "steps": [
+        "Identificar no texto os problemas urbanos causados pelas mudanças climáticas: inundações, alagamentos e ondas de calor.",
+        "Reconhecer que o texto destaca a importância de soluções baseadas na natureza para adaptação climática.",
+        "Avaliar cada alternativa quanto à sua contribuição para mitigar esses problemas ambientais urbanos.",
+        "Descartar alternativas que não atuam na adaptação climática ou que podem agravar os problemas, como sinalização, incineração, verticalização e estacionamento.",
+        "Selecionar a alternativa que propõe implantação de parques públicos, promovendo redução de calor, absorção da água da chuva e benefícios ambientais e sociais.",
+        "Confirmar que essa alternativa está alinhada com as múltiplas vantagens citadas no enunciado para economia, ambiente e pessoas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem textual que reforça conceito de soluções naturais em cidades"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A questão trata do impacto das mudanças climáticas nas cidades brasileiras e favorece soluções naturais para mitigar problemas como inundações e ondas de calor. A alternativa correta é a que sugere a implantação de parques públicos, que proporcionam controle climático e vários benefícios ambientais.",
+      "stepByStep": [
+        "Identificar os problemas-chave no texto: inundações, alagamentos, ondas de calor.",
+        "Observar a recomendação por soluções baseadas na natureza para adaptação urbana.",
+        "Examinar as alternativas verificando o quanto cada uma contribui para esses objetivos.",
+        "Excluir opções que não representam soluções naturais ou que agravem os problemas ambientais, como áreas impermeáveis ou incineração.",
+        "Escolher a alternativa que fala da criação de parques públicos, locais que auxiliam no controle de temperatura e gestão das águas pluviais.",
+        "Confirmar que essa alternativa atende aos critérios do enunciado, oferecendo múltiplos benefícios."
+      ],
+      "commonPitfalls": [
+        "Confundem medidas de organização urbana com soluções climáticas efetivas.",
+        "Pensam que incinerar resíduos ajuda na adaptação climática, quando pode contribuir para poluição.",
+        "Assumem que verticalização reduz o calor urbano, o que é incorreto.",
+        "Consideram que estacionamentos privados são soluções ambientais, ignorando seu efeito de impermeabilização."
+      ],
+      "teachingTips": [
+        "Explique o conceito e a importância das soluções baseadas na natureza para a adaptação às mudanças climáticas nas cidades.",
+        "Use exemplos claros como parques que reduzem o efeito de ilhas de calor e absorvem água da chuva.",
+        "Incentive a análise crítica focada no impacto ambiental real de cada alternativa.",
+        "Reforce que infraestruturas que aumentam a impermeabilização do solo pioram o problema de inundações.",
+        "Aborde conceitos básicos de sustentabilidade urbana para contextualizar as soluções propostas."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associação da sinalização com organização urbana que poderia ajudar a minimizar desastres.",
+        "misconceptionType": "Falsa associação entre ordenamento urbano e controle climático específico.",
+        "whyItLooksPlausible": "Sinalização é relevante para segurança e controle de tráfego.",
+        "whyItIsWrong": "Não atua na mitigação direta de inundações, alagamentos ou ondas de calor."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que incinerar resíduos pode reduzir os problemas urbanos ao eliminar lixo.",
+        "misconceptionType": "Confusão entre gestão de resíduos e adaptação às mudanças climáticas.",
+        "whyItLooksPlausible": "Reduz acúmulo de resíduos sólidos.",
+        "whyItIsWrong": "Não ajuda a controlar eventos climáticos extremos, e pode piorar a poluição atmosférica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar a verticalização como solução eficiente de uso do espaço.",
+        "misconceptionType": "Confusão entre densificação urbana e mitigação climática.",
+        "whyItLooksPlausible": "Planejamento urbano moderno prioriza uso vertical.",
+        "whyItIsWrong": "Verticalização pode aumentar calor e reduzir área permeável, agravando o problema."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Ver estacionamentos privados como melhoria na organização do espaço urbano.",
+        "misconceptionType": "Falsa relação entre infraestrutura para veículos e adaptação climática.",
+        "whyItLooksPlausible": "Melhora o fluxo e organização de veículos.",
+        "whyItIsWrong": "Estacionamentos elevam áreas impermeáveis, piorando inundações e calor urbano."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e análise crítica sobre sustentabilidade urbana",
+      "secondarySkills": [
+        "Conhecimento em adaptação climática e urbanismo sustentável",
+        "Análise dos impactos ambientais e sociais de propostas urbanas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige compreensão do impacto das mudanças climáticas em áreas urbanas.",
+        "Requer análise para relacionar soluções naturais com os problemas descritos.",
+        "Imagem serve para contextualizar e reforçar o tema da questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🌳",
+      "shortThemeTitle": "Soluções baseadas na natureza para adaptação urbana",
+      "interpretationIntro": "A questão demanda identificar a medida que melhor atenua os problemas climáticos nas cidades conforme o texto.",
+      "commandTerms": [
+        {
+          "term": "Adaptação",
+          "explanation": "Capacidade de ajustar sistemas urbanos para reduzir efeitos das mudanças climáticas."
+        },
+        {
+          "term": "Soluções baseadas na natureza",
+          "explanation": "Medidas que utilizam elementos naturais para combater impactos ambientais."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para selecionar a alternativa que corresponde a uma medida eficaz na mitigação dos desafios urbanos provocados pelas mudanças climáticas, como inundações e ondas de calor, enfatizando soluções naturais.",
+      "strategyParagraph": "Para responder, deve-se interpretar o texto, reconhecer os problemas ambientais citados e associá-los às alternativas, eliminando aquelas que não contribuem para soluções naturais ou que possam agravar o problema, até identificar a opção que promove benefícios ambientais, econômicos e sociais.",
+      "reviewTable": [
+        {
+          "concept": "Mudanças climáticas urbanas",
+          "keyIdea": "Fenômenos como inundações e ondas de calor",
+          "application": "Problemas a serem mitigados"
+        },
+        {
+          "concept": "Soluções baseadas na natureza",
+          "keyIdea": "Uso de parques, áreas verdes para adaptação",
+          "application": "Alternativa correta que propõe parques públicos"
+        },
+        {
+          "concept": "Impermeabilização urbana",
+          "keyIdea": "Aumento das áreas impermeáveis agrava problemas",
+          "application": "Alternativas que aumentam impermeabilização são incorretas"
+        }
+      ],
+      "theoryParagraphs": [
+        "As cidades enfrentam desafios crescentes devido às mudanças climáticas, manifestados por eventos extremos como inundações, alagamentos e ondas de calor, que afetam principalmente populações vulneráveis.",
+        "A adaptação urbana eficaz envolve a implementação de soluções baseadas na natureza, como a criação de parques e áreas verdes, que ajudam a controlar a temperatura local e a absorção das águas pluviais, promovendo múltiplos benefícios ambientais, econômicos e sociais.",
+        "Além disso, o aumento da impermeabilização do solo, comum em infraestruturas urbanas tradicionais, tende a agravar esses problemas ao impedir a absorção da água e intensificar o efeito ilha de calor."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado indica a necessidade de soluções naturais para os problemas das cidades causados pelas mudanças climáticas, destacando a importância da adaptação que beneficie economia, ambiente e população.",
+        "Ao analisar as alternativas, sinalização e incineração não são medidas de controle climático; verticalização e estacionamentos aumentam áreas impermeáveis e calor, possivelmente agravando os problemas.",
+        "A alternativa que propõe a implantação de parques públicos corresponde exatamente às soluções baseadas na natureza indicadas, contribuindo para a redução do calor, absorção de água da chuva e benefícios sociais.",
+        "Portanto, a alternativa C é a resposta correta, pois representa a medida que atenua os problemas ambientais urbanos apresentados no texto."
+      ],
+      "puloDoGato": "Soluções naturais, como parques, reduzem calor e absorvem água; por isso, escolha sempre alternativas que valorizem a vegetação e a permeabilidade do solo.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Sinalização ajuda na organização urbana, mas não atua diretamente na mitigação das mudanças climáticas ou na redução de inundações e ondas de calor."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incinerar resíduos reduz lixo acumulado, mas pode aumentar poluição e não minimiza os efeitos climáticos negativos mencionados."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Implantação de parques públicos é uma solução natural que ajuda a controlar o calor e a absorção da água da chuva, mitigando os problemas ambientais e sociais descritos."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Verticalizar áreas urbanas pode aumentar a impermeabilização e o calor urbano, agravando os problemas climáticos da cidade."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Construir estacionamentos privados amplia áreas impermeáveis, contribuindo para alagamentos e aumento da temperatura, não sendo uma solução adequada."
+        }
+      ],
+      "questionCode": "CH_CIENCIAS_HUMANAS_ADAPTACAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A questão apresenta coerência total entre enunciado, solução técnica e explicação didática. A resposta correta está bem fundamentada e as alternativas incorretas são suficientemente justiçadas. A resolução oficial está clara, concisa, didática e atende ao padrão editorial do ENEM, com comentários abrangentes em todas as alternativas.",
+      "issues": []
+    }
+  }
+}

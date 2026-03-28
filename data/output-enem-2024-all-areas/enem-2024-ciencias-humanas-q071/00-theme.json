@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:00:38.324Z",
+  "questionId": "enem-2024-ciencias-humanas-q071",
+  "payload": {
+    "theme": "Sociedade e natureza",
+    "subtheme": "Recursos naturais e sustentabilidade",
+    "rationale": "A questão aborda a 26ª Conferência do Clima das Nações Unidas (COP-26) e destaca compromissos relacionados à redução dos gases de efeito estufa e à pressão de setores empresariais em prol da sustentabilidade ambiental no Brasil. Isso envolve diretamente temas de sustentabilidade e recursos naturais, onde decisões políticas e econômicas impactam o meio ambiente.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1135,
+    "outputTokens": 98,
+    "estimatedCostUsd": 0.000611
+  }
+}

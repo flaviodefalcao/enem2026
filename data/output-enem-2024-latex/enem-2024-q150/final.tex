@@ -1,0 +1,77 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 150 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Uma sala com piso no formato retangular, com lados de medidas 3 m e 6 m, será dividida em dois ambientes. Para isso, serão utilizadas colunas em formato cilíndrico, dispostas perpendicularmente ao piso e representadas na figura pelos círculos de cor azul. Os centros desses círculos estarão sobre uma reta paralela aos lados de menor medida do piso da sala. Os vãos entre duas colunas e entre uma coluna e a parede não poderão ser superiores a 15 cm.
+
+Para efetuar a compra dessas colunas, foram feitos orçamentos com base em dados fornecidos por cinco lojas. A compra será realizada na loja cujo orçamento resulte no menor valor total possível.
+
+\begin{figure}[h!]
+  \centering
+  \fbox{\parbox[c][5cm][c]{0.9\textwidth}{
+  \centering
+  \small Imagem esquemática que mostra o piso retangular de 6 m por 3 m, com colunas alinhadas na direção dos 3 m, representadas por círculos azuis.
+  }}
+  \caption{Esquema do piso e posicionamento das colunas}
+\end{figure}
+
+\begin{table}[h!]
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \textbf{Loja} & \textbf{Raio (cm)} & \textbf{Preço por unidade (R\$)} \\
+    \hline
+    I & 5 & 60 \\
+    II & 10 & 70 \\
+    III & 12 & 75 \\
+    IV & 15 & 90 \\
+    V & 20 & 120 \\
+    \hline
+  \end{tabular}
+  \caption{Dados fornecidos pelas lojas}
+\end{table}
+
+\section*{Solução Técnica}
+Para determinar a loja com o menor custo total, procedemos conforme descrito:
+
+\begin{enumerate}
+  \item Identificamos que as colunas serão alinhadas ao longo dos 3 metros (300 cm) do lado menor.
+  \item Calculamos a distância mínima entre centros das colunas considerando o diâmetro da coluna acrescido de 30 cm (15 cm de cada lado para o vão máximo permitido). Para cada loja, a distância é:
+  \[
+    d_{\text{mín}} = 2 \times \text{raio} + 30 \text{ cm}
+  \]
+  \item Calculamos o número mínimo de colunas necessárias:
+  \[
+    N = \left\lceil \frac{300}{d_{\text{mín}}} \right\rceil
+  \]
+  \item Multiplicamos o número de colunas pelo preço unitário para obter o custo total de cada loja:
+  \[
+    C_{\text{total}} = N \times \text{preço unitário}
+  \]
+  \item Comparamos os custos para cada loja e verificamos que a loja III tem o menor custo total.
+\end{enumerate}
+
+\section*{Explicação Didática}
+Calcular o número necessário de colunas respeitando o limite de 15 cm entre colunas e paredes é essencial para garantir a qualidade do projeto. Em seguida, multiplicar pela unidade de preço e comparar os orçamentos permite uma escolha criteriosa baseada no custo total.
+
+\section*{Alternativas incorretas e seus motivos}
+\begin{itemize}
+  \item \textbf{A}: Ignorou a quantidade elevada de colunas requeridas pelo pequeno raio, resultando em custo total maior.
+  \item \textbf{B}: Subestimou a quantidade necessária considerando tamanho intermediário.
+  \item \textbf{D}: Colunas maiores reduziram a quantidade, porém o preço unitário alto aumentou o custo final.
+  \item \textbf{E}: Menos colunas mas preço unitário muito alto elevou o gasto total.
+\end{itemize}
+
+\section*{Perfil da questão}
+Explora habilidades de raciocínio proporcional, cálculo, geometria e análise estratégica na resolução de problemas financeiros com restrições geométricas.
+
+\section*{Conclusão}
+Assim, confirmamos que a compra deve ser realizada na \textbf{loja III} para obter o menor custo total na aquisição das colunas necessárias para dividir a sala conforme as especificações do enunciado.
+
+\end{document}

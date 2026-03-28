@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:09:16.383Z",
+  "questionId": "enem-2024-ciencias-humanas-q079",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão trata da fronteira simbólica entre inclusão e exclusão dos refugiados. Para eliminar essa fronteira e promover acolhimento verdadeiro, é essencial implementar políticas públicas de integração socioeconômica, que possibilitam a participação ativa desses migrantes na sociedade, reduzindo sua vulnerabilidade e incertezas.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique o conflito entre inclusão e exclusão enfrentado pelos refugiados.",
+        "Entenda que a \"fronteira\" mencionada simboliza barreiras que impedem a inclusão social e econômica desses grupos.",
+        "Reconheça que eliminar essa fronteira significa promover a integração socioeconômica dos refugiados.",
+        "Analise cada alternativa e verifique qual representa uma política pública que promove essa integração.",
+        "Descarte opções que incentivam segregação, homogeneização ou diferenciação que levam à exclusão.",
+        "Escolha a alternativa que promove inclusão social e econômica, que é a integração socioeconômica."
+      ],
+      "commonPitfalls": [
+        "Interpretar que políticas como planejamento familiar ou segregação territorial são soluções, quando na verdade podem aumentar a exclusão.",
+        "Confundir homogeneização cultural com inclusão; homogeneizar pode levar à perda de identidade e exclusão.",
+        "Acreditar que reforçar diferenças étnico-raciais sempre promove integração, mas isso pode causar divisão e exclusão.",
+        "Focar apenas nos aspectos legais ou humanitários dos refugiados, sem considerar a importância da inclusão socioeconômica."
+      ],
+      "teachingTips": [
+        "Explique o conceito de \"fronteira simbólica\" entre inclusão e exclusão para que os alunos compreendam o significado metafórico do texto.",
+        "Use exemplos práticos de políticas públicas que promovem integração socioeconômica para tornar o conteúdo mais concreto.",
+        "Promova debates sobre a importância da diversidade cultural e os perigos da homogeneização forçada.",
+        "Mostre como a segregação e a diferenciação podem gerar exclusão, incentivando o pensamento crítico sobre políticas sociais.",
+        "Estimule a leitura interpretativa, focando em identificar as intenções do texto relacionadas à vulnerabilidade dos refugiados."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1104,
+    "outputTokens": 429,
+    "estimatedCostUsd": 0.001128
+  }
+}

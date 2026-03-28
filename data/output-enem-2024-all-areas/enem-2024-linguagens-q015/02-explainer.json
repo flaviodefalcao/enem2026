@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:07:47.240Z",
+  "questionId": "enem-2024-linguagens-q015",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que a telemedicina permite superar barreiras geográficas, facilitando o acesso a serviços médicos para pessoas que vivem em áreas remotas ou com pouca oferta de especialidades, promovendo assim um benefício social importante.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar os benefícios atribuídos à telemedicina.",
+        "Observe a parte que menciona o acesso a pacientes em regiões remotas, chamadas de \"vazios assistenciais\".",
+        "Leia as alternativas e verifique qual delas corresponde a esse benefício destacado no texto.",
+        "Confirme que a alternativa B é a que melhor reflete a informação sobre superar barreiras geográficas e ampliar o acesso.",
+        "Escolha a alternativa B como resposta correta."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o prontuário eletrônico unificado já é um benefício presente, quando na verdade ainda está em discussão.",
+        "Confundir a telemedicina com a oferta de equipamentos tecnológicos para exames, que não é mencionada.",
+        "Achar que a telemedicina necessariamente promove interação direta entre diferentes especialidades médicas, o que não foi afirmado.",
+        "Pensar que a telemedicina garante infraestrutura adequada para trabalho remoto, embora o texto mostre que isso é um desafio."
+      ],
+      "teachingTips": [
+        "Incentive o aluno a destacar frases-chave do texto que apontem benefícios ou características importantes.",
+        "Pratique interpretação de textos com linguagem técnica para desenvolver a capacidade de identificar informações explícitas e implícitas.",
+        "Discuta as alternativas incorretas para mostrar por que elas parecem plausíveis e onde erram na compreensão do texto.",
+        "Explore o conceito de \"vazios assistenciais\" e a importância da equidade no acesso à saúde para contextualizar o benefício da telemedicina.",
+        "Estimule a leitura crítica para diferenciar o que está em fase de projeto ou discussão daquilo que já é realidade comprovada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1508,
+    "outputTokens": 379,
+    "estimatedCostUsd": 0.00121
+  }
+}

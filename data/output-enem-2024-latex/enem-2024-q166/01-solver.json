@@ -1,0 +1,81 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:41:33.394Z",
+  "questionId": "enem-2024-q166",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "d(Q) = \\frac{2}{3} d(R)",
+      "correctnessClaim": "A alternativa E está correta com base nos cálculos realizados para encontrar a relação entre as densidades demográficas.",
+      "strategy": "Expressar as densidades d(Q) e d(R) em função do número de habitantes e área das regiões, substituir as expressões dadas para Q em função de R, e simplificar para encontrar a relação entre d(Q) e d(R).",
+      "steps": [
+        "Definir d(R) = habitantes de R / área de R = H_R / A_R.",
+        "Definir d(Q) = habitantes de Q / área de Q = H_Q / A_Q.",
+        "Dado: A_Q = (3/4) A_R e H_Q = (1/2) H_R.",
+        "Substituir em d(Q): d(Q) = (1/2) H_R / (3/4) A_R = (1/2) H_R ÷ (3/4) A_R = (1/2) H_R * (4/3) / A_R = (2/3) (H_R / A_R).",
+        "Reconhecer que H_R / A_R = d(R), logo d(Q) = (2/3) d(R)."
+      ],
+      "formulasUsed": [
+        "d(R) = \\frac{H_R}{A_R}",
+        "d(Q) = \\frac{H_Q}{A_Q}"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa E que mostra a expressão \\( d(Q) = \\frac{2}{3} d(R) \\) correspondendo à solução correta."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "d(Q) = \\frac{1}{4} d(R)",
+        "likelyReasoning": "Possível confusão entre as frações na relação entre áreas e habitantes, talvez confundindo diretamente a metade de habitantes com um quarto da densidade.",
+        "misconceptionType": "Confundir relação proporcional entre áreas e número de habitantes.",
+        "whyItLooksPlausible": "Usa frações corretas relacionadas às quantidades dadas, mas aplicadas incorretamente na fórmula da densidade.",
+        "whyItIsWrong": "A densidade é a razão habitantes por área, então não se pode simplesmente tomar 1/4 da densidade sem considerar as duas frações (hab.) e (área) corretamente."
+      },
+      {
+        "option": "d(Q) = \\frac{1}{2} d(R)",
+        "likelyReasoning": "Pode-se pensar que como Q tem metade dos habitantes de R, a densidade seria metade também, sem levar em conta a área.",
+        "misconceptionType": "Ignorar o efeito da área na densidade demográfica.",
+        "whyItLooksPlausible": "Metade dos habitantes pode levar a pensar que a densidade é metade, já que a densidade relaciona habitantes e área.",
+        "whyItIsWrong": "A área é menor que a total, e essa diminuição influencia na densidade. Ignorar a área resulta em resposta incorreta."
+      },
+      {
+        "option": "d(Q) = \\frac{3}{4} d(R)",
+        "likelyReasoning": "Confusão por associar diretamente a fração da área (3/4) à densidade.",
+        "misconceptionType": "Assumir que a densidade se altera na mesma proporção da área.",
+        "whyItLooksPlausible": "A área da região Q é 3/4 da área de R, pode parecer que a densidade também teria essa relação.",
+        "whyItIsWrong": "Densidade depende tanto do número de habitantes quanto da área, não só da área; necessidade de considerar as duas proporções."
+      },
+      {
+        "option": "d(Q) = \\frac{3}{2} d(R)",
+        "likelyReasoning": "Pode ter ocorrido erro ao inverter as frações ou multiplicar inversamente a proporção da área e habitantes.",
+        "misconceptionType": "Erro de inversão nas razões proporcionais.",
+        "whyItLooksPlausible": "3/2 é o inverso de 2/3, relação comum em erros de cálculo de frações em problemas proporcionais.",
+        "whyItIsWrong": "A multiplicação das duas frações leva a 2/3 e não a 3/2, portanto essa relação não está correta."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Raciocínio com proporções e razões",
+      "secondarySkills": [
+        "Álgebra básica",
+        "Interpretação de expressões matemáticas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "O problema exige interpretação correta das definições de densidade e uso correto das frações fornecidas.",
+        "É importante que o aluno saiba manipular frações e entender relações entre grandezas.",
+        "A presença das alternativas em forma algébrica requer atenção à manipulação algébrica correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 812,
+    "outputTokens": 1001,
+    "estimatedCostUsd": 0.001926
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "id": "demo-q1",
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão de teste — leitura de gráfico",
+      "statement": "Um gráfico compara o consumo de água de duas residências ao longo de cinco meses. Considerando o comportamento mostrado no gráfico, identifique a alternativa que melhor descreve em qual mês a diferença de consumo foi máxima.",
+      "supportImagePaths": [
+        "public/generated/enem-2024/math/question-147/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "No primeiro mês."
+        },
+        {
+          "label": "B",
+          "text": "No segundo mês."
+        },
+        {
+          "label": "C",
+          "text": "No terceiro mês."
+        },
+        {
+          "label": "D",
+          "text": "No quarto mês."
+        },
+        {
+          "label": "E",
+          "text": "No quinto mês."
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "source": "demo local"
+      }
+    }
+  ]
+}

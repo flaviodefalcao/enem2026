@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:28:52.396Z",
+  "questionId": "enem-2024-linguagens-q029",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O narrador reflete sobre o termo \"filho adotivo\" e como ele traz um peso social, um estigma que afeta a aceitação e o entendimento da relação familiar, mostrando uma perspectiva crítica sobre as representações sociais da adoção.",
+      "stepByStep": [
+        "Leia o trecho com atenção para compreender o uso e a carga do termo \"filho adotivo\".",
+        "Observe que o narrador destaca uma tecnicidade que influencia a aceitação social, mostrando um estigma.",
+        "Note a inquietação pessoal do narrador que questiona a origem do irmão adotivo, mostrando um desconforto ligado ao sentido social da palavra.",
+        "Relacione a análise do texto com as alternativas dadas na questão.",
+        "Identifique que a alternativa A é a que melhor corresponde à reflexão do narrador sobre o estigma social na adoção.",
+        "Escolha a alternativa A porque ela representa adequadamente a perspectiva apresentada no texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar \"aceitação social\" apenas como aprovação superficial de desconhecidos, sem entender o estigma social mais profundo.",
+        "Confundir o ambiente social com o âmbito familiar, pensando que o julgamento ocorre dentro da família.",
+        "Focar somente no conflito entre o termo técnico e o vínculo afetivo, deixando de lado o aspecto social e cultural da adoção.",
+        "Entender a inquietação do narrador como uma tensão pessoal entre irmãos, e não uma reflexão sobre a representação social."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar termos-chave e suas conotações sociais no texto.",
+        "Incentive a leitura crítica, buscando compreender não só o que está escrito, mas as implicações sociais e culturais.",
+        "Promova debates sobre estigmas sociais e como eles aparecem na linguagem e na literatura.",
+        "Trabalhe exercícios que diferenciem o âmbito familiar do social para evitar confusões na interpretação.",
+        "Use a alternativa correta para mostrar como relacionar argumentos do texto às opções de resposta de forma fundamentada."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1456,
+    "outputTokens": 399,
+    "estimatedCostUsd": 0.001221
+  }
+}

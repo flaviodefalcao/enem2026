@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:53:58.454Z",
+  "questionId": "enem-2024-ciencias-humanas-q061",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto traz a reflexão de uma personagem que percebe suas limitações temporais e existenciais, especialmente ao lembrar que nunca envelhecerá e não poderá reviver certas experiências. Essa reflexão aborda o tema filosófico da finitude humana, que se refere às limitações da vida e do tempo para o ser humano.",
+      "stepByStep": [
+        "Leia cuidadosamente o trecho para entender o que a personagem está sentindo e refletindo.",
+        "Observe expressões que indicam limitações relacionadas ao tempo, como \"nunca envelheceria\" e \"nunca mais fosse ver o oceano\".",
+        "Identifique que a reflexão está sobre a impossibilidade de repetir momentos e sobre a insatisfação em alcançar plenamente os sonhos, o que remete à consciência da finitude humana.",
+        "Leia atentamente as alternativas da questão e relacione-as aos conceitos filosóficos essenciais presentes no texto.",
+        "Selecione a alternativa que melhor representa a finitude humana, pois ela condiz com a reflexão sobre as limitações existenciais da personagem. "
+      ],
+      "commonPitfalls": [
+        "Interpretar que o texto trata de questões éticas devido à menção da \"ambição voraz\", confundindo tema moral com tema existencial.",
+        "Confundir a reflexão sobre a experiência e memória com limitações da linguagem, quando o foco é a existência e o tempo.",
+        "Associar indevidamente o tema com pressupostos existenciais específicos que não são claramente tratados no texto.",
+        "Interpretar o texto como uma discussão sobre conhecimento objetivo ou possibilidade de refazer experiências, que não corresponde ao tema da finitude humana."
+      ],
+      "teachingTips": [
+        "Estimule os alunos a identificar palavras e expressões que indicam sentimentos ou situações ligadas ao tempo e à existência.",
+        "Explique o conceito de finitude humana como tema recorrente da filosofia contemporânea, colocando-o em contexto com o texto.",
+        "Ajude os alunos a diferenciar temas filosóficos próximos, como existencialismo, ética e epistemologia, destacando suas características.",
+        "Use exemplos do cotidiano dos alunos para relacionar experiências de limitação temporal e da impossibilidade de reviver momentos.",
+        "Proponha debates sobre como a consciência da finitude influencia o comportamento e a visão de mundo das pessoas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1338,
+    "outputTokens": 451,
+    "estimatedCostUsd": 0.001257
+  }
+}

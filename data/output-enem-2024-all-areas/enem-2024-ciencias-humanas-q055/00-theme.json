@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:48:50.675Z",
+  "questionId": "enem-2024-ciencias-humanas-q055",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Memória e representações",
+    "rationale": "A questão aborda uma concepção metafísica clássica sobre o corpo e a alma, que remete à forma como a cultura e a identidade são construídas a partir de representações simbólicas e históricas. Essa abordagem está relacionada à compreensão dos elementos culturais constitutivos das identidades, conforme indicado pela habilidade H3 e pela competência 1.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 816,
+    "outputTokens": 95,
+    "estimatedCostUsd": 0.000478
+  }
+}

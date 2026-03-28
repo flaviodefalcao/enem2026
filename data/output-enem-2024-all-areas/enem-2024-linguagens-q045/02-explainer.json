@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:42:00.788Z",
+  "questionId": "enem-2024-linguagens-q045",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda a crítica feita pelo texto sobre a divulgação de informações manipuladas, como memes e fake news, que impactam negativamente a educação das crianças. A alternativa correta é a B, que fala da divulgação de informação manipulada em postagens virtuais, alinhada à crítica do texto.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar o tema central: o impacto dos memes e fake news na educação.",
+        "Observe que o texto critica a divulgação de informações manipuladas e destaca a importância do letramento midiático e político.",
+        "Leia todas as alternativas e compare o conteúdo com o tema e a crítica do texto.",
+        "Descubra qual alternativa menciona diretamente a divulgação de informações manipuladas em postagens virtuais.",
+        "Descarta as alternativas que falam de temas relacionados, mas não centram na desinformação e manipulação.",
+        "Confirme que a alternativa B é a única que traduz a crítica essencial do texto.",
+        "Confira a resposta com o gabarito oficial para garantir que está correta."
+      ],
+      "commonPitfalls": [
+        "Confundir a crítica sobre a manipulação da informação com o simples uso de aplicativos de mensagens.",
+        "Interpretar o texto como uma valorização do humor nos memes, ignorando a crítica à desinformação.",
+        "Pensar que a crítica é só sobre engajamento político, quando o tema é mais amplo sobre desinformação em geral.",
+        "Ler rapidamente o texto e perder o foco na crítica principal de manipulação e fake news."
+      ],
+      "teachingTips": [
+        "Sempre peça aos alunos que busquem o tema e a crítica principal do texto antes de analisar as alternativas.",
+        "Estimule a leitura crítica para diferenciar informação verdadeira de manipulação em textos.",
+        "Explique o significado de letramento midiático e político como habilidades essenciais para a cidadania digital.",
+        "Use exemplos atuais de memes e fake news para contextualizar a questão e mostrar sua relevância.",
+        "Oriente os alunos a eliminar alternativas que trazem ideias semelhantes, mas não respondem exatamente à pergunta do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 12423,
+    "outputTokens": 407,
+    "estimatedCostUsd": 0.00562
+  }
+}

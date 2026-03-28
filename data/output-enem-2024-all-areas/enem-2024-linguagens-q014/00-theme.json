@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:06:36.021Z",
+  "questionId": "enem-2024-linguagens-q014",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Variação linguística",
+    "rationale": "A questão trata das variedades linguísticas regionais, exemplificando com a fala maranhense e suas expressões típicas, e busca identificar a compreensão das diferentes variações do português brasileiro, tema diretamente relacionado à variação linguística.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1074,
+    "outputTokens": 75,
+    "estimatedCostUsd": 0.00055
+  }
+}

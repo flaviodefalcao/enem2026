@@ -1,0 +1,177 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:06:31.361Z",
+  "questionId": "enem-2024-ciencias-humanas-q076",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é correta porque o conceito de rizoma descrito por Deleuze e Guattari enfatiza um sistema não hierárquico, a-centrado, que conecta pontos de forma múltipla e diversa, refletindo uma pluralidade de interações culturais contemporâneas.",
+        "strategy": "Interpretar o texto sobre o conceito de rizoma, identificar suas características principais (não hierárquico, múltiplas ligações irrestritas, ausência de centralidade), e relacionar essas características com as alternativas, escolhendo aquela que melhor representa as interações culturais contemporâneas compatíveis com o conceito.",
+        "steps": [
+          "Ler atentamente o trecho do texto sobre rizoma, destacando que ele apresenta um sistema a-centrado, não hierárquico, sem memória organizadora ou controle central.",
+          "Analisar cada alternativa procurando um elemento que se relacione às características do rizoma.",
+          "Descartar alternativas que indiquem estrutura fixa, lógica binária, controle homogêneo e uniformidade de opiniões, pois estas implicam centralização, hierarquia ou isolamento de conexões.",
+          "Identificar que \"pluralidade de interações\" é a alternativa que condiz com a ideia do rizoma, pois sugere múltiplas conexões diversas e não hierárquicas."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O conceito de rizoma, segundo Deleuze e Guattari, descreve um sistema a-centrado, não hierárquico e com múltiplas conexões diversas. Na cultura contemporânea, esse conceito se relaciona diretamente com a pluralidade de interações culturais, que não seguem uma única linha ou hierarquia, mas se conectam de forma múltipla e diversa.",
+        "stepByStep": [
+          "Leia atentamente o trecho do texto para entender as características do rizoma: sistema não hierárquico, sem centro ou controle, com múltiplas e diversas conexões.",
+          "Observe cada alternativa para identificar qual delas mostra um sistema que respeita essas características, como diversidade, múltiplas conexões e ausência de hierarquia.",
+          "Descarte as alternativas que indicam centralização, uniformidade, controle homogêneo ou estrutura fixa, pois essas características são contrárias ao rizoma.",
+          "Escolha a alternativa que representa a pluralidade de interações e diversidade, pois ela reflete o conceito de rizoma de forma fiel."
+        ],
+        "commonPitfalls": [
+          "Confundir o conceito de rizoma com sistemas hierárquicos ou fixos, buscando estruturas estáveis e centralizadas.",
+          "Associar o conceito a lógica binária ou controle homogêneo, que são opostos ao conceito de múltiplas conexões não hierárquicas.",
+          "Interpretar uniformidade e homogeneidade como algo positivo no contexto do rizoma, quando na verdade ele valoriza a diversidade.",
+          "Ignorar que o rizoma é definido por circulação e diversidade, e focar somente em aspectos organizacionais tradicionais."
+        ],
+        "teachingTips": [
+          "Inicie explicando o conceito básico de rizoma com exemplos simples, como redes sociais ou a internet, que possuem múltiplas conexões e não são hierárquicas.",
+          "Use analogias visuais, como mapas de conexões em que vários pontos se ligam entre si de diferentes formas, para mostrar o aspecto a-centrado.",
+          "Promova debates em sala sobre sistemas hierárquicos versus sistemas rizomáticos para estimular o pensamento crítico.",
+          "Estimule os alunos a buscar características principais nos textos antes de relacioná-las às alternativas, focando em palavras-chave como 'a-centrado', 'não hierárquico' e 'pluralidade'."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Escolheu porque pensa em uma estrutura estável, similar a conceitos tradicionais hierárquicos.",
+          "misconceptionType": "Interpretação equivocada do texto, confundindo estrutura fixa com sistema rizomático.",
+          "whyItLooksPlausible": "Estruturas fixas são comuns em sistemas organizados, mas o texto enfatiza justamente a ausência dessa fixidez.",
+          "whyItIsWrong": "O rizoma é exatamente o contrário de estrutura fixa, pois é a-centrado e flexível."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Associou a lógica binária a formas de conexão ou sistemas complexos.",
+          "misconceptionType": "Confusão entre tipos de lógica computacional e sistemas culturais complexos descritos por o rizoma.",
+          "whyItLooksPlausible": "Lógica binária é base de sistemas digitais, aparentemente múltiplos, mas estritamente binários e hierárquicos.",
+          "whyItIsWrong": "O rizoma rejeita a lógica binária e hierárquica, sendo não linear e sem centralização."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Entendeu que controle homogêneo poderia significar uniformidade e organização societal.",
+          "misconceptionType": "Desconhecimento do conceito de controle central ou homogêneo contra sistemas descentralizados.",
+          "whyItLooksPlausible": "Controle homogêneo sugere certa ordem, mas uniformidade centralizada, o que parece útil em organização social.",
+          "whyItIsWrong": "O rizoma não possui controle homogêneo; é a-centrado e descentralizado."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Assumiu que uniformidade nas opiniões indica harmonia e comunhão social.",
+          "misconceptionType": "Concepção incorreta de uniformidade como característica positiva de sistemas culturais dinâmicos.",
+          "whyItLooksPlausible": "Uniformidade pode parecer atrativa para união cultural, mas implica falta de diversidade.",
+          "whyItIsWrong": "Rizoma promove diversidade e pluralidade, não uniformidade."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto filosófico e sociológico",
+        "secondarySkills": [
+          "Compreensão de conceitos abstratos",
+          "Raciocínio crítico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "O item exige compreensão das ideias de Deleuze e Guattari sobre rizoma.",
+          "Não há necessidade de conhecimento prévio aprofundado em filosofia, mas requer atenção ao texto.",
+          "Relacionar conceitos abstratos com elementos da cultura contemporânea."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧠",
+        "shortThemeTitle": "Conceito de Rizoma em Cultura Contemporânea",
+        "interpretationIntro": "A questão solicita a identificação de um elemento da cultura contemporânea que se relaciona às características do conceito de rizoma descritas por Deleuze e Guattari.",
+        "commandTerms": [
+          {
+            "term": "Rizoma",
+            "explanation": "Sistema a-centrado, não hierárquico, caracterizado por múltiplas conexões diversas e ausência de controle central."
+          },
+          {
+            "term": "Pluralidade",
+            "explanation": "Presença de múltiplas interações diversas, indica diversidade e multiplicidade de conexões."
+          }
+        ],
+        "whatTheQuestionAsks": "O enunciado pede para correlacionar as características filosóficas do rizoma com elementos culturais atuais, selecionando a alternativa mais condizente com essas características não hierárquicas e múltiplas conexões.",
+        "strategyParagraph": "Para resolver, é fundamental compreender que o rizoma é um sistema que rejeita hierarquia, centralização e uniformidade, valorizando múltiplas conexões sem ordem predefinida. Portanto, ao analisar as alternativas, deve-se identificar aquela que melhor representa essa diversidade e descentralização nas interações culturais.",
+        "reviewTable": [
+          {
+            "concept": "Rizoma",
+            "keyIdea": "Sistema a-centrado e não hierárquico",
+            "application": "Relacionar com sistemas culturais onde não há controle centralizado"
+          },
+          {
+            "concept": "Pluralidade de conexões",
+            "keyIdea": "Múltiplas ligações diversas sem hierarquia",
+            "application": "Identificar elementos que envolvem diversidade e múltiplas interações culturais"
+          },
+          {
+            "concept": "Ausência de memória organizadora",
+            "keyIdea": "Sistema flexível e sem controle estrutural",
+            "application": "Descartar alternativas que apresentam estruturas rígidas ou controle homogêneo"
+          }
+        ],
+        "theoryParagraphs": [
+          "O conceito de rizoma, desenvolvido por Deleuze e Guattari, contrasta os sistemas hierárquicos tradicionais ao apresentar uma organização sem centro ou hierarquia fixa, onde múltiplos pontos se conectam de forma diversa e fluida.",
+          "Na cultura contemporânea, essa ideia pode ser aplicada para entender interações e conexões culturais que não seguem um modelo linear ou centralizado, mas que se dão por meio de múltiplas relações diversas, como redes sociais, pluralidade cultural e fluxos comunicacionais flexíveis.",
+          "Essa abordagem filosófica destaca a importância da diversidade, circulação e não linearidade, conceitos essenciais para interpretar práticas culturais atuais que fogem de estruturas rígidas e controladas. "
+        ],
+        "resolutionParagraphs": [
+          "Iniciamos a análise entendendo que o rizoma é um sistema não hierárquico, a-centrado, e caracterizado pela pluralidade de conexões, como indicado no texto do enunciado.",
+          "Ao avaliar as alternativas, descartamos aquelas que indicam estruturas fixas, lógicas binárias, controle homogêneo ou uniformidade, pois contradizem a natureza rizomática.",
+          "A alternativa E destaca a pluralidade de interações, o que se alinha perfeitamente às características do rizoma, pois reforça a ideia de múltiplas e diversas conexões culturais, sem centro nem hierarquia.",
+          "Portanto, a resposta correta é a alternativa E, pois representa com precisão o conceito filosófico debatido e sua aplicação à cultura contemporânea."
+        ],
+        "puloDoGato": "Foque nas palavras-chave: \"a-centrado\", \"não hierárquico\" e \"pluralidade de conexões\" para identificar o conceito rizomático nas alternativas.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta. Indica estrutura fixa, o oposto do sistema rizoma que é flexível e não centralizado."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. A lógica binária é hierárquica e restrita, diferentemente do conceito rizoma que rejeita tais sistemas."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. Controle homogêneo implica centralização e uniformidade, o que contraria o princípio do rizoma."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. Uniformidade nas opiniões vai contra a pluralidade e diversidade características do rizoma."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Correta. Representa a pluralidade de interações múltiplas e não hierárquicas descrita no conceito de rizoma."
+          }
+        ],
+        "questionCode": "CH_SOCI_PHIL_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução está coerente com o enunciado, solver e explainer. Apresenta linguagem clara, didática e escaneável, comentando todas as alternativas e indicando corretamente a alternativa correta. A interpretação do conceito filosófico está bem alinhada ao explicado no texto e na tarefa.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2745,
+    "outputTokens": 2298,
+    "estimatedCostUsd": 0.004775
+  }
+}

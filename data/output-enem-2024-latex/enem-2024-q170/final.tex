@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 170 — ENEM 2024 — Matemática}
+
+\subsection*{Enunciado}
+Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorreram com magnitudes $M_1$ e $M_2$, medidas segundo a escala Richter, e liberaram energias $E_1$ e $E_2$, respectivamente. A relação algébrica conhecida entre essas grandezas é dada por:
+\begin{equation}
+M_2 - M_1 = \frac{2}{3} \log \left( \frac{E_2}{E_1} \right),
+\end{equation}
+onde o logaritmo é na base 10.
+
+Sabe-se que o primeiro terremoto teve magnitude $M_1 = 6,9$ e liberou energia igual a um décimo daquela liberada pelo segundo terremoto, que tem magnitude $M_2$ desconhecida. O objetivo é encontrar o valor aproximado de $M_2$ com uma casa decimal.
+
+\subsection*{Solução Matemática}
+De posse da relação
+\[
+M_2 - 6,9 = \frac{2}{3} \log \left( \frac{E_2}{E_1} \right),
+\]
+sabemos que
+\[
+\frac{E_2}{E_1} = \frac{E_2}{\frac{1}{10} E_2} = 10.
+\]
+Portanto,
+\[
+M_2 - 6,9 = \frac{2}{3} \log (10) = \frac{2}{3} \times 1 = \frac{2}{3} \approx 0,6667.
+\]
+Assim,
+\[
+M_2 = 6,9 + 0,6667 = 7,5667 \approx \boxed{7,6}.
+\]
+
+\subsection*{Explicação Didática}
+A escala Richter relaciona magnitude e energia de forma logarítmica na base 10. Quando a energia relativa do primeiro para o segundo terremoto é dada, podemos calcular diretamente a diferença das magnitudes usando a fórmula. O passo essencial é reconhecer a necessidade do cálculo do logaritmo decimal de 10, que é 1, e multiplicar pelo fator $\frac{2}{3}$.
+
+\subsection*{Erros Comuns}
+É frequente confundir as bases dos logaritmos e a relação entre as energias, assim como usar operações incorretas com os sinais. Outro erro recorrente é o arredondamento inadequado do resultado final.
+
+\subsection*{Sugestões Pedagógicas}
+Instrutores devem enfatizar o entendimento da escala logarítmica e a base dos logaritmos, bem como guiar os alunos na interpretação de enunciados que fornecem relações entre variáveis quantitativas. Exercícios práticos com substituições numéricas são recomendados.
+
+\subsection*{Distratores Comuns}
+Valor 5,4 pode resultar de subtração incorreta; 6,2 de interpretação errada da relação das magnitudes; 8,2 e 8,4 de erros no cálculo ou uso da base errada do logaritmo.
+
+\subsection*{Perfil da Questão}
+A questão avalia a compreensão da propriedade dos logaritmos aplicados a fenômenos naturais e a habilidade de manipulação algébrica e numérica para encontrar uma magnitude inicial desconhecida, com nível de dificuldade médio, exigindo leitura atenta e raciocínio quantitativo.
+
+\vspace{1em}
+\textbf{Resposta correta:} $\boxed{7,6}$
+
+\end{document}

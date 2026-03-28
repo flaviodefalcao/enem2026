@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:44:58.550Z",
+  "questionId": "enem-2024-linguagens-q007",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque o texto ressalta a trajetória profissional das atletas paralímpicas brasileiras, focando em suas histórias de vida, as modalidades esportivas praticadas, mudanças e conquistas ao longo da carreira.",
+      "strategy": "Compreender o objetivo do texto e das mini-biografias apresentadas, identificando qual alternativa melhor sintetiza o propósito geral do conjunto das informações fornecidas.",
+      "steps": [
+        "Ler atentamente as mini-biografias das três atletas.",
+        "Identificar o foco principal das narrativas, que são suas trajetórias esportivas e adaptação a diferentes modalidades paralímpicas.",
+        "Analisar cada alternativa para verificar qual melhor descreve o objetivo do texto.",
+        "Descartar alternativas que não correspondem ao conteúdo ou ao propósito do texto, como descrições de rotinas, comparações de desempenho, indicações de categorias ou incentivo geral à participação feminina.",
+        "Concluir que o texto visa destacar a trajetória profissional das atletas mencionadas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode confundir a descrição das modalidades e conquistas com rotinas de treinamento específicas das atletas.",
+        "misconceptionType": "Interpretação textual incorreta",
+        "whyItLooksPlausible": "O texto menciona diversas modalidades praticadas e conquistas, dando a impressão de que detalha o treinamento.",
+        "whyItIsWrong": "O texto não descreve rotinas de treino, mas sim trajetória e mudanças de modalidade ao longo da carreira."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que o texto compara desempenhos pelo destaque das medalhas e recordes citados.",
+        "misconceptionType": "Foco interpretativo inadequado",
+        "whyItLooksPlausible": "Há menção a títulos e recordes que sugerem comparação de rendimento.",
+        "whyItIsWrong": "Não há uma comparação direta entre as atletas ou seus desempenhos; foca cada história individualmente."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O texto apresenta diversas modalidades paralímpicas, o que pode levar à ideia de estar sugerindo categorias adaptadas.",
+        "misconceptionType": "Generalização incorreta",
+        "whyItLooksPlausible": "Apresenta várias modalidades, o que pode ser confundido com uma indicação de categorias.",
+        "whyItIsWrong": "Não há indicação ou recomendação sobre as categorias, apenas relatos das mudanças de modalidade."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O destaque para atletas femininas e conquistas em campeonatos internacionais pode ser interpretado como um estímulo à participação feminina.",
+        "misconceptionType": "Inferência excessiva",
+        "whyItLooksPlausible": "As atletas ganharam medalhas internacionais, o que pode sugerir encorajamento.",
+        "whyItIsWrong": "O texto não faz um apelo ou estímulo direto; é apenas biográfico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de texto",
+      "secondarySkills": [
+        "Interpretação de biografias",
+        "Identificação do propósito textual"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Texto contém narrativas biográficas de atletas paralímpicas brasileiras.",
+        "Necessita distinguir entre diferentes tipos de propósitos textuais.",
+        "As opções de resposta são semelhantes e requerem discriminação cuidadosa."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 870,
+    "outputTokens": 695,
+    "estimatedCostUsd": 0.00146
+  }
+}

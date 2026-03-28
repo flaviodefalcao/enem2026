@@ -1,0 +1,195 @@
+{
+  "questionId": "enem-2024-linguagens-q041",
+  "generatedAt": "2026-03-28T00:38:59.148Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 744,
+      "outputTokens": 710,
+      "estimatedCostUsd": 0.001434
+    },
+    "explainer": {
+      "inputTokens": 1345,
+      "outputTokens": 379,
+      "estimatedCostUsd": 0.001144
+    },
+    "reviewer": {
+      "inputTokens": 2653,
+      "outputTokens": 2058,
+      "estimatedCostUsd": 0.004354
+    },
+    "totalEstimatedCostUsd": 0.006932
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta pois o texto enfatiza os sinais importantes para detectar o câncer de mama masculino, como caroços e retração na pele, fornecendo informações que ajudam a identificar a doença.",
+      "strategy": "Ler atentamente o texto para identificar qual informação o texto destaca como importante para o combate ao câncer de mama masculino, eliminando opções que tratam de índices, mitos tanto como exames e campanhas que não são o foco principal da reportagem.",
+      "steps": [
+        "Interpretar o título e subtítulos para entender o tema principal: câncer de mama masculino.",
+        "Observar que o texto ressalta sinais e fatores importantes para identificar a doença (pontos 1 a 4).",
+        "Relacionar esses sinais com o objetivo do combate à doença, que é a identificação precoce.",
+        "Analisar as alternativas e verificar qual delas corresponde a esse foco.",
+        "Verificar que A (sinais indicadores da doença) é a que melhor representa o conteúdo.",
+        "Descartar as outras opções por não estarem em consonância com o texto principal."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca sinais importantes para a detecção do câncer de mama em homens, como caroços e retração na pele, que são essenciais para identificar a doença precocemente e combater o problema de forma eficaz.",
+      "stepByStep": [
+        "Leia o texto com atenção para entender o tema principal: câncer de mama masculino.",
+        "Observe que o texto aponta fatores e sinais importantes para identificar a doença.",
+        "Entenda que o objetivo do texto é alertar para os sinais que facilitam a detecção precoce.",
+        "Compare as alternativas e verifique qual delas está mais alinhada com essa ideia central.",
+        "Identifique que a alternativa A corresponde aos sinais que ajudam na detecção e no combate ao câncer de mama masculino.",
+        "Elimine as demais, pois não refletem o foco principal do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir números absolutos com índices de crescimento, levando a escolher opções que falam sobre taxas erradas.",
+        "Interpretar sintomas listados como métodos diagnósticos, confundindo sinais com exames.",
+        "Focar apenas na menção ao Outubro Rosa e achar que a conscientização do mês é o principal alerta do texto.",
+        "Compreender a menção à genética como um mito, e não como fator de risco ou alerta.",
+        "Não perceber que o texto enfatiza a importância da identificação dos sinais para o combate à doença."
+      ],
+      "teachingTips": [
+        "Enfatize a leitura cuidadosa para compreender o enfoque do texto, diferenciando dados principais de informações secundárias.",
+        "Trabalhe a distinção entre sintomas, sinais clínicos e métodos de diagnóstico.",
+        "Use exemplos de mitos comuns para esclarecer diferenças entre informações corretas e falsas no contexto da saúde.",
+        "Promova atividades que desenvolvam a habilidade de identificar a ideia central em textos informativos.",
+        "Estimule o debate sobre a importância da conscientização tanto para mulheres quanto para homens em relação ao câncer de mama."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode confundir o dado de 60 mil casos com uma taxa de crescimento e pensar que o texto informa índice de crescimento de casos.",
+        "misconceptionType": "Confusão entre dado absoluto e taxa percentual",
+        "whyItLooksPlausible": "O texto cita números expressivos de casos que podem ser relacionados a índices.",
+        "whyItIsWrong": "O texto não fala sobre aumento ou crescimento, apenas apresenta dados absolutos e percentuais de casos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se supor que os sintomas listados estejam associados a exames usados para diagnóstico.",
+        "misconceptionType": "Confusão entre sintomas e métodos diagnósticos",
+        "whyItLooksPlausible": "O texto destaca critérios para detectar a doença, que podem ser confundidos com exames.",
+        "whyItIsWrong": "O texto fala de sinais clínicos e fatores, não cita exames específicos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno pode interpretar erroneamente o foco nos aspectos genéticos como uma discussão sobre mitos genéticos.",
+        "misconceptionType": "Interpretação superficial do conteúdo",
+        "whyItLooksPlausible": "O texto menciona genética e hormônios, podendo parecer que discute mitos da herança.",
+        "whyItIsWrong": "O texto quebra o mito de que só mulheres são afetadas, não discute mitos genéticos."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode lembrar que Outubro Rosa é um mês de conscientização e achar que o texto destaca isso como foco principal.",
+        "misconceptionType": "Generalização do tema da campanha para o foco da matéria",
+        "whyItLooksPlausible": "O texto menciona Outubro Rosa, geralmente ligado à conscientização.",
+        "whyItIsWrong": "A referência ao Outubro Rosa é apenas contextual, o foco é sobre os sinais da doença."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão de informações científicas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "É necessária boa leitura e compreensão de informações de saúde.",
+        "A questão exige identificar o conteúdo central e o foco do texto.",
+        "Envolve distinguir dados informativos de dados ilustrativos."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Detecção e combate ao câncer de mama masculino",
+      "interpretationIntro": "O comando solicita identificar qual alerta presente na reportagem contribui para o combate ao câncer de mama em homens.",
+      "commandTerms": [
+        {
+          "term": "Alerta",
+          "explanation": "Sinal ou aviso sobre um fator de atenção ou risco."
+        },
+        {
+          "term": "Câncer de mama masculino",
+          "explanation": "Doença que afeta tecido mamário em homens, embora menos comum que em mulheres."
+        },
+        {
+          "term": "Detecção precoce",
+          "explanation": "Reconhecimento inicial dos sinais da doença para tratamento eficaz."
+        }
+      ],
+      "whatTheQuestionAsks": "O texto apresenta informações que auxiliam no combate ao câncer de mama masculino, e a questão pede para identificar qual aspecto destacado pela reportagem é o alerta que ajuda nesse combate.",
+      "strategyParagraph": "Para responder, deve-se compreender o foco do texto, que enfatiza fatores e sinais que alertam para o desenvolvimento do câncer de mama em homens, promovendo a detecção precoce da doença. Assim, analisar as alternativas e identificar aquela que apresenta esse alerta é fundamental para a resolução correta.",
+      "reviewTable": [
+        {
+          "concept": "Sinais clínicos",
+          "keyIdea": "Sintomas palpáveis ou visíveis que indicam possível presença da doença.",
+          "application": "O texto cita caroços e retração na pele como sinais importantes para identificar o câncer de mama masculino."
+        },
+        {
+          "concept": "Fatores de risco",
+          "keyIdea": "Condições que aumentam a probabilidade de desenvolver a doença.",
+          "application": "O texto menciona genética e níveis hormonais como fatores que elevam o risco de câncer de mama em homens."
+        },
+        {
+          "concept": "Mitos e desinformação",
+          "keyIdea": "Crenças falsas que podem dificultar o diagnóstico e tratamento.",
+          "application": "O texto esclarece que o câncer de mama também pode afetar homens, desfazendo esse mito comum."
+        }
+      ],
+      "theoryParagraphs": [
+        "O câncer de mama masculino é uma condição rara, porém relevante, com sinais clínicos específicos que auxiliam na sua identificação precoce, fator crucial para o sucesso do tratamento.",
+        "Fatores genéticos e hormonais podem predispor homens a desenvolverem a doença, sendo essencial o conhecimento e reconhecimento desses fatores para a prevenção e diagnóstico.",
+        "Campanhas de conscientização, como o Outubro Rosa, ajudam a informar, mas é importante também conhecer os sinais clínicos para que o diagnóstico não seja negligenciado nos homens."
+      ],
+      "resolutionParagraphs": [
+        "O texto inicia apresentando dados do Instituto Nacional do Câncer sobre casos de câncer de mama no Brasil e enfatiza que, apesar do enfoque em mulheres, homens também podem ser afetados.",
+        "Apresenta fatores importantes para a detecção da doença em homens, como genética, hormônios, caroços palpáveis e retração do mamilo, indicando que esses sinais são um alerta para procurar avaliação médica.",
+        "Assim, o principal alerta para o combate ao câncer de mama masculino destacado no texto são os sinais indicadores da doença – itens que caracterizam a alternativa A.",
+        "As demais alternativas tratam de aspectos secundários ou incorretos, como índices de crescimento, exames, mitos genéticos ou campanhas, que não constituem o foco principal da reportagem."
+      ],
+      "puloDoGato": "O verdadeiro combate ao câncer de mama masculino passa pelo conhecimento dos sinais que indicam a doença — é isso que o texto destaca como alerta essencial.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Correta. Refere-se aos sinais e sintomas importantes que ajudam na identificação e no combate ao câncer de mama em homens, conforme indicado no texto."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta. O texto apresenta números absolutos de casos, mas não fala de índice de crescimento ou evolução dos casos."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta. Confunde sintomas e sinais clínicos apresentados com exames diagnósticos, que não são mencionados no texto."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Incorreta. Embora o texto cite genética, não trata mitos genéticos, mas sim desmistifica o câncer de mama masculino."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta. Outubro Rosa é citado como contexto, não como foco do alerta principal sobre o câncer de mama masculino."
+        }
+      ],
+      "questionCode": "LINGUAGENS_COMPREENSÃO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, o solver e o explainer apresentam coerência entre si e com a resolução final. A análise do texto foi adequada, e a alternativa correta está claramente justificada. A didática e explicação contemplam as possíveis dúvidas e erros comuns dos estudantes.",
+      "issues": []
+    }
+  }
+}

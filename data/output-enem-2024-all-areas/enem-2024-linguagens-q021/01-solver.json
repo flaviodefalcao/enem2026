@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:21:22.894Z",
+  "questionId": "enem-2024-linguagens-q021",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque o texto enfatiza que os adornos indígenas, como o diadema, estão diretamente ligados às funções sociais e cosmológicas dos indivíduos na comunidade. Ou seja, não são apenas objetos estéticos, mas possuem um significado ritualístico e social intimamente conectado aos papéis e identidades dos membros do grupo indígena.",
+      "strategy": "Leitura cuidadosa do texto para entender o papel dos adornos e a relação deles com a cosmologia e a estrutura social indígena. Análise das alternativas para identificar aquela que expressa a relação integral entre os objetos (adornos) e os papéis sociais dos indivíduos na comunidade.",
+      "steps": [
+        "Ler o Texto I e identificar as principais ideias: adornos transmitem informações sobre prestígio, transgressão, direitos e deveres; uso restrito ao indivíduo segundo sua linhagem; conexão direta com concepções cosmológicas.",
+        "Entender que essas pinturas e objetos (exemplo do diadema no Texto II) representam algo além da estética – são símbolos sociais e cosmológicos.",
+        "Ler cada alternativa e analisar sua correspondência com o texto, buscando a que melhor reflete a ideia da relação intrínseca entre objeto ritualístico e papel social.",
+        "Descartar as alternativas que contradizem ou não condizem com o texto (por exemplo, indistinção hierárquica, pois o texto sugere o contrário; prevalência do mundo natural sobre relações humanas também não está expresso).",
+        "Confirmar que a alternativa E expressa perfeitamente a ideia de indissociabilidade entre objetos ritualísticos e os papéis dos indivíduos na comunidade.",
+        "Concluir que a resposta correta é E."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do diadema indígena, que exemplifica o tipo de adorno descrito no texto e reforça a ideia de objeto diretamente ligado a ritos e papéis sociais específicos."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir a ausência de informação direta sobre hierarquia na questão com uma indistinção hierárquica na comunidade.",
+        "misconceptionType": "Compreensão incorreta do texto social.",
+        "whyItLooksPlausible": "O texto menciona 'direito e dever' ligados a adornos, o que pode levar a pensar em distinções, mas não é claro se esta distinção é hierárquica ou não.",
+        "whyItIsWrong": "O texto indica que o uso dos adornos é restrito pela linhagem, o que sugere justamente que há distinção hierárquica ou posição social definida."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que a arte inclui principalmente elementos naturais e que estes têm maior importância do que as relações humanas.",
+        "misconceptionType": "Foco incorreto na temática principal do texto.",
+        "whyItLooksPlausible": "A menção dos elementos cosmológicos e a presença de penas no adorno podem fazer parecer que o mundo natural tem prevalência.",
+        "whyItIsWrong": "O texto reforça que a linguagem dos adornos transmite relações sociais e papéis humanos, não apenas elementos naturais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretar que as representações coletivas se reconfiguram constantemente, uma ideia genérica sobre cultura indígena.",
+        "misconceptionType": "Interpretação equivocada sobre a estabilidade cultural.",
+        "whyItLooksPlausible": "A cultura pode ser vista como dinâmica e em constante mudança, o que torna essa alternativa tentadora.",
+        "whyItIsWrong": "O texto não menciona reconfiguração constante; fala da ligação dos adornos a conceitos cosmológicos fixos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir a diferença entre identidade individual e cultural, sugerindo que elas se confundem e não são definidas no texto.",
+        "misconceptionType": "Confusão conceitual entre níveis de identidade.",
+        "whyItLooksPlausible": "O texto fala de adornos ligados a linhagem individual e também à cultura, podendo induzir à ideia de indeterminação entre ambas as identidades.",
+        "whyItIsWrong": "O texto indica que os adornos são restritos e ligados a papéis sociais, indicando que a identidade cultural e individual são definidas e diferenciadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise crítica",
+      "secondarySkills": [
+        "Compreensão de temas culturais e sociais",
+        "Leitura crítica de texto e imagem"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão demanda leitura atenta do texto para identificar a relação simbólica dos adornos indígenas.",
+        "É preciso relacionar a imagem do diadema com o texto para fortalecer a compreensão do papel ritualístico dos objetos.",
+        "As alternativas envolvem interpretações conceituais do texto, exigindo distinção entre ideias próximas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1511,
+    "outputTokens": 1005,
+    "estimatedCostUsd": 0.002212
+  }
+}

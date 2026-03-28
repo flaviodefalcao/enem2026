@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:25:28.773Z",
+  "questionId": "enem-2024-q144",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Ao girar um trapézio retângulo em torno do lado vertical PS, a figura gera um sólido com duas bases circulares de tamanhos diferentes, conhecido como tronco de cone.",
+      "stepByStep": [
+        "Identifique que o trapézio PQRS é retângulo, com lado PS perpendicular às bases PQ e RS.",
+        "Observe que o lado PS está fixado numa vareta, que atua como eixo de rotação.",
+        "Ao girar o trapézio 360° em torno de PS, cada ponto do trapézio descreve um círculo com raio igual à distância do ponto até a vareta.",
+        "As bases paralelas PQ e RS gerarão duas circunferências de raios diferentes devido ao comprimento distinto dessas bases.",
+        "A superfície lateral criada pela rotação ligará essas duas bases circulares de raios diferentes, formando um sólido com forma semelhante a um cone cortado no topo.",
+        "Esse sólido, que possui duas bases circulares paralelas e raios diferentes, é chamado de tronco de cone.",
+        "Portanto, o sólido obtido pela rotação do trapézio em torno da vareta PS é um tronco de cone."
+      ],
+      "commonPitfalls": [
+        "Confundir o trapézio com um triângulo, pensando que a rotação resultaria em um cone.",
+        "Assumir que as bases são iguais e, portanto, o sólido seria um cilindro.",
+        "Pensar que o sólido gerado por revolução sempre é uma pirâmide, confundindo sólidos poligonais com sólidos de revolução.",
+        "Misturar os conceitos de tronco de cone com tronco de pirâmide, não considerando a diferença entre bases circulares e poligonais."
+      ],
+      "teachingTips": [
+        "Use modelos físicos ou softwares de geometria para mostrar a rotação do trapézio em torno do eixo e a forma do sólido gerado.",
+        "Explique a diferença entre sólidos gerados por rotação de triângulos, trapézios e outros polígonos, destacando as características das bases circulares.",
+        "Reforce o conceito de sólido de revolução e a importância da distância dos pontos ao eixo para determinar o raio das bases.",
+        "Utilize analogias visuais, como pensar em um copo de formato de tronco de cone para facilitar a compreensão da forma do sólido."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1708,
+    "outputTokens": 473,
+    "estimatedCostUsd": 0.00144
+  }
+}

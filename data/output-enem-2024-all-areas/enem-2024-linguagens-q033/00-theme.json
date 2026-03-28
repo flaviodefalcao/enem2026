@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:32:08.788Z",
+  "questionId": "enem-2024-linguagens-q033",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Propósito comunicativo",
+    "rationale": "A questão analisa um cartaz publicitário que utiliza recursos verbais e não verbais para transmitir uma mensagem persuasiva com o objetivo de motivar a doação de roupas. A frase 'Vou deixar que você se vá', combinada aos elementos visuais, tem um propósito comunicativo específico de promover a campanha do agasalho, envolvendo o leitor a participar da ação social, ou seja, o foco está na intenção comunicativa e persuasiva do gênero discursivo.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1302,
+    "outputTokens": 122,
+    "estimatedCostUsd": 0.000716
+  }
+}

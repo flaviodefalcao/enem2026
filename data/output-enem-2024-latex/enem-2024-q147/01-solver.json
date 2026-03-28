@@ -1,0 +1,88 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:27:23.434Z",
+  "questionId": "enem-2024-q147",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B) II, IV e V.",
+      "correctnessClaim": "A alternativa B é correta pois os números nas posições II, IV e V representam a mesma quantidade.",
+      "strategy": "Converter todos os números apresentados nas posições I a VI para uma forma comum (fração ou decimal) e comparar seus valores para identificar quais são iguais.",
+      "steps": [
+        "Converter números nas posições para forma decimal:",
+        "I: 4 1/2 = 4 + 1/2 = 4,5",
+        "II: 4 1/2 = 4 + 1/2 = 4,5",
+        "III: 10/45 = 2/9 ≈ 0,222",
+        "IV: 18/4 = 4,5",
+        "V: 4,5 (já decimal)",
+        "VI: 4/5 = 0,8",
+        "Comparar os valores obtidos: I, II, IV e V têm valores iguais a 4,5, enquanto III e VI são diferentes.",
+        "A pergunta solicita três quantidades iguais; o estudante escolheu as posições II, IV e V, que representam 4,5."
+      ],
+      "formulasUsed": [
+        "Número misto para decimal: a b/c = a + b/c",
+        "Simplificação de fração: 10/45 = 2/9",
+        "Comparação de números decimais"
+      ],
+      "visualEvidenceUsed": [
+        "Números apresentados na máquina: '4 1/2' em I e II, '10/45' em III, '18/4' em IV, '4,5' em V e '4/5' em VI.",
+        "Posições dos números indicadas de I a VI."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) I, II e IV.",
+        "likelyReasoning": "Pode parecer correto pois I, II e IV são números mistos e frações que equivalem a 4,5.",
+        "misconceptionType": "Confusão na quantidade solicitada ou seleção arbitrária sem considerar todas as opções.",
+        "whyItLooksPlausible": "I, II e IV claramente são números iguais a 4,5, portanto parecem a melhor resposta.",
+        "whyItIsWrong": "A questão pede três quantidades iguais e o estudante indicou II, IV e V (conforme gabarito). Apesar de I também representar 4,5, o estudante não escolheu a posição I."
+      },
+      {
+        "option": "C) II, III e V.",
+        "likelyReasoning": "Pode ser que alguém escolha sem analisar o valor decimal correto de III; confunde números que parecem próximos.",
+        "misconceptionType": "Não conversão correta de frações para decimal.",
+        "whyItLooksPlausible": "III tem uma fração e V é decimal, pode parecer que 10/45 é próximo de 4,5, mas não é.",
+        "whyItIsWrong": "10/45 é aproximadamente 0,222, não igual a 4,5."
+      },
+      {
+        "option": "D) III, V e VI.",
+        "likelyReasoning": "Confusão na conversão ou agrupamento sem análise adequada.",
+        "misconceptionType": "Erro na comparação numérica.",
+        "whyItLooksPlausible": "Pode parecer que os valores fracionários estão relacionados, mas III, V e VI não são iguais.",
+        "whyItIsWrong": "III ≈ 0,222; V = 4,5; VI = 0,8, valores diferentes."
+      },
+      {
+        "option": "E) III, IV e VI.",
+        "likelyReasoning": "Confusão na identificação das frações equivalentes.",
+        "misconceptionType": "Erro de conversão e comparação.",
+        "whyItLooksPlausible": "Pode parecer que a fração 18/4 é próxima a 4/5, o que não é verdade.",
+        "whyItIsWrong": "18/4 = 4,5, 4/5 = 0,8 e 10/45 = 0,222; valores diferentes."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conversão e comparação de números racionais",
+      "secondarySkills": [
+        "Representação numérica",
+        "Simplificação de frações",
+        "Interpretação de informações visuais"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "É necessário converter frações e números mistos para decimal para comparação correta.",
+        "A questão requer atenção à representação de números racionais em diferentes formas.",
+        "Uso da imagem para identificar números e suas posições."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1059,
+    "outputTokens": 918,
+    "estimatedCostUsd": 0.001892
+  }
+}

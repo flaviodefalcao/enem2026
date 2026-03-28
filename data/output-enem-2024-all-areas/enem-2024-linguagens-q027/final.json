@@ -1,0 +1,182 @@
+{
+  "questionId": "enem-2024-linguagens-q027",
+  "generatedAt": "2026-03-28T00:27:24.644Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 842,
+      "outputTokens": 699,
+      "estimatedCostUsd": 0.001455
+    },
+    "explainer": {
+      "inputTokens": 1439,
+      "outputTokens": 359,
+      "estimatedCostUsd": 0.00115
+    },
+    "reviewer": {
+      "inputTokens": 2723,
+      "outputTokens": 1851,
+      "estimatedCostUsd": 0.004051
+    },
+    "totalEstimatedCostUsd": 0.006656
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C expressa claramente a empatia da autora ao reconhecer e validar as dificuldades enfrentadas pela juventude atual, mostrando compreensão e conexão emocional com o leitor.",
+      "strategy": "Identificar na fala da autora trechos que indicam a expressão explícita de empatia, ou seja, demonstração de entendimento e compartilhamento do sentimento do leitor.",
+      "steps": [
+        "Ler o enunciado e as alternativas com atenção para identificar qual trecho demonstra empatia explícita.",
+        "Entender que empatia envolve reconhecer e validar sentimentos ou dificuldades do outro.",
+        "Analisar as alternativas para encontrar aquela que expressa esse reconhecimento claro.",
+        "Observar que a frase da alternativa C reconhece explicitamente as dificuldades de ser jovem hoje, mostrando conexão emocional e compreensão."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A alternativa C é a correta porque a autora expressa uma postura de empatia ao reconhecer explicitamente as dificuldades enfrentadas pelos jovens hoje, mostrando que compreende e compartilha seus sentimentos.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender o sentimento principal expresso pela autora.",
+        "Reflita sobre o que é empatia: é reconhecer e compartilhar sentimentos e dificuldades do outro.",
+        "Leia cada alternativa e identifique se ela demonstra esse reconhecimento claro das dificuldades dos jovens.",
+        "Verifique que a alternativa C afirma explicitamente que ser jovem hoje é complicado, o que indica entendimento e conexão emocional.",
+        "Conclua que esse reconhecimento caracteriza a empatia explícita, tornando a alternativa C a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir empatia com simples demonstração de afeto ou alegria pessoal da autora.",
+        "Escolher opções que mostram carinho ou sentimentos da autora, mas que não expressam reconhecimento explícito das dificuldades do leitor.",
+        "Interpretar críticas sociais como demonstração de empatia, quando na verdade são julgamentos abstratos.",
+        "Focar na interação com os jovens (como o recebimento de cartas) como empatia, sem notar que isso é apenas relato de contato, não compartilhamento de sentimentos."
+      ],
+      "teachingTips": [
+        "Explique o conceito de empatia, diferenciando-o de outras emoções como afeto ou alegria própria.",
+        "Peça para os alunos identificarem no texto frases que explicitamente reconhecem dificuldades ou sentimentos dos leitores.",
+        "Promova debates sobre como diferentes expressões no texto podem parecer empáticas, mas nem sempre são.",
+        "Utilize exemplos práticos para mostrar a diferença entre simples demonstração de carinho e postura empática.",
+        "Estimule os alunos a argumentarem suas escolhas com base na definição de empatia para consolidar a compreensão."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O enunciado mostra que a autora se aproxima ao mencionar o contato com fãs jovens, mas esta frase apenas relata a existência das cartas, sem expressar empatia explícita.",
+        "misconceptionType": "Focalização na simples menção em vez da demonstração de empatia",
+        "whyItLooksPlausible": "Cita a interação com leitores jovens, o que pode parecer uma aproximação.",
+        "whyItIsWrong": "Não expressa explicitamente o compartilhamento ou validação dos sentimentos deles."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "A expressão 'fico no céu lendo essas coisas' pode parecer afetiva, mas se trata de uma reação pessoal de alegria e não demonstra empatia com a situação dos leitores.",
+        "misconceptionType": "Confundir emoção pessoal com empatia direcionada",
+        "whyItLooksPlausible": "Mostra sentimento positivo da autora, dando a impressão de calor humano.",
+        "whyItIsWrong": "Foca no sentimento da autora e não na compreensão das dificuldades do leitor."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Oferecer 'beijinhos e carinhos' dá ideia de afeto, mas é mais uma demonstração de carinho do que uma postura empática claramente explicitada.",
+        "misconceptionType": "Confundir demonstração de afeto com empatia explícita",
+        "whyItLooksPlausible": "Transmite um tom afetuoso e acolhedor.",
+        "whyItIsWrong": "Mais expressão de desejê carinhoso do que manifestação clara de empatia em relação às dificuldades."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A frase critica a sociedade e seus valores, mas não expressa diretamente uma postura de empatia junto ao leitor jovem.",
+        "misconceptionType": "Confundir crítica social com empatia",
+        "whyItLooksPlausible": "Tem um tom de reflexão e crítica que pode parecer preocupado com o outro.",
+        "whyItIsWrong": "Foca em um julgamento mais abstrato do mundo, sem demonstrar conexão emocional explícita com o leitor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Compreensão corporal do texto",
+        "Análise de estratégias discursivas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Análise cuidadosa do texto é necessária para distinguir empatia declarada de outras expressões afetuosas.",
+        "A questão exige reconhecimento de nuances entre emoções pessoais, demonstrações de afeto e empatia explícita."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🎭",
+      "shortThemeTitle": "Expressão de Empatia no Texto",
+      "interpretationIntro": "A questão demanda identificar como a autora demonstra uma postura de empatia em seu texto.",
+      "commandTerms": [
+        {
+          "term": "Empatia",
+          "explanation": "Capacidade de reconhecer, compreender e compartilhar sentimentos ou dificuldades dos outros."
+        },
+        {
+          "term": "Postura",
+          "explanation": "Comportamento ou atitude adotada pelo autor em relação ao leitor."
+        }
+      ],
+      "whatTheQuestionAsks": "O que indica, no texto, a postura explícita de empatia da autora em relação ao leitor jovem?",
+      "strategyParagraph": "Para responder, deve-se buscar no texto a parte que demonstra compreensão clara e compartilhamento das dificuldades do leitor, ou seja, uma expressão explícita de empatia. Portanto, analisa-se as frases propostas para identificar qual delas revela melhor essa conexão emocional.",
+      "reviewTable": [
+        {
+          "concept": "Empatia",
+          "keyIdea": "Reconhecer e validar os sentimentos ou dificuldades do outro",
+          "application": "A alternativa C expressa explicitamente as dificuldades de ser jovem hoje, manifestando empatia."
+        },
+        {
+          "concept": "Postura textual",
+          "keyIdea": "Atitude ou tom adotado pelo autor para se relacionar com o leitor",
+          "application": "No trecho da alternativa C, a autora adota uma postura empática ao reconhecer os percalços da juventude."
+        }
+      ],
+      "theoryParagraphs": [
+        "Empatia no texto é manifesta quando o autor reconhece e valida os sentimentos ou experiências do leitor, criando uma conexão emocional. ",
+        "Nem toda demonstração de afetividade ou emoção pessoal indica empatia; é preciso que haja expressão clara da compreensão das dificuldades ou sentimentos do outro.",
+        "Identificar a postura empática implica analisar o sentido das frases e o que elas comunicam quanto à relação entre autor e leitor."
+      ],
+      "resolutionParagraphs": [
+        "Começamos lendo atentamente o fragmento disponibilizado para compreender o tom e a intenção da autora.",
+        "Sabemos que empatia envolve reconhecer explicitamente as dificuldades e sentimentos do outro, aqui, os jovens.",
+        "Analisando as alternativas, observamos que a alternativa C afirma diretamente que ser jovem atualmente é complicado, o que traduz compreensão e conexão emocional – elementos centrais da empatia.",
+        "As demais alternativas apresentam emoções ou atitudes da autora que não configuram demonstração clara de empatia: relatar carta recebida (A), expressar alegria pessoal (B), manifestar carinho (D), ou crítica social abstrata (E).",
+        "Assim, conclui-se que a alternativa C é a que melhor representa a postura explícita de empatia da autora."
+      ],
+      "puloDoGato": "Para identificar empatia, foque na demonstração clara de reconhecimento e validação das dificuldades do leitor, não só em demonstrações afetivas ou pessoais.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Menciona interação com jovens, mas não expressa o reconhecimento das dificuldades deles como empatia."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Reflete alegria da autora, sem demonstrar compreensão dos sentimentos dos leitores."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Apresenta explicitamente a compreensão das dificuldades dos jovens, caracterizando empatia."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Expressa carinho, mas sem explicitar o reconhecimento das dificuldades do leitor, que define a empatia."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Trata de crítica social, não demonstra conexão emocional explícita nem postura empática com o jovem leitor."
+        }
+      ],
+      "questionCode": "LIG_LINGUAGEM_ESTRATEGIA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e convergem para a alternativa C como correta. A resolução oficial está clara, didática e adequada às demandas da questão.",
+      "issues": []
+    }
+  }
+}

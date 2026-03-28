@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:30:28.534Z",
+  "questionId": "enem-2024-linguagens-q031",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O trecho sublinha a alienação da elite monarquista representada por Flora, que está tranquila e desligada diante do fim iminente da monarquia. O narrador usa ironia para criticar essa indiferença social, mostrando que, mesmo em momentos decisivos, a personagem se preocupa mais com a festa e a aparência do que com as transformações políticas.",
+      "stepByStep": [
+        "Leia atentamente o trecho, focando nas atitudes e pensamentos de Flora.",
+        "Identifique o tom do narrador, especialmente a ironia implícita em frases que minimizam possíveis aborrecimentos.",
+        "Observe como Flora se distrai com a festa e pensamentos pessoais, ignorando o contexto político tenso ao seu redor.",
+        "Note a referência à princesa imperial e a frase ‘Toda alma livre é imperatriz!’, que evidenciam a idealização e o distanciamento da realidade.",
+        "Relacione essas observações à situação histórica do fim da monarquia e à postura de alienação da elite ilustrada no texto.",
+        "Use essas análises para escolher a alternativa que reconhece essa crítica social através da ironia, que é a alternativa correta."
+      ],
+      "commonPitfalls": [
+        "Interpretar literalmente a fala sobre a princesa imperial como esperança no futuro regime, ignorando o tom irônico.",
+        "Focar demasiado em descrições do cenário, esquecendo a crítica social implícita.",
+        "Enxergar conflito ou animosidade entre grupos sociais sem evidência textual.",
+        "Atribuir à personagem preocupações amorosas que não aparecem no texto.",
+        "Desconsiderar o tom de ironia e considerar que Flora está genuinamente alegre e otimista."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o tom do narrador e como a ironia funciona para transmitir críticas sociais.",
+        "Promova discussões sobre o contexto histórico para ampliar a compreensão do texto.",
+        "Estimule a análise das atitudes das personagens diante de mudanças sociais para entender o posicionamento ideológico.",
+        "Realce a importância de interpretar além do sentido literal, captando o subtexto e as intenções do autor.",
+        "Use exemplos de ironia em outros textos para ajudar na familiarização com esse recurso literário."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1577,
+    "outputTokens": 443,
+    "estimatedCostUsd": 0.00134
+  }
+}

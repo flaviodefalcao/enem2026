@@ -1,0 +1,188 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q049",
+  "generatedAt": "2026-03-28T00:45:10.459Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 678,
+      "outputTokens": 827,
+      "estimatedCostUsd": 0.001594
+    },
+    "explainer": {
+      "inputTokens": 1388,
+      "outputTokens": 470,
+      "estimatedCostUsd": 0.001307
+    },
+    "reviewer": {
+      "inputTokens": 2782,
+      "outputTokens": 2300,
+      "estimatedCostUsd": 0.004793
+    },
+    "totalEstimatedCostUsd": 0.007694
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa correta é a letra E, pois descreve a visão republicana de nação associada às mudanças tecnológicas e políticas ocorridas no Brasil entre 1890 e 1914.",
+      "strategy": "Analisei o contexto histórico apresentado no texto, relacionando a chegada das inovações científicas e tecnológicas no Brasil à conjuntura política da época, que é o início da República.",
+      "steps": [
+        "Identificar o período histórico: final do século XIX e início do século XX, coincidindo com a República Velha no Brasil.",
+        "Observar que o texto destaca a introdução acelerada de tecnologias modernas como luz elétrica, telégrafo, telefone, cinematógrafo, trens elétricos, automóveis e aeroplanos.",
+        "Relacionar essa modernização com o projeto político vigente que buscava construir uma imagem de progresso e desenvolvimento nacional.",
+        "Lembrar que a República inaugurada em 1889 buscava uma visão de nação moderna e progressista, alinhada com o avanço científico e tecnológico.",
+        "Descartar outras opções pois: imperialismo (A) está mais ligado a política externa; mercantilismo (B) é um sistema econômico antigo; laicidade da educação (C) não está diretamente relacionada às inovações tecnológicas do texto; e retomada do absolutismo (D) é contraditória com o contexto republicano e de modernização."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca o avanço das tecnologias no Brasil no final do século XIX e início do XX, no contexto da República Velha, que associava seu projeto político ao progresso científico e tecnológico para construir uma imagem de nação moderna.",
+      "stepByStep": [
+        "Identifique o período histórico citado: final século XIX e início século XX, marcado pela República Velha.",
+        "Note as tecnologias introduzidas: luz elétrica, telégrafo, telefone, cinematógrafo, transporte elétrico, automóvel, aeroplano.",
+        "Compreenda que o texto mostra a rápida adoção destas inovações como simbolizando progresso.",
+        "Relacione essa modernização ao projeto político da República, focado em modernização e desenvolvimento.",
+        "Elimine alternativas que não se encaixam no contexto político brasileiro do momento, como imperialismo, mercantilismo, laicidade na educação ou retorno ao absolutismo."
+      ],
+      "commonPitfalls": [
+        "Confundir modernização tecnológica com imperialismo colonial brasileiro, que não ocorreu nesse período.",
+        "Associar o progresso tecnológico ao mercantilismo, sistema de tempo e contexto distintos.",
+        "Relacionar erroneamente a laicidade da educação às inovações tecnológicas mencionadas.",
+        "Interpretar as transformações como retorno ao absolutismo, quando na verdade marcou-se a implantação da República."
+      ],
+      "teachingTips": [
+        "Explique o contexto histórico da transição Monarquia-República e a importância da tecnologia para legitimar o projeto republicano.",
+        "Use exemplos das invenções citadas para mostrar o vínculo entre ciência e política.",
+        "Estimule a conexão interdisciplinar entre história política, ciência e tecnologia.",
+        "Trabalhe a análise das alternativas incorretas para reforçar conceitos históricos e evitar confusões."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir o avanço tecnológico com expansão imperialista, pensando que as invenções serviram à estratégia de dominação externa.",
+        "misconceptionType": "Confusão contextual",
+        "whyItLooksPlausible": "O imperialismo esteve ligado a muitos avanços tecnológicos para a dominação colonial nas grandes potências.",
+        "whyItIsWrong": "O Brasil não estava em um processo de imperialismo externo nesse período, e o texto foca no contexto interno de modernização e política nacional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associar erroneamente o progresso tecnológico à ascensão do mercantilismo, outra fase econômica histórica.",
+        "misconceptionType": "Erro histórico",
+        "whyItLooksPlausible": "O mercantilismo envolve comércio e desenvolvimento econômico, que podem parecer ligados ao avanço tecnológico.",
+        "whyItIsWrong": "O mercantilismo é um sistema anterior aos séculos XIX e XX, e não tem relação direta com as transformações tecnológicas e políticas da República no Brasil."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a laicidade da educação é resultado direto das transformações científicas e tecnológicas mencionadas.",
+        "misconceptionType": "Confusão temática",
+        "whyItLooksPlausible": "A modernização científica pode ser confundida com processos de secularização na educação.",
+        "whyItIsWrong": "O texto não aborda diretamente a educação ou sua laicidade; a modernização citada está relacionada a invenções tecnológicas e política nacional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar que houve uma volta ao absolutismo diante das mudanças descritas.",
+        "misconceptionType": "Contradição histórica",
+        "whyItLooksPlausible": "A menção a \"certezas\" e controle tecnológico poderia ser equivocadamente associada a regimes autoritários.",
+        "whyItIsWrong": "No Brasil, o fim do século XIX marca o fim da monarquia e a instauração da república, afastando o absolutismo."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação histórica e contextualização",
+      "secondarySkills": [
+        "Análise de textos históricos",
+        "Conhecimento de história política brasileira"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento do contexto histórico brasileiro entre a República Velha e as inovações tecnológicas.",
+        "Requer associar aspectos tecnológicos a mudanças políticas e socioculturais.",
+        "Não envolve análise de gráficos ou imagens visuais, pois nenhuma foi fornecida."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📜",
+      "shortThemeTitle": "República e Modernização Tecnológica no Brasil",
+      "interpretationIntro": "A questão pede que se relacione a descrição das inovações científicas e tecnológicas com sua conotação política no Brasil do final do século XIX e início do XX.",
+      "commandTerms": [
+        {
+          "term": "Conotação política",
+          "explanation": "Significado ou importância política relacionada a um fenômeno social ou tecnológico."
+        },
+        {
+          "term": "Modernização",
+          "explanation": "Processo de incorporação de tecnologias e mudanças que transformam a estrutura social e política."
+        }
+      ],
+      "whatTheQuestionAsks": "O que a introdução acelerada de invenções tecnológicas no Brasil representou politicamente nesse período histórico?",
+      "strategyParagraph": "Para responder, é essencial identificar o período histórico e contextualizar as inovações tecnológicas dentro do projeto político vigente — a República Velha — que buscava construir uma imagem de nação moderna e progressista. As alternativas devem ser avaliadas à luz desse contexto específico, descartando outras possibilidades históricas ou políticas incompatíveis.",
+      "reviewTable": [
+        {
+          "concept": "República Velha",
+          "keyIdea": "Início de 1889 até 1930, período de consolidação da república no Brasil.",
+          "application": "O texto situa as inovações tecnológicas nesse período, mostrando o alinhamento político com o progresso."
+        },
+        {
+          "concept": "Inovações Tecnológicas",
+          "keyIdea": "Luz elétrica, telégrafo, telefone, transporte elétrico etc.",
+          "application": "Essas invenções simbolizam modernidade e progresso, tema central à agenda política republicana."
+        },
+        {
+          "concept": "Projeto Político da República",
+          "keyIdea": "Construir nação moderna, com imagem de desenvolvimento científico e tecnológico.",
+          "application": "O contexto político que dá sentido às transformações descritas no texto."
+        }
+      ],
+      "theoryParagraphs": [
+        "No final do século XIX e início do XX, o Brasil vivenciou a transição da Monarquia para a República, instaurada em 1889. Esse período, conhecido como República Velha, foi marcado por esforços de modernização influenciados por avanços científicos e tecnológicos internacionais. O Estado republicano buscava legitimar-se através da ideia de progresso, difundindo as novas tecnologias como parte da construção de uma identidade nacional de nação moderna.",
+        "As invenções como luz elétrica, telégrafo, telefone, cinematógrafo, automóveis e até aeroplanos chegaram rapidamente ao Brasil naquele período, impulsionando transformações econômicas, sociais e políticas. A agenda política enfatizou essa modernização para fortalecer o discurso republicanista e afastar-se da imagem conservadora do Império.",
+        "Assim, o contexto histórico evidencia que o uso dessas tecnologias serviu como símbolo e instrumento da política republicana, reforçando a ligação entre inovação científica, progresso social e justificativa para a consolidação do novo regime."
+      ],
+      "resolutionParagraphs": [
+        "A análise começa pela identificação do contexto histórico do final do século XIX e começo do XX, período coincidente com a República Velha no Brasil.",
+        "O texto destaca a rápida introdução de tecnologias como luz elétrica, telégrafo, telefone e automóveis, associando-se um projeto nacional de modernização.",
+        "O avanço tecnológico é entendido não apenas como um fenômeno científico, mas como parte integrante do discurso político que buscava representar o Brasil como uma nação em progresso.",
+        "As alternativas são avaliadas: o imperialismo não condiz com o foco interno do texto; o mercantilismo é um sistema econômico anterior; a laicidade da educação não se relaciona diretamente às tecnologias mencionadas; e o absolutismo é incompatível com o momento republicano.",
+        "Assim, conclui-se que a conotação política atribuída às inovações tecnológicas foi a construção da visão republicana de uma nação moderna e progressista, conforme apontado na alternativa E."
+      ],
+      "puloDoGato": "Para responder rapidamente, associe as mudanças tecnológicas mencionadas ao contexto da República Velha, que valorizava a modernização como legitimação política do novo regime.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "O imperialismo não é relacionado ao contexto interno brasileiro de modernização apresentado no texto, mas à política externa e colonialismo de potências estrangeiras."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "O mercantilismo é um sistema histórico econômico anterior, não ligado ao avanço tecnológico do Brasil no final do século XIX e início do XX."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A laicidade da educação não está diretamente ligadas ao avanço tecnológico descrito, além de não ser o foco da questão."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "O retorno ao absolutismo contradiz o contexto de consolidação da República, caracterizada por práticas políticas contrárias ao absolutismo."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "A alternativa correta pois vincula adequadamente as inovações tecnológicas ao projeto político republicano que buscava construir uma imagem de nação moderna, progressista e cientificamente avançada."
+        }
+      ],
+      "questionCode": "CHIST_CPOLITICA_CONHEC_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "Enunciado, solução técnica e explicação didática estão coerentes e alinhados com o conteúdo histórico indicado. A resolução oficial produzida reflete essa consistência, trazendo comentários completos e clareza didática. Não há inconsistências ou contradições evidentes.",
+      "issues": []
+    }
+  }
+}

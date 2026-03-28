@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:45:56.921Z",
+  "questionId": "enem-2024-ciencias-humanas-q051",
+  "payload": {
+    "theme": "Cultura e identidade",
+    "subtheme": "Patrimônio cultural",
+    "rationale": "A questão aborda a valsa vienense como uma manifestação cultural histórica, exemplificando a diversidade do patrimônio cultural em diferentes sociedades. Isso se relaciona diretamente ao reconhecimento e compreensão das expressões culturais que constituem identidades, conforme indicado pela habilidade H5 e competência 1.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 871,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.000475
+  }
+}

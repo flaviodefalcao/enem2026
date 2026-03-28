@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:35:22.401Z",
+  "questionId": "enem-2024-linguagens-q036",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta porque evidencia que as esculturas, apesar da separação temporal de mais de 2.500 anos e de contextos culturais distintos, apresentam semelhanças estilísticas evidentes que indicam a persistência de padrões estéticos similares. Isso é observado na simplificação das feições faciais e nas formas alongadas, que aparecem em ambas as esculturas.",
+        "strategy": "Comparar as características visuais principais das duas esculturas apresentadas no enunciado, focando nos aspectos formais, como simplificação da forma, ausência de detalhamento e estrutura geral, para identificar relação entre os estilos em diferentes épocas e culturas.",
+        "steps": [
+          "Observar a escultura antiga, 'Cabeça de uma figura feminina' (circa 2700-2500 a.C.), que apresenta uma forma simplificada, ausência de detalhes e uma face quase abstrata.",
+          "Analisar a escultura moderna, 'Cabeça de mulher' de Modigliani (circa 1910-1911), que mostra características estéticas semelhantes, como alongamento do rosto e simplificação das linhas faciais.",
+          "Comparar as semelhanças formais entre as duas esculturas, apesar da diferença temporal e cultural muito grande.",
+          "Concluir que o que está presente é a persistência de padrões estéticos em diferentes épocas e culturas, pois ambos os trabalhos mostram um mesmo tipo de abordagem estilística.",
+          "Verificar as alternativas para identificar qual delas corresponde a essa interpretação."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem 1: Escultura 'Cabeça de uma figura feminina', destacando simplicidade e formato alongado.",
+          "Imagem 2: Escultura 'Cabeça de mulher' de Modigliani, também com simplicidade e alongamento do rosto."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "As duas esculturas, apesar de terem sido feitas em épocas e culturas muito diferentes, mostram um estilo similar que destaca formas simplificadas e alongadas. Isso indica que certos padrões estéticos se repetem ao longo do tempo.",
+        "stepByStep": [
+          "Observe a escultura antiga 'Cabeça de uma figura feminina' e perceba como ela é simples, com poucas formas detalhadas e um rosto alongado.",
+          "Analise a escultura moderna 'Cabeça de mulher' de Modigliani, notando as características parecidas: linhas simples, rosto alongado e falta de muitos detalhes.",
+          "Compare as duas esculturas para perceber que, mesmo com mais de 2.500 anos de separação, elas compartilham esses traços estéticos similares.",
+          "Entenda que essa semelhança indica a persistência de estilos artísticos ao longo das eras, não uma influência direta ou similaridade por causa do material usado.",
+          "Por fim, escolha a alternativa que explicita que essas semelhanças apontam para a continuidade de padrões estéticos em diferentes períodos e culturas."
+        ],
+        "commonPitfalls": [
+          "Confundir similaridade estética com influência direta entre as obras.",
+          "Achar que as esculturas são iguais devido ao material usado, quando na verdade o estilo é independente do material.",
+          "Interpretar a ausência de detalhes como sinal de arte popular ou tecnológica, sem considerar o estilo artístico.",
+          "Pular etapas sem comparar visualmente os elementos básicos das esculturas."
+        ],
+        "teachingTips": [
+          "Incentive os alunos a observar cuidadosamente as formas e os traços visuais antes de responder.",
+          "Use exemplos de obras de arte diferentes para mostrar que estilos podem se repetir ou persistir.",
+          "Explique a diferença entre influência direta, estilo comum e material usado na arte.",
+          "Estimule a comparação entre contextos históricos diferentes para entender a evolução ou persistência cultural."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que a escultura moderna valoriza a arte antiga por apresentar formas similares.",
+          "misconceptionType": "Confusão entre influência e análise estética temporal.",
+          "whyItLooksPlausible": "Ambas as esculturas têm estéticas similares, o que poderia sugerir influência ou valorização.",
+          "whyItIsWrong": "O enunciado não indica uma valorização direta, apenas aponta similaridades estéticas que indicam padrões persistentes."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "A ideia de que a arte escultórica resistiu aos avanços tecnológicos pode parecer explicação para a semelhança visual.",
+          "misconceptionType": "Interpretação errada do impacto tecnológico na arte.",
+          "whyItLooksPlausible": "As esculturas se mantêm simplificadas em épocas diferentes, dando a impressão de resistência à mudança.",
+          "whyItIsWrong": "A questão não trata de avanços tecnológicos nem resistência, mas de padrões estéticos semelhantes."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A simplificação da forma poderia ser atribuída ao tipo de material usado, como mármore ou calcário.",
+          "misconceptionType": "Causalidade incorreta entre material e forma estética.",
+          "whyItLooksPlausible": "Materiais diferentes impõem limitações que podem justificar similaridade formal.",
+          "whyItIsWrong": "As esculturas usam materiais diferentes, mas a forma simplificada está mais ligada ao estilo do que ao material."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "A ausência de detalhes pode ser vista como característica da arte tradicional popular.",
+          "misconceptionType": "Generalização errônea das características da arte tradicional.",
+          "whyItLooksPlausible": "A ausência de detalhes é visível em ambas as esculturas.",
+          "whyItIsWrong": "A escultura antiga é uma obra artística antiga, não necessariamente arte popular, e a questão trata da persistência estética, não ausência de detalhes como traço da arte popular."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise e interpretação de obras artísticas",
+        "secondarySkills": [
+          "Comparação histórica",
+          "Raciocínio crítico"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão requer análise comparativa visual entre esculturas de diferentes épocas.",
+          "É essencial identificar o conceito de persistência de padrões estéticos.",
+          "Necessita observação atenta dos elementos visuais representados."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🖼️",
+        "shortThemeTitle": "Persistência de Padrões Estéticos na Escultura",
+        "interpretationIntro": "O enunciado apresenta duas esculturas de épocas e contextos culturais distintos e propõe uma leitura comparativa entre elas.",
+        "commandTerms": [
+          {
+            "term": "Leitura comparativa",
+            "explanation": "Analisar simultaneamente as características das duas esculturas para identificar semelhanças e diferenças."
+          },
+          {
+            "term": "Persistência",
+            "explanation": "Manutenção ou repetição de certos padrões estilísticos ao longo do tempo."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão solicita identificar o que a comparação entre as duas esculturas indica, considerando o intervalo temporal de mais de 2.500 anos entre elas.",
+        "strategyParagraph": "Para responder corretamente, deve-se observar cuidadosamente as características formais das duas esculturas — como simplicidade das formas, alongamento dos rostos e ausência de detalhes — e comparar tais aspectos. A análise deve buscar uma explicação que justifique a semelhança estética entre obras de períodos muito distantes, focando em padrões que se mantêm ao longo das eras, e descartando influências diretas, questões materiais ou tecnológicas.",
+        "reviewTable": [
+          {
+            "concept": "Estilo artístico",
+            "keyIdea": "Conjunto de características formais e estéticas de uma obra.",
+            "application": "Identificar a simplicidade e o alongamento facial presentes em ambas as esculturas."
+          },
+          {
+            "concept": "Persistência estética",
+            "keyIdea": "Repetição ou continuidade de padrões estilísticos ao longo do tempo e em diferentes culturas.",
+            "application": "Reconhecer que as esculturas, apesar da distância temporal, apresentam características estéticas similares que indicam essa persistência."
+          },
+          {
+            "concept": "Influência vs. similaridade",
+            "keyIdea": "Diferenciar influência direta entre obras de similaridade decorrente de escolhas estilísticas independentes.",
+            "application": "Descartar a ideia de que uma obra copiou ou prestou homenagem direta à outra."
+          }
+        ],
+        "theoryParagraphs": [
+          "Ao longo da história da arte, certos padrões estéticos se repetem ou persistem devido a escolhas estilísticas que transcendem o tempo e a cultura. A simplificação de formas e o alongamento dos rostos observados nas esculturas indicam um estilo que não depende exclusivamente do contexto histórico, mas que pode refletir tendências universais ou concepções básicas sobre a forma humana.",
+          "A leitura comparativa entre obras permite identificar essas persistências estilísticas, entendendo que, mesmo sem conexão direta entre artistas ou culturas, é possível encontrar características semelhantes que apontam padrões estéticos universais.",
+          "É importante distinguir entre influência direta — quando uma obra é inspirada explicitamente em outra — e similaridade decorrente da repetição de formas ou estilos que se mostram relevantes em diferentes tempos e espaços."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, observa-se a escultura antiga, que apresenta formas simples e um rosto alongado, com ausência de detalhes minuciosos, conferindo-lhe um aspecto quase abstrato.",
+          "Em seguida, analisa-se a escultura moderna de Modigliani, que apresenta características similares, como o alongamento do rosto e a simplificação das feições.",
+          "A comparação direta evidencia que, apesar de afastadas temporalmente (mais de 2.500 anos) e culturalmente, ambas as esculturas compartilham padrões estéticos semelhantes.",
+          "Portanto, a leitura comparativa indica a persistência de padrões estéticos — um tipo de estilo que se mantém presente em diferentes épocas e culturas —, o que caracteriza a alternativa D como a correta."
+        ],
+        "puloDoGato": "Na comparação de obras de arte, foco nas características formais pode revelar padrões estéticos persistentes, independentemente da época ou cultura.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa sugere que a escultura moderna valoriza explicitamente a antiga, mas o enunciado não afirma isso, apenas indica similaridade estética."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Essa alternativa interpreta a resistência tecnológica como causa da semelhança, o que não é abordado pela questão."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "A simplificação atribuída ao material não é correta, pois as esculturas têm materiais diferentes, e a forma é resultado de estilo, não material."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta porque destaca que as esculturas apresentam semelhanças estilísticas que indicam a persistência de padrões estéticos através do tempo e de diferentes culturas."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A ausência de detalhes não caracteriza necessariamente arte popular, e a questão não aponta para essa interpretação."
+          }
+        ],
+        "questionCode": "LINGUAGENS_ARTES_ANALISE_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução e a explicação didática estão coerentes entre si, apresentando um caminho lógico claro até a resposta correta (alternativa D). A resolução oficial foi elaborada conforme as regras editoriais do ENEM, com linguagem clara e didática. Não foram encontradas inconsistências ou problemas relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 4102,
+    "outputTokens": 2305,
+    "estimatedCostUsd": 0.005329
+  }
+}

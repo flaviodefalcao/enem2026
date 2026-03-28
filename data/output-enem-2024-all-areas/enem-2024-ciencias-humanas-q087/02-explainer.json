@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:17:41.537Z",
+  "questionId": "enem-2024-ciencias-humanas-q087",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A democracia afirma que o poder deve ser exercido por todos os cidadãos coletivamente, conceito que é conhecido como soberania popular.",
+      "stepByStep": [
+        "Leia o enunciado com atenção para entender que ele pergunta quem deve exercer o poder público na democracia.",
+        "Observe que o texto diz que o poder público é exercido pela coletividade dos cidadãos, ou seja, por todos.",
+        "Reconheça que essa ideia é a definição de soberania popular, onde o poder político vem do povo e é exercido por ele.",
+        "Analise as alternativas para identificar qual delas corresponde a esse conceito.",
+        "Verifique que a alternativa A, 'Soberania popular', é a que melhor representa o que o texto explica."
+      ],
+      "commonPitfalls": [
+        "Confundir soberania popular com divisão de classes, pensando que o poder depende das classes sociais.",
+        "Associar o poder à posse de capital ou riqueza econômica, que não é o foco do texto.",
+        "Considerar que a defesa da propriedade é a base do poder, quando o texto fala da coletividade cidadã.",
+        "Pensar que o exercício do poder está ligado à centralização administrativa, mas o texto enfatiza o poder coletivo."
+      ],
+      "teachingTips": [
+        "Explique o conceito de soberania popular para que os alunos entendam que é o povo quem deve exercer o poder.",
+        "Faça com que os alunos identifiquem no texto as palavras-chave que indicam coletividade e participação geral.",
+        "Incentive a comparação entre os conceitos das alternativas para evitar confusões conceituais.",
+        "Use exemplos históricos e atuais para ilustrar a soberania popular e sua importância na democracia."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1424,
+    "outputTokens": 329,
+    "estimatedCostUsd": 0.001096
+  }
+}

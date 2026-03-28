@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:40:26.949Z",
+  "questionId": "enem-2024-linguagens-q002",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O marcador 'instead of' é usado para indicar uma substituição ou alternativa a uma ação mencionada anteriormente. No trecho da música, ele sugere trocar o comportamento de preparar bombas e ódio por amor e cuidado.",
+      "stepByStep": [
+        "Observe a ação negativa apresentada: 'polishing the bombs of holy war' (preparar bombas para guerra santa).",
+        "Identifique o conector 'instead of' que introduz uma alternativa a essa ação.",
+        "Leia as linhas anteriores à frase para encontrar as sugestões positivas, como 'love somebody' e 'care a little more'.",
+        "Entenda que 'instead of' mostra que o comportamento desejado é o amor e o cuidado, em substituição ao ódio e à guerra.",
+        "Conclua que o marcador evidencia a ideia de mudança de comportamento, contrastando ações negativas com positivas."
+      ],
+      "commonPitfalls": [
+        "Interpretar que 'instead of' reforça o contexto de guerra, em vez de apontar uma alternativa.",
+        "Focar somente no vocabulário isolado, como 'locked in', sem relacionar ao conector 'instead of'.",
+        "Associar diretamente o termo 'holy war' ao contexto religioso, sem perceber que o foco é a oposição sugerida pelo 'instead of'.",
+        "Confundir o conector 'instead of' com outros marcadores que indicam coisa diferente, como 'as well as' ou 'besides'.",
+        "Não perceber que a função de 'instead of' é mostrar substituição, e não apenas sequência ou consequência."
+      ],
+      "teachingTips": [
+        "Explique o significado do conector 'instead of' como um marcador de substituição ou alternativa.",
+        "Use exemplos simples para praticar a identificação de 'instead of' em outras frases e textos.",
+        "Estimule os alunos a lerem sempre as partes antes e depois do conector para entender o contraste ou substituição proposto.",
+        "Trabalhe com textos que tragam linguagem figurada para desenvolver a habilidade de inferência de sentido.",
+        "Destaque a importância de relacionar o conector ao contexto geral do texto, e não somente a palavras isoladas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1145,
+    "outputTokens": 428,
+    "estimatedCostUsd": 0.001143
+  }
+}

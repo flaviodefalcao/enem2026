@@ -1,0 +1,202 @@
+{
+  "questionId": "enem-2024-linguagens-q025",
+  "generatedAt": "2026-03-28T00:25:46.507Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1701,
+      "outputTokens": 785,
+      "estimatedCostUsd": 0.001936
+    },
+    "explainer": {
+      "inputTokens": 2325,
+      "outputTokens": 506,
+      "estimatedCostUsd": 0.00174
+    },
+    "reviewer": {
+      "inputTokens": 3762,
+      "outputTokens": 2450,
+      "estimatedCostUsd": 0.005425
+    },
+    "totalEstimatedCostUsd": 0.009101
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque a pintura apresenta características típicas do impressionismo, como efeitos fugazes de luz e movimento.",
+      "strategy": "Analisar as características visuais da pintura 'Três meninas no jardim' de Eliseu Visconti e relacioná-las com os principais movimentos artísticos citados nas alternativas.",
+      "steps": [
+        "Observar a pintura e identificar suas características principais: uso da luz, cor e movimento.",
+        "Lembrar os conceitos dos estilos artísticos mencionados nas alternativas: futurismo, cubismo, impressionismo, surrealismo e realismo.",
+        "Comparar a pintura com os estilos para determinar qual se encaixa melhor.",
+        "Identificar que a obra apresenta pinceladas soltas, vibrantes, com foco em captar a luz natural e o momento efêmero, que são marcas do impressionismo.",
+        "Confirmar que as outras alternativas não condizem com o estilo visual da obra.",
+        "Concluir que a alternativa correta é a C."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "A obra apresenta pinceladas soltas, efeito de luz natural e sensação de movimento, elementos típicos do impressionismo."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A pintura \"Três meninas no jardim\" de Eliseu Visconti apresenta características típicas do Impressionismo, como pinceladas soltas, uso da luz natural e a captura de um momento fugaz, elementos que ajudam a identificar seu estilo artístico.",
+      "stepByStep": [
+        "Observe atentamente a pintura, focando em como a luz, as cores e os movimentos são representados.",
+        "Conheça as principais características dos movimentos artísticos envolvidos: futurismo, cubismo, impressionismo, surrealismo e realismo.",
+        "Compare as características da obra com as descritas para cada movimento.",
+        "Note que a obra usa pinceladas leves e vibrantes, dando uma sensação de luz natural e de momento passageiro, típico do impressionismo.",
+        "Verifique que as outras opções apresentam elementos que não correspondem ao que se vê na pintura, como fragmentação (cubismo) ou temas oníricos (surrealismo).",
+        "Conclua que a alternativa correta é a C, que corresponde ao impressionismo."
+      ],
+      "commonPitfalls": [
+        "Confundir o tema do movimento presente na obra (como crianças no jardim) com o movimento artístico correto.",
+        "Associar erroneamente a fluidez da imagem ao futurismo, quando na verdade o futurismo foca mais em temas industriais e dinâmicos com linhas de movimento.",
+        "Interpretar formas complexas como cubistas, sem observar a ausência de fragmentação geométrica típica desse estilo.",
+        "Relacionar a composição com aspectos de sonho, equivocado ao ligar ao surrealismo, quando a obra é claramente figurativa.",
+        "Pegar elementos cotidianos e achar que a obra é realista, sem considerar a técnica impressionista de pinceladas soltas e ênfase na luz."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a estudarem as características visuais e conceitos essenciais de cada movimento artístico para facilitar a identificação de obras.",
+        "Utilize imagens e reproduções para que os alunos possam comparar estilos diretamente e desenvolver um olhar crítico.",
+        "Explore a relação entre o contexto histórico das obras e suas técnicas, ajudando a solidificar a compreensão dos movimentos artísticos.",
+        "Promova atividades que associem análise visual a teorias e conceitos artísticos, para integrar conhecimento teórico e prático.",
+        "Explique a importância das pinceladas, controle da luz, cor e composição como elementos chave para identificar o impressionismo.",
+        "Leve os alunos a evitar conclusões precipitadas baseadas apenas em temas superficiais, focando mais nos elementos estilísticos da obra."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode associar a temática do jardim com progresso e fluidez, confundindo com o futurismo.",
+        "misconceptionType": "Confusão conceitual entre movimentos artísticos",
+        "whyItLooksPlausible": "Porque o futurismo valoriza o movimento e a modernidade, conceitos relacionados ao progresso e fluidez.",
+        "whyItIsWrong": "A obra não apresenta linhas dinâmicas, fragmentação ou temas industriais característicos do futurismo."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato identifica formas e pensa que são decompostas, associando ao cubismo.",
+        "misconceptionType": "Interpretação errada de formas e estilos visuais",
+        "whyItLooksPlausible": "O cubismo trabalha a decomposição das formas, o que pode ser confundido com a complexidade das formas na pintura.",
+        "whyItIsWrong": "A obra não apresenta múltiplas perspectivas ou fragmentação geométrica típica do cubismo."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode pensar que a presença das meninas e a composição dão uma sensação de sonho, associando ao surrealismo.",
+        "misconceptionType": "Confusão entre atmosfera onírica e movimentos artísticos",
+        "whyItLooksPlausible": "O surrealismo explora o sonho e o inconsciente, elementos que podem ser interpretados subjetivamente na cena.",
+        "whyItIsWrong": "A pintura é claramente figurativa e naturalista, sem elementos fantásticos ou ilógicos típicos do surrealismo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode focar em elementos cotidianos, como crianças no jardim, e associar à arte realista.",
+        "misconceptionType": "Confusão entre temática e estilo pictórico",
+        "whyItLooksPlausible": "A presença de elementos do cotidiano remete à arte realista, que busca retratar o real.",
+        "whyItIsWrong": "A técnica da obra não é realista, mas impressionista, com pinceladas soltas e ênfase na luz, não na representação fiel dos detalhes."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de movimentos artísticos e interpretação visual",
+      "secondarySkills": [
+        "Reconhecimento de estilos pictóricos",
+        "Compreensão histórica da arte"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento prévio dos movimentos artísticos mencionados.",
+        "Requer análise visual da obra para associar características da pintura com os estilos.",
+        "É uma questão contextualizada em história da arte, comum na área de Linguagens do ENEM."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🖼️",
+      "shortThemeTitle": "Impressionismo na obra de Eliseu Visconti",
+      "interpretationIntro": "A questão apresenta uma pintura de Eliseu Visconti e solicita a identificação do movimento artístico a que ela pertence, com base nas características visuais da obra.",
+      "commandTerms": [
+        {
+          "term": "Identificar",
+          "explanation": "Reconhecer o movimento artístico representado na pintura a partir de suas características."
+        },
+        {
+          "term": "Analisar",
+          "explanation": "Examinar os elementos visuais da obra para classificá-la corretamente."
+        }
+      ],
+      "whatTheQuestionAsks": "Determinar a que movimento artístico a pintura 'Três meninas no jardim', de Eliseu Visconti, pertence, comparando suas características visuais com os estilos citados.",
+      "strategyParagraph": "O caminho consiste em analisar detalhadamente a técnica e os elementos visuais da obra, relacionando-os com os atributos conhecidos dos movimentos artísticos indicados nas alternativas. A identificação da pintura como uma obra impressionista se baseia em observar a aplicação da luz, as pinceladas vibrantes e a sensação de momento capturado, elementos típicos do impressionismo.",
+      "reviewTable": [
+        {
+          "concept": "Impressionismo",
+          "keyIdea": "Pinceladas soltas, uso da luz natural para captar momentos efêmeros",
+          "application": "Caracteriza a pintura dada pelas suas técnicas e efeitos de luz e cor."
+        },
+        {
+          "concept": "Futurismo",
+          "keyIdea": "Linhas dinâmicas, representações do movimento e modernidade industrial",
+          "application": "Ausente na obra, que não demonstra fragmentação nem temas industriais."
+        },
+        {
+          "concept": "Cubismo",
+          "keyIdea": "Fragmentação geométrica e múltiplas perspectivas",
+          "application": "Não corresponde à obra, que é figurativa e com formas completas."
+        },
+        {
+          "concept": "Surrealismo",
+          "keyIdea": "Elementos oníricos, ilógicos e fantásticos",
+          "application": "Incompatível, pois a obra é naturalista e figurativa sem características surrealistas."
+        }
+      ],
+      "theoryParagraphs": [
+        "O Impressionismo surgiu na França no final do século XIX e é marcado por técnicas que capturam a luz natural e os efeitos momentâneos da paisagem e da cena retratada. Caracteriza-se pelo uso de pinceladas soltas e vibração de cores para representar a sensação visual do instante, mais do que detalhes precisos.",
+        "O Futurismo, um movimento artístico do início do século XX, enfatiza o dinamismo, a velocidade e os temas ligados à modernidade e à tecnologia, com linhas fortes e fragmentação visual. O Cubismo promove a decomposição geométrica de formas e múltiplas perspectivas simultâneas.",
+        "Surrealismo desenvolve-se a partir de elementos do sonho, fantasia e inconsciente, apresentando imagens que desafiam a lógica e a realidade, o que não se observa na pintura analisada.",
+        "Portanto, a análise das características técnicas e temáticas da obra permite sua correta inserção no movimento impressionista, que é o mais coerente com a estética apresentada."
+      ],
+      "resolutionParagraphs": [
+        "Ao observar a pintura 'Três meninas no jardim', nota-se o uso de pinceladas soltas e a valorização da luz natural que cria um efeito de momento efêmero. Esses aspectos são indicativos claros do Impressionismo.",
+        "Analisando as alternativas, podemos excluir o Futurismo, pois a obra não apresenta linhas dinâmicas e fragmentação visual, características do movimento.",
+        "O Cubismo é descartado por não haver decomposição geométrica ou múltiplas perspectivas na obra.",
+        "O Surrealismo não é adequado, pois não há elementos oníricos ou fantásticos na composição, sendo ela figurativa e naturalista.",
+        "Por último, embora a cena retrate um momento cotidiano, a técnica aplicada difere do Realismo, pois o foco está na luz e no efeito visual e não na precisão detalhista do real.",
+        "Assim, o caminho lógico leva à alternativa C, que classifica a obra dentro do Impressionismo, o que é confirmado pela análise visual e histórica da obra de Visconti."
+      ],
+      "puloDoGato": "Foque nas características técnicas da pintura, especialmente o uso da luz e das pinceladas; isso indicará o movimento verdadeiro, independentemente do tema representado.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "O futurismo valoriza o movimento e modernidade com linhas dinâmicas, ausentes na obra de Visconti."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A pintura não apresenta fragmentação geométrica ou múltiplas perspectivas, afastando o cubismo."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "A obra apresenta pinceladas soltas, efeito de luz natural e sensação de movimento, características do impressionismo."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "A pintura é figurativa e naturalista, sem elementos oníricos ou fantásticos do surrealismo."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Apesar do tema cotidiano, a técnica não é realista, mas impressionista, evidenciando o foco na luz e na cor."
+        }
+      ],
+      "questionCode": "LINGUAGENS_HISTORIADAARTE_MULTIPLAESCOLHA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si. A resolução segue uma linha clara, didática e pertinente ao estilo impressionista da obra apresentada. As alternativas estão comentadas de forma adequada, tornando clara a justificativa da alternativa correta. A linguagem está acessível e objetiva, adequada para o público do ENEM.",
+      "issues": []
+    }
+  }
+}

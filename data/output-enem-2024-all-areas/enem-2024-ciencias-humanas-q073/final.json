@@ -1,0 +1,193 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q073",
+  "generatedAt": "2026-03-28T01:03:44.856Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 730,
+      "outputTokens": 892,
+      "estimatedCostUsd": 0.001719
+    },
+    "explainer": {
+      "inputTokens": 1532,
+      "outputTokens": 490,
+      "estimatedCostUsd": 0.001397
+    },
+    "reviewer": {
+      "inputTokens": 2950,
+      "outputTokens": 2440,
+      "estimatedCostUsd": 0.005084
+    },
+    "totalEstimatedCostUsd": 0.0082
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque a questão trata da renovação ocorrida nas capas dos folhetos de cordel com a utilização da xilogravura, técnica que influencia diretamente a forma visual e artística desses folhetos, configurando uma renovação da estética editorial.",
+      "strategy": "Interpretar o texto para identificar a que aspecto a técnica de xilogravura aplicada nas capas dos folhetos de cordel se refere, avaliando as opções de resposta e relacionando com conceitos literários, jornalísticos, culturais e industriais, para então escolher a alternativa que melhor reflete a transformação visual e artística decorrente da técnica.",
+      "steps": [
+        "Ler e compreender o enunciado, que trata da produção artística das capas dos folhetos de cordel por meio de xilogravura.",
+        "Identificar que a técnica referida é a xilogravura na umburana, usada para criar ilustrações dos folhetos.",
+        "Entender que o foco está na transformação das capas, ou seja, na parte visual e artística dos folhetos.",
+        "Analisar as alternativas para identificar qual delas se relaciona com a transformação visual e artística editorial.",
+        "Descartar alternativas que tratam de manifestação jornalística, narrativa literária, indústria regional e cultura erudita, pois o texto enfatiza a técnica ilustrativa aplicada nas capas.",
+        "Selecionar a alternativa D, que fala em estética editorial, relacionada ao aspecto visual e gráfico das capas dos folhetos de cordel."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Não se aplicam imagens visuais para resolver a questão, apenas o texto dado foi utilizado."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A questão aborda a renovação das capas dos folhetos de cordel com a técnica de xilogravura, que trouxe uma transformação na estética visual e artística dessas publicações populares. A alternativa correta é a D, pois destaca essa renovação estética editorial, que é o principal impacto da técnica na produção dos folhetos.",
+      "stepByStep": [
+        "Leia atentamente o texto, identificando que ele fala sobre a produção das capas dos folhetos de cordel usando xilogravura.",
+        "Compreenda que xilogravura é uma técnica artística para fazer ilustrações, neste caso aplicadas nas capas dos folhetos.",
+        "Observe que o texto refere-se à transformação visual dessas capas, mostrando a renovação provocada pela técnica.",
+        "Analise cada alternativa, verificando se fala sobre mudança na arte e na estética das capas, ou se trata de outros aspectos como jornalismo, narrativa, indústria ou cultura erudita.",
+        "Descartar as alternativas que não focam na transformação artística e visual das capas, pois o enunciado enfatiza essa renovação estética.",
+        "Escolha a alternativa D, que refere a renovação na estética editorial das capas, refletindo corretamente a informação do texto."
+      ],
+      "commonPitfalls": [
+        "Confundir manifestação jornalística com arte visual, pensando que a inovação foi na comunicação do folheto e não na ilustração.",
+        "Associar a renovação diretamente à narrativa literária, quando o texto fala da capa e técnica artística.",
+        "Interpretar a técnica como um impulso para a indústria regional, em vez de um impacto artístico e visual.",
+        "Classificar o folheto de cordel como cultura erudita pela técnica artística, apesar de ser manifestação da cultura popular."
+      ],
+      "teachingTips": [
+        "Explique a importância da xilogravura como técnica popular de ilustração, especialmente nos folhetos de cordel.",
+        "Destaque a diferença entre forma visual/artística e conteúdo literário ou jornalístico, para evitar confusões conceituais.",
+        "Utilize exemplos reais ou imagens de folhetos de cordel para evidenciar a transformação estética pelas ilustrações.",
+        "Estimule o aluno a ler atentamente e relacionar o texto com as alternativas de forma crítica, focando na correspondência direta com o enunciado.",
+        "Trabalhe o conceito de estética editorial para demonstrar como as técnicas artísticas influenciam a produção cultural popular."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer correta pois o folheto de cordel é um produto cultural que, às vezes, é associado a uma forma de comunicação popular, semelhante a jornais.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "As capas ilustradas poderiam ser vistas como parte de uma manifestação jornalística por serem impressas e populares.",
+        "whyItIsWrong": "O texto destaca a técnica de xilogravura para ilustrações, não o conteúdo jornalístico, e a manifestação jornalística não é o foco da renovação mencionada."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O folheto de cordel é uma forma narrativa, então pode parecer que a técnica influenciou a narrativa literária.",
+        "misconceptionType": "Confusão entre forma e conteúdo",
+        "whyItLooksPlausible": "Pode-se pensar que a renovação visual impacta diretamente a narrativa literária do folheto.",
+        "whyItIsWrong": "A renovação mencionada é estética, relacionada à ilustração das capas, não altera a estrutura ou conteúdo narrativo literário."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A técnica poderia parecer ter impulsionado a indústria local devido à produção de clichês e uso da madeira regional.",
+        "misconceptionType": "Erro de foco",
+        "whyItLooksPlausible": "O uso da madeira umburana abundante e o trabalho de artesãos locais sugerem impacto econômico e industrial regional.",
+        "whyItIsWrong": "O texto destaca especificamente a transformação estética das capas, não uma expansão ou mudança industrial."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A técnica poderia ser confundida com algo ligado à cultura elevada por se tratar de uma técnica artística.",
+        "misconceptionType": "Classificação cultural errada",
+        "whyItLooksPlausible": "Xilogravura é uma técnica artística tradicional e pode parecer associada à cultura erudita.",
+        "whyItIsWrong": "O folheto de cordel é uma manifestação da cultura popular, não erudita, e o texto trata da renovação na estética editorial popular."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de texto e interpretação histórica-cultural",
+      "secondarySkills": [
+        "Conhecimento de manifestações culturais brasileiras",
+        "Raciocínio crítico",
+        "Identificação de técnicas artísticas"
+      ],
+      "cognitiveDemand": "Compreensão e análise contextual",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento sobre folheto de cordel e xilogravura.",
+        "Necessita compreensão de termos como estética editorial.",
+        "Importante diferenciar os aspectos culturais e técnicos mencionados."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🖼️",
+      "shortThemeTitle": "Xilogravura e estética editorial nos folhetos de cordel",
+      "interpretationIntro": "A questão solicita analisar a influência da técnica de xilogravura na produção das capas dos folhetos de cordel e identificar o aspecto renovado por essa técnica.",
+      "commandTerms": [
+        {
+          "term": "Xilogravura",
+          "explanation": "Técnica artística de gravura realizada em madeira, usada para criar imagens e ilustrações."
+        },
+        {
+          "term": "Estética editorial",
+          "explanation": "Aspecto visual e artístico das publicações impressas, como capas e diagramação."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede que se reconheça qual foi a renovação provocada pela incorporação da técnica de xilogravura nas capas dos folhetos de cordel no início do século XX.",
+      "strategyParagraph": "Para responder, deve-se interpretar o texto atentamente, identificando que a técnica de xilogravura foi usada para ilustrar as capas, e relacionar com as opções dadas para escolher aquela que indica a renovação estética e visual dessas publicações populares.",
+      "reviewTable": [
+        {
+          "concept": "Xilogravura",
+          "keyIdea": "Técnica de gravura em madeira usada na produção artística.",
+          "application": "Utilizada para produzir as ilustrações nas capas dos folhetos de cordel."
+        },
+        {
+          "concept": "Estética editorial",
+          "keyIdea": "Mudança visual e artística na apresentação de publicações.",
+          "application": "Renovação visual das capas dos folhetos promovida pela xilogravura."
+        },
+        {
+          "concept": "Folheto de cordel",
+          "keyIdea": "Manifestação cultural popular com textos e ilustrações.",
+          "application": "Publicação cujo formato e capa foram renovados pela xilogravura."
+        }
+      ],
+      "theoryParagraphs": [
+        "A xilogravura é uma técnica tradicional de impressão que utiliza matrizes de madeira para criar imagens em relevo. Essa técnica tem forte presença na cultura popular brasileira, principalmente na produção dos folhetos de cordel, nos quais as capas ilustradas são fundamentais para atrair leitores.",
+        "O folheto de cordel é uma forma literária de tradição oral e popular, impressa de maneira simples e acessível. A estética editorial dessas publicações, especialmente suas capas, é enriquecida pela xilogravura, que valoriza o aspecto visual e torna o folheto mais atraente e culturalmente significativo.",
+        "A renovação mencionada no texto refere-se ao impacto da xilogravura na estética editorial, evidenciando uma mudança na forma como essas publicações eram apresentadas ao público, sem alterar necessariamente o conteúdo literário ou outras dimensões culturais."
+      ],
+      "resolutionParagraphs": [
+        "Ao ler o texto, nota-se que a técnica de produção mencionada é a xilogravura feita em madeira umburana para produzir as capas dos folhetos de cordel.",
+        "O enfoque está na transformação das capas, que antes demoravam para ficarem prontas, e passam a ser produzidas localmente, com influência visual direta na estética do folheto.",
+        "Ao analisar as alternativas, percebe-se que a renovação não está ligada à manifestação jornalística, nem à narrativa literária, indústria regional ou cultura erudita.",
+        "Assim, a alternativa que melhor expressa a renovação causada pela xilogravura é a D, que indica uma mudança na estética editorial das capas dos folhetos de cordel, refletindo a transformação visual e artística destacada no texto."
+      ],
+      "puloDoGato": "Foque na diferença entre conteúdo literário e forma visual: a xilogravura renova a estética editorial, ou seja, as capas, não o texto dos folhetos.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora pareça relacionada por ser algo impresso e popular, a alternativa A está errada porque o texto destaca uma renovação visual das capas, não uma manifestação jornalística."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A alternativa B erra ao associar a técnica à narrativa literária, que não sofre alteração; a renovação é estética, ligada às ilustrações das capas."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A C identifica um possível impacto na indústria regional, mas o foco do texto é a produção artística, não um desenvolvimento industrial."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Correta. A alternativa D destaca a renovação da estética editorial nas capas dos folhetos de cordel, que é o principal efeito da incorporação da xilogravura."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A E confunde a cultura popular com erudita. O folheto de cordel é manifestação popular, e o texto se refere à renovação desta estética."
+        }
+      ],
+      "questionCode": "CH_CIENCIA_HUMANA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "Enunciado, solução técnica e explicação didática estão alinhados e coerentes. A resolução oficial segue estrutura editorial exigida, comentando todas as alternativas e indicando corretamente a resposta D.",
+      "issues": []
+    }
+  }
+}

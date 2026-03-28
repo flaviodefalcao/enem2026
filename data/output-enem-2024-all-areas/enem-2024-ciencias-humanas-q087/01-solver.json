@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:17:35.660Z",
+  "questionId": "enem-2024-ciencias-humanas-q087",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque o texto enfatiza que o poder público deve ser exercido pela coletividade dos cidadãos, ou seja, por todos, configurando a ideia de soberania popular.",
+      "strategy": "Ler atentamente o texto para identificar o conceito político central que sustenta o exercício do poder segundo a definição democrática apresentada.",
+      "steps": [
+        "Ler o enunciado atentamente, entendendo que a democracia responde a quem deve exercer o poder público.",
+        "Identificar que o texto diz que o poder público deve ser exercido pela coletividade dos cidadãos, ou seja, todos devem mandar e intervir nos fatos sociais.",
+        "Reconhecer que esta ideia corresponde ao conceito de soberania popular, onde o poder emana do povo e é exercido por ele coletivo.",
+        "Analisar as alternativas para verificar qual corresponde ao conceito identificado.",
+        "Confirmar que a alternativa A (Soberania popular) corresponde corretamente ao conceito identificado no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Não há imagens relacionadas diretamente ao conteúdo da questão que influenciem a solução."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o conceito de poder social com a divisão de classes na sociedade, pensando que o poder deriva da estrutura de classes.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Como a divisão de classes é um tema comum em discussões políticas, pode parecer que o poder público seja baseado nisso.",
+        "whyItIsWrong": "O texto não menciona classes sociais, mas a coletividade como base do exercício do poder."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar o exercício do poder à força econômica, ou seja, o acúmulo de capital como a base do poder político.",
+        "misconceptionType": "Redução econômica do poder",
+        "whyItLooksPlausible": "O capital influencia bastante a política, levando a crer que a democracia deve estar baseada nisso.",
+        "whyItIsWrong": "O texto destaca a coletividade dos cidadãos, não uma base econômica ou material para o exercício do poder."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que a proteção da propriedade é a base do poder público na democracia.",
+        "misconceptionType": "Generalização equivocada",
+        "whyItLooksPlausible": "Propriedade é frequentemente associada a regras e poder.",
+        "whyItIsWrong": "O enunciado não trata da propriedade, mas do exercício do poder pelos cidadãos coletivamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que o poder centralizado e administrado é a base da autoridade política.",
+        "misconceptionType": "Confusão entre centralização administrativa e exercício democrático do poder",
+        "whyItLooksPlausible": "Muitos relacionam poder a estruturas administrativas centrais.",
+        "whyItIsWrong": "O texto ressalta o exercício coletivo do poder, oposto à centralização estrita."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto político-filosófico",
+      "secondarySkills": [
+        "Conhecimento em teoria política",
+        "Análise crítica",
+        "Raciocínio conceitual"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretação de texto para identificar conceitos políticos importantes.",
+        "Não há necessidade de cálculo ou conhecimento matemático.",
+        "A imagem presente no enunciado é apenas referência bibliográfica e não contribui para a solução.",
+        "Exige entendimento da ideia de soberania popular para responder corretamente."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 786,
+    "outputTokens": 729,
+    "estimatedCostUsd": 0.001481
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-27T23:40:54.984Z",
+  "questionId": "enem-2024-linguagens-q002",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa 'A' está correta pois o marcador 'instead of' indica a substituição da ação negativa 'polishing the bombs of holy war' por um comportamento positivo sugerido na letra da música: amar e cuidar mais.",
+        "strategy": "Analisar o sentido do conector 'instead of' no contexto do texto musical, identificando sua função de indicar alternativa ou substituição.",
+        "steps": [
+          "Localizar a ação negativa mencionada: 'polishing the bombs of holy war'.",
+          "Identificar o conector 'instead of' que introduz uma alternativa a essa ação.",
+          "Relacionar as linhas anteriores que sugerem amor e cuidado como comportamentos opostos.",
+          "Compreender que 'instead of' propõe substituição do comportamento negativo pelo positivo.",
+          "Confirmar que a função do marcador é indicar mudança de conduta, de ódio para amor."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O marcador 'instead of' expressa a ideia de substituição ou alternativa, ou seja, apresenta uma mudança de atitude que a letra da música sugere frente ao comportamento anterior.",
+        "stepByStep": [
+          "Note a referência à ação negativa 'polishing the bombs of holy war'.",
+          "Reconheça 'instead of' como conector que propõe uma alternativa a essa ação.",
+          "Leia as frases anteriores que indicam amor e cuidado como opções.",
+          "Entenda que o marcador sugere trocar o comportamento agressivo pelo amoroso.",
+          "Conclusão: 'instead of' evidencia mudança de comportamento, do negativo para o positivo."
+        ],
+        "commonPitfalls": [
+          "Confundir 'instead of' com marcador que reforça a guerra ou conflito.",
+          "Focar só em palavras isoladas sem vincular ao conector.",
+          "Interpretar 'holy war' apenas como referência religiosa, sem considerar o contraste.",
+          "Confundir 'instead of' com conectores que indicam adição ou consequência.",
+          "Não compreender que 'instead of' indica substituição, não sequência."
+        ],
+        "teachingTips": [
+          "Explique 'instead of' como marcador de substituição ou alternativa.",
+          "Pratique com exemplos simples para fixar o uso do conector.",
+          "Incentive ler o contexto antes e depois do conector para entender seu efeito.",
+          "Utilize textos com linguagem figurada para aprimorar a inferência.",
+          "Mostre a importância de interpretar conectores dentro do contexto completo."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode focar no contexto de conflito e guerra sugerido pelas palavras 'holy war' e 'bombs', interpretando que o marcador confirma o cenário bélico.",
+          "misconceptionType": "Interpretação parcial",
+          "whyItLooksPlausible": "O termo 'holy war' e as referências a bombas remetem diretamente a guerras e conflitos.",
+          "whyItIsWrong": "O conector 'instead of' serve para contrapor e sugerir substituição, não para confirmar ou reforçar o conflito."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "A expressão 'keep yourself locked in' pode levar o aluno a pensar que a questão se refere a isolamento ou rotina fechada.",
+          "misconceptionType": "Foco em vocabulário isolado",
+          "whyItLooksPlausible": "'Locked in' sugere encerramento ou isolamento.",
+          "whyItIsWrong": "O trecho com 'instead of' não destaca isolamento, mas mudança de atitude de ódio para amor."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Referências explícitas a armas e guerra podem levar à interpretação literal do trecho, focalizando o aspecto militar.",
+          "misconceptionType": "Interpretação literal",
+          "whyItLooksPlausible": "'Polishing the bombs of holy war' é frase nitidamente bélica.",
+          "whyItIsWrong": "O 'instead of' funciona como contraponto, propondo mudança, não reforçando a guerra."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O termo 'holy war' pode ser associado diretamente ao contexto religioso, levando à interpretação limitada.",
+          "misconceptionType": "Associação direta",
+          "whyItLooksPlausible": "'Holy war' é expressão ligada a conflitos religiosos.",
+          "whyItIsWrong": "Embora haja conotação religiosa, o foco do conector é no contraste entre ódio/guerra e amor/cuidado."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto",
+        "secondarySkills": [
+          "Análise linguística",
+          "Compreensão de conectivos",
+          "Inferência de sentido"
+        ],
+        "cognitiveDemand": "Medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Texto em linguagem figurada – letra de música.",
+          "Foco na compreensão do conector 'instead of'.",
+          "Necessita inferência do sentido geral e intenção comunicativa da letra."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🎵",
+        "shortThemeTitle": "Função do conector 'instead of'",
+        "interpretationIntro": "A pergunta solicita a interpretação do marcador 'instead of' presente na letra da música, cujo contexto aborda ódio e intolerância.",
+        "commandTerms": [
+          {
+            "term": "instead of",
+            "explanation": "Conector que introduz alternativa ou substituição a algo mencionado anteriormente."
+          },
+          {
+            "term": "interpretação",
+            "explanation": "Compreensão do sentido e da função do conector no texto."
+          }
+        ],
+        "whatTheQuestionAsks": "O que o marcador 'instead of' introduz em relação ao trecho precedente da letra da canção?",
+        "strategyParagraph": "Para responder, é essencial analisar o trecho em que o conector aparece, identificar a ação ou comportamento que ele substitui e relacionar com as atitudes sugeridas anteriormente no texto, observando o contraste que estabelece.",
+        "reviewTable": [
+          {
+            "concept": "Conector 'instead of'",
+            "keyIdea": "Indica substituição ou alternativa a uma ação anterior.",
+            "application": "Substituir o preparo para guerra por amor e cuidado."
+          },
+          {
+            "concept": "Contexto do texto",
+            "keyIdea": "Letra aborda ódio e intolerância com linguagem figurada.",
+            "application": "Reconhecer que a mensagem é provocar reflexão e mudança comportamental."
+          },
+          {
+            "concept": "Interpretação de sentido",
+            "keyIdea": "Compreender intenção comunicativa e efeito do conector no poema musical.",
+            "application": "Interpretar o conector como convite a mudança, não como reforço de conflito."
+          }
+        ],
+        "theoryParagraphs": [
+          "O conector 'instead of' é usado em inglês para indicar uma ação que deve ser feita em substituição a outra, ou seja, introduz uma alternativa ou preferência distinta daquela anteriormente mencionada. Em textos que explorem conflitos ou oposições, como em letras musicais, esse conector gera contraste conceptual importante para a mensagem.",
+          "Compreender conectores e marcadores discursivos é fundamental para a interpretação textual, pois apontam relações lógicas entre ideias, condições, alternativas, consequências ou explicações. Saber reconhecer 'instead of' ajuda a inferir a intenção do autor e a direção do discurso.",
+          "Em linguagens figuradas, típicas de letras de música, é necessário interpretar símbolos e metáforas, relacionando-os ao contexto geral para captar a mensagem transmitida, especialmente quando há uso de expressões que podem ser tomadas ao pé da letra."
+        ],
+        "resolutionParagraphs": [
+          "O trecho apresenta 'polishing the bombs of holy war' como uma ação negativa ligada à guerra santa e ódio. O conector 'instead of' aparece logo após, indicando que algo diferente deve ser feito no lugar daquela ação.",
+          "Na sequência do texto, são sugeridas ações positivas: 'love somebody' e 'care a little more', que contrapõem diretamente o ódio e a preparação de armas.",
+          "Assim, 'instead of' introduz a ideia de substituição do comportamento agressivo pela demonstração de amor e cuidado, sinalizando mudança de atitude e rejeição à intolerância.",
+          "Portanto, a função do marcador é apresentar alternativa a um comportamento destrutivo, confirmando que a resposta correta é a alternativa 'A'."
+        ],
+        "puloDoGato": "Foque na função do conector 'instead of': ele expressa substituição, não confirmação ou continuidade.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta. 'Instead of' indica substituição da ação negativa por uma alternativa positiva presente na letra."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. Confunde a função do conector com descrição ou reforço do conflito."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. Confunde expressão isolada 'locked in' com a ideia do conector 'instead of'."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. Compreensão literal que ignora o contraste proposto por 'instead of'."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta. Enfatiza aspecto religioso, mas perde o foco no sentido de substituição que o conector indica."
+          }
+        ],
+        "questionCode": "LENGUAGENS_INTERPRETACAO_MULTIPLAESCOLHA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução está coerente e consistente com o enunciado e as saídas anteriores. A análise do conector 'instead of' e as justificativas das alternativas foram feitas com clareza e profundidade didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2500,
+    "outputTokens": 1909,
+    "estimatedCostUsd": 0.004054
+  }
+}

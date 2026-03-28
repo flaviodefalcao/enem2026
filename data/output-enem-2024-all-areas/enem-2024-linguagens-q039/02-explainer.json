@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:37:11.081Z",
+  "questionId": "enem-2024-linguagens-q039",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que o preconceito contra Adoniran Barbosa surgiu porque ele usava a linguagem coloquial, considerada 'falar errado' pela norma-padrão formal da língua portuguesa. Essa transgressão à norma padrão gerava rejeição, caracterizando preconceito linguístico, apesar da escolha artística e da identificação do público.",
+      "stepByStep": [
+        "Leia o texto atentamente para entender como Adoniran Barbosa usava a linguagem coloquial em suas músicas.",
+        "Observe que o texto mostra que esse 'falar errado' é proposital e artístico, ligado ao estilo do compositor.",
+        "Reconheça que o preconceito aparece porque essa linguagem não segue a norma-padrão, considerada correta pela sociedade na época.",
+        "Compare as alternativas para identificar qual relaciona o preconceito ao uso do português fora da norma-padrão.",
+        "Descarte opções que falam de consequências não mencionadas no texto, como dificuldade de compreensão ou limitação poética.",
+        "Escolha a alternativa que explica o preconceito linguístico pela transgressão da norma-padrão, conforme indicado no texto."
+      ],
+      "commonPitfalls": [
+        "Confundir o uso artístico da linguagem coloquial com falta de habilidade ou ignorância linguística.",
+        "Associar o preconceito ao estilo cômico ou à pior compreensão das músicas, sendo que o texto mostra o contrário.",
+        "Entender que a linguagem fora da norma limita a criação poética, quando o texto valoriza a escolha artística de Adoniran.",
+        "Ignorar o conceito de norma-padrão e preconceito linguístico, focando apenas na linguagem informal como erro absoluto."
+      ],
+      "teachingTips": [
+        "Explique o conceito de norma-padrão e suas variações linguísticas para que os alunos compreendam o preconceito linguístico.",
+        "Use exemplos de linguagem coloquial em canções, poesias ou falas cotidianas para mostrar que o uso 'não padrão' pode ser estilisticamente válido.",
+        "Encoraje a leitura crítica para distinguir entre julgamento de valor sobre a linguagem e reconhecimento de sua função social e cultural.",
+        "Trabalhe a importância da diversidade linguística e respeitar variações sem preconceitos, especialmente em contextos artísticos.",
+        "Proponha atividades que relacionem o texto com conceitos de linguística, sociolinguística e interpretação textual para fixar o conteúdo."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1634,
+    "outputTokens": 471,
+    "estimatedCostUsd": 0.001407
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:12:25.171Z",
+  "questionId": "enem-2024-ciencias-humanas-q082",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque o texto ilustra um raciocínio indutivo, onde o peru baseia sua conclusão na observação repetida de um evento particular (alimentação às 9 da manhã) para inferir uma generalização universal (sempre é alimentado às 9).",
+      "strategy": "Identificar o tipo de raciocínio descrito pelo personagem a partir da análise do texto e relacioná-lo com conceitos conhecidos de tipos de raciocínio (indutivo, dedutivo, analógico, etc.).",
+      "steps": [
+        "Ler o texto atentamente, observando como o peru observa repetidamente a alimentação às 9 horas.",
+        "Identificar que ele usa observações particulares para formar uma conclusão geral.",
+        "Reconhecer que isso caracteriza um raciocínio indutivo, que parte do específico para o geral.",
+        "Comparar com as alternativas dadas e escolher a que melhor corresponde a essa definição.",
+        "Verificar que a alternativa C descreve o raciocínio indutivo corretamente."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode pensar que o peru está agindo de forma prática porque recolhe evidências, associando isso a uma ação prática.",
+        "misconceptionType": "Confusão conceitual entre raciocínio prático e indutivo.",
+        "whyItLooksPlausible": "Porque o texto fala da coleta de evidências, que pode ser associada à prática.",
+        "whyItIsWrong": "A alternativa não destaca o aspecto de inferir leis universais a partir das observações, foco do raciocínio indutivo."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que o peru busca apenas confirmações e ignora refutações, associando a um raciocínio absoluto.",
+        "misconceptionType": "Confusão com viés de confirmação em raciocínios científicos.",
+        "whyItLooksPlausible": "O texto fala que o peru esperou uma grande quantidade de observações antes de concluir.",
+        "whyItIsWrong": "O texto não indica que o peru bloqueia refutações, apenas que observou várias ocasiões para reforçar sua conclusão."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O aluno confunde raciocínio demonstrativo (dedutivo) com a elaboração de conclusões a partir de premissas.",
+        "misconceptionType": "Confusão entre raciocínio dedutivo e indutivo.",
+        "whyItLooksPlausible": "Porque fala em conclusão e encadeamento de ideias.",
+        "whyItIsWrong": "No texto, a conclusão não parte de premissas garantidas, mas de observações repetidas, caracterizando um raciocínio indutivo, não dedutivo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O aluno pode interpretar a menção a observações em diferentes contextos como comparação entre situações.",
+        "misconceptionType": "Confusão entre raciocínio analógico e indutivo.",
+        "whyItLooksPlausible": "O texto menciona a observação em diferentes circunstâncias, sugerindo comparação.",
+        "whyItIsWrong": "O peru não compara duas ou mais situações diferentes para inferir, mas observa um mesmo evento em diversos contextos para generalizar."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Identificação e análise de tipos de raciocínio lógico",
+      "secondarySkills": [
+        "Leitura e interpretação textual",
+        "Conhecimento de conceitos filosóficos e científicos"
+      ],
+      "cognitiveDemand": "Medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão avalia o entendimento dos tipos de raciocínio, especialmente o raciocínio indutivo.",
+        "Não há recursos visuais para serem utilizados na resolução.",
+        "O texto traz um exemplo clássico de indução usado em filosofia da ciência."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 703,
+    "outputTokens": 794,
+    "estimatedCostUsd": 0.001552
+  }
+}

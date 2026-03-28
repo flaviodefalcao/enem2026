@@ -1,0 +1,183 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:48:04.426Z",
+  "questionId": "enem-2024-ciencias-humanas-q053",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A resposta correta é C, declividade do relevo local.",
+        "strategy": "Analisar a relação entre a velocidade e o tempo de duração das inundações no gráfico, associando à característica física do relevo que influencia o escoamento da água.",
+        "steps": [
+          "Observar que a inundação brusca apresenta alta velocidade, mas curta duração.",
+          "Notar que a inundação gradual tem velocidade menor e duração maior.",
+          "Relacionar essas diferenças à topografia do terreno, especificamente à declividade do relevo.",
+          "Reconhecer que em relevo íngreme a água escoa rápido, causando enchentes rápidas e curtas.",
+          "Em relevo plano, o escoamento é lento, com inundações graduais e duradouras.",
+          "Descartar outras variáveis que não explicam diretamente essa dinâmica, como variabilidade solar, temperatura, dinâmica tectônica e turbidez fluvial."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Gráfico velocidade versus tempo para tipos de inundação."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A declividade do relevo local determina como a água escoa, o que explica as diferenças de velocidade e duração entre inundações bruscas e graduais.",
+        "stepByStep": [
+          "Observe o gráfico que mostra diferença entre os tipos de inundação.",
+          "Note a alta velocidade e curta duração na inundação brusca.",
+          "Verifique que a inundação gradual apresenta menor velocidade e maior tempo de duração.",
+          "Entenda que relevo íngreme acelera o escoamento e relevo plano desacelera.",
+          "Compreenda que relevo é fator-chave para diferenciar o tipo de inundação.",
+          "Reconheça que outras alternativas não explicam adequadamente essa relação."
+        ],
+        "commonPitfalls": [
+          "Confundir fatores climáticos com geomorfológicos.",
+          "Associar dinâmicas tectônicas de longo prazo a eventos imediatos.",
+          "Pensar que turbidez da água influencia diretamente a velocidade da inundação."
+        ],
+        "teachingTips": [
+          "Usar exemplos reais de enchentes em diferentes relevos.",
+          "Explorar dados do gráfico para desenvolver interpretação crítica.",
+          "Diferenciar claramente fatores climáticos e físicos na formação das inundações.",
+          "Incentivar análise baseada em evidências visuais e conceituais.",
+          "Utilizar mapas para demonstrar efeito da topografia no escoamento."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pensa que variabilidade solar afeta clima e inundações.",
+          "misconceptionType": "Confusão climática-geomorfológica.",
+          "whyItLooksPlausible": "Pode parecer que variações solares influenciam chuvas.",
+          "whyItIsWrong": "Não explica a diferença da velocidade e duração da inundação mostrada."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Assume que temperatura influencia evaporação e volume da inundação.",
+          "misconceptionType": "Confunde temperatura com dinâmica do escoamento.",
+          "whyItLooksPlausible": "A temperatura impacta processos ambientais.",
+          "whyItIsWrong": "Não determina velocidade nem duração de inundações."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Acredita que tectônica altera terreno e afeta inundações recentes.",
+          "misconceptionType": "Associação incorreta entre processos tectônicos e eventos rápidos.",
+          "whyItLooksPlausible": "Tectônica muda relevo a longo prazo.",
+          "whyItIsWrong": "Escala temporal é muito maior para impactar inundações imediatas."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Imagina que turbidez influencia a qualidade da água e seu comportamento.",
+          "misconceptionType": "Confunde qualidade da água com dinâmica de inundação.",
+          "whyItLooksPlausible": "Turbidez está relacionada ao sedimento e fluxo de água.",
+          "whyItIsWrong": "Não é fator determinante para velocidade ou duração da inundação."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de gráficos e conhecimento geográfico",
+        "secondarySkills": [
+          "Conhecimento sobre desastres naturais",
+          "Relação entre relevo e dinâmica hídrica"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão geográfica e habilidade para interpretar gráfico.",
+          "Essencial entender relação relevo-escoamento superficial.",
+          "Avalia conhecimento sobre fatores naturais impactando inundações."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Inundações e relevo",
+        "interpretationIntro": "O enunciado apresenta um gráfico comparativo entre inundação brusca e gradual e questiona qual fator físico-geográfico condiciona essa diferença de velocidade e duração.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar detalhadamente o gráfico e relacionar com conceitos geográficos relevantes."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Estabelecer conexão entre os dados do gráfico e a característica física do relevo."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar o fator que explica a diferença entre a velocidade e o tempo de duração de inundação brusca e gradual mostradas no gráfico.",
+        "strategyParagraph": "A estratégia envolve observar o gráfico para perceber as diferenças nas curvas de velocidade e duração entre os dois tipos de inundação, entendendo que essa variação é resultado da topografia do relevo local, principalmente da sua declividade, que influencia a rapidez com que a água escoa e permanece no terreno.",
+        "reviewTable": [
+          {
+            "concept": "Declividade do relevo",
+            "keyIdea": "Influencia velocidade e duração do escoamento da água.",
+            "application": "Explica a diferença entre inundação brusca (relevo íngreme) e gradual (relevo plano)."
+          },
+          {
+            "concept": "Inundação brusca",
+            "keyIdea": "Alta velocidade, curta duração.",
+            "application": "Ocorre em relevo íngreme com escoamento rápido."
+          },
+          {
+            "concept": "Inundação gradual",
+            "keyIdea": "Baixa velocidade, longa duração.",
+            "application": "Ocorre em relevo plano com escoamento lento."
+          }
+        ],
+        "theoryParagraphs": [
+          "A declividade do relevo é um dos principais fatores que determinam o escoamento superficial das águas pluviais. Em terrenos íngremes, a água tende a escoar rapidamente, gerando inundações rápidas e de curta duração, denominadas inundações bruscas.",
+          "Por outro lado, em áreas com relevo plano, o escoamento é mais lento, o que propicia que a água permaneça por mais tempo, causando inundações graduais e duradouras.",
+          "Outros fatores ambientais, como variabilidade solar, temperatura, dinâmicas tectônicas e turbidez da água, não explicam as características imediatas de velocidade e duração das inundações evidenciadas no gráfico."
+        ],
+        "resolutionParagraphs": [
+          "Observando o gráfico, nota-se que a inundação brusca apresenta um pico alto de velocidade em um curto intervalo de tempo, indicando escoamento rápido e concentração imediata da água no local.",
+          "Já a inundação gradual apresenta velocidade menor e uma duração maior, indicando um escoamento lento e prolongado.",
+          "Esse comportamento está diretamente relacionado à declividade do relevo: em relevo íngreme, a água escoa rapidamente, gerando inundações rápidas e passageiras; em relevo plano, o escoamento é lento, causando inundações graduais e prolongadas.",
+          "Portanto, a resposta correta é a alternativa C, que atribui a desproporção entre velocidade e tempo de duração das inundações às características da declividade do relevo local."
+        ],
+        "puloDoGato": "Lembre-se: relevo íngreme gera inundações rápidas e curta duração; relevo plano gera inundações lentas e duradouras.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A variabilidade solar anual influencia clima a longo prazo, não a velocidade nem duração específicas das inundações."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "A temperatura média mensal afeta evaporação, mas não explica diretamente a dinâmica das inundações mostrada."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "A declividade do relevo determina a velocidade e duração do escoamento, sendo o fator que condiciona as diferenças entre inundação brusca e gradual."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Dinâmicas tectônicas agem em escalas temporais muito longas e não impactam inundações imediatas."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A gradação da turbidez fluvial relaciona-se à qualidade da água, não à velocidade ou duração da inundação mostrada."
+          }
+        ],
+        "questionCode": "CH_GEO_DESASTRES_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explicação didática estão coerentes entre si, com resposta correta plenamente justificada e detalhada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3090,
+    "outputTokens": 1839,
+    "estimatedCostUsd": 0.004178
+  }
+}

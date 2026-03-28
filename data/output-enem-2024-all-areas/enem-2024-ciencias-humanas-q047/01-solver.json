@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:43:12.269Z",
+  "questionId": "enem-2024-ciencias-humanas-q047",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque o texto destaca a necessidade de hierarquização profissional na saúde pública, evidenciando uma estrutura social onde há oficiais (funcionários técnicos graduados) e auxiliares (enfermeiras, educadoras, técnicos, inspetores), mostrando uma organização hierárquica dentro do sistema.",
+      "strategy": "Analisar o conteúdo do texto para identificar a mensagem principal. O texto compara a estrutura da saúde pública com a de um exército, onde não há apenas oficiais, mas também auxiliares especializados que dão suporte. Isso demonstra uma organização profissional hierarquizada.",
+      "steps": [
+        "Ler atentamente o texto fornecido.",
+        "Identificar que o texto utiliza a metáfora do exército para destacar diferentes níveis profissionais.",
+        "Observar a menção de vários cargos em saúde pública, desde técnicos graduados até auxiliares, indicando uma organização hierárquica.",
+        "Eliminar alternativas que não se relacionam diretamente com o discurso sobre organização profissional.",
+        "Concluir que a mensagem do texto reflete a hierarquização profissional na área da saúde pública."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto que compara a organização na saúde pública a um exército, indicando necessidade de diferentes níveis profissionais."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode associar o termo 'santitaristas' a campanhas de higienização e pensar que o texto trata disso.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Sanitaristas trabalharam em campanhas de higienização, então pode parecer que o texto reflete 'higienização moral'.",
+        "whyItIsWrong": "O texto não fala sobre moral ou práticas higienizadoras, mas sim sobre a estrutura e os cargos profissionais."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode relacionar sanitaristas dos anos 1920 e 1930 à ideia de eugenia, comum naquela época.",
+        "misconceptionType": "Interpretação histórica incorreta",
+        "whyItLooksPlausible": "A eugenia foi um tema presente no período e pode parecer relacionada ao texto de saúde pública.",
+        "whyItIsWrong": "O texto foca na organização dos trabalhadores na saúde, não em imposições eugênicas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato pode pensar que o texto trata da assimilação cultural através da educação e visitação sanitária.",
+        "misconceptionType": "Leitura superficial do texto",
+        "whyItLooksPlausible": "A menção a educadoras e visitadoras pode sugerir assimilação cultural.",
+        "whyItIsWrong": "O texto não aborda processos culturais, mas sim a hierarquia de profissionais na saúde."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode interpretar a organização como um controle identitário ou hegemonia cultural.",
+        "misconceptionType": "Confusão entre organização profissional e hegemonia identitária",
+        "whyItLooksPlausible": "A organização pode sugerir controle ou hegemonia, mas não há indicação disso no texto.",
+        "whyItIsWrong": "O texto enfatiza papéis profissionais e estrutura hierárquica, não hegemonia ou identidade."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto histórico",
+      "secondarySkills": [
+        "Análise crítica",
+        "Conhecimento histórico sobre saúde pública"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O enunciado requer compreensão do texto e habilidade de relacioná-lo ao contexto histórico da saúde pública.",
+        "A metáfora do exército é fundamental para entender a mensagem do texto.",
+        "A questão exige discriminar alternativas próximas com base no texto apresentado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 888,
+    "outputTokens": 771,
+    "estimatedCostUsd": 0.001589
+  }
+}

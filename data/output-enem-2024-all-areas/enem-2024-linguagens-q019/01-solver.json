@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:10:51.211Z",
+  "questionId": "enem-2024-linguagens-q019",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta porque o texto apresenta um contraste entre a personagem Sancha, negra, em condições precárias e explorada, e a narradora, que vive em conforto. Essa oposição evidencia a exploração da força de trabalho da população negra no cenário pós-abolição.",
+      "strategy": "Realizar análise textual focando no conteúdo social e histórico, identificando elementos que indicam a crítica da narradora à condição da população negra, principalmente da personagem Sancha, para associar com o contexto pós-abolição e a exploração trabalhista.",
+      "steps": [
+        "Ler atentamente o fragmento para identificar o contexto social e histórico.",
+        "Observar os personagens retratados: a narradora em conforto, Sancha em miséria.",
+        "Identificar a crítica social implícita na comparação entre as duas personagens.",
+        "Relacionar essa crítica com o cenário histórico do Brasil pós-abolição, quando a população negra sofreu exploração laboral mesmo após a liberdade oficial.",
+        "Avaliar as opções de resposta, eliminando as que não se conectam diretamente com o tema da exploração da força de trabalho da população negra.",
+        "Selecionar a alternativa D como aquela que melhor expressa o olhar crítico da narradora."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer correta por mencionar 'mulheres' e 'arte', mas o texto não aborda a produção artística ou desvalorização da arte por mulheres.",
+        "misconceptionType": "Interpretação errônea do tema central",
+        "whyItLooksPlausible": "O texto fala de uma 'doida aspiração da artista incipiente', que pode levar a pensar em questões artísticas relacionadas a mulheres.",
+        "whyItIsWrong": "O foco principal do texto é a desigualdade social e exploração, não a arte produzia por mulheres."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode ser escolhida pela menção às condições de Sancha, feminina e negra, vivendo em situação precária.",
+        "misconceptionType": "Foco limitado em aspectos superficiais do texto",
+        "whyItLooksPlausible": "O texto descreve a pobreza e situação de moradia de Sancha.",
+        "whyItIsWrong": "O texto enfatiza mais a exploração do trabalho do que mudanças habitacionais específicas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A alternativa pode parecer plausível por mencionar emancipação feminina e a personagem feminina da narrativa.",
+        "misconceptionType": "Confusão entre temas femininos e sociais raciais",
+        "whyItLooksPlausible": "Há personagens femininas, mas não há discussão explícita sobre projeto político de emancipação feminina.",
+        "whyItIsWrong": "O tema central é a exploração pós-abolição, não a emancipação política das mulheres."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "É uma interpretação possível pelo cenário do século XIX e menção a brancos e negros.",
+        "misconceptionType": "Generalização indevida do conflito social",
+        "whyItLooksPlausible": "A tensão racial é um pano de fundo implícito no período histórico citado.",
+        "whyItIsWrong": "O texto não aborda disputa de poder entre brancos e negros, mas sim a exploração da população negra."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual crítica",
+      "secondarySkills": [
+        "Contextualização histórica",
+        "Análise social",
+        "Compreensão de texto narrativo"
+      ],
+      "cognitiveDemand": "Alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento do contexto histórico do Brasil pós-abolição.",
+        "Exige leitura detalhada e análise crítica do texto.",
+        "Não utiliza elementos visuais para a solução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 844,
+    "outputTokens": 761,
+    "estimatedCostUsd": 0.001555
+  }
+}

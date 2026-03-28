@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:40:31.349Z",
+  "questionId": "enem-2024-linguagens-q044",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto apresenta que o programa olímpico mudou para incluir modalidades que dialogam com os jovens urbanos, mostrando que o esporte está se adaptando às transformações sociais e culturais da atualidade.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender o tema central: a mudança no programa olímpico.",
+        "Identifique os exemplos dados (vôlei de praia, BMX, skate, break dance) e o que eles representam — uma aproximação com novas formas culturais e de lazer.",
+        "Observe o motivo desse processo, explicado no texto como uma estratégia para se comunicar com jovens urbanos, diferente das gerações anteriores.",
+        "Descarte alternativas que não condizem com a ideia de adaptação cultural, como as que falam em manter o padrão antigo ou aproximar-se da aventura.",
+        "Escolha a alternativa que diz que o esporte está se adaptando às demandas do tempo, pois é a que melhor traduz o argumento do texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar que a mudança significa apenas uma aproximação da aventura, esquecendo o aspecto cultural.",
+        "Achar que o esporte permaneceu igual, não percebendo a transformação social explicada no texto.",
+        "Confundir a inclusão do break dance com a ideia de que todo esporte virou dança.",
+        "Pensar que a mudança afasta o esporte da cultura, quando na verdade ele incorpora novos elementos culturais."
+      ],
+      "teachingTips": [
+        "Incentive a leitura atenta do texto para identificar o tema principal e os argumentos apresentados.",
+        "Trabalhe com os alunos a distinção entre esporte, cultura e arte, mostrando como essas áreas podem se relacionar.",
+        "Explique a importância de analisar o motivo das mudanças mencionadas para responder questões de interpretação.",
+        "Utilize exemplos atuais para discutir como o esporte pode refletir transformações sociais e culturais ao longo do tempo.",
+        "Promova o debate sobre diferentes pontos de vista no texto, como o dos tradicionalistas versus o do Comitê Olímpico, para enriquecer a compreensão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1381,
+    "outputTokens": 397,
+    "estimatedCostUsd": 0.001188
+  }
+}

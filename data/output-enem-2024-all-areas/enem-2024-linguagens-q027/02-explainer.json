@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:26:46.897Z",
+  "questionId": "enem-2024-linguagens-q027",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A alternativa C é a correta porque a autora expressa uma postura de empatia ao reconhecer explicitamente as dificuldades enfrentadas pelos jovens hoje, mostrando que compreende e compartilha seus sentimentos.",
+      "stepByStep": [
+        "Leia atentamente o texto para entender o sentimento principal expresso pela autora.",
+        "Reflita sobre o que é empatia: é reconhecer e compartilhar sentimentos e dificuldades do outro.",
+        "Leia cada alternativa e identifique se ela demonstra esse reconhecimento claro das dificuldades dos jovens.",
+        "Verifique que a alternativa C afirma explicitamente que ser jovem hoje é complicado, o que indica entendimento e conexão emocional.",
+        "Conclua que esse reconhecimento caracteriza a empatia explícita, tornando a alternativa C a correta."
+      ],
+      "commonPitfalls": [
+        "Confundir empatia com simples demonstração de afeto ou alegria pessoal da autora.",
+        "Escolher opções que mostram carinho ou sentimentos da autora, mas que não expressam reconhecimento explícito das dificuldades do leitor.",
+        "Interpretar críticas sociais como demonstração de empatia, quando na verdade são julgamentos abstratos.",
+        "Focar na interação com os jovens (como o recebimento de cartas) como empatia, sem notar que isso é apenas relato de contato, não compartilhamento de sentimentos."
+      ],
+      "teachingTips": [
+        "Explique o conceito de empatia, diferenciando-o de outras emoções como afeto ou alegria própria.",
+        "Peça para os alunos identificarem no texto frases que explicitamente reconhecem dificuldades ou sentimentos dos leitores.",
+        "Promova debates sobre como diferentes expressões no texto podem parecer empáticas, mas nem sempre são.",
+        "Utilize exemplos práticos para mostrar a diferença entre simples demonstração de carinho e postura empática.",
+        "Estimule os alunos a argumentarem suas escolhas com base na definição de empatia para consolidar a compreensão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1439,
+    "outputTokens": 359,
+    "estimatedCostUsd": 0.00115
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:10:53.156Z",
+  "questionId": "enem-2024-ciencias-humanas-q080",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A é correta porque ambos os textos destacam como as novelas brasileiras influenciaram e aproximaram culturalmente a Rússia e Angola, subjetivando costumes da teledramaturgia estrangeira. Essa influência cultural se manifesta na recepção dos conteúdos televisivos estrangeiros e na incorporação de elementos culturais brasileiros nos hábitos locais.",
+        "strategy": "Analisar os textos para identificar o elemento comum entre Rússia e Angola mencionado, relacionando as alternativas com as informações presentes sobre a influência das novelas brasileiras.",
+        "steps": [
+          "Ler atentamente o Texto I e identificar que a chegada das novelas brasileiras na Rússia causou impacto cultural e social.",
+          "Ler atentamente o Texto II e identificar que as novelas brasileiras também tiveram grande influência cultural em Angola, modificando comportamentos, moda e relações sociais.",
+          "Comparar estes impactos para encontrar a aproximação mencionada entre Rússia e Angola.",
+          "Analisar cada alternativa e verificar qual delas reflete corretamente a aproximação apontada nos textos.",
+          "Descartar alternativas que falem de aspectos econômicos, geográficos, antropológicos ou políticos, pois não são enfatizados nos textos.",
+          "Confirmar que a alternativa A, que fala do aspecto cultural e da subjetivação de costumes da teledramaturgia estrangeira, corresponde ao que os textos indicam."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Os textos mostram como as novelas brasileiras tiveram grande influência cultural na Rússia e em Angola, aproximando esses países por meio da incorporação de costumes e comportamentos vistos na teledramaturgia brasileira.",
+        "stepByStep": [
+          "Leia atentamente o Texto I, observando o impacto das novelas brasileiras na Rússia na década de 1980, destacando a recepção e a influência social.",
+          "Leia o Texto II e identifique que as novelas brasileiras também influenciaram fortemente Angola, influenciando inclusive moda e comportamento.",
+          "Compare o que os dois textos revelam sobre essa influência para identificar um aspecto comum que aproxima os dois países.",
+          "Analise as alternativas procurando aquela que melhor represente essa aproximação cultural, especialmente ligada à influência das novelas.",
+          "Descarta alternativas que tratem de aspectos econômicos, geográficos, antropológicos ou políticos não evidenciados nos textos.",
+          "Conclua que a alternativa que aponta a aproximação cultural por meio da subjetivação dos costumes das novelas brasileiras é a correta."
+        ],
+        "commonPitfalls": [
+          "Confundir influência cultural com relações econômicas ou políticas citadas nos textos.",
+          "Interpretação equivocada da aproximação como redução de distância geográfica, quando o texto aborda laços culturais.",
+          "Generalizar a influência cultural como adaptação antropológica de valores tradicionais sem base textual.",
+          "Relacionar menção ao Parlamento e República a aspectos políticos, quando a questão focaliza o impacto cultural."
+        ],
+        "teachingTips": [
+          "Estimule a leitura crítica dos textos para identificar a ideia central antes de analisar as alternativas.",
+          "Oriente os alunos a relacionarem informações dos textos com cada alternativa para descartar as incorretas.",
+          "Trabalhe a diferença entre aspectos culturais e outros (econômicos, políticos, geográficos) para evitar confusões.",
+          "Use exemplos de outras situações onde produtos culturais aproximam países para reforçar o conceito de influência cultural.",
+          "Enfatize a importância de interpretar o sentido das ações culturais mencionadas, não apenas fatos isolados."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode associar a influência da moda mencionada no Texto II à importação econômica de roupas de estilistas.",
+          "misconceptionType": "Confusão entre influência cultural e aspectos econômicos.",
+          "whyItLooksPlausible": "O texto menciona padrões de moda e figurinos influenciando comportamentos, o que pode sugerir importações de moda.",
+          "whyItIsWrong": "O texto não fala no comércio ou importação, mas sim em influência cultural através das novelas."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "O aluno pode interpretar a influência ideológica das novelas como um encurtar de distâncias geográficas.",
+          "misconceptionType": "Interpretação literal equivocada sobre distância geográfica versus ideológica.",
+          "whyItLooksPlausible": "Os textos indicam aproximação entre povos distantes.",
+          "whyItIsWrong": "A alternativa fala da distância geográfica, que não muda, e o foco é cultural, não de localização física."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Esperava-se que os alunos associarem a influência cultural à antropologia e adaptação de valores tradicionais.",
+          "misconceptionType": "Generalização exagerada do processo de influência cultural como adaptação antropológica.",
+          "whyItLooksPlausible": "Ambos os textos mencionam comportamentos e valores influenciados.",
+          "whyItIsWrong": "Não há menção à adaptação de valores tradicionais, mas à incorporação cultural específica da teledramaturgia."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O aluno pode relacionar o impacto social com o sistema político adotado nos países.",
+          "misconceptionType": "Confusão entre aspectos políticos e culturais descritos.",
+          "whyItLooksPlausible": "Os textos mencionam parlamento e República, que podem sugerir sistemas políticos.",
+          "whyItIsWrong": "O foco dos textos é cultural através das novelas e não uma análise dos sistemas políticos."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual e compreensão cultural",
+        "secondarySkills": [
+          "Análise comparativa",
+          "Relação entre texto e alternativas"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreensão crítica do impacto cultural das novelas nas sociedades russa e angolana.",
+          "É necessário distinguir entre aspectos culturais e econômicos ou políticos, com base nas informações textuais.",
+          "A questão avalia a habilidade de identificar a aproximação cultural por meio da influência da teledramaturgia."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Influência Cultural das Novelas Brasileiras",
+        "interpretationIntro": "A questão solicita identificar o aspecto que aproxima a Rússia e Angola, conforme evidenciado nos textos apresentados.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar cuidadosamente os textos para identificar o elemento comum entre os países."
+          },
+          {
+            "term": "Comparar",
+            "explanation": "Confrontar informações dos textos para encontrar semelhanças relevantes."
+          }
+        ],
+        "whatTheQuestionAsks": "Indicar qual aspecto, entre as alternativas fornecidas, representa a aproximação entre a Rússia e Angola, segundo os textos I e II.",
+        "strategyParagraph": "Para responder, deve-se ler atentamente os textos, identificar a influência das novelas brasileiras em cada país e relacionar essa influência com as alternativas apresentadas, selecionando a que melhor expressa a aproximação cultural entre os dois países.",
+        "reviewTable": [
+          {
+            "concept": "Influência Cultural",
+            "keyIdea": "Novelas brasileiras afetaram costumes e comportamentos locais.",
+            "application": "Ambos os textos destacam a recepção cultural das novelas no cotidiano da Rússia e Angola."
+          },
+          {
+            "concept": "Diferenças Geográficas",
+            "keyIdea": "Países estão em continentes distintos.",
+            "application": "Embora distantes, ambos foram aproximados culturalmente pelas novelas."
+          },
+          {
+            "concept": "Aspectos Políticos e Econômicos",
+            "keyIdea": "Ausência de foco nos textos.",
+            "application": "Textos enfatizam o impacto cultural, não político ou econômico."
+          }
+        ],
+        "theoryParagraphs": [
+          "As novelas televisivas têm papel fundamental na construção e difusão cultural, pois influenciam comportamentos, modas e valores sociais dos públicos que as acompanham. Esse fenômeno pode aproximar culturas e sociedades distintas por meio da arte e do entretenimento.",
+          "No caso em questão, os textos evidenciam que as produções brasileiras alcançaram públicos na Rússia e em Angola, promovendo uma influência cultural significativa, mesmo em contextos sociais e geográficos diferentes.",
+          "Essa influência cultural destaca um aspecto importante da globalização cultural, em que produtos midiáticos acarretam transformações e aproximações entre diferentes povos e valores sociais, rompendo barreiras de distância e diferenças regionais."
+        ],
+        "resolutionParagraphs": [
+          "O Texto I relata o impacto das novelas brasileiras no contexto russo, desde a época de Gorbatchov, destacando uma forte recepção popular que chegou até ao parlamento da Federação Russa.",
+          "O Texto II apresenta a influência similar das novelas brasileiras em Angola, ressaltando como as produções moldaram comportamentos, moda e até denominações de espaços sociais, reforçando a presença cultural brasileira.",
+          "Ao comparar, percebe-se que ambos os textos apontam para um mesmo vetor de aproximação: a influência cultural gerada pelas novelas brasileiras, que ultrapassou as diferenças sociais e geográficas.",
+          "Dentre as alternativas, a que expressa esta aproximação cultural por meio da subjetivação dos costumes oriundos da teledramaturgia é a alternativa A, tornando-a a resposta correta."
+        ],
+        "puloDoGato": "Na prova, foque nas palavras que indicam o tipo de influência (cultural) e descarte opções que desviem para questões geográficas, políticas ou econômicas.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta, pois destaca a aproximação cultural causada pelas novelas brasileiras nos dois países."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta; confunde influência cultural com aspectos econômicos de comércio ou moda importada."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta; refere-se a distância geográfica, que não é alterada pela questão cultural abordada."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta; generaliza a influência cultural como adaptação antropológica sem respaldo nos textos."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta; confunde aspectos políticos com a influência cultural evidenciada nas novelas."
+          }
+        ],
+        "questionCode": "CH_CIENCIAS_HUMANAS_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O solver, a explicação didática e a resolução oficial estão coerentes entre si e com o enunciado da questão. Todas baseiam-se na influência cultural das novelas brasileiras como elemento que aproxima Rússia e Angola, ignorando aspectos que não são abordados nos textos. A linguagem da resolução oficial está clara, objetiva e adequada ao padrão ENEM.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2805,
+    "outputTokens": 2127,
+    "estimatedCostUsd": 0.004525
+  }
+}

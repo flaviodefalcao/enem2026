@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T23:40:04.026Z",
+  "questionId": "enem-2024-linguagens-q002",
+  "payload": {
+    "theme": "Língua estrangeira",
+    "subtheme": "Vocabulário e tema",
+    "rationale": "A questão exige a interpretação do marcador \"instead of\" na letra de uma canção em inglês, relacionando vocábulos e expressões ao tema do texto em língua estrangeira, conforme a habilidade H5 e competência 2 indicam. Portanto, enquadra-se no tema \"Língua estrangeira\" e subtema \"Vocabulário e tema\", que tratam do entendimento lexical em idioma moderno para acesso a informações.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 819,
+    "outputTokens": 113,
+    "estimatedCostUsd": 0.000508
+  }
+}

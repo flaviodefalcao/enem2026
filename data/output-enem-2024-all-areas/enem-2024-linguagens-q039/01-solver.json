@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:37:02.248Z",
+  "questionId": "enem-2024-linguagens-q039",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque o texto mostra que o uso da linguagem coloquial, considerada 'falar errado', por Adoniran Barbosa transgredia a norma-padrão formal vigente na época, caracterizando um preconceito linguístico sofrido pelo compositor.",
+      "strategy": "Analisar o texto buscando compreender o motivo do preconceito contra Adoniran Barbosa e relacioná-lo com as normas da língua portuguesa, para identificar qual alternativa melhor explica essa relação.",
+      "steps": [
+        "Ler o texto para entender o contexto da fala errada de Adoniran Barbosa.",
+        "Identificar que o texto fala do uso da linguagem coloquial nas músicas do compositor.",
+        "Reconhecer que o preconceito ocorre pelo desvio da norma-padrão da língua portuguesa.",
+        "Analisar as alternativas para determinar qual explica a origem do preconceito.",
+        "Descartar alternativas que falam sobre consequência negativa (compreensão prejudicada, restrição poética) que não são mencionadas no texto.",
+        "Selecionar a alternativa que menciona a transgressão da norma-padrão, diretamente relacionada ao preconceito linguístico descrito."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolheram A porque associam o 'falar errado' à linguagem cômica, supondo que o texto diz que essa fala marcava os comediantes da época.",
+        "misconceptionType": "Interpretação incorreta do contexto histórico e do foco do texto",
+        "whyItLooksPlausible": "O texto menciona que Adoniran foi comediante e sua fala errada é característica marcante, o que pode levar à associação.",
+        "whyItIsWrong": "O texto não diz que o preconceito está ligado à linguagem dos comediantes, mas sim à quebra da norma-padrão da língua."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Acham que o 'falar errado' prejudicava a compreensão da música pelo público, que justificaria o preconceito.",
+        "misconceptionType": "Confusão entre forma e efeito da linguagem",
+        "whyItLooksPlausible": "É comum associar desvio da norma com dificuldade de entendimento pelo público.",
+        "whyItIsWrong": "O texto mostra que o povo se identificava com as músicas, indicando que a compreensão não era prejudicada."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Parece que a linguagem incorreta denunciava falta de estilo nas letras, motivo para preconceito.",
+        "misconceptionType": "Confusão entre estilo e correção linguística",
+        "whyItLooksPlausible": "A ideia de que linguagem errada vem da falta de estilo pode parecer lógica para alguns.",
+        "whyItIsWrong": "O texto afirma que a fala errada era uma arte escolhida, não ausência de estilo."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensam que o 'falar errado' restringia a criação poética, origem do preconceito.",
+        "misconceptionType": "Interpretação equivocada da relação entre norma e criatividade",
+        "whyItLooksPlausible": "A norma-padrão é vista como base para a expressão poética, então sua transgressão poderia ser vista como problema.",
+        "whyItIsWrong": "O texto mostra que 'falar errado' era uma estratégia artística, e não uma limitação da criação poética."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise linguística",
+        "Conhecimento sociolinguístico"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige entendimento do preconceito linguístico contra variações da norma-padrão.",
+        "Necessita reconhecer que um uso não padrão da língua pode ser uma escolha artística.",
+        "Avalia habilidade de relacionar informações do texto com conceitos de norma culta e linguística."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 968,
+    "outputTokens": 806,
+    "estimatedCostUsd": 0.001677
+  }
+}

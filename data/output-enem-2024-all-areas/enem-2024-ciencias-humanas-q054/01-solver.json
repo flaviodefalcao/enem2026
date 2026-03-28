@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:48:16.500Z",
+  "questionId": "enem-2024-ciencias-humanas-q054",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A resposta correta é D, pois o texto aborda o preconceito que reduz a credibilidade das falas de certos grupos sociais, caracterizando uma injustiça epistêmica.",
+      "strategy": "Interpretação do conceito exposto no texto e associação com os tipos de injustiça listados nas alternativas, identificando qual se encaixa melhor na situação descrita.",
+      "steps": [
+        "Ler o enunciado atentamente para identificar a natureza do preconceito tratado: redução da credibilidade e controle do discurso de determinados grupos sociais.",
+        "Reconhecer que essa situação configura uma injustiça baseada no conhecimento e na credibilidade das informações fornecidas por indivíduos—ou seja, injustiça epistêmica.",
+        "Analisar cada alternativa e verificar qual delas se relaciona com a forma de injustiça discutida no texto.",
+        "Descartar alternativas que tratam de aspectos estéticos, sensoriais, afetivos ou econômicos, pois não correspondem ao contexto de descredibilização de fala e conhecimento."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode associar preconceito a padrões estéticos e desigualdade corporal, interpretando injustiça estética como um tipo de discriminação social.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "A injustiça estética refere-se à normatização de padrões enfrentada por grupos marginalizados, que pode parecer relacionada à discriminação mencionada.",
+        "whyItIsWrong": "O enunciado foca na credibilidade das falas, não na aparência física ou padrões estéticos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundem preconceito sensorial com a ideia de privilégios relacionados às percepções sensoriais, como as habilidades visuais.",
+        "misconceptionType": "Interpretação errônea do termo técnico",
+        "whyItLooksPlausible": "Preconceitos podem ocorrer em diversos domínios, inclusive sensoriais, levando a supor que prejudique trocas comunicativas.",
+        "whyItIsWrong": "O texto se refere à descredibilização de falas em função de identidades sociais, não a limitações ou privilégios sensoriais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associam preconceito à repressão emocional e à expressão afetiva bloqueada.",
+        "misconceptionType": "Falsa associação temática",
+        "whyItLooksPlausible": "Injustiça afetiva relaciona-se a emoções e afetos, o que pode parecer conexo à comunicação e interações humanas citadas.",
+        "whyItIsWrong": "A questão destaca a descredibilização do discurso e não o impedimento da expressão emocional."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretam preconceito de identidade como um fator que gera desigualdades econômicas diretas.",
+        "misconceptionType": "Redução simplista do conceito de preconceito",
+        "whyItLooksPlausible": "Desigualdades materializadas em termos econômicos são consequência comum de preconceitos sociais.",
+        "whyItIsWrong": "O texto focaliza a credibilidade e a comunicação, não as desigualdades econômicas propriamente ditas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise conceitual",
+      "secondarySkills": [
+        "Compreensão de conceitos sociais",
+        "Relação entre texto e teoria social"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão demanda conhecimento prévio sobre injustiça epistêmica e preconceito de identidade.",
+        "É necessário interpretar o conceito de credibilidade e sua relação com grupos sociais dominantes.",
+        "Não há elementos visuais para análise nesta questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 643,
+    "outputTokens": 774,
+    "estimatedCostUsd": 0.001496
+  }
+}

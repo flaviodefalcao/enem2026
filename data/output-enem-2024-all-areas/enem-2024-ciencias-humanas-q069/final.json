@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q069",
+  "generatedAt": "2026-03-28T00:59:53.976Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 643,
+      "outputTokens": 701,
+      "estimatedCostUsd": 0.001379
+    },
+    "explainer": {
+      "inputTokens": 1231,
+      "outputTokens": 387,
+      "estimatedCostUsd": 0.001112
+    },
+    "reviewer": {
+      "inputTokens": 2544,
+      "outputTokens": 2039,
+      "estimatedCostUsd": 0.00428
+    },
+    "totalEstimatedCostUsd": 0.006771
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta pois o texto destaca a reivindicação da autora por um reconhecimento às capacidades e virtudes das mulheres, valorizando seu papel social mais amplo, além dos papéis tradicionais ou aparências superficiais.",
+      "strategy": "Analisar cuidadosamente o texto para captar a crítica social e o pedido da autora para a valorização da mulher, comparando com as alternativas.",
+      "steps": [
+        "Ler o texto atentamente e identificar a crítica ao sistema educacional vigente que reduz as mulheres a papéis estereotipados.",
+        "Perceber que a autora defende a ambição de respeito às capacidades e virtudes femininas.",
+        "Relacionar essa ideia central com as alternativas oferecidas.",
+        "Eliminar opções que não condecem com o texto, como participação política, salário, diferenças biológicas e cargos públicos.",
+        "Selecionar a alternativa que expressa a valorização social do papel feminino, correspondendo à alternativa C."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Mary Wollstonecraft critica a visão superficial e estereotipada da mulher em seu tempo, defendendo que devem ser respeitadas por suas capacidades e virtudes, além de seus papéis tradicionais.",
+      "stepByStep": [
+        "Ler o texto para entender a crítica e a reivindicação da autora.",
+        "Identificar que a autora reprova o sistema educacional que limita a mulher a características superficiais.",
+        "Notar que a ambição proposta é maior respeito social e reconhecimento das virtudes femininas.",
+        "Comparar essa proposição às alternativas disponíveis.",
+        "Eliminar as alternativas que não correspondem ao foco do texto.",
+        "Escolher a alternativa que valoriza socialmente a mulher, respeitando suas capacidades e virtudes."
+      ],
+      "commonPitfalls": [
+        "Associar 'reivindicação de direitos' automaticamente à participação política, sem considerar o foco do texto.",
+        "Interpretar o texto como um pedido por igualdade salarial, quando não há menção.",
+        "Confundir o reconhecimento das mulheres com distinção biológica, quando o texto critica essa visão.",
+        "Pensar incorretamente que o texto fala de ocupação de cargos públicos, já que foca no respeito às virtudes."
+      ],
+      "teachingTips": [
+        "Ensinar os alunos a identificar o foco principal no texto antes de analisar alternativas.",
+        "Estimular a eliminação de alternativas fora do contexto do texto.",
+        "Trabalhar textos históricos para compreender o contexto e o discurso social da época.",
+        "Incentivar discussões sobre estereótipos de gênero e seus efeitos sociais para ampliar o senso crítico."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar 'reivindicar direitos' a participação política, comum em discussões feministas.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "Direitos das mulheres comumente relacionam-se a participação política, tornando a alternativa atraente.",
+        "whyItIsWrong": "O texto não aborda explicitamente a participação política, mas sim o reconhecimento social e educacional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Interpretar reivindicação como luta por equiparação salarial.",
+        "misconceptionType": "Falsa associação",
+        "whyItLooksPlausible": "Questões salariais são frequentemente debatidas na defesa dos direitos das mulheres.",
+        "whyItIsWrong": "O texto não menciona aspectos econômicos ou salariais, focando nas capacidades e virtudes."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que reconhecimento das mulheres está ligado à distinção biológica.",
+        "misconceptionType": "Interpretação literal errada",
+        "whyItLooksPlausible": "O texto cita 'sexo feminino', o que pode conduzir a essa interpretação.",
+        "whyItIsWrong": "A autora critica justamente a visão restrita ao biológico, valorizando capacidades e virtudes."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Relacionar reivindicação de direitos a ocupação de cargos públicos.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Parte das lutas femininas envolvem o acesso a cargos públicos e poder.",
+        "whyItIsWrong": "O texto não menciona cargos públicos, enfatizando respeito às virtudes e capacidades."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual",
+      "secondarySkills": [
+        "Análise crítica",
+        "Compreensão de textos históricos e filosóficos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto é uma crítica social de Mary Wollstonecraft do século XVIII.",
+        "Exige entendimento do contexto histórico dos direitos das mulheres.",
+        "Não depende de elementos visuais ou cálculos."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📜",
+      "shortThemeTitle": "Valorização social das mulheres",
+      "interpretationIntro": "O enunciado solicita a identificação da reivindicação central da autora em relação às mulheres no texto apresentado.",
+      "commandTerms": [
+        {
+          "term": "Reivindicar",
+          "explanation": "Solicitar, exigir ou pedir direitos ou reconhecimento."
+        },
+        {
+          "term": "Capacidades e virtudes",
+          "explanation": "Habilidades e qualidades morais ou intelectuais da pessoa."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede para identificar a que direito ou reconhecimento Wollstonecraft se refere em seu texto do século XVIII, a partir da crítica ao sistema educativo e social da época.",
+      "strategyParagraph": "Para resolver a questão, deve-se ler o texto atentamente, captar a crítica da autora a um sistema educacional que reduz as mulheres a papéis superficiais e estereotipados e, a seguir, relacionar essa ideia com as alternativas apresentadas, descartando as que não correspondem ao argumento central do texto. O foco está na valorização das mulheres por suas capacidades e virtudes e não em direitos políticos, salariais ou biológicos exclusivamente.",
+      "reviewTable": [
+        {
+          "concept": "Crítica social",
+          "keyIdea": "Wollstonecraft critica a educação que limita a mulher a papéis superficiais.",
+          "application": "No texto, mulheres são vistas como 'damas sedutoras', não como indivíduos completos."
+        },
+        {
+          "concept": "Valorização das virtudes",
+          "keyIdea": "As mulheres devem buscar respeito pelas capacidades e virtudes, não só aparências.",
+          "application": "A autora defende uma 'ambição mais nobre' para as mulheres, além do tradicional."
+        },
+        {
+          "concept": "Contexto histórico",
+          "keyIdea": "Texto do século XVIII inserido no movimento inicial pelos direitos das mulheres.",
+          "application": "Compreender a época ajuda a entender o foco na educação e no papel social da mulher."
+        }
+      ],
+      "theoryParagraphs": [
+        "Mary Wollstonecraft é uma das pioneiras na defesa dos direitos das mulheres no século XVIII, criticando a forma limitada pela qual a sociedade e o sistema educacional tratavam as mulheres, enxergando-as mais como objetos do que como sujeitos com capacidades e virtudes próprias.",
+        "O texto reflete a crítica à educação 'falsa' que reforça estereótipos e limita o papel social feminino a funções restritas e superficiais, como 'esposas sedutoras', rejeitando a plena valorização das mulheres enquanto seres humanos racionais e capazes.",
+        "O pensamento iluminista e as reivindicações feministas iniciais buscavam, portanto, ampliar o reconhecimento social e os direitos das mulheres, enfatizando a importância do respeito às suas capacidades intelectuais e morais."
+      ],
+      "resolutionParagraphs": [
+        "Primeiramente, lê-se o texto atentamente para compreender a crítica da autora ao sistema educacional falso e à visão limitada das mulheres.",
+        "Identifica-se que a autora reprova que as mulheres sejam vistas apenas pela aparência e papéis tradicionais, como esposas e mães, sem reconhecimento de suas virtudes e capacidades.",
+        "Com este entendimento, relaciona-se a ideia central com as alternativas, percebendo que o texto reivindica que as mulheres devem pleitear respeito e valorização social por suas capacidades, e não apenas participar politicamente ou buscar salários iguais.",
+        "Eliminam-se as alternativas que não estão de acordo com essa reivindicação, como as que tratam de participação política (A), salário (B), distinção biológica (D) ou cargos públicos (E).",
+        "Finalmente, seleciona-se a alternativa C, que mais fielmente representa a ideia do texto — a valorização social das mulheres por suas capacidades e virtudes."
+      ],
+      "puloDoGato": "Identifique imediatamente o foco do texto na valorização das capacidades femininas — não nas demandas políticas ou salariais usualmente associadas aos direitos das mulheres.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora participação política seja uma demanda comum nas lutas por direitos das mulheres, o texto não aborda explicitamente essa questão, enfocando a valorização social e educativa."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Igualdade salarial é tema importante, porém ausente no texto; a autora enfatiza respeito às virtudes e capacidades, não aspectos econômicos."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Correta, pois expressa a reivindicação do texto por respeito às capacidades e virtudes das mulheres, indo além dos papéis tradicionais e aparência."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "O texto critica a visão que reduz as mulheres apenas à biologia; a reivindicação é pela valorização social, não por distinção biológica."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "O texto não trata da ocupação de cargos públicos, focando no reconhecimento das virtudes e capacidades femininas."
+        }
+      ],
+      "questionCode": "CH_HISTORIA_FUNDAMENTAL_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e fundamentados no texto. A resposta correta e os comentários das alternativas estão adequadamente alinhados com a análise do conteúdo do texto de Wollstonecraft. A resolução oficial segue rigor editorial e didático recomendado.",
+      "issues": []
+    }
+  }
+}

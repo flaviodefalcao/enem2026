@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:30:56.977Z",
+  "questionId": "enem-2024-linguagens-q032",
+  "payload": {
+    "theme": "Literatura",
+    "subtheme": "Recursos expressivos",
+    "rationale": "A questão pede interpretação da sensibilidade lírica transmitida pelo drama do declínio físico da narradora, o que envolve a análise dos recursos expressivos presentes no texto literário para transmitir emoções e sentimentos.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1043,
+    "outputTokens": 63,
+    "estimatedCostUsd": 0.000518
+  }
+}

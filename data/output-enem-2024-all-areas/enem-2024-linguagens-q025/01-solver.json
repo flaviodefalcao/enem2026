@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:24:58.275Z",
+  "questionId": "enem-2024-linguagens-q025",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque a pintura apresenta características típicas do impressionismo, como efeitos fugazes de luz e movimento.",
+      "strategy": "Analisar as características visuais da pintura 'Três meninas no jardim' de Eliseu Visconti e relacioná-las com os principais movimentos artísticos citados nas alternativas.",
+      "steps": [
+        "Observar a pintura e identificar suas características principais: uso da luz, cor e movimento.",
+        "Lembrar os conceitos dos estilos artísticos mencionados nas alternativas: futurismo, cubismo, impressionismo, surrealismo e realismo.",
+        "Comparar a pintura com os estilos para determinar qual se encaixa melhor.",
+        "Identificar que a obra apresenta pinceladas soltas, vibrantes, com foco em captar a luz natural e o momento efêmero, que são marcas do impressionismo.",
+        "Confirmar que as outras alternativas não condizem com o estilo visual da obra.",
+        "Concluir que a alternativa correta é a C."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "A obra apresenta pinceladas soltas, efeito de luz natural e sensação de movimento, elementos típicos do impressionismo."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode associar a temática do jardim com progresso e fluidez, confundindo com o futurismo.",
+        "misconceptionType": "Confusão conceitual entre movimentos artísticos",
+        "whyItLooksPlausible": "Porque o futurismo valoriza o movimento e a modernidade, conceitos relacionados ao progresso e fluidez.",
+        "whyItIsWrong": "A obra não apresenta linhas dinâmicas, fragmentação ou temas industriais característicos do futurismo."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato identifica formas e pensa que são decompostas, associando ao cubismo.",
+        "misconceptionType": "Interpretação errada de formas e estilos visuais",
+        "whyItLooksPlausible": "O cubismo trabalha a decomposição das formas, o que pode ser confundido com a complexidade das formas na pintura.",
+        "whyItIsWrong": "A obra não apresenta múltiplas perspectivas ou fragmentação geométrica típica do cubismo."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode pensar que a presença das meninas e a composição dão uma sensação de sonho, associando ao surrealismo.",
+        "misconceptionType": "Confusão entre atmosfera onírica e movimentos artísticos",
+        "whyItLooksPlausible": "O surrealismo explora o sonho e o inconsciente, elementos que podem ser interpretados subjetivamente na cena.",
+        "whyItIsWrong": "A pintura é claramente figurativa e naturalista, sem elementos fantásticos ou ilógicos típicos do surrealismo."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode focar em elementos cotidianos, como crianças no jardim, e associar à arte realista.",
+        "misconceptionType": "Confusão entre temática e estilo pictórico",
+        "whyItLooksPlausible": "A presença de elementos do cotidiano remete à arte realista, que busca retratar o real.",
+        "whyItIsWrong": "A técnica da obra não é realista, mas impressionista, com pinceladas soltas e ênfase na luz, não na representação fiel dos detalhes."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de movimentos artísticos e interpretação visual",
+      "secondarySkills": [
+        "Reconhecimento de estilos pictóricos",
+        "Compreensão histórica da arte"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento prévio dos movimentos artísticos mencionados.",
+        "Requer análise visual da obra para associar características da pintura com os estilos.",
+        "É uma questão contextualizada em história da arte, comum na área de Linguagens do ENEM."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1701,
+    "outputTokens": 785,
+    "estimatedCostUsd": 0.001936
+  }
+}

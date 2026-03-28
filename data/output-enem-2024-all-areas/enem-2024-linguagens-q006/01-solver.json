@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T23:44:06.148Z",
+  "questionId": "enem-2024-linguagens-q006",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta pois tanto o livro quanto as camisetas valorizam o repertório linguístico do povo do Amazonas, resgatando e registrando expressões e termos típicos da fala amazonense.",
+      "strategy": "Analisar o enunciado para identificar o objetivo comum das iniciativas apresentadas (livro e camisetas) relacionando as informações com as alternativas dadas.",
+      "steps": [
+        "Ler com atenção o texto, identificando os objetivos do livro e das camisetas.",
+        "Perceber que o livro registra cerca de 1.100 expressões típicas do amazonês, enfatizando a valorização do falar local.",
+        "Observar que as camisetas trazem expressões típicas, com o intuito de resgatar o orgulho do povo manauara.",
+        "Concluir que ambas as iniciativas valorizam o repertório linguístico local.",
+        "Comparar essa conclusão com as alternativas e escolher a que expressa esse aspecto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O leitor pode pensar que o livro e as camisetas indicam produtos de empreendedores locais, baseando-se no fato das camisetas serem feitas por um designer amazonense.",
+        "misconceptionType": "Interpretação superficial",
+        "whyItLooksPlausible": "O texto menciona produtos regionais (camisetas) e um livro produzido localmente, sugerindo um apoio a produtos locais.",
+        "whyItIsWrong": "O foco principal do texto não é recomendar produtos, mas sim valorizar a linguagem local."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Parece que o texto estabelece uma comparação entre o português amazonense e outros falares brasileiros.",
+        "misconceptionType": "Confusão entre conteúdo e tema",
+        "whyItLooksPlausible": "O enunciado menciona diferenças entre o português caboco e outros sotaques como o mineiro e carioca.",
+        "whyItIsWrong": "Apesar da comparação, o objetivo das iniciativas é valorizar o repertório linguístico amazonense, não simplesmente ressaltar diferenças."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O leitor pode supor que o texto reverencia trabalhos acadêmicos, já que menciona um doutor em linguística.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "O texto cita um professor e pesquisador que escreveu o livro.",
+        "whyItIsWrong": "O destaque não é o reconhecimento do trabalho acadêmico, mas a valorização do idioma regional."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se interpretar que as camisetas têm um tom descontraído, indicando que o foco das iniciativas é a leveza do jeito de ser amazonense.",
+        "misconceptionType": "Focalização incorreta no aspecto lúdico",
+        "whyItLooksPlausible": "As camisetas são descritas como misturando bom humor com expressões típicas.",
+        "whyItIsWrong": "O bom humor é um aspecto das camisetas, mas o objetivo comum das duas iniciativas é a valorização linguística, não apenas a descontração."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Análise de linguística regional",
+        "Compreensão crítica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Foco na interpretação da mensagem principal do texto.",
+        "Exige identificar o objetivo comum entre duas ações distintas.",
+        "Não há imagens associadas para análise."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 870,
+    "outputTokens": 728,
+    "estimatedCostUsd": 0.001513
+  }
+}

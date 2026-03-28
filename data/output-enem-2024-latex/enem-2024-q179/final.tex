@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Análise da Questão 179 — ENEM 2024 — Matemática}
+
+Uma empresa de engenharia executa um serviço orçado em R\$\,71\,250,00. Foi decidido que 40\% desse valor será pago a três engenheiros, proporcionalmente às horas trabalhadas. Sabemos as jornadas deles:
+\begin{itemize}
+  \item Engenheiro I: 4 dias, 5,5 horas por dia;
+  \item Engenheiro II: 5 dias, 4 horas por dia;
+  \item Engenheiro III: 6 dias, 2,5 horas por dia.
+\end{itemize}
+
+\section{Solução Técnica}
+
+Valor total destinado aos engenheiros:
+\[
+0{,}4 \times 71\,250 = 28\,500 \text{ reais}
+\]
+
+Horas trabalhadas por cada um:
+\begin{align*}
+\text{Engenheiro I} &= 4 \times 5{,}5 = 22,\\
+\text{Engenheiro II} &= 5 \times 4 = 20,\\
+\text{Engenheiro III} &= 6 \times 2{,}5 = 15.
+\end{align*}
+
+Total de horas:
+\[
+22 + 20 + 15 = 57
+\]
+
+Valor pago por hora:
+\[
+\frac{28\,500}{57} = 500 \text{ reais/hora}
+\]
+
+Pagamentos individuais:
+\begin{align*}
+\text{I} &= 22 \times 500 = 11\,000, \\
+\text{II} &= 20 \times 500 = 10\,000, \\
+\text{III} &= 15 \times 500 = 7\,500.
+\end{align*}
+
+Diferenças entre pagamentos:
+\begin{align*}
+|\text{I} - \text{II}| &= 1\,000, \\
+|\text{I} - \text{III}| &= 3\,500, \\
+|\text{II} - \text{III}| &= 2\,500.
+\end{align*}
+
+Maior diferença:
+\[
+3\,500 \text{ reais entre os engenheiros I e III}.
+\]
+
+\section{Explicação Didática}
+
+A solução requer calcular primeiro todas as horas trabalhadas para depois distribuir o valor proporcionalmente. Multiplicando jornadas pelas quantidades de dias, somamos o total de horas para definir o valor unitário por hora. Multiplicamos, então, o valor por hora pelas horas individuais para determinar os ganhos individuais, e finalmente comparamos para achar a maior diferença.
+
+\section{Considerações Finais}
+
+A resposta correta é \textbf{R\$\,3\,500}, correspondente à maior diferença entre os pagamentos de dois engenheiros. Os erros comuns envolvem confundir diferenças mínima e máxima, cálculo incorreto das horas e arredondamentos errados.
+
+Este problema ajuda a exercitar raciocínio proporcional, interpretação e cálculo com porcentagem, importantes para a compreensão de situações reais envolvendo repartição de valores proporcionalmente ao trabalho efetuado.
+
+\end{document}

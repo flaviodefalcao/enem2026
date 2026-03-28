@@ -1,0 +1,186 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:09:46.881Z",
+  "questionId": "enem-2024-ciencias-humanas-q079",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é correta pois a integração socioeconômica é a política pública capaz de eliminar a fronteira simbólica de exclusão e promover o acolhimento dos refugiados, reduzindo vulnerabilidades e incertezas, conforme o texto.",
+        "strategy": "Interpretar o texto para compreender a fronteira simbólica entre inclusão e exclusão, associando-a à necessidade de políticas públicas que promovam a integração social e econômica dos refugiados. Analisar as alternativas para identificar aquela que favorece essa inclusão.",
+        "steps": [
+          "Compreender que a fronteira no texto refere-se à exclusão e rejeição dos refugiados.",
+          "Identificar que a eliminação dessa fronteira implica inclusão social e econômica.",
+          "Analisar cada alternativa para verificar qual política promove inclusão.",
+          "Descartar políticas que promovem segregação, homogeneização ou diferenciação excludentes.",
+          "Selecionar a integração socioeconômica como a alternativa que elimina barreiras à inclusão."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca a linha tênue entre inclusão e exclusão dos refugiados e aponta que para eliminá-la são necessárias políticas que promovam a integração socioeconômica, garantindo participação plena e redução da vulnerabilidade desses grupos.",
+        "stepByStep": [
+          "Ler o texto atentamente para identificar o conflito entre inclusão e exclusão.",
+          "Entender a fronteira como barreiras que impedem participação plena dos refugiados.",
+          "Reconhecer que eliminar a fronteira significa promover integração socioeconômica.",
+          "Avaliar as alternativas quanto à promoção ou não dessa integração.",
+          "Descartar aquelas que favorecem exclusão ou diferenciação que gera divisão.",
+          "Escolher a alternativa que indica integração socioeconômica."
+        ],
+        "commonPitfalls": [
+          "Confundir planejamento familiar com política de acolhimento dos refugiados.",
+          "Achar que segregação territorial promove inclusão, quando causa exclusão.",
+          "Pensar que homogeneização cultural promove aceitação, quando ameaça identidades.",
+          "Avaliar equivocadamente a diferenciação étnico-racial como sempre positiva para inclusão."
+        ],
+        "teachingTips": [
+          "Explique o conceito de fronteira simbólica entre inclusão e exclusão.",
+          "Use exemplos de integração socioeconômica no contexto de refugiados.",
+          "Debata os perigos da homogeneização cultural forçada.",
+          "Mostre o impacto negativo da segregação e diferenciação que acentuam exclusão.",
+          "Estimule a leitura crítica focada na vulnerabilidade e políticas públicas adequadas."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pensar que planejamento familiar ajuda a controlar fatores sociais ligados ao acolhimento.",
+          "misconceptionType": "Aplicação incorreta de política pública",
+          "whyItLooksPlausible": "Planejamento familiar é uma política social associada a controle populacional.",
+          "whyItIsWrong": "Não atua na eliminação da fronteira entre inclusão e exclusão dos refugiados."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Crer que segregação territorial organiza e protege os refugiados.",
+          "misconceptionType": "Confusão entre segregação e inclusão",
+          "whyItLooksPlausible": "Segregação cria espaços próprios para grupos específicos.",
+          "whyItIsWrong": "Segregação mantém e reforça exclusão e rejeição."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Achar que homogeneização facilita a convivência ao reduzir diferenças culturais.",
+          "misconceptionType": "Ignorância da diversidade cultural",
+          "whyItLooksPlausible": "Pode parecer que eliminar diferenças facilita inclusão.",
+          "whyItIsWrong": "Homogeneização impõe perda de identidade, gerando mais exclusão."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Avaliar que diferenciação étnico-racial valoriza grupos ao reconhecer identidades.",
+          "misconceptionType": "Confusão entre reconhecimento e exclusão",
+          "whyItLooksPlausible": "Reconhecimento de diferenças pode ser visto como inclusão.",
+          "whyItIsWrong": "Enfatizar as diferenças pode causar divisão e exclusão, não integração."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de textos e temáticas sociais",
+        "secondarySkills": [
+          "Compreensão de políticas públicas",
+          "Relações sociais e culturais"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Necessita interpretar conceito metafórico de fronteira entre inclusão e exclusão.",
+          "Exige relação entre vulnerabilidade dos refugiados e políticas públicas.",
+          "Não há elementos visuais no enunciado para análise."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Integração socioeconômica de refugiados",
+        "interpretationIntro": "O enunciado apresenta a questão do acolhimento de refugiados, destacando uma fronteira simbólica entre inclusão e exclusão que gera vulnerabilidade e incerteza para esses migrantes.",
+        "commandTerms": [
+          {
+            "term": "eliminação",
+            "explanation": "Remover ou acabar com uma barreira ou dificuldade."
+          },
+          {
+            "term": "políticas públicas",
+            "explanation": "Conjunto de ações e programas governamentais voltados à resolução de problemas sociais."
+          },
+          {
+            "term": "integração socioeconômica",
+            "explanation": "Incorporação dos indivíduos na sociedade com acesso a direitos sociais e participação econômica."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão solicita identificar qual política pública deve ser implementada para eliminar a fronteira simbólica que separa refugiados incluídos daqueles excluídos, promovendo seu acolhimento efetivo.",
+        "strategyParagraph": "Para responder, é fundamental interpretar o conceito de fronteira simbólica apresentado no texto, que envolve a exclusão e a rejeição dos refugiados. O passo seguinte é analisar as alternativas para verificar qual delas promove a integração desses indivíduos à sociedade de forma social e econômica, reduzindo incertezas e vulnerabilidades.",
+        "reviewTable": [
+          {
+            "concept": "Fronteira simbólica",
+            "keyIdea": "Divisão metafórica entre os que são aceitos e os que são excluídos.",
+            "application": "A fronteira entre inclusão e exclusão dos refugiados, gerando vulnerabilidade."
+          },
+          {
+            "concept": "Integração socioeconômica",
+            "keyIdea": "Incluir refugiados social e economicamente na sociedade.",
+            "application": "Política pública que elimina barreiras e promove acolhimento efetivo."
+          },
+          {
+            "concept": "Exclusão social",
+            "keyIdea": "Separação que impede acesso a direitos e participação social.",
+            "application": "Conseqüência das políticas que não promovem a inclusão."
+          }
+        ],
+        "theoryParagraphs": [
+          "A fronteira mencionada no texto é uma metáfora para as barreiras sociais, econômicas e culturais que impedem os refugiados de serem plenamente aceitos e acolhidos na sociedade onde buscam abrigo. Essa exclusão gera vulnerabilidade e incerteza, dificultando a reconstrução de suas vidas.",
+          "Políticas públicas eficientes buscam eliminar essas barreiras por meio da integração socioeconômica, que inclui acesso a emprego, educação, saúde e participação social, permitindo que refugiados sejam parte ativa da sociedade, diminuindo seu risco e insegurança.",
+          "Outras abordagens, como segregação territorial ou homogeneização cultural, não promovem inclusão verdadeira, podendo reforçar estigmas e exclusão, enquanto o reconhecimento das diferenças deve acontecer de forma a favorecer a convivência e o respeito mútuo, sem gerar divisão."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, percebe-se que a questão gira em torno da inclusão versus exclusão dos refugiados, evidenciada por uma fronteira simbólica que provoca vulnerabilidade nos migrantes.",
+          "Para eliminar essa fronteira, é necessário implementar políticas que promovam a integração socioeconômica, ou seja, que propiciem a participação efetiva dos refugiados na vida social e econômica do país de acolhida.",
+          "As alternativas devem ser analisadas nesse contexto: políticas que geram segregação, homogeneização forçada ou diferenciação que causa divisão não promovem a eliminação dessa fronteira.",
+          "Assim, a alternativa que indica a integração socioeconômica é a que corresponde ao acolhimento descrito no texto, pois visa inclusão plena e redução da vulnerabilidade dos refugiados.",
+          "Portanto, a resposta correta é a alternativa E, que representa a política pública adequada para eliminar a fronteira simbólica entre inclusão e exclusão desses migrantes."
+        ],
+        "puloDoGato": "Sempre que o texto indicar uma 'fronteira' entre inclusão e exclusão, pense em políticas que promovam integração verdadeira, social e econômica, e desconfie de alternativas que sugerem segregação ou homogeneização.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Planejamento familiar não atua na eliminação da fronteira entre inclusão e exclusão de refugiados, pois não promove diretamente a integração socioeconômica."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Segregação territorial cria espaços separados, reforçando a exclusão e a rejeição, o que é contrário ao acolhimento demandado."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Homogeneização cultural implica perda da identidade dos refugiados, causando exclusão e resistência, e não integração."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Diferenciação étnico-racial pode gerar divisão social e exclusão, ao invés de promover uma integração inclusiva."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Integração socioeconômica é a política pública capaz de eliminar a fronteira simbólica entre inclusão e exclusão, promovendo acolhimento efetivo dos refugiados."
+          }
+        ],
+        "questionCode": "CIENCIAS_HUMANAS_SOCIAIS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, resolução técnica e explicação didática estão coerentes entre si e com a alternativa correta (E). O comentário das alternativas está alinhado às justificativas apresentadas. Não há inconsistências entre as partes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2461,
+    "outputTokens": 2038,
+    "estimatedCostUsd": 0.004245
+  }
+}

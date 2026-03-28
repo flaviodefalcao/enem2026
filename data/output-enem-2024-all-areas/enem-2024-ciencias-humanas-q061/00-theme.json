@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:53:45.035Z",
+  "questionId": "enem-2024-ciencias-humanas-q061",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Ética e política",
+    "rationale": "A questão aborda uma reflexão filosófica sobre a condição humana, os limites do desejo e a finitude, que se relaciona com temas éticos atuais e debates existenciais presentes na filosofia contemporânea, vinculando-se assim à dimensão ética dentro da cidadania e democracia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 865,
+    "outputTokens": 80,
+    "estimatedCostUsd": 0.000474
+  }
+}

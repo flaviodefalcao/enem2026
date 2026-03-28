@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:52:57.093Z",
+  "questionId": "enem-2024-linguagens-q011",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As falas atribuídas a Evanildo Bechara mostram o uso de um vocabulário técnico e específico da área da linguística, o que caracteriza a variedade linguística ocupacional, relacionada ao ambiente profissional e à especialização do falante.",
+      "stepByStep": [
+        "Leia o texto atentamente para identificar quem é o falante e qual seu contexto profissional.",
+        "Note as palavras e expressões técnicas, como 'lexicologia' e discussões sobre estrangeirismos, presentes nas falas.",
+        "Relacione esse vocabulário específico à variedade linguística ocupacional, que se caracteriza pelo uso de termos especializados ligados a uma profissão ou área de conhecimento.",
+        "Compare com as outras alternativas e observe que nenhuma destaca tão bem a relação com a área profissional como a variedade ocupacional.",
+        "Conclua que a fala de Bechara representa a variedade ocupacional devido ao uso do vocabulário técnico e ao contexto do falante."
+      ],
+      "commonPitfalls": [
+        "Confundir formalidade com variedade situacional e escolher alternativas que apenas destacam o contexto situacional.",
+        "Assumir que a localidade do personagem define a variedade usada, confundindo variedade regional com ocupacional.",
+        "Pensar que o uso de linguagem culta ou rebuscada indica variedade sociocultural, quando na verdade o foco é o vocabulário técnico.",
+        "Achar que a idade do falante explica a variedade, confundindo variedade geracional com ocupacional."
+      ],
+      "teachingTips": [
+        "Explique o conceito de variedades linguísticas e destaque a diferença entre variedades ocupacionais, regionais, sociais e situacionais.",
+        "Use exemplos de vocabulário técnico para mostrar como a linguagem muda conforme a área profissional.",
+        "Incentive os alunos a analisar o contexto e o perfil do falante para identificar a variedade linguística.",
+        "Pratique com questões similares que enfocam reconhecimento de variedades linguísticas em diferentes contextos.",
+        "Reforce que formalidade e linguagem técnica não são a mesma coisa e que o vocabulário especializado é a chave para identificar a variedade ocupacional."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1494,
+    "outputTokens": 413,
+    "estimatedCostUsd": 0.001258
+  }
+}

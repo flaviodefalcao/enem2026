@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:58:47.166Z",
+  "questionId": "enem-2024-ciencias-humanas-q068",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O desmatamento na Amazônia reduz o número de árvores, que são responsáveis por liberar muita água na atmosfera via transpiração, diminuindo a umidade e, consequentemente, a intensidade das chuvas convectivas na região.",
+      "stepByStep": [
+        "Identifique que o Texto I destaca a função das árvores em liberar entre 300 a 1000 litros de água por dia para a atmosfera, contribuindo para o ciclo da água local.",
+        "Entenda que essa água liberada pelas árvores contribui para a formação de chuvas na Amazônia, principalmente as chuvas convectivas.",
+        "Note que o Texto II informa uma grande área de desmatamento ocorrido na Amazônia, removendo muitas árvores dessa região.",
+        "Com menos árvores, a quantidade de água liberada para a atmosfera diminui, reduzindo a umidade local.",
+        "Menos umidade resulta em chuvas convectivas menos intensas, afetando o clima e o meio ambiente da região.",
+        "Por isso, a principal consequência do desmatamento, conforme o texto, é a diminuição da intensidade das chuvas convectivas."
+      ],
+      "commonPitfalls": [
+        "Confundir a influência do desmatamento com mudanças nos ventos alísios, que são fenômenos atmosféricos globais e não locais.",
+        "Focar no aquecimento do solo, que embora possa acontecer, não é o principal aspecto destacado no texto.",
+        "Assumir que a temperatura oceânica média é afetada diretamente pelo desmatamento da Amazônia.",
+        "Pensar que o índice de refletividade superficial é a principal consequência referida, quando o texto foca na redução da água liberada na atmosfera."
+      ],
+      "teachingTips": [
+        "Use exemplos práticos para mostrar o papel das árvores no ciclo da água e como a transpiração ajuda na formação das chuvas.",
+        "Explique a diferença entre fenômenos climáticos locais, como a transpiração e chuvas convectivas, e fenômenos globais, como ventos alísios e temperatura oceânica.",
+        "Estimule o aluno a relacionar informações de diferentes textos para entender causa e efeito em temas ambientais.",
+        "Enfatize a importância da interpretação crítica ao analisar dados para evitar generalizações incorretas sobre o impacto ambiental."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1848,
+    "outputTokens": 452,
+    "estimatedCostUsd": 0.001462
+  }
+}

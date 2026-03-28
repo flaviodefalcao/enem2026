@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:02:13.880Z",
+  "questionId": "enem-2024-ciencias-humanas-q072",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto destaca que pessoas com deficiência enfrentam vulnerabilidades e desigualdades nas relações sociais, o que exige uma ética interpessoal baseada no cuidado, proteção e valorização dessas pessoas, para promover respeito e igualdade.",
+      "stepByStep": [
+        "Leia o texto com atenção e identifique o principal problema: as vulnerabilidades e desigualdades entre pessoas com e sem deficiência.",
+        "Observe que a vulnerabilidade aumenta para pessoas que também pertencem a outros grupos de risco, como mulheres e crianças.",
+        "Entenda que o texto pede uma ética interpessoal que reconheça essa vulnerabilidade e desigualdade para promover uma convivência mais justa.",
+        "Analise as alternativas buscando aquela que proponha uma postura ética que defenda cuidado, proteção e valorização das pessoas com deficiência.",
+        "Confirme que a alternativa A é a que melhor corresponde à ética mencionada no texto, centrada na dignidade e proteção dos vulneráveis."
+      ],
+      "commonPitfalls": [
+        "Confundir ética interpessoal com aspectos legais ou punições, desviando o foco do cuidado e proteção.",
+        "Interpretar que a solução está no perdão ou na tolerância dos outros, o que não aborda a valorização da pessoa com deficiência.",
+        "Achar que controle rígido ou cerceamento são formas adequadas de ética, quando na verdade podem reforçar desigualdades.",
+        "Pensar que a resposta envolve introspecção ou indulgência pessoal, que não promovem proteção ou valorização do outro."
+      ],
+      "teachingTips": [
+        "Estimule a leitura crítica para identificar a mensagem central sobre vulnerabilidade e desigualdade social.",
+        "Discuta a importância da ética interpessoal baseada em respeito, cuidado e valorização das pessoas em situação de vulnerabilidade.",
+        "Ajude os alunos a diferenciar abordagens éticas, legais e morais, reforçando o foco da questão.",
+        "Utilize exemplos reais para ilustrar o impacto da assimetria nas relações e como a ética pode atuar para promovê-la.",
+        "Encoraje a análise cuidadosa das alternativas, relacionando cada uma com os valores éticos presentes no texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1479,
+    "outputTokens": 415,
+    "estimatedCostUsd": 0.001256
+  }
+}

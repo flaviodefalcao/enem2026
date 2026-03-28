@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:06:50.343Z",
+  "questionId": "enem-2024-linguagens-q014",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta porque as variedades linguísticas apresentadas no texto são manifestações legítimas do português brasileiro, refletindo a riqueza e a diversidade cultural e linguística do país.",
+      "strategy": "Analisar o texto para entender o que são variedades linguísticas e o que ele evidencia sobre elas, relacionando com o conhecimento linguístico sobre o português brasileiro.",
+      "steps": [
+        "Ler atentamente o texto para identificar o que ele relata sobre as expressões linguísticas usadas pelos maranhenses.",
+        "Entender o conceito de variedades linguísticas como variações do português existentes em diferentes regiões ou grupos.",
+        "Verificar as alternativas e confrontá-las com a interpretação do texto e o conceito de variedades linguísticas.",
+        "Descartar opções que contrariam a ideia do texto ou apresentam uma visão muito restritiva ou equivocada do fenômeno linguístico.",
+        "Confirmar que a alternativa que afirma que as variedades são constitutivas do português brasileiro (C) está em conformidade com os conhecimentos linguísticos e com o texto.",
+        "Optar pela alternativa C como resposta correta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que, por causa das expressões diferentes, a comunicação ficaria prejudicada, levando à ideia de que as variedades impedem o entendimento.",
+        "misconceptionType": "Falso dilema ou generalização errada",
+        "whyItLooksPlausible": "A pessoa pode imaginar que as variedades dificultam a comunicação e o entendimento mútuo.",
+        "whyItIsWrong": "As variedades podem apresentar diferenças, mas não impedem necessariamente o entendimento mútuo, que ocorre normalmente entre falantes do português."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode haver confusão ao pensar que as variedades regionais são usadas para enaltecer um dialeto ou variante local específica.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "O texto fala da riqueza do maranhês, o que pode levar a crer que o foco é valorizar o português do Maranhão exclusivamente.",
+        "whyItIsWrong": "O texto não fala em enaltecer uma variedade como superior, apenas evidencia a existência das variedades; as variedades não são exclusivas ou superiores entre si."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A ideia errada de que termos regionais precisam ser incluídos em dicionários formalmente para serem legítimos.",
+        "misconceptionType": "Visão prescritivista e de normatividade linguística",
+        "whyItLooksPlausible": "No texto, o fotógrafo fala sobre um 'dicionário' maranhês, que pode levar à ideia de necessidade de formalização.",
+        "whyItIsWrong": "Variedades linguísticas existem independentemente da inclusão em dicionários; dicionarização não é requisito para a validade das expressões."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que as variedades linguísticas de um estado são usadas apenas em situações informais, não em outras.",
+        "misconceptionType": "Redução simplista da função da linguagem",
+        "whyItLooksPlausible": "Muitos associam variações regionais a contextos coloquiais e informais, o que é comum em falas cotidianas.",
+        "whyItIsWrong": "Variedades regionais permeiam múltiplos contextos de comunicação, não sendo restritas só à comunicação coloquial."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação textual na área de linguagens",
+      "secondarySkills": [
+        "Conhecimento de variedades linguísticas",
+        "Raciocínio crítico linguístico"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretação textual e conhecimento básico sobre variedades linguísticas no português brasileiro.",
+        "Não há imagens para analisar, logo o raciocínio é exclusivamente textual e conceitual.",
+        "A interpretação correta contraria ideias comuns sobre falhas de comunicação devido a variedades regionais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 807,
+    "outputTokens": 823,
+    "estimatedCostUsd": 0.00164
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T22:35:42.940Z",
+  "questionId": "enem-2024-ciencias-humanas-q046",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta correta é a letra C, pois os registros de terremotos nas regiões mencionadas estão relacionados às áreas de subducção, onde as placas tectônicas interagem ativamente.",
+      "strategy": "Analisar o padrão geológico das regiões mencionadas conforme o texto e as imagens, que indicam a relação das atividades sísmicas com as placas tectônicas em zonas de subducção.",
+      "steps": [
+        "Identificar as regiões geográficas citadas no texto (Valparaíso, Amazonas, interior de SP).",
+        "Associar cada ocorrência de terremoto às suas posições relativas às placas tectônicas.",
+        "Reconhecer que Valparaíso está próximo da zona de subducção da placa de Nazca sob a placa Sul-Americana.",
+        "Reconhecer que terremotos no Amazonas e interior de SP geralmente estão associados a atividades internas ou outras falhas tectônicas, mas as maiores diferenças estão relacionadas às zonas de subducção.",
+        "Concluir que a principal causa das diferenças na intensidade dos terremotos é a ocorrência de subducção na região de Valparaíso.",
+        "Confirmar a alternativa com base nesse entendimento."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Mapa das placas tectônicas indicando zonas de subducção"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) Planícies costeiras.",
+        "likelyReasoning": "O distrator associa a localização costeira como fator diferenciador.",
+        "misconceptionType": "Falta de compreensão da relação entre a atividade sísmica e a dinâmica das placas tectônicas.",
+        "whyItLooksPlausible": "Porque regiões costeiras podem ser facilmente associadas à atividade sísmica.",
+        "whyItIsWrong": "Pois a questão focaliza a origem dos terremotos relacionados às atividades tectônicas específicas, como a subducção, não apenas a proximidade ao mar."
+      },
+      {
+        "option": "B) Bacias continentais.",
+        "likelyReasoning": "Bacias podem parecer regiões de menor atividade tectônica e, portanto, um fator diferenciador.",
+        "misconceptionType": "Confusão entre diferentes tipos de estruturas geológicas.",
+        "whyItLooksPlausible": "Pois bacias podem estar associadas a áreas de acomodação de crosta.",
+        "whyItIsWrong": "Porque a origem dos terremotos na região de Valparaíso é ligada à subducção, não às bacias continentais."
+      },
+      {
+        "option": "D) Áreas de denudação.",
+        "likelyReasoning": "Áreas de denudação podem parecer relevantes por sua atividade geológica superficial.",
+        "misconceptionType": "Confusão entre processos superficiais e tectônicos.",
+        "whyItLooksPlausible": "Devido à atividade de erosão e desgaste no relevo.",
+        "whyItIsWrong": "Pois o foco da questão é na atividade tectônica de placas de subducção, não na denudação."
+      },
+      {
+        "option": "E) Vertentes escarpadas.",
+        "likelyReasoning": "Escarpamentos podem parecer relevantes por sua formação geológica.",
+        "misconceptionType": "Confusão entre relevo e os processos de origem tectônica.",
+        "whyItLooksPlausible": "Relevo íngreme pode parecer relacionado à atividade sísmica.",
+        "whyItIsWrong": "Porque a questão não trata de relevo escarpado, mas de zonas de interação de placas tectônicas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento sobre placas tectônicas e atividades sísmicas.",
+      "secondarySkills": [
+        "Interpretação de mapas tectônicos",
+        "Relação entre geologia e sismicidade"
+      ],
+      "cognitiveDemand": "Análise e aplicação de conceitos geológicos para relacionar eventos sísmicos com processos tectônicos.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Enriquecimento com conhecimento sobre subducção e limites de placas tectônicas.",
+        "Importância de compreender a dinâmica das placas para explicar variações na atividade sísmica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1514,
+    "outputTokens": 796,
+    "estimatedCostUsd": 0.00047
+  }
+}

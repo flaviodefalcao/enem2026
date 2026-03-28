@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:04:04.419Z",
+  "questionId": "enem-2024-ciencias-humanas-q074",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O Círio de Nazaré é reconhecido como patrimônio histórico por ser uma manifestação cultural imaterial, ou seja, uma festa tradicional e religiosa transmitida de geração em geração, e não um bem material como um edifício ou sítio arqueológico.",
+      "stepByStep": [
+        "Leia o texto para entender que o Círio de Nazaré é uma festa religiosa e cultural tradicional, muito antiga e socialmente significativa.",
+        "Identifique que o Círio é uma manifestação cultural imaterial, pois envolve práticas, rituais e expressões culturais, não um objeto ou lugar físico.",
+        "Leia as alternativas e perceba que o reconhecimento correto do Círio como patrimônio está ligado ao conceito de patrimônio cultural imaterial.",
+        "Descarte as alternativas que falam de patrimônio arqueológico, políticas locais, ou categorias religiosas oficiais, pois não correspondem à natureza do Círio.",
+        "Escolha a alternativa que relaciona o reconhecimento do Círio ao registro de bens culturais imateriais, pois é a mais precisa e adequada."
+      ],
+      "commonPitfalls": [
+        "Confundir patrimônio material (como prédios ou sítios históricos) com patrimônio imaterial (festas, tradições).",
+        "Pensar que políticas públicas locais são o principal critério de reconhecimento do patrimônio.",
+        "Associar automaticamente o patrimônio apenas com expressões religiosas restritas, sem considerar o aspecto cultural amplo.",
+        "Achar que o reconhecimento se dá pela oficialidade religiosa e não pelo valor cultural e histórico.",
+        "Interpretar o tombamento como se aplicando a festas ou eventos, quando é para bens materiais."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre patrimônio material e imaterial com exemplos claros, como festas versus edifícios.",
+        "Incentive os alunos a identificar palavras-chave no texto que indiquem o tipo de patrimônio em questão.",
+        "Use outras manifestações culturais nacionais reconhecidas como patrimônio imaterial para ampliar o entendimento.",
+        "Enfatize que o reconhecimento como patrimônio depende da valorização cultural e histórica, e não apenas de políticas ou órgãos oficiais.",
+        "Pratique com questões semelhantes para fixar o conceito de patrimônio cultural e sua classificação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1581,
+    "outputTokens": 424,
+    "estimatedCostUsd": 0.001311
+  }
+}

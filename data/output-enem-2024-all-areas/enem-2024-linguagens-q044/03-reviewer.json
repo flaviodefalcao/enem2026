@@ -1,0 +1,179 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:40:59.438Z",
+  "questionId": "enem-2024-linguagens-q044",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é a correta porque o texto explica que a inclusão de modalidades como o break dance nos Jogos Olímpicos faz parte de uma estratégia para se comunicar com jovens urbanos, que possuem outras formas de se exercitar e se entreter, ou seja, uma adaptação do esporte às demandas atuais da sociedade.",
+        "strategy": "Interpretar o texto dado para compreender o significado da mudança no programa olímpico, especialmente no que tange a inclusão de novos esportes considerados culturais e artísticos, para identificar qual alternativa melhor traduz essa mudança.",
+        "steps": [
+          "Ler e compreender o texto, identificando a informação principal sobre as mudanças nos Jogos Olímpicos.",
+          "Observar que a inclusão de modalidades como o BMX Racing, skate e break dance são estratégias do Comitê Olímpico para atingir jovens urbanos.",
+          "Descartar alternativas que não estejam alinhadas com o motivo apontado no texto para a mudança (distanciar-se da cultura, tornar-se dança, manter forma padrão, aproximação da aventura).",
+          "Selecionar a alternativa que indica a adaptação do esporte às demandas do tempo, conforme explicitado no texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto apresenta que o programa olímpico mudou para incluir modalidades que dialogam com os jovens urbanos, mostrando que o esporte está se adaptando às transformações sociais e culturais da atualidade.",
+        "stepByStep": [
+          "Leia atentamente o texto para entender o tema central: a mudança no programa olímpico.",
+          "Identifique os exemplos dados (vôlei de praia, BMX, skate, break dance) e o que eles representam — uma aproximação com novas formas culturais e de lazer.",
+          "Observe o motivo desse processo, explicado no texto como uma estratégia para se comunicar com jovens urbanos, diferente das gerações anteriores.",
+          "Descarte alternativas que não condizem com a ideia de adaptação cultural, como as que falam em manter o padrão antigo ou aproximar-se da aventura.",
+          "Escolha a alternativa que diz que o esporte está se adaptando às demandas do tempo, pois é a que melhor traduz o argumento do texto."
+        ],
+        "commonPitfalls": [
+          "Interpretar que a mudança significa apenas uma aproximação da aventura, esquecendo o aspecto cultural.",
+          "Achar que o esporte permaneceu igual, não percebendo a transformação social explicada no texto.",
+          "Confundir a inclusão do break dance com a ideia de que todo esporte virou dança.",
+          "Pensar que a mudança afasta o esporte da cultura, quando na verdade ele incorpora novos elementos culturais."
+        ],
+        "teachingTips": [
+          "Incentive a leitura atenta do texto para identificar o tema principal e os argumentos apresentados.",
+          "Trabalhe com os alunos a distinção entre esporte, cultura e arte, mostrando como essas áreas podem se relacionar.",
+          "Explique a importância de analisar o motivo das mudanças mencionadas para responder questões de interpretação.",
+          "Utilize exemplos atuais para discutir como o esporte pode refletir transformações sociais e culturais ao longo do tempo.",
+          "Promova o debate sobre diferentes pontos de vista no texto, como o dos tradicionalistas versus o do Comitê Olímpico, para enriquecer a compreensão."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Parece correta para quem associa novos esportes como BMX e skate a atividades radicais e de aventura.",
+          "misconceptionType": "Interpretação equivocada do sentido da mudança no esporte.",
+          "whyItLooksPlausible": "O texto menciona esportes radicais, o que pode levar à ideia de aproximação da aventura.",
+          "whyItIsWrong": "O texto enfatiza adaptação cultural e comunicação com jovens, não uma aproximação da aventura em si."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode confundir quem acha que o esporte não sofreu alteração significativa na sua essência com a inclusão das modalidades.",
+          "misconceptionType": "Falta de inferência crítica sobre as mudanças apontadas.",
+          "whyItLooksPlausible": "Há o tradicionalismo mencionado que valoriza a forma padrão do esporte.",
+          "whyItIsWrong": "O texto mostra claramente que houve uma mudança significativa na seleção de modalidades, portanto não se mantém padrão."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Parece correto para quem lê a inclusão do break dance e pensa que todo esporte virou dança.",
+          "misconceptionType": "Generalização indevida, confunde modalidade com transformação do esporte em dança.",
+          "whyItLooksPlausible": "O break dance é um tipo de dança, então pode levar a essa conclusão errada.",
+          "whyItIsWrong": "O texto sugere inclusão de modalidades variadas, não que o esporte se tornou uma forma de dança."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Alguns podem pensar que inclusão de novos esportes afastaria manifestações culturais tradicionais.",
+          "misconceptionType": "Compreensão errônea da relação entre esporte e cultura no texto.",
+          "whyItLooksPlausible": "Para puristas mencionados no texto, a inclusão do break dance pode parecer uma afronta, sugerindo afastamento da cultura tradicional.",
+          "whyItIsWrong": "O texto indica exatamente o contrário: o esporte está incorporando novos elementos culturais."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto",
+        "secondarySkills": [
+          "Análise crítica",
+          "Compreensão cultural"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão avalia a capacidade de compreender a mudança cultural e social refletida na evolução dos esportes olímpicos.",
+          "Exige inferência sobre o motivo da inclusão de novas modalidades no contexto juvenil e urbano.",
+          "Não depende de informações visuais, apenas do texto dado."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "⛹️",
+        "shortThemeTitle": "Transformação cultural nos esportes olímpicos",
+        "interpretationIntro": "A questão solicita a compreensão da mudança no programa olímpico mencionada no texto, buscando o conceito que melhor explica essa transformação.",
+        "commandTerms": [
+          {
+            "term": "Adaptar",
+            "explanation": "Ajustar-se a novas condições, como as demandas sociais contemporâneas."
+          },
+          {
+            "term": "Estratégia",
+            "explanation": "Plano de ação para atingir objetivos, no caso, atrair jovens urbanos."
+          }
+        ],
+        "whatTheQuestionAsks": "O que a mudança nas modalidades do programa olímpico indica sobre o esporte em relação às transformações sociais e culturais atuais?",
+        "strategyParagraph": "Para responder, deve-se interpretar o texto atentamente, identificando o motivo da inclusão de esportes considerados culturais e artísticos (como break dance) e entender que o Comitê Olímpico visa se aproximar de novos públicos, em especial jovens urbanos, usando isso para escolher a alternativa que fala em adaptação do esporte às demandas do tempo.",
+        "reviewTable": [
+          {
+            "concept": "Esporte",
+            "keyIdea": "Atividade física com regras e competição.",
+            "application": "Exemplificado pelos Jogos Olímpicos e suas modalidades."
+          },
+          {
+            "concept": "Cultura",
+            "keyIdea": "Conjunto de práticas e manifestações sociais e artísticas.",
+            "application": "Inclusão de modalidades culturais como o break dance nos Jogos."
+          },
+          {
+            "concept": "Adaptação social",
+            "keyIdea": "Mudança para atender necessidades ou contextos contemporâneos.",
+            "application": "Mudança no programa olímpico para se comunicar com jovens urbanos."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os esportes olímpicos tradicionais vêm incorporando modalidades que dialogam com as transformações culturais e sociais da atualidade, reconhecendo diferentes formas de lazer e expressão, como é o caso do break dance, que é uma manifestação artística e cultural urbanizada.",
+          "Essa evolução dos esportes demonstra o processo de adaptação do evento olímpico para se manter relevante e atrativo a novos públicos, especialmente as gerações mais jovens, que possuem modos distintos de se exercitar e se entreter, diferentes dos antigos padrões.",
+          "A mudança reflete, portanto, uma integração entre esporte, cultura e arte que visa ampliar a representatividade e engajamento nos Jogos, superando o tradicionalismo que via separação rígida entre essas áreas."
+        ],
+        "resolutionParagraphs": [
+          "O texto destaca que os Jogos Olímpicos estão se transformando ao incluir modalidades que antes não eram consideradas esportes olímpicos, como o break dance, BMX racing e skate, para atrair um público jovem e urbano.",
+          "Essa mudança é parte de uma estratégia do Comitê Olímpico Internacional para adaptar o evento às realidades sociais atuais, incorporando elementos culturais e artísticos que conectam o esporte com novas formas de lazer e expressão.",
+          "Dessa forma, o esporte está se adaptando às demandas do tempo, incorporando diversidade cultural e aproximando-se dos interesses das novas gerações, conforme explicitado na alternativa E.",
+          "As outras alternativas não refletem essa análise: A foca apenas na aventura, B sugere manutenção do padrão tradicional, C exagera ao transformar esporte em dança, e D representa o ponto de vista tradicionalista, que a questão não sustenta como a resposta correta."
+        ],
+        "puloDoGato": "Lembre que o esporte é dinâmico: mudanças nos Jogos refletem adaptações culturais para se manter relevante, não mera aventura ou retirada da cultura.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apesar de mencionar esportes radicais, o texto aponta a mudança como adaptação cultural e comunicação com jovens, não simplesmente uma aproximação da aventura."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "O texto mostra que houve mudança no programa olímpico, portanto, o esporte não permanece inalterado em sua forma tradicional."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "A inclusão do break dance não implica que o esporte tenha se tornado dança, mas sim que novas modalidades culturais foram incorporadas."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Embora o tradicionalismo critique a mudança, o texto enfatiza que o esporte incorpora esses novos elementos culturais, não se distancia deles."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Correta porque demonstra que o esporte está se adaptando às demandas atuais, dialogando com as novas formas de se exercitar e se entreter dos jovens urbanos."
+          }
+        ],
+        "questionCode": "LINGUAGENS_INTERPRETACAO_TEXTO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução e explicações estão coerentes entre si e com o enunciado da questão. A escolha da alternativa correta está justificada e as alternativas incorretas são comentadas adequadamente. O estilo do texto está claro, didático e estruturado conforme as orientações.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2703,
+    "outputTokens": 2143,
+    "estimatedCostUsd": 0.00451
+  }
+}

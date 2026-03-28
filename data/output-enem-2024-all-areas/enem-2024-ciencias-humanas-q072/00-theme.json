@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:01:47.683Z",
+  "questionId": "enem-2024-ciencias-humanas-q072",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Inclusão social",
+    "rationale": "A questão aborda a inclusão social de pessoas com deficiência, ressaltando a vulnerabilidade e a necessidade de promover uma ética interpessoal de cuidado e valorização para combater a assimetria nas relações sociais. Isso está diretamente relacionado ao tema de cidadania e democracia, mais especificamente ao subtema de inclusão social, conforme indicado pela habilidade H25 e a competência 5.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 988,
+    "outputTokens": 97,
+    "estimatedCostUsd": 0.00055
+  }
+}

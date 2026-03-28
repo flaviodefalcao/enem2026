@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:28:50.391Z",
+  "questionId": "enem-2024-q148",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A função modelo T(t) = a + 80 b^t representa o resfriamento da caneca com o tempo, sendo a temperatura inicial em t=0, e b a taxa de decaimento. Usando os dados do gráfico, encontramos a = 20 e b = (0,5)^(1/10).",
+      "stepByStep": [
+        "Observe no gráfico que a temperatura inicial, em t=0, é 100°C.",
+        "Substitua t=0 na função: T(0) = a + 80 b^0 = a + 80 = 100.",
+        "Isolando a, temos a = 20.",
+        "Observe no gráfico a temperatura em t=10 minutos, que é aproximadamente 60°C.",
+        "Substitua t=10 na função: T(10) = 20 + 80 b^{10} = 60.",
+        "Isolando b^{10}, temos 80 b^{10} = 40, então b^{10} = 0,5.",
+        "Para encontrar b, calculamos a raiz décima: b = (0,5)^{1/10}.",
+        "Assim, os valores são a=20 e b=(0,5)^{1/10}, que representam a alternativa correta."
+      ],
+      "commonPitfalls": [
+        "Confundir a função exponencial com logaritmo e usar log(0,5) como base para b.",
+        "Achar que a constante a é a temperatura inicial total (100), sem considerar a soma na função.",
+        "Escolher um valor de b maior que 1, o que indicaria aumento e não decaimento da temperatura.",
+        "Não usar dois pontos do gráfico para calcular a constante b corretamente."
+      ],
+      "teachingTips": [
+        "Explique o significado dos parâmetros no modelo exponencial de decaimento.",
+        "Incentive o uso do gráfico para extrair pontos chave para cálculos.",
+        "Reforce a ideia de que b^t deve representar um decaimento, então 0<b<1.",
+        "Proponha exercícios similares para praticar a modelagem e interpretação de funções exponenciais.",
+        "Use representações visuais para conectar função matemática e fenômenos reais (como resfriamento)."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2063,
+    "outputTokens": 450,
+    "estimatedCostUsd": 0.001545
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:09:09.715Z",
+  "questionId": "enem-2024-ciencias-humanas-q079",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta porque a integração socioeconômica promove a inclusão dos refugiados na sociedade, eliminando barreiras de exclusão e rejeição descritas no texto, reduzindo vulnerabilidades e incertezas.",
+      "strategy": "Análise do texto para compreender o conceito de fronteira simbólica entre inclusão e exclusão que afeta refugiados, e identificação da política pública que atua para eliminar essas barreiras.",
+      "steps": [
+        "Interpretar que o texto aborda a fronteira simbólica entre inclusão e exclusão dos refugiados.",
+        "Reconhecer que para eliminar essa fronteira é necessário incluir social e economicamente os refugiados.",
+        "Analisar cada alternativa para verificar qual promove essa inclusão.",
+        "Descartar alternativas que não contribuem para a inclusão social e econômica.",
+        "Confirmar que a integração socioeconômica (alternativa E) é a política pública que elimina barreiras de exclusão."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que planejamento familiar auxilia a integração de refugiados ao controlar o crescimento populacional.",
+        "misconceptionType": "Aplicação incorreta de política pública",
+        "whyItLooksPlausible": "O planejamento familiar está relacionado a políticas sociais que podem ser associadas a acolhimento.",
+        "whyItIsWrong": "Não atua diretamente na eliminação da fronteira entre inclusão e exclusão dos refugiados."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "A segregação territorial pode parecer uma forma de organizar e proteger determinados grupos.",
+        "misconceptionType": "Confusão entre segregação e inclusão",
+        "whyItLooksPlausible": "Segregação cria espaços específicos para refugiados.",
+        "whyItIsWrong": "Segregação reforça exclusão e divisão, contrariando o objetivo do acolhimento."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Homogeneização cultural poderia parecer uma maneira de facilitar convivência.",
+        "misconceptionType": "Ignorância da diversidade cultural",
+        "whyItLooksPlausible": "Pode parecer que eliminar diferenças culturais ajuda na aceitação.",
+        "whyItIsWrong": "Pressupõe perda da identidade cultural, o que aumenta exclusão e resistência."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Diferenciação étnico-racial pode parecer um reconhecimento das identidades.",
+        "misconceptionType": "Confusão entre reconhecimento e exclusão",
+        "whyItLooksPlausible": "Destacar diferenças pode ser visto como valorização de grupos.",
+        "whyItIsWrong": "Pode gerar divisão e exclusão, não integração dos refugiados."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de textos e temáticas sociais",
+      "secondarySkills": [
+        "Compreensão de políticas públicas",
+        "Relações sociais e culturais"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretação do conceito de fronteira simbólica entre inclusão e exclusão.",
+        "Busca a relação entre vulnerabilidade dos refugiados e políticas públicas adequadas.",
+        "Não há elementos visuais para análise."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 576,
+    "outputTokens": 638,
+    "estimatedCostUsd": 0.001251
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "questionId": "enem-2024-ciencias-humanas-q054",
+  "generatedAt": "2026-03-28T00:48:48.497Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 643,
+      "outputTokens": 774,
+      "estimatedCostUsd": 0.001496
+    },
+    "explainer": {
+      "inputTokens": 1279,
+      "outputTokens": 444,
+      "estimatedCostUsd": 0.001222
+    },
+    "reviewer": {
+      "inputTokens": 2647,
+      "outputTokens": 2277,
+      "estimatedCostUsd": 0.004702
+    },
+    "totalEstimatedCostUsd": 0.00742
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A resposta correta é D, pois o texto aborda o preconceito que reduz a credibilidade das falas de certos grupos sociais, caracterizando uma injustiça epistêmica.",
+      "strategy": "Interpretação do conceito exposto no texto e associação com os tipos de injustiça listados nas alternativas, identificando qual se encaixa melhor na situação descrita.",
+      "steps": [
+        "Ler o enunciado atentamente para identificar a natureza do preconceito tratado: redução da credibilidade e controle do discurso de determinados grupos sociais.",
+        "Reconhecer que essa situação configura uma injustiça baseada no conhecimento e na credibilidade das informações fornecidas por indivíduos—ou seja, injustiça epistêmica.",
+        "Analisar cada alternativa e verificar qual delas se relaciona com a forma de injustiça discutida no texto.",
+        "Descartar alternativas que tratam de aspectos estéticos, sensoriais, afetivos ou econômicos, pois não correspondem ao contexto de descredibilização de fala e conhecimento."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O preconceito de identidade mencionado no texto diminui a credibilidade das falas de certos grupos sociais, configurando uma injustiça epistêmica, que ocorre quando um indivíduo é injustamente descreditado pela sua identidade social.",
+      "stepByStep": [
+        "Leia atentamente o enunciado para entender que o foco é a perda de credibilidade das falas de certos grupos sociais devido a preconceitos relacionados a gênero e raça.",
+        "Reconheça que a situação descrita trata da desvalorização da capacidade de produção ou de transmissão de conhecimento de indivíduos ou grupos.",
+        "Identifique que essa perda de credibilidade por causa da identidade social é uma injustiça epistêmica, um conceito em filosofia que explica esse tipo de discriminação no âmbito do conhecimento.",
+        "Compare as alternativas oferecidas, eliminando aquelas que tratam de outros tipos de injustiça (estética, sensorial, afetiva ou econômica) que não correspondem ao foco do texto.",
+        "Escolha a alternativa que descreve a injustiça epistêmica, pois ela melhor corresponde ao cenário apresentado no enunciado."
+      ],
+      "commonPitfalls": [
+        "Confundir injustiça epistêmica com injustiça estética, achando que o foco seja aparência física ou padrões.",
+        "Interpretar o preconceito sensorial como relacionado ao tema, embora o texto fale sobre credibilidade e não sobre sentidos ou percepções.",
+        "Associar injustiça afetiva à dificuldade de expressão emocional, quando o texto trata especificamente da descredibilização do discurso.",
+        "Acreditar que o preconceito de identidade mencionado gera diretamente desigualdade econômica, confundindo causas e consequências."
+      ],
+      "teachingTips": [
+        "Explique o conceito de injustiça epistêmica, destacando como preconceitos sociais podem afetar quem é ouvido e acreditado.",
+        "Use exemplos cotidianos para ilustrar quando a credibilidade de alguém é injustamente diminuída por fatores como raça ou gênero.",
+        "Incentive os estudantes a relacionarem conceitos filosóficos e sociais com textos e situações reais, praticando assim a interpretação crítica.",
+        "Reforce a importância de desconstruir estereótipos e preconceitos que influem nas relações de conhecimento e comunicação entre diferentes grupos sociais."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O aluno pode associar preconceito a padrões estéticos e desigualdade corporal, interpretando injustiça estética como um tipo de discriminação social.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "A injustiça estética refere-se à normatização de padrões enfrentada por grupos marginalizados, que pode parecer relacionada à discriminação mencionada.",
+        "whyItIsWrong": "O enunciado foca na credibilidade das falas, não na aparência física ou padrões estéticos."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundem preconceito sensorial com a ideia de privilégios relacionados às percepções sensoriais, como as habilidades visuais.",
+        "misconceptionType": "Interpretação errônea do termo técnico",
+        "whyItLooksPlausible": "Preconceitos podem ocorrer em diversos domínios, inclusive sensoriais, levando a supor que prejudique trocas comunicativas.",
+        "whyItIsWrong": "O texto se refere à descredibilização de falas em função de identidades sociais, não a limitações ou privilégios sensoriais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associam preconceito à repressão emocional e à expressão afetiva bloqueada.",
+        "misconceptionType": "Falsa associação temática",
+        "whyItLooksPlausible": "Injustiça afetiva relaciona-se a emoções e afetos, o que pode parecer conexo à comunicação e interações humanas citadas.",
+        "whyItIsWrong": "A questão destaca a descredibilização do discurso e não o impedimento da expressão emocional."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretam preconceito de identidade como um fator que gera desigualdades econômicas diretas.",
+        "misconceptionType": "Redução simplista do conceito de preconceito",
+        "whyItLooksPlausible": "Desigualdades materializadas em termos econômicos são consequência comum de preconceitos sociais.",
+        "whyItIsWrong": "O texto focaliza a credibilidade e a comunicação, não as desigualdades econômicas propriamente ditas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação textual e análise conceitual",
+      "secondarySkills": [
+        "Compreensão de conceitos sociais",
+        "Relação entre texto e teoria social"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão demanda conhecimento prévio sobre injustiça epistêmica e preconceito de identidade.",
+        "É necessário interpretar o conceito de credibilidade e sua relação com grupos sociais dominantes.",
+        "Não há elementos visuais para análise nesta questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧠",
+      "shortThemeTitle": "Injustiça epistêmica por preconceito de identidade",
+      "interpretationIntro": "A questão propõe refletir sobre um tipo específico de injustiça decorrente do preconceito de identidade, que afeta a credibilidade das falas de determinados grupos sociais.",
+      "commandTerms": [
+        {
+          "term": "Preconceito de identidade",
+          "explanation": "Discriminação que reduz a credibilidade de alguém com base em características sociais, como gênero e raça."
+        },
+        {
+          "term": "Injustiça epistêmica",
+          "explanation": "Situação em que uma pessoa é injustamente descreditada no processo de produção ou transmissão de conhecimento."
+        }
+      ],
+      "whatTheQuestionAsks": "Identificar qual tipo de injustiça social é causado pelo preconceito que reduz a credibilidade das falas de membros de certos grupos sociais.",
+      "strategyParagraph": "Para resolver a questão, é importante compreender o conceito apresentado no texto, que trata do impacto do preconceito de identidade na credibilidade dos discursos. Analisa-se o tipo de injustiça que esse preconceito representa, comparando com os tipos apresentados nas alternativas e eliminando os que não se encaixam no contexto — como estético, sensorial, afetivo e econômico — para escolher a alternativa que melhor representa a injustiça epistêmica.",
+      "reviewTable": [
+        {
+          "concept": "Preconceito de identidade",
+          "keyIdea": "Impacta a credibilidade das falas de indivíduos de grupos sociais dominantes e subalternizados.",
+          "application": "Texto destaca como grupos dominantes descredibilizam falas usando preconceito baseado em gênero e raça."
+        },
+        {
+          "concept": "Injustiça epistêmica",
+          "keyIdea": "Injustiça que atinge a condição de quem é ouvido e acreditado.",
+          "application": "A perda de credibilidade das falas, conforme narrado no texto, configura injustiça epistêmica."
+        }
+      ],
+      "theoryParagraphs": [
+        "O preconceito de identidade refere-se à discriminação baseada em características sociais como gênero e raça, que afeta não apenas o acesso a direitos e oportunidades, mas também a forma como as falas e os conhecimentos de determinados grupos são recebidos e valorizados pela sociedade.",
+        "A injustiça epistêmica é um conceito da filosofia social que descreve situações em que indivíduos são injustamente desacreditados ou marginalizados como fontes de conhecimento devido a preconceitos relacionados à sua identidade social, o que resulta em uma forma de exclusão epistemológica.",
+        "No contexto social, essa injustiça implica que certos grupos têm suas vozes deslegitimadas, o que compromete a diversidade e a justiça na produção, compartilhamento e valorização do conhecimento."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado apresenta uma situação na qual grupos dominantes controlam o discurso e descredibilizam os testemunhos de membros de outros grupos por meio de preconceito de identidade, como os relacionados a gênero e raça.",
+        "Essa descredibilização reduz a confiança que se deposita nas falas desses grupos marginalizados, um exemplo claro de injustiça epistêmica, pois está relacionada à desvalorização injusta do conhecimento ou testemunho de alguém devido a sua identidade social.",
+        "Analisando as alternativas, verifica-se que apenas a alternativa que menciona a injustiça epistêmica reflete adequadamente o fenômeno descrito, enquanto as outras (injustiça estética, sensorial, afetiva e econômica) tratam de temas que não estão relacionados diretamente à questão da credibilidade e do conhecimento."
+      ],
+      "puloDoGato": "Foque no conceito de 'credibilidade' e 'conhecimento' para identificar que a injustiça é epistêmica, não estética ou econômica.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Embora a injustiça estética envolva preconceitos sociais, o foco da questão é a credibilidade das falas, não aspectos relacionados à aparência física, tornando essa alternativa incorreta."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A injustiça sensorial refere-se a preconceitos relacionados às capacidades sensoriais, não ao reconhecimento da credibilidade na transmissão do conhecimento, portanto não é aplicável aqui."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A injustiça afetiva está relacionada à expressão e recepção das emoções, que não é o foco do texto que trata da descredibilização das falas por preconceito de identidade."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "A alternativa correta, pois a injustiça epistêmica identifica exatamente a situação em que grupos têm sua credibilidade e capacidade de produzir conhecimento injustamente diminuídas por preconceito de identidade."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A injustiça econômica trata de desigualdades materiais e financeiras; o texto discute questões relacionadas à credibilidade, não a desigualdades econômicas diretas."
+        }
+      ],
+      "questionCode": "CH_SOCIAL_INJUSTICAO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "As respostas do solver e do explainer estão coerentes entre si e com o enunciado. A resolução oficial consolida adequadamente os conceitos envolvidos, apresentando explicações claras e comentários detalhados sobre as alternativas.",
+      "issues": []
+    }
+  }
+}

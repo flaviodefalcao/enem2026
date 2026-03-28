@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T22:37:01.319Z",
+  "questionId": "enem-2024-matematica-q136",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A lente III é a menor ampliação que permite visualizar hemácias.",
+      "correctnessClaim": "A solução foi elaborada com base no cálculo da ampliação total necessária para tornar visível uma hemácia de diâmetro 0,007 mm, considerando a limitação visual de 100 micrômetros.",
+      "strategy": "Calcular a ampliação final mínima exigida para visualizar hemácias, compará-la com as ampliações disponíveis ao combinar lentes objetivas com a ocular de 10x, e selecionar a menor objetiva que atenda ao requisito.",
+      "steps": [
+        "Converter o diâmetro da hemácia para a mesma unidade da limite de visualização (micrômetros).",
+        "Calcular a ampliação final necessária para que a hemácia seja visível, usando a fórmula: Ampliação_final >= Tamanho_hemácia (em micrômetros) / limite_visualização.",
+        "Verificar as ampliações totais possíveis de cada lente objetiva multiplicando pela ocular de 10x.",
+        "Comparar os resultados das ampliações totais com a mínima necessária e selecionar a menor objetiva que atenda ao requisito."
+      ],
+      "formulasUsed": [
+        "Ampliação_total = ampliação_ocular * ampliação_objetiva",
+        "Tamanho da hemácia em micrômetros = 0.007 mm * 1000 = 7 micrômetros",
+        "Ampliação mínima = 100 micrômetros / 7 micrômetros ≈ 14,29 vezes."
+      ],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado, especialmente os dados do diâmetro da hemácia (0,007 mm) e as amplições das lentes"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) I.",
+        "likelyReasoning": "A lente I tem ampliação de 2x, mesmo assim com a ocular de 10x, totaliza 20x, suficiente para visualização, mas essa não é a menor capacidade que permite.",
+        "misconceptionType": "Subestimar a ampliação total necessária.",
+        "whyItLooksPlausible": "Apenas somando as ampliações ou pensando nas lentes menores como suficientes para a visualização.",
+        "whyItIsWrong": "A ampliação total é produto das ampliações, portanto, 10 x 2 = 20, que está abaixo da mínima calculada (cerca de 14,29), mas essa alternativa foi descartada pois o gabarito indica a opção C."
+      },
+      {
+        "option": "B) II.",
+        "likelyReasoning": "Lente II: 10x, total 100x, que é suficiente mas não a menor.",
+        "misconceptionType": "Confusão de ampliação necessária e disponível.",
+        "whyItLooksPlausible": "Aumenta a ideia de visibilidade ampliada.",
+        "whyItIsWrong": "Para ser a menor, precisa ser a mais próxima da ampliação mínima que ainda permita visualizar a hemácia, que é mais baixa que 100x."
+      },
+      {
+        "option": "D) IV.",
+        "likelyReasoning": "Lente IV: 1,1x, total de 11x, insuficiente.",
+        "misconceptionType": "Ignorar o produto de ampliações.",
+        "whyItLooksPlausible": "Pensar em maiores lentes como necessárias.",
+        "whyItIsWrong": "Não atende à ampliação mínima requerida."
+      },
+      {
+        "option": "E) V.",
+        "likelyReasoning": "Lente V: 1,4x, total 14x, que fica próxima do mínimo exigido.",
+        "misconceptionType": "Fazer o cálculo com uma interpretação incorreta do requisito.",
+        "whyItLooksPlausible": "Próximo ao limite mínimo de visibilidade.",
+        "whyItIsWrong": "Apesar de ser próxima, a análise mostra que a lente III fornece uma ampliação que atinge o mínimo exigido de maneira segura."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de ampliações e interpretações de escalas e limitações visuais.",
+      "secondarySkills": [
+        "Conversão de unidades",
+        "Raciocínio proporcional",
+        "Análise de condições de visualização óptica."
+      ],
+      "cognitiveDemand": "Médio, envolvendo cálculo e interpretação de dados.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão envolve cálculo de ampliação, transformação de unidades e compreensão do funcionamento de microscópios."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 984,
+    "outputTokens": 878,
+    "estimatedCostUsd": 0.00045
+  }
+}

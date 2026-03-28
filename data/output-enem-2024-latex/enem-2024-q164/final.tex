@@ -1,0 +1,69 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 164 — ENEM 2024 — Matemática}
+
+\textbf{Enunciado:}
+A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto $H$ representa o local onde está construído o hospital; os pontos $P_1$, $P_2$ e $P_3$, os postos de saúde; e esses quatro pontos estão em um mesmo plano.
+
+A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre
+
+\section*{Análise Técnica}
+
+Os pontos $P_1$, $P_2$, e $P_3$ formam um triângulo equilátero de lado 10 km. O hospital $H$ é um ponto que tem a mesma distância a cada um dos $P_i$, indicando que $H$ corresponde ao centroide (que coincide também com o circuncentro e incentro em triângulos equiláteros).
+
+Calculamos a altura do triângulo como
+\[
+h = \frac{10 \sqrt{3}}{2} = 5 \sqrt{3} \approx 8{,}66 \text{ km}.
+\]
+
+A distância do centroide $H$ ao vértice (posto) é
+\[
+d = \frac{2}{3}h = \frac{2}{3} \times 5 \sqrt{3} = \frac{10 \sqrt{3}}{3} \approx 5{,}77 \text{ km}.
+\]
+
+Logo, a distância procurada está entre 5 e 6 km.
+
+\section*{Explicação Didática}
+
+\begin{itemize}
+  \item Os três postos formam um triângulo equilátero de lado 10 km.
+  \item O hospital está no centroide, ponto equidistante dos vértices.
+  \item Usamos a fórmula da altura e a posição do centroide para calcular a distância.
+  \item A distância encontrada, aproximadamente 5,77 km, está entre 5 e 6 km.
+  \item Evitar confusões comuns quanto à localização do ponto $H$ e o entendimento dos centros notáveis.
+\end{itemize}
+
+\section*{Distratores}
+
+\begin{tabular}{|c|p{4cm}|p{4cm}|p{4cm}|p{5cm}|}
+\hline
+Opção & Raciocínio provável & Tipo de erro & Por que parece plausível & Por que é incorreto \\ \hline
+A & Hospital dentro do triângulo, distância menor que metade do lado & Confusão de localização & Valores pequenos são críveis para pontos internos & Subestima distância pois hospital está mais próximo do centro \\ \hline
+B & Usar altura total como distância & Confunde altura e distância do centroide & Valor 5 aparece no cálculo & Hospital está mais distante que metade da altura \\ \hline
+D & Hospital fora do triângulo, distância maior que altura & Interpretação incorreta da posição & Distância maior parece razoável se fora & Hospital é interno ao triângulo \\ \hline
+E & Confunde lado do triângulo com distância ao hospital & Interpretação errada dos pontos & Lado 10 km parece valor lógico & Distância não deve ser igual ao lado, pois hospital é interno \\ \hline
+\end{tabular}
+
+\section*{Perfil do Item}
+
+\begin{itemize}
+  \item Habilidade principal: Geometria plana.
+  \item Habilidades secundárias: Propriedades de triângulos equiláteros, cálculo geométrico.
+  \item Nível cognitivo: Médio.
+  \item Exige interpretação visual e cálculos geométricos.
+\end{itemize}
+
+\section*{Revisão de Consistência}
+
+O enunciado, a solução técnica e a explicação didática são coerentes e estão alinhados com a imagem que sugere um triângulo equilátero com lados de 10 km e um ponto $H$ equidistante dos vértices. A resposta final está correta e bem fundamentada. Os distractores são verossímeis com justificativas compreensíveis. A dificuldade e o perfil cognitivo do item estão adequadamente estimados.
+
+\bigskip
+
+\textbf{Resposta final:} a distância entre o hospital e cada um dos postos de saúde está entre \textbf{5 e 6 km}.
+
+\end{document}

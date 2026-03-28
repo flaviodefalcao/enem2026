@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:32:33.812Z",
+  "questionId": "enem-2024-linguagens-q033",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A expressão “Vou deixar que você se vá”, junto à imagem de uma pessoa sorridente segurando uma blusa, convida as pessoas a doarem roupas que não usam mais, incentivando o desapego e a solidariedade com quem precisa.",
+      "stepByStep": [
+        "Leia a frase principal no cartaz: \"Vou deixar que você se vá\".",
+        "Observe a imagem da pessoa sorridente segurando uma blusa, que sugere doação e cuidado.",
+        "Leia o texto complementar que reforça o pedido para doar roupas, calçados e cobertores em bom estado.",
+        "Relacione o sentido literal da expressão com o ato figurado de ‘deixar ir’ como desapegar para ajudar o próximo.",
+        "Compare as alternativas e identifique aquela que destaca a intenção de doação e solidariedade expressa no cartaz."
+      ],
+      "commonPitfalls": [
+        "Interpretar a frase como incentivo para descartar roupas defeituosas ou jogar fora.",
+        "Confundir doação com reciclagem ou reutilização ambiental sem foco social.",
+        "Pensar que o cartaz está falando sobre conservar roupas em vez de doar.",
+        "Interpretar a frase apenas como uma despedida emocional, sem relação com doação."
+      ],
+      "teachingTips": [
+        "Explique o sentido figurado de expressões em campanhas publicitárias.",
+        "Incentive os alunos a conectar elementos verbais e visuais para compreender a mensagem.",
+        "Destaque a importância da solidariedade presente em campanhas sociais.",
+        "Trabalhe a diferença entre doação, descarte e reciclagem para evitar confusões.",
+        "Promova exercícios de interpretação integrada entre texto e imagem para fortalecer compreensão leitora."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1730,
+    "outputTokens": 335,
+    "estimatedCostUsd": 0.001228
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:59:30.571Z",
+  "questionId": "enem-2024-ciencias-humanas-q069",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto de Mary Wollstonecraft critica a educação e a visão social que limitam as mulheres a papéis superficiais, defendendo que elas devem buscar respeito por suas capacidades e virtudes, ou seja, valorizar seu papel social além da aparência ou funções tradicionais.",
+      "stepByStep": [
+        "Leia o texto atentamente para entender o que a autora critica e reivindica.",
+        "Identifique que Wollstonecraft reprova a educação que considera as mulheres apenas de forma superficial e estereotipada.",
+        "Observe que a autora defende uma ambição mais nobre para as mulheres: respeito por suas capacidades e virtudes.",
+        "Compare essa ideia com as opções de resposta apresentadas.",
+        "Elimine alternativas que não correspondem ao foco do texto, como participação política, salários ou diferenças biológicas.",
+        "Escolha a alternativa que enfatiza a valorização social das mulheres, respeitando suas capacidades e virtudes."
+      ],
+      "commonPitfalls": [
+        "Associar automaticamente 'reivindicação de direitos' com participação política, não percebendo o foco da autora em reconhecimento social e educacional.",
+        "Interpretar o texto como uma demanda por igualdade financeira ou salarial, que não é mencionada.",
+        "Confundir reconhecimento das mulheres com distinção biológica, quando o texto critica essa visão.",
+        "Pensar que a autora fala sobre ocupação de cargos públicos, embora o foco seja o respeito às virtudes e capacidades femininas."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o foco central do texto e a mensagem principal da autora antes de analisar as alternativas.",
+        "Enfatize a importância de relacionar as informações do texto com as opções oferecidas, eliminando as que ficam fora do contexto.",
+        "Trabalhe com textos históricos para desenvolver a compreensão do contexto social e filosófico da época.",
+        "Promova debates sobre estereótipos de gênero e sua presença em diferentes contextos para ampliar a análise crítica dos alunos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1231,
+    "outputTokens": 387,
+    "estimatedCostUsd": 0.001112
+  }
+}

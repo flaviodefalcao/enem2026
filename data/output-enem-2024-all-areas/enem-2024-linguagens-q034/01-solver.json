@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:33:13.411Z",
+  "questionId": "enem-2024-linguagens-q034",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B está correta porque o texto destaca que o aplicativo Linklado facilita a escrita de línguas indígenas por permitir combinações de acentos e caracteres especiais não disponíveis em teclados tradicionais, promovendo o registro escrito dessas línguas e, consequentemente, sua preservação e democratização.",
+      "strategy": "Realizar análise de compreensão textual para identificar o papel e o impacto do aplicativo Linklado conforme apresentado no texto, relacionando o enunciado com as alternativas.",
+      "steps": [
+        "Ler atentamente o texto para identificar o que é o Linklado e sua função.",
+        "Observar que o aplicativo facilita a escrita e transcrição de línguas indígenas no meio digital.",
+        "Notar que o texto menciona que o Linklado permite a combinação de acentos e caracteres especiais fora dos teclados convencionais.",
+        "Compreender que isso facilita o registro escrito das línguas maternas indígenas, contribuindo para sua preservação.",
+        "Confrontar cada alternativa com o que está explicitamente ou implicitamente afirmado no texto.",
+        "Verificar que a alternativa B está de acordo com a ideia do texto sobre democratização do registro escrito das línguas indígenas."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O estudante pode confundir a função do aplicativo com a criação de novos fonemas para línguas indígenas.",
+        "misconceptionType": "Confusão sobre as funcionalidades do aplicativo",
+        "whyItLooksPlausible": "O texto cita fonemas e representações gráficas, dando a impressão de que o app cria fonemas.",
+        "whyItIsWrong": "O aplicativo não cria fonemas, mas possibilita a representação gráfica deles no texto, facilitando a escrita."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A partir da menção inicial sobre tradução de regras de jogos de tabuleiro, o estudante pode pensar que o app adapta essas regras.",
+        "misconceptionType": "Falta de foco na função principal descrita do aplicativo",
+        "whyItLooksPlausible": "O texto abre com um exemplo envolvendo regras de jogo traduzidas com auxílio do app.",
+        "whyItIsWrong": "O foco do app não é adaptar regras de jogos, mas possibilitar a escrita das línguas indígenas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O estudante pode supor que o app divulga técnicas de tradução, dado o contexto de tradução no texto.",
+        "misconceptionType": "Confusão entre tradução do conteúdo e função do aplicativo",
+        "whyItLooksPlausible": "Texto cita tradução e pesquisa, ligando o uso do app a esses processos.",
+        "whyItIsWrong": "O aplicativo facilita a escrita, não a divulgação das técnicas de tradução."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Alguns podem interpretar que o app ajuda na aprendizagem do português pelos indígenas devido ao contexto da tradução.",
+        "misconceptionType": "Interpretação errônea entre línguas envolvidas",
+        "whyItLooksPlausible": "O texto menciona tradução do português para tukano, podendo sugerir ensino do português.",
+        "whyItIsWrong": "O app serve para escrever línguas indígenas, não para ensinar português aos indígenas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Leitura e compreensão textual",
+      "secondarySkills": [
+        "Interpretação de texto",
+        "Análise crítica",
+        "Conhecimento sociocultural"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige leitura atenta para diferenciar funções do aplicativo.",
+        "Não há necessidade de conhecimento prévio técnico em linguística, mas atenção aos detalhes do texto.",
+        "Não há imagens ou dados numéricos envolvidos na questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 878,
+    "outputTokens": 764,
+    "estimatedCostUsd": 0.001574
+  }
+}

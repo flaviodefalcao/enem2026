@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:35:24.087Z",
+  "questionId": "enem-2024-linguagens-q037",
+  "payload": {
+    "theme": "Argumentação e gêneros",
+    "subtheme": "Estratégias argumentativas",
+    "rationale": "A questão trata da identificação de um recurso persuasivo usado pela autora para defender a importância da música, o que está diretamente relacionado às estratégias argumentativas presentes no texto.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1137,
+    "outputTokens": 60,
+    "estimatedCostUsd": 0.000551
+  }
+}

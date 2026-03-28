@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:10:01.829Z",
+  "questionId": "enem-2024-linguagens-q018",
+  "payload": {
+    "theme": "Linguagem corporal",
+    "subtheme": "Saúde e movimento",
+    "rationale": "A questão destaca a relação entre a atividade física, os impactos da pandemia na saúde mental e na manutenção dos exercícios, alinhando-se diretamente com o tema de saúde e movimento dentro da linguagem corporal, conforme a habilidade de transformação de hábitos corporais e a competência relacionada à linguagem corporal para a vida e identidade social.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1028,
+    "outputTokens": 86,
+    "estimatedCostUsd": 0.000549
+  }
+}

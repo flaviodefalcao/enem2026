@@ -1,0 +1,43 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:27:38.305Z",
+  "questionId": "enem-2024-q147",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para descobrir quais números representam a mesma quantidade, convertemos todos para a mesma forma (decimal) e comparamos. Nessa questão, as posições II, IV e V têm o valor 4,5, ou seja, representam a mesma quantidade.",
+      "stepByStep": [
+        "Leia todos os números apresentados nas posições I a VI.",
+        "Converta cada número para a forma decimal para facilitar a comparação:",
+        "- I: 4 1/2 = 4 + 0,5 = 4,5",
+        "- II: 4 1/2 = 4,5",
+        "- III: 10/45 = 2/9 ≈ 0,222",
+        "- IV: 18/4 = 4,5",
+        "- V: 4,5 (já decimal)",
+        "- VI: 4/5 = 0,8",
+        "Compare os valores decimais para encontrar os números iguais.",
+        "Observa-se que as posições II, IV e V têm o valor 4,5, representando a mesma quantidade.",
+        "Escolha essas posições como resposta, pois são as três quantidades iguais pedidas."
+      ],
+      "commonPitfalls": [
+        "Confundir ou não converter corretamente frações para decimais, causando erro na comparação.",
+        "Selecionar números que parecem próximos sem calcular o valor exato, especialmente frações próximas de 0,2 ou 0,8.",
+        "Ignorar algum número que representa a mesma quantidade, por falta de atenção nas conversões.",
+        "Pensar que números mistos diferentes na forma escrita não podem ser iguais, sem verificar o valor decimal."
+      ],
+      "teachingTips": [
+        "Ensine os alunos a converter diferentes representações numéricas para uma única forma padrão antes de comparar (fração, decimal ou porcentagem).",
+        "Pratique com exaustão a conversão de números mistos, frações e decimais entre si para fortalecer a compreensão.",
+        "Reforce que frações podem ser simplificadas para facilitar a comparação.",
+        "Utilize ferramentas visuais ou manipulativas para exemplificar a equivalência entre frações, números mistos e decimais.",
+        "Estimule os alunos a investigar com calma e certeza os valores antes de escolher a resposta, evitando decisões precipitadas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1892,
+    "outputTokens": 457,
+    "estimatedCostUsd": 0.001488
+  }
+}

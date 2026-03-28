@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:02:47.137Z",
+  "questionId": "enem-2024-ciencias-humanas-q072",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A é correta porque o texto trata das vulnerabilidades e assimetrias enfrentadas por pessoas com deficiência, indicando a necessidade de uma ética interpessoal que priorize cuidado, proteção e valorização dessas pessoas, promovendo respeito e igualdade.",
+        "strategy": "Analisar o texto para entender a mensagem central sobre a vulnerabilidade e a assimetria nas relações de poder envolvendo pessoas com deficiência, e escolher a alternativa que melhor reflete uma postura ética adequada a esse contexto.",
+        "steps": [
+          "Ler o texto atentamente para identificar o problema principal: vulnerabilidade e assimetria nas relações entre pessoas com deficiência e pessoas sem deficiência.",
+          "Observar que o texto evidencia o aumento da vulnerabilidade para pessoas com deficiência que também pertencem a outros grupos de risco, como mulheres e crianças.",
+          "Entender que é necessária uma ética interpessoal que contemple esse cenário de vulnerabilidade e desigualdade.",
+          "Analisar as alternativas para verificar qual delas propõe uma ética baseada em valores que promovam a dignidade e a proteção dessas pessoas.",
+          "Concluir que a alternativa A, que fala em cuidado, proteção e valorização, é a que melhor corresponde ao entendimento do texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Texto do enunciado da questão destacando a vulnerabilidade e assimetria nas relações entre pessoas com deficiência e pessoas sem deficiência."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca que pessoas com deficiência enfrentam vulnerabilidades e desigualdades nas relações sociais, o que exige uma ética interpessoal baseada no cuidado, proteção e valorização dessas pessoas, para promover respeito e igualdade.",
+        "stepByStep": [
+          "Leia o texto com atenção e identifique o principal problema: as vulnerabilidades e desigualdades entre pessoas com e sem deficiência.",
+          "Observe que a vulnerabilidade aumenta para pessoas que também pertencem a outros grupos de risco, como mulheres e crianças.",
+          "Entenda que o texto pede uma ética interpessoal que reconheça essa vulnerabilidade e desigualdade para promover uma convivência mais justa.",
+          "Analise as alternativas buscando aquela que proponha uma postura ética que defenda cuidado, proteção e valorização das pessoas com deficiência.",
+          "Confirme que a alternativa A é a que melhor corresponde à ética mencionada no texto, centrada na dignidade e proteção dos vulneráveis."
+        ],
+        "commonPitfalls": [
+          "Confundir ética interpessoal com aspectos legais ou punições, desviando o foco do cuidado e proteção.",
+          "Interpretar que a solução está no perdão ou na tolerância dos outros, o que não aborda a valorização da pessoa com deficiência.",
+          "Achar que controle rígido ou cerceamento são formas adequadas de ética, quando na verdade podem reforçar desigualdades.",
+          "Pensar que a resposta envolve introspecção ou indulgência pessoal, que não promovem proteção ou valorização do outro."
+        ],
+        "teachingTips": [
+          "Estimule a leitura crítica para identificar a mensagem central sobre vulnerabilidade e desigualdade social.",
+          "Discuta a importância da ética interpessoal baseada em respeito, cuidado e valorização das pessoas em situação de vulnerabilidade.",
+          "Ajude os alunos a diferenciar abordagens éticas, legais e morais, reforçando o foco da questão.",
+          "Utilize exemplos reais para ilustrar o impacto da assimetria nas relações e como a ética pode atuar para promovê-la.",
+          "Encoraje a análise cuidadosa das alternativas, relacionando cada uma com os valores éticos presentes no texto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode acreditar que a solução para a vulnerabilidade está no entendimento e perdão, algo que envolve um aspecto moral, porém com ênfase nos responsáveis, desviando do foco da valorização da pessoa com deficiência.",
+          "misconceptionType": "Interpretação incorreta do foco ético",
+          "whyItLooksPlausible": "Toca em valores morais como perdão e tolerância, que são frequentemente associados à resolução de conflitos.",
+          "whyItIsWrong": "O texto não fala em perdão ou tolerância dos responsáveis, mas sim em assegurar cuidado e proteção à pessoa vulnerável."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode parecer que controlar entidades para garantir regras seja uma solução para vulnerabilidades, mas isso sugere cerceamento e arregimentação, que não promovem uma ética interpessoal inclusiva.",
+          "misconceptionType": "Interpretação literal equivocada do poder",
+          "whyItLooksPlausible": "O termo 'controle' pode parecer adequado para lidar com desigualdades e riscos.",
+          "whyItIsWrong": "O cerceamento e o controle não correspondem a uma ética centrada no cuidado e valorização das pessoas com deficiência."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que a solução é legislar e responsabilizar culpados pode parecer uma abordagem prática para combater a desigualdade e vulnerabilidade.",
+          "misconceptionType": "Foco em abordagem legal ao invés de ética interpessoal",
+          "whyItLooksPlausible": "Menciona legislação e responsabilização, que são meios de enfrentar injustiças.",
+          "whyItIsWrong": "O texto enfatiza uma ética interpessoal, não um sistema legal ou punitivo."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Poderia ser confundido que a introspecção e indulgência pessoal sejam formas de lidar com a situação da deficiência.",
+          "misconceptionType": "Conclusão equivocada sobre a postura necessária",
+          "whyItLooksPlausible": "Termos relativos a sentimentos parecem refletir uma dimensão ética.",
+          "whyItIsWrong": "Ensimesmamento e indulgência indicam passividade e não promovem a proteção ou valorização da pessoa com deficiência."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise crítica de textos",
+        "secondarySkills": [
+          "Compreensão ética",
+          "Relações sociais e vulnerabilidades"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreensão do texto para identificar a postura ética adequada.",
+          "Não requer cálculos ou modelagem matemática.",
+          "A interpretação correta foca em conceitos éticos e sociais."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧑‍🤝‍🧑",
+        "shortThemeTitle": "Ética interpessoal e vulnerabilidade social",
+        "interpretationIntro": "A questão apresenta um texto que destaca a situação de vulnerabilidade das pessoas com deficiência e busca identificar qual postura ética interpessoal é adequada para esse contexto.",
+        "commandTerms": [
+          {
+            "term": "Ética interpessoal",
+            "explanation": "Ramo da ética que trata das relações entre pessoas e o modo de atuação que valorize respeito, cuidado e justiça no convívio social."
+          },
+          {
+            "term": "Vulnerabilidade",
+            "explanation": "Estado de maior exposição a riscos e desvantagens sociais causadas por fatores diversos, como deficiência ou pertencimento a grupos de risco."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão exige que o estudante compreenda a mensagem do texto sobre a assimetria e vulnerabilidade nas relações sociais envolvendo pessoas com deficiência e escolha a alternativa que melhor representa uma ética centrada no cuidado e valorização dessas pessoas.",
+        "strategyParagraph": "Para resolver, leia atentamente o texto para identificar os elementos que indicam uma relação desigual e vulnerável entre pessoas com deficiência e demais agentes sociais. Observe a ênfase na ampliação dessa vulnerabilidade em função de outros fatores sociais, como gênero e idade. Após compreender o problema, analise cada alternativa, buscando aquelas que sugerem posturas éticas baseadas no cuidado, proteção, respeito e valorização dessas pessoas, eliminando aquelas que apontam para aspectos legais, punitivos ou posturas passivas e inadequadas.",
+        "reviewTable": [
+          {
+            "concept": "Ética interpessoal",
+            "keyIdea": "Foco nas relações humanas pautadas no respeito e cuidado",
+            "application": "O texto evidencia a necessidade de uma ética que valorize a dignidade e proteção das pessoas vulneráveis"
+          },
+          {
+            "concept": "Vulnerabilidade social",
+            "keyIdea": "Situação de desvantagem ampliada por características pessoais e sociais",
+            "application": "Reconhecer que a deficiência associada a outros fatores aumenta o risco e exige atenção especial"
+          },
+          {
+            "concept": "Desigualdade e assimetria de poder",
+            "keyIdea": "Relações hierárquicas que geram desigualdade",
+            "application": "Compreender que as diferenças de poder precisam ser equilibradas por práticas éticas inclusivas"
+          }
+        ],
+        "theoryParagraphs": [
+          "A ética interpessoal é fundamental para superar as desigualdades sociais, promovendo o respeito à dignidade de todos, especialmente daqueles em situação de vulnerabilidade, como as pessoas com deficiência.",
+          "Vulnerabilidade social implica maior exposição a riscos e limitações, que se agravam quando outras características, como gênero e idade, se somam à condição de deficiência, exigindo respostas éticas solidárias e protetoras.",
+          "A assimetria de poder nas relações sociais pode aprofundar a exclusão e a desigualdade; portanto, a ética deve atuar para equilibrar essas relações por meio do cuidado, da proteção e da valorização das pessoas vulneráveis."
+        ],
+        "resolutionParagraphs": [
+          "O texto inicial deixa claro que pessoas com deficiência enfrentam uma posição de grande vulnerabilidade e uma relação desigual de poder em suas interações sociais, agravada quando pertencem também a outros grupos de risco, como mulheres e crianças.",
+          "Dessa maneira, o texto sugere a urgência de uma ética interpessoal que reconheça e respeite essas condições, focalizando no cuidado, proteção e valorização dessas pessoas para reduzir a desigualdade e promover justiça social.",
+          "Analisando as alternativas, verifica-se que apenas a alternativa A reflete essa ética centrada na dignidade e proteção da pessoa com deficiência, enquanto as outras envolvem perdão, controle, legislação ou introspecção, que não respondem adequadamente ao contexto do texto.",
+          "Portanto, a resposta correta é a alternativa A, pois propõe a ética que o problema apresentado demanda: uma ética de cuidado, proteção e valorização da pessoa com deficiência."
+        ],
+        "puloDoGato": "Na prova, foque em identificar a postura ética que valoriza e protege o vulnerável, evitando confundir com aspectos legais, punitivos ou morais superficiais.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta. Propõe uma ética interpessoal centrada no cuidado, proteção e valorização das pessoas com deficiência, alinhada ao texto que destaca a vulnerabilidade e a assimetria."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta. Embora toque em valores morais, foca em perdão e entendimento dos responsáveis, não abordando a valorização da pessoa com deficiência."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta. Sugere controle e cerceamento, que não promovem uma ética de inclusão, cuidado e valorização conforme o texto."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta. Enfatiza legislação e responsabilização, o que é importante, mas não corresponde à ética interpessoal pedida no texto."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta. Incentiva introspecção e indulgência pessoal, que não promovem a proteção nem a valorização da pessoa com deficiência."
+          }
+        ],
+        "questionCode": "CH_INTERP_CRITICA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A solução técnica e a explicação didática estão alinhadas entre si e com o enunciado da questão. A resolução oficial atende aos requisitos editoriais, apresentando um texto claro, consistente e didático, além de comentar adequadamente todas as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2820,
+    "outputTokens": 2373,
+    "estimatedCostUsd": 0.004925
+  }
+}

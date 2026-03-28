@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:36:08.607Z",
+  "questionId": "enem-2024-linguagens-q038",
+  "payload": {
+    "theme": "Literatura",
+    "subtheme": "Leitura literária",
+    "rationale": "A questão trata da interpretação de um poema, focando no entendimento do significado metafórico da ideia de deslocamento apresentada no texto literário. Isso está diretamente relacionado à leitura literária, pois envolve a análise do conteúdo, da mensagem e das intenções do autor expressas na obra poética.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1149,
+    "outputTokens": 81,
+    "estimatedCostUsd": 0.000589
+  }
+}

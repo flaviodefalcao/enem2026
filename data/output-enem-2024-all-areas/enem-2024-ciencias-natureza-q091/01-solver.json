@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-27T22:36:26.125Z",
+  "questionId": "enem-2024-ciencias-natureza-q091",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C) Microfilamentos",
+      "correctnessClaim": "A droga citocalasina B interfere nos microfilamentos, que são componentes do citoesqueleto responsáveis pela forma e movimento da célula.",
+      "strategy": "Analisar as mudanças no formato e movimento das células após o tratamento com a droga, associando a ação da citocalasina B aos componentes do citosqueleto responsáveis por essas funções.",
+      "steps": [
+        "Examina as imagens do experimento, identificando que a célula tratada perdeu sua forma e movimento, enquanto a controle manteve essas características.",
+        "Conhece que a citocalasina B atua na despolimerização dos microfilamentos de actina, componentes principais do citoesqueleto que controlam a forma celular e movimento.",
+        "Relaciona a perda de forma e movimento com a destruição dos microfilamentos, que são impedidos de formar uma rede estrutural adequada pela droga.",
+        "Confirma que a alternativa que relaciona a componente afetada pela droga à sua função é a opção C, microfilamentos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do experimento mostrando diferenças de formato e movimento entre células controle e tratadas."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) Vacúolos",
+        "likelyReasoning": "Vacúolos são estruturas de armazenamento, não diretamente relacionadas ao formato e movimento, levando à sua falsa associação com o efeito observado.",
+        "misconceptionType": "Confusão entre funções de diferentes organelas.",
+        "whyItLooksPlausible": "Porque vacúolos podem modificar a forma de células grandes ou com alto volume de armazenamento.",
+        "whyItIsWrong": "A perda de forma e movimento não é causada por vacúolos, mas pela desorganização do citoesqueleto, especificamente dos microfilamentos."
+      },
+      {
+        "option": "B) Mitocôndrias",
+        "likelyReasoning": "Mitocôndrias são responsáveis pela produção de energia, o que poderia influenciar o movimento, mas sua ação não altera diretamente a forma celular.",
+        "misconceptionType": "Confusão entre organelas energéticas e de sustentação estrutural.",
+        "whyItLooksPlausible": "Porque a energia fornecida por mitocôndrias é essencial para movimento celular.",
+        "whyItIsWrong": "A influência na forma e movimento imediato não é relacionada às mitocôndrias, mas aos microfilamentos."
+      },
+      {
+        "option": "D) Material genético",
+        "likelyReasoning": "O material genético rege funções genéticas e pode influenciar na atividade celular, mas não está diretamente relacionado à forma e movimento no curto prazo.",
+        "misconceptionType": "Confusão entre funções do núcleo e do citoesqueleto.",
+        "whyItLooksPlausible": "Porque alterações genéticas podem afetar a motilidade através de expressão de proteínas de movimento.",
+        "whyItIsWrong": "A droga citocalasina B não atua no material genético, mas sim na estrutura do citosqueleto."
+      },
+      {
+        "option": "E) Membrana plasmática",
+        "likelyReasoning": "A membrana mantém a integridade da célula, podendo influenciar sua forma, mas não diretamente o movimento, especialmente ao interferir nos microfilamentos.",
+        "misconceptionType": "Confusão entre componentes da membrana e do citoesqueleto.",
+        "whyItLooksPlausible": "Porque alterações na membrana podem alterar a forma celular.",
+        "whyItIsWrong": "A citocalasina B não afeta a membrana diretamente, mas os microfilamentos internos que sustentam a forma e movimentação."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de processos celulares e identificação da função de componentes do citosqueleto.",
+      "secondarySkills": [
+        "Interpretação de imagens científicas.",
+        "Relacionamento entre drogas químicas e suas ações no nível celular."
+      ],
+      "cognitiveDemand": "Análise lógica e associação de conhecimento biomolecular ao experimento visualizado.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento sobre componentes do citosqueleto e o efeito de drogas sobre eles.",
+        "A análise da imagem é fundamental para determinar o impacto do tratamento."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1512,
+    "outputTokens": 996,
+    "estimatedCostUsd": 0.00055
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T01:15:16.734Z",
+  "questionId": "enem-2024-ciencias-humanas-q085",
+  "payload": {
+    "theme": "Instituições, poder e movimentos sociais",
+    "subtheme": "Conflitos e movimentos sociais",
+    "rationale": "A questão refere-se ao movimento social das Madres de Plaza de Mayo que denunciou a repressão estatal e a violação dos direitos humanos durante uma ditadura militar na Argentina, evidenciando o papel dos movimentos sociais na contestação do poder instituído e na luta por justiça e memória histórica.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 924,
+    "outputTokens": 89,
+    "estimatedCostUsd": 0.000512
+  }
+}

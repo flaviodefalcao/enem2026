@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:28:39.023Z",
+  "questionId": "enem-2024-linguagens-q029",
+  "payload": {
+    "theme": "Leitura e interpretação textual",
+    "subtheme": "Inferência e informação implícita",
+    "rationale": "A questão exige que o estudante compreenda a perspectiva do narrador a partir de uma reflexão implícita sobre o termo 'filho adotivo', interpretando valores sociais e afetivos subjacentes ao texto para inferir a relação entre o termo técnico e o vínculo afetivo.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1011,
+    "outputTokens": 85,
+    "estimatedCostUsd": 0.00054
+  }
+}

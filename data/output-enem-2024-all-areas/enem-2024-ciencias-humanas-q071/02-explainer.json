@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T01:01:09.080Z",
+  "questionId": "enem-2024-ciencias-humanas-q071",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O compromisso do Brasil na COP-26 resultou da influência direta de organismos supranacionais (a própria conferência) e da atuação organizada do setor empresarial, que pressiona para metas ambientais mais ambiciosas.",
+      "stepByStep": [
+        "Leia atentamente o texto para identificar quem está envolvido nas decisões e pressões para mudança nas metas climáticas.",
+        "Observe que a COP-26 é um organismo supranacional onde países discutem e assumem compromissos ambientais.",
+        "Note a importância do setor privado, representado pelo Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável e o movimento Empresários pelo Clima, na pressão por metas mais ambiciosas.",
+        "Descubra que a nova meta do Brasil (redução de 50% dos gases de efeito estufa até 2030) é resultado da pressão desses dois grupos.",
+        "Considere as alternativas e escolha a que menciona corretamente os organismos supranacionais e a sociedade civil por meio do setor empresarial, que é a alternativa D."
+      ],
+      "commonPitfalls": [
+        "Confiar em atores sociais não mencionados no texto, como povos ribeirinhos ou segmentos culturais, que apesar da importância, não são citados neste contexto.",
+        "Confundir diferentes atores políticos e econômicos, como exércitos ou blocos econômicos, que não aparecem no texto.",
+        "Pressupor que grupos científicos ou universidades foram os principais agentes da mudança, quando o texto destaca o setor empresarial e organismos internacionais.",
+        "Assumir que agentes governamentais e o setor turístico tiveram papel determinante, apesar de não serem citados na questão."
+      ],
+      "teachingTips": [
+        "Peça para os alunos sublinharem no texto os agentes sociais e institucionais mencionados para facilitar a compreensão.",
+        "Explique o conceito de organismos supranacionais e sua importância em acordos internacionais, como a COP.",
+        "Mostre como a sociedade civil organizada pode influenciar políticas públicas, exemplificando com o papel do setor empresarial na questão.",
+        "Ensine a analisar alternativas de múltipla escolha eliminando as que contêm informações não suportadas pelo texto.",
+        "Reforce a importância da leitura atenta para identificar apenas os atores destacados pelo enunciado, evitando conjecturas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1627,
+    "outputTokens": 447,
+    "estimatedCostUsd": 0.001366
+  }
+}

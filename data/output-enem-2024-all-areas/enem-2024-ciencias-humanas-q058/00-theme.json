@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:51:13.962Z",
+  "questionId": "enem-2024-ciencias-humanas-q058",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Ética e política",
+    "rationale": "A questão aborda conceitos da ética aristotélica relacionados à prática de ações virtuosas e à felicidade, que são fundamentais para a estruturação política e cidadã na pólis, conectando-se diretamente com valores éticos e sua importância na política e cidadania.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1025,
+    "outputTokens": 78,
+    "estimatedCostUsd": 0.000535
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:24:05.954Z",
+  "questionId": "enem-2024-linguagens-q024",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O diálogo apresenta uma discussão entre a linguagem formal, usada na literatura, e a forma coloquial da fala cotidiana. Gondim defende que a escrita artística deve ser diferente da fala comum, evidenciando uma oposição entre o preciosismo linguístico e a coloquialidade.",
+      "stepByStep": [
+        "Leia o fragmento atentamente para entender o debate entre os personagens.",
+        "Observe que Gondim afirma que um artista não pode escrever exatamente como fala, indicando uma diferença entre fala e escrita literária.",
+        "Note que o texto contrapõe a linguagem formal, muitas vezes mais elaborada (preciosismo linguístico), à fala do dia a dia (coloquial).",
+        "Compare as alternativas para identificar qual apresenta essa oposição entre a linguagem literária formal e a linguagem coloquial.",
+        "Escolha a alternativa que expresse essa contradição, que no caso é a letra D."
+      ],
+      "commonPitfalls": [
+        "Interpretar que a questão fala apenas sobre a diferença entre língua padrão e produção artística sem considerar a oposição à fala coloquial.",
+        "Pensar que o texto valoriza aproximar a literatura dos dialetos sociais ou da fala comum.",
+        "Achar que Gondim defende escrever da mesma forma como se fala, confundindo as falas dos personagens.",
+        "Relacionar os desentendimentos pessoais dos personagens diretamente ao uso da norma culta, sem foco na questão linguística."
+      ],
+      "teachingTips": [
+        "Inicie com a leitura atenta do texto para que o aluno identifique o tema central do diálogo.",
+        "Explique a diferença entre norma culta, linguagem formal e linguagem coloquial, usando exemplos do cotidiano.",
+        "Discuta com os alunos como a literatura muitas vezes utiliza um registro linguístico mais sofisticado em relação à fala do dia a dia.",
+        "Estimule os alunos a relacionarem o discurso dos personagens com conceitos linguísticos para interpretar as intenções por trás das falas.",
+        "Pratique com outras questões que explorem variações linguísticas para reforçar a compreensão sobre linguagem e contexto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1337,
+    "outputTokens": 403,
+    "estimatedCostUsd": 0.00118
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-26T19:41:42.034Z",
+  "questionId": "enem-2024-q166",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A densidade demográfica é a quantidade de habitantes por unidade de área. Como a região Q tem metade dos habitantes de R, mas sua área é três quartos da área de R, a densidade d(Q) é dois terços da densidade d(R).",
+      "stepByStep": [
+        "Defina a densidade de R como d(R) = habitantes de R / área de R = H_R / A_R.",
+        "Defina a densidade de Q como d(Q) = habitantes de Q / área de Q = H_Q / A_Q.",
+        "Use os dados do problema: A_Q = (3/4) A_R e H_Q = (1/2) H_R.",
+        "Substitua esses valores na densidade de Q: d(Q) = (1/2) H_R / (3/4) A_R.",
+        "Simplifique a fração: (1/2) dividido por (3/4) é igual a (1/2) * (4/3) = 2/3.",
+        "Portanto, d(Q) = (2/3) * (H_R / A_R) = (2/3) d(R), que é a relação correta entre as densidades."
+      ],
+      "commonPitfalls": [
+        "Confundir as frações e aplicar diretamente a metade dos habitantes ou três quartos da área na densidade sem considerar a relação entre elas.",
+        "Ignorar o efeito da área na densidade, achando que a densidade é simplesmente metade ou um quarto da densidade original.",
+        "Assumir que a densidade varia na mesma proporção que a área, sem considerar o número de habitantes.",
+        "Inverter as frações durante a divisão, levando a um fator que é o inverso do correto."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de densidade como uma razão entre duas grandezas (habitantes e área).",
+        "Utilize exemplos numéricos simples para que os alunos vejam a relação entre as frações e o efeito na densidade.",
+        "Explique passo a passo a simplificação de frações para evitar erros comuns na manipulação algébrica.",
+        "Estimule os alunos a sempre substituir valores dados em fórmulas antes de tentar tirar conclusões diretas.",
+        "Enfatize a importância de analisar tanto o numerador (habitantes) quanto o denominador (área) quando tratam de densidades."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1719,
+    "outputTokens": 487,
+    "estimatedCostUsd": 0.001467
+  }
+}

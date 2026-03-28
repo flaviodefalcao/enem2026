@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:35:35.244Z",
+  "questionId": "enem-2024-linguagens-q037",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C está correta porque o texto apresenta fragmentos de letras de músicas conhecidas (ex: 'metamorfose ambulante' de Raul Seixas, 'sofrência', e outros termos que remetem a letras e estilos musicais), caracterizando intertextualidade, que é a inserção de referências a outros textos para enriquecer o discurso.",
+      "strategy": "Identificar os recursos de linguagem citados nas alternativas e buscar exemplos no texto que evidenciem cada recurso, comparando com as definições linguísticas para cada termo.",
+      "steps": [
+        "Ler atentamente o texto para identificar passes que remetem a letras ou frases de músicas.",
+        "Analisar cada alternativa relacionando o recurso linguístico apresentado com o conteúdo do texto.",
+        "Verificar se há exemplo claro de contradição (A): o texto não associa diretamente coração despedaçado à alegria mas mostra que a música pode reanimar.",
+        "Verificar metáfora (B): 'metamorfose ambulante' é o título de música e pode ser interpretado como metáfora, mas o destaque está na citação direta que caracteriza intertextualidade.",
+        "Verificar intertextualidade (C): o texto cita expressões e versos que remetem claramente a letras e estilos musicais, confirmando intertextualidade.",
+        "Verificar enumeração (D): há menção a ritmos diferentes, mas este recurso não é o foco principal da persuasão no texto.",
+        "Verificar hipérbole (E): termos como 'sofrência', 'tragédias' e 'afogados' expressam intensidade, mas não formam hipérbole clara e central."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O estudante pode interpretar que contradição está presente ao pensar que o texto associa sentimentos opostos, como dor e alegria.",
+        "misconceptionType": "Interpretação inadequada do recurso literário",
+        "whyItLooksPlausible": "O texto fala de dor e alegria associadas à música.",
+        "whyItIsWrong": "Não há uma contradição explícita entre coração despedaçado e alegria, apenas uma progressão emocional mediada pela música."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Reconhecem 'metamorfose ambulante' como metáfora, pois é uma expressão figurada.",
+        "misconceptionType": "Confusão entre metáfora e intertextualidade",
+        "whyItLooksPlausible": "A expressão é figurada e poética, típica de metáfora.",
+        "whyItIsWrong": "A menção é uma citação direta de música, que caracteriza intertextualidade, não apenas metáfora."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Percebem a enumeração das músicas e ritmos citados no texto.",
+        "misconceptionType": "Foco no recurso que não é central para a argumentação",
+        "whyItLooksPlausible": "Texto cita ritmos e estilos musicais variados.",
+        "whyItIsWrong": "Enumeração aparece, mas não é recurso persuasivo principal destacado pelo texto."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associam as palavras fortes a exagero (hipérbole) para causar impacto.",
+        "misconceptionType": "Generalização inadequada da hipérbole",
+        "whyItLooksPlausible": "As palavras são intensas e parecem exageros.",
+        "whyItIsWrong": "São expressões emocionais, mas não hipérboles explícitas no contexto do texto."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise literária e linguística de textos",
+      "secondarySkills": [
+        "Reconhecimento de recursos literários",
+        "Interpretação textual",
+        "Conhecimento de cultura musical para identificar referências"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto apresenta diversas expressões de músicas para reforçar a importância da música no cotidiano, o que deve ser reconhecido como intertextualidade.",
+        "É necessário conhecimento básico sobre os termos e letras musicais citadas para uma compreensão mais rica do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 866,
+    "outputTokens": 849,
+    "estimatedCostUsd": 0.001705
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-27T22:36:15.765Z",
+  "questionId": "enem-2024-ciencias-natureza-q091",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão foca no efeito de uma droga (citocalasina B) sobre células do protozoário Amoeba proteus, afetando componentes relacionados à sua estrutura e movimento. Isso está diretamente ligado ao funcionamento celular e às implicações na saúde e fisiologia dos seres vivos.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1714,
+    "outputTokens": 80,
+    "estimatedCostUsd": 0.000203
+  }
+}

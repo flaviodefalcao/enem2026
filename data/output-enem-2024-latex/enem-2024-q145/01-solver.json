@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-26T19:25:59.488Z",
+  "questionId": "enem-2024-q145",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "1110",
+      "correctnessClaim": "A resposta correta é D, pois corresponde à redução correta da área.",
+      "strategy": "Calcular a área original do campo e a nova área após a redução das dimensões e depois encontrar a diferença entre essas áreas.",
+      "steps": [
+        "Calcular a área original do campo com dimensões 110 m × 75 m: 110 × 75 = 8250 m².",
+        "Calcular a nova área do campo com dimensões 105 m × 68 m: 105 × 68 = 7140 m².",
+        "Calcular a redução na área: 8250 - 7140 = 1110 m²."
+      ],
+      "formulasUsed": [
+        "Área do retângulo = comprimento × largura"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter confundido as unidades ou efetuado um cálculo incorreto nas dimensões menores, possivelmente calculando uma pequena redução.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "O número é pequeno, poderia parecer uma redução mínima.",
+        "whyItIsWrong": "Desconsidera as grandes dimensões reais, levando a um valor irrealisticamente baixo para a redução da área."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Erro semelhante ao da opção A, talvez calculando apenas a diferença de uma dimensão em vez da área completa.",
+        "misconceptionType": "Erro conceitual",
+        "whyItLooksPlausible": "O número é razoável para uma pequena mudança, mas ainda muito pequeno para o caso real.",
+        "whyItIsWrong": "Não leva em conta o cálculo da área, apenas alterações lineares."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato poderia ter subtraído incorretamente apenas uma das dimensões ou confundido as unidades de medida.",
+        "misconceptionType": "Erro de cálculo",
+        "whyItLooksPlausible": "555 é um número intermediário, pode parecer um resultado calculado.",
+        "whyItIsWrong": "A área real reduzida é maior, pois envolve o produto da diferença nas dimensões."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Esse valor pode vir de um erro de multiplicação ou inversão dos fatores, confundindo dimensões ou somando valores errados.",
+        "misconceptionType": "Erro de cálculo complexo",
+        "whyItLooksPlausible": "É próximo ao resultado correto, podendo ser confundido com um erro de arredondamento.",
+        "whyItIsWrong": "Não é o valor exato da diferença entre as áreas calculadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de áreas de figuras geométricas",
+      "secondarySkills": [
+        "Interpretação de texto com dados numéricos",
+        "Atenção a unidades de medida"
+      ],
+      "cognitiveDemand": "Baixa a média",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão envolve cálculo direto de área de retângulo.",
+        "Requer atenção para a diferença entre áreas, e não só diferença linear.",
+        "Não necessita de elementos visuais além do texto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 562,
+    "outputTokens": 639,
+    "estimatedCostUsd": 0.001247
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:08:12.426Z",
+  "questionId": "enem-2024-linguagens-q015",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta porque o texto enfatiza que a telemedicina supera barreiras geográficas, permitindo o acesso a serviços médicos para pacientes em áreas remotas ou carentes, chamados \"vazios assistenciais\".",
+        "strategy": "Ler atentamente o texto para identificar os benefícios da telemedicina destacados pelo autor, especialmente aqueles que envolvem a sociedade em geral, e comparar com as alternativas para encontrar aquela que condiz com a informação dada.",
+        "steps": [
+          "Identificar no texto os benefícios da telemedicina.",
+          "Destacar a passagem que menciona o acesso a pacientes em áreas remotas ou periféricas, superando barreiras geográficas.",
+          "Ler as alternativas e verificar qual corresponde a esse benefício.",
+          "Confirmar que a alternativa B reflete o benefício mencionado no texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto destaca que a telemedicina permite superar barreiras geográficas, facilitando o acesso a serviços médicos para pessoas que vivem em áreas remotas ou com pouca oferta de especialidades, promovendo assim um benefício social importante.",
+        "stepByStep": [
+          "Leia atentamente o texto para identificar os benefícios atribuídos à telemedicina.",
+          "Observe a parte que menciona o acesso a pacientes em regiões remotas, chamadas de \"vazios assistenciais\".",
+          "Leia as alternativas e verifique qual delas corresponde a esse benefício destacado no texto.",
+          "Confirme que a alternativa B é a que melhor reflete a informação sobre superar barreiras geográficas e ampliar o acesso.",
+          "Escolha a alternativa B como resposta correta."
+        ],
+        "commonPitfalls": [
+          "Interpretar que o prontuário eletrônico unificado já é um benefício presente, quando na verdade ainda está em discussão.",
+          "Confundir a telemedicina com a oferta de equipamentos tecnológicos para exames, que não é mencionada.",
+          "Achar que a telemedicina necessariamente promove interação direta entre diferentes especialidades médicas, o que não foi afirmado.",
+          "Pensar que a telemedicina garante infraestrutura adequada para trabalho remoto, embora o texto mostre que isso é um desafio."
+        ],
+        "teachingTips": [
+          "Incentive o aluno a destacar frases-chave do texto que apontem benefícios ou características importantes.",
+          "Pratique interpretação de textos com linguagem técnica para desenvolver a capacidade de identificar informações explícitas e implícitas.",
+          "Discuta as alternativas incorretas para mostrar por que elas parecem plausíveis e onde erram na compreensão do texto.",
+          "Explore o conceito de \"vazios assistenciais\" e a importância da equidade no acesso à saúde para contextualizar o benefício da telemedicina.",
+          "Estimule a leitura crítica para diferenciar o que está em fase de projeto ou discussão daquilo que já é realidade comprovada."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode inferir que, por se falar em prontuário eletrônico unificado no texto, a telemedicina já disponibiliza este prontuário unificado para todos.",
+          "misconceptionType": "Interpretação literal e generalização incorreta",
+          "whyItLooksPlausible": "O texto menciona projeto de lei sobre o prontuário eletrônico unificado, o que pode levar a crer que isso já é um benefício presente.",
+          "whyItIsWrong": "O texto indica que o prontuário único ainda é um projeto em discussão, não um benefício atual da telemedicina."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Confundir o acesso ao atendimento médico via telemedicina com a disponibilização dos equipamentos e dispositivos tecnológicos necessários para exames.",
+          "misconceptionType": "Confusão entre oferta de serviço e oferta de equipamentos",
+          "whyItLooksPlausible": "Telemedicina envolve tecnologia, o que pode levar a pensar que fornece dispositivos tecnológicos.",
+          "whyItIsWrong": "O texto não menciona que a telemedicina fornece equipamentos; destaca-se o acesso remoto, não a distribuição de dispositivos."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que telemedicina promove interação profissional entre especialidades médicas, o que poderia ser uma vantagem técnica.",
+          "misconceptionType": "Inferência incorreta sobre interação entre profissionais",
+          "whyItLooksPlausible": "O texto fala em facilitar a troca de informações e interoperabilidade na rede, podendo dar uma impressão de interação entre especialidades.",
+          "whyItIsWrong": "O texto enfatiza a continuidade do cuidado entre setores, não explicitamente a interação entre especialidades médicas como benefício da telemedicina."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Associar telemedicina com garantia de infraestrutura para que os médicos trabalhem remotamente sem dificuldades.",
+          "misconceptionType": "Confusão entre desafio e benefício",
+          "whyItLooksPlausible": "O texto menciona as dificuldades enfrentadas por profissionais para trabalho remoto, o que pode gerar a ideia de que telemedicina garante essa infraestrutura.",
+          "whyItIsWrong": "O texto aponta que falta estrutura para trabalho remoto, o que é um desafio e não um benefício garantido pela telemedicina."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto",
+        "secondarySkills": [
+          "Leitura crítica",
+          "Compreensão de discursos técnicos"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Texto expositivo com linguagem técnica e informativa.",
+          "Necessário identificar benefício social da telemedicina.",
+          "Analisa-se incorreções baseadas em detalhes explícitos do texto."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "💬",
+        "shortThemeTitle": "Benefícios sociais da telemedicina",
+        "interpretationIntro": "A questão exige que o candidato compreenda qual benefício da telemedicina está destacado no texto fornecido.",
+        "commandTerms": [
+          {
+            "term": "Ressalta",
+            "explanation": "Destaca, chama atenção para um aspecto importante mencionado no texto."
+          },
+          {
+            "term": "Benefício",
+            "explanation": "Vantagem, aspecto positivo que a telemedicina proporciona à sociedade."
+          }
+        ],
+        "whatTheQuestionAsks": "O texto aborda os benefícios sociais da telemedicina para a sociedade; a questão pede para identificar qual desses benefícios é destacado no texto.",
+        "strategyParagraph": "Para responder, o candidato deve identificar no texto o benefício específico da telemedicina que é ressaltado, compará-lo com as alternativas e selecionar a que melhor reflete o conteúdo apresentado.",
+        "reviewTable": [
+          {
+            "concept": "Telemedicina",
+            "keyIdea": "Atendimento médico a distância que usa tecnologia digital",
+            "application": "Permite superar barreiras geográficas para acesso a saúde."
+          },
+          {
+            "concept": "Vazios assistenciais",
+            "keyIdea": "Regiões com falta de oferta de especialidades médicas",
+            "application": "Telemedicina amplia acesso a esses locais."
+          },
+          {
+            "concept": "Desafios da telemedicina",
+            "keyIdea": "Infraestrutura e letramento digital insuficientes",
+            "application": "Reconhecidos como obstáculos, não como benefícios."
+          }
+        ],
+        "theoryParagraphs": [
+          "A telemedicina utiliza recursos tecnológicos para realizar atendimentos médicos a distância, oferecendo benefícios como ampliação do acesso a serviços, especialmente em regiões carentes ou remotas.",
+          "O conceito de vazios assistenciais refere-se a áreas com escassez de profissionais ou especialidades médicas, onde a telemedicina pode suprir essa lacuna ao facilitar o acesso remoto.",
+          "Apesar dos benefícios, existem desafios como falta de infraestrutura adequada e de letramento digital entre pacientes e profissionais, pontos que ainda precisam ser superados para a plena efetivação da telemedicina."
+        ],
+        "resolutionParagraphs": [
+          "O texto destaca que a telemedicina é uma ferramenta valiosa que supera barreiras geográficas, aumentando o acesso a serviços médicos especialmente em áreas remotas ou com pouca oferta médica, os chamados vazios assistenciais.",
+          "Desta forma, o principal benefício ressaltado é a ampliação do acesso às consultas e atendimentos, o que contribui para a equidade na assistência à saúde.",
+          "Ao analisar as alternativas, percebe-se que apenas a alternativa B corresponde a esse benefício, que está explicitamente presente no texto.",
+          "As outras alternativas ou se referem a discussões em andamento (prontuário eletrônico unificado), ou apresentam interpretações erradas ao associarem a telemedicina a provisão de equipamentos, interação entre especialidades, ou garantias de infraestrutura para o trabalho remoto, que são citadas como desafios, não benefícios."
+        ],
+        "puloDoGato": "Foque no benefício social destacado explicitamente: superar barreiras geográficas para ampliar o acesso à saúde.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "O prontuário eletrônico unificado está em discussão, ainda não é um benefício atual da telemedicina, conforme o texto."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "É a alternativa correta porque ressalta a superação das barreiras geográficas e o acesso a pacientes em áreas remotas, conforme o texto."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O texto não menciona a oferta de equipamentos tecnológicos como benefício da telemedicina."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Apesar de mencionar a troca de informações, o texto não destaca a interação entre especialidades médicas como benefício da telemedicina."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "O texto indica que falta infraestrutura e letramento digital para profissionais, o que é um desafio, não um benefício garantido."
+          }
+        ],
+        "questionCode": "LINGUAGENS_TELEMEDICINA_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "As saídas do solver e do explainer estão coerentes entre si e com o enunciado da questão. A resolução oficial está clara, didática e detalhada, cumprindo as exigências editoriais do ENEM.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2812,
+    "outputTokens": 1999,
+    "estimatedCostUsd": 0.004323
+  }
+}

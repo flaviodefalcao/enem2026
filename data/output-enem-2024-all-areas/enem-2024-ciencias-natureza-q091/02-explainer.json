@@ -1,0 +1,33 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-nano",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T22:36:30.770Z",
+  "questionId": "enem-2024-ciencias-natureza-q091",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A drogas que afetam os microfilamentos do citoesqueleto, como a citocalasina B, alteram a forma e o movimento da célula, interferindo na estrutura responsável por esses processos.",
+      "stepByStep": [
+        "Observe as diferenças de forma e movimento na imagem entre o grupo controle e a célula tratada.",
+        "Conheça que a citocalasina B atua na despolimerização dos microfilamentos de actina, componentes-chave do citoesqueleto responsáveis pela sustentação da forma celular e pelo movimento.",
+        "Associe a perda ou alteração da forma e movimento das células com a destruição ou desorganização dos microfilamentos causadas pela droga.",
+        "Conclua que a alternativa correta aponta para os microfilamentos como os componentes celulares afetados."
+      ],
+      "commonPitfalls": [
+        "Pensar que organelas como vacúolos ou mitocôndrias estão diretamente relacionadas à forma ou movimento em curto prazo, levando a respostas incorretas.",
+        "Confundir o papel do material genético ou da membrana plasmática com os componentes do citoesqueleto que realmente controlam a forma e o movimento celular.",
+        "Não relacionar a ação específica da droga (citocalasina B) com os componentes do citoesqueleto que ela afeta."
+      ],
+      "teachingTips": [
+        "Reforce o entendimento do citoesqueleto, principalmente microfilamentos, e suas funções na célula.",
+        "Utilize imagens de células com o citoesqueleto marcado para facilitar a visualização da estrutura afetada.",
+        "Apresente exemplos de drogas que atuam nos componentes do citoesqueleto para consolidar a relação entre o efeito químico e a estrutura celular."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2258,
+    "outputTokens": 368,
+    "estimatedCostUsd": 0.000373
+  }
+}

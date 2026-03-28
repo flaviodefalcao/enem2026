@@ -1,0 +1,187 @@
+{
+  "questionId": "enem-2024-linguagens-q035",
+  "generatedAt": "2026-03-28T00:34:22.418Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 831,
+      "outputTokens": 779,
+      "estimatedCostUsd": 0.001579
+    },
+    "explainer": {
+      "inputTokens": 1491,
+      "outputTokens": 420,
+      "estimatedCostUsd": 0.001268
+    },
+    "reviewer": {
+      "inputTokens": 2836,
+      "outputTokens": 2282,
+      "estimatedCostUsd": 0.004786
+    },
+    "totalEstimatedCostUsd": 0.007633
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois o fragmento evidencia claramente a interferência da riqueza no sentimento amoroso e na instituição do casamento, como expressa a personagem Aurélia ao assumir que comprou seu marido por dinheiro.",
+      "strategy": "Interpretar o fragmento literário, identificar o tema central relacionado ao casamento e os elementos que expressam uma concepção romântica, buscando no texto palavras e contextos que evidenciem a interferência da riqueza sobre o amor.",
+      "steps": [
+        "Analisar a fala de Aurélia, que afirma ser rica e ter comprado o marido por cem contos de réis.",
+        "Observar a caracterização do marido como vendido, ou seja, como objeto de transação financeira dentro da relação matrimonial.",
+        "Relacionar essa condição à crítica social e literária romântica, mostrando o conflito entre amor, casamento e interesses econômicos.",
+        "Comparar as alternativas para verificar qual delas está de acordo com a crítica apresentada no texto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O fragmento evidencia uma visão romântica que critica a interferência da riqueza na relação amorosa e no casamento, mostrando uma esposa que reconhece ter \"comprado\" seu marido, o que revela a condição do casamento como uma transação financeira, característica comum na literatura romântica que aborda conflitos entre amor e interesses econômicos.",
+      "stepByStep": [
+        "Leia atentamente o trecho para captar o diálogo e os sentimentos envolvidos entre os personagens.",
+        "Observe a fala de Aurélia, que diz ser rica e que comprou seu marido, indicando que o casamento está vinculado a uma transação financeira.",
+        "Analise como o marido se sente ferido ao ser chamado de \"homem vendido\", evidenciando o conflito entre amor e dinheiro.",
+        "Entenda que a crítica social presente no texto está ligada à relação econômica no casamento, uma temática recorrente na literatura romântica.",
+        "Compare as alternativas da questão e escolha a que reconhece essa crítica à influência da riqueza no amor e casamento."
+      ],
+      "commonPitfalls": [
+        "Focar somente na menção ao primeiro beijo e interpretar como defesa da castidade, quando o tema central é a influência da riqueza.",
+        "Confundir a crítica social abordada com uma defesa da igualdade de gêneros ou das relações interpessoais positivas.",
+        "Generalizar o tema para uma crítica ampla à injustiça social sem vincular diretamente ao casamento e ao amor.",
+        "Interpretar o diálogo como algo positivo e não perceber a ironia e a denúncia da situação de 'compra' no relacionamento."
+      ],
+      "teachingTips": [
+        "Incentive os alunos a identificar o contexto histórico e literário para melhor interpretar o texto.",
+        "Trabalhe a análise de personagens e seus diálogos como fonte de informação sobre temas e críticas.",
+        "Estimule a comparação entre as alternativas com base no texto, para desenvolver o julgamento crítico.",
+        "Aborde a literatura romântica destacando seus aspectos típicos, como o conflito entre sentimento e convenção social ou econômica.",
+        "Use questões discursivas para que os alunos justifiquem suas escolhas, evitando leituras superficiais."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode ter interpretado a fala de Aurélia como uma crítica à relação desigual entre homens e mulheres no casamento, associando isso a uma defesa da igualdade de gêneros.",
+        "misconceptionType": "Interpretação inadequada do tema principal",
+        "whyItLooksPlausible": "O trecho envolve uma mulher que expõe uma posição crítica sobre o casamento e seu papel, podendo ser confundido com uma defesa da igualdade.",
+        "whyItIsWrong": "O texto não enfatiza igualdade entre gêneros, mas sim a compra do marido pela riqueza da esposa, ou seja, o aspecto econômico influencia a relação."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato pode focar na menção ao primeiro beijo ser guardado para a esposa, relacionando isso à castidade e pureza sexual.",
+        "misconceptionType": "Foco em um detalhe secundário como tema principal",
+        "whyItLooksPlausible": "O trecho contém uma referência explícita ao primeiro beijo de amor e pureza.",
+        "whyItIsWrong": "Apesar da menção, o tema central do fragmento não é a castidade, mas sim a interferência da riqueza e o casamento como transação."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O candidato pode interpretar a fala sobre \"homem vendido\" e a distinção entre classes sociais como uma crítica à injustiça social.",
+        "misconceptionType": "Generalização do tema social",
+        "whyItLooksPlausible": "O texto aborda uma relação marcada por aspectos econômicos, sugerindo uma desigualdade social e venda da pessoa.",
+        "whyItIsWrong": "Embora haja crítica social, o foco do fragmento está na riqueza que interfere no amor e no casamento, não numa ampla indignação com injustiças sociais."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode ter pensado que o texto destaca as relações entre as pessoas e, portanto, valoriza as relações interpessoais.",
+        "misconceptionType": "Confusão entre temática de relações e aspecto crítico",
+        "whyItLooksPlausible": "O texto é um diálogo intenso e emocional entre duas pessoas casadas.",
+        "whyItIsWrong": "O texto evidencia conflitos e mistificações na relação, e não uma valorização positiva das relações interpessoais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto literário",
+      "secondarySkills": [
+        "Análise crítica",
+        "Reconhecimento de temáticas literárias"
+      ],
+      "cognitiveDemand": "alto",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige compreensão do contexto literário romântico.",
+        "Requer identificar críticas sociais implícitas.",
+        "Foca em temática do casamento e relação entre amor e dinheiro."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "📚",
+      "shortThemeTitle": "Crítica romântica ao casamento e influência da riqueza",
+      "interpretationIntro": "A questão solicita que o candidato interprete um trecho literário para identificar como o casamento é tematizado dentro da concepção romântica.",
+      "commandTerms": [
+        {
+          "term": "Tematizar",
+          "explanation": "Abordar ou tratar um tema específico de forma expressa no texto."
+        },
+        {
+          "term": "Concepção romântica",
+          "explanation": "Características do romantismo literário, como idealização do amor, conflito entre sentimento e realidade social."
+        }
+      ],
+      "whatTheQuestionAsks": "Interpretar o fragmento para reconhecer a visão romântica que o texto apresenta sobre o casamento, especialmente no que toca a influência da riqueza nos relacionamentos amorosos.",
+      "strategyParagraph": "Para resolver a questão, é fundamental analisar cuidadosamente o diálogo entre Aurélia e seu marido, destacando elementos que revelam a relação do casamento com interesses econômicos. É necessário identificar a crítica social implícita e entender como ela se conecta aos temas românticos. Depois, comparar as alternativas para eleger a que melhor explica essa crítica, evidenciada pela fala da personagem que confessa ter comprado o marido.",
+      "reviewTable": [
+        {
+          "concept": "Romantismo",
+          "keyIdea": "Conflito entre sentimento e realidade social ou econômica",
+          "application": "Fragmento mostra conflito entre amor idealizado e casamento como transação financeira."
+        },
+        {
+          "concept": "Crítica social no romântico",
+          "keyIdea": "Exposição das contradições sociais na vida privada, como o casamento",
+          "application": "Personagem Aurélia revela a compra do marido, denunciando a influência do dinheiro no casamento."
+        },
+        {
+          "concept": "Estrutura do diálogo",
+          "keyIdea": "Revela tensão emocional e a verdade subjacente na relação conjugal",
+          "application": "Diálogo evidencia o choque entre aparências e a realidade do casamento."
+        }
+      ],
+      "theoryParagraphs": [
+        "O romantismo frequentemente aborda o amor idealizado em contraste com as duras realidades sociais e econômicas da época, como casamentos arranjados ou baseados em interesses financeiros, e não em sentimentos genuínos.",
+        "Esse período literário também é marcado pela crítica social, que se manifesta ao revelar as contradições e injustiças presentes nas instituições sociais como o casamento, destacando a tragédia do amor impedido por forças externas.",
+        "O fragmento em questão apresenta essas características por meio do diálogo no qual Aurélia explícita a compra do marido, assumindo a função de crítica à mercantilização das relações afetivas, demonstrando a problemática romântica do conflito entre paixão e convenção social."
+      ],
+      "resolutionParagraphs": [
+        "Ao ler atentamente o fragmento, identifica-se que Aurélia chama o marido de \"homem vendido\" e assume ter \"comprado\" ele por cem contos de réis, revelando que o casamento não se baseia em amor, mas em interesses econômicos.",
+        "Essa fala evidência claramente uma crítica à forma como a riqueza interfere e distorce o sentimento amoroso e a relação conjugal, tema associado ao romantismo que questiona as convenções sociais limitantes.",
+        "Ao analisar as alternativas, aquela que aponta para a interferência da riqueza no amor e no casamento (alternativa D) corresponde fielmente à narrativa apresentada no texto.",
+        "Portanto, a alternativa D é a correta, pois reconhece o foco romântico na denuncia da mercantilização do casamento, um tema típico da obra e do contexto literário do autor."
+      ],
+      "puloDoGato": "Identifique o elemento chave do diálogo — a venda do marido — para perceber que o texto critica o casamento como transação financeira, uma marca do romantismo.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "A alternativa A confunde a crítica social do texto com uma defesa da igualdade de gêneros, o que não é o foco do trecho, que trata da interferência da riqueza no casamento."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "A alternativa B se baseia na menção ao primeiro beijo, mas o tema central do fragmento não é a castidade, e sim a influência econômica no amor."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "A alternativa C generaliza a crítica social para injustiça social ampla, sem considerar que o foco do texto é o impacto da riqueza no casamento."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "A alternativa D é correta por reconhecer a crítica à interferência da riqueza no sentimento amoroso e na instituição do casamento, tema central do fragmento."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "A alternativa E interpreta erroneamente o texto como valorização positiva das relações interpessoais, quando o texto expõe conflitos e mistificações no casamento."
+        }
+      ],
+      "questionCode": "LENGUAGES_LITERATURE_MULTIPLECHOICE_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes e alinhados. A resolução oficial foi construída seguindo as regras editoriais e enfatiza o tema romântico de crítica do casamento como transação financeira, coerente com o fragmento. As alternativas foram analisadas com cuidado para explicar o motivo de cada uma estar correta ou incorreta.",
+      "issues": []
+    }
+  }
+}

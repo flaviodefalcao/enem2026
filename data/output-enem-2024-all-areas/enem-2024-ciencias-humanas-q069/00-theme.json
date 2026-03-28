@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:59:16.177Z",
+  "questionId": "enem-2024-ciencias-humanas-q069",
+  "payload": {
+    "theme": "Cidadania e democracia",
+    "subtheme": "Direitos e participação social",
+    "rationale": "O texto de Wollstonecraft trata da reivindicação dos direitos das mulheres, destacando a necessidade de reconhecimento de suas capacidades além dos padrões sociais tradicionais. Isso se enquadra no tema 'Cidadania e democracia' e no subtema 'Direitos e participação social', já que aborda a luta por direitos iguais e pela valorização das mulheres na sociedade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 863,
+    "outputTokens": 97,
+    "estimatedCostUsd": 0.0005
+  }
+}

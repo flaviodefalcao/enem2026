@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T01:01:45.152Z",
+  "questionId": "enem-2024-ciencias-humanas-q071",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta porque o texto destaca a presença e a influência de organismos supranacionais (como a Conferência das Nações Unidas sobre o Clima, COP-26) e a participação da sociedade civil (representada pela atuação do setor empresarial por meio do Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável e o movimento Empresários pelo Clima) na negociação e ampliação das metas brasileiras de redução de gases de efeito estufa.",
+        "strategy": "Análise do enunciado para identificar os atores que promoveram as mudanças nas metas brasileiras, com foco no texto e sua descrição do contexto da COP-26 e dos agentes envolvidos. Em seguida, comparação das alternativas para identificar qual representa corretamente os agentes mencionados.",
+        "steps": [
+          "Identificar no texto os agentes sociais e institucionais que tiveram influência na mudança da meta brasileira.",
+          "Reconhecer que a COP-26 é um organismo supranacional onde países e setores discutem mudanças climáticas.",
+          "Verificar a atuação destacada do setor empresarial organizado em movimento pela sustentabilidade, representando a sociedade civil.",
+          "Comparar as alternativas para verificar qual associa esses grupos corretamente.",
+          "Selecionar a alternativa D, que menciona organismos supranacionais e sociedade civil, como a que representa os agentes mencionados no texto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Análise do texto do enunciado fornecido, sem imagens adicionais relevantes para a solução."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O compromisso do Brasil na COP-26 resultou da influência direta de organismos supranacionais (a própria conferência) e da atuação organizada do setor empresarial, que pressiona para metas ambientais mais ambiciosas.",
+        "stepByStep": [
+          "Leia atentamente o texto para identificar quem está envolvido nas decisões e pressões para mudança nas metas climáticas.",
+          "Observe que a COP-26 é um organismo supranacional onde países discutem e assumem compromissos ambientais.",
+          "Note a importância do setor privado, representado pelo Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável e o movimento Empresários pelo Clima, na pressão por metas mais ambiciosas.",
+          "Descubra que a nova meta do Brasil (redução de 50% dos gases de efeito estufa até 2030) é resultado da pressão desses dois grupos.",
+          "Considere as alternativas e escolha a que menciona corretamente os organismos supranacionais e a sociedade civil por meio do setor empresarial, que é a alternativa D."
+        ],
+        "commonPitfalls": [
+          "Confiar em atores sociais não mencionados no texto, como povos ribeirinhos ou segmentos culturais, que apesar da importância, não são citados neste contexto.",
+          "Confundir diferentes atores políticos e econômicos, como exércitos ou blocos econômicos, que não aparecem no texto.",
+          "Pressupor que grupos científicos ou universidades foram os principais agentes da mudança, quando o texto destaca o setor empresarial e organismos internacionais.",
+          "Assumir que agentes governamentais e o setor turístico tiveram papel determinante, apesar de não serem citados na questão."
+        ],
+        "teachingTips": [
+          "Peça para os alunos sublinharem no texto os agentes sociais e institucionais mencionados para facilitar a compreensão.",
+          "Explique o conceito de organismos supranacionais e sua importância em acordos internacionais, como a COP.",
+          "Mostre como a sociedade civil organizada pode influenciar políticas públicas, exemplificando com o papel do setor empresarial na questão.",
+          "Ensine a analisar alternativas de múltipla escolha eliminando as que contêm informações não suportadas pelo texto.",
+          "Reforce a importância da leitura atenta para identificar apenas os atores destacados pelo enunciado, evitando conjecturas."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Povos ribeirinhos e segmentos culturais são frequentemente envolvidos em discussões ambientais, podendo parecer relevantes para mudanças climáticas.",
+          "misconceptionType": "Atribuição incorreta de agentes sociais influentes",
+          "whyItLooksPlausible": "Segmentos culturais e povos tradicionais são atores importantes em debates ambientais e podem ser vistos como pressionadores sociais.",
+          "whyItIsWrong": "O texto não menciona esses grupos, focando nos organismos supranacionais e sociedade civil por meio do setor empresarial."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Blocos econômicos e instituições militares podem ter influência política e econômica, o que poderia impactar metas ambientais.",
+          "misconceptionType": "Confusão entre diferentes tipos de atores políticos e econômicos",
+          "whyItLooksPlausible": "Blocos econômicos representam interesses amplos e poderiam atuar na negociação de metas climáticas.",
+          "whyItIsWrong": "O texto não aborda nem menciona participação militar nem blocos econômicos nesse contexto."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Grupos científicos e universidades públicas são frequentemente fontes de conhecimento técnico em questões ambientais, podendo ser vistos como influentes.",
+          "misconceptionType": "Equívoco sobre agentes diretamente envolvidos em decisões políticas e pactos internacionais",
+          "whyItLooksPlausible": "Esses grupos contribuem com informações para decisões, parecendo exercer pressão para metas mais rigorosas.",
+          "whyItIsWrong": "Apesar da importância, o texto não menciona especificamente esses grupos como responsáveis pelas mudanças na meta."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Agentes governamentais e demanda turística poderiam influenciar políticas ambientais por interesses econômicos.",
+          "misconceptionType": "Associação errônea de agentes com foco econômico restrito",
+          "whyItLooksPlausible": "Governos e setores econômicos ligados ao turismo podem modificar políticas para atender interesses próprios.",
+          "whyItIsWrong": "O texto não menciona agentes governamentais nem atividades relacionadas a turismo na ampliação da meta."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Leitura e interpretação de texto",
+        "secondarySkills": [
+          "Análise crítica de temas socioambientais",
+          "Compreensão de políticas públicas internacionais"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreensão do texto e identificação dos atores sociais mencionados.",
+          "Não requer cálculos nem interpretações visuais específicas.",
+          "Envolve conhecimento prévio básico sobre conferências climáticas e atores sociais envolvidos."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌍",
+        "shortThemeTitle": "Compromissos Climáticos e Atores Sociais",
+        "interpretationIntro": "A questão apresenta o compromisso do Brasil na COP-26 e pede para identificar quais atores sociais e institucionais promoveram mudanças no compromisso de redução de gases de efeito estufa.",
+        "commandTerms": [
+          {
+            "term": "Compromisso",
+            "explanation": "Acordo ou meta assumida por um país para reduzir impactos ambientais."
+          },
+          {
+            "term": "Tensionamentos",
+            "explanation": "Pressões ou influências que provocam mudanças em decisões ou posicionamentos."
+          },
+          {
+            "term": "Organismos supranacionais",
+            "explanation": "Entidades formadas por países que atuam em nível internacional para tratar temas comuns."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar quem foram os agentes sociais e institucionais que promoveram o aumento da ambição na meta brasileira de redução de gases causadores do efeito estufa, conforme o texto da questão.",
+        "strategyParagraph": "Para responder, é necessário examinar cuidadosamente o texto e reconhecer os grupos que influenciaram as decisões na COP-26. Aí, deve-se analisar cada alternativa para ver qual representa corretamente esses agentes: organismos supranacionais (como a própria conferência das Nações Unidas sobre o clima) e a sociedade civil organizada, especialmente o setor empresarial que atuou de forma articulada.",
+        "reviewTable": [
+          {
+            "concept": "Organismos supranacionais",
+            "keyIdea": "Atuam além das fronteiras nacionais para estabelecer acordos internacionais.",
+            "application": "A COP-26 é um organismo supranacional que promove decisões climáticas globais."
+          },
+          {
+            "concept": "Sociedade civil organizada",
+            "keyIdea": "Grupos da sociedade que pressionam para mudanças políticas e sociais, como o setor empresarial.",
+            "application": "O movimento Empresários pelo Clima atua para ampliar metas ambientais no Brasil."
+          },
+          {
+            "concept": "Compromissos climáticos",
+            "keyIdea": "Metas assumidas por países para conter o aquecimento global e seus efeitos negativos.",
+            "application": "O Brasil comprometeu-se a reduzir 50% dos gases de efeito estufa até 2030 em relação a 2005."
+          }
+        ],
+        "theoryParagraphs": [
+          "As Conferências das Partes (COPs) são encontros anuais de países signatários da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), que buscam acordos para mitigar o impacto das ações humanas no clima do planeta. Esses organismos supranacionais funcionam como espaços de negociação e pressão, onde compromissos são assumidos e revisados de forma coletiva.",
+          "A sociedade civil organizada, especialmente o setor empresarial comprometido com a sustentabilidade, tem se tornado cada vez mais atuante nas negociações climáticas. Sua participação reflete a importância de que diferentes segmentos da sociedade assumam responsabilidades e pressionem para metas mais ambiciosas, equilibrando desenvolvimento econômico e preservação ambiental.",
+          "No caso do Brasil, o aumento da meta de redução de gases de efeito estufa, de 43% para 50% até 2030 em relação a 2005, demonstra a influência das negociações internacionais e das pressões internas da sociedade civil, evidenciando a complexa dinâmica entre políticas públicas, atores sociais e compromissos ambientais globais."
+        ],
+        "resolutionParagraphs": [
+          "O texto explica que a 26ª Conferência do Clima das Nações Unidas (COP-26) buscava metas mais ambiciosas para conter o aquecimento global, com destaque para a meta de não ultrapassar o aumento de 1,5 °C da temperatura global.",
+          "Destaca-se a presença de organismos supranacionais (a própria COP) como instância que promove essas negociações e compromissos internacionais.",
+          "Além disso, o papel da sociedade civil, especialmente do setor empresarial organizado pelo Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável e o movimento Empresários pelo Clima, é evidenciado como influente na definição da nova meta do Brasil.",
+          "Assim, o aumento do compromisso brasileiro de reduzir 50% das emissões de gases de efeito estufa até 2030 reflete a pressão conjunta desses organismos supranacionais e da sociedade civil por meio do setor empresarial.",
+          "Ao analisar as alternativas, a única que contempla esses dois agentes promotores da mudança é a alternativa D, que menciona organismos supranacionais e sociedade civil."
+        ],
+        "puloDoGato": "Para questões com textos longos e múltiplas alternativas, concentre-se em quem o texto destaca como agentes da mudança, e elimine as opções que trazem atores não mencionados explicitamente.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o texto não menciona povos ribeirinhos ou segmentos culturais como pressionadores para a meta anunciada."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Está errada já que não há menção a blocos econômicos ou instituições militares influenciando a decisão."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta porque, embora grupos científicos contribuam em temas ambientais, o texto não os indica como agentes principais na definição da nova meta brasileira."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta pois menciona organismos supranacionais e sociedade civil, que o texto aponta como responsáveis pela pressão para a nova meta de redução de gases do efeito estufa."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada porque o texto não cita agentes governamentais ou o setor turístico como atores envolvidos na ampliação da meta."
+          }
+        ],
+        "questionCode": "CH_CLIMATICO_POLITICAS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão apresenta coerência entre enunciado, solução técnica e explicação didática. A resolução oficial está clara, adequada ao padrão e alinhada ao conteúdo e ao contexto fornecidos. Comentários das alternativas são adequados e esclarecedores, respeitando os dados do texto. Não foram identificados problemas significativos de coerência ou formato.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3000,
+    "outputTokens": 2490,
+    "estimatedCostUsd": 0.005184
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:22:32.837Z",
+  "questionId": "enem-2024-linguagens-q022",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C é correta pois identifica na letra da canção a construção metalinguística que concebe a palavra como arma de combate e insubordinação, manifestando a violência estrutural abordada no Texto II.",
+      "strategy": "Analisou-se o trecho da letra apresentada no Texto I e o comentário crítico do Texto II sobre o tema da violência estrutural na sociedade, buscando correspondência entre os elementos temáticos presentes na canção e a explicação teórica.",
+      "steps": [
+        "Ler o fragmento da canção do grupo Racionais MCs, identificando elementos temáticos e figuras de linguagem.",
+        "Analisar o Texto II que destaca a violência como tema central nas obras do grupo, abrangendo violência social e estrutural.",
+        "Comparar as informações dos dois textos, identificando que na canção há tratamento à palavra como arma (\"minha palavra vale um tiro\") e atitude que transcende, como forma de combate.",
+        "Reconhecer que essa visão da palavra como arma significa um procedimento metalinguístico, isto é, reflexão sobre a palavra utilizada como instrumento de luta e insubordinação.",
+        "Verificar as alternativas e correlacionar o enunciado da alternativa C como a que melhor expressa essa interpretação."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato relaciona a violência metaforicamente à desigualdade e interpreta a referência à justiça de maneira histórica e negativa.",
+        "misconceptionType": "Interpretação equivocada do tema central da letra e do fragmento do texto crítico.",
+        "whyItLooksPlausible": "O texto fala sobre desigualdade e injustiça, e a metáfora da desigualdade é comum em abordagens críticas.",
+        "whyItIsWrong": "O trecho enfatiza o uso da palavra como arma, e a questão aborda mais diretamente a metalinguagem do discurso e a violência estrutural como tema, não uma metáfora indireta da justiça."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O candidato nota os termos bélicos como base para entender a crítica social presente, ligando a letra com a opressão sofrida pelas periferias.",
+        "misconceptionType": "Confundir figura de linguagem (termos bélicos) com o foco principal da temática da letra.",
+        "whyItLooksPlausible": "Os termos como \"tiro\", \"munição\" e \"franco atirador\" explicitam um tom bélico e de resistência.",
+        "whyItIsWrong": "Embora correto o reconhecimento do tom bélico, o foco da alternativa C no uso metalinguístico da palavra reflete melhor o confronto com a violência social e estrutural discutida."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato percebe as ambigüidades nas definições de bonzinho e malvado na letra, e interpreta como inversão e relativização moral.",
+        "misconceptionType": "Focar na ambiguidade dos conceitos de maldade e bondade em lugar do papel da palavra na violência.",
+        "whyItLooksPlausible": "O trecho apresenta opostos e ambiguidade, que pode ser confundida com inversão de valores.",
+        "whyItIsWrong": "Essa ambiguidade não é o ponto central da manifestação da violência reconhecida no Texto II, que enfatiza o combate simbólico e estrutural."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato destaca a referência à imortalidade como símbolo de resistência e ultrapassagem de dicotomias básicas como vida e morte.",
+        "misconceptionType": "Fazer leitura simbólica amplia demais o foco, desviando da abordagem metalinguística e social.",
+        "whyItLooksPlausible": "A menção à imortalidade relaciona-se com força e resistência, podendo ser interpretada como tema de superação.",
+        "whyItIsWrong": "Essa interpretação não capta o principal aspecto técnico da questão, que é justamente o uso da palavra como arma: a metalinguagem e a violência simbólica."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de textos literários e críticos",
+      "secondarySkills": [
+        "Análise literária",
+        "Interpretação textual",
+        "Identificação de figuras de linguagem e metáforas"
+      ],
+      "cognitiveDemand": "Análise e interpretação crítica",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Necessário relacionar um texto poético e um texto crítico para interpretar o tema da violência estrutural.",
+        "Importante reconhecer a metalinguagem presente no fragmento da canção.",
+        "Questão avalia habilidade de análise textual em literatura e linguagens."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 929,
+    "outputTokens": 954,
+    "estimatedCostUsd": 0.001898
+  }
+}

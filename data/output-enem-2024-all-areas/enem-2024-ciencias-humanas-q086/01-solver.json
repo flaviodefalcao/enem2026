@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T01:16:28.423Z",
+  "questionId": "enem-2024-ciencias-humanas-q086",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque as imagens de satélite mostram claramente a transformação do espaço geográfico de Dubai entre os anos 2000 e 2020, com a criação de ilhas artificiais em formatos específicos e outras construções que indicam a artificialização do ambiente natural.",
+      "strategy": "Comparar visualmente as imagens de satélite dos anos 2000 e 2020 para identificar mudanças significativas na configuração do espaço geográfico, focando em alterações que indiquem ações humanas intensas como construções e aterros.",
+      "steps": [
+        "Observação da imagem do ano 2000: predominância de área natural, com pouca intervenção humana evidente no espaço costeiro.",
+        "Observação da imagem do ano 2020: identificação clara da construção de ilhas artificiais no Mar, como as Ilhas Palmeira e o arquipélago artificial visível.",
+        "Comparação entre as imagens para confirmar que as mudanças nas áreas costeiras são resultado de intervenções humanas.",
+        "Análise das alternativas para verificar qual delas melhor descreve o processo observado nas imagens."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem de satélite de Dubai em 2000 mostrando a costa praticamente natural.",
+        "Imagem de satélite de Dubai em 2020 mostrando ilhas artificiais construídas no mar, alterando o espaço geográfico natural."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "A ideia de conservar lugares afetivos pode estar associada à proteção de locais valorizados culturalmente ou emocionalmente, o que não se observa nas imagens.",
+        "misconceptionType": "Interpretação incorreta do conceito de conservação.",
+        "whyItLooksPlausible": "Pode parecer plausible porque a cidade está se desenvolvendo, o que poderia ser interpretado como manutenção de áreas importantes.",
+        "whyItIsWrong": "As imagens mostram intervenções artificiais no ambiente natural, não conservação do espaço original."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O aumento de áreas desertificadas poderia ser suspeito dada a localização no deserto, mas as imagens não indicam expansão do deserto.",
+        "misconceptionType": "Confusão entre processo natural e intervenção humana.",
+        "whyItLooksPlausible": "A região é desértica, então desertificação poderia parecer um processo importante.",
+        "whyItIsWrong": "As imagens denunciam que houve aumento de construções artificiais, e não expansão de desertos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Redefinição de fronteiras nacionais pode ser uma associação equivocada ao observar mudanças territoriais.",
+        "misconceptionType": "Confusão entre transformações físicas do território e mudanças políticas.",
+        "whyItLooksPlausible": "Transformações visíveis no espaço podem ser confundidas com mudanças administrativas.",
+        "whyItIsWrong": "Não há indícios nas imagens ou no texto sobre alterações em fronteiras políticas, apenas mudanças físicas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Mudança da dinâmica macroclimática pode parecer uma explicação para modificações territoriais.",
+        "misconceptionType": "Confusão entre mudanças ambientais naturais e intervenções humanas.",
+        "whyItLooksPlausible": "Alterações no ambiente poderiam ser confundidas com mudanças climáticas globais.",
+        "whyItIsWrong": "As imagens indicam intervenções humanas específicas, não mudanças climáticas globais."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise e interpretação de imagens geográficas",
+      "secondarySkills": [
+        "Conhecimento de processos territoriais",
+        "Compreensão da intervenção humana no espaço geográfico"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "É necessário observar atentamente as imagens comparativas.",
+        "A questão envolve o reconhecimento de processos de transformação urbana e espacial.",
+        "Requer conhecimento prévio sobre artificialização do espaço geográfico."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1571,
+    "outputTokens": 785,
+    "estimatedCostUsd": 0.001884
+  }
+}

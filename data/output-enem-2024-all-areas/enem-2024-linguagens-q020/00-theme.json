@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T00:11:37.220Z",
+  "questionId": "enem-2024-linguagens-q020",
+  "payload": {
+    "theme": "Língua portuguesa e variação",
+    "subtheme": "Coesão e progressão textual",
+    "rationale": "A questão aborda o recurso que garante a unidade temática da crônica, enfatizando a progressão textual, um aspecto central da coesão textual. A habilidade H18 também indica a identificação dos elementos que contribuem para a progressão temática e estruturação do texto, o que está diretamente relacionado ao subtema de coesão e progressão textual.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1129,
+    "outputTokens": 101,
+    "estimatedCostUsd": 0.000613
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "questionId": "enem-2024-q136",
+  "generatedAt": "2026-03-26T19:19:03.078Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1254,
+      "outputTokens": 1081,
+      "estimatedCostUsd": 0.002231
+    },
+    "explainer": {
+      "inputTokens": 2278,
+      "outputTokens": 505,
+      "estimatedCostUsd": 0.001719
+    },
+    "reviewer": {
+      "inputTokens": 3194,
+      "outputTokens": 1495,
+      "estimatedCostUsd": 0.00367
+    },
+    "totalEstimatedCostUsd": 0.00762
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A resposta A está correta pois a lente objetiva I, ao ser combinada com a ocular de 10x, proporciona a ampliação suficiente para visualizar as hemácias, e é a de menor ampliação que cumpre esse requisito.",
+      "strategy": "Calcular a ampliação mínima necessária para visualizar as hemácias com base no tamanho mínimo visível pelo olho nu e comparar com as ampliações resultantes da combinação das lentes objetiva e ocular.",
+      "steps": [
+        "Converter o tamanho mínimo visível pelo olho humano de 100 micrômetros para milímetros: 0,1 mm.",
+        "Comparar o diâmetro da hemácia (0,007 mm) com o tamanho mínimo visível (0,1 mm) para constatar que ela não é visível a olho nu.",
+        "Calcular a ampliação mínima necessária dividindo 0,1 mm por 0,007 mm, obtendo aproximadamente 14,29.",
+        "Calcular a ampliação total para cada lente objetiva multiplicando sua ampliação pela ocular de 10x.",
+        "Verificar qual é a menor ampliação total que é igual ou maior que 14,29.",
+        "Identificar que a lente objetiva I (2x), combinada com a ocular (10x), resulta em 20x, que é a menor ampliação que atende ao requisito."
+      ],
+      "formulasUsed": [
+        "Ampliação total = Ampliação ocular × Ampliação objetiva",
+        "Ampliação mínima necessária = Tamanho mínimo visível / Tamanho do objeto"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem do microscópio ilustrando a posição da lente ocular e lentes objetivas mostrando o funcionamento da ampliação combinada."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para visualizar hemácias muito pequenas, precisamos calcular o aumento mínimo que o microscópio deve ter. Multiplicando a ampliação da lente ocular pela objetiva, escolhemos a lente objetiva com a menor ampliação que permite ver claramente as hemácias.",
+      "stepByStep": [
+        "Converter o tamanho mínimo visível pelo olho humano para milímetros: 100 micrômetros = 0,1 mm.",
+        "Comparar esse tamanho com o diâmetro da hemácia (0,007 mm) para entender que a hemácia não é visível a olho nu.",
+        "Calcular a ampliação mínima necessária dividindo o tamanho mínimo visível pelo diâmetro da hemácia: 0,1 mm / 0,007 mm ≈ 14,29.",
+        "Calcular o aumento total do microscópio, que é o produto da ampliação da lente ocular (10x) pela ampliação de cada lente objetiva.",
+        "Multiplicar 10x pelas ampliações das lentes objetivas: I (2x)=20x, II (10x)=100x, III (15x)=150x, IV (1,1x)=11x, V (1,4x)=14x.",
+        "Escolher a lente objetiva de menor ampliação cuja ampliação total seja igual ou maior que 14,29x.",
+        "Concluir que a lente I, com ampliação total de 20x, é a menor que permite visualizar as hemácias."
+      ],
+      "commonPitfalls": [
+        "Não converter corretamente as unidades (micrômetros para milímetros).",
+        "Esquecer que a ampliação total do microscópio é o produto das ampliações ocular e objetiva.",
+        "Escolher a lente com maior ampliação em vez da menor que atende ao requisito.",
+        "Confundir número próximo da ampliação necessária com valor suficiente sem calcular direito.",
+        "Ignorar que a ampliação mínima necessária deve ser igual ou maior que o cálculo para visualizar o objeto."
+      ],
+      "teachingTips": [
+        "Enfatize a importância da conversão correta de unidades para evitar erros.",
+        "Use exemplos práticos para mostrar como o olho humano percebe objetos e como o aumento é necessário para ver detalhes pequenos.",
+        "Mostre visualmente como o aumento total é calculado multiplicando ocular e objetiva.",
+        "Explique que o problema pede a menor ampliação que permita ver os objetos para evitar escolher a maior ampliação disponível.",
+        "Incentive os alunos a organizar os cálculos passo a passo para facilitar a análise e evitar confusão."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "A lente II tem ampliação 10 vezes, que combinada com a ocular resulta em ampliação alta, mas não é a menor possível.",
+        "misconceptionType": "Confusão entre ampliação necessária e maior ampliação disponível",
+        "whyItLooksPlausible": "A lente II (10x) com ocular (10x) produz 100x, capaz de visualizar hemácias facilmente.",
+        "whyItIsWrong": "O enunciado pede a lente objetiva de menor ampliação que permita a visualização, e a lente I é suficiente e menor que II."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Lente III (15x) com ocular (10x) dá ampliação total muito alta, garantindo visualização.",
+        "misconceptionType": "Escolha da lente com maior ampliação esquecendo a questão do mínimo necessário",
+        "whyItLooksPlausible": "Alta ampliação garante ver claramente as hemácias.",
+        "whyItIsWrong": "Lente I já fornece ampliação suficiente e é de menor capacidade."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "A lente IV (1,1x) poderia parecer suficiente pela pequena ampliação que supostamente permitiria algum aumento.",
+        "misconceptionType": "Não calcular ampliação total mínima necessária corretamente.",
+        "whyItLooksPlausible": "Pense que até pequenos aumentos podem tornar visível o objeto.",
+        "whyItIsWrong": "Ampliação total por lente IV é 11x, abaixo do mínimo exigido (~14,29x). Não é suficiente para ver hemácias."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A lente V (1,4x) com ocular (10x) resulta em ampliação total 14x, próxima ao mínimo necessário.",
+        "misconceptionType": "Arredondamento inadequado da ampliação necessária.",
+        "whyItLooksPlausible": "Ampliação total está quase no ponto de visualização mínima.",
+        "whyItIsWrong": "A ampliação necessária calculada é maior que 14x, portanto insuficiente."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Cálculo de ampliação e análise quantitativa",
+      "secondarySkills": [
+        "Conversão de unidades",
+        "Interpretação de textos técnicos",
+        "Aplicação de multiplicação em contexto real"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Importante uso do conceito de ampliação total como produto das ampliações ocular e objetiva.",
+        "Análise quantitativa do tamanho mínimo visível e tamanho do objeto para determinar ampliação necessária.",
+        "Leitura e interpretação da descrição do microscópio e lentes usadas na ampliação."
+      ]
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes entre si. A análise da ampliação mínima necessária está correta e os cálculos são explicitados claramente. A imagem do microscópio corrobora a descrição do funcionamento das lentes ocular e objetiva. Os distratores estão bem fundamentados, explicando as principais confusões possíveis e sua incorreção.",
+      "issues": []
+    }
+  }
+}

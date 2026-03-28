@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T00:51:31.758Z",
+  "questionId": "enem-2024-ciencias-humanas-q058",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A ética aristotélica define a felicidade (eudaimonia) como a prática constante de ações virtuosas, que expressam a excelência de caráter e conduzem ao aperfeiçoamento moral dentro da vida em sociedade (a pólis). Isso significa que ser feliz é agir bem, desenvolvendo virtudes por meio da deliberação racional e da prudência ao longo da vida.",
+      "stepByStep": [
+        "Leia atentamente o Texto I, que relaciona felicidade à excelência, ou seja, extrair o melhor da própria natureza por meio de conduta e comportamento.",
+        "No Texto II, observe que eudaimonia é uma atividade da alma baseada na prática da virtude moral, fundamentada na deliberação e na prudência.",
+        "Compreenda que, para Aristóteles, a realização dessa virtude ocorre no contexto social, na pólis, por meio do aperfeiçoamento prático da conduta humana.",
+        "Analise as alternativas e identifique aquela que melhor expressa a ideia de praticar ações virtuosas e desenvolver moralmente o indivíduo na vida social.",
+        "Conclua que a alternativa D é a correta, pois corresponde ao conceito aristotélico de felicidade como resultado da prática ética na pólis."
+      ],
+      "commonPitfalls": [
+        "Confundir a concepção aristotélica de felicidade com ideias platônicas sobre essências imutáveis.",
+        "Reduzir a ética aristotélica à simples racionalidade voltada a princípios abstratos, desconsiderando a prática moral.",
+        "Pensar que habilidades retóricas ou técnicas de comunicação são responsáveis por alcançar a felicidade, quando na verdade são instrumentos separados da virtude moral.",
+        "Relacionar felicidade apenas ao conhecimento teórico ou científico, em vez do aperfeiçoamento da conduta prática e moral."
+      ],
+      "teachingTips": [
+        "Enfatize a distinção entre felicidade como estado psicológico e como atividade virtuosa, conforme Aristóteles.",
+        "Use exemplos da vida cotidiana para ilustrar como a prática constante de virtudes leva ao aprimoramento moral e à felicidade.",
+        "Estimule os alunos a relacionarem o conceito de pólis não apenas como um espaço físico, mas como contexto social para agir eticamente.",
+        "Explore comparações entre filosofias antigas para evidenciar as particularidades da ética aristotélica em relação a Platão.",
+        "Aborde a importância da deliberação racional e prudência como fundamentos para o desenvolvimento das virtudes na vida prática."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1580,
+    "outputTokens": 492,
+    "estimatedCostUsd": 0.001419
+  }
+}

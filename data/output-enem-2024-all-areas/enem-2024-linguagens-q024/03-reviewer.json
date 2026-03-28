@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:24:31.574Z",
+  "questionId": "enem-2024-linguagens-q024",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "Essa alternativa está correta porque o diálogo entre os personagens contrapõe a linguagem literária formal (preciosismo linguístico) à fala cotidiana, mais coloquial, mostrando a tensão entre a norma culta e a linguagem informal.",
+        "strategy": "Interpretar o diálogo para identificar o principal tema discutido, focando na oposição entre estilo literário e linguagem falada.",
+        "steps": [
+          "Ler o fragmento atentamente para entender o debate entre os personagens.",
+          "Identificar que Gondim defende uma escrita que não replica exatamente a fala cotidiana.",
+          "Reconhecer que a discussão aponta uma diferença entre a linguagem formal/literária e a linguagem coloquial, mostrando uma resistência ao uso da fala comum na escrita artística.",
+          "Analisar as alternativas para verificar qual delas corresponde a essa oposição linguística."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O diálogo apresenta uma discussão entre a linguagem formal, usada na literatura, e a forma coloquial da fala cotidiana. Gondim defende que a escrita artística deve ser diferente da fala comum, evidenciando uma oposição entre o preciosismo linguístico e a coloquialidade.",
+        "stepByStep": [
+          "Leia o fragmento atentamente para entender o debate entre os personagens.",
+          "Observe que Gondim afirma que um artista não pode escrever exatamente como fala, indicando uma diferença entre fala e escrita literária.",
+          "Note que o texto contrapõe a linguagem formal, muitas vezes mais elaborada (preciosismo linguístico), à fala do dia a dia (coloquial).",
+          "Compare as alternativas para identificar qual apresenta essa oposição entre a linguagem literária formal e a linguagem coloquial.",
+          "Escolha a alternativa que expresse essa contradição, que no caso é a letra D."
+        ],
+        "commonPitfalls": [
+          "Interpretar que a questão fala apenas sobre a diferença entre língua padrão e produção artística sem considerar a oposição à fala coloquial.",
+          "Pensar que o texto valoriza aproximar a literatura dos dialetos sociais ou da fala comum.",
+          "Achar que Gondim defende escrever da mesma forma como se fala, confundindo as falas dos personagens.",
+          "Relacionar os desentendimentos pessoais dos personagens diretamente ao uso da norma culta, sem foco na questão linguística."
+        ],
+        "teachingTips": [
+          "Inicie com a leitura atenta do texto para que o aluno identifique o tema central do diálogo.",
+          "Explique a diferença entre norma culta, linguagem formal e linguagem coloquial, usando exemplos do cotidiano.",
+          "Discuta com os alunos como a literatura muitas vezes utiliza um registro linguístico mais sofisticado em relação à fala do dia a dia.",
+          "Estimule os alunos a relacionarem o discurso dos personagens com conceitos linguísticos para interpretar as intenções por trás das falas.",
+          "Pratique com outras questões que explorem variações linguísticas para reforçar a compreensão sobre linguagem e contexto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode interpretar que a questão está falando da distinção entre linguagem artística e o português padrão dos dicionários ou gramáticas.",
+          "misconceptionType": "Interpretação superficial do texto",
+          "whyItLooksPlausible": "O texto aborda uma diferença entre formas de linguagem, então pensar em produção artística vs língua padrão parece natural.",
+          "whyItIsWrong": "O texto não discute diretamente o padrão da língua, mas a oposição entre a linguagem literária 'preciosista' e a fala coloquial."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode confundir a questão vendo que ‘‘escrever como fala’’ poderia aproximar a literatura dos dialetos populares.",
+          "misconceptionType": "Interpretação literal sem considerar o tom de crítica",
+          "whyItLooksPlausible": "Falar de registrar a fala sugere dialetos sociais, especialmente os de menos prestígio.",
+          "whyItIsWrong": "O texto não valoriza essa aproximação, pelo contrário, o personagem também sugere que isso não é apropriado para a literatura."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Interpretar que Gondim defende escrever de modo próximo à fala do autor.",
+          "misconceptionType": "Confundir os papéis dos personagens e finalidades do diálogo",
+          "whyItLooksPlausible": "A fala do personagem questionador sugere que é possível escrever como se fala.",
+          "whyItIsWrong": "Gondim claramente recusa essa ideia, afirmando que a literatura não pode ser escrita da mesma forma como se fala."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Ver associação no diálogo entre uso da norma culta e conflitos pessoais entre os personagens.",
+          "misconceptionType": "Focar demais nos aspectos emocionais sem relação com a norma linguística",
+          "whyItLooksPlausible": "O diálogo tem tom de desavença, então pode parecer que a norma culta gera desentendimentos.",
+          "whyItIsWrong": "O foco do debate não é pessoal, mas linguístico, sobre a forma da escrita em relação à fala."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto literário e análise linguística",
+        "secondarySkills": [
+          "Compreensão de variedades linguísticas",
+          "Análise crítica de discurso"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreender o debate entre fala e escrita formal",
+          "Exige conhecimento sobre norma padrão versus linguagem coloquial",
+          "Requer avaliação crítica de posições apresentadas no diálogo"
+        ]
+      },
+      "officialResolution": {
+        "emoji": "📚",
+        "shortThemeTitle": "Linguagem literária versus fala coloquial",
+        "interpretationIntro": "A questão solicita a análise do debate apresentado no fragmento, enfocando a relação entre a oralidade e a escrita na literatura.",
+        "commandTerms": [
+          {
+            "term": "Diferenciação",
+            "explanation": "Identificar características que distinguem dois elementos ou conceitos."
+          },
+          {
+            "term": "Debate",
+            "explanation": "Analisar a argumentação entre diferentes pontos de vista."
+          }
+        ],
+        "whatTheQuestionAsks": "É avaliada a compreensão do leitor sobre a oposição presente no diálogo entre linguagem literária formal e fala cotidiana coloquial.",
+        "strategyParagraph": "Para solucionar a questão, deve-se interpretar o trecho dialogado, identificando a concepção do personagem Azevedo Gondim sobre o modo adequado de escrever na literatura — uma escrita que não reproduza a fala comum. A análise das alternativas deve focar nessa oposição entre formas linguísticas, selecionando aquela que a representa com mais fidelidade.",
+        "reviewTable": [
+          {
+            "concept": "Norma culta e linguagem formal",
+            "keyIdea": "Uso mais elaborado e 'preciosista' na escrita literária.",
+            "application": "Gondim defende que a literatura exige estilo diferente da fala coloquial."
+          },
+          {
+            "concept": "Linguagem coloquial",
+            "keyIdea": "Forma natural e cotidiana da fala entre indivíduos.",
+            "application": "Personagem questiona a separação entre falar e escrever, usando linguagem coloquial."
+          },
+          {
+            "concept": "Variedades linguísticas",
+            "keyIdea": "Diferentes registros ou estilos de linguagem usados conforme contexto.",
+            "application": "O diálogo mostra tensão entre registro literário e fala informal."
+          }
+        ],
+        "theoryParagraphs": [
+          "Na literatura, é comum que o estilo da escrita não reproduza fielmente a fala coloquial, pois se busca uma elaboração estética e artística na escolha das palavras e estruturas. Isso caracteriza um certo 'preciosismo linguístico', em contraste com o uso espontâneo e informal da língua falada.",
+          "O diálogo apresentado problematiza essa distinção, com personagens que simbolizam diferentes posições sobre a relação entre escrita e oralidade. Um personagem defende uma escrita mais formal e convencional, enquanto outro questiona essa rigidez.",
+          "Compreender essa oposição ajuda a interpretar o texto e as variações linguísticas no contexto literário, reconhecendo os diferentes propósitos e audiências da fala e da escrita."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, deve-se ler com atenção o fragmento para perceber que o personagem Gondim rejeita a ideia de escrever como se fala, afirmando que a literatura possui regras e estilo próprios.",
+          "A partir disso, identifica-se que o debate envolve o contraste entre uma escrita literária mais elaborada (preciosismo) e a fala cotidiana, mais coloquial e natural.",
+          "Ao analisar as alternativas, descarta-se as que sugerem aproximação da literatura com dialetos ou que confundem as posições dos personagens.",
+          "Assim, a alternativa D é a que melhor expressa esse contraponto entre preciosismo linguístico (linguagem formal na literatura) e coloquialidade (fala informal).",
+          "Portanto, a resposta correta é a letra D."
+        ],
+        "puloDoGato": "Na dúvida, foque na oposição explícita que o diálogo estabelece: escrita literária formal versus fala coloquial.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Embora pareça tratar da distinção entre produção artística e norma padrão, o texto enfatiza mais a oposição entre a linguagem literária formal e a fala coloquial, não apenas sobre o padrão da língua."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "A alternativa sugere aproximação da literatura com dialetos sociais, mas o diálogo indica rejeição dessa ideia pelo personagem Gondim."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Contraria o que Gondim diz, que um artista não deve escrever exatamente como fala."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Expressa corretamente a oposição entre preciosismo linguístico (linguagem literária formal) e a fala coloquial, refletido no diálogo."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Relaciona o conflito à norma culta e desentendimentos pessoais, mas o foco do texto é linguístico, não pessoal."
+          }
+        ],
+        "questionCode": "Linguagens_Analise_Literaria_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução técnica e explicação didática estão coerentes entre si, com abordagem clara e adequada. A resolução oficial segue o padrão editorial, explicando o raciocínio e comentando todas as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2665,
+    "outputTokens": 2061,
+    "estimatedCostUsd": 0.004364
+  }
+}

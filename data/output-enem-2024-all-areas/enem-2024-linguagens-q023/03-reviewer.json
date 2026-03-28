@@ -1,0 +1,185 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T00:23:45.522Z",
+  "questionId": "enem-2024-linguagens-q023",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta porque a resenha utiliza expressões adversativas para destacar críticas após afirmações elogiosas.",
+        "strategy": "Interpretar o texto da resenha identificando recursos linguísticos que evidenciam críticas inseridas após elogios, buscando expressões que indiquem ressalvas.",
+        "steps": [
+          "Ler atentamente o texto da resenha para identificar o tom geral e a presença de elogios e críticas.",
+          "Identificar o uso de expressões ligadas à adversidade, como 'mas', 'porém', 'mas nunca', 'continua sendo uma pena' que contrapõem elogios anteriores.",
+          "Verificar se há marcas de impessoalidade, eufemismos, interlocução ou antíteses, para analisar as outras alternativas.",
+          "Concluir que as expressões adversativas são as que melhor caracterizam a técnica empregada pelo autor para inserir críticas sem perder o tom elogioso."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O autor da resenha elogia a série, mas logo em seguida utiliza expressões adversativas, como \"mas\" e \"porém\", para apresentar críticas. Essas expressões marcam a transição entre avaliações positivas e negativas, mostrando ressalvas ao elogio inicial.",
+        "stepByStep": [
+          "Leia o texto atentamente e identifique os elogios feitos à série.",
+          "Observe as palavras que indicam oposição ou restrição, como \"mas\", \"porém\" ou \"continua sendo uma pena\".",
+          "Perceba que essas expressões indicam uma ressalva ou crítica logo após um comentário positivo.",
+          "Reflita sobre outras alternativas e perceba que o texto não é impessoal, não utiliza eufemismos para minimizar críticas, nem tem diálogo direto com o leitor nem uma antítese formal.",
+          "Conclua que o recurso linguístico predominante para apresentar críticas após elogios são as expressões adversativas, correspondendo à alternativa B."
+        ],
+        "commonPitfalls": [
+          "Interpretar o texto como impessoal ou neutro, quando há opinião claramente presente.",
+          "Confundir interlocução com o leitor com a simples presença de uma linguagem próxima.",
+          "Achar que as críticas são suavizadas por eufemismos, quando na verdade são diretas.",
+          "Ver como antítese a simples oposição de ideias sem estrutura formal do recurso."
+        ],
+        "teachingTips": [
+          "Explique o papel das expressões adversativas como conectores que contrapõem ideias.",
+          "Exercite com textos que contenham conjunções adversativas para identificar o efeito delas.",
+          "Incentive a identificação de opinião e crítica mesmo quando o texto começa com elogios.",
+          "Use exemplos de eufemismos, interlocução e antíteses para contrastar com as expressões adversativas, ajudando na diferenciação.",
+          "Peça que os alunos justifiquem suas escolhas com base no efeito das expressões no texto."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode achar que o autor evita opiniões pessoais, usando linguagem impessoal para parecer mais objetivo.",
+          "misconceptionType": "Interpretação incorreta do tom do texto",
+          "whyItLooksPlausible": "O texto tem um tom crítico que pode passar por análise objetiva.",
+          "whyItIsWrong": "O texto claramente expressa opinião pessoal e crítica, não é impessoal."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "O aluno pode pensar que o texto dialoga diretamente com o leitor para reforçar opiniões contrárias.",
+          "misconceptionType": "Confusão entre interlocução e estilo argumentativo",
+          "whyItLooksPlausible": "Há linguagem próxima, mas não há diálogo direto ou perguntas ao leitor.",
+          "whyItIsWrong": "Não há evidências no texto de interlocução explícita ou convite à concordância."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pode-se entender que o autor minimiza críticas usando linguagem suave (eufemismos).",
+          "misconceptionType": "Confusão entre moderação e eufemismo",
+          "whyItLooksPlausible": "O texto não é agressivo, o que pode parecer uso de eufemismos.",
+          "whyItIsWrong": "As críticas são claras e explícitas, não suavizadas para minimizar."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O aluno pode achar que o texto contrapõe roteiro e trilha sonora com finalidade de causar impacto.",
+          "misconceptionType": "Confusão entre oposição temática e antítese",
+          "whyItLooksPlausible": "A menção à fragilidade do roteiro e beleza da trilha sonora pode parecer antítese.",
+          "whyItIsWrong": "Embora haja oposição, não há construção clara de antítese formal entre as ideias."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação textual",
+        "secondarySkills": [
+          "Análise linguística",
+          "Identificação de recursos argumentativos"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Envolve análise detalhada das expressões conectivas utilizadas no texto.",
+          "Exige compreensão do efeito das expressões adversativas na argumentação.",
+          "Não depende de imagens para resolução."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🎬",
+        "shortThemeTitle": "Expressões adversativas na argumentação",
+        "interpretationIntro": "A questão solicita a identificação do recurso linguístico usado pelo autor para inserir críticas em uma avaliação predominantemente positiva.",
+        "commandTerms": [
+          {
+            "term": "Expressões adversativas",
+            "explanation": "Conjunções ou locuções que introduzem uma oposição ou ressalva, como 'mas' ou 'porém'."
+          },
+          {
+            "term": "Avaliação crítica",
+            "explanation": "Análise que inclui tanto pontos positivos quanto negativos de uma obra."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão exige reconhecer como o autor insere aspectos negativos da série mesmo ao fazer uma avaliação geral positiva, identificando o recurso linguístico empregado para tal efeito.",
+        "strategyParagraph": "Para responder, deve-se analisar o uso das expressões no texto que sinalizam uma mudança ou contraposição de ideias, especialmente aquelas que indicam ressalvas às afirmações elogiosas. Isso envolve detectar conectivos adversativos que introduzem críticas após elogios.",
+        "reviewTable": [
+          {
+            "concept": "Expressões adversativas",
+            "keyIdea": "Conectam ideias contraditórias ou que restringem um argumento anterior",
+            "application": "Identificar palavras como 'mas' e 'porém' que marcam críticas após elogios."
+          },
+          {
+            "concept": "Eufemismos",
+            "keyIdea": "Uso de termos suaves para minimizar algo negativo",
+            "application": "Diferenciar quando as críticas são explicitamente feitas ou suavizadas."
+          },
+          {
+            "concept": "Interlocução",
+            "keyIdea": "Conversa direta ou implícita com o leitor",
+            "application": "Verificar se há diálogo, perguntas ou chamadas para o leitor."
+          },
+          {
+            "concept": "Antítese",
+            "keyIdea": "Oposição forte entre ideias para efeito literário",
+            "application": "Analisar se há estrutura formal de antítese nas frases contrapostas."
+          }
+        ],
+        "theoryParagraphs": [
+          "Expressões adversativas são elementos linguísticos que indicam uma restrição ou oposição em relação à ideia anterior. Elas são fundamentais para a construção argumentativa ao criar um contraste, como em \"gostei, mas...\". Neste texto, elas sinalizam uma reserva em meio a elogios.",
+          "O reconhecimento dessas expressões é essencial para compreender o argumento do autor, pois permitem interpretar como críticas são inseridas suavemente na resenha, mantendo o equilíbrio entre avaliação positiva e negativa.",
+          "Outros recursos como eufemismos, interlocução e antítese também são importantes na análise textual, mas não se aplicam diretamente neste contexto, pois o texto é opinativo, envolve críticas claras e não apresenta diálogo direto ou antíteses formais."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, o texto reconhece qualidades da série, destacando os roteiristas e a trilha sonora, o que caracteriza um elogio.",
+          "Em seguida, o autor insere ressalvas e críticas utilizando expressões como \"mas\", \"mas nunca\" e \"continua sendo uma pena\", que são claramente expressões adversativas.",
+          "Essa utilização marca oposição entre as avaliações positivas iniciais e as críticas subsequentes, caracterizando o recurso linguístico solicitado.",
+          "Outras alternativas, como marcas de impessoalidade (A), interlocução com o leitor (C), eufemismos (D) e antíteses (E), não correspondem à forma como as críticas são apresentadas na resenha.",
+          "Portanto, a alternativa correta é a B, pois resume a técnica utilizada pelo autor para contrapor avaliações positivas com críticas por meio de expressões adversativas."
+        ],
+        "puloDoGato": "Fique atento às conjunções que mudam o sentido da frase — elas revelam críticas disfarçadas após elogios.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "O texto é claramente opinativo, expressando julgamentos e pontos de vista pessoais, não apresentando marcas de impessoalidade."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "O autor usa expressões adversativas como 'mas' e 'porém' para inserir críticas após elogios, caracterizando esse recurso linguístico."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Embora o texto use linguagem próxima, não há interlocução direta com o leitor nem questionamentos que convidem à concordância."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "As críticas são apresentadas de forma clara e não suavizadas por eufemismos; não há tentativa de minimizar negatividades."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Apesar da oposição entre roteiro e trilha sonora, não há estrutura formal de antítese no texto para justificar essa alternativa."
+          }
+        ],
+        "questionCode": "LINGUAGENS_LITERATURA_INFERENCIA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A análise está coerente e condizente com o enunciado e o texto-base. A explicação didática é clara e cobre as principais dúvidas e erros comuns. O roteiro do officialResolution segue as normas editoriais e aborda todos os pontos relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2705,
+    "outputTokens": 2076,
+    "estimatedCostUsd": 0.004404
+  }
+}

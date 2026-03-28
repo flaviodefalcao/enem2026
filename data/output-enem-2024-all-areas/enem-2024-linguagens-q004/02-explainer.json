@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-27T23:42:32.208Z",
+  "questionId": "enem-2024-linguagens-q004",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto aborda a discriminação enfrentada por imigrantes chicanos nos Estados Unidos, especialmente o preconceito contra seu sotaque espanhol ao falar inglês e a imposição da norma de falar inglês \"sem sotaque\" para serem aceitos.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique as situações descritas que indicam rejeição ao uso do espanhol ou ao sotaque do autor.",
+        "Observe as punições e comentários negativos direcionados ao autor por falar espanhol ou por ter sotaque ao falar inglês.",
+        "Relacione essas situações com o problema principal: o preconceito linguístico e a pressão para eliminar o sotaque espanhol.",
+        "Leia as alternativas da questão e compare qual delas melhor expressa esse problema.",
+        "Descubra que a alternativa que fala sobre o repúdio ao sotaque espanhol é a resposta correta, pois é o foco central do texto.",
+        "Descarte as demais alternativas que tratam de problemas diferentes, não explicitamente presentes no texto."
+      ],
+      "commonPitfalls": [
+        "Interpretar que o problema é simplesmente a perda da língua materna sem perceber que o texto destaca o preconceito e a culpa ligados ao sotaque.",
+        "Confundir a exigência de falar inglês com falta de ensino do espanhol na comunidade.",
+        "Pensar que o problema é um conflito geracional ou concorrência linguística entre línguas, quando na verdade é discriminação linguística.",
+        "Ignorar as nuances do texto que mostram a imposição de uma norma linguística hegemônica e a rejeição de variações linguísticas.",
+        "Ler rapidamente e não captar o tom crítico em relação à pressão para eliminar o sotaque e o idioma materno."
+      ],
+      "teachingTips": [
+        "Trabalhe a importância do reconhecimento da diversidade linguística e cultural em sala de aula.",
+        "Explique o conceito de preconceito linguístico e suas consequências para grupos minoritários.",
+        "Promova debates sobre identidade cultural e linguística entre os estudantes, incentivando o respeito às variações do idioma.",
+        "Use textos bilíngues ou de autores que representam minorias para sensibilizar os alunos sobre essas questões.",
+        "Encoraje a análise crítica de textos para que os alunos avancem do entendimento superficial para interpretações mais profundas e contextuais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1349,
+    "outputTokens": 451,
+    "estimatedCostUsd": 0.001261
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T00:26:41.862Z",
+  "questionId": "enem-2024-linguagens-q027",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A alternativa C expressa claramente a empatia da autora ao reconhecer e validar as dificuldades enfrentadas pela juventude atual, mostrando compreensão e conexão emocional com o leitor.",
+      "strategy": "Identificar na fala da autora trechos que indicam a expressão explícita de empatia, ou seja, demonstração de entendimento e compartilhamento do sentimento do leitor.",
+      "steps": [
+        "Ler o enunciado e as alternativas com atenção para identificar qual trecho demonstra empatia explícita.",
+        "Entender que empatia envolve reconhecer e validar sentimentos ou dificuldades do outro.",
+        "Analisar as alternativas para encontrar aquela que expressa esse reconhecimento claro.",
+        "Observar que a frase da alternativa C reconhece explicitamente as dificuldades de ser jovem hoje, mostrando conexão emocional e compreensão."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O enunciado mostra que a autora se aproxima ao mencionar o contato com fãs jovens, mas esta frase apenas relata a existência das cartas, sem expressar empatia explícita.",
+        "misconceptionType": "Focalização na simples menção em vez da demonstração de empatia",
+        "whyItLooksPlausible": "Cita a interação com leitores jovens, o que pode parecer uma aproximação.",
+        "whyItIsWrong": "Não expressa explicitamente o compartilhamento ou validação dos sentimentos deles."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "A expressão 'fico no céu lendo essas coisas' pode parecer afetiva, mas se trata de uma reação pessoal de alegria e não demonstra empatia com a situação dos leitores.",
+        "misconceptionType": "Confundir emoção pessoal com empatia direcionada",
+        "whyItLooksPlausible": "Mostra sentimento positivo da autora, dando a impressão de calor humano.",
+        "whyItIsWrong": "Foca no sentimento da autora e não na compreensão das dificuldades do leitor."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Oferecer 'beijinhos e carinhos' dá ideia de afeto, mas é mais uma demonstração de carinho do que uma postura empática claramente explicitada.",
+        "misconceptionType": "Confundir demonstração de afeto com empatia explícita",
+        "whyItLooksPlausible": "Transmite um tom afetuoso e acolhedor.",
+        "whyItIsWrong": "Mais expressão de desejê carinhoso do que manifestação clara de empatia em relação às dificuldades."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "A frase critica a sociedade e seus valores, mas não expressa diretamente uma postura de empatia junto ao leitor jovem.",
+        "misconceptionType": "Confundir crítica social com empatia",
+        "whyItLooksPlausible": "Tem um tom de reflexão e crítica que pode parecer preocupado com o outro.",
+        "whyItIsWrong": "Foca em um julgamento mais abstrato do mundo, sem demonstrar conexão emocional explícita com o leitor."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto",
+      "secondarySkills": [
+        "Compreensão corporal do texto",
+        "Análise de estratégias discursivas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Análise cuidadosa do texto é necessária para distinguir empatia declarada de outras expressões afetuosas.",
+        "A questão exige reconhecimento de nuances entre emoções pessoais, demonstrações de afeto e empatia explícita."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 842,
+    "outputTokens": 699,
+    "estimatedCostUsd": 0.001455
+  }
+}
