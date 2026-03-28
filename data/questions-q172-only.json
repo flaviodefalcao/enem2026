@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": "enem-2024-q172",
+      "year": 2024,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2024 — Matemática",
+      "statement": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema. O alcance de cada uma das cinco câmeras é: câmera I: 1/5 do percurso; câmera II: 3/10 do percurso; câmera III: 1/10 do percurso; câmera IV: 1/10 do percurso; câmera V: 3/10 do percurso. Em determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min. Qual câmera registra o momento em que os ônibus A e B se encontram?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/math/question-172/statement-01.png"
+      ],
+      "options": [
+        { "label": "A", "text": "I" },
+        { "label": "B", "text": "II" },
+        { "label": "C", "text": "III" },
+        { "label": "D", "text": "IV" },
+        { "label": "E", "text": "V" }
+      ],
+      "answerKey": "D"
+    }
+  ]
+}
