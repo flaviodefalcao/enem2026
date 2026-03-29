@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:29:27.547Z",
+  "questionId": "enem-2024-ciencias-natureza-q095",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta porque a temperatura interna do iglu mantém-se acima do ponto de congelamento da água, impedindo a solidificação natural da água sem recurso à geladeira.",
+        "strategy": "Identificar o funcionamento térmico do iglu e reconhecer que a temperatura interna se mantém acima de 0°C, exigindo uma geladeira para produzir gelo artificialmente.",
+        "steps": [
+          "Compreender que o iglu, apesar de ser feito de gelo e neve, mantém uma temperatura interna ligeiramente acima de zero para o conforto dos ocupantes.",
+          "Relembrar que a água só congela a 0°C ou abaixo, portanto, em temperatura superior, permanece líquida.",
+          "Observar na tirinha que, apesar do ambiente externo gelado, utiliza-se uma geladeira para fazer gelo.",
+          "Concluir que sem a geladeira a água não congelaria dentro do iglu por causa da temperatura interna acima do ponto de congelamento."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Presença da geladeira dentro do iglu na tirinha para produzir gelo.",
+          "Crianças utilizando gelo produzido artificialmente, indicando que o ambiente interno não é suficiente para congelar a água naturalmente."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A temperatura dentro do iglu fica acima de 0°C para manter conforto, o que impede que a água congele sozinha; assim, a geladeira é necessária para fazer gelo.",
+        "stepByStep": [
+          "Reconheça que o iglu mantém temperatura interna pouco acima de zero para conforto dos ocupantes.",
+          "Entenda que a água só congela a 0°C ou menos e que, dentro do iglu, a água não congela sem suporte adicional.",
+          "Note que a tirinha mostra uma geladeira usada para congelar água e fazer gelo para as crianças.",
+          "Conclua que a geladeira é necessária porque a temperatura interna do iglu é superior ao ponto de congelamento."
+        ],
+        "commonPitfalls": [
+          "Pensar que a umidade impede o congelamento da água.",
+          "Acreditar que o isolamento térmico baniria o frio suficiente para congelar água.",
+          "Supor que correntes de ar ou convecção dentro do iglu dificultam o congelamento.",
+          "Confundir influência da pressão atmosférica dentro do iglu com fatores de congelamento."
+        ],
+        "teachingTips": [
+          "Utilize a tirinha para contextualizar a situação e analisar elementos visuais e texto.",
+          "Explique a relação direta entre temperatura e mudança de estado da água.",
+          "Enfatize o efeito do isolamento térmico mantendo temperatura ligeiramente acima de zero.",
+          "Discuta os fatores físicos que realmente influenciam a solidificação da água, enfatizando temperatura sobre umidade ou pressão."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "Aluno pode supor que a umidade no iglu impede a água de congelar.",
+          "misconceptionType": "Conceito incorreto sobre influência da umidade na mudança de fase",
+          "whyItLooksPlausible": "Igloos são feitos de neve e gelo com alta umidade aparente.",
+          "whyItIsWrong": "Umidade não impede solidificação; a temperatura é o fator limitante."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Aluno pode pensar que isolamento térmico impede resfriamento suficiente.",
+          "misconceptionType": "Confusão entre isolamento térmico e mudança de fase",
+          "whyItLooksPlausible": "O iglu isola, sugerindo ambiente mais quente.",
+          "whyItIsWrong": "Isolamento mantém temperatura acima de 0°C, não impede geladeira de fazer gelo."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Aluno supõe que correntes de ar atrapalham congelamento.",
+          "misconceptionType": "Interpretação errada do efeito de convecção",
+          "whyItLooksPlausible": "Movimento de ar pode influenciar temperatura localmente.",
+          "whyItIsWrong": "A mudança de fase depende da temperatura, não da circulação do ar."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Aluno pensa que pressão reduzida altera ponto de congelamento da água.",
+          "misconceptionType": "Conceito errado sobre pressão atmosférica e congelamento",
+          "whyItLooksPlausible": "Sabem que pressão altera pontos de fusão/ebulição.",
+          "whyItIsWrong": "Pressão dentro do iglu é normal, não suficiente para alterar efeito."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de processos físicos (mudança de fase e temperatura)",
+        "secondarySkills": [
+          "Compreensão de propriedades térmicas",
+          "Raciocínio lógico sobre contexto ambiental"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Importância do texto e tirinha para entendimento contextual.",
+          "Necessário conhecimento do ponto de congelamento da água.",
+          "Situação ilustrativa reforça análise visual e textual."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "❄️",
+        "shortThemeTitle": "Mudança de Fase da Água no Iglu",
+        "interpretationIntro": "A questão apresenta uma tirinha com esquimós dentro de um iglu e questiona por que é necessária uma geladeira para fazer gelo nesse ambiente.",
+        "commandTerms": [
+          {
+            "term": "Justifica",
+            "explanation": "Exige explicação do motivo pelo qual a geladeira é necessária no contexto apresentado."
+          },
+          {
+            "term": "Analisar",
+            "explanation": "Requer exame cuidadoso das condições ambientais do iglu que afetam a solidificação da água."
+          }
+        ],
+        "whatTheQuestionAsks": "O que explica a necessidade de uma geladeira para fazer gelo dentro de um iglu, mesmo em ambientes tão frios?",
+        "strategyParagraph": "Para responder, deve-se entender como a temperatura interna do iglu influencia o estado da água. Embora o iglu seja feito de gelo e neve, seu interior é relativamente aquecido para proteger seus habitantes do frio extremo, mantendo a temperatura acima do ponto de congelamento da água. Dessa forma, é necessário um equipamento que forneça temperatura abaixo de zero para congelar a água e fazer gelo.",
+        "reviewTable": [
+          {
+            "concept": "Ponto de congelamento da água",
+            "keyIdea": "A água congela a 0°C ou menos",
+            "application": "Temperatura interna do iglu está acima de 0°C, então água não congela naturalmente"
+          },
+          {
+            "concept": "Isolamento térmico do iglu",
+            "keyIdea": "Mantém temperatura interna estável e confortável",
+            "application": "O iglu mantém temperatura um pouco acima de zero para proteção dos ocupantes"
+          },
+          {
+            "concept": "Mudança de fase (líquido para sólido)",
+            "keyIdea": "Depende principalmente da temperatura",
+            "application": "Sem baixar a temperatura internamente, a água não se transforma em gelo automaticamente"
+          }
+        ],
+        "theoryParagraphs": [
+          "O iglu é uma estrutura feita de neve ou blocos de gelo que serve como abrigo térmico. Seu isolamento mantém o ambiente interno protegido do frio extremo do exterior, mantendo a temperatura interna um pouco acima de zero grau Celsius, o que torna o ambiente habitável para seus ocupantes.",
+          "A água congela ao atingir 0°C (a uma pressão atmosférica comum) ou temperaturas mais baixas, transformando-se em gelo. Caso a temperatura interna do iglu esteja acima desse ponto, a água permanece líquida, impossibilitando a formação espontânea de gelo.",
+          "Portanto, para produzir gelo dentro do iglu, é necessário usar um dispositivo que resfrie a água a temperaturas abaixo de zero, como a geladeira apresentada na tirinha. Isso explica a necessidade do aparelho, mesmo em um ambiente naturalmente frio. "
+        ],
+        "resolutionParagraphs": [
+          "Ao analisar a situação da tirinha, observa-se que uma geladeira é usada dentro do iglu para produzir gelo para as crianças brincarem.",
+          "Embora o iglu seja frio por estar feito de gelo e neve, sua temperatura interna é mantida acima de 0°C para garantir conforto térmico aos habitantes. Isso significa que a água não congelará apenas pelo ambiente do iglu.",
+          "Com base nisso, conclui-se que a geladeira é necessária porque ela consegue resfriar a água abaixo do ponto de congelamento, permitindo a formação de cubos de gelo para as crianças.",
+          "Assim, a razão principal da geladeira ser necessária é que o iglu mantém uma temperatura interna estável, porém acima de zero grau Celsius, impedindo a solidificação natural da água no seu interior."
+        ],
+        "puloDoGato": "No iglu, não é o frio externo que importa, mas sim a temperatura interna acima de zero que impede a água de congelar sem uma geladeira.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Está correta porque a temperatura interna do iglu se mantém acima do ponto de congelamento, exigindo geladeira para fazer gelo."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Está errada porque a umidade não impede a água de congelar; o fator decisivo é a temperatura."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada, pois o isolamento térmico mantém a temperatura interna estável, mas não evita que uma geladeira seja necessária para congelar água."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta, já que a circulação do ar dentro do iglu não é o fator que impede a formação de gelo."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada porque a pressão no interior do iglu é praticamente igual à atmosférica normal, não influenciando a mudança de fase da água."
+          }
+        ],
+        "questionCode": "CN_MUDANCAFÍSICA_MULTIPLA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e consistentes entre si. Todas as alternativas foram analisadas corretamente, com justificativas claras e alinhadas ao conhecimento científico. O uso da tirinha ajuda na compreensão da situação e o foco na temperatura interna do iglu está corretamente destacado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3422,
+    "outputTokens": 2051,
+    "estimatedCostUsd": 0.00465
+  }
+}

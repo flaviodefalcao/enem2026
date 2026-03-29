@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:28:54.539Z",
+  "questionId": "enem-2024-ciencias-natureza-q095",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Dentro do iglu, a temperatura interna fica logo acima de zero grau Celsius para manter o ambiente confortável, o que impede a água de congelar naturalmente. Por isso, é necessária uma geladeira para fazer gelo para as crianças brincarem.",
+      "stepByStep": [
+        "Reconheça que o iglu é feito de neve e gelo, mas sua temperatura interna é mantida um pouco acima de 0°C para não congelar os ocupantes.",
+        "Entenda que a água só congela se a temperatura estiver igual ou abaixo de 0°C, então dentro do iglu a água não congela sozinha.",
+        "Observe na tirinha que há uma geladeira para fazer gelo, indicando que é preciso uma fonte extra de frio para congelar a água.",
+        "Conclua que a geladeira é necessária porque a temperatura dentro do iglu está acima do ponto de congelamento da água."
+      ],
+      "commonPitfalls": [
+        "Pensar que a umidade dentro do iglu impede a água de congelar, confundindo fatores ambientais com físicos.",
+        "Achar que o ar isolante dentro do iglu impede a formação de gelo sem entender que o isolamento mantém uma temperatura interna mais alta.",
+        "Considerar que correntes de convecção do ar dentro do iglu dificultam o congelamento da água, quando o que importa é a temperatura.",
+        "Supor que a pressão interna do iglu é baixa o suficiente para modificar o ponto de solidificação da água, o que não ocorre."
+      ],
+      "teachingTips": [
+        "Use a tirinha para contextualizar a situação e incentivar a análise detalhada dos elementos visuais e do texto.",
+        "Explique a relação entre temperatura e mudança do estado físico da água, reforçando o conceito do ponto de congelamento.",
+        "Destaque o papel do isolamento térmico do iglu na manutenção de uma temperatura interna confortável, mas levemente acima de zero grau.",
+        "Promova discussões sobre fatores que influenciam a solidificação da água (temperatura, pressão, umidade), reforçando qual é o decisivo no caso do iglu."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2080,
+    "outputTokens": 419,
+    "estimatedCostUsd": 0.001502
+  }
+}

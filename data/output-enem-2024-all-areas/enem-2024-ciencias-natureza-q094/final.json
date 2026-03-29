@@ -1,0 +1,194 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q094",
+  "generatedAt": "2026-03-28T22:27:41.897Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1257,
+      "outputTokens": 936,
+      "estimatedCostUsd": 0.002
+    },
+    "explainer": {
+      "inputTokens": 2061,
+      "outputTokens": 567,
+      "estimatedCostUsd": 0.001732
+    },
+    "reviewer": {
+      "inputTokens": 3557,
+      "outputTokens": 2362,
+      "estimatedCostUsd": 0.005202
+    },
+    "totalEstimatedCostUsd": 0.008934
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A resposta está correta com base na análise do equilíbrio químico e efeito do pH na desmineralização da hidroxiapatita.",
+      "strategy": "Analisar o equilíbrio da hidroxiapatita em meio aquoso e relacionar o pH dos cremes dentais ao deslocamento do equilíbrio, indicando qual ambiente favorece maior desmineralização.",
+      "steps": [
+        "Identificar a reação de equilíbrio da hidroxiapatita dissolvendo-se em presença de íons H+.",
+        "Entender que maior concentração de H+ (pH mais ácido) desloca o equilíbrio para desmineralização, liberando íons na solução e fragilizando o esmalte.",
+        "Observar os valores de pH dos cremes dentais fornecidos na tabela.",
+        "Comparar os pH e identificar o creme com menor valor (mais ácido).",
+        "Concluir que o creme com menor pH promove maior desmineralização."
+      ],
+      "formulasUsed": [
+        "Ca5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO43− (aq) + H2O (l)"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem com a reação de equilíbrio da hidroxiapatita em função dos íons H+",
+        "Tabela com os agentes de polimento e pH de cremes dentais"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A desmineralização do esmalte aumenta em ambientes ácidos. O creme dental IV apresenta o menor pH (6,9), o que favorece o deslocamento do equilíbrio para a dissolução da hidroxiapatita, aumentando a desmineralização do esmalte.",
+      "stepByStep": [
+        "Reconhecer que a hidroxiapatita está em equilíbrio com seus íons em solução e que o excesso de H+ favorece a dissolução do mineral.",
+        "Entender que o meio ácido (pH baixo) provoca desmineralização, fragilizando o esmalte.",
+        "Observar a tabela e identificar o creme dental com menor pH.",
+        "Comparar os valores de pH para concluir que creme IV (pH 6,9) é o mais ácido.",
+        "Concluir que o ambiente mais ácido promove maior desmineralização da hidroxiapatita."
+      ],
+      "commonPitfalls": [
+        "Pensar que pH mais alto (básico) aumenta a desmineralização, quando na verdade protege o esmalte.",
+        "Confundir o agente de polimento com o efeito químico no equilíbrio do esmalte.",
+        "Subestimar a influência de pH levemente ácido, como 6,9, no aumento da desmineralização.",
+        "Associar maior pH à maior agressividade sobre o esmalte.",
+        "Ignorar como o equilíbrio químico depende da concentração de H+."
+      ],
+      "teachingTips": [
+        "Explicar equilíbrio químico e como o aumento de íons H+ favorece a dissolução de minerais.",
+        "Relacionar pH com concentração de H+, enfatizando pH menor significa ambiente mais ácido.",
+        "Utilizar a tabela dos cremes dentais para comparar pHs e efeitos.",
+        "Contextualizar a química no cuidado dental para maior interesse.",
+        "Estimular raciocínio lógico sobre equilíbrio invés de memorização da reação."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolher o creme com pH alcalino, pensando ser menos agressivo.",
+        "misconceptionType": "Interpretação incorreta do efeito do pH no equilíbrio.",
+        "whyItLooksPlausible": "Bicarbonato de sódio neutraliza ácidos, sugerindo proteção.",
+        "whyItIsWrong": "pH 9,5 é alcalino, não aumenta H+ nem desmineraliza."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que pH alto significa maior desmineralização.",
+        "misconceptionType": "Confusão sobre acidez e efeito químico.",
+        "whyItLooksPlausible": "pH 11,0 é elevado, podendo parecer mais reativo.",
+        "whyItIsWrong": "Meio básico reduz H+, diminui desmineralização."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que pH próximo ao neutro aumenta desmineralização mais que ácido.",
+        "misconceptionType": "Subestimar efeito ácido no equilíbrio.",
+        "whyItLooksPlausible": "pH 7,7 é quase neutro e pode parecer agressivo.",
+        "whyItIsWrong": "É alcalino, menos ácido que 6,9, favorece menos desmineralização."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associar fosfato de cálcio com desmineralização sem considerar pH.",
+        "misconceptionType": "Confundir agente de polimento com efeito químico.",
+        "whyItLooksPlausible": "Fosfato de cálcio está ligado ao esmalte, parece influente.",
+        "whyItIsWrong": "pH 7,3 maior que 6,9, meio menos ácido, menor desmineralização."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de equilíbrio químico em meio aquoso",
+      "secondarySkills": [
+        "Conhecimento sobre pH e efeito de H+ em reações químicas",
+        "Relação entre propriedades químicas e implicações biológicas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige compreensão do equilíbrio químico e influência do pH.",
+        "Interpretação da tabela de pH e da reação é fundamental.",
+        "Não há cálculo, análise qualitativa do efeito do pH."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🦷",
+      "shortThemeTitle": "Equilíbrio químico e pH na desmineralização dentária",
+      "interpretationIntro": "A questão solicita identificar, entre vários cremes dentais, qual promove maior desmineralização do esmalte dental, considerando o equilíbrio químico da hidroxiapatita em meio bucal e o pH dos cremes.",
+      "commandTerms": [
+        {
+          "term": "Equilíbrio químico",
+          "explanation": "Estado em que as taxas da reação direta e inversa são iguais, mantendo as concentrações constantes."
+        },
+        {
+          "term": "pH",
+          "explanation": "Medida da acidez ou alcalinidade do meio, influenciando a concentração de íons H+ e, consequentemente, o equilíbrio químico da reação."
+        }
+      ],
+      "whatTheQuestionAsks": "Determinar qual creme dental, entre os listados com diferentes pHs, favorece maior desmineralização do esmalte dentário devido à alteração do equilíbrio da hidroxiapatita.",
+      "strategyParagraph": "Para responder, deve-se analisar a reação de equilíbrio da hidroxiapatita na presença de íons H+, entender que o aumento da concentração de H+ (meio ácido, pH baixo) desloca o equilíbrio para a dissolução da hidroxiapatita (desmineralização), e verificar qual creme dental apresenta menor pH na tabela, indicando maior acidez e maior potencial para desmineralização.",
+      "reviewTable": [
+        {
+          "concept": "Equilíbrio químico",
+          "keyIdea": "Reação reversível atinge estado onde concentrações são constantes",
+          "application": "A reação da hidroxiapatita com H+ pode deslocar para dissolução em meio ácido."
+        },
+        {
+          "concept": "pH e concentração de H+",
+          "keyIdea": "pH baixo indica maior concentração de H+",
+          "application": "Cremes com menor pH promovem maior desmineralização ao aumentar H+."
+        },
+        {
+          "concept": "Desmineralização do esmalte",
+          "keyIdea": "Dissolução da hidroxiapatita enfraquece o esmalte",
+          "application": "Desmineralização aumenta com ambientes mais ácidos (menor pH)."
+        }
+      ],
+      "theoryParagraphs": [
+        "A hidroxiapatita, Ca₅(PO₄)₃OH, compõe o esmalte dos dentes e está em equilíbrio com seus íons em solução. Em meio aquoso, a presença de íons H+ pode afetar esse equilíbrio químico, deslocando-o para a dissolução da hidroxiapatita, processo chamado desmineralização, que fragiliza o esmalte.",
+        "O pH do meio indica acidez. Meios com pH menor que 7 são ácidos e possuem maior concentração de H+. O aumento dos íons H+ provoca deslocamento do equilíbrio químico da hidroxiapatita para a dissolução, aumentando a desmineralização.",
+        "Portanto, cremes dentais com pH mais baixo favorecem maior desmineralização do esmalte, enquanto os com pH mais alto (básico) tendem a proteger o esmalte ao reduzir a concentração de H+."
+      ],
+      "resolutionParagraphs": [
+        "A reação de equilíbrio da hidroxiapatita com íons H+ é fundamental. Em meio ácido, o excesso de H+ desloca o equilíbrio para a dissolução da hidroxiapatita, liberando íons que enfraquecem o esmalte, causando desmineralização.",
+        "Observando a tabela, o creme dental IV possui pH 6,9, o menor entre os listados, caracterizando o meio mais ácido e aumentando a concentração de H+.",
+        "Assim, o creme dental IV promove o maior deslocamento do equilíbrio químico para a desmineralização da hidroxiapatita, favorecendo a fragilização do esmalte do dente.",
+        "Portanto, a alternativa correta é a letra D, pois o pH ácido do creme IV causa maior desmineralização em relação aos demais cremes com pH neutro ou alcalino."
+      ],
+      "puloDoGato": "Para saber qual creme causa mais desmineralização, basta identificar quem tem o menor pH, pois baixa acidez protege menos o esmalte.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Apesar de o bicarbonato de sódio ser alcalino (pH 9,5) e neutralizar ácidos, o meio alcalino não aumenta a concentração de H+, logo não promove maior desmineralização."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Com pH 11,0, este creme é bastante alcalino, o que diminui a concentração de H+ e não favorece a desmineralização da hidroxiapatita."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "O pH 7,7 ainda é alcalino e, portanto, não promove aumento da concentração de H+ nem maior desmineralização do esmalte."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Com o menor pH (6,9), o creme dental IV promove maior acidez, elevando a concentração de H+ e favorecendo a desmineralização da hidroxiapatita."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "O creme dental V tem pH 7,3, que é maior que 6,9, caracterizando meio menos ácido e menor potencial para desmineralização."
+        }
+      ],
+      "questionCode": "CN_DENTAL_EQ_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática apresentam coerência e consistência entre si, assegurando correta interpretação do equilíbrio químico e do efeito do pH na desmineralização da hidroxiapatita. O bloco officialResolution atende aos critérios editoriais e didáticos estabelecidos.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:32:00.161Z",
+  "questionId": "enem-2024-ciencias-natureza-q110",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "Correta com base na análise de tensões e resistências.",
+        "strategy": "Usar as relações de potência e tensão para obter corrente e resistência das lâmpadas; aplicar leis de circuitos série e paralelo para encontrar ponto da ligação que mantém tensões originais nas lâmpadas.",
+        "steps": [
+          "Calcular corrente em cada lâmpada pela fórmula I = P/V.",
+          "Determinar resistência de cada lâmpada: R = V/I.",
+          "Somar resistências para circuito em série.",
+          "Identificar que o fio QR está em paralelo à bateria e que o amperímetro ligado em pontos do fio pode variar a tensão em P.",
+          "Dividir o fio QR em seis segmentos iguais e associar quedas de tensão proporcionais.",
+          "Encontrar ponto no fio QR que preserve tensão original em cada lâmpada, coincidente com ponto B.",
+          "Confirmar que em B a queda de tensão evita alterações nas tensões das lâmpadas."
+        ],
+        "formulasUsed": [
+          "I = P / V",
+          "R = V / I",
+          "Lei de Ohm: V = R * I",
+          "Circuito série: resistências somam",
+          "Circuito paralelo: tensões iguais"
+        ],
+        "visualEvidenceUsed": [
+          "Divisão do fio QR em seis segmentos iguais entre Q e R",
+          "Posição do amperímetro P conectado entre as lâmpadas e terminal S ligado ao fio QR em diferentes pontos"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para que as lâmpadas L₁ e L₂ acendam conforme especificado, o amperímetro deve ser conectado no ponto B do fio QR. Isso porque, em B, a tensão se distribui corretamente, preservando as condições de tensão e potência das lâmpadas, devido à divisão proporcional da resistência no fio e ao circuito em série.",
+        "stepByStep": [
+          "Calcule a corrente necessária para cada lâmpada usando I = P/V.",
+          "Determine a resistência de cada lâmpada com R = V/I.",
+          "Some as resistências das lâmpadas em série para entender a resistência total do circuito.",
+          "Observe que o fio QR está em paralelo à bateria e que conectar o amperímetro em diferentes pontos do fio altera a tensão no circuito.",
+          "Divida o fio QR em seis segmentos iguais, correspondendo a cinco pontos para conexão (A, B, C, D, E).",
+          "Analise a tensão em cada ponto do fio para verificar qual deles mantém as tensões originais das lâmpadas.",
+          "Verifique que somente no ponto B a divisão da tensão e a resistência do fio preservam as tensões e potências originais das lâmpadas.",
+          "Conclua que o amperímetro deve ser conectado em B para que as lâmpadas funcionem conforme especificado."
+        ],
+        "commonPitfalls": [
+          "Assumir que ligar o amperímetro no ponto mais próximo da bateria (como A) manterá a tensão ideal, sem considerar a queda de tensão no fio.",
+          "Pensar que a posição central (C) do fio garantirá a tensão correta para ambas as lâmpadas.",
+          "Ignorar a influência da resistência do fio QR na divisão de tensão do circuito.",
+          "Não aplicar corretamente a relação entre potência, tensão e corrente nas lâmpadas conectadas em série.",
+          "Confundir a função do fio QR em paralelo e como ele afeta a tensão do circuito principal."
+        ],
+        "teachingTips": [
+          "Explique a relação fundamental entre potência, tensão e corrente para ajudar na compreensão do problema.",
+          "Use o diagrama para mostrar as divisões do fio QR e como elas afetam as quedas de tensão em cada segmento.",
+          "Faça com que os alunos calculem a resistência das lâmpadas para entenderem a série e a paralelo do circuito.",
+          "Reforce a importância de analisar cada ponto de conexão em circuitos para compreender como a tensão se distribui.",
+          "Utilize exemplos práticos e simulações para ilustrar a influência da posição de conexão do amperímetro no funcionamento do circuito."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Escolha de ponto próximo a Q acreditando diminuir tensão demais.",
+          "misconceptionType": "Entendimento incorreto da divisão de tensão em resistores paralelos.",
+          "whyItLooksPlausible": "Parece que quanto mais próximo ao início do fio QR, melhor controle da tensão.",
+          "whyItIsWrong": "A tensão nessa posição não mantém a tensão correta para ambas lâmpadas."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Interpretação errada da divisão de tensão no fio, escolhendo ponto central.",
+          "misconceptionType": "Confusão sobre equilíbrios de tensão em paralelo.",
+          "whyItLooksPlausible": "Localização central pode parecer equidistante para manter tensões.",
+          "whyItIsWrong": "Não preserva as tensões exatas das lâmpadas conforme as potências."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Seleção por proximidade a R para ajustar tensão.",
+          "misconceptionType": "Falta de análise correta das quedas de tensão na resistência do fio.",
+          "whyItLooksPlausible": "Parece que esta posição pode equalizar tensões.",
+          "whyItIsWrong": "Tensão aplicada nas lâmpadas não corresponde à especificação."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Confusão no posicionamento final, pensando em maximizar a queda de tensão.",
+          "misconceptionType": "Erro na aplicação das leis de circuitos em série e paralelo.",
+          "whyItLooksPlausible": "Último ponto do fio pode ser visto como próximo de referência de tensão.",
+          "whyItIsWrong": "Não mantém as condições de operação das lâmpadas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise de circuitos elétricos (série e paralelo)",
+        "secondarySkills": [
+          "Cálculo de corrente e resistência",
+          "Aplicação das leis de Ohm",
+          "Interpretação de diagramas de circuitos"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": true,
+        "requiresCalculation": true,
+        "notes": [
+          "Necessita interpretar o diagrama fornecido",
+          "Requer conhecimentos básicos de eletricidade",
+          "Importante entender como as ligações em paralelo alteram tensões"
+        ]
+      },
+      "officialResolution": {
+        "emoji": "💡",
+        "shortThemeTitle": "Circuitos em série e paralelo: análise de tensão e potência",
+        "interpretationIntro": "A questão pede para identificar em qual ponto do fio QR o amperímetro deve ser ligado para que as lâmpadas mantenham seus valores nominais de tensão e potência.",
+        "commandTerms": [
+          {
+            "term": "Calcular",
+            "explanation": "Determinar valores numéricos a partir de informações dadas."
+          },
+          {
+            "term": "Analisar",
+            "explanation": "Estudar as relações entre as variáveis do circuito para entender o comportamento."
+          },
+          {
+            "term": "Conservar",
+            "explanation": "Manter constantes as condições elétricas especificadas para as lâmpadas."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão exige que se determine a posição correta para conexão do amperímetro no fio QR que mantém a tensão nas lâmpadas de acordo com suas especificações, garantindo funcionamento adequado segundo potência e tensão dadas.",
+        "strategyParagraph": "Para resolver, é necessário calcular inicialmente a corrente e resistência de cada lâmpada usando as relações fundamentais de potência e tensão. Em seguida, compreende-se o circuito em série formado pelas lâmpadas e o paralelo criado pelo fio QR conectado à bateria. Observando a divisão do fio QR em segmentos, deve-se analisar como a tensão varia em cada ponto e encontrar aquele em que a ligação do amperímetro não altera as tensões aplicadas às lâmpadas, que é o ponto B.",
+        "reviewTable": [
+          {
+            "concept": "Lei de Ohm",
+            "keyIdea": "A tensão em um resistor é produto da resistência pela corrente que o atravessa.",
+            "application": "Calcula resistência das lâmpadas e queda de tensão no fio QR."
+          },
+          {
+            "concept": "Potência em circuito elétrico",
+            "keyIdea": "Potência é produto da tensão pela corrente.",
+            "application": "Obtem-se a corrente necessária para cada lâmpada a partir da potência e tensão dadas."
+          },
+          {
+            "concept": "Circuitos série e paralelo",
+            "keyIdea": "Em série, correntes são iguais; em paralelo, tensões são iguais.",
+            "application": "Interpreta o efeito do fio QR em paralelo com a bateria e posição do amperímetro na variação de tensão."
+          }
+        ],
+        "theoryParagraphs": [
+          "Em circuitos elétricos, a potência elétrica dissipada por um componente é dada pelo produto da tensão aplicada pela corrente que o atravessa (P = V × I). Assim, conhecendo potência e tensão, é possível determinar a corrente requerida pelo componente.",
+          "A resistência elétrica de cada lâmpada pode ser encontrada usando a lei de Ohm (V = R × I), rearranjada para R = V ÷ I. Para lâmpadas em série, a resistência total é a soma das resistências individuais; a corrente que atravessa cada uma é a mesma.",
+          "Quando um fio resistivo está em paralelo com uma fonte, sua divisão em segmentos e pontos de conexão influencia diretamente a tensão vista pelo resto do circuito. A análise correta dessas tensões é fundamental para garantir que as lâmpadas recebam sua tensão correta."
+        ],
+        "resolutionParagraphs": [
+          "Primeiro, calcula-se a corrente em cada lâmpada: para L₁, I₁ = 9 W ÷ 6 V = 1,5 A; para L₂, I₂ = 18 W ÷ 12 V = 1,5 A. Resultado indica que a mesma corrente atravessa ambas, confirmando que estão em série.",
+          "Em seguida, obtém-se resistência de cada lâmpada: R₁ = 6 V ÷ 1,5 A = 4 Ω e R₂ = 12 V ÷ 1,5 A = 8 Ω, totalizando 12 Ω no circuito das lâmpadas.",
+          "O fio QR, de 48 cm, está dividido em seis segmentos de 8 cm cada, com cinco pontos de conexão (A a E). O amperímetro ligado entre P (entre as lâmpadas) e um ponto no fio QR modifica a tensão aplicada no circuito.",
+          "Para que as lâmpadas funcionem com as tensões nominais, a ligação do amperímetro deve ocorrer no ponto onde a tensão fornecida pela bateria seja exatamente preservada, ou seja, onde a queda de tensão no fio faz com que a tensão no circuito principal corresponda à soma das tensões nominais das lâmpadas.",
+          "Ao analisar as opções, verifica-se que somente o ponto B mantém a tensão original no circuito. Conectando-se em B, as resistências proporcionais e a divisão de tensão no fio QR permitem as lâmpadas operarem conforme suas especificações.",
+          "Portanto, a resposta correta é a letra B."
+        ],
+        "puloDoGato": "Lembre-se: num circuito em série, a corrente é a mesma em todos os elementos, então calcule as resistências para encontrar o ponto onde a tensão se mantém; neste caso, o ponto B.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Ligar o amperímetro em A não mantém a tensão correta para as lâmpadas porque essa posição não respeita a queda de tensão no fio, alterando a distribuição de tensões do circuito."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "O ponto B é correto porque a divisão da resistência no fio QR preserva as tensões nominais das lâmpadas, mantendo a potência especificada e garantindo funcionamento adequado."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O ponto C, apesar de ser central, não mantém as tensões exatas necessárias para as lâmpadas, por causa da alteração na queda de tensão no fio."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Conectar em D modifica a tensão aplicada às lâmpadas, não correspondendo às especificações necessárias para seu funcionamento correto."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "A conexão em E não mantém as condições apropriadas de tensão e potência para as lâmpadas, comprometendo seu funcionamento."
+          }
+        ],
+        "questionCode": "CN_ELETRICIDADE_SERIEPARALELO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução técnica e explicação pedagógica estão consistentes entre si e com o diagrama apresentado. Todas as alternativas foram adequadamente explicadas, com a justificativa clara para a resposta correta (B). A resolução oficial segue rigorosamente as regras editoriais solicitadas, com uma linguagem clara, didática e precisa. A dificuldade e perfil cognitivo estão de acordo com o conteúdo da questão. Não foram encontradas inconsistências ou erros relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3232,
+    "outputTokens": 2598,
+    "estimatedCostUsd": 0.00545
+  }
+}

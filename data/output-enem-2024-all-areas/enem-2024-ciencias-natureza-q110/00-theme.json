@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:30:54.273Z",
+  "questionId": "enem-2024-ciencias-natureza-q110",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Eletricidade e magnetismo",
+    "rationale": "A questão trata do dimensionamento de um circuito elétrico formado por lâmpadas, bateria e fio resistivo, envolvendo conceitos de tensão, potência e corrente elétrica, que são tópicos centrais da área de Eletricidade e magnetismo.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1289,
+    "outputTokens": 73,
+    "estimatedCostUsd": 0.000632
+  }
+}

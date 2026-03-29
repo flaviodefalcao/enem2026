@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:33:55.045Z",
+  "questionId": "enem-2024-ciencias-natureza-q099",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta, pois vacinas que utilizam a proteína espícula do SARS-CoV-2 estimulam o sistema imunológico a produzir anticorpos específicos contra essa proteína viral, conferindo proteção.",
+      "strategy": "Interpretar o papel da proteína espícula nas vacinas contra a covid-19 e relacionar com o mecanismo imunológico esperado, eliminando as alternativas incorretas que descrevem processos incompatíveis com a atuação da vacina com proteína antigênica.",
+      "steps": [
+        "Entender que a proteína espícula do coronavírus é usada como antígeno na vacina.",
+        "Saber que o papel do antígeno na vacina é estimular o sistema imune a produzir anticorpos específicos.",
+        "Reconhecer que a imunidade conferida por vacinas é ativa, e não passiva (eliminar B).",
+        "Desconsiderar alteração genômica direta causada por vacinas que apenas apresentam a proteína (eliminar C).",
+        "Entender que a neutralização ocorre via anticorpos, que são produzidos posteriormente; vacina não neutraliza diretamente (eliminar D).",
+        "Saber que as vacinas não modificam diretamente os receptores celulares (eliminar E).",
+        "Concluir que a produção de anticorpos específicos contra o vírus é o mecanismo esperado (A)."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir imunidade passiva, que é obtida pela administração direta de anticorpos, com imunidade ativa induzida pela vacina.",
+        "misconceptionType": "Confusão entre imunidade ativa e passiva.",
+        "whyItLooksPlausible": "A imunidade passiva envolve proteção direta, portanto pode parecer que a vacina fornece imunidade imediata.",
+        "whyItIsWrong": "Vacinas induzem produção própria de anticorpos, ou seja, imunidade ativa, não passiva."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Achar que vacinas de mRNA ou que apresentam proteínas alteram o genoma celular para gerar memória imunológica.",
+        "misconceptionType": "Equivocação sobre o mecanismo de vacinas e engenharia genética.",
+        "whyItLooksPlausible": "Algumas vacinas envolvem material genético, levando à confusão sobre alteração genômica.",
+        "whyItIsWrong": "A vacina não altera o genoma do hospedeiro, apenas apresenta antígenos para gerar resposta imune."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Imaginar que a vacina neutraliza diretamente o vírus presente no sangue.",
+        "misconceptionType": "Interpretar a ação da vacina como efeito terapêutico imediato.",
+        "whyItLooksPlausible": "Neutralização do vírus é o objetivo final da imunidade, então parece correto.",
+        "whyItIsWrong": "Neutralização ocorre através da ação dos anticorpos produzidos após a vacinação, não pela vacina diretamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que a vacina modifica os receptores celulares para impedir a entrada do vírus.",
+        "misconceptionType": "Errar o mecanismo de ação das vacinas e celulares.",
+        "whyItLooksPlausible": "Modificar receptores impediria a entrada viral e parece uma solução lógica.",
+        "whyItIsWrong": "Vacinas não alteram receptores celulares; elas estimulam o sistema imunológico a produzir anticorpos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento sobre imunologia e funcionamento de vacinas",
+      "secondarySkills": [
+        "Leitura e interpretação de texto científico",
+        "Conhecimento específico em biologia molecular e celular"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Requer entendimento básico de como vacinas estimulam a resposta imune",
+        "Distinguir tipos de imunidade: ativa vs passiva",
+        "Processo da resposta imune adaptativa"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 646,
+    "outputTokens": 797,
+    "estimatedCostUsd": 0.001534
+  }
+}

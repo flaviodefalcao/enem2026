@@ -1,0 +1,191 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q117",
+  "generatedAt": "2026-03-28T22:41:33.530Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 636,
+      "outputTokens": 810,
+      "estimatedCostUsd": 0.00155
+    },
+    "explainer": {
+      "inputTokens": 1295,
+      "outputTokens": 431,
+      "estimatedCostUsd": 0.001208
+    },
+    "reviewer": {
+      "inputTokens": 2655,
+      "outputTokens": 2212,
+      "estimatedCostUsd": 0.004601
+    },
+    "totalEstimatedCostUsd": 0.007359
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque, devido ao efeito Doppler, na aproximação da ambulância com sirene ligada, a frequência medida das ondas refletidas pelo radar fr é maior que a frequência original f₀, o que corresponde ao som mais agudo percebido pelo operador.",
+      "strategy": "Utilizar o conceito do efeito Doppler no contexto da ambulância se aproximando do radar, considerando as frequências das ondas emitidas e refletidas, e relacionar isso à percepção sonora do operador.",
+      "steps": [
+        "Identificar que o radar emite ondas de rádio com frequência f₀.",
+        "Reconhecer que essas ondas são refletidas pela ambulância em movimento.",
+        "Aplicar o efeito Doppler às ondas refletidas para entender que a frequência medida fr será modificada pelo movimento da ambulância.",
+        "Relatar que, na aproximação, a frequência fr > f₀.",
+        "Concluir que o som da sirene percebido pelo operador é mais agudo, devido ao aumento da frequência. "
+      ],
+      "formulasUsed": [
+        "f' = f₀ * (v + v_o) / (v - v_s)"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O efeito Doppler faz com que, na aproximação da ambulância, a frequência das ondas refletidas aumente, tornando o som da sirene percebido pelo operador mais agudo; assim, fr é maior que f₀.",
+      "stepByStep": [
+        "Reconheça que o som da sirene tem frequência f₀.",
+        "O radar emite ondas de rádio de frequência f₀ que são refletidas pela ambulância.",
+        "Devido ao movimento da ambulância na direção do radar, ocorre o efeito Doppler nas ondas refletidas.",
+        "Na aproximação, a frequência das ondas refletidas medidas é maior que a original, ou seja, fr > f₀.",
+        "Consequentemente, o operador percebe o som da sirene mais agudo."
+      ],
+      "commonPitfalls": [
+        "Pensar que a frequência diminui na aproximação, tornando o som mais grave.",
+        "Confundir as frequências do som da sirene e das ondas de rádio refletidas.",
+        "Achar que a frequência medida pelo radar permanece igual à frequência emitida.",
+        "Interpretar erroneamente que um som mais agudo corresponde a frequência menor."
+      ],
+      "teachingTips": [
+        "Explique com exemplos cotidianos, como sirenes de ambulância ou apitos de trem.",
+        "Destaque a diferença entre as frequências do som e das ondas de rádio refletidas.",
+        "Use representações visuais para ilustrar o movimento e o efeito Doppler.",
+        "Reforce que sons mais agudos têm frequência maior.",
+        "Proponha exercícios relacionando movimento, frequência e percepção sonora."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pensa que na aproximação a frequência diminui, associando a um som mais grave e assumindo fr < f₀.",
+        "misconceptionType": "Inversão do efeito Doppler na aproximação",
+        "whyItLooksPlausible": "Dificuldade comum em compreender que a frequência aumenta na aproximação.",
+        "whyItIsWrong": "Na aproximação, a frequência medida é maior, não menor."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Reconhece que o som fica mais agudo, mas erra ao indicar que fr é menor que f₀.",
+        "misconceptionType": "Erro na interpretação da relação entre fr e f₀",
+        "whyItLooksPlausible": "Entende o som mais agudo, mas confunde as desigualdades das frequências.",
+        "whyItIsWrong": "Fr é maior que f₀ na aproximação, não menor."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Acredita que a frequência percebida não muda, ou seja, fr = f₀.",
+        "misconceptionType": "Ignorar o efeito Doppler",
+        "whyItLooksPlausible": "Pode parecer lógico se não considerar o movimento relativo.",
+        "whyItIsWrong": "O movimento faz com que a frequência se altere; não permanece igual."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensa que fr > f₀, mas que o som fica mais grave, confundindo tonalidade e frequência.",
+        "misconceptionType": "Confusão entre frequência e percepção sonora",
+        "whyItLooksPlausible": "Há erro na interpretação da relação entre frequência e timbre.",
+        "whyItIsWrong": "Frequência maior indica som mais agudo, não mais grave."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e aplicação do efeito Doppler em ondas sonoras",
+      "secondarySkills": [
+        "Interpretação de fenômenos físicos",
+        "Raciocínio lógico",
+        "Relação entre frequência, som e movimento"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige entendimento conceitual do efeito Doppler aplicado a ondas sonoras e ondas refletidas.",
+        "Não necessita cálculos exatos, apenas raciocínio qualitativo.",
+        "Distingue percepção sonora do operador e frequência das ondas refletidas medidas pelo radar."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🚑",
+      "shortThemeTitle": "Efeito Doppler e percepção sonora na aproximação",
+      "interpretationIntro": "A questão apresenta a situação de uma ambulância se aproximando de um radar, cujo operador percebe a variação do som da sirene. É necessário analisar como essa percepção ocorre e qual a relação entre as frequências envolvidas nas ondas refletidas pelo radar.",
+      "commandTerms": [
+        {
+          "term": "Percepção",
+          "explanation": "Como o operador do radar percebe o som emitido pela sirene durante a aproximação."
+        },
+        {
+          "term": "Relação de frequências",
+          "explanation": "Comparação entre a frequência das ondas refletidas pelo radar (fr) e a frequência original emitida (f₀)."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão requer descrever a percepção sonora do operador do radar em relação à sirene da ambulância durante a aproximação e estabelecer a relação entre as frequências fr e f₀ medidas pelo radar.",
+      "strategyParagraph": "Devemos aplicar o conceito do efeito Doppler, que explica a variação da frequência de ondas sonoras ou eletromagnéticas percebidas por um observador em movimento relativo à fonte. No caso, a ambulância com a sirene ligada se aproxima do radar, mudando a frequência das ondas refletidas. Assim, relacionamos essa mudança de frequência às características do som percebido pelo operador.",
+      "reviewTable": [
+        {
+          "concept": "Efeito Doppler",
+          "keyIdea": "Movimento relativo altera a frequência percebida de uma onda.",
+          "application": "Na aproximação da ambulância, a frequência das ondas refletidas fr é maior que a frequência original f₀."
+        },
+        {
+          "concept": "Frequência e som",
+          "keyIdea": "Frequência maior corresponde a um som mais agudo.",
+          "application": "O operador percebe a sirene com som mais agudo à medida que a ambulância se aproxima."
+        },
+        {
+          "concept": "Ondas refletidas pelo radar",
+          "keyIdea": "Ondas de rádio emitidas pelo radar são refletidas pela ambulância em movimento.",
+          "application": "A frequência das ondas refletidas fr sofre alteração pelo efeito Doppler, indicando fr > f₀ na aproximação."
+        }
+      ],
+      "theoryParagraphs": [
+        "O efeito Doppler ocorre quando há movimento relativo entre a fonte da onda e o observador, provocando variação na frequência percebida. Para ondas sonoras, uma aproximação resulta em aumento da frequência, produzindo som mais agudo. Para ondas eletromagnéticas refletidas, como as de rádio do radar, este efeito também causa mudança da frequência observada.",
+        "No contexto da ambulância se aproximando do radar, as ondas emitidas pelo radar são refletidas pela ambulância que está em movimento, alterando a frequência das ondas recebidas pelo radar (fr). Esta frequência refletem a velocidade da ambulância relativa ao radar e é maior que a frequência emitida (f₀).",
+        "A percepção sonora do operador, que escuta a sirene da ambulância, também sofre influência do efeito Doppler, percebendo um tom mais agudo quando a ambulância se aproxima e mais grave quando se afasta."
+      ],
+      "resolutionParagraphs": [
+        "Inicialmente, reconhece-se que a ambulância emite som pela sirene com uma frequência original f₀ e que o radar emite ondas de rádio nesta mesma frequência que são refletidas pela ambulância.",
+        "Considerando o movimento da ambulância em direção ao radar, aplica-se o efeito Doppler, que indica o aumento da frequência das ondas refletidas recebidas pelo radar, portanto fr > f₀.",
+        "Simultaneamente, o operador percebe a sirene da ambulância com o som mais agudo devido ao aumento da frequência sonora provocado pela aproximação.",
+        "Logo, conclui-se que o operador percebe som mais agudo da sirene e que a frequência das ondas refletidas pelo radar, fr, é maior que a frequência original f₀ durante a aproximação."
+      ],
+      "puloDoGato": "Na aproximação, a frequência das ondas refletidas sempre aumenta — ou seja, fr > f₀ — e o som fica mais agudo, um fato certo para o efeito Doppler.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Incorreta. Em uma aproximação, a frequência aumenta, não diminui; portanto, fr < f₀ é falso e o som não fica mais grave."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Incorreta. Embora reconheça som mais agudo, erra ao afirmar que fr < f₀; a frequência refletida é maior que a original."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta. Ignora o efeito Doppler e assume que fr = f₀, o que não ocorre devido ao movimento da ambulância."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Correta. Aponta que na aproximação o operador percebe som mais agudo e que fr > f₀, condizente com o efeito Doppler."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta. Apesar de reconhecer fr > f₀, erra ao afirmar que o som fica mais grave, o que contradiz a relação entre frequência e altura do som."
+        }
+      ],
+      "questionCode": "CN_EFEITODOPPLER_BASICO_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução apresentada está clara, coerente e compatível com o enunciado e as análises do solver e explainer. A explicação didática complementa a solução técnica, esclarecendo os conceitos necessários. Não foram encontradas inconsistências ou erros relevantes.",
+      "issues": []
+    }
+  }
+}

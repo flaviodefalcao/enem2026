@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:39:33.521Z",
+  "questionId": "enem-2024-ciencias-natureza-q133",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A resposta correta é D. A similaridade da coloração entre a falsa-coral e a coral-verdadeira reduz a possibilidade de predação das falsas-corais.",
+      "strategy": "Analisar o conceito de mimetismo biológico, especificamente o mimetismo Batesiano, onde uma espécie inofensiva (falsa-coral) imita a aparência de uma espécie venenosa (coral-verdadeira) para evitar predadores.",
+      "steps": [
+        "Identificar que corais-verdadeiras são peçonhentas e falsas-corais não possuem veneno.",
+        "Observar que ambas apresentam padrão de coloração muito semelhante, indicado no enunciado e nas imagens.",
+        "Reconhecer que tal similaridade pode ser um mecanismo de defesa para as falsas-corais.",
+        "Relacionar esse mecanismo ao mimetismo Batesiano, que protege as falsas-corais de predadores, pois estes evitam qualquer cobra com coloração semelhante a uma coral-verdadeira.",
+        "Concluir que a vantagem para as falsas-corais é reduzir o risco de predação."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Nas imagens observa-se a semelhança no padrão de coloração entre a coral-verdadeira e a falsa-coral, reforçando o argumento do mimetismo."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Acreditar que a semelhança na coloração facilita a captura de presas, talvez por confundir os animais.",
+        "misconceptionType": "Interpretação errada do papel do mimetismo.",
+        "whyItLooksPlausible": "Predadores podem evitar cobras peçonhentas, possibilitando a aproximação de presas.",
+        "whyItIsWrong": "O mimetismo colorido é um mecanismo de proteção contra predadores, não um auxílio na caça."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pressupor que a semelhança reduz competição entre as espécies.",
+        "misconceptionType": "Confusão entre interações ecológicas diferentes (mimetismo vs competição).",
+        "whyItLooksPlausible": "Espécies semelhantes podem ocupar nichos próximos, o que pode causar competição.",
+        "whyItIsWrong": "A coloração semelhante não influencia diretamente na competição por recursos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a semelhança facilita híbridos entre as duas espécies.",
+        "misconceptionType": "Erro sobre compatibilidade genética e aparência externa.",
+        "whyItLooksPlausible": "Semelhança física pode sugerir possibilidade de cruzamento.",
+        "whyItIsWrong": "Espécies diferentes, com funções reprodutivas incompatíveis, mesmo com aparência semelhante."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Achar que a aparência semelhante ajuda no encontro de parceiros para reprodução.",
+        "misconceptionType": "Confusão sobre sinais reprodutivos.",
+        "whyItLooksPlausible": "Animais usam sinais visuais para reconhecer parceiros.",
+        "whyItIsWrong": "A semelhança é entre espécies diferentes, não para facilitar reprodução entre elas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de conceitos biológicos (mimetismo)",
+      "secondarySkills": [
+        "Leitura de imagens e associação com texto",
+        "Conhecimento básico sobre ecologia e comportamento animal"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O aluno deve compreender o conceito de mimetismo Batesiano.",
+        "O enunciado e imagens fornecem elementos suficientes para a resolução.",
+        "A questão exige relacionar o fenômeno observado com uma vantagem evolucionária."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1377,
+    "outputTokens": 752,
+    "estimatedCostUsd": 0.001754
+  }
+}

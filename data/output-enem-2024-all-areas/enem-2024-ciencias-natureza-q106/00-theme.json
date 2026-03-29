@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:20:22.058Z",
+  "questionId": "enem-2024-ciencias-natureza-q106",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Mecânica e energia",
+    "rationale": "A questão trata do movimento de Calvin em um balanço, abordando conceitos de força gravitacional, movimento circular e queda, vinculados às propriedades de forças e movimentos estudadas na mecânica.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 2273,
+    "outputTokens": 62,
+    "estimatedCostUsd": 0.001008
+  }
+}

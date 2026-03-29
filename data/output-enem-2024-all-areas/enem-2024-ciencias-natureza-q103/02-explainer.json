@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:52:19.684Z",
+  "questionId": "enem-2024-ciencias-natureza-q103",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "No ciclo de Otto, a transformação da energia térmica em energia útil acontece na etapa IV, que é a expansão adiabática, quando os gases quentes empurram o pistão, gerando trabalho mecânico para o veículo.",
+      "stepByStep": [
+        "Identifique as etapas do ciclo de Otto no diagrama P-V e a tabela de processos.",
+        "Observe que a etapa III representa a combustão, ou seja, a entrada de calor no sistema, mas ainda não há trabalho produzido.",
+        "Na etapa IV, ocorre a expansão adiabática dos gases, etapa onde a energia térmica gerada pela combustão é convertida em trabalho mecânico útil pelo pistão.",
+        "As etapas anteriores ou posteriores representam admissão, compressão, liberação de calor e expulsão dos gases, que não correspondem à conversão efetiva em trabalho útil.",
+        "Logo, a etapa IV é a que transforma a energia térmica em energia útil, fazendo o motor funcionar."
+      ],
+      "commonPitfalls": [
+        "Confundir a etapa de compressão (II) com a produção de trabalho útil, quando na verdade ela apenas aumenta a energia interna do gás.",
+        "Achar que a entrada de calor (III) é o momento da conversão em trabalho, confundindo transferência de energia com trabalho mecânico.",
+        "Pensar que a liberação de calor (V) ou a expulsão dos gases (VI) geram energia útil, quando na verdade representam perdas ou preparação para o próximo ciclo."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre transferência de calor (entrada ou saída de energia térmica) e trabalho realizado pelo gás.",
+        "Utilize o diagrama P-V para mostrar visualmente como o trabalho é representado pela área sob a curva da expansão.",
+        "Enfatize o papel da expansão adiabática como etapa onde ocorre transformação da energia térmica em trabalho mecânico.",
+        "Promova exercícios que relacionem os processos termodinâmicos às fases físicas do movimento do pistão.",
+        "Use analogias ao funcionamento do motor para facilitar o entendimento, como pistões sendo empurrados pelos gases gerados na combustão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2396,
+    "outputTokens": 428,
+    "estimatedCostUsd": 0.001643
+  }
+}

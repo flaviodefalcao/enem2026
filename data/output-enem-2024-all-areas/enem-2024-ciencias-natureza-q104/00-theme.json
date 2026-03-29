@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:53:14.600Z",
+  "questionId": "enem-2024-ciencias-natureza-q104",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Mecânica e energia",
+    "rationale": "A questão exige analisar o movimento do nadador em um circuito levando em conta a ação de uma corrente marinha, envolvendo aplicação de vetores de velocidade e cálculo do tempo necessário para completar um percurso. O problema explora conceitos de cinemática, como soma vetorial das velocidades e movimento relativo, claramente dentro do subtema 'Mecânica e energia' em Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1581,
+    "outputTokens": 98,
+    "estimatedCostUsd": 0.003946
+  }
+}

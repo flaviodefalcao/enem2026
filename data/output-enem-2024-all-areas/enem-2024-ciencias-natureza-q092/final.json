@@ -1,0 +1,187 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q092",
+  "generatedAt": "2026-03-28T22:24:39.431Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 594,
+      "outputTokens": 766,
+      "estimatedCostUsd": 0.001463
+    },
+    "explainer": {
+      "inputTokens": 1265,
+      "outputTokens": 371,
+      "estimatedCostUsd": 0.0011
+    },
+    "reviewer": {
+      "inputTokens": 2559,
+      "outputTokens": 2017,
+      "estimatedCostUsd": 0.004251
+    },
+    "totalEstimatedCostUsd": 0.006814
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa correta é a A porque apresenta o método adequado para separar um sólido pouco solúvel de uma solução aquosa, que é a filtração.",
+      "strategy": "Identificar os estados físicos dos componentes da mistura (sólido e íons em solução) e escolher o método eficiente para separar sólido de líquido sem alterar a composição das substâncias.",
+      "steps": [
+        "Reconhecer que Mg(OH)₂ é um sólido pouco solúvel em suspensão.",
+        "Identificar que Ca²⁺ está dissolvido em solução aquosa.",
+        "Selecionar filtração como método físico adequado para separar sólido em suspensão do líquido.",
+        "Descartar métodos inadequados como catação, destilação, dissolução e evaporação para essa situação."
+      ],
+      "formulasUsed": [
+        "Mg^{2+} (aq) + Ca(OH)_2 (aq) → Mg(OH)_2 (s) + Ca^{2+} (aq)"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para separar o hidróxido de magnésio sólido da solução aquosa com íons cálcio, deve-se usar a filtração, pois este método retém sólidos suspensos enquanto permite a passagem do líquido.",
+      "stepByStep": [
+        "Identifique os componentes: sólido Mg(OH)₂ e solução com Ca²⁺.",
+        "Compreenda que o sólido está em suspensão e o cálcio em solução.",
+        "Escolha filtração, método que separa eficazmente sólidos não dissolvidos de líquidos.",
+        "Elimine métodos impróprios como catação, destilação, dissolução e evaporação."
+      ],
+      "commonPitfalls": [
+        "Confundir catação com filtração para misturas sólido-líquido.",
+        "Pensar que destilação é adequada para separar sólidos insolúveis.",
+        "Achar que dissolução serve para separar misturas; na verdade, mistura componentes.",
+        "Supor incorretamente que evaporação é mais prática que filtração neste caso."
+      ],
+      "teachingTips": [
+        "Explique claramente os estados físicos dos componentes para identificar o método adequado.",
+        "Use exemplos para diferenciar catação (sólido+sólido) e filtração (sólido+lìquido).",
+        "Reforce importância da solubilidade e estado físico na escolha do método.",
+        "Mostre que métodos físicos separam sem alterar as substâncias."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir catação com filtração achando que serve para separar sólido de líquido.",
+        "misconceptionType": "Entendimento incorreto do método de separação física",
+        "whyItLooksPlausible": "Catação é um método simples para separar sólidos manualmente.",
+        "whyItIsWrong": "Catação não é eficaz para separar sólidos dispersos em líquidos, especialmente em escala microscópica."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Achar que destilação sempre serve para misturas líquidas.",
+        "misconceptionType": "Confusão sobre processos baseados na mudança de estado físico",
+        "whyItLooksPlausible": "Destilação separa líquidos por ponto de ebulição, comum em soluções.",
+        "whyItIsWrong": "Não separa sólidos insolúveis suspensos em líquidos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pensar que dissolução separa componentes de uma mistura.",
+        "misconceptionType": "Má compreensão do processo de dissolução",
+        "whyItLooksPlausible": "Dissolução envolve o uso de solventes para separar partes da mistura.",
+        "whyItIsWrong": "Dissolução mistura componentes, não separa."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Imaginar que evaporação remove água e deixa sólido.",
+        "misconceptionType": "Confusão do uso da evaporação para sólidos em suspensão",
+        "whyItLooksPlausible": "Evaporação deixa sólidos para trás ao eliminar água.",
+        "whyItIsWrong": "Filtração é mais prática e eficaz para separar sólido pouco solúvel em suspensão sem evaporar todo o solvente."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Separação de misturas",
+      "secondarySkills": [
+        "Química inorgânica",
+        "Métodos físicos de separação"
+      ],
+      "cognitiveDemand": "Baixo a médio",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento básico de química sobre estados físicos e técnicas de separação.",
+        "Não requer cálculos ou interpretação de imagens, apenas conceitos.",
+        "Indica explicitamente os estados físicos, facilitando a escolha do método."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧪",
+      "shortThemeTitle": "Separação de sólido em suspensão aquosa",
+      "interpretationIntro": "A questão solicita a identificação do método apropriado para separar o sólido pouco solúvel Mg(OH)₂ da mistura aquosa que contém íons Ca²⁺.",
+      "commandTerms": [
+        {
+          "term": "Separar",
+          "explanation": "Isolar ou dividir os componentes de uma mistura."
+        },
+        {
+          "term": "Método",
+          "explanation": "Procedimento ou técnica utilizada para realizar uma separação."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede que seja indicado o método adequado para separar o hidróxido de magnésio sólido suspenso em solução aquosa contendo íons cálcio, após a reação química dada.",
+      "strategyParagraph": "Para responder, é necessário compreender os estados físicos dos reagentes e produtos: o Mg(OH)₂ é um sólido pouco solúvel que fica em suspensão, enquanto os íons Ca²⁺ permanecem em solução. Selecionar o método físico eficaz para separar um sólido em suspensão de uma solução líquida é o caminho adequado, descartando técnicas que não atendem essas características.",
+      "reviewTable": [
+        {
+          "concept": "Sólido pouco solúvel em suspensão",
+          "keyIdea": "Pode ser separado da solução por métodos físicos que isolam sólidos de líquidos",
+          "application": "Filtração é um método prático e eficaz para separar suspensões sólidas de líquidos."
+        },
+        {
+          "concept": "Estados físicos dos componentes",
+          "keyIdea": "Identificar sólido, líquido e íons dissolvidos para escolher técnica correta",
+          "application": "Mg(OH)₂ sólido e Ca²⁺ em solução permite uso de filtração para separar sólido do líquido."
+        },
+        {
+          "concept": "Métodos físicos de separação",
+          "keyIdea": "Selecionar método que não altere composições químicas ao separar fases físicas distintas",
+          "application": "Filtração permite separar sólido sem alterar substâncias, diferente de métodos como dissolução."
+        }
+      ],
+      "theoryParagraphs": [
+        "Nas misturas onde um sólido pouco solúvel está suspendido em uma solução aquosa, o método físico mais comum para separar o sólido é a filtração, que utiliza um meio filtrante para reter a parte sólida enquanto permite a passagem do líquido.",
+        "A composição química e os estados físicos dos componentes da mistura guiam a escolha do método. No caso, o Mg(OH)₂ está em forma sólida, enquanto os íons Ca²⁺ permanecem dissolvidos no líquido, justificando a separação física por filtração.",
+        "Outros métodos como catação são inadequados para sólidos dispersos microscópicos em líquidos; destilação é usada para separar líquidos em soluções, e evaporação retira o líquido mas é menos prática e pode levar mais tempo do que a filtração."
+      ],
+      "resolutionParagraphs": [
+        "Observando a reação: Mg²⁺ (aq) + Ca(OH)₂ (aq) → Mg(OH)₂ (s) + Ca²⁺ (aq), percebe-se que o Mg(OH)₂ se forma como sólido pouco solúvel em suspensão, enquanto o Ca²⁺ permanece em solução.",
+        "Para separar o Mg(OH)₂ sólido da mistura, escolhe-se a filtração, que é apropriada para reter sólidos suspensos e permitir a passagem do líquido com os íons Ca²⁺.",
+        "Assim, a alternativa A, que indica a filtração, corresponde ao método correto.",
+        "Outros métodos não são adequados: catação serve para sólidos visíveis e grandes separáveis manualmente, destilação separa líquidos por ponto de ebulição, dissolução mistura componentes e evaporação é menos prática quando se quer apenas separar sólido disperso."
+      ],
+      "puloDoGato": "Identifique o estado físico dos componentes e lembre: para separar sólido pouco solúvel em líquido, escolha a filtração, método simples e eficiente.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Filtração é o método adequado para separar sólido pouco solúvel em suspensão da solução aquosa, retendo o sólido no filtro e deixando passar o líquido."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Catação é inadequada para sólidos em suspensão microscópica em líquidos, pois é um método manual para sólidos visíveis."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Destilação separa componentes líquidos com diferentes pontos de ebulição, não sólidos suspensos."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Dissolução não separa, mas mistura componentes, não é método de separação."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Evaporação é menos prática que filtração para separar sólidos pouco solúveis suspensos, além de demandar mais tempo e calor."
+        }
+      ],
+      "questionCode": "CIENCIAS_DA_NATUREZA_QUIMICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes entre si e com o tema central da questão. A alternativa correta está claramente indicada e justificada, e as desqualificações das outras opções são precisas e didáticas. A resolução oficial está clara, concisa e adequada ao padrão ENEM.",
+      "issues": []
+    }
+  }
+}

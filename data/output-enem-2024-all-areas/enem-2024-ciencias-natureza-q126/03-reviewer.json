@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:30:49.411Z",
+  "questionId": "enem-2024-ciencias-natureza-q126",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A resposta correta é a alternativa E (convecção).",
+        "strategy": "Identificar o modo de transferência de calor entre o coletor solar e o reservatório com base nos princípios físicos e no funcionamento do equipamento.",
+        "steps": [
+          "Compreender que o coletor solar aquece a água usando radiação solar.",
+          "Determinar que a água quente se movimenta do coletor para o reservatório, indicando transporte pelo fluido.",
+          "Reconhecer que condução ocorre em sólidos, radiação envolve ondas eletromagnéticas e absorção refere-se a captação de energia, não transferência entre partes.",
+          "Concluir que o calor é transferido do coletor ao reservatório pelo movimento da água quente, caracterizando convecção."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Esquema mostra circulação de água fria para o coletor e saída de água quente para o reservatório, evidenciando transporte por fluido."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O aquecedor solar transfere calor do coletor para o reservatório principalmente por convecção, que é o movimento da água quente transportando energia térmica.",
+        "stepByStep": [
+          "A água fria entra no coletor, onde é aquecida pela radiação solar.",
+          "Os modos de transferência de calor são: condução, convecção, radiação, difusão e absorção.",
+          "A água quente sai do coletor e circula até o reservatório por movimento do fluido.",
+          "Esse movimento é convecção, responsável por transportar o calor entre coletor e reservatório.",
+          "Assim, a transferência não é condução nem radiação, mas convecção devido à circulação do fluido."
+        ],
+        "commonPitfalls": [
+          "Confundir difusão com transferência de calor.",
+          "Associar absorção como transferência de calor entre coletor e reservatório.",
+          "Pensar que condução domina a transferência porque há contato físico.",
+          "Confundir radiação solar com a transferência interna de calor."
+        ],
+        "teachingTips": [
+          "Utilizar exemplos cotidianos de convecção, como água na panela.",
+          "Explicar as diferenças entre condução, convecção e radiação.",
+          "Analisar esquemas técnicos para identificar transferência de calor.",
+          "Esclarecer que absorção é apenas a captação inicial de energia."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confundir difusão com transferência de calor devido ao movimento de partículas.",
+          "misconceptionType": "Confusão conceitual",
+          "whyItLooksPlausible": "Difusão envolve movimento de partículas e pode parecer similar à transferência de calor em fluidos.",
+          "whyItIsWrong": "Difusão é movimentação de partículas sem transferência significativa de calor como mecanismo dominante."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Associar absorção com o processo geral de aquecimento solar.",
+          "misconceptionType": "Termos relacionados confundidos",
+          "whyItLooksPlausible": "O coletor absorve radiação para aquecer a água.",
+          "whyItIsWrong": "Absorção é captação de energia, não transferência do calor entre coletor e reservatório."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Assumir condução pela presença de contato físico.",
+          "misconceptionType": "Confusão entre modos de transferência",
+          "whyItLooksPlausible": "Condução ocorre em sólidos e pode parecer válida na interface coletor-reservatório.",
+          "whyItIsWrong": "A transferência do calor ocorre pelo fluido em movimento, caracterizando convecção."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Confundir radiação solar com transferência de calor interna.",
+          "misconceptionType": "Confusão entre processos físicos",
+          "whyItLooksPlausible": "Radiação solar aquece o coletor e parece ser o modo de transferência interno.",
+          "whyItIsWrong": "Radiação solar é externa; transferência interna entre partes é por convecção."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e aplicação de conceitos de transferência de calor",
+        "secondarySkills": [
+          "Conhecimento básico de termodinâmica",
+          "Leitura de esquemas técnicos"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão dos modos de transferência térmica.",
+          "Necessita interpretar esquema para identificar circulação da água.",
+          "Distingue radiação solar (aquecimento) de convecção (transporte interno)."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "☀️",
+        "shortThemeTitle": "Modos de transferência de calor em aquecedores solares",
+        "interpretationIntro": "A questão requer identificar qual processo físico transfere o calor do coletor solar para o reservatório térmico no aquecedor solar apresentado.",
+        "commandTerms": [
+          {
+            "term": "Convecção",
+            "explanation": "Transferência de calor pelo movimento de fluidos, neste caso, a água quente circulando entre o coletor e reservatório."
+          },
+          {
+            "term": "Radiação",
+            "explanation": "Energia transferida por ondas eletromagnéticas, responsável pelo aquecimento inicial do coletor pelo Sol."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pergunta qual é o processo que efetivamente transfere o calor do coletor para o reservatório térmico no sistema de aquecimento de água por energia solar.",
+        "strategyParagraph": "Para resolver, é necessário compreender os modos de transferência de calor (condução, convecção, radiação, difusão e absorção) e analisar o esquema para identificar qual processo está em ação entre o coletor e o reservatório. Observando que a água quente circula pelo sistema, é possível determinar o modo correto.",
+        "reviewTable": [
+          {
+            "concept": "Convecção",
+            "keyIdea": "Transferência de calor por movimento de fluido quente.",
+            "application": "Água quente circula do coletor para o reservatório transportando calor."
+          },
+          {
+            "concept": "Radiação",
+            "keyIdea": "Transferência de energia por ondas eletromagnéticas.",
+            "application": "Radiação solar aquece o coletor, não o reservatório diretamente."
+          },
+          {
+            "concept": "Condução",
+            "keyIdea": "Transferência de calor por contato direto em sólidos.",
+            "application": "Não é o modo dominante entre o coletor e o reservatório, porque o fluido está em movimento."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os modos clássicos de transferência de calor são condução, convecção e radiação. A condução ocorre em sólidos por contato direto, a convecção ocorre em fluidos com movimento, e a radiação é a transferência por ondas, independentemente de meio material.",
+          "No aquecedor solar, a radiação solar incide no coletor que absorve essa energia, aquecendo a água que circula internamente. Essa água quente então se movimenta para o reservatório, transferindo calor por meio do fluxo do fluido, ou seja, por convecção.",
+          "É importante diferenciar que a radiação solar é o mecanismo inicial que aquece a água, mas a transferência do calor interno entre componentes do sistema ocorre por convecção devido ao movimento do fluido aquecido."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, a radiação solar aquece o coletor solar de tubo a vácuo, que capta essa energia e eleva a temperatura da água no interior do coletor.",
+          "A água aquecida gera circulação natural: a água quente, menos densa, sobe do coletor até o reservatório térmico, enquanto a água fria do reservatório desce para o coletor. Esse movimento cria um circuito.",
+          "Essa circulação da água, um fluido em movimento, caracteriza o processo de convecção, que é responsável pela transferência de calor do coletor para o reservatório.",
+          "Portanto, o processo dominante de transferência térmica interno do coletor para o reservatório é a convecção, e não a condução, radiação, difusão ou absorção."
+        ],
+        "puloDoGato": "Lembre que a radiação aquece o coletor, mas quem transfere calor internamente é a convecção, pelo movimento da água quente.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Difusão não é o modo principal de transferência térmica nesse processo, pois envolve movimentação de partículas sem transporte significativo de calor entre coletor e reservatório."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Absorção refere-se à captação da radiação solar pelo coletor, não à transferência do calor entre o coletor e o reservatório."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Condução ocorre por contato direto sólido-sólido, mas o principal transporte de calor aqui é pelo fluido em movimento, ou seja, convecção."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Radiação é o método pelo qual o coletor é aquecido pelo Sol, não o processo interno de transferência de calor para o reservatório."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Convecção é o processo físico pelo qual o calor é transferido pelo movimento da água quente do coletor até o reservatório."
+          }
+        ],
+        "questionCode": "CNC_FIS_TRANSFERENCIA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão consistentes entre si. A resposta E (convecção) está bem fundamentada e coerente com o conteúdo da questão e esquema apresentado. Todas as alternativas foram revisadas adequadamente, com justificativas claras para o correto e incorretos. A resolução oficial está clara, didática e segue o formato solicitado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3261,
+    "outputTokens": 1966,
+    "estimatedCostUsd": 0.00445
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q105",
+  "generatedAt": "2026-03-28T22:55:54.617Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 989,
+      "outputTokens": 963,
+      "estimatedCostUsd": 0.009682
+    },
+    "explainer": {
+      "inputTokens": 1483,
+      "outputTokens": 363,
+      "estimatedCostUsd": 0.001174
+    },
+    "reviewer": {
+      "inputTokens": 2996,
+      "outputTokens": 2349,
+      "estimatedCostUsd": 0.024784
+    },
+    "totalEstimatedCostUsd": 0.03564
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B) câncer.",
+      "correctnessClaim": "Correta. O HTLV-1 estimula a proliferação de linfócitos T, podendo levar ao desenvolvimento de cânceres como leucemia ou linfoma de células T.",
+      "strategy": "Relacionamento entre o efeito fisiológico descrito (aumento de linfócitos T) e a patologia classicamente associada à proliferação descontrolada dessas células (câncer hematológico).",
+      "steps": [
+        "Ler e interpretar o efeito do HTLV-1 no enunciado: aumento da produção de linfócitos T.",
+        "Recuperar o conhecimento de que proliferação celular descontrolada pode resultar em câncer.",
+        "Descartar as alternativas desconexas com o mecanismo do vírus.",
+        "Selecionar a opção B, que conecta diretamente o efeito à consequência patológica correta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto extraído do enunciado, especialmente a descrição do efeito do HTLV-1 nos linfócitos T."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O HTLV-1 provoca aumento descontrolado de linfócitos T, condição que pode evoluir para cânceres hematológicos como leucemia e linfoma.",
+      "stepByStep": [
+        "Identifique que o HTLV-1 leva ao aumento dos linfócitos T.",
+        "Reconheça que esse aumento exagerado pode ser neoplásico (câncer).",
+        "Analise as opções, focando nas doenças relacionadas à proliferação celular.",
+        "Descarte alternativas que não conectam mecanismo e consequência.",
+        "Escolha câncer como resposta, pois é a consequência direta desse mecanismo."
+      ],
+      "commonPitfalls": [
+        "Confundir HTLV-1 com HIV e associar ao desenvolvimento de AIDS.",
+        "Acreditar que doenças crônicas não relacionadas ao sistema imune (ex: diabetes) seriam possíveis consequências.",
+        "Imaginar que todo distúrbio sanguíneo leva à hemorragia e não à proliferação tumoral.",
+        "Supor que todo vírus transmitido de modo semelhante provoca doenças também semelhantes."
+      ],
+      "teachingTips": [
+        "Destaque as diferenças patológicas entre HIV e HTLV-1, apesar das semelhanças.",
+        "Use mapas conceituais para associar mecanismos virais e suas consequências clínicas.",
+        "Ensine a técnica de eliminação baseada em mecanismos fisiológicos explícitos no texto.",
+        "Refaça questões para treinar a relação direta entre mecanismo e doença-alvo."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A) aids.",
+        "likelyReasoning": "Associação automática entre vírus retrovírus, linfócitos T e AIDS, devido à semelhança com o HIV.",
+        "misconceptionType": "Confusão conceitual.",
+        "whyItLooksPlausible": "Tanto o HTLV-1 quanto o HIV infectam o mesmo tipo de célula e têm transmissão parecida.",
+        "whyItIsWrong": "Apenas o HIV causa AIDS; HTLV-1 está ligado a câncer hematológico."
+      },
+      {
+        "option": "C) diabetes.",
+        "likelyReasoning": "Associação indevida entre doenças crônicas comuns.",
+        "misconceptionType": "Generalização inadequada.",
+        "whyItLooksPlausible": "Diabetes aparece frequentemente em discussões de doenças.",
+        "whyItIsWrong": "Aumento de linfócitos T não tem relação causal com diabetes."
+      },
+      {
+        "option": "D) hepatite B.",
+        "likelyReasoning": "Associação errônea entre vírus e doenças virais conhecidas.",
+        "misconceptionType": "Generalização simplista.",
+        "whyItLooksPlausible": "Hepatite B é uma doença viral citada em provas.",
+        "whyItIsWrong": "Hepatite B vem de vírus específico do fígado, não do HTLV-1."
+      },
+      {
+        "option": "E) hemorragia.",
+        "likelyReasoning": "Ideia de que distúrbios sanguíneos podem causar sangramentos.",
+        "misconceptionType": "Interpretação literal.",
+        "whyItLooksPlausible": "Variações no sangue podem lembrar hemorragia a quem não domina o tema.",
+        "whyItIsWrong": "O HTLV-1 não induz hemorragia, mas câncer hematológico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Associação de mecanismos fisiopatológicos a consequências clínicas.",
+      "secondarySkills": [
+        "Leitura crítica de enunciado e eliminação de alternativas incorretas.",
+        "Conhecimento básico sobre mecanismos de oncogênese viral."
+      ],
+      "cognitiveDemand": "Compreensão aplicada da relação causa-efeito em virologia e patologia.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Avalia tanto interpretação do texto, quanto conhecimento prévio factual.",
+        "Utiliza semelhança entre vírus para gerar distração.",
+        "Exige identificação do mecanismo-chave da doença."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🦠",
+      "shortThemeTitle": "Vírus, linfócitos T e câncer",
+      "interpretationIntro": "A questão explora a distinção entre dois importantes retrovírus, destacando efeitos fisiopatológicos distintos sobre as células do sistema imune.",
+      "commandTerms": [
+        {
+          "term": "estimula o aumento",
+          "explanation": "Indica proliferação celular, podendo resultar em patologias relacionadas ao crescimento descontrolado das células."
+        },
+        {
+          "term": "consequência",
+          "explanation": "Solicita identificar um efeito direto ou doença desencadeada pelo mecanismo citado."
+        }
+      ],
+      "whatTheQuestionAsks": "Qual doença pode se desenvolver devido ao aumento da produção de linfócitos T induzido pelo HTLV-1?",
+      "strategyParagraph": "O comando pede a relação direta entre o mecanismo fisiopatológico descrito (proliferação de linfócitos T) e a consequência clínica. Saber que proliferação anormal de células do sistema imunológico é típica de neoplasias hematológicas (câncer) permite resolver de maneira assertiva.",
+      "reviewTable": [
+        {
+          "concept": "HTLV-1",
+          "keyIdea": "Retrovírus que estimula a divisão de linfócitos T.",
+          "application": "Causa proliferação linfocitária, aumentando risco de câncer hematológico."
+        },
+        {
+          "concept": "Câncer hematológico",
+          "keyIdea": "Doenças malignas do sangue, como linfoma e leucemia.",
+          "application": "Resultam da multiplicação descontrolada de linfócitos."
+        },
+        {
+          "concept": "Diferença HIV x HTLV-1",
+          "keyIdea": "Um destrói, outro estimula célula-alvo.",
+          "application": "HIV destrói linfócitos (AIDS); HTLV-1 prolifera linfócitos (câncer)."
+        }
+      ],
+      "theoryParagraphs": [
+        "O HTLV-1 é um retrovírus que infecta linfócitos T, mesmo tipo celular-alvo do HIV. Sua principal característica é estimular a proliferação dessas células.",
+        "Quando há proliferação linfocitária descontrolada, ocorre risco de cânceres hematológicos, como leucemia/linfoma de células T do adulto, classicamente associada à infecção pelo HTLV-1.",
+        "É importante distinguir os efeitos entre retrovírus: enquanto o HIV leva à imunossupressão (AIDS), o HTLV-1 promove doença proliferativa, potencializando câncer hematopoético."
+      ],
+      "resolutionParagraphs": [
+        "Primeiro, identificamos o mecanismo central: o HTLV-1 promove o aumento dos linfócitos T, indicando proliferação celular.",
+        "Em seguida, reconhecemos que a proliferação excessiva e desordenada dessas células está relacionada ao surgimento de cânceres hematológicos.",
+        "Por isso, ao analisarmos as alternativas, descartamos AIDS (ligada ao HIV), diabetes (doença metabólica), hepatite B (vírus hepático) e hemorragia (relacionada à destruição de células ou coagulação). Sobra câncer, que corresponde ao quadro citado.",
+        "Assim, a alternativa B é a única compatível com o mecanismo descrito no enunciado."
+      ],
+      "puloDoGato": "Sempre relacione o tipo celular afetado pelo agente infeccioso com o padrão de doença mais típico, priorizando câncer sempre que houver proliferação descontrolada.",
+      "alternatives": [
+        {
+          "option": "A) aids.",
+          "isCorrect": false,
+          "explanation": "Errada. AIDS é consequência da destruição de linfócitos T pelo HIV e não do aumento dessas células."
+        },
+        {
+          "option": "B) câncer.",
+          "isCorrect": true,
+          "explanation": "Correta. O HTLV-1 pode levar à formação de cânceres, como leucemia e linfoma de células T, devido ao crescimento anormal dos linfócitos."
+        },
+        {
+          "option": "C) diabetes.",
+          "isCorrect": false,
+          "explanation": "Errada. Diabetes está ligada ao metabolismo da glicose e não à proliferação de linfócitos T."
+        },
+        {
+          "option": "D) hepatite B.",
+          "isCorrect": false,
+          "explanation": "Errada. A hepatite B tem agente etiológico próprio e atinge células hepáticas, não linfócitos T."
+        },
+        {
+          "option": "E) hemorragia.",
+          "isCorrect": false,
+          "explanation": "Errada. O aumento de linfócitos T não desencadeia sangramentos; está vinculado a neoplasias do sangue."
+        }
+      ],
+      "questionCode": "CIENCIASNATURIZA_VIROLOGIA_CLINICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "As informações são consistentes, bem fundamentadas e não houve omissão de conceitos relevantes. A lógica editorial dos campos está preservada e a resposta está clara e didática.",
+      "issues": []
+    }
+  }
+}

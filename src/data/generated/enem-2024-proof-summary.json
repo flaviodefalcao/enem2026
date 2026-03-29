@@ -1,7 +1,7 @@
 {
   "metadata": {
     "year": 2024,
-    "sourceDir": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2024"
+    "sourceDir": "/Volumes/ELEMENTS/microdados/output_enem_all_areas_2024"
   },
   "sampleSize": 2373100,
   "generalScoreDistribution": [
@@ -141,7 +141,7 @@
   "topStudents": {
     "threshold": 800,
     "sampleSize": 1391,
-    "ranges": [
+    "scoreRanges": [
       {
         "label": "Linguagens",
         "minScore": 578.2,
@@ -166,6 +166,38 @@
         "label": "Redação",
         "minScore": 800.0,
         "maxScore": 1000.0
+      }
+    ],
+    "accuracyRanges": [
+      {
+        "label": "Linguagens",
+        "minAccuracy": 30.0,
+        "maxAccuracy": 45.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Ciências Humanas",
+        "minAccuracy": 31.0,
+        "maxAccuracy": 45.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Ciências da Natureza",
+        "minAccuracy": 27.0,
+        "maxAccuracy": 44.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Matemática",
+        "minAccuracy": 33.0,
+        "maxAccuracy": 45.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Geral",
+        "minAccuracy": 151.0,
+        "maxAccuracy": 176.0,
+        "maxPossible": 180
       }
     ]
   },

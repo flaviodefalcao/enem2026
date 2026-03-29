@@ -1,5 +1,6 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import {
   CartesianGrid,
   Line,
@@ -34,10 +35,16 @@ type ProofStatsPanelProps = {
   topStudents: {
     threshold: number;
     sampleSize: number;
-    ranges: Array<{
+    scoreRanges: Array<{
       label: string;
       minScore: number;
       maxScore: number;
+    }>;
+    accuracyRanges: Array<{
+      label: string;
+      minAccuracy: number;
+      maxAccuracy: number;
+      maxPossible: number;
     }>;
   };
   areas: Array<{
@@ -54,11 +61,11 @@ type ProofStatsPanelProps = {
 function areaStroke(
   slug: ProofStatsPanelProps["areas"][number]["slug"],
 ) {
-  if (slug === "linguagens") return "#35507a";
-  if (slug === "ciencias-humanas") return "#8e4f40";
-  if (slug === "ciencias-natureza") return "#3e6f5a";
-  if (slug === "matematica") return "#17966b";
-  return "#102033";
+  if (slug === "linguagens") return "#2A4E7A";
+  if (slug === "ciencias-humanas") return "#416899";
+  if (slug === "ciencias-natureza") return "#5B83B7";
+  if (slug === "matematica") return "#6AA5E8";
+  return "#2A4E7A";
 }
 
 function roundedShareDomain(data: DistributionBucket[]) {
@@ -86,11 +93,40 @@ export function ProofStatsPanel({
 }: ProofStatsPanelProps) {
   const generalDistributionMax = roundedShareDomain(generalScoreDistribution);
   const essayDistributionMax = roundedShareDomain(essayDistribution);
+  const [topMode, setTopMode] = useState<"score" | "accuracy">("score");
+  const [activeTopLabel, setActiveTopLabel] = useState<string>(
+    topStudents.scoreRanges[0]?.label ?? topStudents.accuracyRanges[0]?.label ?? "",
+  );
+
+  const topRows = useMemo(() => {
+    if (topMode === "accuracy") {
+      return topStudents.accuracyRanges.map((range) => ({
+        label: range.label,
+        minValue: range.minAccuracy,
+        maxValue: range.maxAccuracy,
+        maxDomain: range.maxPossible,
+        unitLabel: "acertos",
+        summary: `${Math.round(range.minAccuracy)} a ${Math.round(range.maxAccuracy)} acertos`,
+      }));
+    }
+
+    return topStudents.scoreRanges.map((range) => ({
+      label: range.label,
+      minValue: range.minScore,
+      maxValue: range.maxScore,
+      maxDomain: 1000,
+      unitLabel: "nota",
+      summary: `${range.minScore.toFixed(0)} a ${range.maxScore.toFixed(0)}`,
+    }));
+  }, [topMode, topStudents.accuracyRanges, topStudents.scoreRanges]);
+
+  const activeTopRow =
+    topRows.find((row) => row.label === activeTopLabel) ?? topRows[0] ?? null;
 
   return (
     <section className="rounded-[32px] border border-white/70 bg-white/82 p-6 shadow-card backdrop-blur sm:p-8">
       <div>
-        <span className="inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#8a6a22]">
+        <span className="inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#4f79b0]">
           Visão completa
         </span>
         <h2 className="mt-4 font-display text-3xl leading-tight text-ink sm:text-4xl">
@@ -118,7 +154,7 @@ export function ProofStatsPanel({
           <div className="mt-4 h-72">
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={generalScoreDistribution}>
-                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e5edf5" />
+                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e3edf9" />
                 <XAxis
                   dataKey="faixa"
                   axisLine={false}
@@ -148,9 +184,9 @@ export function ProofStatsPanel({
                 <Line
                   type="monotone"
                   dataKey="share"
-                  stroke="#102033"
+                  stroke="#2A4E7A"
                   strokeWidth={3}
-                  dot={{ r: 3, fill: "#102033" }}
+                  dot={{ r: 3, fill: "#2A4E7A" }}
                   activeDot={{ r: 6 }}
                 />
               </LineChart>
@@ -171,7 +207,7 @@ export function ProofStatsPanel({
           <div className="mt-4 h-72">
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={essayDistribution}>
-                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e5edf5" />
+                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e3edf9" />
                 <XAxis
                   dataKey="faixa"
                   axisLine={false}
@@ -201,9 +237,9 @@ export function ProofStatsPanel({
                 <Line
                   type="monotone"
                   dataKey="share"
-                  stroke="#d96c3f"
+                  stroke="#6AA5E8"
                   strokeWidth={3}
-                  dot={{ r: 3, fill: "#d96c3f" }}
+                  dot={{ r: 3, fill: "#6AA5E8" }}
                   activeDot={{ r: 6 }}
                 />
               </LineChart>
@@ -265,7 +301,7 @@ export function ProofStatsPanel({
                         maxAcertos: Math.round(entry.maxAcertos),
                       }))}
                   >
-                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e5edf5" />
+                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e3edf9" />
                     <XAxis
                       dataKey="faixa"
                       axisLine={false}
@@ -305,7 +341,7 @@ export function ProofStatsPanel({
                       type="monotone"
                       dataKey="minAcertos"
                       name="Mínimo"
-                      stroke="#c7d3e3"
+                      stroke="#bfd4ef"
                       strokeWidth={2}
                       dot={false}
                       activeDot={{ r: 4 }}
@@ -323,7 +359,7 @@ export function ProofStatsPanel({
                       type="monotone"
                       dataKey="maxAcertos"
                       name="Máximo"
-                      stroke="#d96c3f"
+                      stroke="#6AA5E8"
                       strokeWidth={2}
                       dot={false}
                       activeDot={{ r: 4 }}
@@ -349,56 +385,117 @@ export function ProofStatsPanel({
 
       <div className="mt-6">
         <div className="mb-4">
-          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-            Alunos top
-          </p>
-          <h3 className="mt-2 text-2xl font-semibold text-ink">
-            Menor e maior nota entre quem fechou média geral 800+
-          </h3>
-          <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-600">
-            O corte aqui é simples: alunos com média geral acima de {topStudents.threshold}.
-            O painel mostra, em cada área e na redação, qual foi a menor nota e qual foi
-            a maior nota observada dentro desse grupo.
-          </p>
-          <p className="mt-2 text-xs uppercase tracking-[0.14em] text-slate-400">
-            Grupo top: {topStudents.sampleSize.toLocaleString("pt-BR")} alunos
-          </p>
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+                Alunos top
+              </p>
+              <h3 className="mt-2 text-2xl font-semibold text-ink">
+                {topMode === "score"
+                  ? "Menor e maior nota entre quem fechou média geral 800+"
+                  : "Faixa de acertos entre quem fechou média geral 800+"}
+              </h3>
+              <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-600">
+                O corte aqui é simples: alunos com média geral acima de {topStudents.threshold}.
+                {topMode === "score"
+                  ? " O painel mostra, em cada área e na redação, qual foi a menor nota e qual foi a maior nota observada dentro desse grupo."
+                  : " O painel mostra, em cada área e no total da prova, qual foi a menor e a maior faixa de acertos observada dentro desse grupo."}
+              </p>
+              <p className="mt-2 text-xs uppercase tracking-[0.14em] text-slate-400">
+                Grupo top: {topStudents.sampleSize.toLocaleString("pt-BR")} alunos
+              </p>
+            </div>
+
+            <div className="inline-flex rounded-full border border-slate-200 bg-white p-1 shadow-sm">
+              <button
+                type="button"
+                onClick={() => {
+                  setTopMode("score");
+                  setActiveTopLabel(topStudents.scoreRanges[0]?.label ?? "");
+                }}
+                className={`rounded-full px-4 py-2 text-sm font-semibold transition ${
+                  topMode === "score"
+                    ? "bg-ink text-white"
+                    : "text-slate-600 hover:text-ink"
+                }`}
+              >
+                Por nota
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setTopMode("accuracy");
+                  setActiveTopLabel(topStudents.accuracyRanges[0]?.label ?? "");
+                }}
+                className={`rounded-full px-4 py-2 text-sm font-semibold transition ${
+                  topMode === "accuracy"
+                    ? "bg-clay text-white"
+                    : "text-slate-600 hover:text-ink"
+                }`}
+              >
+                Por acertos
+              </button>
+            </div>
+          </div>
         </div>
 
         <article className="rounded-[28px] border border-slate-200/80 bg-slate-50 p-5">
+          {activeTopRow ? (
+            <div className="mb-5 rounded-[22px] border border-slate-200/80 bg-white px-4 py-4">
+              <p className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
+                Seleção atual
+              </p>
+              <div className="mt-2 flex flex-wrap items-baseline justify-between gap-3">
+                <p className="text-xl font-semibold text-ink">{activeTopRow.label}</p>
+                <p className="text-base font-medium text-slate-600">{activeTopRow.summary}</p>
+              </div>
+            </div>
+          ) : null}
+
           <div className="space-y-5">
-            {topStudents.ranges.map((range) => {
-              const left = `${(range.minScore / 1000) * 100}%`;
-              const width = `${Math.max(((range.maxScore - range.minScore) / 1000) * 100, 1)}%`;
+            {topRows.map((range) => {
+              const left = `${(range.minValue / range.maxDomain) * 100}%`;
+              const width = `${Math.max(((range.maxValue - range.minValue) / range.maxDomain) * 100, 1)}%`;
+              const isActive = range.label === activeTopRow?.label;
+              const middleTick = Math.round(range.maxDomain / 2);
 
               return (
-                <div key={range.label}>
+                <button
+                  key={range.label}
+                  type="button"
+                  onClick={() => setActiveTopLabel(range.label)}
+                  className={`block w-full rounded-[24px] border px-4 py-4 text-left transition ${
+                    isActive
+                      ? "border-clay/30 bg-white shadow-sm"
+                      : "border-transparent bg-transparent hover:border-slate-200/80 hover:bg-white/70"
+                  }`}
+                >
                   <div className="mb-2 flex items-center justify-between gap-4">
                     <span className="text-base font-semibold text-ink">{range.label}</span>
                     <span className="text-sm text-slate-500">
-                      {range.minScore.toFixed(0)} a {range.maxScore.toFixed(0)}
+                      {range.summary}
                     </span>
                   </div>
-                  <div className="relative h-12 rounded-full bg-slate-200/80">
+                  <div className="relative h-12 rounded-full bg-[#dbe8f8]">
                     <div
-                      className="absolute top-1/2 h-2 -translate-y-1/2 rounded-full bg-gradient-to-r from-[#d96c3f] via-[#8e4f40] to-[#102033]"
+                      className="absolute top-1/2 h-2 -translate-y-1/2 rounded-full bg-gradient-to-r from-[#d6e6ff] via-[#6AA5E8] to-[#2A4E7A]"
                       style={{ left, width }}
                     />
                     <div
-                      className="absolute top-1/2 h-4 w-4 -translate-y-1/2 rounded-full border-2 border-white bg-[#d96c3f] shadow-sm"
+                      className="absolute top-1/2 h-4 w-4 -translate-y-1/2 rounded-full border-2 border-white bg-[#6AA5E8] shadow-sm"
                       style={{ left: `calc(${left} - 8px)` }}
                     />
                     <div
-                      className="absolute top-1/2 h-4 w-4 -translate-y-1/2 rounded-full border-2 border-white bg-[#102033] shadow-sm"
-                      style={{ left: `calc(${(range.maxScore / 1000) * 100}% - 8px)` }}
+                      className="absolute top-1/2 h-4 w-4 -translate-y-1/2 rounded-full border-2 border-white bg-[#2A4E7A] shadow-sm"
+                      style={{ left: `calc(${(range.maxValue / range.maxDomain) * 100}% - 8px)` }}
                     />
                   </div>
                   <div className="mt-2 flex items-center justify-between text-xs uppercase tracking-[0.14em] text-slate-400">
                     <span>0</span>
-                    <span>500</span>
-                    <span>1000</span>
+                    <span>{middleTick}</span>
+                    <span>{range.maxDomain}</span>
                   </div>
-                </div>
+                </button>
               );
             })}
           </div>

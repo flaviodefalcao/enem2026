@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:36:04.384Z",
+  "questionId": "enem-2024-ciencias-natureza-q113",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A técnica RT-PCR é usada para detectar genes que estão ativos em uma célula, ou seja, aqueles que estão sendo expressos, porque ela converte o RNA mensageiro produzido por esses genes em DNA complementar para análise.",
+      "stepByStep": [
+        "Entenda que a RT-PCR começa com a transcriptase reversa para transformar moléculas de RNA em DNA complementar (cDNA).",
+        "Saiba que o RNA utilizado na técnica geralmente é o RNA mensageiro (mRNA), que é síntese dos genes que estão ativos/expressionados.",
+        "Conclua que, ao detectar o cDNA gerado de mRNA, a técnica indica quais genes estão sendo expressos na célula.",
+        "Compare as alternativas e escolha aquela que relaciona a técnica à detecção de genes ativos, ou seja, expressos."
+      ],
+      "commonPitfalls": [
+        "Confundir RT-PCR com PCR convencional, que detecta DNA, não expressão gênica.",
+        "Assumir que RT-PCR detecta genes presentes (independente se estão ativos) ou específicos de plasmídeos.",
+        "Interpretar incorretamente o conceito de genes dominantes ou autossômicos como alvo da técnica.",
+        "Pensar que RT-PCR identifica genes bacterianos exclusivamente, quando identifica expressão gênica em geral."
+      ],
+      "teachingTips": [
+        "Explique a diferença entre PCR convencional e RT-PCR, focando na conversão do RNA em DNA.",
+        "Use analogias do processo celular de transcrição para evidenciar o que é expressão gênica.",
+        "Apresente exemplos práticos de uso da RT-PCR, como diagnóstico de doenças virais que detectam RNA viral ativo.",
+        "Incentive a leitura cuidadosa do enunciado para identificar termos-chave, como \"enzima transcriptase reversa\" e \"DNA complementares a partir de RNA\"."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1250,
+    "outputTokens": 366,
+    "estimatedCostUsd": 0.001086
+  }
+}

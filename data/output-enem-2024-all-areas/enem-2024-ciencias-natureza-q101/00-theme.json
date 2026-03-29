@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:36:22.612Z",
+  "questionId": "enem-2024-ciencias-natureza-q101",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Eletricidade e magnetismo",
+    "rationale": "A questão trata da geração de eletricidade por meio da interação entre uma camada de grafeno e íons dissociados na água da chuva, resultando em movimento de elétrons e diferença de potencial elétrico. Esse fenômeno está diretamente relacionado aos conceitos de eletricidade e magnetismo, incluindo a diferença de potencial e o movimento dos elétrons, o que está alinhado com o tema 'Física' e subtema 'Eletricidade e magnetismo'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1522,
+    "outputTokens": 120,
+    "estimatedCostUsd": 0.000801
+  }
+}

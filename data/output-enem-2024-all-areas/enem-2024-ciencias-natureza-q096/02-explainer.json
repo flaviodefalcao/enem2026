@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:30:26.535Z",
+  "questionId": "enem-2024-ciencias-natureza-q096",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os dois compostos apresentados possuem em comum o grupo funcional ácido carboxílico (COOH), que é fundamental para as propriedades desses pesticidas naturais. Esse grupo é caracterizado por um carbono ligado a um oxigênio por uma dupla ligação (carbonila) e um grupo hidroxila (OH).",
+      "stepByStep": [
+        "Observe a estrutura do Composto 1 e identifique os grupos presentes; destaque o grupo COOH (ácido carboxílico) e o grupo OH ligado ao anel aromático (fenol).",
+        "Observe a estrutura do Composto 2 e localize o grupo COOH presente na cadeia lateral.",
+        "Compare as estruturas para identificar o grupo funcional comum aos dois compostos, que é o ácido carboxílico (COOH).",
+        "Revise as alternativas da questão para escolher a função orgânica que corresponde ao grupo funcional comum encontrado."
+      ],
+      "commonPitfalls": [
+        "Confundir o grupo ácido carboxílico com a cetona, pois ambos possuem carbono com dupla ligação ao oxigênio.",
+        "Associar incorretamente as ligações duplas carbono-carbono (C=C) como grupo funcional comum, quando elas não são o grupo funcional predominante nos compostos.",
+        "Considerar o grupo hidroxila (OH) do composto 1 como grupo álcool comum, sem notar que ele é ligado a um anel aromático (fenol) e não está presente no composto 2.",
+        "Interpretar o grupo fenol como o grupo funcional comum, quando ele aparece apenas no composto 1."
+      ],
+      "teachingTips": [
+        "Reforce a importância de analisar cuidadosamente todas as partes da estrutura química, identificando corretamente cada grupo funcional.",
+        "Explique a diferença entre grupos que possuem carbono com ligação dupla ao oxigênio, como cetona e ácido carboxílico, destacando a presença do grupo OH no ácido carboxílico.",
+        "Utilize exemplos visuais de diferentes grupos funcionais para facilitar a identificação e comparação entre compostos.",
+        "Contextualize o conteúdo mostrando a aplicabilidade da química orgânica na agricultura e no desenvolvimento sustentável, relacionando a teoria com a prática."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1724,
+    "outputTokens": 434,
+    "estimatedCostUsd": 0.001384
+  }
+}

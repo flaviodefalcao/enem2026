@@ -1,0 +1,90 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:52:14.352Z",
+  "questionId": "enem-2024-ciencias-natureza-q103",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D) IV.",
+      "correctnessClaim": "Correta, conforme o gabarito.",
+      "strategy": "Selecionar no ciclo de Otto qual etapa efetivamente converte energia térmica (da combustão) em energia mecânica (útil), identificando no diagrama e tabela de descrições qual processo corresponde a essa conversão.",
+      "steps": [
+        "O ciclo de Otto possui etapas bem definidas: admissão, compressão, combustão (adição de calor), expansão e exaustão.",
+        "A energia térmica é transformada em energia útil (trabalho) na etapa em que ocorre a expansão rápida dos gases resultantes da combustão: expansão adiabática.",
+        "Segundo o quadro fornecido, a expansão adiabática corresponde à etapa IV (3 a 4). Esta é a etapa onde o pistão realiza trabalho sobre o eixo do motor, transformando energia térmica da combustão em energia mecânica.",
+        "As demais etapas envolvem admissão, compressão, entrada de calor, rejeição de calor e exaustão, mas não representam a transformação em energia útil para o motor.",
+        "Portanto, a alternativa correta é a etapa IV."
+      ],
+      "formulasUsed": [
+        "Trabalho do gás em expansão adiabática: W = (P2V2 - P1V1)/(γ-1) para processos adiabáticos.",
+        "Primeira Lei da Termodinâmica: ΔU = Q - W."
+      ],
+      "visualEvidenceUsed": [
+        "Gráfico P-V: identificação do processo 3-4 como expansão adiabática.",
+        "Tabela de etapas: relação entre descrições e processos do ciclo de Otto."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) II.",
+        "likelyReasoning": "O estudante pode pensar que compressão da mistura já converte energia em trabalho mecânico útil.",
+        "misconceptionType": "Confusão de processos termodinâmicos",
+        "whyItLooksPlausible": "É a etapa em que o pistão sobe, comprimindo gases; parte do processo mecânico.",
+        "whyItIsWrong": "A energia está sendo armazenada como energia interna, e não sendo convertida em trabalho útil; ainda não houve combustão."
+      },
+      {
+        "option": "B) III.",
+        "likelyReasoning": "O aluno identifica a introdução de energia (calor da combustão) como a conversão em energia útil.",
+        "misconceptionType": "Confusão entre entrada de energia e processo útil",
+        "whyItLooksPlausible": "Parece ser o ponto em que ocorre a transformação de energia.",
+        "whyItIsWrong": "Neste estágio, ocorre apenas a transferência de calor para o gás; a conversão real ocorre na expansão a seguir."
+      },
+      {
+        "option": "C) IV.",
+        "likelyReasoning": "É a opção correta. Identifica corretamente a etapa da expansão adiabática.",
+        "misconceptionType": "N/A",
+        "whyItLooksPlausible": "Correto.",
+        "whyItIsWrong": "Não é errado. É a alternativa correta."
+      },
+      {
+        "option": "D) V.",
+        "likelyReasoning": "Pode-se pensar que a liberação de calor já é o processo útil, pois envolve energia saindo.",
+        "misconceptionType": "Confusão entre remoção de energia e conversão útil",
+        "whyItLooksPlausible": "Soa com alguma ação energética importante.",
+        "whyItIsWrong": "Trata-se apenas de dissipação de calor, não conversão em trabalho útil."
+      },
+      {
+        "option": "E) VI.",
+        "likelyReasoning": "O aluno pode associar a liberação dos gases à conversão energética por confusão com funcionamento global do motor.",
+        "misconceptionType": "Supergeneralização do funcionamento do motor",
+        "whyItLooksPlausible": "A saída dos gases parece o passo final de energia.",
+        "whyItIsWrong": "Essa etapa apenas remove os resíduos, não envolve conversão de energia térmica em trabalho útil."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de processos termodinâmicos (ciclos de motores térmicos)",
+      "secondarySkills": [
+        "Interpretação de diagramas P-V",
+        "Análise de tabelas descritivas",
+        "Aplicação da Primeira Lei da Termodinâmica"
+      ],
+      "cognitiveDemand": "Reconhecimento de processos e análise inter-relacionada de informações visuais e conceituais.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O item exige mapeamento das fases do ciclo Otto às etapas do motor.",
+        "Demanda integração entre o diagrama e a tabela descritiva.",
+        "Não requer contas, mas sim compreensão de física e visualização."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1733,
+    "outputTokens": 1104,
+    "estimatedCostUsd": 0.012298
+  }
+}

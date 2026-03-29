@@ -1,0 +1,2037 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2017/ENEM_2017_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      91,
+      135
+    ],
+    "year": 2017,
+    "areaLabel": "Ciências da Natureza",
+    "areaSlug": "ciencias-natureza"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 91,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 91 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        2
+      ],
+      "statement": "Um fato corriqueiro ao se cozinhar arroz é o\nderramamento de parte da água de cozimento sobre a\nchama azul do fogo, mudando-a para uma chama amarela.\nEssa mudança de cor pode suscitar interpretações\ndiversas, relacionadas às substâncias presentes na água\nde cozimento. Além do sal de cozinha (NaCl), nela se\nencontram carboidratos, proteínas e sais minerais.\nCientificamente, sabe-se que essa mudança de cor da\nchama ocorre pela",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "reação do gás de cozinha com o sal, volatilizando gás cloro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "emissão de fótons pelo sódio, excitado por causa da chama.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "produção de derivado amarelo, pela reação com o carboidrato.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "reação do gás de cozinha com a água, formando gás hidrogênio.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "excitação das moléculas de proteínas, com formação de luz amarela.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um fato corriqueiro ao se cozinhar arroz é o\nderramamento de parte da água de cozimento sobre a\nchama azul do fogo, mudando-a para uma chama amarela.\nEssa mudança de cor pode suscitar interpretações\ndiversas, relacionadas às substâncias presentes na água\nde cozimento. Além do sal de cozinha (NaCl), nela se\nencontram carboidratos, proteínas e sais minerais.\nCientificamente, sabe-se que essa mudança de cor da\nchama ocorre pela\n\nA. reação do gás de cozinha com o sal, volatilizando gás cloro.\nB. emissão de fótons pelo sódio, excitado por causa da chama.\nC. produção de derivado amarelo, pela reação com o carboidrato.\nD. reação do gás de cozinha com a água, formando gás hidrogênio.\nE. excitação das moléculas de proteínas, com formação de luz amarela."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 92,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 92 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        2
+      ],
+      "statement": "A classificação biológica proposta por Whittaker\npermite distinguir cinco grandes linhas evolutivas\nutilizando, como critérios de classificação, a organização\ncelular e o modo de nutrição. Woese e seus colaboradores,\ncom base na comparação das sequências que codificam\no RNA ribossômico dos seres vivos, estabeleceram\nrelações de ancestralidade entre os grupos e concluíram\nque os procariontes do reino Monera não eram um grupo\ncoeso do ponto de vista evolutivo.\n\nA diferença básica nas classificações citadas é que a\nmais recente se baseia fundamentalmente em",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-92/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-92/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "tipos de células.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "aspectos ecológicos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "relações filogenéticas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "propriedades fisiológicas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "características morfológicas.",
+          "assets": []
+        }
+      ],
+      "rawText": "A classificação biológica proposta por Whittaker\npermite distinguir cinco grandes linhas evolutivas\nutilizando, como critérios de classificação, a organização\ncelular e o modo de nutrição. Woese e seus colaboradores,\ncom base na comparação das sequências que codificam\no RNA ribossômico dos seres vivos, estabeleceram\nrelações de ancestralidade entre os grupos e concluíram\nque os procariontes do reino Monera não eram um grupo\ncoeso do ponto de vista evolutivo.\n\nA diferença básica nas classificações citadas é que a\nmais recente se baseia fundamentalmente em\n\nA. tipos de células.\nB. aspectos ecológicos.\nC. relações filogenéticas.\nD. propriedades fisiológicas.\nE. características morfológicas."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 93,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 93 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        2
+      ],
+      "statement": "Em uma colisão frontal entre dois automóveis, a\nforça que o cinto de segurança exerce sobre o tórax e\nabdômen do motorista pode causar lesões graves nos\nórgãos internos. Pensando na segurança do seu produto,\num fabricante de automóveis realizou testes em cinco\nmodelos diferentes de cinto. Os testes simularam uma\ncolisão de 0,30 segundo de duração, e os bonecos que\nrepresentavam os ocupantes foram equipados com\nacelerômetros. Esse equipamento registra o módulo\nda desaceleração do boneco em função do tempo.\nOs parâmetros como massa dos bonecos, dimensões dos\ncintos e velocidade imediatamente antes e após o impacto\nforam os mesmos para todos os testes. O resultado final\nobtido está no gráfico de aceleração por tempo.\n\nCinto 1\nCinto 2\nCinto 3\nCinto 4\nCinto 5\n\nQual modelo de cinto oferece menor risco de lesão interna\nao motorista?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-93/statement-01.png",
+        "/generated/enem-2017/ciencias-natureza/question-93/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-93/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma colisão frontal entre dois automóveis, a\nforça que o cinto de segurança exerce sobre o tórax e\nabdômen do motorista pode causar lesões graves nos\nórgãos internos. Pensando na segurança do seu produto,\num fabricante de automóveis realizou testes em cinco\nmodelos diferentes de cinto. Os testes simularam uma\ncolisão de 0,30 segundo de duração, e os bonecos que\nrepresentavam os ocupantes foram equipados com\nacelerômetros. Esse equipamento registra o módulo\nda desaceleração do boneco em função do tempo.\nOs parâmetros como massa dos bonecos, dimensões dos\ncintos e velocidade imediatamente antes e após o impacto\nforam os mesmos para todos os testes. O resultado final\nobtido está no gráfico de aceleração por tempo.\n\nCinto 1\nCinto 2\nCinto 3\nCinto 4\nCinto 5\n\nQual modelo de cinto oferece menor risco de lesão interna\nao motorista?\n\nA. 1\nB. 2\nC. 3\nD. 4\nE. 5"
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 94,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 94 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "statement": "Pesquisadores criaram um tipo de plaqueta artificial,\nfeita com um polímero gelatinoso coberto de anticorpos,\nque promete agilizar o processo de coagulação quando\ninjetada no corpo. Se houver sangramento, esses\nanticorpos fazem com que a plaqueta mude sua forma\ne se transforme em uma espécie de rede que gruda nas\nlesões dos vasos sanguíneos e da pele.\nMOUTINHO, S. Coagulação acelerada. Disponível em: http://cienciahoje.uol.com.br.\nAcesso em: 19 fev. 2013 (adaptado).\nQual a doença cujos pacientes teriam melhora de seu\nestado de saúde com o uso desse material?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Filariose.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Hemofilia.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Aterosclerose.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Doença de Chagas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Síndrome da imunodeficiência adquirida. *DO0525AM2* CN - 2º dia | Caderno 5 - AMARELO - Página 3",
+          "assets": []
+        }
+      ],
+      "rawText": "Pesquisadores criaram um tipo de plaqueta artificial,\nfeita com um polímero gelatinoso coberto de anticorpos,\nque promete agilizar o processo de coagulação quando\ninjetada no corpo. Se houver sangramento, esses\nanticorpos fazem com que a plaqueta mude sua forma\ne se transforme em uma espécie de rede que gruda nas\nlesões dos vasos sanguíneos e da pele.\nMOUTINHO, S. Coagulação acelerada. Disponível em: http://cienciahoje.uol.com.br.\nAcesso em: 19 fev. 2013 (adaptado).\nQual a doença cujos pacientes teriam melhora de seu\nestado de saúde com o uso desse material?\n\nA. Filariose.\nB. Hemofilia.\nC. Aterosclerose.\nD. Doença de Chagas.\nE. Síndrome da imunodeficiência adquirida. *DO0525AM2* CN - 2º dia | Caderno 5 - AMARELO - Página 3"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 95,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 95 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        3
+      ],
+      "statement": "A farinha de linhaça dourada é um produto natural que\noferece grandes benefícios para o nosso organismo. A maior\nparte dos nutrientes da linhaça encontra-se no óleo desta\nsemente, rico em substâncias lipossolúveis com massas\nmoleculares elevadas. A farinha também apresenta altos\nteores de fibras proteicas insolúveis em água, celulose,\nvitaminas lipossolúveis e sais minerais hidrossolúveis.\nConsidere o esquema, que resume um processo de\nseparação dos componentes principais da farinha de\nlinhaça dourada.\n\nAdição de éter etílico, seguida de agitação\nExtrato etéreo\n(fase orgânica)\n\nExtrato aquoso\nFarinha de linhaça\n\nAdição de água, seguida de agitação\nFiltração\n\nFiltração\nDestilado 1\nDestilação\n\nDestilação\nDestilado 2\nResíduo 1\n\nResíduo 2\nResíduo 3\nResíduo 4\n\nO óleo de linhaça será obtido na fração",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Destilado 1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Destilado 2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Resíduo 2.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Resíduo 3.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Resíduo 4.",
+          "assets": []
+        }
+      ],
+      "rawText": "A farinha de linhaça dourada é um produto natural que\noferece grandes benefícios para o nosso organismo. A maior\nparte dos nutrientes da linhaça encontra-se no óleo desta\nsemente, rico em substâncias lipossolúveis com massas\nmoleculares elevadas. A farinha também apresenta altos\nteores de fibras proteicas insolúveis em água, celulose,\nvitaminas lipossolúveis e sais minerais hidrossolúveis.\nConsidere o esquema, que resume um processo de\nseparação dos componentes principais da farinha de\nlinhaça dourada.\n\nAdição de éter etílico, seguida de agitação\nExtrato etéreo\n(fase orgânica)\n\nExtrato aquoso\nFarinha de linhaça\n\nAdição de água, seguida de agitação\nFiltração\n\nFiltração\nDestilado 1\nDestilação\n\nDestilação\nDestilado 2\nResíduo 1\n\nResíduo 2\nResíduo 3\nResíduo 4\n\nO óleo de linhaça será obtido na fração\n\nA. Destilado 1.\nB. Destilado 2.\nC. Resíduo 2.\nD. Resíduo 3.\nE. Resíduo 4."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 96,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 96 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        3
+      ],
+      "statement": "O biodiesel é um biocombustível obtido a partir de\nfontes renováveis, que surgiu como alternativa ao uso do\ndiesel de petróleo para motores de combustão interna.\nEle pode ser obtido pela reação entre triglicerídeos,\npresentes em óleos vegetais e gorduras animais, entre\noutros, e álcoois de baixa massa molar, como o metanol\nou etanol, na presença de um catalisador, de acordo com\na equação química:\n\nCH\nCH\nCH\nCH\nOH\nOH\nOH\nCH\n\nA função química presente no produto que representa o\nbiodiesel é",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-96/statement-01.png",
+        "/generated/enem-2017/ciencias-natureza/question-96/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-96/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "éter.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "éster.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "álcool.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "cetona.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ácido carboxílico.",
+          "assets": []
+        }
+      ],
+      "rawText": "O biodiesel é um biocombustível obtido a partir de\nfontes renováveis, que surgiu como alternativa ao uso do\ndiesel de petróleo para motores de combustão interna.\nEle pode ser obtido pela reação entre triglicerídeos,\npresentes em óleos vegetais e gorduras animais, entre\noutros, e álcoois de baixa massa molar, como o metanol\nou etanol, na presença de um catalisador, de acordo com\na equação química:\n\nCH\nCH\nCH\nCH\nOH\nOH\nOH\nCH\n\nA função química presente no produto que representa o\nbiodiesel é\n\nA. éter.\nB. éster.\nC. álcool.\nD. cetona.\nE. ácido carboxílico."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 97,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 97 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        3
+      ],
+      "statement": "As centrífugas são equipamentos utilizados em\nlaboratórios, clínicas e indústrias. Seu funcionamento faz\nuso da aceleração centrífuga obtida pela rotação de um\nrecipiente e que serve para a separação de sólidos em\nsuspensão em líquidos ou de líquidos misturados entre si.",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-97/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-97/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "As centrífugas são equipamentos utilizados em\nlaboratórios, clínicas e indústrias. Seu funcionamento faz\nuso da aceleração centrífuga obtida pela rotação de um\nrecipiente e que serve para a separação de sólidos em\nsuspensão em líquidos ou de líquidos misturados entre si.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 98,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 98 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "statement": "Célula híbrida\n\nAnticorpos contra proteína de\nmembrana de camundongo,\nmarcados com fluoresceína.\nAnticorpos contra proteína\nde membrana humana,\nmarcados com rodamina.\nIncubação a 37 °C\nProteína da\nmembrana\n\nTempo = 0 minuto\n\nTempo = 40 minutos\nProteína da\nmembrana\n\nFusão celular\nETAPA 1\n\nETAPA 2\n\nETAPA 3\n\nETAPA 4\n\nALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1997 (adaptado).\nA mudança observada da etapa 3 para a etapa 4 do\nexperimento ocorre porque as proteínas\nA movimentam-se livremente no plano da bicamada\nlipídica.\nB permanecem confinadas em determinadas regiões\nda bicamada.\nC auxiliam o deslocamento dos fosfolipídios da\nmembrana plasmática.\nD são mobilizadas em razão da inserção de anticorpos.\nE são bloqueadas pelos anticorpos.\n*DO0525AM3*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 4",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-98/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-98/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Célula híbrida\n\nAnticorpos contra proteína de\nmembrana de camundongo,\nmarcados com fluoresceína.\nAnticorpos contra proteína\nde membrana humana,\nmarcados com rodamina.\nIncubação a 37 °C\nProteína da\nmembrana\n\nTempo = 0 minuto\n\nTempo = 40 minutos\nProteína da\nmembrana\n\nFusão celular\nETAPA 1\n\nETAPA 2\n\nETAPA 3\n\nETAPA 4\n\nALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1997 (adaptado).\nA mudança observada da etapa 3 para a etapa 4 do\nexperimento ocorre porque as proteínas\nA movimentam-se livremente no plano da bicamada\nlipídica.\nB permanecem confinadas em determinadas regiões\nda bicamada.\nC auxiliam o deslocamento dos fosfolipídios da\nmembrana plasmática.\nD são mobilizadas em razão da inserção de anticorpos.\nE são bloqueadas pelos anticorpos.\n*DO0525AM3*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 99,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 99 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        4
+      ],
+      "statement": "A figura mostra como é a emissão de radiação\neletromagnética para cinco tipos de lâmpada: haleto\nmetálico, tungstênio, mercúrio, xênon e LED (diodo\nemissor de luz). As áreas marcadas em cinza são\nproporcionais à intensidade da energia liberada pela\nlâmpada. As linhas pontilhadas mostram a sensibilidade\ndo olho humano aos diferentes comprimentos de onda.\nUV e IV são as regiões do ultravioleta e do infravermelho,\nrespectivamente.\nUm arquiteto deseja iluminar uma sala usando uma\nlâmpada que produza boa iluminação, mas que não\naqueça o ambiente.\n\nHaleto metálico\n\nTungstênio\n\nMercúrio\n\nXênon\nIntensidade emitida\n\nLED\n\nDisponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-99/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-99/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Haleto metálico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Tungstênio.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Mercúrio.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Xênon.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "LED.",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura mostra como é a emissão de radiação\neletromagnética para cinco tipos de lâmpada: haleto\nmetálico, tungstênio, mercúrio, xênon e LED (diodo\nemissor de luz). As áreas marcadas em cinza são\nproporcionais à intensidade da energia liberada pela\nlâmpada. As linhas pontilhadas mostram a sensibilidade\ndo olho humano aos diferentes comprimentos de onda.\nUV e IV são as regiões do ultravioleta e do infravermelho,\nrespectivamente.\nUm arquiteto deseja iluminar uma sala usando uma\nlâmpada que produza boa iluminação, mas que não\naqueça o ambiente.\n\nHaleto metálico\n\nTungstênio\n\nMercúrio\n\nXênon\nIntensidade emitida\n\nLED\n\nDisponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?\n\nA. Haleto metálico.\nB. Tungstênio.\nC. Mercúrio.\nD. Xênon.\nE. LED."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 100,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 100 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        4
+      ],
+      "statement": "Partículas microscópicas existentes na atmosfera\nfuncionam como núcleos de condensação de vapor de\nágua que, sob condições adequadas de temperatura\ne pressão, propiciam a formação das nuvens e\nconsequentemente das chuvas. No ar atmosférico, tais\npartículas são formadas pela reação de ácidos (HX)\ncom a base NH₃, de forma natural ou antropogênica,\ndando origem a sais de amônio (NH₄X), de acordo com a\nequação química genérica:\n\nFELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida.\nQuímica Nova na Escola, n. 21, maio 2005 (adaptado).\nA fixação de moléculas de vapor de água pelos núcleos\nde condensação ocorre por",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-100/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-100/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ligações iônicas.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "interações dipolo-dipolo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "interações dipolo-dipolo induzido.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "interações íon-dipolo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ligações covalentes.",
+          "assets": []
+        }
+      ],
+      "rawText": "Partículas microscópicas existentes na atmosfera\nfuncionam como núcleos de condensação de vapor de\nágua que, sob condições adequadas de temperatura\ne pressão, propiciam a formação das nuvens e\nconsequentemente das chuvas. No ar atmosférico, tais\npartículas são formadas pela reação de ácidos (HX)\ncom a base NH₃, de forma natural ou antropogênica,\ndando origem a sais de amônio (NH₄X), de acordo com a\nequação química genérica:\n\nFELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida.\nQuímica Nova na Escola, n. 21, maio 2005 (adaptado).\nA fixação de moléculas de vapor de água pelos núcleos\nde condensação ocorre por\n\nA. ligações iônicas.\nB. interações dipolo-dipolo.\nC. interações dipolo-dipolo induzido.\nD. interações íon-dipolo.\nE. ligações covalentes."
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 101,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 101 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "statement": "Em uma linha de transmissão de informações por\nfibra óptica, quando um sinal diminui sua intensidade para\nvalores inferiores a 10 dB, este precisa ser retransmitido.\nNo entanto, intensidades superiores a 100 dB não podem\nser transmitidas adequadamente. A figura apresenta\ncomo se dá a perda de sinal (perda óptica) para diferentes\ncomprimentos de onda para certo tipo de fibra óptica.\n\nAtenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br.\nAcesso em: 25 maio 2017 (adaptado).\nQual é a máxima distância, em km, que um sinal pode ser\nenviado nessa fibra sem ser necessária uma retransmissão?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-101/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-101/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "60",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "90",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "100 *DO0525AM4* CN - 2º dia | Caderno 5 - AMARELO - Página 5",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma linha de transmissão de informações por\nfibra óptica, quando um sinal diminui sua intensidade para\nvalores inferiores a 10 dB, este precisa ser retransmitido.\nNo entanto, intensidades superiores a 100 dB não podem\nser transmitidas adequadamente. A figura apresenta\ncomo se dá a perda de sinal (perda óptica) para diferentes\ncomprimentos de onda para certo tipo de fibra óptica.\n\nAtenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br.\nAcesso em: 25 maio 2017 (adaptado).\nQual é a máxima distância, em km, que um sinal pode ser\nenviado nessa fibra sem ser necessária uma retransmissão?\n\nA. 6\nB. 18\nC. 60\nD. 90\nE. 100 *DO0525AM4* CN - 2º dia | Caderno 5 - AMARELO - Página 5"
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 102,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 102 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        5
+      ],
+      "statement": "A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo\npresente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de₁₄C\nse reduz pela metade a cada 5 730 anos.\nA prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).\nConsidere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de\nradiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é\nA 450.\nB 1 433.\nC 11 460.\nD 17 190.\nE 27 000.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo\npresente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de₁₄C\nse reduz pela metade a cada 5 730 anos.\nA prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).\nConsidere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de\nradiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é\nA 450.\nB 1 433.\nC 11 460.\nD 17 190.\nE 27 000.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 103,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 103 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "statement": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e\nbiogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio,\nusado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\n\nArmazenamento\nde hidrogênio\n\nCombustível\nHidrogênio\n\nBiogás\nHidrogênio\n\nHidrogênio\nEletricidade\nEletricidade\n\nEletricidade\nMistura\n\nArmazenamento\nde biogás\nCalor\nDestino da\nenergia térmica\nPlanta mista\nde geração\nde energia\n\nVálvula para\nmistura\n\nDisponível em: www.enertrag.com. Acesso em: 24 abr. 2015 (adaptado).\nMesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está\ninstalada, pois o(a)",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-103/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-103/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade. *DO0525AM5* CN - 2º dia | Caderno 5 - AMARELO - Página 6",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e\nbiogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio,\nusado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\n\nArmazenamento\nde hidrogênio\n\nCombustível\nHidrogênio\n\nBiogás\nHidrogênio\n\nHidrogênio\nEletricidade\nEletricidade\n\nEletricidade\nMistura\n\nArmazenamento\nde biogás\nCalor\nDestino da\nenergia térmica\nPlanta mista\nde geração\nde energia\n\nVálvula para\nmistura\n\nDisponível em: www.enertrag.com. Acesso em: 24 abr. 2015 (adaptado).\nMesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está\ninstalada, pois o(a)\n\nA. planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.\nB. hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.\nC. conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.\nD. combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.\nE. planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade. *DO0525AM5* CN - 2º dia | Caderno 5 - AMARELO - Página 6"
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 104,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 104 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        6
+      ],
+      "statement": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas\naplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio.\nNesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\nCélula eletroquímica\nSolução aquosa\nde NaCl\nBateria\n\nÂnodo de carbono\n\nDiafragma de amianto\n\nCátodo de carbono\n\nDreno para solução\naquosa alcalina\ne\ne\ne\n\ne\n\n+\n+\n\n-\n-\n\nSHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-104/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-104/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "vapor de água.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "oxigênio molecular.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "hipoclorito de sódio.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "hidrogênio molecular.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "cloreto de hidrogênio.",
+          "assets": []
+        }
+      ],
+      "rawText": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas\naplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio.\nNesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\nCélula eletroquímica\nSolução aquosa\nde NaCl\nBateria\n\nÂnodo de carbono\n\nDiafragma de amianto\n\nCátodo de carbono\n\nDreno para solução\naquosa alcalina\ne\ne\ne\n\ne\n\n+\n+\n\n-\n-\n\nSHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\nNo processo eletrolítico ilustrado, o produto secundário obtido é o\n\nA. vapor de água.\nB. oxigênio molecular.\nC. hipoclorito de sódio.\nD. hidrogênio molecular.\nE. cloreto de hidrogênio."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 105,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 105 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "statement": "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra,\nos governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação\nde explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como\ncomponente principal os nitratos.\nSOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL.\nDisponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na\netapa de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "nitratação.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "nitrosação.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "amonificação.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "desnitrificação.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "fixação biológica do N₂. *DO0525AM6* CN - 2º dia | Caderno 5 - AMARELO - Página 7",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra,\nos governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação\nde explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como\ncomponente principal os nitratos.\nSOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL.\nDisponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na\netapa de\n\nA. nitratação.\nB. nitrosação.\nC. amonificação.\nD. desnitrificação.\nE. fixação biológica do N₂. *DO0525AM6* CN - 2º dia | Caderno 5 - AMARELO - Página 7"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 106,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 106 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        7
+      ],
+      "statement": "A toxicidade de algumas substâncias é normalmente\nrepresentada por um índice conhecido como DL₅₀ (dose\nletal mediana). Ele representa a dosagem aplicada a\numa população de seres vivos que mata 50% desses\nindivíduos e é normalmente medido utilizando-se ratos\ncomo cobaias. Esse índice é muito importante para\nos seres humanos, pois ao se extrapolar os dados\nobtidos com o uso de cobaias, pode-se determinar o\nnível tolerável de contaminação de alimentos, para que\npossam ser consumidos de forma segura pelas pessoas.\nO quadro apresenta três pesticidas e suas toxicidades.\nA unidade mg/kg indica a massa da substância ingerida\npela massa da cobaia.\n\nDiazinon\n70\nMalation\n1 000\nAtrazina\n3 100\nSessenta ratos, com massa de 200 g cada, foram\ndivididos em três grupos de vinte. Três amostras de ração,\ncontaminadas, cada uma delas com um dos pesticidas\nindicados no quadro, na concentração de 3 mg por\ngrama de ração, foram administradas para cada grupo de\ncobaias. Cada rato consumiu 100 g de ração.\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de\n10 ratos?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-106/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-106/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "O grupo que se contaminou somente com atrazina.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "O grupo que se contaminou somente com diazinon.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Os grupos que se contaminaram com atrazina e malation.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Os grupos que se contaminaram com diazinon e malation.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Nenhum dos grupos contaminados com atrazina, diazinon e malation.",
+          "assets": []
+        }
+      ],
+      "rawText": "A toxicidade de algumas substâncias é normalmente\nrepresentada por um índice conhecido como DL₅₀ (dose\nletal mediana). Ele representa a dosagem aplicada a\numa população de seres vivos que mata 50% desses\nindivíduos e é normalmente medido utilizando-se ratos\ncomo cobaias. Esse índice é muito importante para\nos seres humanos, pois ao se extrapolar os dados\nobtidos com o uso de cobaias, pode-se determinar o\nnível tolerável de contaminação de alimentos, para que\npossam ser consumidos de forma segura pelas pessoas.\nO quadro apresenta três pesticidas e suas toxicidades.\nA unidade mg/kg indica a massa da substância ingerida\npela massa da cobaia.\n\nDiazinon\n70\nMalation\n1 000\nAtrazina\n3 100\nSessenta ratos, com massa de 200 g cada, foram\ndivididos em três grupos de vinte. Três amostras de ração,\ncontaminadas, cada uma delas com um dos pesticidas\nindicados no quadro, na concentração de 3 mg por\ngrama de ração, foram administradas para cada grupo de\ncobaias. Cada rato consumiu 100 g de ração.\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de\n10 ratos?\n\nA. O grupo que se contaminou somente com atrazina.\nB. O grupo que se contaminou somente com diazinon.\nC. Os grupos que se contaminaram com atrazina e malation.\nD. Os grupos que se contaminaram com diazinon e malation.\nE. Nenhum dos grupos contaminados com atrazina, diazinon e malation."
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 107,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 107 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        7
+      ],
+      "statement": "Os medicamentos são rotineiramente utilizados pelo\nser humano com o intuito de diminuir ou, por muitas vezes,\ncurar possíveis transtornos de saúde. Os antibióticos são\ngrupos de fármacos inseridos no tratamento de doenças\ncausadas por bactérias.\nNa terapêutica das doenças mencionadas, alguns desses\nfármacos atuam",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ativando o sistema imunológico do hospedeiro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "interferindo na cascata bioquímica da inflamação.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "removendo as toxinas sintetizadas pelas bactérias.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "combatendo as células hospedeiras das bactérias.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "danificando estruturas específicas da célula bacteriana.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os medicamentos são rotineiramente utilizados pelo\nser humano com o intuito de diminuir ou, por muitas vezes,\ncurar possíveis transtornos de saúde. Os antibióticos são\ngrupos de fármacos inseridos no tratamento de doenças\ncausadas por bactérias.\nNa terapêutica das doenças mencionadas, alguns desses\nfármacos atuam\n\nA. ativando o sistema imunológico do hospedeiro.\nB. interferindo na cascata bioquímica da inflamação.\nC. removendo as toxinas sintetizadas pelas bactérias.\nD. combatendo as células hospedeiras das bactérias.\nE. danificando estruturas específicas da célula bacteriana."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 108,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 108 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        7
+      ],
+      "statement": "Dispositivos eletrônicos que utilizam materiais de\nbaixo custo, como polímeros semicondutores, têm sido\ndesenvolvidos para monitorar a concentração de amônia\n(gás tóxico e incolor) em granjas avícolas. A polianilina\né um polímero semicondutor que tem o valor de sua\nresistência elétrica nominal quadruplicado quando exposta\na altas concentrações de amônia. Na ausência de amônia,\na polianilina se comporta como um resistor ôhmico e a sua\nresposta elétrica é mostrada no gráfico.\n\nDiferença de potencial (V)\n\nO valor da resistência elétrica da polianilina na presença\nde altas concentrações de amônia, em ohm, é igual a",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-108/statement-01.png",
+        "/generated/enem-2017/ciencias-natureza/question-108/statement-02.png",
+        "/generated/enem-2017/ciencias-natureza/question-108/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-108/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,5 × 10₀.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2,0 × 10₀.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2,5 × 10₅.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5,0 × 10₅.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,0 × 10₆.",
+          "assets": []
+        }
+      ],
+      "rawText": "Dispositivos eletrônicos que utilizam materiais de\nbaixo custo, como polímeros semicondutores, têm sido\ndesenvolvidos para monitorar a concentração de amônia\n(gás tóxico e incolor) em granjas avícolas. A polianilina\né um polímero semicondutor que tem o valor de sua\nresistência elétrica nominal quadruplicado quando exposta\na altas concentrações de amônia. Na ausência de amônia,\na polianilina se comporta como um resistor ôhmico e a sua\nresposta elétrica é mostrada no gráfico.\n\nDiferença de potencial (V)\n\nO valor da resistência elétrica da polianilina na presença\nde altas concentrações de amônia, em ohm, é igual a\n\nA. 0,5 × 10₀.\nB. 2,0 × 10₀.\nC. 2,5 × 10₅.\nD. 5,0 × 10₅.\nE. 2,0 × 10₆."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 109,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 109 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "statement": "Pesquisadores conseguiram estimular a absorção de\nenergia luminosa em plantas graças ao uso de nanotubos\nde carbono. Para isso, nanotubos de carbono “se\ninseriram” no interior dos cloroplastos por uma montagem\nespontânea, através das membranas dos cloroplastos.\nPigmentos da planta absorvem as radiações luminosas,\nos elétrons são “excitados” e se deslocam no interior de\nmembranas dos cloroplastos, e a planta utiliza em seguida\nessa energia elétrica para a fabricação de açúcares.\nOs nanotubos de carbono podem absorver comprimentos\nde onda habitualmente não utilizados pelos cloroplastos,\ne os pesquisadores tiveram a ideia de utilizá-los como\n“antenas”, estimulando a conversão de energia solar pelos\ncloroplastos, com o aumento do transporte de elétrons.\nNanotubos de carbono incrementam a fotossíntese de plantas.\nDisponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).\nO aumento da eficiência fotossintética ocorreu pelo fato\nde os nanotubos de carbono promoverem diretamente a\nA utilização de água.\nB absorção de fótons.\nC formação de gás oxigênio.\nD proliferação dos cloroplastos.\nE captação de dióxido de carbono.\n*DO0525AM7*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 8",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Pesquisadores conseguiram estimular a absorção de\nenergia luminosa em plantas graças ao uso de nanotubos\nde carbono. Para isso, nanotubos de carbono “se\ninseriram” no interior dos cloroplastos por uma montagem\nespontânea, através das membranas dos cloroplastos.\nPigmentos da planta absorvem as radiações luminosas,\nos elétrons são “excitados” e se deslocam no interior de\nmembranas dos cloroplastos, e a planta utiliza em seguida\nessa energia elétrica para a fabricação de açúcares.\nOs nanotubos de carbono podem absorver comprimentos\nde onda habitualmente não utilizados pelos cloroplastos,\ne os pesquisadores tiveram a ideia de utilizá-los como\n“antenas”, estimulando a conversão de energia solar pelos\ncloroplastos, com o aumento do transporte de elétrons.\nNanotubos de carbono incrementam a fotossíntese de plantas.\nDisponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).\nO aumento da eficiência fotossintética ocorreu pelo fato\nde os nanotubos de carbono promoverem diretamente a\nA utilização de água.\nB absorção de fótons.\nC formação de gás oxigênio.\nD proliferação dos cloroplastos.\nE captação de dióxido de carbono.\n*DO0525AM7*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 8\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 110,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 110 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        8
+      ],
+      "statement": "O fenômeno da piracema (subida do rio) é um\nimportante mecanismo que influencia a reprodução\nde algumas espécies de peixes, pois induz o processo\nque estimula a queima de gordura e ativa mecanismos\nhormonais complexos, preparando-os para a reprodução.\nIntervenções antrópicas nos ambientes aquáticos, como\na construção de barragens, interferem na reprodução\ndesses animais.\n\nEssa intervenção antrópica prejudica a piracema porque\nreduz o(a)",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-110/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-110/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "percurso da migração.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "longevidade dos indivíduos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "disponibilidade de alimentos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "período de migração da espécie.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "número de espécies de peixes no local.",
+          "assets": []
+        }
+      ],
+      "rawText": "O fenômeno da piracema (subida do rio) é um\nimportante mecanismo que influencia a reprodução\nde algumas espécies de peixes, pois induz o processo\nque estimula a queima de gordura e ativa mecanismos\nhormonais complexos, preparando-os para a reprodução.\nIntervenções antrópicas nos ambientes aquáticos, como\na construção de barragens, interferem na reprodução\ndesses animais.\n\nEssa intervenção antrópica prejudica a piracema porque\nreduz o(a)\n\nA. percurso da migração.\nB. longevidade dos indivíduos.\nC. disponibilidade de alimentos.\nD. período de migração da espécie.\nE. número de espécies de peixes no local."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 111,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 111 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        8
+      ],
+      "statement": "Fusível é um dispositivo de proteção contra\nsobrecorrente em circuitos. Quando a corrente que passa\npor esse componente elétrico é maior que sua máxima\ncorrente nominal, o fusível queima. Dessa forma, evita\nque a corrente elevada danifique os aparelhos do circuito.\nSuponha que o circuito elétrico mostrado seja alimentado\npor uma fonte de tensão U e que o fusível suporte uma\ncorrente nominal de 500 mA.\n\nFusível\n\nU\nQual é o máximo valor da tensão U para que o fusível não\nqueime?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-111/statement-01.png",
+        "/generated/enem-2017/ciencias-natureza/question-111/statement-02.png",
+        "/generated/enem-2017/ciencias-natureza/question-111/statement-03.png",
+        "/generated/enem-2017/ciencias-natureza/question-111/statement-04.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-111/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "20 V",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "40 V",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "60 V",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "120 V",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "185 V",
+          "assets": []
+        }
+      ],
+      "rawText": "Fusível é um dispositivo de proteção contra\nsobrecorrente em circuitos. Quando a corrente que passa\npor esse componente elétrico é maior que sua máxima\ncorrente nominal, o fusível queima. Dessa forma, evita\nque a corrente elevada danifique os aparelhos do circuito.\nSuponha que o circuito elétrico mostrado seja alimentado\npor uma fonte de tensão U e que o fusível suporte uma\ncorrente nominal de 500 mA.\n\nFusível\n\nU\nQual é o máximo valor da tensão U para que o fusível não\nqueime?\n\nA. 20 V\nB. 40 V\nC. 60 V\nD. 120 V\nE. 185 V"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 112,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 112 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        8
+      ],
+      "statement": "Os botos-cinza (Sotalia guianensis), mamíferos da\nfamília dos golfinhos, são excelentes indicadores da\npoluição das áreas em que vivem, pois passam toda a\nsua vida — cerca de 30 anos — na mesma região. Além\ndisso, a espécie acumula mais contaminantes em seu\norganismo, como o mercúrio, do que outros animais da\nsua cadeia alimentar.\nMARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br.\nAcesso em: 1 ago. 2012 (adaptado).\nOs botos-cinza acumulam maior concentração dessas\nsubstâncias porque",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "são animais herbívoros.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "são animais detritívoros.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "são animais de grande porte.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "digerem o alimento lentamente.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "estão no topo da cadeia alimentar.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os botos-cinza (Sotalia guianensis), mamíferos da\nfamília dos golfinhos, são excelentes indicadores da\npoluição das áreas em que vivem, pois passam toda a\nsua vida — cerca de 30 anos — na mesma região. Além\ndisso, a espécie acumula mais contaminantes em seu\norganismo, como o mercúrio, do que outros animais da\nsua cadeia alimentar.\nMARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br.\nAcesso em: 1 ago. 2012 (adaptado).\nOs botos-cinza acumulam maior concentração dessas\nsubstâncias porque\n\nA. são animais herbívoros.\nB. são animais detritívoros.\nC. são animais de grande porte.\nD. digerem o alimento lentamente.\nE. estão no topo da cadeia alimentar."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 113,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 113 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "statement": "O trombone de Quincke é um dispositivo experimental\nutilizado para demonstrar o fenômeno da interferência\nde ondas sonoras. Uma fonte emite ondas sonoras de\ndeterminada frequência na entrada do dispositivo. Essas\nondas se dividem pelos dois caminhos (ADC e AEC) e se\nencontram no ponto C, a saída do dispositivo, onde se\nposiciona um detector. O trajeto ADC pode ser aumentado\npelo deslocamento dessa parte do dispositivo. Com o\ntrajeto ADC igual ao AEC, capta-se um som muito intenso\nna saída. Entretanto, aumentando-se gradativamente o\ntrajeto ADC, até que ele fique como mostrado na figura, a\nintensidade do som na saída fica praticamente nula. Desta\nforma, conhecida a velocidade do som no interior do tubo\n(320 m/s), é possível determinar o valor da frequência do\nsom produzido pela fonte.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "3 200.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 600.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Fonte sonora Entrada do som 800.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Saída do som Detector 30 cm O valor da frequência, em hertz, do som produzido pela\nfonte sonora é 640.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "400. *DO0525AM8* CN - 2º dia | Caderno 5 - AMARELO - Página 9",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-113/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O trombone de Quincke é um dispositivo experimental\nutilizado para demonstrar o fenômeno da interferência\nde ondas sonoras. Uma fonte emite ondas sonoras de\ndeterminada frequência na entrada do dispositivo. Essas\nondas se dividem pelos dois caminhos (ADC e AEC) e se\nencontram no ponto C, a saída do dispositivo, onde se\nposiciona um detector. O trajeto ADC pode ser aumentado\npelo deslocamento dessa parte do dispositivo. Com o\ntrajeto ADC igual ao AEC, capta-se um som muito intenso\nna saída. Entretanto, aumentando-se gradativamente o\ntrajeto ADC, até que ele fique como mostrado na figura, a\nintensidade do som na saída fica praticamente nula. Desta\nforma, conhecida a velocidade do som no interior do tubo\n(320 m/s), é possível determinar o valor da frequência do\nsom produzido pela fonte.\n\nA. 3 200.\nB. 1 600.\nC. Fonte sonora Entrada do som 800.\nD. Saída do som Detector 30 cm O valor da frequência, em hertz, do som produzido pela\nfonte sonora é 640.\nE. 400. *DO0525AM8* CN - 2º dia | Caderno 5 - AMARELO - Página 9"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 114,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 114 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        9
+      ],
+      "statement": "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico\n(massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a\nequação química:\n\nApós a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades\nfarmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na\nforma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do\ntexto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-114/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-114/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "293",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "345",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "414",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "690",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "828",
+          "assets": []
+        }
+      ],
+      "rawText": "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico\n(massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a\nequação química:\n\nApós a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades\nfarmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na\nforma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do\ntexto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?\n\nA. 293\nB. 345\nC. 414\nD. 690\nE. 828"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 115,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 115 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        9
+      ],
+      "statement": "A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão\nadaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.\nDisponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).\nEssas espécies captam água do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "organismo das plantas vizinhas.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "solo através de suas longas raízes.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "chuva acumulada entre suas folhas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "seiva bruta das plantas hospedeiras.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "comunidade que vive em seu interior.",
+          "assets": []
+        }
+      ],
+      "rawText": "A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão\nadaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.\nDisponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).\nEssas espécies captam água do(a)\n\nA. organismo das plantas vizinhas.\nB. solo através de suas longas raízes.\nC. chuva acumulada entre suas folhas.\nD. seiva bruta das plantas hospedeiras.\nE. comunidade que vive em seu interior."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 116,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 116 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "statement": "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄)\ne a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições\nadequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para\nreduzir o FeO (sólido), conforme a equação química:\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) →₂ Fe ₍s₎ + 3 CO₂ (g)\n∆rH = −25 kJ/mol de Fe₂O₃\n3 FeO (s) + CO₂ (g) →Fe₃O₄ (s) + CO (g)\n∆rH = −36 kJ/mol de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) →₃ Fe₂O₃ (s) + CO (g)\n∆rH = +47 kJ/mol de CO₂\nO valor mais próximo de ∆rH, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-116/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-116/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "−14.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "−17.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "−50.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "−64.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "−100. *DO0525AM9* CN - 2º dia | Caderno 5 - AMARELO - Página 10",
+          "assets": []
+        }
+      ],
+      "rawText": "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄)\ne a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições\nadequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para\nreduzir o FeO (sólido), conforme a equação química:\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) →₂ Fe ₍s₎ + 3 CO₂ (g)\n∆rH = −25 kJ/mol de Fe₂O₃\n3 FeO (s) + CO₂ (g) →Fe₃O₄ (s) + CO (g)\n∆rH = −36 kJ/mol de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) →₃ Fe₂O₃ (s) + CO (g)\n∆rH = +47 kJ/mol de CO₂\nO valor mais próximo de ∆rH, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é\n\nA. −14.\nB. −17.\nC. −50.\nD. −64.\nE. −100. *DO0525AM9* CN - 2º dia | Caderno 5 - AMARELO - Página 10"
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 117,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 117 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "statement": "A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção\nde lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um\nexperimento de laboratório, pretende-se associar duas pilhas em série para acender um LED azul que requer 3,6 volts\npara o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.\nSemirreação de redução\nE (V)\nCe₄₊ (aq) + e− →Ce₃₊ (aq)\n+1,61\nCr₂O₇\n2− (aq) + 14 H₊ (aq) + 6 e− →₂ Cr₃₊ (aq) + 7 H₂O (l)\n+1,33\nNi₂₊ (aq) + 2 e− →Ni ₍s₎\n−0,25\nZn₂₊ (aq) + 2 e− →Zn ₍s₎\n−0,76\nQual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Ce₄+ e Ce₃+\nNi₂+\nZn₂+\nCr₂O₇\n2−,\nH₊ e Cr₃+ Ni",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-117/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-117/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+ *DO0525AM10* CN - 2º dia | Caderno 5 - AMARELO - Página 11",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-117/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "LED Grafite\nGrafite KCI\nKCI Ni Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-117/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção\nde lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um\nexperimento de laboratório, pretende-se associar duas pilhas em série para acender um LED azul que requer 3,6 volts\npara o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.\nSemirreação de redução\nE (V)\nCe₄₊ (aq) + e− →Ce₃₊ (aq)\n+1,61\nCr₂O₇\n2− (aq) + 14 H₊ (aq) + 6 e− →₂ Cr₃₊ (aq) + 7 H₂O (l)\n+1,33\nNi₂₊ (aq) + 2 e− →Ni ₍s₎\n−0,25\nZn₂₊ (aq) + 2 e− →Zn ₍s₎\n−0,76\nQual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?\n\nA. Ce₄+ e Ce₃+\nNi₂+\nZn₂+\nCr₂O₇\n2−,\nH₊ e Cr₃+ Ni\nB. Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+\nC. Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+ *DO0525AM10* CN - 2º dia | Caderno 5 - AMARELO - Página 11\nD. LED Grafite\nGrafite KCI\nKCI Ni Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+\nE. Ce₄+ e Ce₃+\nNi₂+\nZn₂+ Zn Cr₂O₇\n2−,\nH₊ e Cr₃+"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 118,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 118 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        11
+      ],
+      "statement": "A distrofia muscular Duchenne (DMD) é uma doença\ncausada por uma mutação em um gene localizado no\ncromossomo X. Pesquisadores estudaram uma família\nna qual gêmeas monozigóticas eram portadoras de um\nalelo mutante recessivo para esse gene (heterozigóticas).\nO interessante é que uma das gêmeas apresentava\no fenótipo relacionado ao alelo mutante, isto é, DMD,\nenquanto a sua irmã apresentava fenótipo normal.\nRICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).\nA diferença na manifestação da DMD entre as gêmeas\npode ser explicada pela",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "dominância incompleta do alelo mutante em relação ao alelo normal.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "falha na separação dos cromossomos X no momento da separação dos dois embriões.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.",
+          "assets": []
+        }
+      ],
+      "rawText": "A distrofia muscular Duchenne (DMD) é uma doença\ncausada por uma mutação em um gene localizado no\ncromossomo X. Pesquisadores estudaram uma família\nna qual gêmeas monozigóticas eram portadoras de um\nalelo mutante recessivo para esse gene (heterozigóticas).\nO interessante é que uma das gêmeas apresentava\no fenótipo relacionado ao alelo mutante, isto é, DMD,\nenquanto a sua irmã apresentava fenótipo normal.\nRICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).\nA diferença na manifestação da DMD entre as gêmeas\npode ser explicada pela\n\nA. dominância incompleta do alelo mutante em relação ao alelo normal.\nB. falha na separação dos cromossomos X no momento da separação dos dois embriões.\nC. recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.\nD. inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.\nE. origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 119,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 119 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        11
+      ],
+      "statement": "Para se adequar às normas ambientais atuais, as\nconstrutoras precisam prever em suas obras a questão\ndo uso de materiais de modo a minimizar os impactos\ncausados no local. Entre esses materiais está o chamado\nconcregrama ou pisograma, que é um tipo de revestimento\ncomposto por peças de concreto com áreas vazadas,\npreenchidas com solo gramado. As figuras apresentam\nessas duas formas de piso feitos de concreto.\n\nGrama\nGrama\n\nPONTES, K. L. F. Estudo de caso de um protótipo experimental [...].\nDisponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado).\nA utilização desse tipo de piso em uma obra tem o objetivo\nde evitar, no solo, a",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-119/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-119/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "impermeabilização.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "diminuição da temperatura.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "acumulação de matéria orgânica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "alteração do pH.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "salinização.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para se adequar às normas ambientais atuais, as\nconstrutoras precisam prever em suas obras a questão\ndo uso de materiais de modo a minimizar os impactos\ncausados no local. Entre esses materiais está o chamado\nconcregrama ou pisograma, que é um tipo de revestimento\ncomposto por peças de concreto com áreas vazadas,\npreenchidas com solo gramado. As figuras apresentam\nessas duas formas de piso feitos de concreto.\n\nGrama\nGrama\n\nPONTES, K. L. F. Estudo de caso de um protótipo experimental [...].\nDisponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado).\nA utilização desse tipo de piso em uma obra tem o objetivo\nde evitar, no solo, a\n\nA. impermeabilização.\nB. diminuição da temperatura.\nC. acumulação de matéria orgânica.\nD. alteração do pH.\nE. salinização."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 120,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 120 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        11
+      ],
+      "statement": "Diversos produtos naturais podem ser obtidos de\nplantas por processo de extração. O lapachol é da classe\ndas naftoquinonas. Sua estrutura apresenta uma hidroxila\nenólica (pKa = 6,0) que permite que este composto seja\nisolado da serragem dos ipês por extração com solução\nadequada, seguida de filtração simples. Considere que\npKa = −log Ka, em que Ka é a constante ácida da reação\nde ionização do lapachol.\n\nOH\n\nO\nO\n\nLapachol\nCOSTA, P. R. R. et al. Ácidos e bases em química orgânica.\nPorto Alegre: Bookman, 2005 (adaptado).\nQual solução deve ser usada para extração do lapachol\nda serragem do ipê com maior eficiência?\nA Solução de Na₂CO₃ para formar um sal de lapachol.\nB Solução-tampão ácido acético/acetato de sódio\n(pH = 4,5).\nC Solução de NaCl a fim de aumentar a força iônica\ndo meio.\nD Solução de Na₂SO₄ para formar um par iônico com\nlapachol.\nE Solução de HCl a fim de extraí-lo por meio de reação\nácido-base.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Diversos produtos naturais podem ser obtidos de\nplantas por processo de extração. O lapachol é da classe\ndas naftoquinonas. Sua estrutura apresenta uma hidroxila\nenólica (pKa = 6,0) que permite que este composto seja\nisolado da serragem dos ipês por extração com solução\nadequada, seguida de filtração simples. Considere que\npKa = −log Ka, em que Ka é a constante ácida da reação\nde ionização do lapachol.\n\nOH\n\nO\nO\n\nLapachol\nCOSTA, P. R. R. et al. Ácidos e bases em química orgânica.\nPorto Alegre: Bookman, 2005 (adaptado).\nQual solução deve ser usada para extração do lapachol\nda serragem do ipê com maior eficiência?\nA Solução de Na₂CO₃ para formar um sal de lapachol.\nB Solução-tampão ácido acético/acetato de sódio\n(pH = 4,5).\nC Solução de NaCl a fim de aumentar a força iônica\ndo meio.\nD Solução de Na₂SO₄ para formar um par iônico com\nlapachol.\nE Solução de HCl a fim de extraí-lo por meio de reação\nácido-base.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 121,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 121 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        11,
+        12
+      ],
+      "statement": "Alguns tipos de dessalinizadores usam o processo de\nosmose reversa para obtenção de água potável a partir\nda água salgada. Nesse método, utiliza-se um recipiente\ncontendo dois compartimentos separados por uma\nmembrana semipermeável: em um deles coloca-se água\nsalgada e no outro recolhe-se a água potável. A aplicação\nde pressão mecânica no sistema faz a água fluir de um\ncompartimento para o outro. O movimento das moléculas\nde água através da membrana é controlado pela pressão\nosmótica e pela pressão mecânica aplicada.\nPara que ocorra esse processo é necessário que\nas resultantes das pressões osmótica e mecânica\napresentem\nA mesmo sentido e mesma intensidade.\nB sentidos opostos e mesma intensidade.\nC sentidos opostos e maior intensidade da pressão osmótica.\nD mesmo sentido e maior intensidade da pressão osmótica.\nE sentidos opostos e maior intensidade da pressão mecânica.\n*DO0525AM11*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 12",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Alguns tipos de dessalinizadores usam o processo de\nosmose reversa para obtenção de água potável a partir\nda água salgada. Nesse método, utiliza-se um recipiente\ncontendo dois compartimentos separados por uma\nmembrana semipermeável: em um deles coloca-se água\nsalgada e no outro recolhe-se a água potável. A aplicação\nde pressão mecânica no sistema faz a água fluir de um\ncompartimento para o outro. O movimento das moléculas\nde água através da membrana é controlado pela pressão\nosmótica e pela pressão mecânica aplicada.\nPara que ocorra esse processo é necessário que\nas resultantes das pressões osmótica e mecânica\napresentem\nA mesmo sentido e mesma intensidade.\nB sentidos opostos e mesma intensidade.\nC sentidos opostos e maior intensidade da pressão osmótica.\nD mesmo sentido e maior intensidade da pressão osmótica.\nE sentidos opostos e maior intensidade da pressão mecânica.\n*DO0525AM11*\n\nCN - 2º dia | Caderno 5 - AMARELO - Página 12\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 122,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 122 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        12
+      ],
+      "statement": "Na Idade Média, para elaborar preparados a partir\nde plantas produtoras de óleos essenciais, as coletas\ndas espécies eram realizadas ao raiar do dia. Naquela\népoca, essa prática era fundamentada misticamente pelo\nefeito mágico dos raios lunares, que seria anulado pela\nemissão dos raios solares. Com a evolução da ciência,\nfoi comprovado que a coleta de algumas espécies ao\nraiar do dia garante a obtenção de material com maiores\nquantidades de óleos essenciais.\nA explicação científica que justifica essa prática se baseia na",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "volatilização das substâncias de interesse.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "polimerização dos óleos catalisada pela radiação solar.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "solubilização das substâncias de interesse pelo orvalho.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "oxidação do óleo pelo oxigênio produzido na fotossíntese.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "liberação das moléculas de óleo durante o processo de fotossíntese.",
+          "assets": []
+        }
+      ],
+      "rawText": "Na Idade Média, para elaborar preparados a partir\nde plantas produtoras de óleos essenciais, as coletas\ndas espécies eram realizadas ao raiar do dia. Naquela\népoca, essa prática era fundamentada misticamente pelo\nefeito mágico dos raios lunares, que seria anulado pela\nemissão dos raios solares. Com a evolução da ciência,\nfoi comprovado que a coleta de algumas espécies ao\nraiar do dia garante a obtenção de material com maiores\nquantidades de óleos essenciais.\nA explicação científica que justifica essa prática se baseia na\n\nA. volatilização das substâncias de interesse.\nB. polimerização dos óleos catalisada pela radiação solar.\nC. solubilização das substâncias de interesse pelo orvalho.\nD. oxidação do óleo pelo oxigênio produzido na fotossíntese.\nE. liberação das moléculas de óleo durante o processo de fotossíntese."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 123,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 123 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        12
+      ],
+      "statement": "A epilação a laser (popularmente conhecida como\ndepilação a laser) consiste na aplicação de uma fonte de luz\npara aquecer e causar uma lesão localizada e controlada\nnos folículos capilares. Para evitar que outros tecidos sejam\ndanificados, selecionam-se comprimentos de onda que são\nabsorvidos pela melanina presente nos pelos, mas que não\nafetam a oxi-hemoglobina do sangue e a água dos tecidos\nda região em que o tratamento será aplicado. A figura\nmostra como é a absorção de diferentes comprimentos de\nonda pela melanina, oxi-hemoglobina e água.\n\nAbsorção (%)\n\nComprimento de onda (nm)\nMelanina\n\nQual é o comprimento de onda, em nm, ideal para a\nepilação a laser?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-123/statement-01.png",
+        "/generated/enem-2017/ciencias-natureza/question-123/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-123/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "400",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "700",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 100",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "900",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "500",
+          "assets": []
+        }
+      ],
+      "rawText": "A epilação a laser (popularmente conhecida como\ndepilação a laser) consiste na aplicação de uma fonte de luz\npara aquecer e causar uma lesão localizada e controlada\nnos folículos capilares. Para evitar que outros tecidos sejam\ndanificados, selecionam-se comprimentos de onda que são\nabsorvidos pela melanina presente nos pelos, mas que não\nafetam a oxi-hemoglobina do sangue e a água dos tecidos\nda região em que o tratamento será aplicado. A figura\nmostra como é a absorção de diferentes comprimentos de\nonda pela melanina, oxi-hemoglobina e água.\n\nAbsorção (%)\n\nComprimento de onda (nm)\nMelanina\n\nQual é o comprimento de onda, em nm, ideal para a\nepilação a laser?\n\nA. 400\nB. 700\nC. 1 100\nD. 900\nE. 500"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 124,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 124 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        12,
+        13
+      ],
+      "statement": "O brinquedo pula-pula (cama elástica) é composto\npor uma lona circular flexível horizontal presa por molas\nà sua borda. As crianças brincam pulando sobre ela,\nalterando e alternando suas formas de energia.\nAo pular verticalmente, desprezando o atrito com o ar\ne os movimentos de rotação do corpo enquanto salta,\numa criança realiza um movimento periódico vertical em\ntorno da posição de equilíbrio da lona (h = 0), passando\npelos pontos de máxima e de mínima alturas, hmáx e hmín,\nrespectivamente.\nEsquematicamente, o esboço do gráfico da energia\ncinética da criança em função de sua posição vertical na\nsituação descrita é:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-124/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-124/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-124/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "c 0\nh\nhmín\nhmáx c 0\nh c c 0\nh c 0\nh *DO0525AM12* CN - 2º dia | Caderno 5 - AMARELO - Página 13",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-124/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O brinquedo pula-pula (cama elástica) é composto\npor uma lona circular flexível horizontal presa por molas\nà sua borda. As crianças brincam pulando sobre ela,\nalterando e alternando suas formas de energia.\nAo pular verticalmente, desprezando o atrito com o ar\ne os movimentos de rotação do corpo enquanto salta,\numa criança realiza um movimento periódico vertical em\ntorno da posição de equilíbrio da lona (h = 0), passando\npelos pontos de máxima e de mínima alturas, hmáx e hmín,\nrespectivamente.\nEsquematicamente, o esboço do gráfico da energia\ncinética da criança em função de sua posição vertical na\nsituação descrita é:\n\nA.\nB.\nC.\nD.\nE. c 0\nh\nhmín\nhmáx c 0\nh c c 0\nh c 0\nh *DO0525AM12* CN - 2º dia | Caderno 5 - AMARELO - Página 13"
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 125,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 125 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "Um motorista que atende a uma chamada de celular é\nlevado à desatenção, aumentando a possibilidade de acidentes\nocorrerem em razão do aumento de seu tempo de reação.\nConsidere dois motoristas, o primeiro atento e o segundo\nutilizando o celular enquanto dirige. Eles aceleram seus carros\ninicialmente a 1,00 m/s₂. Em resposta a uma emergência,\nfreiam com uma desaceleração igual a 5,00 m/s₂. O motorista\natento aciona o freio à velocidade de 14,0 m/s, enquanto o\ndesatento, em situação análoga, leva 1,00 segundo a mais\npara iniciar a frenagem.\nQue distância o motorista desatento percorre a mais do\nque o motorista atento, até a parada total dos carros?\nA 2,90 m\nB 14,0 m\nC 14,5 m\nD 15,0 m\nE 17,4 m",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um motorista que atende a uma chamada de celular é\nlevado à desatenção, aumentando a possibilidade de acidentes\nocorrerem em razão do aumento de seu tempo de reação.\nConsidere dois motoristas, o primeiro atento e o segundo\nutilizando o celular enquanto dirige. Eles aceleram seus carros\ninicialmente a 1,00 m/s₂. Em resposta a uma emergência,\nfreiam com uma desaceleração igual a 5,00 m/s₂. O motorista\natento aciona o freio à velocidade de 14,0 m/s, enquanto o\ndesatento, em situação análoga, leva 1,00 segundo a mais\npara iniciar a frenagem.\nQue distância o motorista desatento percorre a mais do\nque o motorista atento, até a parada total dos carros?\nA 2,90 m\nB 14,0 m\nC 14,5 m\nD 15,0 m\nE 17,4 m\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 126,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 126 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "Uma das estratégias para conservação de alimentos\né o salgamento, adição de cloreto de sódio (NaCl),\nhistoricamente utilizado por tropeiros, vaqueiros e\nsertanejos para conservar carnes de boi, porco e peixe.\nO que ocorre com as células presentes nos alimentos\npreservados com essa técnica?\nA O sal adicionado diminui a concentração de solutos\nem seu interior.\nB O sal adicionado desorganiza e destrói suas\nmembranas plasmáticas.\nC A adição de sal altera as propriedades de suas\nmembranas plasmáticas.\nD Os íons Na₊ e Cl− provenientes da dissociação do sal\nentram livremente nelas.\nE A grande concentração de sal no meio extracelular\nprovoca a saída de água de dentro delas.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma das estratégias para conservação de alimentos\né o salgamento, adição de cloreto de sódio (NaCl),\nhistoricamente utilizado por tropeiros, vaqueiros e\nsertanejos para conservar carnes de boi, porco e peixe.\nO que ocorre com as células presentes nos alimentos\npreservados com essa técnica?\nA O sal adicionado diminui a concentração de solutos\nem seu interior.\nB O sal adicionado desorganiza e destrói suas\nmembranas plasmáticas.\nC A adição de sal altera as propriedades de suas\nmembranas plasmáticas.\nD Os íons Na₊ e Cl− provenientes da dissociação do sal\nentram livremente nelas.\nE A grande concentração de sal no meio extracelular\nprovoca a saída de água de dentro delas.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 127,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 127 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "Para demonstrar o processo de transformação de\nenergia mecânica em elétrica, um estudante constrói um\npequeno gerador utilizando:\n• um fio de cobre de diâmetro D enrolado em N\nespiras circulares de área A;\n• dois ímãs que criam no espaço entre eles um campo\nmagnético uniforme de intensidade B; e\n• um sistema de engrenagens que lhe permite girar as\nespiras em torno de um eixo com uma frequência f.\nAo fazer o gerador funcionar, o estudante obteve uma\ntensão máxima V e uma corrente de curto-circuito i.\nPara dobrar o valor da tensão máxima V do gerador\nmantendo constante o valor da corrente de curto i, o\nestudante deve dobrar o(a)\nA número de espiras.\nB frequência de giro.\nC intensidade do campo magnético.\nD área das espiras.\nE diâmetro do fio.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Para demonstrar o processo de transformação de\nenergia mecânica em elétrica, um estudante constrói um\npequeno gerador utilizando:\n• um fio de cobre de diâmetro D enrolado em N\nespiras circulares de área A;\n• dois ímãs que criam no espaço entre eles um campo\nmagnético uniforme de intensidade B; e\n• um sistema de engrenagens que lhe permite girar as\nespiras em torno de um eixo com uma frequência f.\nAo fazer o gerador funcionar, o estudante obteve uma\ntensão máxima V e uma corrente de curto-circuito i.\nPara dobrar o valor da tensão máxima V do gerador\nmantendo constante o valor da corrente de curto i, o\nestudante deve dobrar o(a)\nA número de espiras.\nB frequência de giro.\nC intensidade do campo magnético.\nD área das espiras.\nE diâmetro do fio.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 128,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 128 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "A ozonólise, reação utilizada na indústria madeireira\npara a produção de papel, é também utilizada em\nescala de laboratório na síntese de aldeídos e cetonas.\nAs duplas ligações dos alcenos são clivadas pela oxidação\ncom o ozônio (O₃), em presença de água e zinco metálico,\ne a reação produz aldeídos e/ou cetonas, dependendo do\ngrau de substituição da ligação dupla. Ligações duplas\ndissubstituídas geram cetonas, enquanto as ligações\nduplas terminais ou monossubstituídas dão origem a\naldeídos, como mostra o esquema.\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n1-fenil-2-metilprop-1-eno\nMARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\nQuais são os produtos formados nessa reação?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-128/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-128/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Benzaldeído e propanona.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Propanal e benzaldeído.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2-fenil-etanal e metanal.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Benzeno e propanona.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Benzaldeído e etanal.",
+          "assets": []
+        }
+      ],
+      "rawText": "A ozonólise, reação utilizada na indústria madeireira\npara a produção de papel, é também utilizada em\nescala de laboratório na síntese de aldeídos e cetonas.\nAs duplas ligações dos alcenos são clivadas pela oxidação\ncom o ozônio (O₃), em presença de água e zinco metálico,\ne a reação produz aldeídos e/ou cetonas, dependendo do\ngrau de substituição da ligação dupla. Ligações duplas\ndissubstituídas geram cetonas, enquanto as ligações\nduplas terminais ou monossubstituídas dão origem a\naldeídos, como mostra o esquema.\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n1-fenil-2-metilprop-1-eno\nMARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\nQuais são os produtos formados nessa reação?\n\nA. Benzaldeído e propanona.\nB. Propanal e benzaldeído.\nC. 2-fenil-etanal e metanal.\nD. Benzeno e propanona.\nE. Benzaldeído e etanal."
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 129,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 129 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        13,
+        14
+      ],
+      "statement": "A terapia celular tem sido amplamente divulgada\ncomo revolucionária, por permitir a regeneração de\ntecidos a partir de células novas. Entretanto, a técnica\nde se introduzirem novas células em um tecido, para o\ntratamento de enfermidades em indivíduos, já era aplicada\nrotineiramente em hospitais.\nA que técnica refere-se o texto?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Vacina.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Biópsia.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Hemodiálise.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Quimioterapia.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Transfusão de sangue. *DO0525AM13* CN - 2º dia | Caderno 5 - AMARELO - Página 14",
+          "assets": []
+        }
+      ],
+      "rawText": "A terapia celular tem sido amplamente divulgada\ncomo revolucionária, por permitir a regeneração de\ntecidos a partir de células novas. Entretanto, a técnica\nde se introduzirem novas células em um tecido, para o\ntratamento de enfermidades em indivíduos, já era aplicada\nrotineiramente em hospitais.\nA que técnica refere-se o texto?\n\nA. Vacina.\nB. Biópsia.\nC. Hemodiálise.\nD. Quimioterapia.\nE. Transfusão de sangue. *DO0525AM13* CN - 2º dia | Caderno 5 - AMARELO - Página 14"
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 130,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 130 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        14
+      ],
+      "statement": "Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma\ncerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja\nletal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência\nelétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1 000 Ω.\nPara que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma\nresistência interna que, em relação à do corpo humano, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "praticamente nula.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "aproximadamente igual.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "milhares de vezes maior.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "da ordem de 10 vezes maior.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "da ordem de 10 vezes menor.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma\ncerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja\nletal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência\nelétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1 000 Ω.\nPara que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma\nresistência interna que, em relação à do corpo humano, é\n\nA. praticamente nula.\nB. aproximadamente igual.\nC. milhares de vezes maior.\nD. da ordem de 10 vezes maior.\nE. da ordem de 10 vezes menor."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 131,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 131 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        14,
+        15
+      ],
+      "statement": "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes\nde uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e\na fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver\naté 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel,\ntambém líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes\ncom a fase estacionária migram mais lentamente.\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes\nde um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nγ-caroteno\nα-criptoxantina\nOH\nCapsorubina\nO\n\nOH\nHO\n\nO\nLicopeno\n\nα-caroteno\n\nRIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\nA substância presente na mistura que migra mais lentamente é o(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "licopeno.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "α-caroteno.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "γ-caroteno.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "capsorubina.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "α-criptoxantina. *DO0525AM14* CN - 2º dia | Caderno 5 - AMARELO - Página 15",
+          "assets": []
+        }
+      ],
+      "rawText": "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes\nde uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e\na fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver\naté 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel,\ntambém líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes\ncom a fase estacionária migram mais lentamente.\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes\nde um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nγ-caroteno\nα-criptoxantina\nOH\nCapsorubina\nO\n\nOH\nHO\n\nO\nLicopeno\n\nα-caroteno\n\nRIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\nA substância presente na mistura que migra mais lentamente é o(a)\n\nA. licopeno.\nB. α-caroteno.\nC. γ-caroteno.\nD. capsorubina.\nE. α-criptoxantina. *DO0525AM14* CN - 2º dia | Caderno 5 - AMARELO - Página 15"
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 132,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 132 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "A reação em cadeia da polimerase (PCR, na sigla em\ninglês) é uma técnica de biologia molecular que permite\nreplicação in vitro do DNA de forma rápida. Essa técnica\nsurgiu na década de 1980 e permitiu avanços científicos\nem todas as áreas de investigação genômica. A dupla\nhélice é estabilizada por ligações hidrogênio, duas entre\nas bases adenina (A) e timina (T) e três entre as bases\nguanina (G) e citosina (C). Inicialmente, para que o DNA\npossa ser replicado, a dupla hélice precisa ser totalmente\ndesnaturada (desenrolada) pelo aumento da temperatura,\nquando são desfeitas as ligações hidrogênio entre as\ndiferentes bases nitrogenadas.\nQual dos segmentos de DNA será o primeiro a desnaturar\ntotalmente durante o aumento da temperatura na reação\nde PCR?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A reação em cadeia da polimerase (PCR, na sigla em\ninglês) é uma técnica de biologia molecular que permite\nreplicação in vitro do DNA de forma rápida. Essa técnica\nsurgiu na década de 1980 e permitiu avanços científicos\nem todas as áreas de investigação genômica. A dupla\nhélice é estabilizada por ligações hidrogênio, duas entre\nas bases adenina (A) e timina (T) e três entre as bases\nguanina (G) e citosina (C). Inicialmente, para que o DNA\npossa ser replicado, a dupla hélice precisa ser totalmente\ndesnaturada (desenrolada) pelo aumento da temperatura,\nquando são desfeitas as ligações hidrogênio entre as\ndiferentes bases nitrogenadas.\nQual dos segmentos de DNA será o primeiro a desnaturar\ntotalmente durante o aumento da temperatura na reação\nde PCR?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 133,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 133 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "No ar que respiramos existem os chamados “gases\ninertes”. Trazem curiosos nomes gregos, que significam\n“o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal\nmodo inertes, tão satisfeitos em sua condição, que\nnão interferem em nenhuma reação química, não se\ncombinam com nenhum outro elemento e justamente por\nesse motivo ficaram sem ser observados durante séculos:\nsó em 1962 um químico, depois de longos e engenhosos\nesforços, conseguiu forçar “o Estrangeiro” (o xenônio) a\ncombinar-se fugazmente com o flúor ávido e vivaz, e a\nfaçanha pareceu tão extraordinária que lhe foi conferido\no Prêmio Nobel.\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).\nQual propriedade do flúor justifica sua escolha como\nreagente para o processo mencionado?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Densidade.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Condutância.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Eletronegatividade.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Estabilidade nuclear.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Temperatura de ebulição.",
+          "assets": []
+        }
+      ],
+      "rawText": "No ar que respiramos existem os chamados “gases\ninertes”. Trazem curiosos nomes gregos, que significam\n“o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal\nmodo inertes, tão satisfeitos em sua condição, que\nnão interferem em nenhuma reação química, não se\ncombinam com nenhum outro elemento e justamente por\nesse motivo ficaram sem ser observados durante séculos:\nsó em 1962 um químico, depois de longos e engenhosos\nesforços, conseguiu forçar “o Estrangeiro” (o xenônio) a\ncombinar-se fugazmente com o flúor ávido e vivaz, e a\nfaçanha pareceu tão extraordinária que lhe foi conferido\no Prêmio Nobel.\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).\nQual propriedade do flúor justifica sua escolha como\nreagente para o processo mencionado?\n\nA. Densidade.\nB. Condutância.\nC. Eletronegatividade.\nD. Estabilidade nuclear.\nE. Temperatura de ebulição."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 134,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 134 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "No manual fornecido pelo fabricante de uma ducha\nelétrica de 220 V é apresentado um gráfico com a variação\nda temperatura da água em função da vazão para três\ncondições (morno, quente e superquente). Na condição\nsuperquente, a potência dissipada é de 6 500 W. Considere\no calor específico da água igual a 4 200 J/(kg °C) e\ndensidade da água igual a 1 kg/L.\nElevação de temperatura × Curva vazão\n\n∆T (°C)\n\nCom base nas informações dadas, a potência na condição\nmorno corresponde a que fração da potência na condição\nsuperquente?",
+      "statementAssets": [
+        "/generated/enem-2017/ciencias-natureza/question-134/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/ciencias-natureza/question-134/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-134/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-134/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-134/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-134/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-134/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "No manual fornecido pelo fabricante de uma ducha\nelétrica de 220 V é apresentado um gráfico com a variação\nda temperatura da água em função da vazão para três\ncondições (morno, quente e superquente). Na condição\nsuperquente, a potência dissipada é de 6 500 W. Considere\no calor específico da água igual a 4 200 J/(kg °C) e\ndensidade da água igual a 1 kg/L.\nElevação de temperatura × Curva vazão\n\n∆T (°C)\n\nCom base nas informações dadas, a potência na condição\nmorno corresponde a que fração da potência na condição\nsuperquente?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 135,
+      "year": 2017,
+      "area": "Ciências da Natureza",
+      "title": "Questão 135 — ENEM 2017 — Ciências da Natureza",
+      "sourcePages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "statement": "A retina é um tecido sensível à luz, localizado na parte\nposterior do olho, onde ocorre o processo de formação\nde imagem. Nesse tecido, encontram-se vários tipos\ncelulares específicos. Um desses tipos celulares são os\ncones, os quais convertem os diferentes comprimentos\nde onda da luz visível em sinais elétricos, que são\ntransmitidos pelo nervo óptico até o cérebro.\nDisponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).\nEm relação à visão, a degeneração desse tipo celular irá",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "comprometer a capacidade de visão em cores. 4 192. 1,20. 1. I. 64 0,075 19 h 30 min e 20 h 10 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 12. 33% 90° no sentido horário. 7,00. C6,4 11,25. P1 5 18 tetraedro. P. h v 2,82 1. apenas o aluno Y. semirreta oblíqua. 2,25 Após concluir o desenho, ela o encaminha para o\nsetor de produção. Ao receber o desenho com a indicação\ndo raio da tampa, verificará em qual intervalo este se\nencontra e decidirá o tipo de material a ser utilizado na\nsua fabricação, de acordo com os dados. Tipo de material\nIntervalo de valores do raio (cm) I\n0 < R ≤ 5 II\n5 < R ≤ 10 III\n10 < R ≤ 15 IV\n15 < R ≤ 21 V\n21 < R ≤ 40 Considere 1,7 como aproximação para\n3. O tipo de material a ser utilizado pelo setor de\nprodução será I. 3,099. 100. I. 15 1 e 49 8,1% 231. 1. 5 °C 12 , 24 e 36. 0 P(t) = 99 + 21cos(3πt)",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-01.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-02.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-03.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-04.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-05.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-a-06.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "impedir a projeção dos raios luminosos na retina. 3 300. 0,90. 2. II. 56 0,150 19 h 20 min e 19 h 30 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 14. 50% Para recolocar a tela na sua posição original, deve-se\ngirá-la, rente à parede, no menor ângulo possível inferior\na 360°.\nA forma de recolocar a tela na posição original, obedecendo\nao que foi estabelecido, é girando-a em um ângulo de 135° no sentido horário. 7,38. C9,3 27,00. P2 10 20 pirâmide retangular. Q. h v 3,52 2. apenas o aluno Z. semirreta horizontal. 3,90 0/3 II. 3,970. 400. II. 30 1 e 99 8,0% 431. 2. 7 °C 6 , 12 e 18. Ao ser divulgado esse resultado em jornal, o Gráfico 1\nfoi cortado durante a diagramação, como mostra o Gráfico 2. 20\nA Eleitores (%) Gráfico 2\nCandidato Apesar de os valores apresentados estarem corretos\ne a largura das colunas ser a mesma, muitos leitores\ncriticaram o formato do Gráfico 2 impresso no jornal,\nalegando que houve prejuízo visual para o candidato B. A diferença entre as razões da altura da coluna B pela\ncoluna A nos gráficos 1 e 2 é P(t) = 78 + 42cos(3πt) r Região onde serão\nafixados os doces A parte hachurada\nserá apoiada\nna mesa Calota a ser cortada\ne eliminada Para atingir todos os seus objetivos, o chefe deverá cortar\na calota do melão numa altura h, em centímetro, igual a",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-01.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-02.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-03.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-04.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-05.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-06.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-07.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-b-08.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "provocar a formação de imagens invertidas na retina. 2 304. 0,60. 3. III. 49 0,325 19 h 10 min e 19 h 20 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 15. 57% 180° no sentido anti-horário. 7,50. C10,4 28,80. P3 15 24 tronco de pirâmide retangular. R. h v *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23 A manchete demonstra que o transporte de grandes\ncargas representa cada vez mais preocupação quando\nfeito em vias urbanas. Caminhão entala em viaduto no Centro Um caminhão de grande porte entalou embaixo do\nviaduto no cruzamento das avenidas Borges de Medeiros\ne Loureiro da Silva no sentido Centro-Bairro, próximo à\nPonte de Pedra, na capital. Esse veículo vinha de São\nPaulo para Porto Alegre e transportava três grandes\ntubos, conforme ilustrado na foto. Disponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado). Considere que o raio externo de cada cano da imagem\nseja 0,60 m e que eles estejam em cima de uma carroceria\ncuja parte superior está a 1,30 m do solo. O desenho\nrepresenta a vista traseira do empilhamento dos canos. 0,60 m A margem de segurança recomendada para que\num veículo passe sob um viaduto é que a altura total do\nveículo com a carga seja, no mínimo, 0,50 m menor do\nque a altura do vão do viaduto. Considere 1,7 como aproximação para\n3. Qual deveria ser a altura mínima do viaduto, em metro,\npara que esse caminhão pudesse passar com segurança\nsob seu vão? 3,70 3. apenas os alunos X e Y. ramo de parábola. 4,35 III. 4,025. 1 600. III. 108 10 e 10 7,9% 472. 4. 13 °C 2 , 4 e 6. 25 P(t) = 99 + 21cos(2πt) 1",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-01.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-02.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-03.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-04.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-05.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-c-06.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "causar dificuldade de visualização de objetos próximos. 1 320. 0,40. 4. IV. 36 0,600 19 h e 19 h 10 min.   \n\n\n  16. 70% 270° no sentido anti-horário. 8,25. 64 32,25. P4 20 36 prisma quadrangular reto. S. h v 4,02 4. apenas os alunos X e Z. arco de circunferência. 4,40 IV. 4,080. 6 250. IV. 360 25 e 25 7,7% 523. 5. 15 °C 300 , 1 200 e 2 700. P(t) = 99 + 21cos(t) 4",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-01.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-02.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-03.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-04.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-05.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-06.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-d-07.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "acarretar a perda da capacidade de alterar o diâmetro da pupila. *DO0525AM15* MT - 2º dia | Caderno 5 - AMARELO - Página 16 Os congestionamentos de trânsito constituem um\nproblema que aflige, todos os dias, milhares de motoristas\nbrasileiros. O gráfico ilustra a situação, representando, ao\nlongo de um intervalo definido de tempo, a variação da\nvelocidade de um veículo durante um congestionamento. Velocidade Quantos minutos o veículo permaneceu imóvel ao longo\ndo intervalo de tempo total analisado? 0 Um garçom precisa escolher uma bandeja de base\nretangular para servir quatro taças de espumante que\nprecisam ser dispostas em uma única fileira, paralela\nao lado maior da bandeja, e com suas bases totalmente\napoiadas na bandeja. A base e a borda superior das taças\nsão círculos de raio 4 cm e 5 cm, respectivamente. A bandeja a ser escolhida deverá ter uma área mínima,\nem centímetro quadrado, igual a 400. Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1 de polpa de acerola. Para o comerciante, as polpas são vendidas em\nembalagens de igual volume. Atualmente, a embalagem\nda polpa de morango custa R$ 18,00 e a de acerola,\nR$ 14,70. Porém, está prevista uma alta no preço\nda embalagem da polpa de acerola no próximo mês,\npassando a custar R$ 15,30. Para não aumentar o preço do suco, o comerciante\nnegociou com o fornecedor uma redução no preço da\nembalagem da polpa de morango. A redução, em real, no preço da embalagem da polpa de\nmorango deverá ser de 0,30. Um casal realiza sua mudança de domicílio\ne necessita colocar numa caixa de papelão um\nobjeto cúbico, de 80 cm de aresta, que não pode ser\ndesmontado. Eles têm à disposição cinco caixas, com\ndiferentes dimensões, conforme descrito: • Caixa 1: 86 cm × 86 cm × 86 cm • Caixa 2: 75 cm × 82 cm × 90 cm • Caixa 3: 85 cm × 82 cm × 90 cm • Caixa 4: 82 cm × 95 cm × 82 cm • Caixa 5: 80 cm × 95 cm × 85 cm O casal precisa escolher uma caixa na qual o\nobjeto caiba, de modo que sobre o menor espaço livre\nem seu interior. A caixa escolhida pelo casal deve ser a de número 5. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17 Uma empresa construirá sua página na internet\ne espera atrair um público de aproximadamente um\nmilhão de clientes. Para acessar essa página, será\nnecessária uma senha com formato a ser definido pela\nempresa. Existem cinco opções de formato oferecidas\npelo programador, descritas no quadro, em que “L” e “D”\nrepresentam, respectivamente, letra maiúscula e dígito. Opção\nFormato I\nLDDDDD II\nDDDDDD III\nLLDDDD IV\nDDDDD V\nLLLDD As letras do alfabeto, entre as 26 possíveis, bem\ncomo os dígitos, entre os 10 possíveis, podem se repetir\nem qualquer das opções. A empresa quer escolher uma opção de formato cujo\nnúmero de senhas distintas possíveis seja superior ao\nnúmero esperado de clientes, mas que esse número não\nseja superior ao dobro do número esperado de clientes. A opção que mais se adequa às condições da empresa é V. Como não são adeptos da prática de esportes, um\ngrupo de amigos resolveu fazer um torneio de futebol\nutilizando videogame. Decidiram que cada jogador joga\numa única vez com cada um dos outros jogadores.\nO campeão será aquele que conseguir o maior número de\npontos. Observaram que o número de partidas jogadas\ndepende do número de jogadores, como mostra o quadro: Se a quantidade de jogadores for 8, quantas partidas\nserão realizadas? 28 Um morador de uma região metropolitana tem 50%\nde probabilidade de atrasar-se para o trabalho quando\nchove na região; caso não chova, sua probabilidade de\natraso é de 25%. Para um determinado dia, o serviço\nde meteorologia estima em 30% a probabilidade da\nocorrência de chuva nessa região. Qual é a probabilidade de esse morador se atrasar para o\nserviço no dia para o qual foi dada a estimativa de chuva? 0,800 Às 17 h 15 min começa uma forte chuva, que cai\ncom intensidade constante. Uma piscina em forma\nde um paralelepípedo retângulo, que se encontrava\ninicialmente vazia, começa a acumular a água da chuva\ne, às 18 horas, o nível da água em seu interior alcança\n20 cm de altura. Nesse instante, é aberto o registro que\nlibera o escoamento da água por um ralo localizado no\nfundo dessa piscina, cuja vazão é constante. Às 18 h 40 min\na chuva cessa e, nesse exato instante, o nível da água na\npiscina baixou para 15 cm. O instante em que a água dessa piscina terminar de\nescoar completamente está compreendido entre 18 h 40 min e 19 h. *DO0525AM17* MT - 2º dia | Caderno 5 - AMARELO - Página 18 Um empréstimo foi feito à taxa mensal de i%, usando\njuros compostos, em oito parcelas fixas e iguais a P. A expressão que corresponde ao valor total pago pela\nquitação do empréstimo é  \n\n\n  Para realizar a viagem dos sonhos, uma pessoa\nprecisava fazer um empréstimo no valor de R$ 5 000,00.\nPara pagar as prestações, dispõe de, no máximo,\nR$ 400,00 mensais. Para esse valor de empréstimo,\no valor da prestação (P) é calculado em função do\nnúmero de prestações (n) segundo a fórmula Se necessário, utilize 0,005 como aproximação para\nlog 1,013; 2,602 como aproximação para log 400; 2,525\ncomo aproximação para log 335. De acordo com a fórmula dada, o menor número de\nparcelas cujos valores não comprometem o limite definido\npela pessoa é 17. Raios de luz solar estão atingindo a superfície de\num lago formando um ângulo x com a sua superfície,\nconforme indica a figura. , sendo k uma constante, e supondo-se que x está entre\n0° e 90°. x Quando x = 30º, a intensidade luminosa se reduz a qual\npercentual de seu valor máximo? 86% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19 A imagem apresentada na figura é uma cópia em preto\ne branco da tela quadrada intitulada O peixe, de Marcos\nPinto, que foi colocada em uma parede para exposição e\nfixada nos pontos A e B. Por um problema na fixação de um dos pontos, a tela\nse desprendeu, girando rente à parede. Após o giro, ela\nficou posicionada como ilustrado na figura, formando um\nângulo de 45° com a linha do horizonte. 315° no sentido horário. A avaliação de rendimento de alunos de um curso\nuniversitário baseia-se na média ponderada das notas\nobtidas nas disciplinas pelos respectivos números de\ncréditos, como mostra o quadro: Avaliação\nMédia de notas (M) Excelente\n9 < M ≤ 10 Bom\n7 ≤ M ≤ 9 Regular\n5 ≤ M < 7 Ruim\n3 ≤ M < 5 Péssimo\nM < 3 Quanto melhor a avaliação de um aluno em\ndeterminado período letivo, maior sua prioridade na\nescolha de disciplinas para o período seguinte. Determinado aluno sabe que se obtiver avaliação\n“Bom” ou “Excelente” conseguirá matrícula nas disciplinas\nque deseja. Ele já realizou as provas de 4 das 5 disciplinas\nem que está matriculado, mas ainda não realizou a prova\nda disciplina I, conforme o quadro. Para que atinja seu objetivo, a nota mínima que ele deve\nconseguir na disciplina I é 9,00. *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20 Um brinquedo infantil caminhão-cegonha é formado\npor uma carreta e dez carrinhos nela transportados,\nconforme a figura. No setor de produção da empresa que fabrica esse\nbrinquedo, é feita a pintura de todos os carrinhos para que\no aspecto do brinquedo fique mais atraente. São utilizadas\nas cores amarelo, branco, laranja e verde, e cada carrinho\né pintado apenas com uma cor. O caminhão-cegonha\ntem uma cor fixa. A empresa determinou que em todo\ncaminhão-cegonha deve haver pelo menos um carrinho\nde cada uma das quatro cores disponíveis. Mudança de\nposição dos carrinhos no caminhão-cegonha não gera um\nnovo modelo do brinquedo. Com base nessas informações, quantos são os modelos\ndistintos do brinquedo caminhão-cegonha que essa\nempresa poderá produzir? 46 Uma empresa especializada em conservação de\npiscinas utiliza um produto para tratamento da água cujas\nespecificações técnicas sugerem que seja adicionado\n1,5 mL desse produto para cada 1 000 L de água da\npiscina. Essa empresa foi contratada para cuidar de uma\npiscina de base retangular, de profundidade constante\nigual a 1,7 m, com largura e comprimento iguais a 3 m\ne 5 m, respectivamente. O nível da lâmina d’água dessa\npiscina é mantido a 50 cm da borda da piscina. A quantidade desse produto, em mililitro, que deve ser\nadicionada a essa piscina de modo a atender às suas\nespecificações técnicas é 49,50. Um instituto de pesquisas eleitorais recebe uma\nencomenda na qual a margem de erro deverá ser de, no\nmáximo, 2 pontos percentuais (0,02). O instituto tem 5 pesquisas recentes, P1 a P5, sobre\no tema objeto da encomenda e irá usar a que tiver o erro\nmenor que o pedido. Os dados sobre as pesquisas são os seguintes: |\n|\n,\ne\nN\n< 196 σ em que σ é um parâmetro e N é o número de pessoas\nentrevistadas pela pesquisa. Qual pesquisa deverá ser utilizada? P5 Em um teleférico turístico, bondinhos saem de\nestações ao nível do mar e do topo de uma montanha.\nA travessia dura 1,5 minuto e ambos os bondinhos se\ndeslocam à mesma velocidade. Quarenta segundos após\no bondinho A partir da estação ao nível do mar, ele cruza\ncom o bondinho B, que havia saído do topo da montanha. Quantos segundos após a partida do bondinho B partiu o\nbondinho A? 25 *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21 Num dia de tempestade, a alteração na profundidade\nde um rio, num determinado local, foi registrada durante\num período de 4 horas. Os resultados estão indicados no\ngráfico de linhas. Nele, a profundidade h, registrada às\n13 horas, não foi anotada e, a partir de h, cada unidade\nsobre o eixo vertical representa um metro. Hora\n0 Profundidade (m) Registro de profundidade Foi informado que entre 15 horas e 16 horas, a\nprofundidade do rio diminuiu em 10%. Às 16 horas, qual é a profundidade do rio, em metro, no\nlocal onde foram feitos os registros? 40 Uma rede hoteleira dispõe de cabanas simples na\nilha de Gotland, na Suécia, conforme Figura 1. A estrutura\nde sustentação de cada uma dessas cabanas está\nrepresentada na Figura 2. A ideia é permitir ao hóspede uma\nestada livre de tecnologia, mas conectada com a natureza. Figura 2 ROMERO, L. Tendências. Superinteressante, n. 315, fev. 2013 (adaptado). A forma geométrica da superfície cujas arestas estão\nrepresentadas na Figura 2 é prisma triangular reto. A figura ilustra uma partida de Campo Minado, o jogo\npresente em praticamente todo computador pessoal.\nQuatro quadrados em um tabuleiro 16 × 16 foram abertos,\ne os números em suas faces indicam quantos dos seus\n8 vizinhos contêm minas (a serem evitadas). O número\n40 no canto inferior direito é o número total de minas no\ntabuleiro, cujas posições foram escolhidas ao acaso, de\nforma uniforme, antes de se abrir qualquer quadrado. Em sua próxima jogada, o jogador deve escolher\ndentre os quadrados marcados com as letras P, Q, R, S\ne T um para abrir, sendo que deve escolher aquele com a\nmenor probabilidade de conter uma mina. O jogador deverá abrir o quadrado marcado com a letra T. *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22 A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos,\nem formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura. Reservatório 1\nReservatório 2 Cano de\nentrada A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do\ncano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios. Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água\nno sistema? h v 4,20 Um menino acaba de se mudar para um novo bairro\ne deseja ir à padaria. Pediu ajuda a um amigo que\nlhe forneceu um mapa com pontos numerados, que\nrepresentam cinco locais de interesse, entre os quais\nestá a padaria. Além disso, o amigo passou as seguintes\ninstruções: a partir do ponto em que você se encontra,\nrepresentado pela letra X, ande para oeste, vire à direita\nna primeira rua que encontrar, siga em frente e vire à\nesquerda na próxima rua. A padaria estará logo a seguir. Rua C Rua D Rua E Rua 1 Rua 2 Rua 3 Rua 4 Rua 5 X 4/5 N S O\nL A padaria está representada pelo ponto numerado com 5. Três alunos, X, Y e Z, estão matriculados em um curso\nde inglês. Para avaliar esses alunos, o professor optou por\nfazer cinco provas. Para que seja aprovado nesse curso,\no aluno deverá ter a média aritmética das notas das cinco\nprovas maior ou igual a 6. Na tabela, estão dispostas as\nnotas que cada aluno tirou em cada prova. Com base nos dados da tabela e nas informações dadas,\nficará(ão) reprovado(s) os alunos X, Y e Z. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24 O fisiologista inglês Archibald Vivian Hill propôs,\nem seus estudos, que a velocidade v de contração de\num músculo ao ser submetido a um peso p é dada pela\nequação (p + a) (v + b) = K, com a, b e K constantes. Um fisioterapeuta, com o intuito de maximizar o efeito\nbenéfico dos exercícios que recomendaria a um de seus\npacientes, quis estudar essa equação e a classificou\ndesta forma: Tipo de curva Semirreta oblíqua Semirreta horizontal Ramo de parábola Arco de circunferência Ramo de hipérbole O fisioterapeuta analisou a dependência entre v e p\nna equação de Hill e a classificou de acordo com sua\nrepresentação geométrica no plano cartesiano, utilizando\no par de coordenadas (p ; v). Admita que K > 0. Disponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado). O gráfico da equação que o fisioterapeuta utilizou para\nmaximizar o efeito dos exercícios é do tipo ramo de hipérbole. Em um parque há dois mirantes de alturas distintas\nque são acessados por elevador panorâmico. O topo\ndo mirante 1 é acessado pelo elevador 1, enquanto\nque o topo do mirante 2 é acessado pelo elevador 2.\nEles encontram-se a uma distância possível de ser\npercorrida a pé, e entre os mirantes há um teleférico que\nos liga que pode ou não ser utilizado pelo visitante. Mirante 1\nMirante 2 O acesso aos elevadores tem os seguintes custos: • Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30. O custo da passagem do teleférico partindo do topo\ndo mirante 1 para o topo do mirante 2 é de R$ 2,00, e do\ntopo do mirante 2 para o topo do mirante 1 é de R$ 2,50. Qual é o menor custo, em real, para uma pessoa visitar os\ntopos dos dois mirantes e retornar ao solo? 4,45 A mensagem digitada no celular, enquanto você\ndirige, tira a sua atenção e, por isso, deve ser evitada.\nPesquisas mostram que um motorista que dirige um\ncarro a uma velocidade constante percorre “às cegas”\n(isto é, sem ter visão da pista) uma distância proporcional\nao tempo gasto ao olhar para o celular durante a digitação\nda mensagem. Considere que isso de fato aconteça.\nSuponha que dois motoristas (X e Y) dirigem com a mesma\nvelocidade constante e digitam a mesma mensagem em\nseus celulares. Suponha, ainda, que o tempo gasto pelo\nmotorista X olhando para seu celular enquanto digita a\nmensagem corresponde a 25% do tempo gasto pelo\nmotorista Y para executar a mesma tarefa. Disponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado). A razão entre as distâncias percorridas às cegas por\nX e Y, nessa ordem, é igual a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25 Uma desenhista projetista deverá desenhar uma\ntampa de panela em forma circular. Para realizar esse\ndesenho, ela dispõe, no momento, de apenas um\ncompasso, cujo comprimento das hastes é de 10 cm, um\ntransferidor e uma folha de papel com um plano cartesiano.\nPara esboçar o desenho dessa tampa, ela afastou as\nhastes do compasso de forma que o ângulo formado por\nelas fosse de 120°. A ponta seca está representada pelo\nponto C, a ponta do grafite está representada pelo ponto\nB e a cabeça do compasso está representada pelo ponto\nA conforme a figura. 120° y x V. Uma pessoa ganhou uma pulseira formada por\npérolas esféricas, na qual faltava uma das pérolas. A figura\nindica a posição em que estaria faltando esta pérola. Ela levou a joia a um joalheiro que verificou que a\nmedida do diâmetro dessas pérolas era 4 milímetros.\nEm seu estoque, as pérolas do mesmo tipo e formato,\ndisponíveis para reposição, tinham diâmetros iguais a:\n4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm. O joalheiro então colocou na pulseira a pérola cujo\ndiâmetro era o mais próximo do diâmetro das pérolas\noriginais. A pérola colocada na pulseira pelo joalheiro tem diâmetro,\nem milímetro, igual a 4,100. Em uma de suas viagens, um turista comprou uma\nlembrança de um dos monumentos que visitou. Na base\ndo objeto há informações dizendo que se trata de uma\npeça em escala 1 : 400, e que seu volume é de 25 cm₃. O volume do monumento original, em metro cúbico, é de 10 000. *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26 Uma bicicleta do tipo mountain bike tem uma coroa\ncom 3 engrenagens e uma catraca com 6 engrenagens,\nque, combinadas entre si, determinam 18 marchas\n(número de engrenagens da coroa vezes o número de\nengrenagens da catraca). Os números de dentes das engrenagens das coroas\ne das catracas dessa bicicleta estão listados no quadro. Sabe-se que o número de voltas efetuadas pela\nroda traseira a cada pedalada é calculado dividindo-se a\nquantidade de dentes da coroa pela quantidade de dentes\nda catraca. Durante um passeio em uma bicicleta desse tipo,\ndeseja-se fazer um percurso o mais devagar possível,\nescolhendo, para isso, uma das seguintes combinações\nde engrenagens (coroa x catraca): A combinação escolhida para realizar esse passeio da\nforma desejada é V. O comitê organizador da Copa do Mundo 2014 criou\na logomarca da Copa, composta de uma figura plana e\no slogan “Juntos num só ritmo”, com mãos que se unem\nformando a taça Fifa. Considere que o comitê organizador\nresolvesse utilizar todas as cores da bandeira nacional\n(verde, amarelo, azul e branco) para colorir a logomarca,\nde forma que regiões vizinhas tenham cores diferentes. Disponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado). De quantas maneiras diferentes o comitê organizador da\nCopa poderia pintar a logomarca com as cores citadas? 972 X Y Nível do mar Quais devem ser os valores de X e de Y, em metro, para\nque a área da base do viveiro seja máxima? 50 e 50 *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27 Para uma temporada das corridas de Fórmula 1,\na capacidade do tanque de combustível de cada carro\npassou a ser de 100 kg de gasolina. Uma equipe\noptou por utilizar uma gasolina com densidade de\n750 gramas por litro, iniciando a corrida com o tanque cheio.\nNa primeira parada de reabastecimento, um carro dessa\nequipe apresentou um registro em seu computador de\nbordo acusando o consumo de quatro décimos da gasolina\noriginalmente existente no tanque. Para minimizar o peso\ndesse carro e garantir o término da corrida, a equipe de\napoio reabasteceu o carro com a terça parte do que restou\nno tanque na chegada ao reabastecimento. Disponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado). A quantidade de gasolina utilizada, em litro, no\nreabastecimento foi O gráfico apresenta a taxa de desemprego (em %)\npara o período de março de 2008 a abril de 2009,\nobtida com base nos dados observados nas regiões\nmetropolitanas de Recife, Salvador, Belo Horizonte,\nRio de Janeiro, São Paulo e Porto Alegre. Taxa de desemprego (%) 03/08/04\n05 06/07\n08/09\n10/11\n12 01/09/02 03/04 IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.\nAcesso em: 30 jul. 2012 (adaptado). A mediana dessa taxa de desemprego, no período de\nmarço de 2008 a abril de 2009, foi de 7,6% Numa avenida existem 10 semáforos. Por causa de\numa pane no sistema, os semáforos ficaram sem controle\ndurante uma hora, e fixaram suas luzes unicamente em\nverde ou vermelho. Os semáforos funcionam de forma\nindependente; a probabilidade de acusar a cor verde é de 2/3 e a de acusar a cor vermelha é de 1\n3 . Uma pessoa percorreu a pé toda essa avenida durante o período\nda pane, observando a cor da luz de cada um desses\nsemáforos. Qual a probabilidade de que esta pessoa tenha observado\nexatamente um sinal na cor verde? A energia solar vai abastecer parte da demanda de energia\ndo campus de uma universidade brasileira. A instalação de\npainéis solares na área dos estacionamentos e na cobertura\ndo hospital pediátrico será aproveitada nas instalações\nuniversitárias e também ligada na rede da companhia elétrica\ndistribuidora de energia.\nO projeto inclui 100 m² de painéis solares que ficarão\ninstalados nos estacionamentos, produzindo energia elétrica\ne proporcionando sombra para os carros. Sobre o hospital\npediátrico serão colocados aproximadamente 300 m² de\npainéis, sendo 100 m² para gerar energia elétrica utilizada no\ncampus, e 200 m² para geração de energia térmica, produzindo\naquecimento de água utilizada nas caldeiras do hospital.\nSuponha que cada metro quadrado de painel solar\npara energia elétrica gere uma economia de 1 kWh por dia\ne cada metro quadrado produzindo energia térmica permita\neconomizar 0,7 kWh por dia para a universidade. Em\numa segunda fase do projeto, será aumentada em 75%\na área coberta pelos painéis solares que geram energia\nelétrica. Nessa fase também deverá ser ampliada a área\nde cobertura com painéis para geração de energia térmica. 672. *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28 Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água\ncontida em cada reservatório nesse período pode ser visualizada na figura. Reservatório B Tempo (h) Reservatório B Reservatório A O número de horas em que os dois reservatórios contêm a mesma quantidade de água é 6. *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29 Neste modelo de termômetro, os filetes na cor preta\nregistram as temperaturas mínima e máxima do dia anterior\ne os filetes na cor cinza registram a temperatura ambiente\natual, ou seja, no momento da leitura do termômetro. −₃₀ −₂₀ −₁₀ −₁₀ −₂₀ −₃₀ Por isso ele tem duas colunas. Na da esquerda, os\nnúmeros estão em ordem crescente, de cima para baixo,\nde -30 °C até 50 °C. Na coluna da direita, os números\nestão ordenados de forma crescente, de baixo para cima,\nde -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior\ndo filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior\ndo filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior\ndos filetes cinza nas duas colunas. Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado). Qual é a temperatura máxima mais aproximada registrada\nnesse termômetro? 19 °C Pivô central é um sistema de irrigação muito usado\nna agricultura, em que uma área circular é projetada para\nreceber uma estrutura suspensa. No centro dessa área, há\numa tubulação vertical que transmite água através de um\ncano horizontal longo, apoiado em torres de sustentação,\nas quais giram, sobre rodas, em torno do centro do pivô,\ntambém chamado de base, conforme mostram as figuras.\nCada torre move-se com velocidade constante. BASE T1\nT2\nT3 Um pivô de três torres (T₁, T₂ e T₃) será instalado\nem uma fazenda, sendo que as distâncias entre torres\nconsecutivas bem como da base à torre T₁ são iguais a\n50 m. O fazendeiro pretende ajustar as velocidades das\ntorres, de tal forma que o pivô efetue uma volta completa\nem 25 horas. Use 3 como aproximação para π. Para atingir seu objetivo, as velocidades das torres T₁, T₂\ne T₃ devem ser, em metro por hora, de 600 , 2 400 e 5 400. *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30 A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha,\nem Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal\nda capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos. 5 metros 4 metros\n3 metros H metros Figura 1\nFigura 2 Qual a medida da altura H, em metro, indicada na Figura 2? 75 Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado umminiaplicativo de computador\nque roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa\nacessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso\nda sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias. Tempo de acesso na sexta-feira (minuto)\nTempo de acesso no sábado (minuto) Site X\n12 Site Y\n30 Site U\n40 Site W\n57 Site Z\n11 Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado,\nfoi no site\nA X.\nB Y.\nC Z.\nD W.\nE U. *DO0525AM30* MT - 2º dia | Caderno 5 - AMARELO - Página 31 O resultado de uma pesquisa eleitoral, sobre a\npreferência dos eleitores em relação a dois candidatos,\nfoi representado por meio do Gráfico 1. 0\nA Gráfico 1\nCandidato Eleitores (%) Um cientista, em seus estudos para modelar a\npressão arterial de uma pessoa, utiliza uma função do\ntipo P(t) = A + Bcos(kt) em que A, B e K são constantes\nreais positivas e t representa a variável tempo, medida\nem segundo. Considere que um batimento cardíaco\nrepresenta o intervalo de tempo entre duas sucessivas\npressões máximas. Ao analisar um caso específico, o cientista obteve os dados: Pressão mínima\n78 Pressão máxima\n120 Número de batimentos cardíacos por minuto\n90 A função P(t) obtida, por este cientista, ao analisar o caso\nespecífico foi P(t) = 78 + 42cos(t) Para decorar uma mesa de festa infantil, um chefe de\ncozinha usará um melão esférico com diâmetro medindo\n10 cm, o qual servirá de suporte para espetar diversos\ndoces. Ele irá retirar uma calota esférica do melão,\nconforme ilustra a figura, e, para garantir a estabilidade\ndeste suporte, dificultando que o melão role sobre a\nmesa, o chefe fará o corte de modo que o raio r da seção\ncircular de corte seja de pelo menos 3 cm. Por outro lado,\no chefe desejará dispor da maior área possível da região\nem que serão afixados os doces. h O 5 *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*",
+          "assets": [
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-01.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-02.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-03.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-04.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-05.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-06.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-07.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-08.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-09.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-10.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-11.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-12.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-13.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-14.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-15.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-16.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-17.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-18.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-19.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-20.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-21.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-22.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-23.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-24.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-25.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-26.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-27.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-28.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-29.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-30.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-31.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-32.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-33.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-34.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-35.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-36.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-37.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-38.png",
+            "/generated/enem-2017/ciencias-natureza/question-135/option-e-39.png"
+          ]
+        }
+      ],
+      "rawText": "A retina é um tecido sensível à luz, localizado na parte\nposterior do olho, onde ocorre o processo de formação\nde imagem. Nesse tecido, encontram-se vários tipos\ncelulares específicos. Um desses tipos celulares são os\ncones, os quais convertem os diferentes comprimentos\nde onda da luz visível em sinais elétricos, que são\ntransmitidos pelo nervo óptico até o cérebro.\nDisponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).\nEm relação à visão, a degeneração desse tipo celular irá\n\nA. comprometer a capacidade de visão em cores. 4 192. 1,20. 1. I. 64 0,075 19 h 30 min e 20 h 10 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 12. 33% 90° no sentido horário. 7,00. C6,4 11,25. P1 5 18 tetraedro. P. h v 2,82 1. apenas o aluno Y. semirreta oblíqua. 2,25 Após concluir o desenho, ela o encaminha para o\nsetor de produção. Ao receber o desenho com a indicação\ndo raio da tampa, verificará em qual intervalo este se\nencontra e decidirá o tipo de material a ser utilizado na\nsua fabricação, de acordo com os dados. Tipo de material\nIntervalo de valores do raio (cm) I\n0 < R ≤ 5 II\n5 < R ≤ 10 III\n10 < R ≤ 15 IV\n15 < R ≤ 21 V\n21 < R ≤ 40 Considere 1,7 como aproximação para\n3. O tipo de material a ser utilizado pelo setor de\nprodução será I. 3,099. 100. I. 15 1 e 49 8,1% 231. 1. 5 °C 12 , 24 e 36. 0 P(t) = 99 + 21cos(3πt)\nB. impedir a projeção dos raios luminosos na retina. 3 300. 0,90. 2. II. 56 0,150 19 h 20 min e 19 h 30 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 14. 50% Para recolocar a tela na sua posição original, deve-se\ngirá-la, rente à parede, no menor ângulo possível inferior\na 360°.\nA forma de recolocar a tela na posição original, obedecendo\nao que foi estabelecido, é girando-a em um ângulo de 135° no sentido horário. 7,38. C9,3 27,00. P2 10 20 pirâmide retangular. Q. h v 3,52 2. apenas o aluno Z. semirreta horizontal. 3,90 0/3 II. 3,970. 400. II. 30 1 e 99 8,0% 431. 2. 7 °C 6 , 12 e 18. Ao ser divulgado esse resultado em jornal, o Gráfico 1\nfoi cortado durante a diagramação, como mostra o Gráfico 2. 20\nA Eleitores (%) Gráfico 2\nCandidato Apesar de os valores apresentados estarem corretos\ne a largura das colunas ser a mesma, muitos leitores\ncriticaram o formato do Gráfico 2 impresso no jornal,\nalegando que houve prejuízo visual para o candidato B. A diferença entre as razões da altura da coluna B pela\ncoluna A nos gráficos 1 e 2 é P(t) = 78 + 42cos(3πt) r Região onde serão\nafixados os doces A parte hachurada\nserá apoiada\nna mesa Calota a ser cortada\ne eliminada Para atingir todos os seus objetivos, o chefe deverá cortar\na calota do melão numa altura h, em centímetro, igual a\nC. provocar a formação de imagens invertidas na retina. 2 304. 0,60. 3. III. 49 0,325 19 h 10 min e 19 h 20 min.   \n\n\n   \n\n\n\n(\n)\n(\n) 15. 57% 180° no sentido anti-horário. 7,50. C10,4 28,80. P3 15 24 tronco de pirâmide retangular. R. h v *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23 A manchete demonstra que o transporte de grandes\ncargas representa cada vez mais preocupação quando\nfeito em vias urbanas. Caminhão entala em viaduto no Centro Um caminhão de grande porte entalou embaixo do\nviaduto no cruzamento das avenidas Borges de Medeiros\ne Loureiro da Silva no sentido Centro-Bairro, próximo à\nPonte de Pedra, na capital. Esse veículo vinha de São\nPaulo para Porto Alegre e transportava três grandes\ntubos, conforme ilustrado na foto. Disponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado). Considere que o raio externo de cada cano da imagem\nseja 0,60 m e que eles estejam em cima de uma carroceria\ncuja parte superior está a 1,30 m do solo. O desenho\nrepresenta a vista traseira do empilhamento dos canos. 0,60 m A margem de segurança recomendada para que\num veículo passe sob um viaduto é que a altura total do\nveículo com a carga seja, no mínimo, 0,50 m menor do\nque a altura do vão do viaduto. Considere 1,7 como aproximação para\n3. Qual deveria ser a altura mínima do viaduto, em metro,\npara que esse caminhão pudesse passar com segurança\nsob seu vão? 3,70 3. apenas os alunos X e Y. ramo de parábola. 4,35 III. 4,025. 1 600. III. 108 10 e 10 7,9% 472. 4. 13 °C 2 , 4 e 6. 25 P(t) = 99 + 21cos(2πt) 1\nD. causar dificuldade de visualização de objetos próximos. 1 320. 0,40. 4. IV. 36 0,600 19 h e 19 h 10 min.   \n\n\n  16. 70% 270° no sentido anti-horário. 8,25. 64 32,25. P4 20 36 prisma quadrangular reto. S. h v 4,02 4. apenas os alunos X e Z. arco de circunferência. 4,40 IV. 4,080. 6 250. IV. 360 25 e 25 7,7% 523. 5. 15 °C 300 , 1 200 e 2 700. P(t) = 99 + 21cos(t) 4\nE. acarretar a perda da capacidade de alterar o diâmetro da pupila. *DO0525AM15* MT - 2º dia | Caderno 5 - AMARELO - Página 16 Os congestionamentos de trânsito constituem um\nproblema que aflige, todos os dias, milhares de motoristas\nbrasileiros. O gráfico ilustra a situação, representando, ao\nlongo de um intervalo definido de tempo, a variação da\nvelocidade de um veículo durante um congestionamento. Velocidade Quantos minutos o veículo permaneceu imóvel ao longo\ndo intervalo de tempo total analisado? 0 Um garçom precisa escolher uma bandeja de base\nretangular para servir quatro taças de espumante que\nprecisam ser dispostas em uma única fileira, paralela\nao lado maior da bandeja, e com suas bases totalmente\napoiadas na bandeja. A base e a borda superior das taças\nsão círculos de raio 4 cm e 5 cm, respectivamente. A bandeja a ser escolhida deverá ter uma área mínima,\nem centímetro quadrado, igual a 400. Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1 de polpa de acerola. Para o comerciante, as polpas são vendidas em\nembalagens de igual volume. Atualmente, a embalagem\nda polpa de morango custa R$ 18,00 e a de acerola,\nR$ 14,70. Porém, está prevista uma alta no preço\nda embalagem da polpa de acerola no próximo mês,\npassando a custar R$ 15,30. Para não aumentar o preço do suco, o comerciante\nnegociou com o fornecedor uma redução no preço da\nembalagem da polpa de morango. A redução, em real, no preço da embalagem da polpa de\nmorango deverá ser de 0,30. Um casal realiza sua mudança de domicílio\ne necessita colocar numa caixa de papelão um\nobjeto cúbico, de 80 cm de aresta, que não pode ser\ndesmontado. Eles têm à disposição cinco caixas, com\ndiferentes dimensões, conforme descrito: • Caixa 1: 86 cm × 86 cm × 86 cm • Caixa 2: 75 cm × 82 cm × 90 cm • Caixa 3: 85 cm × 82 cm × 90 cm • Caixa 4: 82 cm × 95 cm × 82 cm • Caixa 5: 80 cm × 95 cm × 85 cm O casal precisa escolher uma caixa na qual o\nobjeto caiba, de modo que sobre o menor espaço livre\nem seu interior. A caixa escolhida pelo casal deve ser a de número 5. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17 Uma empresa construirá sua página na internet\ne espera atrair um público de aproximadamente um\nmilhão de clientes. Para acessar essa página, será\nnecessária uma senha com formato a ser definido pela\nempresa. Existem cinco opções de formato oferecidas\npelo programador, descritas no quadro, em que “L” e “D”\nrepresentam, respectivamente, letra maiúscula e dígito. Opção\nFormato I\nLDDDDD II\nDDDDDD III\nLLDDDD IV\nDDDDD V\nLLLDD As letras do alfabeto, entre as 26 possíveis, bem\ncomo os dígitos, entre os 10 possíveis, podem se repetir\nem qualquer das opções. A empresa quer escolher uma opção de formato cujo\nnúmero de senhas distintas possíveis seja superior ao\nnúmero esperado de clientes, mas que esse número não\nseja superior ao dobro do número esperado de clientes. A opção que mais se adequa às condições da empresa é V. Como não são adeptos da prática de esportes, um\ngrupo de amigos resolveu fazer um torneio de futebol\nutilizando videogame. Decidiram que cada jogador joga\numa única vez com cada um dos outros jogadores.\nO campeão será aquele que conseguir o maior número de\npontos. Observaram que o número de partidas jogadas\ndepende do número de jogadores, como mostra o quadro: Se a quantidade de jogadores for 8, quantas partidas\nserão realizadas? 28 Um morador de uma região metropolitana tem 50%\nde probabilidade de atrasar-se para o trabalho quando\nchove na região; caso não chova, sua probabilidade de\natraso é de 25%. Para um determinado dia, o serviço\nde meteorologia estima em 30% a probabilidade da\nocorrência de chuva nessa região. Qual é a probabilidade de esse morador se atrasar para o\nserviço no dia para o qual foi dada a estimativa de chuva? 0,800 Às 17 h 15 min começa uma forte chuva, que cai\ncom intensidade constante. Uma piscina em forma\nde um paralelepípedo retângulo, que se encontrava\ninicialmente vazia, começa a acumular a água da chuva\ne, às 18 horas, o nível da água em seu interior alcança\n20 cm de altura. Nesse instante, é aberto o registro que\nlibera o escoamento da água por um ralo localizado no\nfundo dessa piscina, cuja vazão é constante. Às 18 h 40 min\na chuva cessa e, nesse exato instante, o nível da água na\npiscina baixou para 15 cm. O instante em que a água dessa piscina terminar de\nescoar completamente está compreendido entre 18 h 40 min e 19 h. *DO0525AM17* MT - 2º dia | Caderno 5 - AMARELO - Página 18 Um empréstimo foi feito à taxa mensal de i%, usando\njuros compostos, em oito parcelas fixas e iguais a P. A expressão que corresponde ao valor total pago pela\nquitação do empréstimo é  \n\n\n  Para realizar a viagem dos sonhos, uma pessoa\nprecisava fazer um empréstimo no valor de R$ 5 000,00.\nPara pagar as prestações, dispõe de, no máximo,\nR$ 400,00 mensais. Para esse valor de empréstimo,\no valor da prestação (P) é calculado em função do\nnúmero de prestações (n) segundo a fórmula Se necessário, utilize 0,005 como aproximação para\nlog 1,013; 2,602 como aproximação para log 400; 2,525\ncomo aproximação para log 335. De acordo com a fórmula dada, o menor número de\nparcelas cujos valores não comprometem o limite definido\npela pessoa é 17. Raios de luz solar estão atingindo a superfície de\num lago formando um ângulo x com a sua superfície,\nconforme indica a figura. , sendo k uma constante, e supondo-se que x está entre\n0° e 90°. x Quando x = 30º, a intensidade luminosa se reduz a qual\npercentual de seu valor máximo? 86% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19 A imagem apresentada na figura é uma cópia em preto\ne branco da tela quadrada intitulada O peixe, de Marcos\nPinto, que foi colocada em uma parede para exposição e\nfixada nos pontos A e B. Por um problema na fixação de um dos pontos, a tela\nse desprendeu, girando rente à parede. Após o giro, ela\nficou posicionada como ilustrado na figura, formando um\nângulo de 45° com a linha do horizonte. 315° no sentido horário. A avaliação de rendimento de alunos de um curso\nuniversitário baseia-se na média ponderada das notas\nobtidas nas disciplinas pelos respectivos números de\ncréditos, como mostra o quadro: Avaliação\nMédia de notas (M) Excelente\n9 < M ≤ 10 Bom\n7 ≤ M ≤ 9 Regular\n5 ≤ M < 7 Ruim\n3 ≤ M < 5 Péssimo\nM < 3 Quanto melhor a avaliação de um aluno em\ndeterminado período letivo, maior sua prioridade na\nescolha de disciplinas para o período seguinte. Determinado aluno sabe que se obtiver avaliação\n“Bom” ou “Excelente” conseguirá matrícula nas disciplinas\nque deseja. Ele já realizou as provas de 4 das 5 disciplinas\nem que está matriculado, mas ainda não realizou a prova\nda disciplina I, conforme o quadro. Para que atinja seu objetivo, a nota mínima que ele deve\nconseguir na disciplina I é 9,00. *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20 Um brinquedo infantil caminhão-cegonha é formado\npor uma carreta e dez carrinhos nela transportados,\nconforme a figura. No setor de produção da empresa que fabrica esse\nbrinquedo, é feita a pintura de todos os carrinhos para que\no aspecto do brinquedo fique mais atraente. São utilizadas\nas cores amarelo, branco, laranja e verde, e cada carrinho\né pintado apenas com uma cor. O caminhão-cegonha\ntem uma cor fixa. A empresa determinou que em todo\ncaminhão-cegonha deve haver pelo menos um carrinho\nde cada uma das quatro cores disponíveis. Mudança de\nposição dos carrinhos no caminhão-cegonha não gera um\nnovo modelo do brinquedo. Com base nessas informações, quantos são os modelos\ndistintos do brinquedo caminhão-cegonha que essa\nempresa poderá produzir? 46 Uma empresa especializada em conservação de\npiscinas utiliza um produto para tratamento da água cujas\nespecificações técnicas sugerem que seja adicionado\n1,5 mL desse produto para cada 1 000 L de água da\npiscina. Essa empresa foi contratada para cuidar de uma\npiscina de base retangular, de profundidade constante\nigual a 1,7 m, com largura e comprimento iguais a 3 m\ne 5 m, respectivamente. O nível da lâmina d’água dessa\npiscina é mantido a 50 cm da borda da piscina. A quantidade desse produto, em mililitro, que deve ser\nadicionada a essa piscina de modo a atender às suas\nespecificações técnicas é 49,50. Um instituto de pesquisas eleitorais recebe uma\nencomenda na qual a margem de erro deverá ser de, no\nmáximo, 2 pontos percentuais (0,02). O instituto tem 5 pesquisas recentes, P1 a P5, sobre\no tema objeto da encomenda e irá usar a que tiver o erro\nmenor que o pedido. Os dados sobre as pesquisas são os seguintes: |\n|\n,\ne\nN\n< 196 σ em que σ é um parâmetro e N é o número de pessoas\nentrevistadas pela pesquisa. Qual pesquisa deverá ser utilizada? P5 Em um teleférico turístico, bondinhos saem de\nestações ao nível do mar e do topo de uma montanha.\nA travessia dura 1,5 minuto e ambos os bondinhos se\ndeslocam à mesma velocidade. Quarenta segundos após\no bondinho A partir da estação ao nível do mar, ele cruza\ncom o bondinho B, que havia saído do topo da montanha. Quantos segundos após a partida do bondinho B partiu o\nbondinho A? 25 *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21 Num dia de tempestade, a alteração na profundidade\nde um rio, num determinado local, foi registrada durante\num período de 4 horas. Os resultados estão indicados no\ngráfico de linhas. Nele, a profundidade h, registrada às\n13 horas, não foi anotada e, a partir de h, cada unidade\nsobre o eixo vertical representa um metro. Hora\n0 Profundidade (m) Registro de profundidade Foi informado que entre 15 horas e 16 horas, a\nprofundidade do rio diminuiu em 10%. Às 16 horas, qual é a profundidade do rio, em metro, no\nlocal onde foram feitos os registros? 40 Uma rede hoteleira dispõe de cabanas simples na\nilha de Gotland, na Suécia, conforme Figura 1. A estrutura\nde sustentação de cada uma dessas cabanas está\nrepresentada na Figura 2. A ideia é permitir ao hóspede uma\nestada livre de tecnologia, mas conectada com a natureza. Figura 2 ROMERO, L. Tendências. Superinteressante, n. 315, fev. 2013 (adaptado). A forma geométrica da superfície cujas arestas estão\nrepresentadas na Figura 2 é prisma triangular reto. A figura ilustra uma partida de Campo Minado, o jogo\npresente em praticamente todo computador pessoal.\nQuatro quadrados em um tabuleiro 16 × 16 foram abertos,\ne os números em suas faces indicam quantos dos seus\n8 vizinhos contêm minas (a serem evitadas). O número\n40 no canto inferior direito é o número total de minas no\ntabuleiro, cujas posições foram escolhidas ao acaso, de\nforma uniforme, antes de se abrir qualquer quadrado. Em sua próxima jogada, o jogador deve escolher\ndentre os quadrados marcados com as letras P, Q, R, S\ne T um para abrir, sendo que deve escolher aquele com a\nmenor probabilidade de conter uma mina. O jogador deverá abrir o quadrado marcado com a letra T. *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22 A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos,\nem formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura. Reservatório 1\nReservatório 2 Cano de\nentrada A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do\ncano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios. Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água\nno sistema? h v 4,20 Um menino acaba de se mudar para um novo bairro\ne deseja ir à padaria. Pediu ajuda a um amigo que\nlhe forneceu um mapa com pontos numerados, que\nrepresentam cinco locais de interesse, entre os quais\nestá a padaria. Além disso, o amigo passou as seguintes\ninstruções: a partir do ponto em que você se encontra,\nrepresentado pela letra X, ande para oeste, vire à direita\nna primeira rua que encontrar, siga em frente e vire à\nesquerda na próxima rua. A padaria estará logo a seguir. Rua C Rua D Rua E Rua 1 Rua 2 Rua 3 Rua 4 Rua 5 X 4/5 N S O\nL A padaria está representada pelo ponto numerado com 5. Três alunos, X, Y e Z, estão matriculados em um curso\nde inglês. Para avaliar esses alunos, o professor optou por\nfazer cinco provas. Para que seja aprovado nesse curso,\no aluno deverá ter a média aritmética das notas das cinco\nprovas maior ou igual a 6. Na tabela, estão dispostas as\nnotas que cada aluno tirou em cada prova. Com base nos dados da tabela e nas informações dadas,\nficará(ão) reprovado(s) os alunos X, Y e Z. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24 O fisiologista inglês Archibald Vivian Hill propôs,\nem seus estudos, que a velocidade v de contração de\num músculo ao ser submetido a um peso p é dada pela\nequação (p + a) (v + b) = K, com a, b e K constantes. Um fisioterapeuta, com o intuito de maximizar o efeito\nbenéfico dos exercícios que recomendaria a um de seus\npacientes, quis estudar essa equação e a classificou\ndesta forma: Tipo de curva Semirreta oblíqua Semirreta horizontal Ramo de parábola Arco de circunferência Ramo de hipérbole O fisioterapeuta analisou a dependência entre v e p\nna equação de Hill e a classificou de acordo com sua\nrepresentação geométrica no plano cartesiano, utilizando\no par de coordenadas (p ; v). Admita que K > 0. Disponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado). O gráfico da equação que o fisioterapeuta utilizou para\nmaximizar o efeito dos exercícios é do tipo ramo de hipérbole. Em um parque há dois mirantes de alturas distintas\nque são acessados por elevador panorâmico. O topo\ndo mirante 1 é acessado pelo elevador 1, enquanto\nque o topo do mirante 2 é acessado pelo elevador 2.\nEles encontram-se a uma distância possível de ser\npercorrida a pé, e entre os mirantes há um teleférico que\nos liga que pode ou não ser utilizado pelo visitante. Mirante 1\nMirante 2 O acesso aos elevadores tem os seguintes custos: • Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30. O custo da passagem do teleférico partindo do topo\ndo mirante 1 para o topo do mirante 2 é de R$ 2,00, e do\ntopo do mirante 2 para o topo do mirante 1 é de R$ 2,50. Qual é o menor custo, em real, para uma pessoa visitar os\ntopos dos dois mirantes e retornar ao solo? 4,45 A mensagem digitada no celular, enquanto você\ndirige, tira a sua atenção e, por isso, deve ser evitada.\nPesquisas mostram que um motorista que dirige um\ncarro a uma velocidade constante percorre “às cegas”\n(isto é, sem ter visão da pista) uma distância proporcional\nao tempo gasto ao olhar para o celular durante a digitação\nda mensagem. Considere que isso de fato aconteça.\nSuponha que dois motoristas (X e Y) dirigem com a mesma\nvelocidade constante e digitam a mesma mensagem em\nseus celulares. Suponha, ainda, que o tempo gasto pelo\nmotorista X olhando para seu celular enquanto digita a\nmensagem corresponde a 25% do tempo gasto pelo\nmotorista Y para executar a mesma tarefa. Disponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado). A razão entre as distâncias percorridas às cegas por\nX e Y, nessa ordem, é igual a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25 Uma desenhista projetista deverá desenhar uma\ntampa de panela em forma circular. Para realizar esse\ndesenho, ela dispõe, no momento, de apenas um\ncompasso, cujo comprimento das hastes é de 10 cm, um\ntransferidor e uma folha de papel com um plano cartesiano.\nPara esboçar o desenho dessa tampa, ela afastou as\nhastes do compasso de forma que o ângulo formado por\nelas fosse de 120°. A ponta seca está representada pelo\nponto C, a ponta do grafite está representada pelo ponto\nB e a cabeça do compasso está representada pelo ponto\nA conforme a figura. 120° y x V. Uma pessoa ganhou uma pulseira formada por\npérolas esféricas, na qual faltava uma das pérolas. A figura\nindica a posição em que estaria faltando esta pérola. Ela levou a joia a um joalheiro que verificou que a\nmedida do diâmetro dessas pérolas era 4 milímetros.\nEm seu estoque, as pérolas do mesmo tipo e formato,\ndisponíveis para reposição, tinham diâmetros iguais a:\n4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm. O joalheiro então colocou na pulseira a pérola cujo\ndiâmetro era o mais próximo do diâmetro das pérolas\noriginais. A pérola colocada na pulseira pelo joalheiro tem diâmetro,\nem milímetro, igual a 4,100. Em uma de suas viagens, um turista comprou uma\nlembrança de um dos monumentos que visitou. Na base\ndo objeto há informações dizendo que se trata de uma\npeça em escala 1 : 400, e que seu volume é de 25 cm₃. O volume do monumento original, em metro cúbico, é de 10 000. *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26 Uma bicicleta do tipo mountain bike tem uma coroa\ncom 3 engrenagens e uma catraca com 6 engrenagens,\nque, combinadas entre si, determinam 18 marchas\n(número de engrenagens da coroa vezes o número de\nengrenagens da catraca). Os números de dentes das engrenagens das coroas\ne das catracas dessa bicicleta estão listados no quadro. Sabe-se que o número de voltas efetuadas pela\nroda traseira a cada pedalada é calculado dividindo-se a\nquantidade de dentes da coroa pela quantidade de dentes\nda catraca. Durante um passeio em uma bicicleta desse tipo,\ndeseja-se fazer um percurso o mais devagar possível,\nescolhendo, para isso, uma das seguintes combinações\nde engrenagens (coroa x catraca): A combinação escolhida para realizar esse passeio da\nforma desejada é V. O comitê organizador da Copa do Mundo 2014 criou\na logomarca da Copa, composta de uma figura plana e\no slogan “Juntos num só ritmo”, com mãos que se unem\nformando a taça Fifa. Considere que o comitê organizador\nresolvesse utilizar todas as cores da bandeira nacional\n(verde, amarelo, azul e branco) para colorir a logomarca,\nde forma que regiões vizinhas tenham cores diferentes. Disponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado). De quantas maneiras diferentes o comitê organizador da\nCopa poderia pintar a logomarca com as cores citadas? 972 X Y Nível do mar Quais devem ser os valores de X e de Y, em metro, para\nque a área da base do viveiro seja máxima? 50 e 50 *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27 Para uma temporada das corridas de Fórmula 1,\na capacidade do tanque de combustível de cada carro\npassou a ser de 100 kg de gasolina. Uma equipe\noptou por utilizar uma gasolina com densidade de\n750 gramas por litro, iniciando a corrida com o tanque cheio.\nNa primeira parada de reabastecimento, um carro dessa\nequipe apresentou um registro em seu computador de\nbordo acusando o consumo de quatro décimos da gasolina\noriginalmente existente no tanque. Para minimizar o peso\ndesse carro e garantir o término da corrida, a equipe de\napoio reabasteceu o carro com a terça parte do que restou\nno tanque na chegada ao reabastecimento. Disponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado). A quantidade de gasolina utilizada, em litro, no\nreabastecimento foi O gráfico apresenta a taxa de desemprego (em %)\npara o período de março de 2008 a abril de 2009,\nobtida com base nos dados observados nas regiões\nmetropolitanas de Recife, Salvador, Belo Horizonte,\nRio de Janeiro, São Paulo e Porto Alegre. Taxa de desemprego (%) 03/08/04\n05 06/07\n08/09\n10/11\n12 01/09/02 03/04 IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.\nAcesso em: 30 jul. 2012 (adaptado). A mediana dessa taxa de desemprego, no período de\nmarço de 2008 a abril de 2009, foi de 7,6% Numa avenida existem 10 semáforos. Por causa de\numa pane no sistema, os semáforos ficaram sem controle\ndurante uma hora, e fixaram suas luzes unicamente em\nverde ou vermelho. Os semáforos funcionam de forma\nindependente; a probabilidade de acusar a cor verde é de 2/3 e a de acusar a cor vermelha é de 1\n3 . Uma pessoa percorreu a pé toda essa avenida durante o período\nda pane, observando a cor da luz de cada um desses\nsemáforos. Qual a probabilidade de que esta pessoa tenha observado\nexatamente um sinal na cor verde? A energia solar vai abastecer parte da demanda de energia\ndo campus de uma universidade brasileira. A instalação de\npainéis solares na área dos estacionamentos e na cobertura\ndo hospital pediátrico será aproveitada nas instalações\nuniversitárias e também ligada na rede da companhia elétrica\ndistribuidora de energia.\nO projeto inclui 100 m² de painéis solares que ficarão\ninstalados nos estacionamentos, produzindo energia elétrica\ne proporcionando sombra para os carros. Sobre o hospital\npediátrico serão colocados aproximadamente 300 m² de\npainéis, sendo 100 m² para gerar energia elétrica utilizada no\ncampus, e 200 m² para geração de energia térmica, produzindo\naquecimento de água utilizada nas caldeiras do hospital.\nSuponha que cada metro quadrado de painel solar\npara energia elétrica gere uma economia de 1 kWh por dia\ne cada metro quadrado produzindo energia térmica permita\neconomizar 0,7 kWh por dia para a universidade. Em\numa segunda fase do projeto, será aumentada em 75%\na área coberta pelos painéis solares que geram energia\nelétrica. Nessa fase também deverá ser ampliada a área\nde cobertura com painéis para geração de energia térmica. 672. *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28 Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água\ncontida em cada reservatório nesse período pode ser visualizada na figura. Reservatório B Tempo (h) Reservatório B Reservatório A O número de horas em que os dois reservatórios contêm a mesma quantidade de água é 6. *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29 Neste modelo de termômetro, os filetes na cor preta\nregistram as temperaturas mínima e máxima do dia anterior\ne os filetes na cor cinza registram a temperatura ambiente\natual, ou seja, no momento da leitura do termômetro. −₃₀ −₂₀ −₁₀ −₁₀ −₂₀ −₃₀ Por isso ele tem duas colunas. Na da esquerda, os\nnúmeros estão em ordem crescente, de cima para baixo,\nde -30 °C até 50 °C. Na coluna da direita, os números\nestão ordenados de forma crescente, de baixo para cima,\nde -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior\ndo filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior\ndo filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior\ndos filetes cinza nas duas colunas. Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado). Qual é a temperatura máxima mais aproximada registrada\nnesse termômetro? 19 °C Pivô central é um sistema de irrigação muito usado\nna agricultura, em que uma área circular é projetada para\nreceber uma estrutura suspensa. No centro dessa área, há\numa tubulação vertical que transmite água através de um\ncano horizontal longo, apoiado em torres de sustentação,\nas quais giram, sobre rodas, em torno do centro do pivô,\ntambém chamado de base, conforme mostram as figuras.\nCada torre move-se com velocidade constante. BASE T1\nT2\nT3 Um pivô de três torres (T₁, T₂ e T₃) será instalado\nem uma fazenda, sendo que as distâncias entre torres\nconsecutivas bem como da base à torre T₁ são iguais a\n50 m. O fazendeiro pretende ajustar as velocidades das\ntorres, de tal forma que o pivô efetue uma volta completa\nem 25 horas. Use 3 como aproximação para π. Para atingir seu objetivo, as velocidades das torres T₁, T₂\ne T₃ devem ser, em metro por hora, de 600 , 2 400 e 5 400. *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30 A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha,\nem Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal\nda capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos. 5 metros 4 metros\n3 metros H metros Figura 1\nFigura 2 Qual a medida da altura H, em metro, indicada na Figura 2? 75 Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado umminiaplicativo de computador\nque roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa\nacessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso\nda sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias. Tempo de acesso na sexta-feira (minuto)\nTempo de acesso no sábado (minuto) Site X\n12 Site Y\n30 Site U\n40 Site W\n57 Site Z\n11 Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado,\nfoi no site\nA X.\nB Y.\nC Z.\nD W.\nE U. *DO0525AM30* MT - 2º dia | Caderno 5 - AMARELO - Página 31 O resultado de uma pesquisa eleitoral, sobre a\npreferência dos eleitores em relação a dois candidatos,\nfoi representado por meio do Gráfico 1. 0\nA Gráfico 1\nCandidato Eleitores (%) Um cientista, em seus estudos para modelar a\npressão arterial de uma pessoa, utiliza uma função do\ntipo P(t) = A + Bcos(kt) em que A, B e K são constantes\nreais positivas e t representa a variável tempo, medida\nem segundo. Considere que um batimento cardíaco\nrepresenta o intervalo de tempo entre duas sucessivas\npressões máximas. Ao analisar um caso específico, o cientista obteve os dados: Pressão mínima\n78 Pressão máxima\n120 Número de batimentos cardíacos por minuto\n90 A função P(t) obtida, por este cientista, ao analisar o caso\nespecífico foi P(t) = 78 + 42cos(t) Para decorar uma mesa de festa infantil, um chefe de\ncozinha usará um melão esférico com diâmetro medindo\n10 cm, o qual servirá de suporte para espetar diversos\ndoces. Ele irá retirar uma calota esférica do melão,\nconforme ilustra a figura, e, para garantir a estabilidade\ndeste suporte, dificultando que o melão role sobre a\nmesa, o chefe fará o corte de modo que o raio r da seção\ncircular de corte seja de pelo menos 3 cm. Por outro lado,\no chefe desejará dispor da maior área possível da região\nem que serão afixados os doces. h O 5 *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*"
+    }
+  ]
+}

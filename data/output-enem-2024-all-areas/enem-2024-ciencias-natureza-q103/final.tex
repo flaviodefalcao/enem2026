@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 103 — ENEM 2024 — Ciências da Natureza}
+
+\subsection*{Tema central: Conversão de energia no ciclo de Otto}
+A questão exige do estudante reconhecer, a partir de um gráfico $P\times V$ e uma tabela de processos, em qual etapa do ciclo de Otto a energia térmica fornecida pela combustão é convertida em energia útil (trabalho mecânico).
+
+\subsection*{Comando da questão & termos importantes}
+\begin{description}
+    \item["transformação da energia":] Troca de uma forma de energia por outra em um processo físico ou químico, no caso, calor em trabalho.
+    \item["ciclo de Otto":] Sequência de processos termodinâmicos característicos de motores a combustão.
+    \item["expansão adiabática":] Etapa em que o gás se expande sem troca de calor, convertendo energia interna em trabalho.
+\end{description}
+
+\subsection*{Interpretação, estratégia e análise do enunciado}
+
+O ciclo de Otto, típico de motores automotivos a gasolina ou etanol, apresenta fases distintas, cada uma com sua função no funcionamento térmico-mecânico do motor. O gráfico $P\times V$ traz a área $W$, delimitada pelo trajeto 3$\rightarrow$4, simbolizando o trabalho útil produzido.
+
+Segundo a tabela de etapas:
+\begin{itemize}
+    \item A etapa III (2$\rightarrow$3) é a introdução de calor pela combustão, ou seja, fornece energia térmica ao gás.
+    \item A etapa IV (3$\rightarrow$4), denominada expansão adiabática, ocorre logo após o aquecimento, quando o gás expandido empurra o pistão, realizando trabalho útil.
+    \item As outras etapas admitem mistura, comprimem gás, rejeitam calor ou expelem resíduos.
+\end{itemize}
+Ou seja, a conversão de energia térmica em energia mecânica ocorre explicitamente na expansão adiabática (IV).
+
+\subsection*{Conteúdo e revisão-relâmpago}
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{l|l|l}
+        \textbf{Etapa} & \textbf{Processo} & \textbf{Descrição} \\
+        \hline
+        I & 0\(\rightarrow\)1 & Admissão isobárica da mistura ar-combustível \\
+        II & 1\(\rightarrow\)2 & Compressão adiabática \\
+        III & 2\(\rightarrow\)3 & Aquecimento (combustão) \\
+        IV & 3\(\rightarrow\)4 & Expansão adiabática (\textbf{correta}) \\
+        V & 4\(\rightarrow\)1 & Liberação de energia (rejeição de calor) \\
+        VI & 1\(\rightarrow\)0 & Expulsão dos gases \\
+    \end{tabular}
+\end{table}
+
+\paragraph{Teoria envolvida:}
+\begin{itemize}
+    \item \textbf{Primeira Lei da Termodinâmica:} $\Delta U = Q - W$.
+    \item Durante a combustão, $Q>0$, mas só durante a expansão esse calor se transforma em $W>0$ (trabalho disponível no pistão).
+    \item No gráfico $P\times V$, a área sob 3$\rightarrow$4 mostra de forma clara o trabalho útil (energia transferida do gás ao pistão).
+\end{itemize}
+
+\subsection*{Resolução com destaque e pulo do gato}
+\begin{enumerate}
+    \item O ciclo apresenta: admissão (I), compressão (II), combustão (III), expansão (IV), rejeição de calor (V) e exaustão (VI).
+    \item Na \textbf{expansão adiabática (IV)}, logo após a introdução de calor, toda a energia interna do gás é usada para empurrar o pistão — gerando, assim, o trabalho útil do motor.
+    \item As demais etapas não correspondem à conversão direta de calor em trabalho.
+\end{enumerate}
+\textbf{Pulo do gato:} Observe que somente na expansão após o aquecimento é que o motor realmente faz o carro se mover!
+
+\subsection*{Armadilhas e distrações mais comuns}
+\begin{itemize}
+    \item \textbf{Compressão (II):} Apenas armazena energia, não gera trabalho útil.
+    \item \textbf{Combustão (III):} Apenas influxo de calor, sem trabalho ainda.
+    \item \textbf{Rejeição (V) ou exaustão (VI):} Não há transformação de energia útil, só descarte de energia/gases.
+\end{itemize}
+
+\subsection*{Perfil do item}
+\begin{itemize}
+    \item Interpretação de processos termodinâmicos, raciocínio integrado e leitura de gráficos práticos.
+    \item Nível intermediário: não envolve cálculo, mas exige análise visual e conceitual apurada.
+\end{itemize}
+
+\subsection*{Código da questão, para referência}
+\noindent\texttt{CIENCIAS\_NATUREZA\_TERMODINAMICA\_001}
+
+\end{document}

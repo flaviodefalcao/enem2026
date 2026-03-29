@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:32:52.532Z",
+  "questionId": "enem-2024-ciencias-natureza-q128",
+  "payload": {
+    "theme": "Ambiente e sustentabilidade",
+    "subtheme": "Impactos ambientais",
+    "rationale": "A questão aborda a formação de microplásticos e o acúmulo de poluentes derivados de pesticidas lipossolúveis em tecidos de animais vertebrados, focando em efeitos ambientais e biológicos de poluentes, que se enquadra no estudo dos impactos ambientais sobre os organismos e ecossistemas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 793,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000456
+  }
+}

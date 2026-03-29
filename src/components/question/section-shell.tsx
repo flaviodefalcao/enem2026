@@ -15,7 +15,7 @@ export function SectionShell({
     <section className="space-y-5 rounded-[32px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-8">
       <div className="space-y-2">
         {eyebrow ? (
-          <span className="inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#8a6a22]">
+          <span className="inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#4f79b0]">
             {eyebrow}
           </span>
         ) : null}

@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:28:06.361Z",
+  "questionId": "enem-2024-ciencias-natureza-q124",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "3,0 m",
+      "correctnessClaim": "A resposta A está correta conforme cálculo baseado no nível sonoro necessário para inteligibilidade, justificado pela tabela do gráfico.",
+      "strategy": "Analisar a diminuição do nível sonoro com a distância usando o gráfico fornecido; determinar o nível sonoro mínimo necessário para compreensão da fala; identificar a distância máxima em que o nível sonoro ainda está 5 dB acima do ruído de fundo de 45 dB.",
+      "steps": [
+        "Identificamos pelo enunciado que o nível sonoro do professor a 1m é 60 dB.",
+        "O ruído de fundo máximo na sala é 45 dB e o som da fala deve estar 5 dB acima desse ruído para ser inteligível, portanto o nível sonoro mínimo para compreensão é 50 dB.",
+        "Consultando o gráfico, observamos que o nível sonoro diminui à medida que a distância aumenta.",
+        "No gráfico, verificamos que a linha do nível sonoro cruza 50 dB aproximadamente na distância de 3 metros.",
+        "Logo, a maior distância para que o estudante compreenda a fala é cerca de 3 metros."
+      ],
+      "formulasUsed": [
+        "Nível sonoro mínimo para compreensão = ruído de fundo + 5 dB = 45 dB + 5 dB = 50 dB"
+      ],
+      "visualEvidenceUsed": [
+        "Gráfico mostrando a relação entre o nível sonoro (em dB) e a distância do professor (em metros). A linha do gráfico indica que o nível sonoro cai de 60 dB a 1 m para cerca de 50 dB a aproximadamente 3 m."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "4,5 m",
+        "likelyReasoning": "O estudante pode ter interpretado mal a linha do gráfico e estimado que o nível sonoro permanece acima de 50 dB até 4,5 metros.",
+        "misconceptionType": "Interpretação incorreta de gráfico",
+        "whyItLooksPlausible": "O valor 4,5 m está dentro da escala do gráfico, aparentando ser possível para boa audição.",
+        "whyItIsWrong": "O gráfico mostra claramente que o nível sonoro cai abaixo de 50 dB antes de 4,5 m."
+      },
+      {
+        "option": "6,5 m",
+        "likelyReasoning": "Erro ao confundir o nível aceitável de ruído ou ignorar o requisito do nível estar 5 dB acima do ruído.",
+        "misconceptionType": "Desconsideração da diferença mínima de 5 dB para compreensão",
+        "whyItLooksPlausible": "6,5 m parece uma distância razoável para ouvir o professor em uma sala típica.",
+        "whyItIsWrong": "O gráfico mostra que o nível sonoro a essa distância está abaixo de 50 dB, comprometendo a inteligibilidade."
+      },
+      {
+        "option": "8,0 m",
+        "likelyReasoning": "Suposição excessivamente otimista da distância de compreensão eficaz.",
+        "misconceptionType": "Superestimação da distância com boa inteligibilidade",
+        "whyItLooksPlausible": "O estudante pode pensar que o som não decai significativamente até esta distância.",
+        "whyItIsWrong": "No gráfico, o nível sonoro a 8 m está claramente abaixo do necessário para compreensão."
+      },
+      {
+        "option": "9,5 m",
+        "likelyReasoning": "Ignorar o ruído de fundo ou interpretar o gráfico de forma errada para justificar a maior distância possível.",
+        "misconceptionType": "Ignorar o limite do ruído de fundo e o requisito de 5 dB acima dele",
+        "whyItLooksPlausible": "Como o gráfico mostra valores próximos, pode parecer que o som ainda é audível.",
+        "whyItIsWrong": "A distância é longe demais e o nível sonoro se encontra muito abaixo do mínimo necessário para compreensão."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de gráfico e conceitos básicos de acústica",
+      "secondarySkills": [
+        "Raciocínio quantitativo",
+        "Compreensão de física aplicada ao ambiente"
+      ],
+      "cognitiveDemand": "Medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Exige interpretar gráfico para extrair dados de nível sonoro com distância.",
+        "É necessário entender o conceito de relação entre ruído de fundo, nível de sinal e inteligibilidade.",
+        "Aplica a lógica de decaimento do som em ambientes fechados para determinar distância máxima para compreensão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1252,
+    "outputTokens": 904,
+    "estimatedCostUsd": 0.001947
+  }
+}

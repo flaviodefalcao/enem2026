@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:34:17.121Z",
+  "questionId": "enem-2024-ciencias-natureza-q112",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta.",
+      "strategy": "Identificar qual grupo funcional na estrutura da nimesulida atua como doador de próton (H⁺) para reagir com uma base de Brönsted-Lowry, aumentando a solubilidade do fármaco em água.",
+      "steps": [
+        "Analisar os grupamentos funcionais destacados na estrutura da nimesulida: metila, sulfonamida, éter, fenila e nitro.",
+        "Entender que a base de Brönsted-Lowry captura prótons (H⁺) e, portanto, o grupo que reage deve ter um hidrogênio ácido, isto é, hidrogênio químico capaz de ser removido como H⁺.",
+        "Observar que a sulfonamida contém um grupo –NH ligado ao grupo sulfonila (–SO2–), apresentando hidrogênio ácido potencialmente disponível para ser removido por base.",
+        "Os demais grupamentos (metila, fenila, nitro, éter) não apresentam hidrogênios ácidos disponíveis para reação com a base, pois são grupos neutros sem hidrogênio ácido.",
+        "Concluir que o grupamento sulfonamida é o capaz de reagir com a base de Brönsted-Lowry para formar a espécie carregada com maior solubilidade em água."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "A imagem da estrutura química da nimesulida com os grupamentos destacados: metila, sulfonamida, éter, fenila e nitro."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Associar o grupo metila à possibilidade de reatividade ácida, confundindo grupos alquila com grupos ácidos.",
+        "misconceptionType": "Confusão conceitual sobre grupos funcionais e acidez.",
+        "whyItLooksPlausible": "O grupo metila é facilmente reconhecível e presente na molécula, levando à suspeita de participação na reação.",
+        "whyItIsWrong": "Grupos metila são grupos alquila sem hidrogênios ácidos para doar próton; portanto, não reagem com base para aumentar solubilidade."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que o anel fenila, por sua estrutura aromática, pode interagir com base.",
+        "misconceptionType": "Confusão entre reatividade aromática e acidez de prótons.",
+        "whyItLooksPlausible": "A fenila é um grupo conhecido e pode ser confundido como responsável pela solubilidade.",
+        "whyItIsWrong": "O grupo fenila não possui hidrogênio ácido e não reage com bases para formar espécies carregadas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Atribuir à função nitro uma reatividade doadora de prótons, por conter oxigênios e carga parcial.",
+        "misconceptionType": "Confusão sobre grupos eletronegativos e capacidade de doar próton.",
+        "whyItLooksPlausible": "O grupo nitro é eletronegativo e pode parecer um candidato à interação química.",
+        "whyItIsWrong": "O grupo nitro não possui hidrogênios ácidos; não doa prótons, mas é um grupo eletronegativo e desprovido de hidrogênios para reagir."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Considerar que o grupo éter, com oxigênio eletronegativo, pode doar prótons.",
+        "misconceptionType": "Confusão entre função éter e acidez protônica.",
+        "whyItLooksPlausible": "O oxigênio do éter pode ser confundido como um local de reatividade ácida.",
+        "whyItIsWrong": "O grupo éter não possui hidrogênios ácidos; não pode doar prótons e, assim, não reage com a base de Brönsted-Lowry para formar espécie carregada."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Identificação de grupos funcionais em química orgânica",
+      "secondarySkills": [
+        "Conhecimento da teoria ácido-base de Brönsted-Lowry",
+        "Interpretação de estruturas químicas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Exige conhecimento dos grupos funcionais e suas características ácidas.",
+        "Requer entender a teoria ácido-base para identificar qual grupo reage com a base.",
+        "Necessita analisar a estrutura química fornecida visualmente."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1272,
+    "outputTokens": 918,
+    "estimatedCostUsd": 0.001978
+  }
+}

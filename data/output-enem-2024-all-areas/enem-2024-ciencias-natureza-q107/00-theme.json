@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:26:19.561Z",
+  "questionId": "enem-2024-ciencias-natureza-q107",
+  "payload": {
+    "theme": "Ambiente e sustentabilidade",
+    "subtheme": "Impactos ambientais",
+    "rationale": "A questão aborda a técnica de fitorremediação que é um método de intervenção para descontaminar solos poluídos, tratando da remoção ou estabilização de poluentes, o que está diretamente relacionado a impactos ambientais e suas soluções.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 2508,
+    "outputTokens": 72,
+    "estimatedCostUsd": 0.001118
+  }
+}

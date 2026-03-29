@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:30:19.289Z",
+  "questionId": "enem-2024-ciencias-natureza-q096",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A resposta está correta conforme a análise estrutural dos compostos apresentados.",
+      "strategy": "Identificar o grupo funcional comum presente nos dois compostos químicos fornecidos, analisando suas estruturas.",
+      "steps": [
+        "Examinar a estrutura do Composto 1: observa-se um grupo COOH (ácido carboxílico) e um grupo OH ligado ao anel aromático (grupo fenólico).",
+        "Examinar a estrutura do Composto 2: observa-se um grupo COOH (ácido carboxílico) presente na cadeia lateral.",
+        "Identificar o grupo funcional comum entre os dois compostos, que é o grupo ácido carboxílico (COOH).",
+        "Comparar com as alternativas fornecidas para escolher a função orgânica que corresponde ao grupo funcional comum."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado 1: estruturas químicas dos Compostos 1 e 2"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o grupo funcional cetona (C=O) presente isoladamente com o grupo carboxílico, por presença do carbono carbonila.",
+        "misconceptionType": "Confusão entre grupos funcionais carbonílicos.",
+        "whyItLooksPlausible": "Ambos os compostos possuem um carbono duplamente ligado a oxigênio, o que pode ser confundido com cetona.",
+        "whyItIsWrong": "O grupo funcional comum é ácido carboxílico (COOH), que inclui grupo carbonila e hidroxila, não apenas cetona."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar a presença de ligações duplas carbono-carbono (C=C) ao grupo funcional predominante comum.",
+        "misconceptionType": "Confusão entre grupos funcionais e características estruturais não dominantes.",
+        "whyItLooksPlausible": "Composto 2 possui uma ligação dupla carbono-carbono que pode sugerir alceno.",
+        "whyItIsWrong": "O grupo funcional comum a ambos os compostos não é a ligação dupla C=C, e sim ácido carboxílico."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Considerar os grupos hidroxila (-OH) presentes no composto 1 como grupo álcool comum.",
+        "misconceptionType": "Confusão entre álcool e grupos funcionais que contêm hidroxila em contextos aromáticos.",
+        "whyItLooksPlausible": "Composto 1 possui grupo hidroxila (OH) ligado ao anel benzênico.",
+        "whyItIsWrong": "Esse OH em anel aromático é fenol e não está presente no Composto 2; o grupo comum é ácido carboxílico."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Notar que o composto 1 tem um grupo hidroxila ligado ao anel aromático característico do fenol.",
+        "misconceptionType": "Interpretar o grupo fenol como o grupo funcional comum erroneamente.",
+        "whyItLooksPlausible": "Fenol está presente no Composto 1 visivelmente, podendo levar à confusão.",
+        "whyItIsWrong": "O composto 2 não possui grupo fenol, logo não é o grupo funcional comum."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Identificação de grupos funcionais orgânicos",
+      "secondarySkills": [
+        "Análise de estruturas químicas",
+        "Conhecimentos básicos de química orgânica"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "É necessário interpretar estruturas químicas representadas para identificar grupos funcionais.",
+        "Exige conhecimento básico das funções orgânicas: ácido carboxílico, cetona, alceno, álcool e fenol.",
+        "A questão aborda química orgânica aplicada ao contexto de pesticidas naturais, exigindo contextualização química e ambiental."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1036,
+    "outputTokens": 784,
+    "estimatedCostUsd": 0.001669
+  }
+}

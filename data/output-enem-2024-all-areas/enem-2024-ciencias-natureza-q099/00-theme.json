@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:33:45.054Z",
+  "questionId": "enem-2024-ciencias-natureza-q099",
+  "payload": {
+    "theme": "Tecnologia aplicada às ciências naturais",
+    "subtheme": "Biotecnologia",
+    "rationale": "A questão aborda o desenvolvimento de vacinas, que envolve utilização de processos biotecnológicos relacionados a proteínas virais para induzir resposta imunológica. A habilidade trabalhada é a H11, que trata de benefícios, limitações e aspectos éticos da biotecnologia, diretamente vinculada ao subtema 'Biotecnologia'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 856,
+    "outputTokens": 96,
+    "estimatedCostUsd": 0.000496
+  }
+}

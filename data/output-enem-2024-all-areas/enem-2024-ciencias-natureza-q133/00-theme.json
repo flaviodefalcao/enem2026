@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:39:21.023Z",
+  "questionId": "enem-2024-ciencias-natureza-q133",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Ecologia e ambiente",
+    "rationale": "A questão aborda a semelhança na coloração entre serpentes peçonhentas e não peçonhentas e a vantagem adaptativa dessa semelhança, que é um fenômeno ecológico relacionado à sobrevivência e predação, associando características adaptativas dos organismos ao seu modo de vida e ambiente, conforme a habilidade indicada.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1582,
+    "outputTokens": 93,
+    "estimatedCostUsd": 0.000782
+  }
+}

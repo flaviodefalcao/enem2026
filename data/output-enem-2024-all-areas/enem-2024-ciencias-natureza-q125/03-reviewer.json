@@ -1,0 +1,186 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:29:33.861Z",
+  "questionId": "enem-2024-ciencias-natureza-q125",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta pois explica adequadamente o processo bioquímico envolvido: o choque térmico provocado pela imersão em água fervente seguida de água gelada leva à desnaturação das enzimas que converteriam a glicose em amido, preservando assim o sabor adocicado do milho.",
+        "strategy": "Foi investigado o efeito do tratamento térmico sobre as enzimas responsáveis pela transformação da glicose em amido e como isso preserva o sabor doce do milho.",
+        "steps": [
+          "Compreender que a conversão da glicose em amido ocorre por ação enzimática.",
+          "Reconhecer que a alta temperatura da água fervente desnatura as enzimas impedindo a conversão.",
+          "Entender que o rápido resfriamento em água gelada conserva as características do milho após a desnaturação enzimática.",
+          "Concluir que o sabor adocicado é preservado porque a enzima fica inativa.",
+          "Comparar alternativas para identificar qual descreve corretamente o fenômeno."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A imersão em água fervente seguida de água gelada inativa as enzimas que transformam a glicose em amido, mantendo o sabor doce do milho.",
+        "stepByStep": [
+          "Reconhecer que enzimas do milho transformam glicose em amido, reduzindo o sabor doce.",
+          "Saber que alta temperatura desnatura essas enzimas.",
+          "Compreender que o choque térmico (águas quente e fria) inibe a atividade enzimática sem degradar a glicose.",
+          "Concluir que a glicose permanece, preservando o sabor adocicado.",
+          "Escolher a alternativa que explica corretamente o processo e efeito do choque térmico."
+        ],
+        "commonPitfalls": [
+          "Confundir o papel do calor e do frio, achando que o resfriamento impede a conversão da glicose.",
+          "Pensar que o sabor doce é mantido por degradação ou eliminação de nutrientes ao invés da inibição enzimática.",
+          "Associar a preservação do sabor à remoção de oxigênio ou oxidação, que não é o mecanismo principal.",
+          "Achar que o procedimento causa desidratação, quando as espigas são imersas em água.",
+          "Ignorar o papel das enzimas e o efeito do calor na sua atividade."
+        ],
+        "teachingTips": [
+          "Explique o papel das enzimas facilitando reações químicas como a conversão de glicose em amido.",
+          "Demonstre a desnaturação enzimática pelo calor com exemplos simples, como cozinhar ovos.",
+          "Explique o choque térmico como método para interromper processos biológicos sem danificar o alimento.",
+          "Relacione conservação de alimentos com bioquímica e técnicas térmicas.",
+          "Use analogias visuais para ilustrar ação enzimática e efeitos da temperatura."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode achar que a diminuição da temperatura é que altera os nutrientes responsáveis pelo sabor.",
+          "misconceptionType": "Interpretação incorreta do papel da temperatura na reação química.",
+          "whyItLooksPlausible": "A menção da água gelada sugere influência na reação química que pode alterar o sabor.",
+          "whyItIsWrong": "Na realidade, quem causa o bloqueio da conversão da glicose é o calor que desnatura as enzimas, não o resfriamento."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode-se pensar que o choque térmico destrói os nutrientes.",
+          "misconceptionType": "Confusão entre preservação e degradação nutricional.",
+          "whyItLooksPlausible": "A oscilação brusca de temperatura pode levar à ideia de degradação dos componentes.",
+          "whyItIsWrong": "O sabor é preservado justamente porque o processo impede a conversão da glicose em amido, não por degradação."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Suposição que a fervura elimina oxigênio e impede oxidação, conservando o sabor.",
+          "misconceptionType": "Confusão entre fenômenos físicos e bioquímicos.",
+          "whyItLooksPlausible": "A fervura reduz o oxigênio dissolvido, o que poderia proteger contra oxidação.",
+          "whyItIsWrong": "O mecanismo chave é a desnaturação enzimática, não a ausência de oxigênio."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pensar que variações térmicas causam desidratação que preserva o sabor.",
+          "misconceptionType": "Erro na compreensão dos efeitos térmicos nos grãos.",
+          "whyItLooksPlausible": "Mudanças de temperatura afetam umidade e poderiam alterar sabor.",
+          "whyItIsWrong": "As espigas são imersas em água, não desidratadas; a preservação se dá pela inibição enzimática, não pela desidratação."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão de processos bioquímicos e enzimáticos",
+        "secondarySkills": [
+          "Interpretação de texto científico",
+          "Conhecimento em biologia aplicada",
+          "Raciocínio crítico sobre processos térmicos"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige entendimento do efeito do calor sobre enzimas.",
+          "Problema de aplicação prática em agricultura.",
+          "Não possui elemento visual associado."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌽",
+        "shortThemeTitle": "Desnaturação enzimática e preservação do sabor no milho",
+        "interpretationIntro": "O enunciado descreve um procedimento prático para conservar o sabor adocicado do milho e questiona o motivo bioquímico dessa preservação.",
+        "commandTerms": [
+          {
+            "term": "Desnaturação",
+            "explanation": "Alteração estrutural de uma enzima que a torna inativa, geralmente por calor."
+          },
+          {
+            "term": "Enzima",
+            "explanation": "Proteína que catalisa reações químicas no organismo, como a conversão da glicose em amido."
+          },
+          {
+            "term": "Choque térmico",
+            "explanation": "Mudança brusca de temperatura, aqui aplicada para inativar enzimas."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para identificar por que o processo de imersão em água fervente seguido de água gelada mantém o sabor adocicado do milho.",
+        "strategyParagraph": "Para responder, é preciso entender a função das enzimas na conversão da glicose em amido e como o calor afeta essas enzimas. A análise do efeito do choque térmico permite identificar qual alternativa explica corretamente o fenômeno observado.",
+        "reviewTable": [
+          {
+            "concept": "Enzima",
+            "keyIdea": "Proteína catalisadora de reações químicas específicas",
+            "application": "Enzimas transformam glicose em amido no milho."
+          },
+          {
+            "concept": "Desnaturação enzimática",
+            "keyIdea": "Perda da atividade da enzima por alteração estrutural devido ao calor",
+            "application": "Água fervente desnatura as enzimas que convertem a glicose, impedindo a reação."
+          },
+          {
+            "concept": "Choque térmico",
+            "keyIdea": "Mudança rápida de temperatura que inativa enzimas sem destruir nutrientes",
+            "application": "Água gelada após fervura mantém integridade do milho e inatividade enzimática."
+          }
+        ],
+        "theoryParagraphs": [
+          "As enzimas são proteínas que catalisam reações químicas específicas em organismos vivos, como no processo de conversão da glicose em amido no milho. Essa transformação reduz o sabor adocicado mais aparente da glicose.",
+          "Ao expor as espigas de milho à água fervente, as altas temperaturas causam a desnaturação das enzimas responsáveis pela conversão da glicose em amido, ou seja, elas perdem sua estrutura e função.",
+          "O choque térmico, ao colocar rapidamente as espigas em água gelada após a fervura, mantém a inativação das enzimas e conserva as características do milho sem que haja degradação da glicose ou outras propriedades nutricionais."
+        ],
+        "resolutionParagraphs": [
+          "O procedimento da agricultora consiste em imergir as espigas em água fervente, a fim de desnaturar as enzimas que transformam a glicose em amido.",
+          "A desnaturação enzimática impede a continuidade da conversão da glicose, retendo seu sabor adocicado original.",
+          "Na sequência, a imersão em água gelada impede o superaquecimento e danos adicionais às células do milho, mantendo sua textura e sabor.",
+          "Portanto, a preservação do sabor deve-se à inativação enzimática causada pelo tratamento térmico, conforme explicado na alternativa A."
+        ],
+        "puloDoGato": "O calor da água fervente desnatura as enzimas, bloqueando a conversão da glicose em amido e mantendo o sabor doce – foque no efeito das enzimas!",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta – explica que o choque térmico desativa enzimas que converteriam glicose em amido, preservando o sabor."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta – o resfriamento não é o fator que impede a conversão da glicose em amido."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta – a preservação do doce não resulta da degradação, mas da inibição enzimática."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta – o mecanismo principal não é a eliminação de oxigênio, mas a desnaturação enzimática."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta – não ocorre desidratação; a conservação está ligada à ação sobre as enzimas."
+          }
+        ],
+        "questionCode": "CN_BIO_ENZ_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão, a resolução técnica e a explicação didática estão coerentes e alinhadas. A resolução segue estrutura e linguagens apropriadas, com comentários claros e bem fundamentados das alternativas. O conteúdo apresentado está adequado para o nível e tema da questão.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2618,
+    "outputTokens": 2091,
+    "estimatedCostUsd": 0.004393
+  }
+}

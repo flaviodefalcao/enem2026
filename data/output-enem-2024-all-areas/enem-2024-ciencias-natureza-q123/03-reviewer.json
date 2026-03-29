@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:27:16.458Z",
+  "questionId": "enem-2024-ciencias-natureza-q123",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A resposta C está correta.",
+        "strategy": "Analisar o gráfico fornecido que mostra a variação da emissão dos gases CO₂, HC, CO, NO e O₂ em função da razão ar/combustível, para identificar as emissões na razão ar/combustível igual a 18.",
+        "steps": [
+          "Observar o gráfico na razão ar/combustível igual a 18, que está na região de excesso de ar.",
+          "Verificar o nível do CO₂ no gráfico para essa razão; nota-se que o CO₂ está em nível relativamente alto, próximo de seu pico, indicando emissão alta.",
+          "Verificar o nível do CO para essa razão; observa-se que o CO está em nível baixo, quase nulo, indicando baixa emissão.",
+          "Concluir que, na razão ar/combustível igual a 18, a emissão de CO₂ é alta e a de CO é baixa.",
+          "Confirmar que essa conclusão corresponde à alternativa C, que indica baixa de CO e alta de CO₂."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Gráfico de variação da composição dos gases emitidos em função da razão ar/combustível."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A razão ar/combustível igual a 18 indica um excesso de ar na mistura do motor. Isso favorece a combustão completa, resultando em baixa emissão de monóxido de carbono (CO) e alta emissão de dióxido de carbono (CO₂), conforme mostrado no gráfico.",
+        "stepByStep": [
+          "Identifique o valor da razão ar/combustível igual a 18 no gráfico, que está na região de excesso de ar (acima da razão estequiométrica 15).",
+          "Observe o gráfico do CO₂ (linha azul): nesse ponto, o CO₂ está próximo do seu valor máximo, indicando alta emissão.",
+          "Observe o gráfico do CO (linha verde): nesse ponto, o CO está em seu valor mínimo, quase zero, indicando baixa emissão.",
+          "Com base nessas análises, conclua que a emissão na razão 18 apresenta baixa concentração de CO e alta concentração de CO₂.",
+          "Verifique as alternativas e constate que a alternativa C corresponde a essa conclusão, indicando baixa emissão de CO e alta emissão de CO₂."
+        ],
+        "commonPitfalls": [
+          "Confundir excesso de ar com combustão incompleta, levando a pensar que os hidrocarbonetos (HC) ou monóxido de carbono (CO) aumentam, quando na verdade eles diminuem.",
+          "Interpretar erroneamente que o óxido nítrico (NO) aumenta com o excesso de ar, mas no gráfico ele não está elevado na razão 18.",
+          "Pensar que o oxigênio (O₂) diminui com excesso de ar, quando na verdade ele aumenta.",
+          "Ignorar a importância da razão estequiométrica para identificar qualidade da combustão.",
+          "Confundir os eixos do gráfico, levando a interpretações erradas das concentrações dos gases."
+        ],
+        "teachingTips": [
+          "Explique o conceito de razão ar/combustível e a importância da razão estequiométrica para uma combustão completa.",
+          "Use o gráfico para mostrar como as emissões variam com a mistura de ar e combustível, destacando regimes de deficiência e excesso de ar.",
+          "Ensine a interpretar gráficos com múltiplas variáveis, destacando o que cada linha e eixo representam.",
+          "Enfatize a relação entre combustão completa e baixa emissão de CO e HC, e alta emissão de CO₂.",
+          "Apresente exemplos práticos de impactos ambientais relacionados às emissões veiculares para contextualizar o problema."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O estudante pode ter interpretado que o excesso de ar reduz O₂ e aumenta NO, baseando-se na presença de NO em processos de combustão.",
+          "misconceptionType": "Interpretação incorreta do gráfico.",
+          "whyItLooksPlausible": "É comum associar combustão com produção de NO e redução de O₂.",
+          "whyItIsWrong": "No gráfico, O₂ aumenta com excesso de ar, e o NO não está alto na razão 18."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Podem pensar que com mais ar, a combustão é incompleta, aumentando HC e reduzindo NO.",
+          "misconceptionType": "Confusão sobre combustão incompleta vs completa.",
+          "whyItLooksPlausible": "Hidrocarbonetos são combustíveis não queimados, então o excesso pode levar a altas emissões.",
+          "whyItIsWrong": "No gráfico, HC diminui com aumento do ar além da razão estequiométrica."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Assumir que a combustão pode aumentar CO com menor HC.",
+          "misconceptionType": "Erro em relação às emissões em excesso de ar.",
+          "whyItLooksPlausible": "CO é comum em combustão incompleta.",
+          "whyItIsWrong": "O gráfico mostra CO praticamente nulo na razão ar/combustível 18."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pensar que com mais ar a emissão de CO₂ diminui e HC aumenta devido à combustão incompleta.",
+          "misconceptionType": "Erros na relação entre excesso de ar e combustão eficiente.",
+          "whyItLooksPlausible": "Por ignorar que excesso de ar favorece a combustão completa.",
+          "whyItIsWrong": "O gráfico mostra CO₂ em níveis altos e HC baixos na razão 18."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de gráficos e fenômenos químicos",
+        "secondarySkills": [
+          "Conhecimento de combustão",
+          "Entendimento das emissões veiculares",
+          "Relações estequiométricas"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige interpretação gráfica em um contexto de química aplicada.",
+          "Requer compreensão básica de combustão e emissões contaminantes.",
+          "A análise qualitativa do gráfico é suficiente para a resposta."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌿",
+        "shortThemeTitle": "Emissões veiculares e razão ar/combustível",
+        "interpretationIntro": "A questão pede que se analise a emissão dos gases veiculares em uma condição específica de razão ar/combustível, a partir do gráfico fornecido.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar detalhadamente o gráfico para identificar os níveis de emissão dos gases na razão indicada."
+          },
+          {
+            "term": "Identificar",
+            "explanation": "Reconhecer quais gases possuem emissão alta ou baixa no ponto pedido."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual o comportamento da emissão dos gases CO e CO₂ para a razão ar/combustível igual a 18, conforme o gráfico.",
+        "strategyParagraph": "Para resolver a questão, observe primeiramente a marca no gráfico da razão ar/combustível igual a 18, que corresponde a uma mistura com excesso de ar em relação à estequiometria (em torno de 15). Analise as curvas que representam a concentração dos gases emitidos nesse ponto. Comparando níveis relativos, identifique se o CO e o CO₂ estão baixos ou altos e escolha a alternativa que descreve corretamente essa condição.",
+        "reviewTable": [
+          {
+            "concept": "Razão ar/combustível",
+            "keyIdea": "Define a proporção de ar em massa em relação ao combustível na mistura para combustão.",
+            "application": "Com razão acima do valor estequiométrico (15), há excesso de ar, favorecendo combustão completa."
+          },
+          {
+            "concept": "Combustão completa",
+            "keyIdea": "Ocorre quando há ar suficiente para que o combustível seja totalmente queimado, produzindo CO₂ e água principalmente.",
+            "application": "No excesso de ar, o CO é praticamente zero e a emissão de CO₂ é alta."
+          },
+          {
+            "concept": "Emissões veiculares",
+            "keyIdea": "São os diferentes gases liberados pelos motores, afetando a poluição atmosférica.",
+            "application": "Concentração dos gases varia conforme a mistura ar/combustível, influenciando poluição e saúde pública."
+          }
+        ],
+        "theoryParagraphs": [
+          "Em motores a combustão interna, a mistura ar/combustível determina a eficiência da combustão e as emissões resultantes. A razão estequiométrica é o ponto ideal onde todo o combustível é queimado exatamente com a quantidade de ar necessária, resultando em emissão maior de CO₂ e menor de CO e hidrocarbonetos (HC).",
+          "Quando a razão ar/combustível está acima da estequiométrica, temos excesso de ar, o que favorece a combustão completa e, portanto, baixa emissão de CO e HC, e maior emissão de CO₂ e O₂.",
+          "A emissão de óxidos de nitrogênio (NOx) varia devido à temperatura e disponibilidade de oxigênio, atingindo um pico próximo à mistura estequiométrica e reduzindo em misturas muito ricas ou muito pobres."
+        ],
+        "resolutionParagraphs": [
+          "Observando o gráfico, na razão ar/combustível igual a 18, que corresponde a excesso de ar, a emissão de CO (linha verde) está praticamente nula, indicando baixa emissão deste gás tóxico.",
+          "Ao mesmo tempo, a emissão de CO₂ (linha azul) está próxima do pico máximo, indicando que a combustão está ocorrendo de maneira mais completa, gerando maior quantidade de dióxido de carbono.",
+          "Comparando as alternativas, a única que corresponde a esta combinação é a letra C, que indica baixa emissão de CO e alta emissão de CO₂, justificando a seleção desta resposta.",
+          "Este resultado confirma a relação direta entre o excesso de ar na mistura e a melhoria na eficiência da combustão, reduzindo poluentes incompletos e aumentando a emissão de CO₂, um gás de efeito estufa."
+        ],
+        "puloDoGato": "No excesso de ar, a combustão é mais completa, logo CO cai e CO₂ sobe — é o ponto chave para interpretar o gráfico rápido.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o gráfico mostra que O₂ aumenta com o excesso de ar, e o NO não está alto na razão 18, diferentemente do que a alternativa sugere."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada, pois hidrocarbonetos (HC) diminuem no excesso de ar, ao contrário da alternativa que sugere aumento."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Correta, pois reflete a baixa emissão de CO e alta emissão de CO₂ quando a razão ar/combustível é 18, conforme o gráfico."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o CO é quase nulo na razão 18, diferente da alternativa que indica aumento."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada, pois no excesso de ar, CO₂ está alto e HC baixo, diferente do que a alternativa sugere."
+          }
+        ],
+        "questionCode": "CN_QUIMICA_ITEM_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a resolução técnica e a explicação didática apresentam total coerência entre si. A resolução segue a lógica do gráfico e da química da combustão, interpretando corretamente as emissões para a razão ar/combustível igual a 18. Todos os distractores são justificadamente analisados, e a resposta correta está bem fundamentada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3546,
+    "outputTokens": 2346,
+    "estimatedCostUsd": 0.005172
+  }
+}

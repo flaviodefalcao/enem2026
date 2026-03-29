@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:36:14.305Z",
+  "questionId": "enem-2024-ciencias-natureza-q131",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Ecologia e ambiente",
+    "rationale": "A questão aborda sistemas agroflorestais e as mudanças graduais na estrutura e composição das comunidades vegetais, relacionando-se diretamente com processos ecológicos, como a sucessão ecológica, que são estudados dentro da Ecologia e Ambiente na Biologia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1211,
+    "outputTokens": 74,
+    "estimatedCostUsd": 0.000603
+  }
+}

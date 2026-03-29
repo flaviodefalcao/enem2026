@@ -1,0 +1,1945 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2019/ENEM_2019_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2019,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "A bula de um antibiótico infantil, fabricado na\nforma de xarope, recomenda que sejam ministrados,\ndiariamente, no máximo 500 mg desse medicamento\npara cada quilograma de massa do paciente. Um pediatra\nprescreveu a dosagem máxima desse antibiótico para\nser ministrada diariamente a uma criança de 20 kg pelo\nperíodo de 5 dias. Esse medicamento pode ser comprado\nem frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL.\nOs pais dessa criança decidiram comprar a quantidade\nexata de medicamento que precisará ser ministrada no\ntratamento, evitando a sobra de medicamento. Considere\nque 1 g desse medicamento ocupe um volume de 1 cm³.\nA capacidade do frasco, em mililitro, que esses pais\ndeverão comprar é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "10.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "50.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "100.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "250.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "500.",
+          "assets": []
+        }
+      ],
+      "rawText": "A bula de um antibiótico infantil, fabricado na\nforma de xarope, recomenda que sejam ministrados,\ndiariamente, no máximo 500 mg desse medicamento\npara cada quilograma de massa do paciente. Um pediatra\nprescreveu a dosagem máxima desse antibiótico para\nser ministrada diariamente a uma criança de 20 kg pelo\nperíodo de 5 dias. Esse medicamento pode ser comprado\nem frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL.\nOs pais dessa criança decidiram comprar a quantidade\nexata de medicamento que precisará ser ministrada no\ntratamento, evitando a sobra de medicamento. Considere\nque 1 g desse medicamento ocupe um volume de 1 cm³.\nA capacidade do frasco, em mililitro, que esses pais\ndeverão comprar é\n\nA. 10.\nB. 50.\nC. 100.\nD. 250.\nE. 500."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Uma empresa confecciona e comercializa um\nbrinquedo formado por uma locomotiva, pintada na cor\npreta, mais 12 vagões de iguais formato e tamanho,\nnumerados de 1 a 12. Dos 12 vagões, 4 são pintados\nna cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor\namarela. O trem é montado utilizando-se uma locomotiva\ne 12 vagões, ordenados crescentemente segundo suas\nnumerações, conforme ilustrado na figura.\n\nDe acordo com as possíveis variações nas colorações\ndos vagões, a quantidade de trens que podem ser\nmontados, expressa por meio de combinações, é\ndada por",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-137/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-137/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa confecciona e comercializa um\nbrinquedo formado por uma locomotiva, pintada na cor\npreta, mais 12 vagões de iguais formato e tamanho,\nnumerados de 1 a 12. Dos 12 vagões, 4 são pintados\nna cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor\namarela. O trem é montado utilizando-se uma locomotiva\ne 12 vagões, ordenados crescentemente segundo suas\nnumerações, conforme ilustrado na figura.\n\nDe acordo com as possíveis variações nas colorações\ndos vagões, a quantidade de trens que podem ser\nmontados, expressa por meio de combinações, é\ndada por\n\nA. 12\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "O gráfico a seguir mostra a evolução mensal das\nvendas de certo produto de julho a novembro de 2011.\n\nSabe-se que o mês de julho foi o pior momento da\nempresa em 2011 e que o número de unidades vendidas\ndesse produto em dezembro de 2011 foi igual à média\naritmética do número de unidades vendidas nos meses\nde julho a novembro do mesmo ano.\nO gerente de vendas disse, em uma reunião da\ndiretoria, que, se essa redução no número de unidades\nvendidas de novembro para dezembro de 2011 se\nmantivesse constante nos meses subsequentes, as\nvendas só voltariam a ficar piores que julho de 2011\napenas no final de 2012.\nO diretor financeiro rebateu imediatamente esse\nargumento mostrando que, mantida a tendência,\nisso aconteceria já em",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "janeiro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "fevereiro.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "março.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "abril.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "maio. Unidades\nvendidas MT - 2º dia | Caderno 5 - AMARELO - Página 18",
+          "assets": [
+            "/generated/enem-2019/matematica/question-138/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O gráfico a seguir mostra a evolução mensal das\nvendas de certo produto de julho a novembro de 2011.\n\nSabe-se que o mês de julho foi o pior momento da\nempresa em 2011 e que o número de unidades vendidas\ndesse produto em dezembro de 2011 foi igual à média\naritmética do número de unidades vendidas nos meses\nde julho a novembro do mesmo ano.\nO gerente de vendas disse, em uma reunião da\ndiretoria, que, se essa redução no número de unidades\nvendidas de novembro para dezembro de 2011 se\nmantivesse constante nos meses subsequentes, as\nvendas só voltariam a ficar piores que julho de 2011\napenas no final de 2012.\nO diretor financeiro rebateu imediatamente esse\nargumento mostrando que, mantida a tendência,\nisso aconteceria já em\n\nA. janeiro.\nB. fevereiro.\nC. março.\nD. abril.\nE. maio. Unidades\nvendidas MT - 2º dia | Caderno 5 - AMARELO - Página 18"
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Um grupo de países criou uma instituição responsável\npor organizar o Programa Internacional de Nivelamento\nde Estudos (PINE) com o objetivo de melhorar os índices\nmundiais de educação. Em sua sede foi construída\numa escultura suspensa, com a logomarca oficial do\nprograma, em três dimensões, que é formada por suas\niniciais, conforme mostrada na figura.\n\nEssa escultura está suspensa por cabos de aço, de\nmaneira que o espaçamento entre letras adjacentes é o\nmesmo, todas têm igual espessura e ficam dispostas em\nposição ortogonal ao solo, como ilustrado a seguir.\n\nAo meio-dia, com o sol a pino, as letras que formam\nessa escultura projetam ortogonalmente suas sombras\nsobre o solo.\nA sombra projetada no solo é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um grupo de países criou uma instituição responsável\npor organizar o Programa Internacional de Nivelamento\nde Estudos (PINE) com o objetivo de melhorar os índices\nmundiais de educação. Em sua sede foi construída\numa escultura suspensa, com a logomarca oficial do\nprograma, em três dimensões, que é formada por suas\niniciais, conforme mostrada na figura.\n\nEssa escultura está suspensa por cabos de aço, de\nmaneira que o espaçamento entre letras adjacentes é o\nmesmo, todas têm igual espessura e ficam dispostas em\nposição ortogonal ao solo, como ilustrado a seguir.\n\nAo meio-dia, com o sol a pino, as letras que formam\nessa escultura projetam ortogonalmente suas sombras\nsobre o solo.\nA sombra projetada no solo é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Para produzir a Hydrangea cor-de-rosa de maior\nvalor comercial, deve-se preparar o solo de modo que\nx assuma qualquer valor acima de 10−8.",
+          "assets": [
+            "/generated/enem-2019/matematica/question-140/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "qualquer valor positivo inferior a 10−7.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "valores maiores que 7 e menores que 8.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "valores maiores que 70 e menores que 80.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "valores maiores que 10−8 e menores que 10−7.",
+          "assets": []
+        }
+      ],
+      "rawText": "A. Para produzir a Hydrangea cor-de-rosa de maior\nvalor comercial, deve-se preparar o solo de modo que\nx assuma qualquer valor acima de 10−8.\nB. qualquer valor positivo inferior a 10−7.\nC. valores maiores que 7 e menores que 8.\nD. valores maiores que 70 e menores que 80.\nE. valores maiores que 10−8 e menores que 10−7."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "Uma pessoa, que perdeu um objeto pessoal quando\nvisitou uma cidade, pretende divulgar nos meios de\ncomunicação informações a respeito da perda desse\nobjeto e de seu contato para eventual devolução.\nNo entanto, ela lembra que, de acordo com o Art. 1 234\ndo Código Civil, poderá ter que pagar pelas despesas\ndo transporte desse objeto até sua cidade e poderá ter\nque recompensar a pessoa que lhe restituir o objeto\nem, pelo menos, 5% do valor do objeto.\nEla sabe que o custo com transporte será de\num quinto do valor atual do objeto e, como ela tem\nmuito interesse em reavê-lo, pretende ofertar o maior\npercentual possível de recompensa, desde que o\ngasto total com as despesas não ultrapasse o valor\natual do objeto.\nNessas condições, o percentual sobre o valor do objeto,\ndado como recompensa, que ela deverá ofertar é igual a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "20%",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "25%",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "40%",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "60%",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "80% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19",
+          "assets": [
+            "/generated/enem-2019/matematica/question-141/option-e-01.png",
+            "/generated/enem-2019/matematica/question-141/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "Uma pessoa, que perdeu um objeto pessoal quando\nvisitou uma cidade, pretende divulgar nos meios de\ncomunicação informações a respeito da perda desse\nobjeto e de seu contato para eventual devolução.\nNo entanto, ela lembra que, de acordo com o Art. 1 234\ndo Código Civil, poderá ter que pagar pelas despesas\ndo transporte desse objeto até sua cidade e poderá ter\nque recompensar a pessoa que lhe restituir o objeto\nem, pelo menos, 5% do valor do objeto.\nEla sabe que o custo com transporte será de\num quinto do valor atual do objeto e, como ela tem\nmuito interesse em reavê-lo, pretende ofertar o maior\npercentual possível de recompensa, desde que o\ngasto total com as despesas não ultrapasse o valor\natual do objeto.\nNessas condições, o percentual sobre o valor do objeto,\ndado como recompensa, que ela deverá ofertar é igual a\n\nA. 20%\nB. 25%\nC. 40%\nD. 60%\nE. 80% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19"
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo\nacende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o\nacendimento e o desligamento sejam instantâneos.\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles.\nO gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das\nlâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão\nnumerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\nEnergia (Wmin)⋅\n\nTempo (min)\n(0 ; 0)\n\n(2 ; 35)\n(3 ; 40)\n\nQUARTO\n(13 W)\n\nSALA\n(20 W)\nBANHO\n(2 W)\n\nBANHO\n(5 W)\n\nCOZINHA\n(10 W)\n\nENTRADA\nSUÍTE\n(15 W)\n\nA sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-142/statement-01.png",
+        "/generated/enem-2019/matematica/question-142/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-142/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 4 5 4 1 6 1 4 → → → → → → →",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 2 3 1 4 1 4 4 → → → → → → →",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 4 5 4 1 6 1 2 3 → → → → → → → →",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 2 3 5 4 1 6 1 4 → → → → → → → →",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 4 2 3 5 1 6 1 4 → → → → → → → →",
+          "assets": []
+        }
+      ],
+      "rawText": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo\nacende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o\nacendimento e o desligamento sejam instantâneos.\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles.\nO gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das\nlâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão\nnumerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\nEnergia (Wmin)⋅\n\nTempo (min)\n(0 ; 0)\n\n(2 ; 35)\n(3 ; 40)\n\nQUARTO\n(13 W)\n\nSALA\n(20 W)\nBANHO\n(2 W)\n\nBANHO\n(5 W)\n\nCOZINHA\n(10 W)\n\nENTRADA\nSUÍTE\n(15 W)\n\nA sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é\n\nA. 1 4 5 4 1 6 1 4 → → → → → → →\nB. 1 2 3 1 4 1 4 4 → → → → → → →\nC. 1 4 5 4 1 6 1 2 3 → → → → → → → →\nD. 1 2 3 5 4 1 6 1 4 → → → → → → → →\nE. 1 4 2 3 5 1 6 1 4 → → → → → → → →"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de\ndecidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países\nque desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o\ndestino que apresentasse o menor custo diário em real.\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\nNessas condições, qual será o destino escolhido para a viagem?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-143/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-143/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Austrália.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Canadá.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "EUA.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "França.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Reino Unido *DO0525AM19* . MT - 2º dia | Caderno 5 - AMARELO - Página 20",
+          "assets": []
+        }
+      ],
+      "rawText": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de\ndecidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países\nque desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o\ndestino que apresentasse o menor custo diário em real.\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\nNessas condições, qual será o destino escolhido para a viagem?\n\nA. Austrália.\nB. Canadá.\nC. EUA.\nD. França.\nE. Reino Unido *DO0525AM19* . MT - 2º dia | Caderno 5 - AMARELO - Página 20"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "A gripe é uma infecção respiratória aguda de curta\nduração causada pelo vírus influenza. Ao entrar no\nnosso organismo pelo nariz, esse vírus multiplica-se,\ndisseminando-se para a garganta e demais partes das\nvias respiratórias, incluindo os pulmões.\nO vírus influenza é uma partícula esférica que tem\num diâmetro interno de 0,00011 mm.\nDisponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado).\nEm notação científica, o diâmetro interno do vírus\ninfluenza, em mm, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,1 × 10⁻1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,1 × 10⁻2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,1 × 10⁻3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,1 × 10⁻4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1,1 × 10⁻5",
+          "assets": []
+        }
+      ],
+      "rawText": "A gripe é uma infecção respiratória aguda de curta\nduração causada pelo vírus influenza. Ao entrar no\nnosso organismo pelo nariz, esse vírus multiplica-se,\ndisseminando-se para a garganta e demais partes das\nvias respiratórias, incluindo os pulmões.\nO vírus influenza é uma partícula esférica que tem\num diâmetro interno de 0,00011 mm.\nDisponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado).\nEm notação científica, o diâmetro interno do vírus\ninfluenza, em mm, é\n\nA. 1,1 × 10⁻1\nB. 1,1 × 10⁻2\nC. 1,1 × 10⁻3\nD. 1,1 × 10⁻4\nE. 1,1 × 10⁻5"
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Em um jogo on-line, cada jogador procura subir\nde nível e aumentar sua experiência, que são dois\nparâmetros importantes no jogo, dos quais dependem\nas forças de defesa e de ataque do participante. A força\nde defesa de cada jogador é diretamente proporcional ao\nseu nível e ao quadrado de sua experiência, enquanto\nsua força de ataque é diretamente proporcional à sua\nexperiência e ao quadrado do seu nível. Nenhum jogador\nsabe o nível ou a experiência dos demais. Os jogadores\niniciam o jogo no nível 1 com experiência 1 e possuem\nforça de ataque 2 e de defesa 1. Nesse jogo, cada\nparticipante se movimenta em uma cidade em busca de\ntesouros para aumentar sua experiência. Quando dois\ndeles se encontram, um deles pode desafiar o outro\npara um confronto, sendo o desafiante considerado\no atacante. Compara-se então a força de ataque do\ndesafiante com a força de defesa do desafiado e vence\no confronto aquele cuja força for maior. O vencedor do\ndesafio aumenta seu nível em uma unidade. Caso haja\nempate no confronto, ambos os jogadores aumentam\nseus níveis em uma unidade.\nDurante um jogo, o jogador J₁, de nível 4 e experiência 5,\nirá atacar o jogador J₂, de nível 2 e experiência 6.\nO jogador J₁ venceu esse confronto porque a diferença\nentre sua força de ataque e a força de defesa de seu\noponente era",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "112.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "88.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "60.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "28.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "24.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um jogo on-line, cada jogador procura subir\nde nível e aumentar sua experiência, que são dois\nparâmetros importantes no jogo, dos quais dependem\nas forças de defesa e de ataque do participante. A força\nde defesa de cada jogador é diretamente proporcional ao\nseu nível e ao quadrado de sua experiência, enquanto\nsua força de ataque é diretamente proporcional à sua\nexperiência e ao quadrado do seu nível. Nenhum jogador\nsabe o nível ou a experiência dos demais. Os jogadores\niniciam o jogo no nível 1 com experiência 1 e possuem\nforça de ataque 2 e de defesa 1. Nesse jogo, cada\nparticipante se movimenta em uma cidade em busca de\ntesouros para aumentar sua experiência. Quando dois\ndeles se encontram, um deles pode desafiar o outro\npara um confronto, sendo o desafiante considerado\no atacante. Compara-se então a força de ataque do\ndesafiante com a força de defesa do desafiado e vence\no confronto aquele cuja força for maior. O vencedor do\ndesafio aumenta seu nível em uma unidade. Caso haja\nempate no confronto, ambos os jogadores aumentam\nseus níveis em uma unidade.\nDurante um jogo, o jogador J₁, de nível 4 e experiência 5,\nirá atacar o jogador J₂, de nível 2 e experiência 6.\nO jogador J₁ venceu esse confronto porque a diferença\nentre sua força de ataque e a força de defesa de seu\noponente era\n\nA. 112.\nB. 88.\nC. 60.\nD. 28.\nE. 24."
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Em um condomínio, uma área pavimentada, que\ntem a forma de um círculo com diâmetro medindo 6 m,\né cercada por grama. A administração do condomínio\ndeseja ampliar essa área, mantendo seu formato\ncircular, e aumentando, em 8 m, o diâmetro dessa\nregião, mantendo o revestimento da parte já existente.\nO condomínio dispõe, em estoque, de material\nsuficiente para pavimentar mais 100 m² de área.\nO síndico do condomínio irá avaliar se esse material\ndisponível será suficiente para pavimentar a região a\nser ampliada.\n\nA conclusão correta a que o síndico deverá chegar,\nconsiderando a nova área a ser pavimentada, é a de\nque o material disponível em estoque",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-146/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-146/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "será suficiente, pois a área da nova região a ser pavimentada mede 21 m².\nB será suficiente, pois a área da nova região a ser pavimentada mede 24 m².\nC será suficiente, pois a área da nova região a ser pavimentada mede 48 m².\nD não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².\nE não será suficiente, pois a área da nova região a ser pavimentada mede 120 m².",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um condomínio, uma área pavimentada, que\ntem a forma de um círculo com diâmetro medindo 6 m,\né cercada por grama. A administração do condomínio\ndeseja ampliar essa área, mantendo seu formato\ncircular, e aumentando, em 8 m, o diâmetro dessa\nregião, mantendo o revestimento da parte já existente.\nO condomínio dispõe, em estoque, de material\nsuficiente para pavimentar mais 100 m² de área.\nO síndico do condomínio irá avaliar se esse material\ndisponível será suficiente para pavimentar a região a\nser ampliada.\n\nA conclusão correta a que o síndico deverá chegar,\nconsiderando a nova área a ser pavimentada, é a de\nque o material disponível em estoque\n\nA. será suficiente, pois a área da nova região a ser pavimentada mede 21 m².\nB será suficiente, pois a área da nova região a ser pavimentada mede 24 m².\nC será suficiente, pois a área da nova região a ser pavimentada mede 48 m².\nD não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².\nE não será suficiente, pois a área da nova região a ser pavimentada mede 120 m².\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "Os exercícios físicos são recomendados para o\nbom funcionamento do organismo, pois aceleram o\nmetabolismo e, em consequência, elevam o consumo\nde calorias. No gráfico, estão registrados os valores\ncalóricos, em kcal, gastos em cinco diferentes atividades\nfísicas, em função do tempo dedicado às atividades,\ncontado em minuto.\n\n(kcal)\n\nII\nIII\nIV\nV\n\nQual dessas atividades físicas proporciona o maior\nconsumo de quilocalorias por minuto?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-147/statement-01.png",
+        "/generated/enem-2019/matematica/question-147/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-147/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21",
+          "assets": []
+        }
+      ],
+      "rawText": "Os exercícios físicos são recomendados para o\nbom funcionamento do organismo, pois aceleram o\nmetabolismo e, em consequência, elevam o consumo\nde calorias. No gráfico, estão registrados os valores\ncalóricos, em kcal, gastos em cinco diferentes atividades\nfísicas, em função do tempo dedicado às atividades,\ncontado em minuto.\n\n(kcal)\n\nII\nIII\nIV\nV\n\nQual dessas atividades físicas proporciona o maior\nconsumo de quilocalorias por minuto?\n\nA. I\nB. II\nC. III\nD. IV\nE. V *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21"
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Um professor aplica, durante os cinco dias úteis\nde uma semana, testes com quatro questões de\nmúltipla escolha a cinco alunos. Os resultados foram\nrepresentados na matriz.\n\nO teste que apresentou maior quantidade de acertos foi\no aplicado na",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-148/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-148/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "segunda-feira.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "terça-feira.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "quarta-feira.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "quinta-feira.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "sexta-feira.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um professor aplica, durante os cinco dias úteis\nde uma semana, testes com quatro questões de\nmúltipla escolha a cinco alunos. Os resultados foram\nrepresentados na matriz.\n\nO teste que apresentou maior quantidade de acertos foi\no aplicado na\n\nA. segunda-feira.\nB. terça-feira.\nC. quarta-feira.\nD. quinta-feira.\nE. sexta-feira."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Um ciclista quer montar um sistema de marchas\nusando dois discos dentados na parte traseira de sua\nbicicleta, chamados catracas. A coroa é o disco dentado\nque é movimentado pelos pedais da bicicleta, sendo\nque a corrente transmite esse movimento às catracas,\nque ficam posicionadas na roda traseira da bicicleta.\nAs diferentes marchas ficam definidas pelos diferentes\ndiâmetros das catracas, que são medidos conforme\nindicação na figura.\n\nDiâmetro do\ndisco dentado\n\nO ciclista já dispõe de uma catraca com 7 cm de\ndiâmetro e pretende incluir uma segunda catraca, de\nmodo que, à medida em que a corrente passe por ela,\na bicicleta avance 50% a mais do que avançaria se a\ncorrente passasse pela primeira catraca, a cada volta\ncompleta dos pedais.\nO valor mais próximo da medida do diâmetro da segunda\ncatraca, em centímetro e com uma casa decimal, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2,3.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4,7.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5,3.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "10,5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um ciclista quer montar um sistema de marchas\nusando dois discos dentados na parte traseira de sua\nbicicleta, chamados catracas. A coroa é o disco dentado\nque é movimentado pelos pedais da bicicleta, sendo\nque a corrente transmite esse movimento às catracas,\nque ficam posicionadas na roda traseira da bicicleta.\nAs diferentes marchas ficam definidas pelos diferentes\ndiâmetros das catracas, que são medidos conforme\nindicação na figura.\n\nDiâmetro do\ndisco dentado\n\nO ciclista já dispõe de uma catraca com 7 cm de\ndiâmetro e pretende incluir uma segunda catraca, de\nmodo que, à medida em que a corrente passe por ela,\na bicicleta avance 50% a mais do que avançaria se a\ncorrente passasse pela primeira catraca, a cada volta\ncompleta dos pedais.\nO valor mais próximo da medida do diâmetro da segunda\ncatraca, em centímetro e com uma casa decimal, é\n\nA. 2,3.\nB. 3,5.\nC. 4,7.\nD. 5,3.\nE. 10,5."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "O serviço de meteorologia de uma cidade emite\nrelatórios diários com a previsão do tempo. De posse\ndessas informações, a prefeitura emite três tipos de\nalertas para a população:\n• Alerta cinza: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura\nserá inferior a 10 °C, e a umidade relativa do ar\nfor inferior a 40%;\n• Alerta laranja: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura deve\nvariar entre 35 °C e 40 °C, e a umidade relativa do\nar deve ficar abaixo de 30%;\n• Alerta vermelho: deverá ser emitido sempre que\na previsão do tempo estimar que a temperatura\nserá superior a 40 °C, e a umidade relativa do ar\nfor inferior a 25%.\nUm resumo da previsão do tempo nessa cidade,\npara um período de 15 dias, foi apresentado no gráfico.\n\nDecorridos os 15 dias de validade desse relatório,\num funcionário percebeu que, no período a que se refere\no gráfico, foram emitidos os seguintes alertas:\n• Dia 1: alerta cinza;\n• Dia 12: alerta laranja;\n• Dia 13: alerta vermelho.\nEm qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s)\ncorretamente?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-150/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-150/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 e 12",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 e 13",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1, 12 e 13 3/3\n2/3\n0 2/2\n2/2\n2 0/4\n2/4\n0 1/1\n3/1\n4 2/2\n2/0\n4 *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22",
+          "assets": []
+        }
+      ],
+      "rawText": "O serviço de meteorologia de uma cidade emite\nrelatórios diários com a previsão do tempo. De posse\ndessas informações, a prefeitura emite três tipos de\nalertas para a população:\n• Alerta cinza: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura\nserá inferior a 10 °C, e a umidade relativa do ar\nfor inferior a 40%;\n• Alerta laranja: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura deve\nvariar entre 35 °C e 40 °C, e a umidade relativa do\nar deve ficar abaixo de 30%;\n• Alerta vermelho: deverá ser emitido sempre que\na previsão do tempo estimar que a temperatura\nserá superior a 40 °C, e a umidade relativa do ar\nfor inferior a 25%.\nUm resumo da previsão do tempo nessa cidade,\npara um período de 15 dias, foi apresentado no gráfico.\n\nDecorridos os 15 dias de validade desse relatório,\num funcionário percebeu que, no período a que se refere\no gráfico, foram emitidos os seguintes alertas:\n• Dia 1: alerta cinza;\n• Dia 12: alerta laranja;\n• Dia 13: alerta vermelho.\nEm qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s)\ncorretamente?\n\nA. 1\nB. 12\nC. 1 e 12\nD. 1 e 13\nE. 1, 12 e 13 3/3\n2/3\n0 2/2\n2/2\n2 0/4\n2/4\n0 1/1\n3/1\n4 2/2\n2/0\n4 *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Uma administração municipal encomendou a pintura\nde dez placas de sinalização para colocar em seu pátio\nde estacionamento.\nO profissional contratado para o serviço inicial\npintará o fundo de dez placas e cobrará um valor de\nacordo com a área total dessas placas. O formato\nde cada placa é um círculo de diâmetro d = 40 cm,\nque tangencia lados de um retângulo, sendo que\no comprimento total da placa é h = 60 cm, conforme\nilustrado na figura. Use 3,14 como aproximação para π.\n\nQual é a soma das medidas das áreas, em centímetros\nquadrados, das dez placas?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "16 628",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "22 280",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "28 560",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "41 120",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "66 240",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma administração municipal encomendou a pintura\nde dez placas de sinalização para colocar em seu pátio\nde estacionamento.\nO profissional contratado para o serviço inicial\npintará o fundo de dez placas e cobrará um valor de\nacordo com a área total dessas placas. O formato\nde cada placa é um círculo de diâmetro d = 40 cm,\nque tangencia lados de um retângulo, sendo que\no comprimento total da placa é h = 60 cm, conforme\nilustrado na figura. Use 3,14 como aproximação para π.\n\nQual é a soma das medidas das áreas, em centímetros\nquadrados, das dez placas?\n\nA. 16 628\nB. 22 280\nC. 28 560\nD. 41 120\nE. 66 240"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "O rótulo da embalagem de um cosmético informa\nque a dissolução de seu conteúdo, de acordo com suas\nespecificações, rende 2,7 litros desse produto pronto\npara o uso. Uma pessoa será submetida a um tratamento\nestético em que deverá tomar um banho de imersão\ncom esse produto numa banheira com capacidade de\n0,3 m³. Para evitar o transbordamento, essa banheira\nserá preenchida em 80% de sua capacidade.\nPara esse banho, o número mínimo de embalagens\ndesse cosmético é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "9.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "12.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "89.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "112.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "134.",
+          "assets": []
+        }
+      ],
+      "rawText": "O rótulo da embalagem de um cosmético informa\nque a dissolução de seu conteúdo, de acordo com suas\nespecificações, rende 2,7 litros desse produto pronto\npara o uso. Uma pessoa será submetida a um tratamento\nestético em que deverá tomar um banho de imersão\ncom esse produto numa banheira com capacidade de\n0,3 m³. Para evitar o transbordamento, essa banheira\nserá preenchida em 80% de sua capacidade.\nPara esse banho, o número mínimo de embalagens\ndesse cosmético é\n\nA. 9.\nB. 12.\nC. 89.\nD. 112.\nE. 134."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "O slogan “Se beber não dirija”, muito utilizado em\ncampanhas publicitárias no Brasil, chama a atenção\npara o grave problema da ingestão de bebida alcoólica\npor motoristas e suas consequências para o trânsito.\nA gravidade desse problema pode ser percebida\nobservando como o assunto é tratado pelo Código de\nTrânsito Brasileiro. Em 2013, a quantidade máxima\nde álcool permitida no sangue do condutor de um\nveículo, que já era pequena, foi reduzida, e o valor\nda multa para motoristas alcoolizados foi aumentado.\nEm consequência dessas mudanças, observou-se\nqueda no número de acidentes registrados em uma\nsuposta rodovia nos anos que se seguiram às mudanças\nimplantadas em 2013, conforme dados no quadro.\n\nSuponha que a tendência de redução no número de\nacidentes nessa rodovia para os anos subsequentes seja\nigual à redução absoluta observada de 2014 para 2015.\nCom base na situação apresentada, o número de\nacidentes esperados nessa rodovia em 2018 foi de",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-153/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-153/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "150.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "450.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "550.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "700.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "800.",
+          "assets": []
+        }
+      ],
+      "rawText": "O slogan “Se beber não dirija”, muito utilizado em\ncampanhas publicitárias no Brasil, chama a atenção\npara o grave problema da ingestão de bebida alcoólica\npor motoristas e suas consequências para o trânsito.\nA gravidade desse problema pode ser percebida\nobservando como o assunto é tratado pelo Código de\nTrânsito Brasileiro. Em 2013, a quantidade máxima\nde álcool permitida no sangue do condutor de um\nveículo, que já era pequena, foi reduzida, e o valor\nda multa para motoristas alcoolizados foi aumentado.\nEm consequência dessas mudanças, observou-se\nqueda no número de acidentes registrados em uma\nsuposta rodovia nos anos que se seguiram às mudanças\nimplantadas em 2013, conforme dados no quadro.\n\nSuponha que a tendência de redução no número de\nacidentes nessa rodovia para os anos subsequentes seja\nigual à redução absoluta observada de 2014 para 2015.\nCom base na situação apresentada, o número de\nacidentes esperados nessa rodovia em 2018 foi de\n\nA. 150.\nB. 450.\nC. 550.\nD. 700.\nE. 800."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "Uma pessoa se interessou em adquirir um produto\nanunciado em uma loja. Negociou com o gerente e\nconseguiu comprá-lo a uma taxa de juros compostos\nde 1% ao mês. O primeiro pagamento será um mês\napós a aquisição do produto, e no valor de R$ 202,00.\nO segundo pagamento será efetuado um mês após o\nprimeiro, e terá o valor de R$ 204,02. Para concretizar a\ncompra, o gerente emitirá uma nota fiscal com o valor do\nproduto à vista negociado com o cliente, correspondendo\nao financiamento aprovado.\nO valor à vista, em real, que deverá constar na nota\nfiscal é de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "398,02.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "400,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "401,94.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "404,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "406,02.  d h\nE PROIBIDO\nESTACIONAR *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa se interessou em adquirir um produto\nanunciado em uma loja. Negociou com o gerente e\nconseguiu comprá-lo a uma taxa de juros compostos\nde 1% ao mês. O primeiro pagamento será um mês\napós a aquisição do produto, e no valor de R$ 202,00.\nO segundo pagamento será efetuado um mês após o\nprimeiro, e terá o valor de R$ 204,02. Para concretizar a\ncompra, o gerente emitirá uma nota fiscal com o valor do\nproduto à vista negociado com o cliente, correspondendo\nao financiamento aprovado.\nO valor à vista, em real, que deverá constar na nota\nfiscal é de\n\nA. 398,02.\nB. 400,00.\nC. 401,94.\nD. 404,00.\nE. 406,02.  d h\nE PROIBIDO\nESTACIONAR *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23"
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Três sócios resolveram fundar uma fábrica.\nO investimento inicial foi de R$ 1 000 000,00.\nE, independentemente do valor que cada um investiu\nnesse primeiro momento, resolveram considerar que cada\num deles contribuiu com um terço do investimento inicial.\nAlgum tempo depois, um quarto sócio entrou para\na sociedade, e os quatro, juntos, investiram mais\nR$ 800 000,00 na fábrica. Cada um deles contribuiu\ncom um quarto desse valor. Quando venderam a fábrica,\nnenhum outro investimento havia sido feito. Os sócios\ndecidiram então dividir o montante de R$ 1 800 000,00\nobtido com a venda, de modo proporcional à quantia\ntotal investida por cada sócio.\nQuais os valores mais próximos, em porcentagens,\ncorrespondentes às parcelas financeiras que cada um\ndos três sócios iniciais e o quarto sócio, respectivamente,\nreceberam?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "29,60 e 11,11.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "28,70 e 13,89.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "25,00 e 25,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "18,52 e 11,11.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "12,96 e 13,89.",
+          "assets": []
+        }
+      ],
+      "rawText": "Três sócios resolveram fundar uma fábrica.\nO investimento inicial foi de R$ 1 000 000,00.\nE, independentemente do valor que cada um investiu\nnesse primeiro momento, resolveram considerar que cada\num deles contribuiu com um terço do investimento inicial.\nAlgum tempo depois, um quarto sócio entrou para\na sociedade, e os quatro, juntos, investiram mais\nR$ 800 000,00 na fábrica. Cada um deles contribuiu\ncom um quarto desse valor. Quando venderam a fábrica,\nnenhum outro investimento havia sido feito. Os sócios\ndecidiram então dividir o montante de R$ 1 800 000,00\nobtido com a venda, de modo proporcional à quantia\ntotal investida por cada sócio.\nQuais os valores mais próximos, em porcentagens,\ncorrespondentes às parcelas financeiras que cada um\ndos três sócios iniciais e o quarto sócio, respectivamente,\nreceberam?\n\nA. 29,60 e 11,11.\nB. 28,70 e 13,89.\nC. 25,00 e 25,00.\nD. 18,52 e 11,11.\nE. 12,96 e 13,89."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Para contratar três máquinas que farão o reparo de\nvias rurais de um município, a prefeitura elaborou um\nedital que, entre outras cláusulas, previa:\n• Cada empresa interessada só pode cadastrar uma\núnica máquina para concorrer ao edital;\n• O total de recursos destinados para contratar o\nconjunto das três máquinas é de R$ 31 000,00;\n• O valor a ser pago a cada empresa será\ninversamente proporcional à idade de uso\nda máquina cadastrada pela empresa para o\npresente edital.\nAs três empresas vencedoras do edital cadastraram\nmáquinas com 2, 3 e 5 anos de idade de uso.\nQuanto receberá a empresa que cadastrou a máquina\ncom maior idade de uso?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "R$ 3 100,00",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "R$ 6 000,00",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "R$ 6 200,00",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "R$ 15 000,00",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "R$ 15 500,00",
+          "assets": []
+        }
+      ],
+      "rawText": "Para contratar três máquinas que farão o reparo de\nvias rurais de um município, a prefeitura elaborou um\nedital que, entre outras cláusulas, previa:\n• Cada empresa interessada só pode cadastrar uma\núnica máquina para concorrer ao edital;\n• O total de recursos destinados para contratar o\nconjunto das três máquinas é de R$ 31 000,00;\n• O valor a ser pago a cada empresa será\ninversamente proporcional à idade de uso\nda máquina cadastrada pela empresa para o\npresente edital.\nAs três empresas vencedoras do edital cadastraram\nmáquinas com 2, 3 e 5 anos de idade de uso.\nQuanto receberá a empresa que cadastrou a máquina\ncom maior idade de uso?\n\nA. R$ 3 100,00\nB. R$ 6 000,00\nC. R$ 6 200,00\nD. R$ 15 000,00\nE. R$ 15 500,00"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Segundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), o rendimento médio mensal\ndos trabalhadores brasileiros, no ano 2000, era de\nR$ 1 250,00. Já o Censo 2010 mostrou que, em 2010,\nesse valor teve um aumento de 7,2% em relação a\n2000. Esse mesmo instituto projeta que, em 2020, o\nrendimento médio mensal dos trabalhadores brasileiros\npoderá ser 10% maior do que foi em 2010.\nIBGE. Censo 2010. Disponível em: www.ibge.gov.br.\nAcesso em: 13 ago. 2012 (adaptado).\nSupondo que as projeções do IBGE se realizem, o\nrendimento médio mensal dos brasileiros em 2020 será de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "R$ 1 340,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "R$ 1 349,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "R$ 1 375,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "R$ 1 465,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "R$ 1 474,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Segundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), o rendimento médio mensal\ndos trabalhadores brasileiros, no ano 2000, era de\nR$ 1 250,00. Já o Censo 2010 mostrou que, em 2010,\nesse valor teve um aumento de 7,2% em relação a\n2000. Esse mesmo instituto projeta que, em 2020, o\nrendimento médio mensal dos trabalhadores brasileiros\npoderá ser 10% maior do que foi em 2010.\nIBGE. Censo 2010. Disponível em: www.ibge.gov.br.\nAcesso em: 13 ago. 2012 (adaptado).\nSupondo que as projeções do IBGE se realizem, o\nrendimento médio mensal dos brasileiros em 2020 será de\n\nA. R$ 1 340,00.\nB. R$ 1 349,00.\nC. R$ 1 375,00.\nD. R$ 1 465,00.\nE. R$ 1 474,00."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "Charles Richter e Beno Gutenberg desenvolveram a\nescala Richter, que mede a magnitude de um terremoto.\nEssa escala pode variar de 0 a 10, com possibilidades\nde valores maiores. O quadro mostra a escala de\nmagnitude local (Ms) de um terremoto que é utilizada\npara descrevê-lo.\nDescrição\nMagnitude local (Ms)\n(µm ⋅ Hz)\n\nPara se calcular a magnitude local, usa-se a fórmula\nMs = 3,30 + log(A⋅f ), em que A representa a amplitude\nmáxima da onda registrada por um sismógrafo em\nmicrômetro (µm) e f representa a frequência da onda,\nem hertz (Hz). Ocorreu um terremoto com amplitude\nmáxima de 2 000 µm e frequência de 0,2 Hz.\nDisponível em: http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).\nUtilize 0,3 como aproximação para log 2.\nDe acordo com os dados fornecidos, o terremoto\nocorrido pode ser descrito como",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-158/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-158/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Pequeno.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Ligeiro.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Moderado.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Grande.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Extremo. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24",
+          "assets": []
+        }
+      ],
+      "rawText": "Charles Richter e Beno Gutenberg desenvolveram a\nescala Richter, que mede a magnitude de um terremoto.\nEssa escala pode variar de 0 a 10, com possibilidades\nde valores maiores. O quadro mostra a escala de\nmagnitude local (Ms) de um terremoto que é utilizada\npara descrevê-lo.\nDescrição\nMagnitude local (Ms)\n(µm ⋅ Hz)\n\nPara se calcular a magnitude local, usa-se a fórmula\nMs = 3,30 + log(A⋅f ), em que A representa a amplitude\nmáxima da onda registrada por um sismógrafo em\nmicrômetro (µm) e f representa a frequência da onda,\nem hertz (Hz). Ocorreu um terremoto com amplitude\nmáxima de 2 000 µm e frequência de 0,2 Hz.\nDisponível em: http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).\nUtilize 0,3 como aproximação para log 2.\nDe acordo com os dados fornecidos, o terremoto\nocorrido pode ser descrito como\n\nA. Pequeno.\nB. Ligeiro.\nC. Moderado.\nD. Grande.\nE. Extremo. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Após o Fórum Nacional Contra a Pirataria (FNCP)\nincluir a linha de autopeças em campanha veiculada\ncontra a falsificação, as agências fiscalizadoras\ndivulgaram que os cinco principais produtos de\nautopeças falsificados são: rolamento, pastilha de freio,\ncaixa de direção, catalisador e amortecedor.\nDisponível em: www.oficinabrasil.com.br.\nAcesso em: 25 ago. 2014 (adaptado).\nApós uma grande apreensão, as peças falsas foram\ncadastradas utilizando-se a codificação:\n1: rolamento, 2: pastilha de freio, 3: caixa de direção,\n4: catalisador e 5: amortecedor.\nAo final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4,\n5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta\num padrão de formação que consiste na repetição de um\nbloco de números. Essa sequência descreve a ordem\nem que os produtos apreendidos foram cadastrados.\nO 2 015º item cadastrado foi um(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "rolamento.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "catalisador.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "amortecedor.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "pastilha de freio.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "caixa de direção.",
+          "assets": []
+        }
+      ],
+      "rawText": "Após o Fórum Nacional Contra a Pirataria (FNCP)\nincluir a linha de autopeças em campanha veiculada\ncontra a falsificação, as agências fiscalizadoras\ndivulgaram que os cinco principais produtos de\nautopeças falsificados são: rolamento, pastilha de freio,\ncaixa de direção, catalisador e amortecedor.\nDisponível em: www.oficinabrasil.com.br.\nAcesso em: 25 ago. 2014 (adaptado).\nApós uma grande apreensão, as peças falsas foram\ncadastradas utilizando-se a codificação:\n1: rolamento, 2: pastilha de freio, 3: caixa de direção,\n4: catalisador e 5: amortecedor.\nAo final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4,\n5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta\num padrão de formação que consiste na repetição de um\nbloco de números. Essa sequência descreve a ordem\nem que os produtos apreendidos foram cadastrados.\nO 2 015º item cadastrado foi um(a)\n\nA. rolamento.\nB. catalisador.\nC. amortecedor.\nD. pastilha de freio.\nE. caixa de direção."
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Durante suas férias, oito amigos, dos quais dois são\ncanhotos, decidem realizar um torneio de vôlei de praia.\nEles precisam formar quatro duplas para a realização\ndo torneio. Nenhuma dupla pode ser formada por dois\njogadores canhotos.\nDe quantas maneiras diferentes podem ser formadas\nessas quatro duplas?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "69",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "70",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "90",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "104",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "105",
+          "assets": []
+        }
+      ],
+      "rawText": "Durante suas férias, oito amigos, dos quais dois são\ncanhotos, decidem realizar um torneio de vôlei de praia.\nEles precisam formar quatro duplas para a realização\ndo torneio. Nenhuma dupla pode ser formada por dois\njogadores canhotos.\nDe quantas maneiras diferentes podem ser formadas\nessas quatro duplas?\n\nA. 69\nB. 70\nC. 90\nD. 104\nE. 105"
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "As luminárias para um laboratório de matemática\nserão fabricadas em forma de sólidos geométricos.\nUma delas terá a forma de um tetraedro truncado.\nEsse sólido é gerado a partir de secções paralelas\na cada uma das faces de um tetraedro regular.\nPara essa luminária, as secções serão feitas de\nmaneira que, em cada corte, um terço das arestas\nseccionadas serão removidas. Uma dessas secções\nestá indicada na figura.\n\nEssa luminária terá por faces",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4 hexágonos regulares e 4 triângulos equiláteros.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2 hexágonos regulares e 4 triângulos equiláteros.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4 quadriláteros e 4 triângulos isósceles.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3 quadriláteros e 4 triângulos isósceles.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "3 hexágonos regulares e 4 triângulos equiláteros.",
+          "assets": []
+        }
+      ],
+      "rawText": "As luminárias para um laboratório de matemática\nserão fabricadas em forma de sólidos geométricos.\nUma delas terá a forma de um tetraedro truncado.\nEsse sólido é gerado a partir de secções paralelas\na cada uma das faces de um tetraedro regular.\nPara essa luminária, as secções serão feitas de\nmaneira que, em cada corte, um terço das arestas\nseccionadas serão removidas. Uma dessas secções\nestá indicada na figura.\n\nEssa luminária terá por faces\n\nA. 4 hexágonos regulares e 4 triângulos equiláteros.\nB. 2 hexágonos regulares e 4 triângulos equiláteros.\nC. 4 quadriláteros e 4 triângulos isósceles.\nD. 3 quadriláteros e 4 triângulos isósceles.\nE. 3 hexágonos regulares e 4 triângulos equiláteros."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "Comum em lançamentos de empreendimentos\nimobiliários, as maquetes de condomínios funcionam\ncomo uma ótima ferramenta de marketing para as\nconstrutoras, pois, além de encantar clientes, auxiliam\nde maneira significativa os corretores na negociação e\nvenda de imóveis.\nUm condomínio está sendo lançado em um novo\nbairro de uma cidade. Na maquete projetada pela\nconstrutora, em escala de 1 : 200, existe um reservatório\nde água com capacidade de 45 cm³.\nQuando todas as famílias estiverem residindo\nno condomínio, a estimativa é que, por dia, sejam\nconsumidos 30 000 litros de água.\nEm uma eventual falta de água, o reservatório cheio\nserá suficiente para abastecer o condomínio por\nquantos dias?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "30",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "15",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "3 a\n3 a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25",
+          "assets": []
+        }
+      ],
+      "rawText": "Comum em lançamentos de empreendimentos\nimobiliários, as maquetes de condomínios funcionam\ncomo uma ótima ferramenta de marketing para as\nconstrutoras, pois, além de encantar clientes, auxiliam\nde maneira significativa os corretores na negociação e\nvenda de imóveis.\nUm condomínio está sendo lançado em um novo\nbairro de uma cidade. Na maquete projetada pela\nconstrutora, em escala de 1 : 200, existe um reservatório\nde água com capacidade de 45 cm³.\nQuando todas as famílias estiverem residindo\nno condomínio, a estimativa é que, por dia, sejam\nconsumidos 30 000 litros de água.\nEm uma eventual falta de água, o reservatório cheio\nserá suficiente para abastecer o condomínio por\nquantos dias?\n\nA. 30\nB. 15\nC. 12\nD. 6\nE. 3 a\n3 a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse\nserviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos\nvalores correspondentes a cada faixa.\n• Faixa 1: para consumo de até 6 m³, valor fixo de R$ 12,00;\n• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês.\nO gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido,\nem metro cúbico, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "P (R$) V (m³)\n15/0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "P (R$) V (m³)\n15/0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "P (R$) V (m³)\n15/0 *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "P (R$) V (m³)\n15/0",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "P (R$) V (m³)\n15/0",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse\nserviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos\nvalores correspondentes a cada faixa.\n• Faixa 1: para consumo de até 6 m³, valor fixo de R$ 12,00;\n• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês.\nO gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido,\nem metro cúbico, é\n\nA. P (R$) V (m³)\n15/0\nB. P (R$) V (m³)\n15/0\nC. P (R$) V (m³)\n15/0 *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26\nD. P (R$) V (m³)\n15/0\nE. P (R$) V (m³)\n15/0"
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "do órgão competente, decidiu instalar novas placas com\nanúncios de seu restaurante ao longo dessa rodovia, de\nmaneira que a probabilidade de um motorista perceber\npelo menos uma das placas instaladas fosse superior\n\n.\nA quantidade mínima de novas placas de propaganda a\nserem instaladas é",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-164/statement-01.png",
+        "/generated/enem-2019/matematica/question-164/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "99.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "51.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "50.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "6.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1.",
+          "assets": []
+        }
+      ],
+      "rawText": "do órgão competente, decidiu instalar novas placas com\nanúncios de seu restaurante ao longo dessa rodovia, de\nmaneira que a probabilidade de um motorista perceber\npelo menos uma das placas instaladas fosse superior\n\n.\nA quantidade mínima de novas placas de propaganda a\nserem instaladas é\n\nA. 99.\nB. 51.\nC. 50.\nD. 6.\nE. 1."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "O preparador físico de um time de basquete dispõe\nde um plantel de 20 jogadores, com média de altura\nigual a 1,80 m. No último treino antes da estreia em\num campeonato, um dos jogadores desfalcou o time\nem razão de uma séria contusão, forçando o técnico a\ncontratar outro jogador para recompor o grupo.\nSe o novo jogador é 0,20 m mais baixo que o anterior,\nqual é a média de altura, em metro, do novo grupo?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,60",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,78",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,79",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,81",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1,82",
+          "assets": []
+        }
+      ],
+      "rawText": "O preparador físico de um time de basquete dispõe\nde um plantel de 20 jogadores, com média de altura\nigual a 1,80 m. No último treino antes da estreia em\num campeonato, um dos jogadores desfalcou o time\nem razão de uma séria contusão, forçando o técnico a\ncontratar outro jogador para recompor o grupo.\nSe o novo jogador é 0,20 m mais baixo que o anterior,\nqual é a média de altura, em metro, do novo grupo?\n\nA. 1,60\nB. 1,78\nC. 1,79\nD. 1,81\nE. 1,82"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Em uma fábrica de refrigerantes, é necessário\nque se faça periodicamente o controle no processo\nde engarrafamento para evitar que sejam envasadas\ngarrafas fora da especificação do volume escrito no rótulo.\nDiariamente, durante 60 dias, foram anotadas as\nquantidades de garrafas fora dessas especificações.\nO resultado está apresentado no quadro.\nQuantidade de garrafas fora das\nespecificações por dia\nQuantidade\n\nA média diária de garrafas fora das especificações no\nperíodo considerado é",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-166/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-166/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,5.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2,0.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "3,0.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma fábrica de refrigerantes, é necessário\nque se faça periodicamente o controle no processo\nde engarrafamento para evitar que sejam envasadas\ngarrafas fora da especificação do volume escrito no rótulo.\nDiariamente, durante 60 dias, foram anotadas as\nquantidades de garrafas fora dessas especificações.\nO resultado está apresentado no quadro.\nQuantidade de garrafas fora das\nespecificações por dia\nQuantidade\n\nA média diária de garrafas fora das especificações no\nperíodo considerado é\n\nA. 0,1.\nB. 0,2.\nC. 1,5.\nD. 2,0.\nE. 3,0."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "O Sistema Métrico Decimal é o mais utilizado\natualmente para medir comprimentos e distâncias.\nEm algumas atividades, porém, é possível observar\na utilização de diferentes unidades de medida.\nUm exemplo disso pode ser observado no quadro.\nUnidade\nEquivalência\nPolegada\n2,54 centímetros\nJarda\n3 pés\nJarda\n0,9144 metro\nAssim, um pé, em polegada, equivale a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,1200.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,3048.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,0800.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12,0000.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "36,0000.",
+          "assets": []
+        }
+      ],
+      "rawText": "O Sistema Métrico Decimal é o mais utilizado\natualmente para medir comprimentos e distâncias.\nEm algumas atividades, porém, é possível observar\na utilização de diferentes unidades de medida.\nUm exemplo disso pode ser observado no quadro.\nUnidade\nEquivalência\nPolegada\n2,54 centímetros\nJarda\n3 pés\nJarda\n0,9144 metro\nAssim, um pé, em polegada, equivale a\n\nA. 0,1200.\nB. 0,3048.\nC. 1,0800.\nD. 12,0000.\nE. 36,0000."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "O Índice de Desenvolvimento Humano (IDH) é uma\nmedida usada para classificar os países pelo seu grau\nde desenvolvimento. Para seu cálculo, são levados em\nconsideração a expectativa de vida ao nascer, tempo de\nescolaridade e renda per capita, entre outros. O menor\nvalor deste índice é zero e o maior é um. Cinco países\nforam avaliados e obtiveram os seguintes índices de\ndesenvolvimento humano: o primeiro país recebeu um\nvalor X , o segundo\nX , o terceiro X\n\núltimo X³. Nenhum desses países zerou ou atingiu o\níndice máximo.\nQual desses países obteve o maior IDH?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-168/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-168/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "O primeiro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "O segundo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "O terceiro.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "O quarto.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "O quinto. *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27",
+          "assets": []
+        }
+      ],
+      "rawText": "O Índice de Desenvolvimento Humano (IDH) é uma\nmedida usada para classificar os países pelo seu grau\nde desenvolvimento. Para seu cálculo, são levados em\nconsideração a expectativa de vida ao nascer, tempo de\nescolaridade e renda per capita, entre outros. O menor\nvalor deste índice é zero e o maior é um. Cinco países\nforam avaliados e obtiveram os seguintes índices de\ndesenvolvimento humano: o primeiro país recebeu um\nvalor X , o segundo\nX , o terceiro X\n\núltimo X³. Nenhum desses países zerou ou atingiu o\níndice máximo.\nQual desses países obteve o maior IDH?\n\nA. O primeiro.\nB. O segundo.\nC. O terceiro.\nD. O quarto.\nE. O quinto. *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Um mestre de obras deseja fazer uma laje com\nespessura de 5 cm utilizando concreto usinado,\nconforme as dimensões do projeto dadas na figura.\nO concreto para fazer a laje será fornecido por uma\nusina que utiliza caminhões com capacidades máximas\nde 2 m³, 5 m³ e 10 m³ de concreto.",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-169/statement-01.png",
+        "/generated/enem-2019/matematica/question-169/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-169/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Dez caminhões com capacidade máxima de 10 m³.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Cinco caminhões com capacidade máxima de 10 m³.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Um caminhão com capacidade máxima de 5 m³.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Dez caminhões com capacidade máxima de 2 m³.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Um caminhão com capacidade máxima de 2 m³.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um mestre de obras deseja fazer uma laje com\nespessura de 5 cm utilizando concreto usinado,\nconforme as dimensões do projeto dadas na figura.\nO concreto para fazer a laje será fornecido por uma\nusina que utiliza caminhões com capacidades máximas\nde 2 m³, 5 m³ e 10 m³ de concreto.\n\nA. Dez caminhões com capacidade máxima de 10 m³.\nB. Cinco caminhões com capacidade máxima de 10 m³.\nC. Um caminhão com capacidade máxima de 5 m³.\nD. Dez caminhões com capacidade máxima de 2 m³.\nE. Um caminhão com capacidade máxima de 2 m³."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "O álcool é um depressor do sistema nervoso central\ne age diretamente em diversos órgãos. A concentração\nde álcool no sangue pode ser entendida como a razão\nentre a quantidade q de álcool ingerido, medida em\ngrama, e o volume de sangue, em litro, presente no\norganismo do indivíduo. Em geral, considera-se que\nesse volume corresponda ao valor numérico dado\npor 8% da massa corporal m desse indivíduo, medida\nem quilograma.\nDe acordo com a Associação Médica Americana,\numa concentração alcoólica superior a 0,4 grama por\nlitro de sangue é capaz de trazer prejuízos à saúde do\nindivíduo.\nDisponível em: http://cisa.org.br. Acesso em: 1 dez. 2018 (adaptado).\nA expressão relacionando q e m que representa a\nconcentração alcoólica prejudicial à saúde do indivíduo,\nde acordo com a Associação Médica Americana, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-170/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-170/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-170/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-170/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-170/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O álcool é um depressor do sistema nervoso central\ne age diretamente em diversos órgãos. A concentração\nde álcool no sangue pode ser entendida como a razão\nentre a quantidade q de álcool ingerido, medida em\ngrama, e o volume de sangue, em litro, presente no\norganismo do indivíduo. Em geral, considera-se que\nesse volume corresponda ao valor numérico dado\npor 8% da massa corporal m desse indivíduo, medida\nem quilograma.\nDe acordo com a Associação Médica Americana,\numa concentração alcoólica superior a 0,4 grama por\nlitro de sangue é capaz de trazer prejuízos à saúde do\nindivíduo.\nDisponível em: http://cisa.org.br. Acesso em: 1 dez. 2018 (adaptado).\nA expressão relacionando q e m que representa a\nconcentração alcoólica prejudicial à saúde do indivíduo,\nde acordo com a Associação Médica Americana, é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "Construir figuras de diversos tipos, apenas\ndobrando e cortando papel, sem cola e sem tesoura, é\na arte do origami (ori = dobrar; kami = papel), que tem\num significado altamente simbólico no Japão. A base\ndo origami é o conhecimento do mundo por base do\ntato. Uma jovem resolveu construir um cisne usando\na técnica do origami, utilizando uma folha de papel de\n18 cm por 12 cm. Assim, começou por dobrar a folha\nconforme a figura.\n\nApós essa primeira dobradura, a medida do segmento\nAE é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-171/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "18 cm 12 cm\nD 12 cm *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28",
+          "assets": [
+            "/generated/enem-2019/matematica/question-171/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "12 cm.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-171/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/matematica/question-171/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Construir figuras de diversos tipos, apenas\ndobrando e cortando papel, sem cola e sem tesoura, é\na arte do origami (ori = dobrar; kami = papel), que tem\num significado altamente simbólico no Japão. A base\ndo origami é o conhecimento do mundo por base do\ntato. Uma jovem resolveu construir um cisne usando\na técnica do origami, utilizando uma folha de papel de\n18 cm por 12 cm. Assim, começou por dobrar a folha\nconforme a figura.\n\nApós essa primeira dobradura, a medida do segmento\nAE é\n\nA.\nB. 18 cm 12 cm\nD 12 cm *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28\nC. 12 cm.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Os alunos de uma turma escolar foram divididos em\ndois grupos. Um grupo jogaria basquete, enquanto o\noutro jogaria futebol. Sabe-se que o grupo de basquete\né formado pelos alunos mais altos da classe e tem\numa pessoa a mais do que o grupo de futebol. A tabela\nseguinte apresenta informações sobre as alturas dos\nalunos da turma.\n\nOs alunos P, J, F e M medem, respectivamente,\n1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não\nsão iguais a de nenhum outro colega da sala.\nSegundo essas informações, argumenta-se que os\nalunos P, J, F e M jogaram, respectivamente,",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-172/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-172/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "basquete, basquete, basquete, basquete.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "futebol, basquete, basquete, basquete.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "futebol, futebol, basquete, basquete.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "futebol, futebol, futebol, basquete.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "futebol, futebol, futebol, futebol.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os alunos de uma turma escolar foram divididos em\ndois grupos. Um grupo jogaria basquete, enquanto o\noutro jogaria futebol. Sabe-se que o grupo de basquete\né formado pelos alunos mais altos da classe e tem\numa pessoa a mais do que o grupo de futebol. A tabela\nseguinte apresenta informações sobre as alturas dos\nalunos da turma.\n\nOs alunos P, J, F e M medem, respectivamente,\n1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não\nsão iguais a de nenhum outro colega da sala.\nSegundo essas informações, argumenta-se que os\nalunos P, J, F e M jogaram, respectivamente,\n\nA. basquete, basquete, basquete, basquete.\nB. futebol, basquete, basquete, basquete.\nC. futebol, futebol, basquete, basquete.\nD. futebol, futebol, futebol, basquete.\nE. futebol, futebol, futebol, futebol."
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Uma empresa tem diversos funcionários. Um deles\né o gerente, que recebe R$ 1 000,00 por semana.\nOs outros funcionários são diaristas. Cada um deles\ntrabalha 2 dias por semana, recebendo R$ 80,00 por\ndia trabalhado.\nChamando de X a quantidade total de funcionários\nda empresa, a quantia Y, em reais, que esta empresa\ngasta semanalmente para pagar seus funcionários é\nexpressa por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Y = 80X + 920.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Y = 80X + 1 000.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Y = 80X + 1 080.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Y = 160X + 840.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Y = 160X + 1 000.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa tem diversos funcionários. Um deles\né o gerente, que recebe R$ 1 000,00 por semana.\nOs outros funcionários são diaristas. Cada um deles\ntrabalha 2 dias por semana, recebendo R$ 80,00 por\ndia trabalhado.\nChamando de X a quantidade total de funcionários\nda empresa, a quantia Y, em reais, que esta empresa\ngasta semanalmente para pagar seus funcionários é\nexpressa por\n\nA. Y = 80X + 920.\nB. Y = 80X + 1 000.\nC. Y = 80X + 1 080.\nD. Y = 160X + 840.\nE. Y = 160X + 1 000."
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "Um aplicativo de relacionamentos funciona da\nseguinte forma: o usuário cria um perfil com foto e\ninformações pessoais, indica as características dos\nusuários com quem deseja estabelecer contato e\ndetermina um raio de abrangência a partir da sua\nlocalização. O aplicativo identifica as pessoas que se\nencaixam no perfil desejado e que estão a uma distância\ndo usuário menor ou igual ao raio de abrangência.\nCaso dois usuários tenham perfis compatíveis e estejam\nnuma região de abrangência comum a ambos, o\naplicativo promove o contato entre os usuários, o que é\nchamado de match.\nO usuário P define um raio de abrangência com\nmedida de 3 km e busca ampliar a possibilidade de\nobter um match se deslocando para a região central da\ncidade, que concentra um maior número de usuários.\nO gráfico ilustra alguns bares que o usuário P costuma\nfrequentar para ativar o aplicativo, indicados por\nI, II, III, IV e V. Sabe-se que os usuários Q, R e S,\ncujas posições estão descritas pelo gráfico, são\ncompatíveis com o usuário P, e que estes definiram\nraios de abrangência respectivamente iguais a\n3 km, 2 km e 5 km.\n\nQ\nR\nIV\nI\n\nP\nx (km)\ny (km)\n\nCom base no gráfico e nas afirmações anteriores, em\nqual bar o usuário P teria a possibilidade de um match\ncom os usuários Q, R e S, simultaneamente?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-174/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-174/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29",
+          "assets": []
+        }
+      ],
+      "rawText": "Um aplicativo de relacionamentos funciona da\nseguinte forma: o usuário cria um perfil com foto e\ninformações pessoais, indica as características dos\nusuários com quem deseja estabelecer contato e\ndetermina um raio de abrangência a partir da sua\nlocalização. O aplicativo identifica as pessoas que se\nencaixam no perfil desejado e que estão a uma distância\ndo usuário menor ou igual ao raio de abrangência.\nCaso dois usuários tenham perfis compatíveis e estejam\nnuma região de abrangência comum a ambos, o\naplicativo promove o contato entre os usuários, o que é\nchamado de match.\nO usuário P define um raio de abrangência com\nmedida de 3 km e busca ampliar a possibilidade de\nobter um match se deslocando para a região central da\ncidade, que concentra um maior número de usuários.\nO gráfico ilustra alguns bares que o usuário P costuma\nfrequentar para ativar o aplicativo, indicados por\nI, II, III, IV e V. Sabe-se que os usuários Q, R e S,\ncujas posições estão descritas pelo gráfico, são\ncompatíveis com o usuário P, e que estes definiram\nraios de abrangência respectivamente iguais a\n3 km, 2 km e 5 km.\n\nQ\nR\nIV\nI\n\nP\nx (km)\ny (km)\n\nCom base no gráfico e nas afirmações anteriores, em\nqual bar o usuário P teria a possibilidade de um match\ncom os usuários Q, R e S, simultaneamente?\n\nA. I\nB. II\nC. III\nD. IV\nE. V *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29"
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento\ndas vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à\nsoma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última\nsemana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade\nde refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as\nvendas diárias serão iguais às da última semana.\nSegundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "20.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "27.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "44.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "55.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "71. Sábado Sexta Quinta\nQuarta Terça Segunda Domingo\nVendas na última semana 10\nCaldo de cana Refrigerante Pastel *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30",
+          "assets": []
+        }
+      ],
+      "rawText": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento\ndas vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à\nsoma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última\nsemana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade\nde refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as\nvendas diárias serão iguais às da última semana.\nSegundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é\n\nA. 20.\nB. 27.\nC. 44.\nD. 55.\nE. 71. Sábado Sexta Quinta\nQuarta Terça Segunda Domingo\nVendas na última semana 10\nCaldo de cana Refrigerante Pastel *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30"
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes\n20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como\ninconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações\nconsideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.\nConstatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.\nQual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que\nela era fraudulenta?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,0500",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,1000",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "0,1125",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "0,3125",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0,5000",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes\n20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como\ninconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações\nconsideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.\nConstatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.\nQual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que\nela era fraudulenta?\n\nA. 0,0500\nB. 0,1000\nC. 0,1125\nD. 0,3125\nE. 0,5000"
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do\nmunicípio (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população\nurbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião\nentre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de\nurbanização receberá um investimento extra em infraestrutura.\n\n4 000/5 000\n\nSegundo o acordo, qual município receberá o investimento extra?",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-177/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-177/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V 14 000/12 000\n10 000/8 000\n6 000/4 000\n2 000/0 MT - 2º dia | Caderno 5 - AMARELO - Página 31",
+          "assets": [
+            "/generated/enem-2019/matematica/question-177/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do\nmunicípio (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população\nurbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião\nentre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de\nurbanização receberá um investimento extra em infraestrutura.\n\n4 000/5 000\n\nSegundo o acordo, qual município receberá o investimento extra?\n\nA. I\nB. II\nC. III\nD. IV\nE. V 14 000/12 000\n10 000/8 000\n6 000/4 000\n2 000/0 MT - 2º dia | Caderno 5 - AMARELO - Página 31"
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Uma construtora pretende conectar um reservatório\ncentral (Rc) em formato de um cilindro, com raio interno\nigual a 2 m e altura interna igual a 3,30 m, a quatro\nreservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄),\nos quais possuem raios internos e alturas internas\nmedindo 1,5 m.\n\nAs ligações entre o reservatório central e os\nauxiliares são feitas por canos cilíndricos com 0,10 m\nde diâmetro interno e 20 m de comprimento, conectados\npróximos às bases de cada reservatório. Na conexão\nde cada um desses canos com o reservatório central há\nregistros que liberam ou interrompem o fluxo de água.\nNo momento em que o reservatório central está\ncheio e os auxiliares estão vazios, abrem-se os quatro\nregistros e, após algum tempo, as alturas das colunas\nde água nos reservatórios se igualam, assim que cessa\no fluxo de água entre eles, pelo princípio dos vasos\ncomunicantes.\nA medida, em metro, das alturas das colunas de água\nnos reservatórios auxiliares, após cessar o fluxo de\nágua entre eles, é",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-178/statement-01.png",
+        "/generated/enem-2019/matematica/question-178/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,44.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,16.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,10.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0,95.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma construtora pretende conectar um reservatório\ncentral (Rc) em formato de um cilindro, com raio interno\nigual a 2 m e altura interna igual a 3,30 m, a quatro\nreservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄),\nos quais possuem raios internos e alturas internas\nmedindo 1,5 m.\n\nAs ligações entre o reservatório central e os\nauxiliares são feitas por canos cilíndricos com 0,10 m\nde diâmetro interno e 20 m de comprimento, conectados\npróximos às bases de cada reservatório. Na conexão\nde cada um desses canos com o reservatório central há\nregistros que liberam ou interrompem o fluxo de água.\nNo momento em que o reservatório central está\ncheio e os auxiliares estão vazios, abrem-se os quatro\nregistros e, após algum tempo, as alturas das colunas\nde água nos reservatórios se igualam, assim que cessa\no fluxo de água entre eles, pelo princípio dos vasos\ncomunicantes.\nA medida, em metro, das alturas das colunas de água\nnos reservatórios auxiliares, após cessar o fluxo de\nágua entre eles, é\n\nA. 1,44.\nB. 1,16.\nC. 1,10.\nD. 1,00.\nE. 0,95."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Para construir uma piscina, cuja área total da\nsuperfície interna é igual a 40 m², uma construtora\napresentou o seguinte orçamento:\n• R$ 10 000,00 pela elaboração do projeto;\n• R$ 40 000,00 pelos custos fixos;\n• R$ 2 500,00 por metro quadrado para construção\nda área interna da piscina.\nApós a apresentação do orçamento, essa empresa\ndecidiu reduzir o valor de elaboração do projeto em\n50%, mas recalculou o valor do metro quadrado para a\nconstrução da área interna da piscina, concluindo haver\na necessidade de aumentá-lo em 25%. Além disso, a\nconstrutora pretende dar um desconto nos custos fixos,\nde maneira que o novo valor do orçamento seja reduzido\nem 10% em relação ao total inicial.\nO percentual de desconto que a construtora deverá\nconceder nos custos fixos é de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "23,3%",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "25,0%",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "50,0%",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "87,5%",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "100,0%",
+          "assets": []
+        }
+      ],
+      "rawText": "Para construir uma piscina, cuja área total da\nsuperfície interna é igual a 40 m², uma construtora\napresentou o seguinte orçamento:\n• R$ 10 000,00 pela elaboração do projeto;\n• R$ 40 000,00 pelos custos fixos;\n• R$ 2 500,00 por metro quadrado para construção\nda área interna da piscina.\nApós a apresentação do orçamento, essa empresa\ndecidiu reduzir o valor de elaboração do projeto em\n50%, mas recalculou o valor do metro quadrado para a\nconstrução da área interna da piscina, concluindo haver\na necessidade de aumentá-lo em 25%. Além disso, a\nconstrutora pretende dar um desconto nos custos fixos,\nde maneira que o novo valor do orçamento seja reduzido\nem 10% em relação ao total inicial.\nO percentual de desconto que a construtora deverá\nconceder nos custos fixos é de\n\nA. 23,3%\nB. 25,0%\nC. 50,0%\nD. 87,5%\nE. 100,0%"
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2019,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2019 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Um grupo de engenheiros está projetando um motor\ncujo esquema de deslocamento vertical do pistão dentro\nda câmara de combustão está representado na figura.\n\nInstante t = 0\nInstante t ≠ 0\nh(t)\n\ndescreve como varia a altura h, medida em centímetro, da\nparte superior do pistão dentro da câmara de combustão,\nem função do tempo t, medido em segundo. Nas figuras\nestão indicadas as alturas do pistão em dois instantes\ndistintos.\nO valor do parâmetro β, que é dado por um número\ninteiro positivo, está relacionado com a velocidade\nde deslocamento do pistão. Para que o motor tenha\numa boa potência, é necessário e suficiente que, em\nmenos de 4 segundos após o início do funcionamento\n(instante t = 0), a altura da base do pistão alcance por\ntrês vezes o valor de 6 cm. Para os cálculos, utilize 3\ncomo aproximação para π.\nO menor valor inteiro a ser atribuído ao parâmetro β, de\nforma que o motor a ser construído tenha boa potência, é",
+      "statementAssets": [
+        "/generated/enem-2019/matematica/question-180/statement-01.png",
+        "/generated/enem-2019/matematica/question-180/statement-02.png",
+        "/generated/enem-2019/matematica/question-180/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2019/matematica/question-180/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "8. *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*",
+          "assets": []
+        }
+      ],
+      "rawText": "Um grupo de engenheiros está projetando um motor\ncujo esquema de deslocamento vertical do pistão dentro\nda câmara de combustão está representado na figura.\n\nInstante t = 0\nInstante t ≠ 0\nh(t)\n\ndescreve como varia a altura h, medida em centímetro, da\nparte superior do pistão dentro da câmara de combustão,\nem função do tempo t, medido em segundo. Nas figuras\nestão indicadas as alturas do pistão em dois instantes\ndistintos.\nO valor do parâmetro β, que é dado por um número\ninteiro positivo, está relacionado com a velocidade\nde deslocamento do pistão. Para que o motor tenha\numa boa potência, é necessário e suficiente que, em\nmenos de 4 segundos após o início do funcionamento\n(instante t = 0), a altura da base do pistão alcance por\ntrês vezes o valor de 6 cm. Para os cálculos, utilize 3\ncomo aproximação para π.\nO menor valor inteiro a ser atribuído ao parâmetro β, de\nforma que o motor a ser construído tenha boa potência, é\n\nA. 1.\nB. 2.\nC. 4.\nD. 5.\nE. 8. *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*"
+    }
+  ]
+}

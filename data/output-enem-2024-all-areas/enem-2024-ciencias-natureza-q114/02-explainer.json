@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:36:58.551Z",
+  "questionId": "enem-2024-ciencias-natureza-q114",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para equilibrar a roda, é necessário colocar uma peça de chumbo no ponto oposto ao deslocamento do centro de massa (CM), compensando o peso e reduzindo as vibrações.",
+      "stepByStep": [
+        "Identifique onde está o centro de massa (CM) em relação ao centro geométrico da roda; no exemplo, o CM está deslocado para a direita.",
+        "Observe os pontos disponíveis para fixar a peça de chumbo na roda.",
+        "Selecione o ponto que fique exatamente oposto ao deslocamento do CM, pois é ali que o peso extra irá equilibrar o movimento.",
+        "No esquema, o ponto 3 está diretamente oposto ao CM deslocado para a direita.",
+        "Fixar a peça de chumbo no ponto 3 compensa o desequilíbrio, aproximando o centro de massa do centro geométrico e diminuindo as vibrações."
+      ],
+      "commonPitfalls": [
+        "Colocar a peça do mesmo lado em que o CM está deslocado, o que agrava o desequilíbrio.",
+        "Escolher um ponto que não está diametralmente oposto ao deslocamento do CM, resultando em equilíbrio insuficiente.",
+        "Ignorar a importância do equilíbrio diametral e tentar compensar o deslocamento com peso próximo ao CM."
+      ],
+      "teachingTips": [
+        "Utilize um modelo visual da roda para que os alunos possam identificar facilmente a posição do CM e dos pontos de fixação.",
+        "Explique o conceito físico de centro de massa e sua relação com equilíbrio e vibrações.",
+        "Desafie os alunos a explicarem por que o peso deve ser colocado no ponto oposto ao CM deslocado.",
+        "Use analogias simples, como segurar um cabo com peso, para ilustrar o equilíbrio por contrapeso.",
+        "Estimule a visualização espacial por meio de desenhos ou simulações para fixar o conceito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1719,
+    "outputTokens": 379,
+    "estimatedCostUsd": 0.001294
+  }
+}

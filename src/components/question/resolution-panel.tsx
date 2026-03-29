@@ -68,10 +68,10 @@ type DistractorCard = {
 };
 
 const toneStyles = {
-  sand: "border-[#eadcc8] bg-[#fff8ed]",
-  mist: "border-[#cddbe8] bg-[#f6fbff]",
-  clay: "border-[#ecd2c7] bg-[#fff7f3]",
-  ink: "border-[#d7dee7] bg-[#f7f9fc]",
+  sand: "border-[#dfeafb] bg-[#fbfdff]",
+  mist: "border-[#cfe0f7] bg-[#f5f9ff]",
+  clay: "border-[#d6e6ff] bg-[#f4f8ff]",
+  ink: "border-[#d7e4f3] bg-[#f7faff]",
 } as const;
 
 function splitLeadingLabel(text: string) {
@@ -320,7 +320,7 @@ function LatexRichText({ content }: { content: string }) {
           return (
             <div
               key={`${block.type}-${index}`}
-              className="overflow-x-auto rounded-[22px] bg-[#fffdf7] px-4 py-4 font-mono text-base leading-8 text-[#704c13] ring-1 ring-[#eadcc8]"
+              className="overflow-x-auto rounded-[22px] bg-[#f7fbff] px-4 py-4 font-mono text-base leading-8 text-[#3f6a9e] ring-1 ring-[#dfeafb]"
             >
               {block.content}
             </div>
@@ -335,7 +335,7 @@ function LatexRichText({ content }: { content: string }) {
             >
               {block.items.map((item) => (
                 <li key={item} className="flex gap-3 text-[1.125rem] leading-9 text-slate-700">
-                  <span className="mt-[10px] h-2 w-2 rounded-full bg-[#8a6a22]" />
+                  <span className="mt-[10px] h-2 w-2 rounded-full bg-[#6aa5e8]" />
                   <InlineLatexText text={item} />
                 </li>
               ))}
@@ -361,7 +361,7 @@ function InlineLatexText({ text }: { text: string }) {
   if (labeled) {
     return (
       <span className="min-w-0 leading-9">
-        <span className="mr-2 inline-flex rounded-full bg-[#eef4ff] px-3 py-1 text-[0.78em] font-semibold tracking-[0.04em] text-[#35507a]">
+        <span className="mr-2 inline-flex rounded-full bg-[#eaf3ff] px-3 py-1 text-[0.78em] font-semibold tracking-[0.04em] text-[#2A4E7A]">
           {labeled.label}
         </span>
         <InlineLatexText text={labeled.content} />
@@ -387,7 +387,7 @@ function InlineLatexText({ text }: { text: string }) {
           return (
             <span
               key={`${part}-${index}`}
-              className="mx-[0.15em] inline-block rounded-lg bg-[#fff1c9] px-2.5 py-[0.22rem] align-baseline font-mono text-[0.83em] leading-7 text-[#7a5518] ring-1 ring-[#f1ddb0]"
+              className="mx-[0.15em] inline-block rounded-lg bg-[#eaf3ff] px-2.5 py-[0.22rem] align-baseline font-mono text-[0.83em] leading-7 text-[#2A4E7A] ring-1 ring-[#d6e6ff]"
             >
               {normalizeMathSnippet(rawMath)}
             </span>
@@ -449,7 +449,7 @@ function DistractorSection({
   }
 
   return (
-    <article className="rounded-[28px] border border-[#ecd2c7] bg-[#fff7f3] p-5">
+    <article className="rounded-[28px] border border-[#d6e6ff] bg-[#f4f8ff] p-5">
       <div className="flex flex-wrap items-center gap-3">
         <span className="inline-flex rounded-full bg-white/75 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-600">
           Parte 3
@@ -468,12 +468,12 @@ function DistractorSection({
             }`}
           >
             <div className="flex items-center gap-3">
-              <span className="inline-flex h-11 w-11 items-center justify-center rounded-2xl border border-[#d9b6a6] bg-[#fff3ee] text-lg font-semibold text-[#8e4f40]">
+              <span className="inline-flex h-11 w-11 items-center justify-center rounded-2xl border border-[#cfe0f7] bg-[#eef5ff] text-lg font-semibold text-[#2A4E7A]">
                 {card.option}
               </span>
               <div>
                 <div className="flex flex-wrap items-center gap-2">
-                  <p className="text-sm font-semibold uppercase tracking-[0.14em] text-[#8e4f40]">
+                  <p className="text-sm font-semibold uppercase tracking-[0.14em] text-[#4f79b0]">
                     Alternativa {card.option}
                   </p>
                   {card.option === topDistractor ? (
@@ -483,7 +483,7 @@ function DistractorSection({
                   ) : null}
                 </div>
                 {card.optionText ? (
-                  <p className="mt-2 rounded-xl bg-[#fff6f1] px-3 py-2 text-[0.95rem] leading-7 text-slate-700 ring-1 ring-[#f4ddd2]">
+                  <p className="mt-2 rounded-xl bg-[#f7fbff] px-3 py-2 text-[0.95rem] leading-7 text-slate-700 ring-1 ring-[#dfeafb]">
                     {card.optionText}
                   </p>
                 ) : null}
@@ -515,7 +515,7 @@ export function ResolutionPanel({
   if (officialResolution) {
     return (
       <div className="space-y-5">
-        <article className="rounded-[30px] border border-[#d9e3ef] bg-white/90 p-6 shadow-card backdrop-blur">
+        <article className="rounded-[30px] border border-[#d6e6ff] bg-white/92 p-6 shadow-card backdrop-blur">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
             Resolução editorial
           </p>
@@ -524,7 +524,7 @@ export function ResolutionPanel({
           </h2>
         </article>
 
-        <article className="rounded-[28px] border border-[#cddbe8] bg-[#f6fbff] p-5">
+        <article className="rounded-[28px] border border-[#cfe0f7] bg-[#f5f9ff] p-5">
           <div className="flex flex-wrap items-center gap-3">
             <span className="inline-flex rounded-full bg-white/75 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-600">
               Parte 1
@@ -542,9 +542,9 @@ export function ResolutionPanel({
                 {officialResolution.commandTerms.map((item) => (
                   <div
                     key={item.term}
-                    className="rounded-[20px] border border-[#d8e6f0] bg-[#f8fcff] p-4"
+                    className="rounded-[20px] border border-[#d6e6ff] bg-[#f8fbff] p-4"
                   >
-                    <p className="text-sm font-semibold uppercase tracking-[0.12em] text-[#3b597a]">
+                    <p className="text-sm font-semibold uppercase tracking-[0.12em] text-[#4f79b0]">
                       {item.term}
                     </p>
                     <p className="mt-2 text-[1rem] leading-7 text-slate-700">
@@ -566,7 +566,7 @@ export function ResolutionPanel({
           </div>
         </article>
 
-        <article className="rounded-[28px] border border-[#eadcc8] bg-[#fff8ed] p-5">
+        <article className="rounded-[28px] border border-[#dfeafb] bg-[#fbfdff] p-5">
           <div className="flex flex-wrap items-center gap-3">
             <span className="inline-flex rounded-full bg-white/75 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-600">
               Parte 2
@@ -574,9 +574,9 @@ export function ResolutionPanel({
             <h3 className="text-[1.35rem] font-semibold text-ink">Conteúdo + mini revisão</h3>
           </div>
 
-          <div className="mt-4 overflow-hidden rounded-[22px] border border-[#eadcc8] bg-white">
+          <div className="mt-4 overflow-hidden rounded-[22px] border border-[#dfeafb] bg-white">
             <table className="w-full border-collapse text-left">
-              <thead className="bg-[#fff3da] text-sm text-slate-700">
+              <thead className="bg-[#eef5ff] text-sm text-slate-700">
                 <tr>
                   <th className="px-4 py-3 font-semibold">Conceito</th>
                   <th className="px-4 py-3 font-semibold">Ideia-chave</th>
@@ -616,7 +616,7 @@ export function ResolutionPanel({
           tone="sand"
         />
 
-        <article className="rounded-[28px] border border-[#ecd2c7] bg-[#fff7f3] p-5">
+        <article className="rounded-[28px] border border-[#d6e6ff] bg-[#f4f8ff] p-5">
           <div className="flex flex-wrap items-center gap-3">
             <span className="inline-flex rounded-full bg-white/75 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-600">
               Parte 4
@@ -640,7 +640,7 @@ export function ResolutionPanel({
                   <span className={`inline-flex h-11 w-11 items-center justify-center rounded-2xl border text-lg font-semibold ${
                     entry.isCorrect
                       ? "border-emerald-300 bg-emerald-100 text-emerald-800"
-                      : "border-[#d9b6a6] bg-[#fff3ee] text-[#8e4f40]"
+                      : "border-[#cfe0f7] bg-[#eef5ff] text-[#2A4E7A]"
                   }`}>
                     {entry.option}
                   </span>

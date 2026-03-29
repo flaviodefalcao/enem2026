@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:34:12.361Z",
+  "questionId": "enem-2024-ciencias-natureza-q129",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os aparelhos de raios X funcionam emitindo radiação capaz de atravessar materiais, gerando imagens baseadas na densidade dos objetos. Como os computadores têm componentes metálicos e eletrônicos muito densos, eles bloqueiam os raios X, dificultando a visualização dos itens que estiverem dentro da bagagem atrás deles. Por isso, é preciso retirar os computadores para que sejam inspecionados separadamente, garantindo uma verificação completa das bagagens.",
+      "stepByStep": [
+        "Entenda que os aparelhos de raios X geram imagens ao passar radiação por objetos, onde materiais mais densos bloqueiam mais os raios e aparecem com maior destaque na imagem.",
+        "Reconheça que os computadores portáteis contêm peças metálicas e eletrônicas densas, que impedem a passagem dos raios X.",
+        "Perceba que se o computador ficar dentro da bagagem, ele pode esconder ou impedir que a máquina veja objetos que estiverem posicionados atrás dele.",
+        "Por isso, os computadores devem ser retirados das malas para que passem separados pela inspeção, permitindo visualizar todos os itens com clareza."
+      ],
+      "commonPitfalls": [
+        "Achar que os metais não aparecem nas imagens por não interagirem com os raios X, quando na verdade eles bloqueiam fortemente a radiação.",
+        "Pensar que os raios X causam danos como desmagnetização nos discos rígidos dos computadores, o que não ocorre.",
+        "Acreditar que os raios X refletem ou aquecem os metais da mesma forma que luz visível, o que é incorreto.",
+        "Confundir os efeitos de difração e ionização na inspeção, associando isso erroneamente à visualização dos objetos."
+      ],
+      "teachingTips": [
+        "Explique como funciona o princípio básico da formação de imagens por raios X, destacando a relação entre densidade do material e bloqueio da radiação.",
+        "Use exemplos do cotidiano, como tirar objetos metálicos de roupas para passar no scanner, para facilitar a compreensão.",
+        "Destaque que a inspeção Visa identificar todos os objetos, por isso é importante não deixar nada que bloqueie a passagem da radiação.",
+        "Corrija mitos sobre danos causados por raios X em eletrônicos, enfatizando a segurança desse tipo de inspeção."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1232,
+    "outputTokens": 471,
+    "estimatedCostUsd": 0.001246
+  }
+}

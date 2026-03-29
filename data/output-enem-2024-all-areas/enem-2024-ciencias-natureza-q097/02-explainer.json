@@ -1,0 +1,34 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:31:42.139Z",
+  "questionId": "enem-2024-ciencias-natureza-q097",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Cada tubo mostra um padrão de crescimento bacteriano diferente relacionado ao uso do oxigênio: (1) bactérias crescem na superfície, usam oxigênio (aeróbias estritas); (2) crescem só no fundo, não usam oxigênio (anaeróbias estritas); (3) distribuídas por todo o tubo, crescem com ou sem oxigênio (anaeróbias facultativas).",
+      "stepByStep": [
+        "Observe o tubo 1: as bactérias estão concentradas no topo, onde o oxigênio é mais disponível, indicando que precisam de oxigênio para crescer (aeróbias estritas).",
+        "No tubo 2, as bactérias se concentram no fundo, onde não há oxigênio, indicando que não sobrevivem na presença do oxigênio (anaeróbias estritas).",
+        "No tubo 3, as bactérias estão distribuídas uniformemente, crescendo em ambas as condições, com ou sem oxigênio (anaeróbias facultativas)."
+      ],
+      "commonPitfalls": [
+        "Confundir anaeróbias facultativas com estritas pela distribuição no tubo.",
+        "Associar incorretamente o crescimento na superfície como sinal de anaeróbio facultativo.",
+        "Inverter os papéis do oxigênio e a localização da bactéria no tubo.",
+        "Ignorar a relação entre a presença de oxigênio e o local de crescimento bacteriano."
+      ],
+      "teachingTips": [
+        "Utilize modelos ou diagramas para mostrar como o oxigênio se distribui em um líquido.",
+        "Explique os termos aeróbio estrito, anaeróbio estrito e facultativo com exemplos práticos.",
+        "Peça para os estudantes relacionarem visualmente o padrão de crescimento com o ambiente do oxigênio.",
+        "Promova atividades em que os alunos predigam o padrão de crescimento para diferentes tipos de bactérias antes de ver o experimento."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1658,
+    "outputTokens": 393,
+    "estimatedCostUsd": 0.001292
+  }
+}

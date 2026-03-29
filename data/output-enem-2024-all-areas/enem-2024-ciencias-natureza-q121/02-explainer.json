@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:24:16.011Z",
+  "questionId": "enem-2024-ciencias-natureza-q121",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Na Química, compostos orgânicos são definidos como substâncias que possuem carbono como elemento principal em sua estrutura. Essa definição vai além da ideia comum de que compostos orgânicos estão apenas presentes em seres vivos.",
+      "stepByStep": [
+        "Entenda que, popularmente, compostos orgânicos são associados a seres vivos, mas a Química moderna usa uma definição baseada na composição química.",
+        "Reconheça que o carbono é o elemento chave que define um composto como orgânico.",
+        "Analise as alternativas para identificar qual apresenta a definição correta segundo a Química.",
+        "Desconsidere definições que relacionam compostos orgânicos a propriedades como benefícios à saúde, biodegradabilidade, origem do gás carbônico ou ausência de agrotóxicos, pois estas não definem o termo cientificamente.",
+        "Confirme que a alternativa que afirma que compostos orgânicos contêm carbono como elemento principal está correta."
+      ],
+      "commonPitfalls": [
+        "Confundir definição científica com usos populares ou conceitos biológicos/ambientais.",
+        "Achar que todos compostos orgânicos são benéficos à saúde, quando isso não é verdade.",
+        "Associar compostos orgânicos necessariamente à biodegradabilidade.",
+        "Pensar que a definição depende da origem ou do modo de produção (como sem agrotóxicos)."
+      ],
+      "teachingTips": [
+        "Ressalte a diferença entre uso popular e definição científica de compostos orgânicos.",
+        "Use exemplos de compostos orgânicos que não estão diretamente ligados a seres vivos (como plásticos).",
+        "Explique o papel do carbono como elemento base da Química Orgânica.",
+        "Incorpore questões que desafiem os alunos a distinguir definição por composição química de conceitos associados a funções ou origens.",
+        "Utilize analogias que evidenciem a importância do carbono na química orgânica."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1201,
+    "outputTokens": 366,
+    "estimatedCostUsd": 0.001066
+  }
+}

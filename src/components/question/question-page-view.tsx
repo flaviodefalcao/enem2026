@@ -28,6 +28,41 @@ const analyticalHeadings = [
   "Valor diagnóstico da questão",
 ];
 
+const relationCardToneMap: Record<
+  "gold" | "clay" | "ink" | "soft",
+  {
+    shell: string;
+    number: string;
+    accent: string;
+    note: string;
+  }
+> = {
+  gold: {
+    shell: "border-gold/30 bg-gradient-to-br from-[#f5f9ff] via-white to-[#edf5ff]",
+    number: "bg-gold/15 text-[#4f79b0]",
+    accent: "text-[#4f79b0]",
+    note: "bg-[#edf5ff] text-[#4f79b0]",
+  },
+  clay: {
+    shell: "border-clay/25 bg-gradient-to-br from-[#f2f8ff] via-white to-[#eaf3ff]",
+    number: "bg-clay/12 text-clay",
+    accent: "text-clay",
+    note: "bg-[#eaf3ff] text-clay",
+  },
+  ink: {
+    shell: "border-sky-200 bg-gradient-to-br from-sky-50 via-white to-[#eef7ff]",
+    number: "bg-ink text-white",
+    accent: "text-sky-700",
+    note: "bg-sky-100 text-sky-700",
+  },
+  soft: {
+    shell: "border-slate-200 bg-gradient-to-br from-slate-50 via-white to-slate-50",
+    number: "bg-slate-100 text-slate-700",
+    accent: "text-slate-600",
+    note: "bg-slate-100 text-slate-600",
+  },
+};
+
 function getDifficultyTheme(level: number) {
   if (level <= 2) {
     return {
@@ -74,6 +109,36 @@ function difficultyHelperText(level: number) {
     return "Está entre as menos exigentes da prova, com resolução mais acessível para a maioria dos alunos.";
   }
   return "Fica no grupo mais simples da prova, com menor barreira de entrada em relação às demais.";
+}
+
+function cleanRelatedDescription(description: string) {
+  return description
+    .replace(/^Questão\s+\d+:\s*/i, "")
+    .replace(/\.$/, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function conciseRelatedReason(description: string, relation: string) {
+  const cleaned = cleanRelatedDescription(description);
+  const segments = cleaned
+    .split("•")
+    .map((segment) => segment.trim())
+    .filter(Boolean);
+
+  if (segments.length === 0) return relation;
+  if (segments.length === 1) return segments[0];
+  return segments.slice(0, 2).join(" • ");
+}
+
+function relatedQuestionTitle(relatedQuestion: ReturnType<typeof getAreaQuestionPageData>) {
+  if (!relatedQuestion) return "Questão relacionada";
+
+  return (
+    relatedQuestion.officialResolution?.shortThemeTitle ??
+    relatedQuestion.subtheme ??
+    relatedQuestion.theme
+  );
 }
 
 function rankingPosition(rank: number, total = 45) {
@@ -189,7 +254,7 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
 
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-8 px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
-      <section className="overflow-hidden rounded-[34px] border border-white/70 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.95),rgba(255,250,241,0.82)_42%,rgba(245,248,255,0.88)_100%)] p-6 shadow-card backdrop-blur sm:p-8">
+      <section className="overflow-hidden rounded-[34px] border border-white/70 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.96),rgba(245,249,255,0.88)_42%,rgba(232,242,255,0.92)_100%)] p-6 shadow-card backdrop-blur sm:p-8">
         <div className="grid gap-6 xl:grid-cols-[minmax(0,1.2fr)_420px] xl:items-start">
           <div>
             <div className="flex flex-wrap items-center gap-3">
@@ -208,7 +273,7 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
               Questão {question.examQuestionNumber}
               <span className="mx-3 hidden text-slate-300 sm:inline">—</span>
               <span className="block text-[0.78em] sm:inline">
-                ENEM 2024 · {question.areaLabel}
+                ENEM {question.year} · {question.areaLabel}
               </span>
             </h1>
             <p className="mt-3 max-w-4xl text-lg font-medium leading-8 text-slate-600 sm:text-xl">
@@ -282,7 +347,7 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
       <section className="grid gap-4 rounded-[32px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:grid-cols-3 sm:p-5">
         {previousId ? (
           <Link
-            href={`/questoes/${question.areaSlug}/${previousId}`}
+            href={`/questoes/${question.year}/${question.areaSlug}/${previousId}`}
             className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
           >
             ← Questão anterior
@@ -295,14 +360,14 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
 
         <Link
           href={question.areaRoute}
-          className="rounded-[24px] bg-ink px-5 py-4 text-center text-sm font-semibold text-white transition hover:bg-[#09131f]"
+          className="rounded-[24px] bg-ink px-5 py-4 text-center text-sm font-semibold text-white transition hover:bg-[#21436c]"
         >
           Voltar para prova
         </Link>
 
         {nextId ? (
           <Link
-            href={`/questoes/${question.areaSlug}/${nextId}`}
+            href={`/questoes/${question.year}/${question.areaSlug}/${nextId}`}
             className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
           >
             Próxima questão →
@@ -420,43 +485,67 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
       </SectionShell>
 
       <SectionShell title="Questões relacionadas" eyebrow="Navegação inteligente">
-        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+        <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
           {question.relatedQuestions.map((related) => {
-            const relatedQuestion = getAreaQuestionPageData(question.areaSlug, related.id);
+            const relatedQuestion = getAreaQuestionPageData(question.year, question.areaSlug, related.id);
+            const tone = resolveRelationTone(related.relation);
+            const toneClasses = relationCardToneMap[tone];
+            const reason = conciseRelatedReason(related.description, related.relation);
+            const title = relatedQuestionTitle(relatedQuestion);
 
             return (
-            <Link
-              key={`${related.id}-${related.relation}`}
-              href={`/questoes/${question.areaSlug}/${related.id}`}
-              className="rounded-[28px] border border-slate-200/80 bg-white p-5 transition hover:-translate-y-1 hover:border-clay/40"
-            >
-              <div className="flex items-start justify-between gap-3">
-                <div>
-                  <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-                    Questão {relatedQuestion?.examQuestionNumber ?? related.id}
-                  </p>
-                  <h3 className="mt-3 text-lg font-semibold text-ink">
-                    {relatedQuestion?.theme ?? "Questão relacionada"}
-                  </h3>
-                </div>
-                <Badge
-                  label={related.relation}
-                  tone={resolveRelationTone(related.relation)}
-                />
-              </div>
-              <div className="mt-4 space-y-3">
-                <p className="text-sm leading-7 text-slate-600">{related.description}</p>
-                {relatedQuestion ? (
-                  <div className="rounded-[22px] border border-slate-200/80 px-4 py-4 text-sm leading-6 text-slate-600">
-                    <p>
-                      {relatedQuestion.theme} · {relatedQuestion.subtheme}
+              <Link
+                key={`${related.id}-${related.relation}`}
+                href={`/questoes/${question.year}/${question.areaSlug}/${related.id}`}
+                className={`group flex min-h-[250px] flex-col rounded-[24px] border p-4 shadow-[0_14px_30px_rgba(15,23,42,0.05)] transition hover:-translate-y-1 hover:shadow-[0_20px_38px_rgba(15,23,42,0.08)] ${toneClasses.shell}`}
+              >
+                <div className="flex min-w-0 flex-col gap-3">
+                  <div className="flex min-w-0 items-center gap-3">
+                    <span
+                      className={`inline-flex h-9 min-w-9 shrink-0 items-center justify-center rounded-[18px] px-2.5 text-sm font-semibold ${toneClasses.number}`}
+                    >
+                      {relatedQuestion?.examQuestionNumber ?? related.id}
+                    </span>
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-500">
+                      Questão relacionada
                     </p>
-                    <p>{relatedQuestion.skill}</p>
-                    <p>{relatedQuestion.accuracy.toFixed(1)}% de acerto</p>
                   </div>
-                ) : null}
-              </div>
-            </Link>
+
+                  <div className="w-full">
+                    <div className="max-w-full overflow-hidden">
+                      <Badge label={related.relation} tone={tone} />
+                    </div>
+                  </div>
+
+                  <div className="min-w-0">
+                    <h3 className="text-xl font-semibold leading-snug text-ink sm:text-[1.45rem]">
+                      {title}
+                    </h3>
+                  </div>
+                </div>
+
+                <div className="mt-4 rounded-[20px] border border-white/80 bg-white/75 px-3.5 py-3.5">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    Por que ela é parecida
+                  </p>
+                  <p className="mt-2 text-sm leading-6 text-slate-700">{reason}</p>
+                </div>
+
+                <div className="mt-auto pt-3">
+                  {relatedQuestion ? (
+                    <div className="flex flex-wrap gap-2">
+                      <span
+                        className={`inline-flex rounded-full px-2.5 py-1 text-xs font-medium ${toneClasses.note}`}
+                      >
+                        {relatedQuestion.skill}
+                      </span>
+                      <span className="inline-flex rounded-full bg-white/85 px-2.5 py-1 text-xs font-medium text-slate-600">
+                        {relatedQuestion.accuracy.toFixed(1)}% de acerto
+                      </span>
+                    </div>
+                  ) : null}
+                </div>
+              </Link>
             );
           })}
         </div>

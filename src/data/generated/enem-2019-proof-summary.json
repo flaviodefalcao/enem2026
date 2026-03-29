@@ -1,0 +1,1180 @@
+{
+  "metadata": {
+    "year": 2019,
+    "sourceDir": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2019"
+  },
+  "sampleSize": 1966844,
+  "generalScoreDistribution": [
+    {
+      "faixa": "200–249",
+      "n": 216,
+      "share": 0.0
+    },
+    {
+      "faixa": "250–299",
+      "n": 1095,
+      "share": 0.1
+    },
+    {
+      "faixa": "300–349",
+      "n": 28672,
+      "share": 1.5
+    },
+    {
+      "faixa": "350–399",
+      "n": 68330,
+      "share": 3.7
+    },
+    {
+      "faixa": "400–449",
+      "n": 255153,
+      "share": 13.8
+    },
+    {
+      "faixa": "450–499",
+      "n": 439656,
+      "share": 23.7
+    },
+    {
+      "faixa": "500–549",
+      "n": 422503,
+      "share": 22.8
+    },
+    {
+      "faixa": "550–599",
+      "n": 302689,
+      "share": 16.3
+    },
+    {
+      "faixa": "600–649",
+      "n": 188828,
+      "share": 10.2
+    },
+    {
+      "faixa": "650–699",
+      "n": 101871,
+      "share": 5.5
+    },
+    {
+      "faixa": "700–749",
+      "n": 39062,
+      "share": 2.1
+    },
+    {
+      "faixa": "750–799",
+      "n": 7163,
+      "share": 0.4
+    },
+    {
+      "faixa": "800–849",
+      "n": 246,
+      "share": 0.0
+    },
+    {
+      "faixa": "850–899",
+      "n": 1,
+      "share": 0.0
+    },
+    {
+      "faixa": "900–949",
+      "n": 0,
+      "share": 0.0
+    },
+    {
+      "faixa": "950–1000",
+      "n": 0,
+      "share": 0.0
+    }
+  ],
+  "essayDistribution": [
+    {
+      "faixa": "0–99",
+      "n": 72602,
+      "share": 3.7
+    },
+    {
+      "faixa": "100–199",
+      "n": 1549,
+      "share": 0.1
+    },
+    {
+      "faixa": "200–299",
+      "n": 48823,
+      "share": 2.5
+    },
+    {
+      "faixa": "300–399",
+      "n": 134283,
+      "share": 6.8
+    },
+    {
+      "faixa": "400–499",
+      "n": 259453,
+      "share": 13.2
+    },
+    {
+      "faixa": "500–599",
+      "n": 531311,
+      "share": 27.0
+    },
+    {
+      "faixa": "600–699",
+      "n": 477818,
+      "share": 24.3
+    },
+    {
+      "faixa": "700–799",
+      "n": 211862,
+      "share": 10.8
+    },
+    {
+      "faixa": "800–899",
+      "n": 142672,
+      "share": 7.3
+    },
+    {
+      "faixa": "900–1000",
+      "n": 86450,
+      "share": 4.4
+    }
+  ],
+  "topStudents": {
+    "threshold": 800,
+    "sampleSize": 247,
+    "scoreRanges": [
+      {
+        "label": "Linguagens",
+        "minScore": 616.7,
+        "maxScore": 801.7
+      },
+      {
+        "label": "Ciências Humanas",
+        "minScore": 637.4,
+        "maxScore": 822.7
+      },
+      {
+        "label": "Ciências da Natureza",
+        "minScore": 692.4,
+        "maxScore": 860.9
+      },
+      {
+        "label": "Matemática",
+        "minScore": 808.9,
+        "maxScore": 985.5
+      },
+      {
+        "label": "Redação",
+        "minScore": 860.0,
+        "maxScore": 1000.0
+      }
+    ],
+    "accuracyRanges": [
+      {
+        "label": "Linguagens",
+        "minAccuracy": 5.0,
+        "maxAccuracy": 17.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Ciências Humanas",
+        "minAccuracy": 31.0,
+        "maxAccuracy": 43.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Ciências da Natureza",
+        "minAccuracy": 0.0,
+        "maxAccuracy": 45.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Matemática",
+        "minAccuracy": 0.0,
+        "maxAccuracy": 45.0,
+        "maxPossible": 45
+      },
+      {
+        "label": "Geral",
+        "minAccuracy": 42.0,
+        "maxAccuracy": 140.0,
+        "maxPossible": 180
+      }
+    ]
+  },
+  "overallAccuracyVsScore": [
+    {
+      "faixa": "200–249",
+      "n": 216,
+      "mediaAcertos": 17.0,
+      "minAcertos": 0.0,
+      "maxAcertos": 37.0,
+      "stdAcertos": 8.3,
+      "mediaNota": 230.2
+    },
+    {
+      "faixa": "250–299",
+      "n": 1095,
+      "mediaAcertos": 22.3,
+      "minAcertos": 0.0,
+      "maxAcertos": 48.0,
+      "stdAcertos": 9.3,
+      "mediaNota": 287.3
+    },
+    {
+      "faixa": "300–349",
+      "n": 28672,
+      "mediaAcertos": 30.7,
+      "minAcertos": 0.0,
+      "maxAcertos": 56.0,
+      "stdAcertos": 8.6,
+      "mediaNota": 330.5
+    },
+    {
+      "faixa": "350–399",
+      "n": 68330,
+      "mediaAcertos": 31.9,
+      "minAcertos": 0.0,
+      "maxAcertos": 66.0,
+      "stdAcertos": 9.4,
+      "mediaNota": 380.9
+    },
+    {
+      "faixa": "400–449",
+      "n": 255153,
+      "mediaAcertos": 33.0,
+      "minAcertos": 0.0,
+      "maxAcertos": 77.0,
+      "stdAcertos": 9.4,
+      "mediaNota": 429.0
+    },
+    {
+      "faixa": "450–499",
+      "n": 439656,
+      "mediaAcertos": 36.8,
+      "minAcertos": 3.0,
+      "maxAcertos": 85.0,
+      "stdAcertos": 10.2,
+      "mediaNota": 475.8
+    },
+    {
+      "faixa": "500–549",
+      "n": 422503,
+      "mediaAcertos": 43.2,
+      "minAcertos": 6.0,
+      "maxAcertos": 107.0,
+      "stdAcertos": 11.5,
+      "mediaNota": 524.0
+    },
+    {
+      "faixa": "550–599",
+      "n": 302689,
+      "mediaAcertos": 51.1,
+      "minAcertos": 8.0,
+      "maxAcertos": 130.0,
+      "stdAcertos": 13.7,
+      "mediaNota": 573.3
+    },
+    {
+      "faixa": "600–649",
+      "n": 188828,
+      "mediaAcertos": 60.1,
+      "minAcertos": 12.0,
+      "maxAcertos": 130.0,
+      "stdAcertos": 16.6,
+      "mediaNota": 622.8
+    },
+    {
+      "faixa": "650–699",
+      "n": 101871,
+      "mediaAcertos": 70.2,
+      "minAcertos": 18.0,
+      "maxAcertos": 123.0,
+      "stdAcertos": 19.6,
+      "mediaNota": 671.9
+    },
+    {
+      "faixa": "700–749",
+      "n": 39062,
+      "mediaAcertos": 82.8,
+      "minAcertos": 21.0,
+      "maxAcertos": 134.0,
+      "stdAcertos": 23.7,
+      "mediaNota": 719.6
+    },
+    {
+      "faixa": "750–799",
+      "n": 7163,
+      "mediaAcertos": 97.2,
+      "minAcertos": 32.0,
+      "maxAcertos": 134.0,
+      "stdAcertos": 28.6,
+      "mediaNota": 765.7
+    },
+    {
+      "faixa": "800–849",
+      "n": 246,
+      "mediaAcertos": 108.7,
+      "minAcertos": 42.0,
+      "maxAcertos": 140.0,
+      "stdAcertos": 32.9,
+      "mediaNota": 809.8
+    },
+    {
+      "faixa": "850–899",
+      "n": 1,
+      "mediaAcertos": 57.0,
+      "minAcertos": 57.0,
+      "maxAcertos": 57.0,
+      "stdAcertos": 0.0,
+      "mediaNota": 850.8
+    },
+    {
+      "faixa": "900–949",
+      "n": 0,
+      "mediaAcertos": 0.0,
+      "minAcertos": 0.0,
+      "maxAcertos": 0.0,
+      "stdAcertos": 0.0,
+      "mediaNota": 0.0
+    },
+    {
+      "faixa": "950–1000",
+      "n": 0,
+      "mediaAcertos": 0.0,
+      "minAcertos": 0.0,
+      "maxAcertos": 0.0,
+      "stdAcertos": 0.0,
+      "mediaNota": 0.0
+    }
+  ],
+  "areas": {
+    "linguagens": {
+      "label": "Linguagens",
+      "questionCount": 45,
+      "sampleSize": 1966844,
+      "averageScore": 520.1,
+      "averageAccuracy": 21.5,
+      "scoreDistribution": [
+        {
+          "faixa": "300–349",
+          "n": 12820,
+          "share": 0.7
+        },
+        {
+          "faixa": "350–399",
+          "n": 74791,
+          "share": 3.8
+        },
+        {
+          "faixa": "400–449",
+          "n": 183726,
+          "share": 9.3
+        },
+        {
+          "faixa": "450–499",
+          "n": 396101,
+          "share": 20.2
+        },
+        {
+          "faixa": "500–549",
+          "n": 622424,
+          "share": 31.7
+        },
+        {
+          "faixa": "550–599",
+          "n": 502152,
+          "share": 25.6
+        },
+        {
+          "faixa": "600–649",
+          "n": 158479,
+          "share": 8.1
+        },
+        {
+          "faixa": "650–699",
+          "n": 14248,
+          "share": 0.7
+        },
+        {
+          "faixa": "700–749",
+          "n": 543,
+          "share": 0.0
+        },
+        {
+          "faixa": "750–799",
+          "n": 13,
+          "share": 0.0
+        },
+        {
+          "faixa": "800–849",
+          "n": 2,
+          "share": 0.0
+        },
+        {
+          "faixa": "850–899",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "share": 0.0
+        }
+      ],
+      "accuracyVsScore": [
+        {
+          "faixa": "300–349",
+          "n": 12820,
+          "mediaAcertos": 7.7,
+          "minAcertos": 0.0,
+          "maxAcertos": 20.0,
+          "stdAcertos": 2.7,
+          "mediaNota": 338.8
+        },
+        {
+          "faixa": "350–399",
+          "n": 74791,
+          "mediaAcertos": 8.2,
+          "minAcertos": 0.0,
+          "maxAcertos": 24.0,
+          "stdAcertos": 2.6,
+          "mediaNota": 379.6
+        },
+        {
+          "faixa": "400–449",
+          "n": 183726,
+          "mediaAcertos": 8.6,
+          "minAcertos": 0.0,
+          "maxAcertos": 21.0,
+          "stdAcertos": 2.6,
+          "mediaNota": 428.2
+        },
+        {
+          "faixa": "450–499",
+          "n": 396101,
+          "mediaAcertos": 9.2,
+          "minAcertos": 0.0,
+          "maxAcertos": 24.0,
+          "stdAcertos": 2.7,
+          "mediaNota": 478.1
+        },
+        {
+          "faixa": "500–549",
+          "n": 622424,
+          "mediaAcertos": 9.7,
+          "minAcertos": 0.0,
+          "maxAcertos": 25.0,
+          "stdAcertos": 2.8,
+          "mediaNota": 525.3
+        },
+        {
+          "faixa": "550–599",
+          "n": 502152,
+          "mediaAcertos": 10.4,
+          "minAcertos": 1.0,
+          "maxAcertos": 25.0,
+          "stdAcertos": 3.0,
+          "mediaNota": 572.5
+        },
+        {
+          "faixa": "600–649",
+          "n": 158479,
+          "mediaAcertos": 10.8,
+          "minAcertos": 1.0,
+          "maxAcertos": 22.0,
+          "stdAcertos": 2.9,
+          "mediaNota": 617.4
+        },
+        {
+          "faixa": "650–699",
+          "n": 14248,
+          "mediaAcertos": 10.9,
+          "minAcertos": 2.0,
+          "maxAcertos": 20.0,
+          "stdAcertos": 2.9,
+          "mediaNota": 663.6
+        },
+        {
+          "faixa": "700–749",
+          "n": 543,
+          "mediaAcertos": 11.1,
+          "minAcertos": 4.0,
+          "maxAcertos": 17.0,
+          "stdAcertos": 2.8,
+          "mediaNota": 713.4
+        },
+        {
+          "faixa": "750–799",
+          "n": 13,
+          "mediaAcertos": 10.0,
+          "minAcertos": 5.0,
+          "maxAcertos": 14.0,
+          "stdAcertos": 2.9,
+          "mediaNota": 766.6
+        },
+        {
+          "faixa": "800–849",
+          "n": 2,
+          "mediaAcertos": 14.0,
+          "minAcertos": 14.0,
+          "maxAcertos": 14.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 801.7
+        },
+        {
+          "faixa": "850–899",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        }
+      ]
+    },
+    "ciencias-humanas": {
+      "label": "Ciências Humanas",
+      "questionCount": 45,
+      "sampleSize": 1966844,
+      "averageScore": 506.7,
+      "averageAccuracy": 37.0,
+      "scoreDistribution": [
+        {
+          "faixa": "300–349",
+          "n": 33181,
+          "share": 1.7
+        },
+        {
+          "faixa": "350–399",
+          "n": 168545,
+          "share": 8.6
+        },
+        {
+          "faixa": "400–449",
+          "n": 306416,
+          "share": 15.6
+        },
+        {
+          "faixa": "450–499",
+          "n": 389109,
+          "share": 19.8
+        },
+        {
+          "faixa": "500–549",
+          "n": 437249,
+          "share": 22.3
+        },
+        {
+          "faixa": "550–599",
+          "n": 379263,
+          "share": 19.3
+        },
+        {
+          "faixa": "600–649",
+          "n": 185965,
+          "share": 9.5
+        },
+        {
+          "faixa": "650–699",
+          "n": 54901,
+          "share": 2.8
+        },
+        {
+          "faixa": "700–749",
+          "n": 8642,
+          "share": 0.4
+        },
+        {
+          "faixa": "750–799",
+          "n": 612,
+          "share": 0.0
+        },
+        {
+          "faixa": "800–849",
+          "n": 25,
+          "share": 0.0
+        },
+        {
+          "faixa": "850–899",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "share": 0.0
+        }
+      ],
+      "accuracyVsScore": [
+        {
+          "faixa": "300–349",
+          "n": 33181,
+          "mediaAcertos": 6.2,
+          "minAcertos": 0.0,
+          "maxAcertos": 15.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 337.8
+        },
+        {
+          "faixa": "350–399",
+          "n": 168545,
+          "mediaAcertos": 8.3,
+          "minAcertos": 1.0,
+          "maxAcertos": 18.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 378.7
+        },
+        {
+          "faixa": "400–449",
+          "n": 306416,
+          "mediaAcertos": 10.3,
+          "minAcertos": 3.0,
+          "maxAcertos": 19.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 426.5
+        },
+        {
+          "faixa": "450–499",
+          "n": 389109,
+          "mediaAcertos": 12.9,
+          "minAcertos": 6.0,
+          "maxAcertos": 21.0,
+          "stdAcertos": 1.8,
+          "mediaNota": 475.6
+        },
+        {
+          "faixa": "500–549",
+          "n": 437249,
+          "mediaAcertos": 16.7,
+          "minAcertos": 10.0,
+          "maxAcertos": 25.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 525.2
+        },
+        {
+          "faixa": "550–599",
+          "n": 379263,
+          "mediaAcertos": 21.8,
+          "minAcertos": 14.0,
+          "maxAcertos": 30.0,
+          "stdAcertos": 2.2,
+          "mediaNota": 573.2
+        },
+        {
+          "faixa": "600–649",
+          "n": 185965,
+          "mediaAcertos": 27.8,
+          "minAcertos": 21.0,
+          "maxAcertos": 35.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 620.8
+        },
+        {
+          "faixa": "650–699",
+          "n": 54901,
+          "mediaAcertos": 33.4,
+          "minAcertos": 27.0,
+          "maxAcertos": 39.0,
+          "stdAcertos": 1.8,
+          "mediaNota": 668.8
+        },
+        {
+          "faixa": "700–749",
+          "n": 8642,
+          "mediaAcertos": 37.7,
+          "minAcertos": 34.0,
+          "maxAcertos": 42.0,
+          "stdAcertos": 1.4,
+          "mediaNota": 716.1
+        },
+        {
+          "faixa": "750–799",
+          "n": 612,
+          "mediaAcertos": 40.9,
+          "minAcertos": 39.0,
+          "maxAcertos": 44.0,
+          "stdAcertos": 1.0,
+          "mediaNota": 764.5
+        },
+        {
+          "faixa": "800–849",
+          "n": 25,
+          "mediaAcertos": 43.0,
+          "minAcertos": 42.0,
+          "maxAcertos": 44.0,
+          "stdAcertos": 0.5,
+          "mediaNota": 811.8
+        },
+        {
+          "faixa": "850–899",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        }
+      ]
+    },
+    "ciencias-natureza": {
+      "label": "Ciências da Natureza",
+      "questionCount": 45,
+      "sampleSize": 2785619,
+      "averageScore": 478.3,
+      "averageAccuracy": 29.2,
+      "scoreDistribution": [
+        {
+          "faixa": "300–349",
+          "n": 45188,
+          "share": 1.6
+        },
+        {
+          "faixa": "350–399",
+          "n": 413748,
+          "share": 14.9
+        },
+        {
+          "faixa": "400–449",
+          "n": 664822,
+          "share": 23.9
+        },
+        {
+          "faixa": "450–499",
+          "n": 607755,
+          "share": 21.8
+        },
+        {
+          "faixa": "500–549",
+          "n": 516023,
+          "share": 18.5
+        },
+        {
+          "faixa": "550–599",
+          "n": 360408,
+          "share": 12.9
+        },
+        {
+          "faixa": "600–649",
+          "n": 137444,
+          "share": 4.9
+        },
+        {
+          "faixa": "650–699",
+          "n": 31424,
+          "share": 1.1
+        },
+        {
+          "faixa": "700–749",
+          "n": 7337,
+          "share": 0.3
+        },
+        {
+          "faixa": "750–799",
+          "n": 933,
+          "share": 0.0
+        },
+        {
+          "faixa": "800–849",
+          "n": 73,
+          "share": 0.0
+        },
+        {
+          "faixa": "850–899",
+          "n": 3,
+          "share": 0.0
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "share": 0.0
+        }
+      ],
+      "accuracyVsScore": [
+        {
+          "faixa": "300–349",
+          "n": 45188,
+          "mediaAcertos": 5.7,
+          "minAcertos": 0.0,
+          "maxAcertos": 14.0,
+          "stdAcertos": 1.8,
+          "mediaNota": 342.5
+        },
+        {
+          "faixa": "350–399",
+          "n": 413748,
+          "mediaAcertos": 8.0,
+          "minAcertos": 1.0,
+          "maxAcertos": 18.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 379.1
+        },
+        {
+          "faixa": "400–449",
+          "n": 664822,
+          "mediaAcertos": 10.1,
+          "minAcertos": 3.0,
+          "maxAcertos": 20.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 425.2
+        },
+        {
+          "faixa": "450–499",
+          "n": 607755,
+          "mediaAcertos": 12.4,
+          "minAcertos": 5.0,
+          "maxAcertos": 22.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 474.2
+        },
+        {
+          "faixa": "500–549",
+          "n": 516023,
+          "mediaAcertos": 15.0,
+          "minAcertos": 7.0,
+          "maxAcertos": 25.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 524.2
+        },
+        {
+          "faixa": "550–599",
+          "n": 360408,
+          "mediaAcertos": 18.4,
+          "minAcertos": 10.0,
+          "maxAcertos": 29.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 572.3
+        },
+        {
+          "faixa": "600–649",
+          "n": 137444,
+          "mediaAcertos": 23.0,
+          "minAcertos": 16.0,
+          "maxAcertos": 32.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 619.5
+        },
+        {
+          "faixa": "650–699",
+          "n": 31424,
+          "mediaAcertos": 28.4,
+          "minAcertos": 23.0,
+          "maxAcertos": 37.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 669.0
+        },
+        {
+          "faixa": "700–749",
+          "n": 7337,
+          "mediaAcertos": 33.6,
+          "minAcertos": 27.0,
+          "maxAcertos": 40.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 718.5
+        },
+        {
+          "faixa": "750–799",
+          "n": 933,
+          "mediaAcertos": 38.0,
+          "minAcertos": 34.0,
+          "maxAcertos": 43.0,
+          "stdAcertos": 1.7,
+          "mediaNota": 764.6
+        },
+        {
+          "faixa": "800–849",
+          "n": 73,
+          "mediaAcertos": 41.3,
+          "minAcertos": 38.0,
+          "maxAcertos": 44.0,
+          "stdAcertos": 1.2,
+          "mediaNota": 816.4
+        },
+        {
+          "faixa": "850–899",
+          "n": 3,
+          "mediaAcertos": 44.0,
+          "minAcertos": 43.0,
+          "maxAcertos": 45.0,
+          "stdAcertos": 1.0,
+          "mediaNota": 858.4
+        },
+        {
+          "faixa": "900–949",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "950–1000",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        }
+      ]
+    },
+    "matematica": {
+      "label": "Matemática",
+      "questionCount": 45,
+      "sampleSize": 2785619,
+      "averageScore": 524.0,
+      "averageAccuracy": 25.9,
+      "scoreDistribution": [
+        {
+          "faixa": "300–349",
+          "n": 0,
+          "share": 0.0
+        },
+        {
+          "faixa": "350–399",
+          "n": 287640,
+          "share": 10.3
+        },
+        {
+          "faixa": "400–449",
+          "n": 573425,
+          "share": 20.6
+        },
+        {
+          "faixa": "450–499",
+          "n": 511955,
+          "share": 18.4
+        },
+        {
+          "faixa": "500–549",
+          "n": 397162,
+          "share": 14.3
+        },
+        {
+          "faixa": "550–599",
+          "n": 324101,
+          "share": 11.6
+        },
+        {
+          "faixa": "600–649",
+          "n": 277681,
+          "share": 10.0
+        },
+        {
+          "faixa": "650–699",
+          "n": 200057,
+          "share": 7.2
+        },
+        {
+          "faixa": "700–749",
+          "n": 117926,
+          "share": 4.2
+        },
+        {
+          "faixa": "750–799",
+          "n": 59065,
+          "share": 2.1
+        },
+        {
+          "faixa": "800–849",
+          "n": 25214,
+          "share": 0.9
+        },
+        {
+          "faixa": "850–899",
+          "n": 8249,
+          "share": 0.3
+        },
+        {
+          "faixa": "900–949",
+          "n": 2132,
+          "share": 0.1
+        },
+        {
+          "faixa": "950–1000",
+          "n": 461,
+          "share": 0.0
+        }
+      ],
+      "accuracyVsScore": [
+        {
+          "faixa": "300–349",
+          "n": 0,
+          "mediaAcertos": 0.0,
+          "minAcertos": 0.0,
+          "maxAcertos": 0.0,
+          "stdAcertos": 0.0,
+          "mediaNota": 0.0
+        },
+        {
+          "faixa": "350–399",
+          "n": 287640,
+          "mediaAcertos": 6.5,
+          "minAcertos": 0.0,
+          "maxAcertos": 17.0,
+          "stdAcertos": 2.2,
+          "mediaNota": 382.8
+        },
+        {
+          "faixa": "400–449",
+          "n": 573425,
+          "mediaAcertos": 8.1,
+          "minAcertos": 2.0,
+          "maxAcertos": 19.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 425.2
+        },
+        {
+          "faixa": "450–499",
+          "n": 511955,
+          "mediaAcertos": 9.4,
+          "minAcertos": 3.0,
+          "maxAcertos": 20.0,
+          "stdAcertos": 2.1,
+          "mediaNota": 474.0
+        },
+        {
+          "faixa": "500–549",
+          "n": 397162,
+          "mediaAcertos": 10.7,
+          "minAcertos": 4.0,
+          "maxAcertos": 21.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 523.9
+        },
+        {
+          "faixa": "550–599",
+          "n": 324101,
+          "mediaAcertos": 12.1,
+          "minAcertos": 6.0,
+          "maxAcertos": 23.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 574.3
+        },
+        {
+          "faixa": "600–649",
+          "n": 277681,
+          "mediaAcertos": 14.3,
+          "minAcertos": 8.0,
+          "maxAcertos": 24.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 624.0
+        },
+        {
+          "faixa": "650–699",
+          "n": 200057,
+          "mediaAcertos": 17.7,
+          "minAcertos": 11.0,
+          "maxAcertos": 27.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 673.1
+        },
+        {
+          "faixa": "700–749",
+          "n": 117926,
+          "mediaAcertos": 22.2,
+          "minAcertos": 16.0,
+          "maxAcertos": 31.0,
+          "stdAcertos": 2.0,
+          "mediaNota": 722.4
+        },
+        {
+          "faixa": "750–799",
+          "n": 59065,
+          "mediaAcertos": 27.3,
+          "minAcertos": 21.0,
+          "maxAcertos": 35.0,
+          "stdAcertos": 1.9,
+          "mediaNota": 771.8
+        },
+        {
+          "faixa": "800–849",
+          "n": 25214,
+          "mediaAcertos": 32.0,
+          "minAcertos": 27.0,
+          "maxAcertos": 38.0,
+          "stdAcertos": 1.7,
+          "mediaNota": 821.0
+        },
+        {
+          "faixa": "850–899",
+          "n": 8249,
+          "mediaAcertos": 36.1,
+          "minAcertos": 32.0,
+          "maxAcertos": 41.0,
+          "stdAcertos": 1.5,
+          "mediaNota": 869.9
+        },
+        {
+          "faixa": "900–949",
+          "n": 2132,
+          "mediaAcertos": 39.4,
+          "minAcertos": 36.0,
+          "maxAcertos": 43.0,
+          "stdAcertos": 1.2,
+          "mediaNota": 919.5
+        },
+        {
+          "faixa": "950–1000",
+          "n": 461,
+          "mediaAcertos": 42.0,
+          "minAcertos": 40.0,
+          "maxAcertos": 45.0,
+          "stdAcertos": 1.1,
+          "mediaNota": 967.2
+        }
+      ]
+    }
+  }
+}

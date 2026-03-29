@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:35:50.838Z",
+  "questionId": "enem-2024-ciencias-natureza-q113",
+  "payload": {
+    "theme": "Tecnologia aplicada às ciências naturais",
+    "subtheme": "Biotecnologia",
+    "rationale": "A questão aborda técnicas biotecnológicas, como a PCR e RT-PCR, utilizadas na produção de proteínas e na detecção de genes, o que é diretamente relacionado ao tema 'Biotecnologia' dentro da área de 'Tecnologia aplicada às ciências naturais'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 772,
+    "outputTokens": 82,
+    "estimatedCostUsd": 0.00044
+  }
+}

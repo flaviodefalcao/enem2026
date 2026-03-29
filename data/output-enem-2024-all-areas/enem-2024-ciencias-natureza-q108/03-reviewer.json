@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:28:48.584Z",
+  "questionId": "enem-2024-ciencias-natureza-q108",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "1,9 × 10^6 ton",
+        "correctnessClaim": "Correto de acordo com os cálculos realizados",
+        "strategy": "Calcular a massa de alumínio reciclada a partir da massa total de latas vendidas e o índice de reciclagem. Em seguida, estimar a massa de bauxita que teria sido necessária para produzir essa quantidade de alumínio, usando a proporção 50 kg de bauxita para 10 kg de alumínio.",
+        "steps": [
+          "Determinar a massa total de latas vendidas: 4,0 × 10^5 toneladas.",
+          "Calcular a massa de latas recicladas: 97,4% de 4,0 × 10^5 t = 0,974 × 4,0 × 10^5 t = 3,896 × 10^5 t.",
+          "Considerar que as latas são de alumínio puro, logo a massa de alumínio reciclada é 3,896 × 10^5 toneladas.",
+          "Aplicar a proporção para encontrar a massa de bauxita: para produzir 10 kg de alumínio são necessários 50 kg de bauxita, ou seja, massa_bauxita = 5 × massa_alumínio.",
+          "Calcular: 3,896 × 10^5 t × 5 = 1,948 × 10^6 toneladas de bauxita que deixaram de ser extraídas.",
+          "Arredondar para 1,9 × 10^6 toneladas, que corresponde à alternativa D."
+        ],
+        "formulasUsed": [
+          "massa_bauxita = 5 × massa_alumínio",
+          "massa_alumínio_reciclado = percentual_reciclagem × massa_total_latas"
+        ],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para calcular quanto de bauxita deixou de ser extraída devido à reciclagem, primeiro determinamos a massa de alumínio reciclado a partir da porcentagem dada. Depois, multiplicamos essa massa por 5, já que são necessários 50 kg de bauxita para produzir 10 kg de alumínio, para obter a massa de bauxita economizada.",
+        "stepByStep": [
+          "Identifique a massa total de latas vendidas: 4,0 × 10⁵ toneladas.",
+          "Calcule a massa de latas recicladas aplicando o índice de reciclagem: 0,974 × 4,0 × 10⁵ = 3,896 × 10⁵ toneladas de alumínio.",
+          "Use a proporção dada para converter a massa de alumínio reciclado em bauxita economizada: para cada 10 kg de alumínio, são necessários 50 kg de bauxita, ou seja, multiplique a massa de alumínio por 5.",
+          "Multiplique: 3,896 × 10⁵ × 5 = 1,948 × 10⁶ toneladas de bauxita economizadas.",
+          "Arredonde para o valor mais próximo das opções apresentadas, que é 1,9 × 10⁶ toneladas.",
+          "Conclua que a alternativa correta é a opção D."
+        ],
+        "commonPitfalls": [
+          "Confundir a unidade de massa ou não converter corretamente quilogramas em toneladas.",
+          "Considerar apenas a massa de alumínio reciclado sem multiplicar pela proporção necessária de bauxita.",
+          "Esquecer de aplicar o percentual de reciclagem, usando a massa total de latas vendidas como se tudo tivesse sido reciclado.",
+          "Fazer arredondamentos incorretos antes de calcular a massa final de bauxita, causando erro na ordem de grandeza."
+        ],
+        "teachingTips": [
+          "Reforce a importância de ler atentamente os dados percentuais e entender o que eles significam para o cálculo.",
+          "Explique a relação entre bauxita e alumínio na produção para que os alunos entendam por que multiplicamos a massa reciclada por 5.",
+          "Mostre como trabalhar com notação científica facilita o cálculo em grandes massas e evita erros de escala.",
+          "Estimule os estudantes a fazerem uma checagem lógica dos resultados para perceber se o valor faz sentido diante das grandezas envolvidas.",
+          "Use questões semelhantes para praticar a aplicação de porcentagens, proporções e unidades em problemas ambientais e industriais."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "1,0 × 10^4 ton",
+          "likelyReasoning": "Confusão entre as unidades ou erro em aplicar a proporção da bauxita para alumínio.",
+          "misconceptionType": "Erro de conversão e escala",
+          "whyItLooksPlausible": "É um número menor e mais simples, pode ser resultado de cálculo incorreto ou má interpretação dos dados.",
+          "whyItIsWrong": "Ignora a grande massa envolvida e a alta taxa de reciclagem, subestimando drasticamente a massa de bauxita evitada."
+        },
+        {
+          "option": "3,9 × 10^5 ton",
+          "likelyReasoning": "Usar apenas a massa reciclada de alumínio sem convertê-la para a massa equivalente de bauxita.",
+          "misconceptionType": "Omissão de fator de conversão na massa",
+          "whyItLooksPlausible": "Corresponde à massa diretamente reciclada e parece coerente antes da conversão para bauxita.",
+          "whyItIsWrong": "Não considera o fato de que são necessários 5 vezes mais bauxita para produzir a mesma massa de alumínio."
+        },
+        {
+          "option": "5,0 × 10^5 ton",
+          "likelyReasoning": "Possível erro no cálculo da massa reciclada ou arredondamento incorreto antes da multiplicação por 5.",
+          "misconceptionType": "Erro de cálculo intermediário",
+          "whyItLooksPlausible": "Número intermediário entre a massa reciclada e a massa de bauxita estimada, pode ser resultado de cálculo parcial.",
+          "whyItIsWrong": "Deixa de aplicar a proporção correta entre alumínio e bauxita ou não multiplica pela proporção completa."
+        },
+        {
+          "option": "2,0 × 10^7 ton",
+          "likelyReasoning": "Multiplicar diretamente a massa total de latas vendidas por 50 kg sem considerar o alumínio reciclado ou erro na ordem de grandeza.",
+          "misconceptionType": "Erro de ordem de magnitude e interpretação dos dados",
+          "whyItLooksPlausible": "Parece uma aplicação direta da 50 kg de bauxita para 10 kg de alumínio, mas multiplicada pela massa total de latas sem ajustar para a quantidade reciclada.",
+          "whyItIsWrong": "Superestima em ordem de grandeza pois ignora o percentual reciclado e a relação correta entre bauxita e alumínio."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Raciocínio quantitativo",
+        "secondarySkills": [
+          "Interpretação de dados",
+          "Cálculo com proporções",
+          "Análise de porcentagem"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Requer conhecimento químico básico sobre produção de alumínio a partir da bauxita.",
+          "Necessita interpretar dados percentuais e aplicar proporções para cálculo de massa.",
+          "Nenhuma imagem foi necessária para resolução."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "⚗️",
+        "shortThemeTitle": "Reciclagem e Produção de Alumínio",
+        "interpretationIntro": "A questão pede para calcular a massa de bauxita que deixou de ser extraída graças à reciclagem de latas de alumínio no Brasil em 2020, usando os dados fornecidos sobre o índice de reciclagem e a relação entre bauxita e alumínio na produção.",
+        "commandTerms": [
+          {
+            "term": "Indice de reciclagem",
+            "explanation": "Percentual que indica a fração das latas recicladas em relação ao total vendido."
+          },
+          {
+            "term": "Proporção de massa",
+            "explanation": "Relação entre a massa de bauxita necessária para produzir uma certa massa de alumínio."
+          }
+        ],
+        "whatTheQuestionAsks": "Calcular, a partir dos dados fornecidos, a massa de bauxita (em toneladas) que deixou de ser extraída da natureza por causa da reciclagem de latas de alumínio no Brasil em 2020.",
+        "strategyParagraph": "O caminho para resolver o problema começa com determinar a quantidade de alumínio efetivamente reciclada, usando o índice de reciclagem e a massa total de latas vendidas. Após isso, a massa de alumínio reciclado é convertida em massa de bauxita evitada por meio da proporção entre bauxita e alumínio (50 kg de bauxita para cada 10 kg de alumínio). Este cálculo garante considerar quanto material bruto foi poupado pela reciclagem, o que é o foco da questão.",
+        "reviewTable": [
+          {
+            "concept": "Índice de reciclagem",
+            "keyIdea": "Percentual de latas recicladas do total vendido",
+            "application": "Calcula massa efetivamente reciclada como massa_total × índice"
+          },
+          {
+            "concept": "Proporção bauxita-alumínio",
+            "keyIdea": "São 50 kg de bauxita para 10 kg de alumínio",
+            "application": "Multiplicar massa de alumínio por 5 para obter massa de bauxita"
+          }
+        ],
+        "theoryParagraphs": [
+          "A bauxita é a principal matéria-prima para a produção do alumínio metálico, por meio de processos de beneficiamento e redução química. Essa relação entre a massa de bauxita e alumínio é importante para entender o impacto ambiental da reciclagem — reciclar o alumínio significa evitar grande quantidade da extração de bauxita da natureza.",
+          "Índices de reciclagem expressam a eficiência da reutilização de materiais e são fundamentais para calcular a quantidade de matéria-prima preservada. Aplicar corretamente as proporções e conversões de unidades é essencial para uma resolução precisa.",
+          "Notação científica e cálculos com grandes números são comuns em problemas industrial-ambientais, exigindo rigor e atenção para evitar erros de escala e arredondamento."
+        ],
+        "resolutionParagraphs": [
+          "Começa-se calculando a massa de latas recicladas a partir do índice dado: 97,4% de 4,0 × 10⁵ toneladas é 3,896 × 10⁵ toneladas de alumínio reciclado.",
+          "Como a lata é alumínio puro, essa é a massa direta de alumínio reciclado.",
+          "Utilizando a proporção dada, multiplicamos essa massa por 5 para encontrar a massa de bauxita que teria sido necessária para produzir essa quantidade de alumínio caso não fosse reciclada.",
+          "O cálculo resulta em aproximadamente 1,948 × 10⁶ toneladas de bauxita evitada, que arredondado fica 1,9 × 10⁶ toneladas.",
+          "Entre as alternativas apresentadas, essa corresponde à alternativa D, que é então a resposta correta."
+        ],
+        "puloDoGato": "Multiplique a massa de alumínio reciclado por 5 para encontrar a massa de bauxita economizada, ao invés de aplicar diretamente a proporção sem considerar o índice de reciclagem.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "1,0 × 10⁴ toneladas subestima muito a quantidade; provável erro de conversão ou escala, ignorando a massa total e percentual de reciclagem."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "3,9 × 10⁵ toneladas corresponde somente à massa do alumínio reciclado, sem conversão para bauxita, resultando em subestimação."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "5,0 × 10⁵ toneladas parece uma estimativa incorreta, talvez resultado de erro na multiplicação pela proporção entre alumínio e bauxita."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "1,9 × 10⁶ toneladas é o valor correto obtido multiplicando a massa reciclada de alumínio pela proporção 5, refletindo a massa de bauxita que deixou de ser extraída."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "2,0 × 10⁷ toneladas superestima massivamente, provavelmente por aplicar a proporção à massa total sem considerar o percentual de reciclagem."
+          }
+        ],
+        "questionCode": "CN_RECICLAGEM_TIPO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solver e explainer estão coerentes e consistentes entre si. O cálculo segue a lógica de porcentagem aplicada à massa total e conversão pela proporção da bauxita para o alumínio, culminando em resposta precisa e didática. A explicação aborda os possíveis erros e dá dicas valiosas de ensino. Todas as alternativas reais são interpretadas corretamente.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3056,
+    "outputTokens": 2623,
+    "estimatedCostUsd": 0.005419
+  }
+}

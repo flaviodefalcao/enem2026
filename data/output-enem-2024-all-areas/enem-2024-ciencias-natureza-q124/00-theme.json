@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:27:45.808Z",
+  "questionId": "enem-2024-ciencias-natureza-q124",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Ondas, óptica e radiação",
+    "rationale": "A questão envolve análise do nível sonoro da fala do professor e sua variação com a distância, além do impacto do ruído de fundo na inteligibilidade dos sons. Esse contexto está diretamente relacionado a fenômenos ondulatórios, especialmente acústica, que é um tópico de Ondas no campo da Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1415,
+    "outputTokens": 88,
+    "estimatedCostUsd": 0.000707
+  }
+}

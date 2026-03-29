@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:35:20.040Z",
+  "questionId": "enem-2024-ciencias-natureza-q130",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A formação dos compostos nitrosos mutagênicos ocorre no estômago, pois é nele que o ácido clorídrico, necessário para a reação com o nitrito de sódio, está presente.",
+      "stepByStep": [
+        "Entenda que nitrito de sódio reage com ácido clorídrico para formar ácido nitroso.",
+        "Saiba que o ácido clorídrico é um componente principal do suco gástrico no estômago.",
+        "Reconheça que o ácido nitroso reage com compostos nitrogenados (aminas) para formar compostos nitrosos.",
+        "Conclua que o local onde essa reação inicial ocorre é no estômago, por causa da presença do ácido clorídrico.",
+        "Assim, o processo de formação de substâncias mutagênicas começa no estômago."
+      ],
+      "commonPitfalls": [
+        "Confundir o estômago com órgãos responsáveis por funções de filtragem, como o rim.",
+        "Pensar que o fígado, como órgão de metabolismo, é o local da reação inicial.",
+        "Associar erroneamente o intestino à formação dos compostos nitrosos, quando na verdade essa reação ocorre antes daquela etapa.",
+        "Assumir que o pâncreas participa da reação química envolvendo nitrito de sódio e ácido clorídrico, o que não ocorre."
+      ],
+      "teachingTips": [
+        "Enfatize a função do ácido clorídrico no estômago e seu papel nas reações químicas do sistema digestório.",
+        "Utilize esquemas do trato digestivo para localizar onde os sucos gástricos são produzidos e suas características.",
+        "Explique a diferença entre funções dos órgãos para evitar a confusão sobre onde processos químicos específicos acontecem.",
+        "Apresente as reações químicas envolvidas de forma simplificada e conecte-as com o ambiente fisiológico do estômago."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1332,
+    "outputTokens": 388,
+    "estimatedCostUsd": 0.001154
+  }
+}

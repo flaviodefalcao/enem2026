@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q121",
+  "generatedAt": "2026-03-28T22:24:35.871Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 558,
+      "outputTokens": 771,
+      "estimatedCostUsd": 0.001457
+    },
+    "explainer": {
+      "inputTokens": 1201,
+      "outputTokens": 366,
+      "estimatedCostUsd": 0.001066
+    },
+    "reviewer": {
+      "inputTokens": 2494,
+      "outputTokens": 2051,
+      "estimatedCostUsd": 0.004279
+    },
+    "totalEstimatedCostUsd": 0.006802
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta.",
+      "strategy": "Compreender o conceito científico atual de compostos orgânicos, relacionando com o elemento químico principal na sua composição.",
+      "steps": [
+        "Reconhecer que a definição tradicional de compostos orgânicos está relacionada com seres vivos, mas a definição química atual é mais geral.",
+        "Recordar que, em Química, compostos orgânicos são principalmente aqueles que possuem o carbono como elemento central em sua estrutura.",
+        "Analisar as alternativas para identificar qual delas corresponde à definição correta de compostos orgânicos na Química.",
+        "Descartar as alternativas que associam compostos orgânicos a propriedades específicas (saúde, biodegradabilidade, origem a partir de gás carbônico, produção sem agrotóxicos), pois a definição química não está ligada a essas características, mas sim à composição química.",
+        "Confirmar que a alternativa E — \"contendo carbono como elemento principal\" — é a definição vigente e correta de compostos orgânicos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Na Química, compostos orgânicos são definidos como substâncias que possuem carbono como elemento principal em sua estrutura. Essa definição vai além da ideia comum de que compostos orgânicos estão apenas presentes em seres vivos.",
+      "stepByStep": [
+        "Entenda que, popularmente, compostos orgânicos são associados a seres vivos, mas a Química moderna usa uma definição baseada na composição química.",
+        "Reconheça que o carbono é o elemento chave que define um composto como orgânico.",
+        "Analise as alternativas para identificar qual apresenta a definição correta segundo a Química.",
+        "Desconsidere definições que relacionam compostos orgânicos a propriedades como benefícios à saúde, biodegradabilidade, origem do gás carbônico ou ausência de agrotóxicos, pois estas não definem o termo cientificamente.",
+        "Confirme que a alternativa que afirma que compostos orgânicos contêm carbono como elemento principal está correta."
+      ],
+      "commonPitfalls": [
+        "Confundir definição científica com usos populares ou conceitos biológicos/ambientais.",
+        "Achar que todos compostos orgânicos são benéficos à saúde, quando isso não é verdade.",
+        "Associar compostos orgânicos necessariamente à biodegradabilidade.",
+        "Pensar que a definição depende da origem ou do modo de produção (como sem agrotóxicos)."
+      ],
+      "teachingTips": [
+        "Ressalte a diferença entre uso popular e definição científica de compostos orgânicos.",
+        "Use exemplos de compostos orgânicos que não estão diretamente ligados a seres vivos (como plásticos).",
+        "Explique o papel do carbono como elemento base da Química Orgânica.",
+        "Incorpore questões que desafiem os alunos a distinguir definição por composição química de conceitos associados a funções ou origens.",
+        "Utilize analogias que evidenciem a importância do carbono na química orgânica."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar compostos orgânicos a substâncias benéficas à saúde por associações comuns com organismos vivos e alimentos naturais.",
+        "misconceptionType": "Conceito incorreto sobre definição de compostos orgânicos",
+        "whyItLooksPlausible": "Muitos compostos orgânicos são encontrados em alimentos e medicamentos, que são benéficos à saúde.",
+        "whyItIsWrong": "Nem todos os compostos orgânicos são benéficos à saúde; a definição química é estrutural e não funcional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Entender compostos orgânicos como biodegradáveis devido à sua associação com matéria viva e processos naturais.",
+        "misconceptionType": "Generalização incorreta sobre compostos orgânicos e biodegradabilidade",
+        "whyItLooksPlausible": "Compostos orgânicos são em geral mais facilmente degradados do que compostos inorgânicos.",
+        "whyItIsWrong": "Nem todos os compostos orgânicos são biodegradáveis; a biodegradabilidade depende da estrutura e das condições ambientais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Achar que compostos orgânicos são formados a partir de gás carbônico por associar carbono ao CO2 e às plantas.",
+        "misconceptionType": "Confusão entre matéria-prima e definição de compostos orgânicos",
+        "whyItLooksPlausible": "Plantas utilizam gás carbônico para produzir compostos orgânicos via fotossíntese.",
+        "whyItIsWrong": "A definição de compostos orgânicos não depende da origem ou processo de formação, mas sim da composição química."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumir que compostos orgânicos devem ser produzidos sem agrotóxicos por associações ambientais e naturais.",
+        "misconceptionType": "Conceito confuso entre química e práticas agrícolas",
+        "whyItLooksPlausible": "Produtos orgânicos, no sentido agrícola, são produzidos sem agrotóxicos, associando o termo à química orgânica.",
+        "whyItIsWrong": "A produção sem agrotóxicos é questão agrícola/ambiental, não definição química de compostos orgânicos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento conceitual em Química (Química Orgânica)",
+      "secondarySkills": [
+        "Compreensão de definição científica",
+        "Raciocínio crítico"
+      ],
+      "cognitiveDemand": "Baixo",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento direto da definição científica dos compostos orgânicos.",
+        "Não há necessidade de imagens ou cálculos.",
+        "Importante distinguir a definição química de uso comum ou popular."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧪",
+      "shortThemeTitle": "Definição científica de compostos orgânicos",
+      "interpretationIntro": "A questão solicita a compreensão da definição atual e científica do termo “compostos orgânicos”, diferenciando-a do senso comum e das associações populares.",
+      "commandTerms": [
+        {
+          "term": "Defina",
+          "explanation": "Estabeleça o significado correto do termo com base em conceitos científicos."
+        },
+        {
+          "term": "Analise",
+          "explanation": "Examine as alternativas para identificar a resposta que corresponde à definição precisa."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede que o candidato reconheça como a Química define compostos orgânicos atualmente, especialmente em relação à composição química desses compostos.",
+      "strategyParagraph": "O caminho para a resposta envolve distinguir a definição tradicional, associada a seres vivos, da definição química formal, centrada na composição do carbono. Analisando as alternativas, é preciso identificar aquela que define os compostos orgânicos com base em sua característica química principal, descartando confusões com aspectos funcionais, ambientais ou de origem.",
+      "reviewTable": [
+        {
+          "concept": "Compostos orgânicos",
+          "keyIdea": "Possuem carbono como elemento principal",
+          "application": "Definição científica correta para identificar compostos orgânicos"
+        },
+        {
+          "concept": "Definição tradicional vs científica",
+          "keyIdea": "Uso popular associa a seres vivos; Química moderna baseia-se na composição química",
+          "application": "Diferenciar conceitos para interpretar corretamente o enunciado"
+        },
+        {
+          "concept": "Propriedades e origem",
+          "keyIdea": "Não definem compostos orgânicos (ex: biodegradabilidade, produção sem agrotóxicos)",
+          "application": "Descartar alternativas incorretas que confundem definição com propriedades ou origem"
+        }
+      ],
+      "theoryParagraphs": [
+        "Compostos orgânicos são definidos pela presença predominante de carbono em suas estruturas moleculares. Essa definição é a base da Química Orgânica e vai além da concepção associada apenas a seres vivos.",
+        "Historicamente, acreditava-se que compostos orgânicos só poderiam ser sintetizados por organismos vivos, mas isso foi superado ao compreender as propriedades do carbono em formar várias cadeias e estruturas.",
+        "Portanto, o termo “compostos orgânicos” aplica-se a uma vasta gama de substâncias químicas formadas principalmente por carbono, independentemente da sua origem ou função biológica."
+      ],
+      "resolutionParagraphs": [
+        "Inicialmente, o senso comum relaciona compostos orgânicos com seres vivos, mas tal conceito é insuficiente para a definição científica atual.",
+        "Sabe-se que o elemento químico carbono possui a capacidade única de formar longas cadeias e várias estruturas, caracterizando os compostos orgânicos.",
+        "Desta forma, a definição química vigente estabelece que compostos orgânicos são substâncias que contêm carbono como elemento principal.",
+        "A análise cuidadosa das alternativas indica que apenas a alternativa E apresenta essa característica fundamental, enquanto as outras associam compostos orgânicos a propriedades ou condições que não definem o conceito químico.",
+        "Conclui-se, portanto, que a alternativa E está correta, pois reflete a concepção científica consolidada da Química."
+      ],
+      "puloDoGato": "Lembre-se sempre: compostos orgânicos são definidos pelo carbono em sua estrutura, não por sua origem, função ou produção.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Associa compostos orgânicos a benefícios à saúde, o que não é parte da definição química, e portanto está incorreta."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Confunde características relacionadas à biodegradabilidade com a definição química de compostos orgânicos."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Relaciona compostos orgânicos com gás carbônico como matéria-prima, o que é uma confusão entre origem e definição."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Confunde critérios agrícolas de produção com a definição química dos compostos orgânicos."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Define corretamente compostos orgânicos como substâncias que contêm carbono como elemento principal, atendendo à definição científica atual."
+        }
+      ],
+      "questionCode": "CN_QUIMICA_DEF_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes e consistentes entre si, apresentando conteúdo adequado para o perfil da questão. A resolução oficial segue as diretrizes solicitadas, oferecendo clareza e alinhamento conceitual.",
+      "issues": []
+    }
+  }
+}

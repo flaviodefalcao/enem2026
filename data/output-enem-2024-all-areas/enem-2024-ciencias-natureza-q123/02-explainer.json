@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:26:56.938Z",
+  "questionId": "enem-2024-ciencias-natureza-q123",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A razão ar/combustível igual a 18 indica um excesso de ar na mistura do motor. Isso favorece a combustão completa, resultando em baixa emissão de monóxido de carbono (CO) e alta emissão de dióxido de carbono (CO₂), conforme mostrado no gráfico.",
+      "stepByStep": [
+        "Identifique o valor da razão ar/combustível igual a 18 no gráfico, que está na região de excesso de ar (acima da razão estequiométrica 15).",
+        "Observe o gráfico do CO₂ (linha azul): nesse ponto, o CO₂ está próximo do seu valor máximo, indicando alta emissão.",
+        "Observe o gráfico do CO (linha verde): nesse ponto, o CO está em seu valor mínimo, quase zero, indicando baixa emissão.",
+        "Com base nessas análises, conclua que a emissão na razão 18 apresenta baixa concentração de CO e alta concentração de CO₂.",
+        "Verifique as alternativas e constate que a alternativa C corresponde a essa conclusão, indicando baixa emissão de CO e alta emissão de CO₂."
+      ],
+      "commonPitfalls": [
+        "Confundir excesso de ar com combustão incompleta, levando a pensar que os hidrocarbonetos (HC) ou monóxido de carbono (CO) aumentam, quando na verdade eles diminuem.",
+        "Interpretar erroneamente que o óxido nítrico (NO) aumenta com o excesso de ar, mas no gráfico ele não está elevado na razão 18.",
+        "Pensar que o oxigênio (O₂) diminui com excesso de ar, quando na verdade ele aumenta.",
+        "Ignorar a importância da razão estequiométrica para identificar qualidade da combustão.",
+        "Confundir os eixos do gráfico, levando a interpretações erradas das concentrações dos gases."
+      ],
+      "teachingTips": [
+        "Explique o conceito de razão ar/combustível e a importância da razão estequiométrica para uma combustão completa.",
+        "Use o gráfico para mostrar como as emissões variam com a mistura de ar e combustível, destacando regimes de deficiência e excesso de ar.",
+        "Ensine a interpretar gráficos com múltiplas variáveis, destacando o que cada linha e eixo representam.",
+        "Enfatize a relação entre combustão completa e baixa emissão de CO e HC, e alta emissão de CO₂.",
+        "Apresente exemplos práticos de impactos ambientais relacionados às emissões veiculares para contextualizar o problema."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2129,
+    "outputTokens": 490,
+    "estimatedCostUsd": 0.001636
+  }
+}

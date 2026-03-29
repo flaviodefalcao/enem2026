@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:40:50.011Z",
+  "questionId": "enem-2024-ciencias-natureza-q117",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Ondas, óptica e radiação",
+    "rationale": "A questão trata do fenômeno do efeito Doppler aplicado a ondas sonoras e de rádio, envolvendo conceitos de frequência e percepção sonora durante o movimento da ambulância em relação ao radar. Esses conceitos estão diretamente relacionados à física das ondas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 840,
+    "outputTokens": 73,
+    "estimatedCostUsd": 0.000453
+  }
+}

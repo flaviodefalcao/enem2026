@@ -1,0 +1,177 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:37:08.111Z",
+  "questionId": "enem-2024-ciencias-natureza-q101",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "Correta, pois a alternativa descreve o fenômeno de gerar uma diferença de potencial elétrico resultante da interação dos elétrons livres no grafeno com os íons positivos (cátions) presentes na camada fina de água da chuva, causando movimento de elétrons e gerando eletricidade.",
+        "strategy": "Interpretar o texto e a imagem fornecida para compreender o papel do grafeno e dos íons da água da chuva na geração de eletricidade. A imagem mostra claramente uma camada fina de grafeno sob uma camada fina de água, com íons Am+ e Bn− na água e elétrons (e−) se movendo no grafeno, com setas indicando alto e baixo potencial elétrico. Isso indica a formação de diferença de potencial por interação entre elétrons do grafeno e os íons.",
+        "steps": [
+          "Ler e interpretar o enunciado, que relaciona grafeno, água da chuva e geração de energia.",
+          "Analisar a imagem, observando as camadas fines de água e grafeno, a presença de íons Am+ e Bn−, e os elétrons (e−) na camada de grafeno.",
+          "Relação do fato que elétrons se movimentam ao longo da superfície do grafeno devido à presença dos cátions (Am+).",
+          "Identificar que esta movimentação de elétrons causada pela interação com íons positivos gera uma diferença de potencial elétrico.",
+          "Confirmar que a alternativa E corresponde a este fenômeno: geração de diferença de potencial pela interação dos elétrons com os cátions."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem mostrando camada fina de água e grafeno, com íons Am+ e Bn− na água e elétrons (e−) na camada de grafeno, com indicações de alto e baixo potencial elétrico para evidenciar geração de diferença de potencial pela interação."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O grafeno, ao interagir com íons positivos da água da chuva (cátions), provoca o movimento de elétrons em sua superfície, gerando assim uma diferença de potencial elétrico que pode ser usada para produzir eletricidade mesmo em dias chuvosos.",
+        "stepByStep": [
+          "Leia atentamente o enunciado e observe que o grafeno é revestido sobre placas solares para gerar energia com gotas de chuva.",
+          "Observe a imagem e identifique as camadas: uma camada fina de água com íons positivos (Am+) e negativos (Bn−) e uma camada fina de grafeno com elétrons (e−).",
+          "Note que os íons positivos (Am+) atraem os elétrons na camada de grafeno, fazendo com que esses elétrons se movimentem ao longo da superfície do grafeno.",
+          "Esse movimento desigual dos elétrons cria uma diferença de potencial elétrico, ou seja, uma voltagem entre duas regiões.",
+          "A alternativa correta descreve essa geração de diferença de potencial causada pela interação entre os íons positivos na água e os elétrons no grafeno."
+        ],
+        "commonPitfalls": [
+          "Pensar que ocorre uma reação química de oxidação entre grafeno e íons da água, o que não ocorre aqui.",
+          "Achar que o grafeno atua como uma barreira física para a água, impedindo sua passagem.",
+          "Conceber que o grafeno funciona diminuindo a energia de ativação de uma reação química, ou seja, agir como catalisador neste contexto, o que não é o caso.",
+          "Interpretar que se forma um novo compósito químico entre o grafeno e os íons da água da chuva, o que não ocorre; trata-se de interação eletrostática."
+        ],
+        "teachingTips": [
+          "Use a imagem para explicar o conceito de diferença de potencial elétrica, destacando a interação entre íons e elétrons.",
+          "Reforce o conceito básico de íons e elétrons e como eles podem gerar corrente elétrica por movimento.",
+          "Utilize analogias simples, como o movimento de cargas elétricas gerando voltagem, para facilitar a compreensão da geração de eletricidade.",
+          "Esclareça a diferença entre reações químicas e fenômenos físicos de movimento de cargas para evitar confusões.",
+          "Promova atividades que envolvam interpretação de gráficos e imagens científicas para desenvolver habilidades de leitura e compreensão de textos técnicos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O candidato pode pensar que o grafeno atua quimicamente oxidando os cátions dissolvidos na água.",
+          "misconceptionType": "Confusão conceitual sobre reação química envolvida",
+          "whyItLooksPlausible": "Fala-se em íons e grafeno, sugerindo reações químicas ou redox.",
+          "whyItIsWrong": "O texto e a imagem indicam geração de eletricidade pela movimentação de elétrons, não uma reação de oxidação dos cátions."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno pode pensar que o grafeno atua na barreira física impedindo a difusão da água.",
+          "misconceptionType": "Interpretação errada do papel do grafeno",
+          "whyItLooksPlausible": "Grafeno pode ser uma camada fina e impermeável, levando à esta conclusão.",
+          "whyItIsWrong": "O foco do enunciado é a geração de eletricidade, não a função de barreira contra água."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que o grafeno atua diminuindo energia de ativação de uma reação.",
+          "misconceptionType": "Aplicação errada de conceito catalítico",
+          "whyItLooksPlausible": "Grafeno pode atuar como catalisador em algumas reações, então diminuir energia de ativação é um conceito conhecido.",
+          "whyItIsWrong": "Não há reação química catalisada ou pseudocapacitiva descrita; trata-se do movimento de elétrons e geração de potencial elétrico."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Entender que se forma um compósito entre grafeno e íons na água.",
+          "misconceptionType": "Erro conceitual em química de materiais",
+          "whyItLooksPlausible": "Combinação de materiais sugere compósitos.",
+          "whyItIsWrong": "O texto descreve o grafeno em camada fina com interação eletrostática, não formação de novo material compósito."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de textos e gráficos científicos",
+        "secondarySkills": [
+          "Conhecimentos básicos de eletricidade e química",
+          "Interpretação de imagens científicas"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Requer compreensão do funcionamento de um sistema gerador de energia baseado em interação eletrostática.",
+          "Exige interpretar a ilustração que detalha a estrutura em camadas e os potenciais elétricos.",
+          "Conhecimento prévio básico sobre íons e movimento de elétrons auxilia na compreensão."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🔋",
+        "shortThemeTitle": "Geração de eletricidade com grafeno e água da chuva",
+        "interpretationIntro": "A questão propõe analisar como a utilização do grafeno em placas solares permite gerar eletricidade com gotas de chuva, utilizando os íons presentes na água para produzir diferença de potencial.",
+        "commandTerms": [
+          {
+            "term": "Gerar",
+            "explanation": "Produzir ou criar energia elétrica a partir de um fenômeno físico."
+          },
+          {
+            "term": "Interação",
+            "explanation": "Relação entre elétrons no grafeno e íons na água da chuva que leva à geração de eletricidade."
+          }
+        ],
+        "whatTheQuestionAsks": "Compreender o fenômeno físico que permite a geração de eletricidade em placas solares revestidas com grafeno ao expor-se à água da chuva.",
+        "strategyParagraph": "Para responder, deve-se interpretar o enunciado e a imagem que indicam a presença de uma camada fina de água, contendo íons Am+ e Bn−, sobre uma camada fina de grafeno com elétrons livres (e−). A interação entre os íons positivos (cátions) da água e os elétrons do grafeno provoca o movimento destes elétrons, gerando assim uma diferença de potencial elétrico.",
+        "reviewTable": [
+          {
+            "concept": "Íons e movimento de elétrons",
+            "keyIdea": "Ions positivos atraem elétrons, causando movimento destes na superfície do grafeno.",
+            "application": "Movimento resulta em corrente elétrica no sistema grafeno-água."
+          },
+          {
+            "concept": "Diferença de potencial elétrico",
+            "keyIdea": "Movimento desigual de cargas elétricas gera voltagem entre pontos diferentes.",
+            "application": "Fundamento para produção de eletricidade no dispositivo descrito."
+          }
+        ],
+        "theoryParagraphs": [
+          "O grafeno é uma camada extremamente fina e condutora composta por átomos de carbono dispostos em estrutura hexagonal. Suas propriedades eletrônicas permitem o movimento livre de elétrons sobre sua superfície.",
+          "Quando gotas de chuva contendo íons positivos (cátions) Am+ e íons negativos (ânions) Bn− entram em contato com a camada de grafeno, os íons positivos atraem elétrons presentes no grafeno, induzindo seu movimento ao longo da superfície.",
+          "Esse movimento de elétrons provoca a formação de uma diferença de potencial elétrico (voltagem), que pode ser aproveitada para gerar energia elétrica, mesmo em dias chuvosos, diferentemente das placas solares convencionais que dependem de luz solar."
+        ],
+        "resolutionParagraphs": [
+          "Ao analisar o enunciado e a imagem, identifica-se que o grafeno facilita a movimentação de elétrons devido à interação eletrostática com os íons Am+ presentes na camada fina de água da chuva.",
+          "A interação promove um deslocamento dos elétrons em direção contrária aos íons positivos, criando regiões de alto e baixo potencial elétrico.",
+          "Essa diferença de potencial configura uma voltagem, que é a base para geração de eletricidade no dispositivo.",
+          "A alternativa correta (letra E) descreve exatamente esse fenômeno físico de geração de diferença de potencial devido à interação dos elétrons do grafeno com os íons positivos na água da chuva."
+        ],
+        "puloDoGato": "Lembre que gerar eletricidade aqui não é química, mas movimento e separação de cargas elétricas na superfície do grafeno devido à presença dos íons.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Falsa, pois não há reação química de oxidação dos íons como descrito, o fenômeno é físico, de movimento de elétrons."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta, o grafeno não atua como barreira mecânica para a água, mas facilita movimento de elétrons."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada, pois não há diminuição da energia de ativação ou efeito catalítico descrito no processo."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta, não se forma compósito químico entre grafeno e íons, trata-se de interação eletrostática."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Correta, pois explica que a interação dos elétrons no grafeno com os íons positivos da água da chuva gera diferença de potencial elétrico, produzindo eletricidade."
+          }
+        ],
+        "questionCode": "CN_ELETRICIDADE_PF_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução técnica e explicação didática estão coerentes e consistentes entre si. A resolução oficial foi construída de forma clara, didática, atendendo aos critérios solicitados.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3518,
+    "outputTokens": 2391,
+    "estimatedCostUsd": 0.005233
+  }
+}

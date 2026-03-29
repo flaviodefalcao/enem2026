@@ -21,6 +21,9 @@ data/output-latex-three/
 # Notebook and analysis scratch files
 *.ipynb
 
-output_enem_all_areas_2024/
+output_enem_all_areas_*/
+strategic_metrics_raw/
+output_enem_all_areas_*/**/06_gold_a_student_wide.csv
+output_enem_all_areas_*/**/06_gold_a_student_wide.parquet
 data/output-enem-2024-linguagens-10-mini/
 data/output-enem-2024-sample-4areas/

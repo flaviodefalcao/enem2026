@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:34:55.145Z",
+  "questionId": "enem-2024-ciencias-natureza-q100",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Eletricidade e magnetismo",
+    "rationale": "A questão aborda o conceito de linhas de campo elétrico entre duas placas carregadas com cargas opostas, e o efeito da inserção de um cilindro metálico no campo, que é um fenômeno típico do eletromagnetismo. A habilidade enfatiza a interpretação de processos físicos usando leis do eletromagnetismo, e o enunciado descreve um experimento para visualizar o campo elétrico, confirmando o tema e subtema escolhidos.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1961,
+    "outputTokens": 116,
+    "estimatedCostUsd": 0.00097
+  }
+}

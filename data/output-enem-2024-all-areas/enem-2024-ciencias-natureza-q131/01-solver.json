@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:36:24.174Z",
+  "questionId": "enem-2024-ciencias-natureza-q131",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B está correta.",
+      "strategy": "Analisar o texto sobre sistemas agroflorestais e relacionar o processo gradual de mudanças na estrutura e composição das comunidades vegetais com os conceitos ecológicos apresentados nas alternativas.",
+      "steps": [
+        "Identificar no texto que há mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo.",
+        "Reconhecer que esse processo gradual culmina no aumento da diversidade do ambiente.",
+        "Relacionar esse conceito com o processo natural conhecido, entre as opções dadas.",
+        "Descartar alternativas que não se ajustem à descrição gradual e temporal do texto (como rotação de culturas, coevolução específica, adaptação por seleção e convergência adaptativa).",
+        "Confirmar que a sucessão ecológica é o processo natural que descreve a mudança gradual e temporal na composição das comunidades vegetais, levando a um aumento da diversidade.",
+        "Concluir que a resposta correta é a alternativa B, sucessão ecológica."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Texto da imagem do enunciado que descreve as mudanças graduais na composição das comunidades vegetais e o aumento da diversidade."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer correto porque envolve culturas agrícolas, mas rotação de culturas é uma prática agrícola, não um processo natural ecológico.",
+        "misconceptionType": "Confusão conceitual entre práticas agrícolas e processos ecológicos naturais.",
+        "whyItLooksPlausible": "O texto menciona culturas agrícolas anuais combinadas com árvores nativas, o que pode remeter à rotação de culturas.",
+        "whyItIsWrong": "Rotação de culturas envolve a alternância planejada de plantações para melhorar o solo, e não mudanças graduais naturais na composição vegetal."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer relacionado por envolver interações biológicas entre espécies, mas coevolução trata da evolução conjunta, não da mudança progressiva na comunidade vegetal.",
+        "misconceptionType": "Confusão entre interação evolutiva específica e sucessão ecológica.",
+        "whyItLooksPlausible": "O texto menciona espécies diferentes plantadas em tempo e espaço, o que pode sugerir interação entre espécies.",
+        "whyItIsWrong": "Coevolução específica diz respeito à influência evolutiva entre espécies, não necessariamente a mudanças graduais na comunidade e composição vegetais."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Adaptação por seleção pode ser confundida com o processo gradual descrito, já que envolve mudanças ao longo do tempo.",
+        "misconceptionType": "Confusão entre processo evolutivo genético e processo ecológico comunitário.",
+        "whyItLooksPlausible": "O conceito de mudança gradual é comum em seleção natural.",
+        "whyItIsWrong": "A adaptação por seleção refere-se a alterações genéticas nas populações, não a mudanças na composição de comunidades vegetais descritas no texto."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Convergência adaptativa pode ser pensada como similar a mudanças graduais em organismos para se ajustarem ao ambiente.",
+        "misconceptionType": "Confusão entre processos de evolução convergente e sucessão ecológica.",
+        "whyItLooksPlausible": "Pode parecer relacionado por envolver adaptação e mudanças ao longo do tempo.",
+        "whyItIsWrong": "Convergência adaptativa é a evolução independente de características semelhantes em espécies distintas, não a mudança comunitária gradual descrita no texto."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e interpretação de texto científico",
+      "secondarySkills": [
+        "Conhecimento de conceitos ecológicos básicos",
+        "Raciocínio analítico"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretar um texto científico e relacioná-lo a conceitos ecológicos.",
+        "Exige conhecimento específico sobre sucessão ecológica e diferenciação de processos biológicos.",
+        "Requer atenção para não confundir práticas agrícolas com processos naturais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 998,
+    "outputTokens": 817,
+    "estimatedCostUsd": 0.001706
+  }
+}

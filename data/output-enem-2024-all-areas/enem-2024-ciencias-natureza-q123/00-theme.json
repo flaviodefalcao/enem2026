@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:26:43.407Z",
+  "questionId": "enem-2024-ciencias-natureza-q123",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Transformações químicas",
+    "rationale": "A questão aborda os processos químicos envolvidos na combustão interna dos motores, especificamente a formação e variação de gases poluentes (CO2, HC, CO, NO, O2) relacionados à razão ar/combustível. O gráfico exige interpretação da variação química dos gases emitidos, o que se enquadra em transformações químicas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1712,
+    "outputTokens": 92,
+    "estimatedCostUsd": 0.000832
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:33:06.341Z",
+  "questionId": "enem-2024-ciencias-natureza-q128",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Poluentes lipossolúveis, como os derivados de pesticidas lipossolúveis apolares mencionados no texto, tendem a se acumular em tecidos ricos em gordura. Nos animais vertebrados, o tecido mais abundante em gordura é o tecido adiposo, onde esses poluentes se armazenam preferencialmente.",
+      "stepByStep": [
+        "Entenda que os poluentes são lipossolúveis e apolares, ou seja, têm afinidade por gordura.",
+        "Identifique os tipos de tecidos mencionados nas opções: ósseo, nervoso, epitelial, adiposo e sanguíneo.",
+        "Lembre que tecidos lipofílicos acumulam substâncias lipossolúveis; entre os tecidos listados, o adiposo é o mais rico em lipídios.",
+        "Conclusão: o tecido adiposo é o local preferencial para o acúmulo desses poluentes."
+      ],
+      "commonPitfalls": [
+        "Confundir tecido ósseo como local de acúmulo por ser estável, mas ele não é rico em gordura.",
+        "Pensar no tecido nervoso como principal local porque possui lipídios na bainha de mielina, mas sua quantidade é menor que no tecido adiposo.",
+        "Associar o tecido epitelial como acumulador apenas por estar em contato com o ambiente externo, esquecendo que não é rico em gordura.",
+        "Acreditar que o sangue acumula poluentes, confundindo transporte com acúmulo."
+      ],
+      "teachingTips": [
+        "Explique o conceito de solubilidade, reforçando que \"semelhante dissolve semelhante\" – substâncias lipossolúveis se acumulam em tecidos gordurosos.",
+        "Utilize exemplos práticos, como a bioacumulação de toxinas no tecido adiposo de animais.",
+        "Apresente os tipos de tecidos e suas características principais, focando na composição lipídica.",
+        "Discuta a diferença entre transporte (como no sangue) e armazenamento/acúmulo em tecidos específicos.",
+        "Estimule os alunos a relacionarem informações do texto com seus conhecimentos prévios de química e biologia, promovendo uma leitura crítica do enunciado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1320,
+    "outputTokens": 439,
+    "estimatedCostUsd": 0.00123
+  }
+}

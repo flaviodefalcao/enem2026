@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:42:01.158Z",
+  "questionId": "enem-2024-ciencias-natureza-q135",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Genética e hereditariedade",
+    "rationale": "A questão aborda um exemplo clássico de herança genética, especificamente uma característica determinada por um gene recessivo ligado ao cromossomo X (daltonismo). A habilidade destacada é o reconhecimento de mecanismos de transmissão da vida e a previsão ou explicação da manifestação de características dos seres vivos, o que está diretamente relacionado ao tema de Genética e hereditariedade na Área de Ciências da Natureza.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 28224,
+    "outputTokens": 104,
+    "estimatedCostUsd": 0.011456
+  }
+}

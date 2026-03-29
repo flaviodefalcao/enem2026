@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:44:09.644Z",
+  "questionId": "enem-2024-ciencias-natureza-q119",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta porque a região deformável (crumple zone) do carro é projetada para absorver a energia cinética durante a colisão, reduzindo a força transmitida aos ocupantes e aumentando a segurança.",
+        "strategy": "Analisar o papel do crumple zone na física das colisões, entendendo conceitos de energia e quantidade de movimento, considerando o sistema isolado (carro, ocupantes e muro).",
+        "steps": [
+          "Identificar que o crumple zone é uma área que se deforma na colisão.",
+          "Reconhecer que durante a colisão a energia cinética do carro é dissipada na deformação da estrutura.",
+          "Entender que a absorção dessa energia diminui a força do impacto sobre os ocupantes, aumentando sua segurança.",
+          "Explicar que a quantidade de movimento do sistema é conservada, mas a energia transformada em deformação reduz o impacto direto aos ocupantes.",
+          "Concluir que o fator importante do crumple zone é a absorção da energia cinética, não a quantidade de movimento ou velocidade do sistema."
+        ],
+        "formulasUsed": [
+          "Ecin = (1/2)mv^2",
+          "Conservação da quantidade de movimento: m*v = constante",
+          "Força média: F = Δp/Δt (relacionada ao aumento do tempo de colisão)"
+        ],
+        "visualEvidenceUsed": [
+          "Figura mostrando a região deformável do carro (crumple zone) sendo a parte da frente que se deforma contra o muro."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O crumple zone, ou zona de deformação, é uma parte do carro projetada para se deformar durante uma colisão, absorvendo a energia cinética do impacto. Isso reduz a força transmitida aos ocupantes, aumentando sua segurança, pois o impacto fica menos violento para quem está dentro do veículo.",
+        "stepByStep": [
+          "Identifique que o crumple zone é a região frontal do carro que se deforma na colisão.",
+          "Reconheça que a energia cinética do carro é dissipada na deformação dessa região.",
+          "Entenda que essa absorção de energia diminui a força do impacto transmitida aos ocupantes do carro.",
+          "Saiba que a quantidade de movimento do sistema (carro, ocupantes e muro) é conservada, mas a energia cinética é transformada em outras formas, como energia de deformação.",
+          "Conclua que a principal função do crumple zone é aumentar o tempo da colisão e reduzir a força exercida sobre os passageiros, garantindo maior segurança."
+        ],
+        "commonPitfalls": [
+          "Confundir a função do crumple zone com a dos airbags, pensando que a zona de deformação aciona diretamente os airbags.",
+          "Misturar conceitos de quantidade de movimento com energia cinética, acreditando que a deformação reduz a quantidade de movimento do sistema.",
+          "Interpretar o crumple zone como uma barreira rígida que impede o impacto, em vez de uma região que absorve a energia do choque.",
+          "Achar que a deformação do carro muda a velocidade do centro de massa do sistema isolado, ignorando a conservação da quantidade de movimento."
+        ],
+        "teachingTips": [
+          "Use modelos ou vídeos de colisões reais para ilustrar como as zonas de deformação funcionam.",
+          "Explique claramente a diferença entre quantidade de movimento (conservada) e energia cinética (pode ser transformada).",
+          "Mostre o papel do tempo na colisão e como aumentar o tempo reduz a força do impacto (F = Δp/Δt).",
+          "Relacionar o conceito do crumple zone com outros dispositivos de segurança para diferenciar suas funções.",
+          "Incentive os alunos a analisar sistemas isolados e identificar quais grandezas físicas se conservam e quais se transformam."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode pensar que a zona de amassamento aciona diretamente os airbags, porque ambos estão relacionados à segurança.",
+          "misconceptionType": "Causalidade incorreta",
+          "whyItLooksPlausible": "Ambos são dispositivos de segurança que atuam na colisão do carro.",
+          "whyItIsWrong": "O crumple zone não aciona airbags; eles são ativados por sensores que detectam desaceleração rápida, independentes da deformação estrutural."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Confusão entre quantidade de movimento e energia cinética, supondo que a deformação consome quantidade de movimento.",
+          "misconceptionType": "Confusão conceitual de grandezas físicas",
+          "whyItLooksPlausible": "A quantidade de movimento está associada ao impacto e à colisão.",
+          "whyItIsWrong": "A quantidade de movimento do sistema isolado é conservada; o crumple zone absorve energia cinética, não consome quantidade de movimento."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que a parte de deformação age como uma barreira física que protege os ocupantes diretamente.",
+          "misconceptionType": "Interpretação literal do termo 'barreira'",
+          "whyItLooksPlausible": "Uma barreira pode ser entendida como algo que impede o impacto.",
+          "whyItIsWrong": "O crumple zone não é uma barreira rígida, mas uma parte que se deforma para absorver energia, não impedir fisicamente o impacto."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Supor que a mecanica do carro desacelera o centro de massa do sistema diretamente pela deformação.",
+          "misconceptionType": "Confusão entre velocidade e energia dissipadas",
+          "whyItLooksPlausible": "A velocidade diminui durante a colisão.",
+          "whyItIsWrong": "A velocidade do centro de massa do sistema isolado (carro + muro) é determinada pela conservação da quantidade de movimento; a deformação dissipa energia, mas não altera a velocidade do centro de massa do sistema isolado."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Física - Cinemática e Dinâmica",
+        "secondarySkills": [
+          "Interpretação de diagramas",
+          "Energia e quantidade de movimento"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Entendimento físico do funcionamento das zonas de deformação em colisões.",
+          "Diferença entre conservação da quantidade de movimento e dissipação de energia.",
+          "Análise de um sistema isolado em colisão.",
+          "Uso de imagens para ilustrar o conceito de crumple zone e outros dispositivos de segurança."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🚗",
+        "shortThemeTitle": "Zonas de Deformação e Segurança em Colisões",
+        "interpretationIntro": "O enunciado apresenta a função das zonas de deformação (crumple zones) em carros modernos e questiona por que elas aumentam a segurança dos passageiros durante uma colisão.",
+        "commandTerms": [
+          {
+            "term": "Considerar",
+            "explanation": "Analisar o sistema descrito (carro, ocupantes e muro) de forma isolada para entender o fenômeno físico envolvido."
+          },
+          {
+            "term": "Deformação",
+            "explanation": "Alteração da forma estrutural do veículo para absorver energia do impacto."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para explicar como a deformação da estrutura do carro, por meio da zona de deformação, contribui para a segurança dos ocupantes durante a colisão, no contexto do sistema isolado (carro, ocupantes e muro).",
+        "strategyParagraph": "Para resolver a questão, deve-se analisar a colisão considerando conservação da quantidade de movimento e transformação da energia cinética em energia de deformação. A zona de deformação absorve essa energia, aumentando o tempo de impacto e assim reduzindo a força aplicada nos passageiros, o que os protege. Entender claramente a diferença entre quantidade de movimento (conservada no sistema isolado) e energia cinética (que pode ser dissipada) é essencial para responder corretamente.",
+        "reviewTable": [
+          {
+            "concept": "Conservação da quantidade de movimento",
+            "keyIdea": "Em sistemas isolados, a quantidade de movimento total é constante durante a colisão.",
+            "application": "O sistema carro, ocupantes e muro desacelera mas mantém quantidade de movimento constante."
+          },
+          {
+            "concept": "Energia cinética",
+            "keyIdea": "Energia que depende da velocidade do corpo e pode se transformar em outras formas.",
+            "application": "A energia cinética do carro é dissipada na deformação das zonas de crumple."
+          },
+          {
+            "concept": "Tempo de colisão e força média",
+            "keyIdea": "Aumentar o tempo de colisão diminui a força média sobre os ocupantes (F = Δp/Δt).",
+            "application": "A zona de deformação aumenta o tempo do impacto, reduzindo a força sofrida pelos passageiros."
+          }
+        ],
+        "theoryParagraphs": [
+          "Durante uma colisão, se considerarmos o carro, os ocupantes e o muro como um sistema isolado, a quantidade de movimento total se conserva. Isso significa que, apesar da desaceleração, a soma do momento dos elementos do sistema antes e depois da colisão permanece constante.",
+          "A energia cinética do carro, que depende de sua massa e velocidade, é convertida em outras formas de energia na colisão. A zona de deformação é uma região projetada para se deformar de modo controlado, absorvendo parte dessa energia, o que reduz a energia direta transmitida aos ocupantes.",
+          "Ao aumentar o tempo de duração do impacto pela deformação da estrutura, a força média atuante nos passageiros diminui, reduzindo o risco de ferimentos graves. Essa é a principal função das crumple zones em carros modernos."
+        ],
+        "resolutionParagraphs": [
+          "Inicialmente, identificamos que a zona de deformação (crumple zone) é projetada para deformar-se na colisão.",
+          "Com a deformação ocorrerá a dissipação da energia cinética do carro, que não será transmitida integralmente aos ocupantes, protegendo-os de forças muito intensas.",
+          "O sistema isolado (carro, ocupantes e muro) conserva a quantidade de movimento, mas a energia cinética será transformada em energia de deformação, somada a outras formas de energia, evitando um impacto violento direto.",
+          "Por fim, essa dissipação faz com que o tempo total da colisão aumente, diminuindo a força média atuante sobre os ocupantes, o que torna o acidente menos agressivo para os passageiros.",
+          "Dessa forma, conclui-se que a deformação permite absorver a energia do impacto, protegendo os passageiros, o que confirma a alternativa B."
+        ],
+        "puloDoGato": "A chave é entender que aumentar o tempo da colisão pela deformação reduz a força sobre os passageiros, aumentando a segurança.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Errado. O crumple zone não aciona diretamente os airbags, que funcionam por sensores independentes."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Correto. A zona deformável absorve parte da energia cinética, reduzindo a força transmitida aos ocupantes."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errado. A quantidade de movimento do sistema é conservada, e a deformação absorve energia, não quantidade de movimento."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errado. A zona de deformação não é uma barreira rígida, mas uma parte que se deforma para absorver energia."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errado. A velocidade do centro de massa do sistema isolado é conservada; a deformação dissipa energia, mas não muda essa velocidade."
+          }
+        ],
+        "questionCode": "CN_FISICA_MULTIPLAESCOLHA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica, a explicação didática e a resolução oficial estão coerentes, com informações adequadas e corretas. A questão aborda o tema físico de forma clara e didática, as alternativas estão devidamente comentadas, e não há contradições ou erros em conceitos fundamentais.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3490,
+    "outputTokens": 2482,
+    "estimatedCostUsd": 0.005367
+  }
+}

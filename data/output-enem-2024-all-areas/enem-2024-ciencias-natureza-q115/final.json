@@ -1,0 +1,203 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q115",
+  "generatedAt": "2026-03-28T22:38:42.391Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 613,
+      "outputTokens": 882,
+      "estimatedCostUsd": 0.001656
+    },
+    "explainer": {
+      "inputTokens": 1393,
+      "outputTokens": 540,
+      "estimatedCostUsd": 0.001421
+    },
+    "reviewer": {
+      "inputTokens": 2864,
+      "outputTokens": 2617,
+      "estimatedCostUsd": 0.005333
+    },
+    "totalEstimatedCostUsd": 0.00841
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "Correto, pois calcula-se a massa total de NaCl na receita e a partir disso encontra-se a massa correspondente a uma colher pequena.",
+      "strategy": "Determinar a massa total de NaCl na solução com base na concentração de íon sódio dada, depois calcular a massa correspondente a uma colher pequena (de café).",
+      "steps": [
+        "Converter a concentração de íon sódio para massa total: concentração é 1,4 mg/mL em 2 L (2000 mL).",
+        "Massa total de Na = 1,4 mg/mL × 2000 mL = 2800 mg = 2,8 g de Na.",
+        "Calcular a massa molar e a proporção entre Na e NaCl para encontrar a massa total de NaCl.",
+        "Massa molar NaCl = 58,5 g/mol; Na = 23 g/mol.",
+        "Razão de massa de NaCl para Na = 58,5 / 23 = aproximadamente 2,54.",
+        "Massa total de NaCl = 2,8 g × 2,54 = aproximadamente 7,1 g.",
+        "Sabendo que a receita tem 2 colheres pequenas de sal, massa por colher pequena = 7,1 g / 2 = 3,55 g.",
+        "O valor mais próximo na questão é 3,6 g, alternativa D."
+      ],
+      "formulasUsed": [
+        "m(Na) = concentração(Na) × volume",
+        "m(NaCl) = m(Na) × (Massa molar NaCl / Massa molar Na)",
+        "m_por_colher = m_total / número de colheres"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a massa de sal em uma colher pequena, calculamos primeiro a massa total de sódio na solução usando sua concentração e o volume total, depois usamos a proporção da massa molar para obter a massa total de NaCl e dividimos pela quantidade de colheres pequenas na receita.",
+      "stepByStep": [
+        "Converter o volume total da solução para mililitros (2 L = 2000 mL).",
+        "Multiplicar a concentração de íon sódio (1,4 mg/mL) pelo volume total para achar a massa total de sódio: 1,4 mg/mL × 2000 mL = 2800 mg = 2,8 g.",
+        "Calcular a relação entre a massa molar do NaCl e a do sódio para determinar a massa total de NaCl: 58,5 g/mol ÷ 23 g/mol ≈ 2,54.",
+        "Multiplicar a massa de sódio pela razão para obter a massa total de NaCl: 2,8 g × 2,54 ≈ 7,1 g.",
+        "Como há 2 colheres pequenas na receita, dividir a massa total pelo número de colheres: 7,1 g ÷ 2 = 3,55 g.",
+        "A massa mais próxima para uma colher pequena é 3,6 g, que é a resposta correta."
+      ],
+      "commonPitfalls": [
+        "Confundir a massa de sódio com a massa total de NaCl, esquecendo de incluir o cloro que também compõe o sal.",
+        "Não converter corretamente as unidades de volume (litros para mililitros) ou massa (mg para g).",
+        "Dividir a massa total de sal pelo número errado de colheres pequenas.",
+        "Assumir que a concentração dada se refere à massa de NaCl em vez da massa de sódio.",
+        "Esquecer que a receita inclui duas colheres pequenas, não uma só."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre íon (Na+) e o composto molecular (NaCl) e a importância da proporção entre eles na massa.",
+        "Use exemplos práticos para exercitar conversão de unidades, principalmente entre mililitros, litros, miligramas e gramas.",
+        "Ensine a identificar corretamente o volume total e a quantidade de colheres para dividir a massa total do ingrediente adequadamente.",
+        "Incentive a escrita e uso das fórmulas para relacionar concentração, volume e massa, fortalecendo o raciocínio lógico.",
+        "Trabalhe com questões similares que envolvam estequiometria e solução para fixar o conceito de relação entre substâncias em uma solução."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Foram confundidas as unidades ou considerado apenas a massa de sódio sem converter para NaCl.",
+        "misconceptionType": "Erro de conversão e interpretação de massa molecular",
+        "whyItLooksPlausible": "Confunde-se a massa do sódio com a do sal e supõe-se muito menor quantidade por colher.",
+        "whyItIsWrong": "A massa do NaCl é maior que a do sódio puro, devido ao cloro; esse valor é muito pequeno comparado ao real."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Considerou-se a massa total de sódio, mas não a proporção para o NaCl ou erro no número de colheres.",
+        "misconceptionType": "Falha no ajuste da quantidade por colher e conversão molecular",
+        "whyItLooksPlausible": "Baseado no cálculo direto da massa do sódio presente, sem ajustes para NaCl.",
+        "whyItIsWrong": "Não leva em conta a massa do cloro que compõe o NaCl, o que aumenta o valor total."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Considerou a massa total de NaCl mas dividiu erradamente por número de colheres.",
+        "misconceptionType": "Erro operacional na divisão da massa total por colheres",
+        "whyItLooksPlausible": "Aproximação do cálculo da massa total dividido por um número incorreto de colheres.",
+        "whyItIsWrong": "Dividiu de forma errada, levando a valor inferior ao correto por colher pequena."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Assumiu erroneamente que o valor dado é para apenas uma colher pequena e não para duas.",
+        "misconceptionType": "Confusão no número de colheres usadas na receita",
+        "whyItLooksPlausible": "Soma total do sal usada na receita pode ser confundida como valor para uma só colher.",
+        "whyItIsWrong": "O valor é para as duas colheres pequenas, dividindo por duas temos o correto por colher."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Química - Estequiometria e concentração de soluções",
+      "secondarySkills": [
+        "Matemática - Conversão de unidades",
+        "Raciocínio lógico - Relação entre grandezas"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão exige compreensão da relação entre íon e composto molecular.",
+        "Importante interpretar corretamente as unidades e quantidade total da solução.",
+        "Requer conhecimento de massa molar e cálculo estequiométrico."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "⚗️",
+      "shortThemeTitle": "Estequiometria e concentração de soluções",
+      "interpretationIntro": "A questão solicita o cálculo da massa de cloreto de sódio presente em uma colher pequena da receita de soro caseiro, a partir da concentração de íon sódio e das quantidades dadas.",
+      "commandTerms": [
+        {
+          "term": "Calcular",
+          "explanation": "Determinar o valor quantitativo solicitado através de operações matemáticas."
+        },
+        {
+          "term": "Concentração",
+          "explanation": "Quantidade de soluto presente em determinado volume de solução, aqui usada para o íon sódio."
+        },
+        {
+          "term": "Massa molar",
+          "explanation": "Massa em gramas de um mol de uma substância, necessária para relacionar a quantidade de sódio e NaCl."
+        }
+      ],
+      "whatTheQuestionAsks": "Qual é a massa, em gramas, de cloreto de sódio (NaCl) contida em uma única colher pequena da receita dada?",
+      "strategyParagraph": "Para responder, devemos inicialmente calcular a massa total de sódio na solução utilizando a concentração fornecida e o volume total. Em seguida, usando a relação das massas molares entre Na e NaCl, determinamos a massa total do sal na receita. Por fim, como a receita usa duas colheres pequenas de sal, dividimos essa massa total por dois para obter a massa presente em uma colher pequena.",
+      "reviewTable": [
+        {
+          "concept": "Concentração e volume",
+          "keyIdea": "Multiplicar concentração pela quantidade total para obter massa do íon.",
+          "application": "Determinar a massa total de sódio presente na solução."
+        },
+        {
+          "concept": "Estequiometria",
+          "keyIdea": "Usar massas molares para relacionar massa do íon à do composto molecular.",
+          "application": "Calcular a massa de NaCl com base na massa de sódio conhecida."
+        },
+        {
+          "concept": "Divisão proporcional",
+          "keyIdea": "Dividir massa total pela quantidade de colheres para achar massa por colher.",
+          "application": "Encontrar a massa de NaCl em uma única colher pequena da receita."
+        }
+      ],
+      "theoryParagraphs": [
+        "A concentração expressa em mg/mL indica a quantidade de soluto (neste caso, o íon sódio) por mililitro de solução. Multiplicando-se essa concentração pelo volume total da solução, obtém-se a massa total desse soluto presente.",
+        "Cada composto químico é formado por elementos em proporções definidas. Para converter a massa do íon sódio na massa do sal NaCl, usa-se a proporção entre as massas molares (NaCl e Na). Isso se fundamenta na estequiometria, que permite relacionar a quantidade de um elemento à do composto em que está inserido.",
+        "Finalmente, uma receita pode conter quantidades medidas em colheres, e é fundamental dividir corretamente a massa total pelo número de porções para determinar o valor pedido por porção, garantindo precisão no resultado final."
+      ],
+      "resolutionParagraphs": [
+        "Primeiro, converte-se o volume da solução para mililitros: 2 L correspondem a 2000 mL.",
+        "Multiplica-se a concentração do íon sódio (1,4 mg/mL) pelo volume total para obter a massa total de sódio: 1,4 mg/mL × 2000 mL = 2800 mg, que equivale a 2,8 g.",
+        "Em seguida, calcula-se a razão entre a massa molar do NaCl e a do Na: 58,5 g/mol ÷ 23 g/mol ≈ 2,54, que representa a relação entre a massa total do sal e do sódio.",
+        "Multiplica-se a massa total de sódio pela razão calculada para encontrar a massa total de NaCl: 2,8 g × 2,54 ≈ 7,1 g.",
+        "Por fim, como a receita usa duas colheres pequenas de sal, divide-se a massa total por 2 para encontrar a massa em uma colher pequena: 7,1 g ÷ 2 = 3,55 g.",
+        "A alternativa que apresenta o valor mais próximo de 3,55 g é a letra D, com 3,6 g, sendo assim a resposta correta."
+      ],
+      "puloDoGato": "Converter primeiro a massa do sódio total e usar a proporção das massas molares para garantir que o cálculo considere o sal completo, dividindo pelo número correto de colheres.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Valor incorreto por não incluir a massa de cloro ao calcular a massa de NaCl, considerando só o sódio."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Considera a massa total de sódio, mas esquece de converter para a massa total do sal (NaCl) ou erra na quantidade por colher."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Erra na divisão da massa total de NaCl pelo número de colheres, resultando em valor inferior ao correto."
+        },
+        {
+          "option": "D",
+          "isCorrect": true,
+          "explanation": "Correta, pois calcula a massa total do sal a partir da concentração de sódio e divide corretamente pela quantidade de colheres pequenas."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Confunde a massa total de sal para duas colheres com a massa para apenas uma colher, superestimando o valor por unidade."
+        }
+      ],
+      "questionCode": "CN_EST_SOL_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, solução técnica e explicação didática estão coerentes entre si e com o comando da questão. Todos os conceitos e cálculos necessários foram contemplados de forma clara e precisa. As alternativas foram corretamente comentadas, destacando a correta e os erros das demais, alinhando-se ao que a questão pede.",
+      "issues": []
+    }
+  }
+}

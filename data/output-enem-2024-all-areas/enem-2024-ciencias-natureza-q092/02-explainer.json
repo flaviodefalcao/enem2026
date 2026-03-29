@@ -1,0 +1,35 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:24:18.285Z",
+  "questionId": "enem-2024-ciencias-natureza-q092",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Nesta questão, temos uma mistura formada por um sólido pouco solúvel, o hidróxido de magnésio (Mg(OH)₂), suspenso em uma solução aquosa que contém íons cálcio (Ca²⁺). Para separar esse sólido do líquido, o método mais adequado é a filtração, que permite reter o sólido em um filtro enquanto o líquido passa.",
+      "stepByStep": [
+        "Identifique os componentes da mistura: Mg(OH)₂ (sólido) e Ca²⁺ (aq).",
+        "Reconheça que o hidróxido de magnésio está em suspensão sólida, e o cálcio está dissolvido na água.",
+        "Lembre que filtração é um processo físico que separa sólidos não dissolvidos de líquidos.",
+        "Selecione a filtração para separar o sólido da solução, descartando métodos inadequados como catação, destilação, dissolução e evaporação."
+      ],
+      "commonPitfalls": [
+        "Confundir catação com filtração e pensar que catação serve para separar sólidos de líquidos.",
+        "Achar que a destilação funciona para separar sólidos insolúveis em suspensões aquosas.",
+        "Pensar que dissolução separa misturas, quando na verdade mistura componentes.",
+        "Considerar a evaporação como mais prática que a filtração para retirar sólidos pouco solúveis suspensos."
+      ],
+      "teachingTips": [
+        "Explique claramente os estados físicos dos componentes para facilitar a escolha do método.",
+        "Use exemplos práticos para diferenciar catação (sólido+sólido) e filtração (sólido+lìquido).",
+        "Mostre a importância da solubilidade e do estado físico para determinar o processo correto.",
+        "Reforce que métodos físicos não alteram as substâncias, apenas as separam."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1265,
+    "outputTokens": 371,
+    "estimatedCostUsd": 0.0011
+  }
+}

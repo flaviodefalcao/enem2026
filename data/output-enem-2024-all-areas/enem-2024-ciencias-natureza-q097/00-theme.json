@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:31:26.992Z",
+  "questionId": "enem-2024-ciencias-natureza-q097",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão aborda a classificação metabólica de bactérias com base em seu padrão de distribuição em tubos de ensaio, que está diretamente relacionado ao metabolismo energético e à fisiologia dos microrganismos. Isso envolve a compreensão dos processos biológicos e a interpretação experimental de modelos biológicos, enquadrando-se em 'Fisiologia e saúde' dentro da Biologia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1055,
+    "outputTokens": 97,
+    "estimatedCostUsd": 0.000577
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:24:35.220Z",
+  "questionId": "enem-2024-ciencias-natureza-q106",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Quando Calvin solta o balanço, ele passa a se mover em uma trajetória parabólica sob a ação da gravidade. Ao tocar o chão, a força que o chão exerce sobre ele (força normal) é para cima, mas também tem uma componente para a direita, contrária ao seu movimento, que representa a reação do impacto e o impulso para deter sua queda.",
+      "stepByStep": [
+        "Calvin inicialmente está em movimento circular no balanço.",
+        "Ao soltar o balanço, ele passa a se movimentar em uma trajetória parabólica, típica de um projétil sob a ação só da gravidade.",
+        "Durante a queda, a única força atuando é a força gravitacional para baixo.",
+        "No momento do contato com o chão, este exerce uma força de reação (força normal) que aponta para cima para suportar o peso de Calvin.",
+        "Como Calvin ainda tem velocidade horizontal, essa força do chão também tem uma componente na direção oposta ao movimento horizontal para desacelerá-lo.",
+        "Portanto, o vetor força resultante no impacto tem direção diagonal para cima e para a direita."
+      ],
+      "commonPitfalls": [
+        "Confundir a força com a direção do movimento: a força do chão não é necessariamente para trás, mas para cima e contra o movimento para parar Calvin.",
+        "Ignorar a componente horizontal da força do chão e considerar apenas a força vertical.",
+        "Achar que a força do chão pode ser para trás ou somente horizontal sem componente vertical.",
+        "Pensar que a força é a gravidade ou atrito em vez da força normal na reação do impacto."
+      ],
+      "teachingTips": [
+        "Use o contexto da tirinha para visualizar o movimento e relacionar com os conceitos físicos.",
+        "Explique a diferença entre força, velocidade e aceleração para evitar confusão.",
+        "Mostre a decomposição vetorial das forças no momento do impacto.",
+        "Utilize exemplos práticos e experiências simples para ilustrar a força normal na reação ao impacto.",
+        "Destaque a importância de análise vetorial das forças atuantes, não apenas da direção do movimento."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2886,
+    "outputTokens": 416,
+    "estimatedCostUsd": 0.00182
+  }
+}

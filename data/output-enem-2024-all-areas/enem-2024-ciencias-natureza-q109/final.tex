@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão 109 — ENEM 2024 — Ciências da Natureza}
+
+\subsection*{Interpretação e Estratégia}
+
+O objetivo é identificar o circuito que permita que dois LEDs com tensão de funcionamento 3,0 V e corrente máxima 1,0 mA acendam simultaneamente em um circuito alimentado por uma bateria ideal de 4,5 V.
+
+Para isso, devemos garantir que cada LED seja submetido à sua tensão mínima de funcionamento e que a corrente não ultrapasse o máximo, o que requer a presença de resistores adequados e a correta associação dos LEDs.
+
+\subsection*{Conteúdo e Mini Revisão}
+
+\begin{itemize}
+  \item \textbf{LED:} Dispositivo semicondutor que conduz corrente elétrica em um único sentido e só acende se a tensão aplicada for igual ou maior que sua tensão de funcionamento.
+  \item \textbf{Lei de Ohm:} $V = R I$, relaciona tensão, corrente e resistência.
+  \item \textbf{Circuitos em paralelo:} Mantêm a mesma tensão nos componentes, enquanto a corrente se divide.
+\end{itemize}
+
+\subsection*{Resolução e Pulo do Gato}
+
+Dado $V_{bateria} = 4,5$ V, $V_{LED} = 3,0$ V, corrente máxima $I_{máx} = 1,0$ mA e resistores de $1,5\,k\Omega$, temos:
+
+\[
+R = \frac{4,5 - 3}{0,001} = 1,5\,k\Omega
+\]
+
+Conectar os LEDs em paralelo, cada um em série com um resistor de $1,5\,k\Omega$, garante a tensão correta para cada LED e limita a corrente ao valor máximo.
+
+\textit{Pulo do gato:} Nunca ligue LEDs em série se a tensão da fonte não for suficiente para a soma das tensões de funcionamento; e associe sempre resistores individuais a LEDs em paralelo para limitar correntes.
+
+\subsection*{Armadilhas}
+
+Como comuns erros, destacam-se:
+
+\begin{itemize}
+  \item Omissão do resistor para limitador de corrente.
+  \item Polaridade errada do LED, impedindo seu funcionamento.
+  \item Ligações em série com tensão insuficiente.
+  \item Configurações que não garantem corrente e tensão adequadas a cada LED.
+\end{itemize}
+
+\subsection*{Código da Questão}
+
+\texttt{CIENCIAS\_DA\_NATUREZA\_ELETRICIDADE\_001}
+
+
+\end{document}

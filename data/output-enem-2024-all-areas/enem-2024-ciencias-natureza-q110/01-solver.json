@@ -1,0 +1,88 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:31:26.406Z",
+  "questionId": "enem-2024-ciencias-natureza-q110",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "Correta com base na análise de tensões e resistências.",
+      "strategy": "Usar as relações de potência e tensão para obter corrente e resistência das lâmpadas; aplicar leis de circuitos série e paralelo para encontrar ponto da ligação que mantém tensões originais nas lâmpadas.",
+      "steps": [
+        "Calcular corrente em cada lâmpada pela fórmula I = P/V.",
+        "Determinar resistência de cada lâmpada: R = V/I.",
+        "Somar resistências para circuito em série.",
+        "Identificar que o fio QR está em paralelo à bateria e que o amperímetro ligado em pontos do fio pode variar a tensão em P.",
+        "Dividir o fio em seis segmentos iguais e associar quedas de tensão proporcionais.",
+        "Encontrar ponto no fio QR que preserve tensão original em cada lâmpada, coincidente com ponto B.",
+        "Confirmar que em B a queda de tensão evita alterações nas tensões das lâmpadas."
+      ],
+      "formulasUsed": [
+        "I = P / V",
+        "R = V / I",
+        "Lei de Ohm: V = R * I",
+        "Circuito série: resistências somam",
+        "Circuito paralelo: tensões iguais"
+      ],
+      "visualEvidenceUsed": [
+        "Divisão do fio QR em seis segmentos iguais entre Q e R",
+        "Posição do amperímetro P conectado entre as lâmpadas e terminal S ligado ao fio QR em diferentes pontos"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolha de ponto próximo a Q acreditando diminuir tensão demais.",
+        "misconceptionType": "Entendimento incorreto da divisão de tensão em resistores paralelos.",
+        "whyItLooksPlausible": "Parece que quanto mais próximo ao início do fio QR, melhor controle da tensão.",
+        "whyItIsWrong": "A tensão nessa posição não mantém a tensão correta para ambas lâmpadas."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Interpretação errada da divisão de tensão no fio, escolhendo ponto central.",
+        "misconceptionType": "Confusão sobre equilíbrios de tensão em paralelo.",
+        "whyItLooksPlausible": "Localização central pode parecer equidistante para manter tensões.",
+        "whyItIsWrong": "Não preserva as tensões exatas das lâmpadas conforme as potências."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Seleção por proximidade a R para ajustar tensão.",
+        "misconceptionType": "Falta de análise correta das quedas de tensão na resistência do fio.",
+        "whyItLooksPlausible": "Parece que esta posição pode equalizar tensões.",
+        "whyItIsWrong": "Tensão aplicada nas lâmpadas não corresponde à especificação."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confusão no posicionamento final, pensando em maximizar a queda de tensão.",
+        "misconceptionType": "Erro na aplicação das leis de circuitos em série e paralelo.",
+        "whyItLooksPlausible": "Último ponto do fio pode ser visto como próximo de referência de tensão.",
+        "whyItIsWrong": "Não mantém as condições de operação das lâmpadas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de circuitos elétricos (série e paralelo)",
+      "secondarySkills": [
+        "Cálculo de corrente e resistência",
+        "Aplicação das leis de Ohm",
+        "Interpretação de diagramas de circuitos"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": true,
+      "requiresCalculation": true,
+      "notes": [
+        "Necessita interpretar o diagrama fornecido",
+        "Requer conhecimentos básicos de eletricidade",
+        "Importante entender como as ligações em paralelo alteram tensões"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1169,
+    "outputTokens": 743,
+    "estimatedCostUsd": 0.001656
+  }
+}

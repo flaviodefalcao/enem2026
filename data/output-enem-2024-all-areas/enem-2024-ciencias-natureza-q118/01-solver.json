@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:42:15.821Z",
+  "questionId": "enem-2024-ciencias-natureza-q118",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A imagem formada é real e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem é 7,6 cm.",
+      "strategy": "Analisar a formação da imagem por dois espelhos côncavos posicionados de modo que o vértice de um coincide com o foco do outro e vice-versa, e usar as dimensões dadas para determinar a distância vertical e a natureza da imagem.",
+      "steps": [
+        "Identificar que os espelhos E₁ e E₂ são côncavos, com o vértice de E₁ coincidindo com o foco de E₂, e vice-versa.",
+        "Observar que o objeto está sobre o vértice de E₁ e os raios refletem de E₂ e depois de E₁, formando a imagem 3D.",
+        "Notar que a distância vertical total entre os espelhos é dada por 3,8 cm + 3,8 cm = 7,6 cm.",
+        "Considerar que a imagem formada é real porque os raios se cruzam fisicamente formando a imagem frente ao observador dentro dos espelhos.",
+        "Concluir que a distância vertical entre cada ponto do objeto e do correspondente ponto imagem é 7,6 cm e que a imagem é real."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Dimensões dadas: 5 cm abertura entre os espelhos, 3,8 cm distância vertical de cada espelho ao centro.",
+        "Posicionamento dos espelhos côncavos e trajetórias dos raios mostrando trajetória e formação da imagem."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Alguém pode pensar que a distância vertical é simplesmente o valor da abertura do espelho E₂, que é 5 cm, e considerar a imagem real.",
+        "misconceptionType": "Confusão entre as medidas do sistema e a distância vertical real na formação da imagem.",
+        "whyItLooksPlausible": "A distância de 5 cm aparece no esquema como a abertura da parte superior dos espelhos e poderia ser associada à distância vertical da imagem.",
+        "whyItIsWrong": "A distância verdadeira entre a imagem e o objeto é a soma das duas distâncias verticais de 3,8 cm, totalizando 7,6 cm."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir a distância vertical de 3,8 cm de apenas um dos espelhos com a distância completa entre objeto e imagem.",
+        "misconceptionType": "Uso incorreto ou parcial da informação dimensional fornecida.",
+        "whyItLooksPlausible": "3,8 cm é uma medida destacada na figura, facilmente tomada como correta se a soma não for considerada.",
+        "whyItIsWrong": "A distância entre ponto objeto e imagem é a soma dos 3,8 cm de cada espelho, totalizando 7,6 cm."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Considerar que a imagem é virtual porque a imagem tridimensional é percebida pelo observador sem ver o objeto real diretamente.",
+        "misconceptionType": "Confundir a percepção visual com a natureza real ou virtual da imagem em sistema óptico.",
+        "whyItLooksPlausible": "Na ótica, imagens tridimensionais são frequentemente associadas a imagens virtuais, levando a essa escolha errada.",
+        "whyItIsWrong": "Nesse sistema específico, a imagem é real pois os raios efetivamente convergem, como indicado pelo esquema e pelas dimensões."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Combinar a distância vertical de 3,8 cm com a ideia errada de que a imagem é virtual.",
+        "misconceptionType": "Erro duplo ao usar apenas a metade da distância vertical e errar a natureza da imagem.",
+        "whyItLooksPlausible": "Mistura de valores fornecidos com interpretações erradas da formação da imagem visualizada.",
+        "whyItIsWrong": "A imagem é real e a distância correta é 7,6 cm."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Óptica Geométrica - Formação de Imagens em Espelhos Côncavos",
+      "secondarySkills": [
+        "Interpretação de Diagramas",
+        "Raciocínio Espacial/Visualização 3D"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O aluno deve ser capaz de interpretar o arranjo dos espelhos e as dimensões dadas na figura.",
+        "Não são necessários cálculos complexos, mas sim a compreensão da formação da imagem e das distâncias envolvidas.",
+        "A questão envolve conhecimento de propriedades de espelhos côncavos e natureza de imagens reais e virtuais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1500,
+    "outputTokens": 960,
+    "estimatedCostUsd": 0.002136
+  }
+}

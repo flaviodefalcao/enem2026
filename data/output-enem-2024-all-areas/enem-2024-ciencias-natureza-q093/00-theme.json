@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:25:27.312Z",
+  "questionId": "enem-2024-ciencias-natureza-q093",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Ecologia e ambiente",
+    "rationale": "A questão aborda aspectos adaptativos de uma espécie de anfíbio introduzida em um ambiente urbano e seu comportamento sonoro relacionado a comunicação intraespécies, caracterizando uma interação ecológica e adaptativa em um novo habitat. Está diretamente relacionada à habilidade de associar características adaptativas dos organismos com seu modo de vida e limites de distribuição.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 947,
+    "outputTokens": 92,
+    "estimatedCostUsd": 0.000526
+  }
+}

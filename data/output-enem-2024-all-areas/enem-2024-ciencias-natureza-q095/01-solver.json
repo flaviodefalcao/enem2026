@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:28:47.129Z",
+  "questionId": "enem-2024-ciencias-natureza-q095",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque dentro do iglu a temperatura é mantida acima do ponto de solidificação da água (0°C), impedindo que a água congele naturalmente. Por isso, a geladeira é necessária para criar gelo para as crianças.",
+      "strategy": "Analisar as condições térmicas dentro do iglu e entender o motivo da necessidade da geladeira para produzir gelo. Interpretar a situação da tirinha e relações entre temperatura e mudança de estado da água.",
+      "steps": [
+        "Identificar que o iglu é feito de neve e gelo, geralmente com temperatura interna um pouco acima de zero grau Celsius, para isolamento e conforto.",
+        "Reconhecer que, por essa temperatura interna estar acima do ponto de congelamento da água, a água não congelará naturalmente dentro do iglu.",
+        "Observar que a geladeira dentro do iglu serve para baixar a temperatura local da água e criar gelo para as crianças.",
+        "Concluir que a alternativa correta é que a temperatura interna do iglu é maior que a de solidificação da água, e por isso, a geladeira é necessária."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Na tirinha, a presença da geladeira dentro do iglu indica necessidade de refrigeração artificial para congelar a água.",
+        "As crianças brincando com blocos de gelo feitos na geladeira como evidência da produção artificial de gelo."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode pensar que a umidade dentro do iglu interfere na solidificação da água e, portanto, justifica o uso da geladeira.",
+        "misconceptionType": "conceito incorreto sobre influência da umidade na mudança de fase",
+        "whyItLooksPlausible": "O iglu é feito de neve e gelo, então a umidade está presente e parece fazer sentido que possa afetar o congelamento.",
+        "whyItIsWrong": "A umidade não impede a solidificação; a questão principal é a temperatura estar acima do ponto de congelamento."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O aluno pode pensar que o ar dentro do iglu funciona como isolante térmico impedindo a perda de calor da água.",
+        "misconceptionType": "confusão entre isolamento térmico e processo de mudança de fase",
+        "whyItLooksPlausible": "O iglu é um isolante térmico reconhecido, o que sugere que poderia impedir o resfriamento da água.",
+        "whyItIsWrong": "Embora haja isolamento, a temperatura interna ainda está acima de 0°C; o isolamento não impede a necessidade de congelamento pela geladeira."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pode-se pensar que correntes de convecção impediriam o congelamento, e que a temperatura uniforme dentro do iglu é relevante.",
+        "misconceptionType": "interpretação errada do efeito de correntes de convecção na solidificação",
+        "whyItLooksPlausible": "A circulação do ar influencia a temperatura, e a ideia de que temperatura uniforme influencia faz sentido superficialmente.",
+        "whyItIsWrong": "A mudança de fase depende da temperatura e pressão, não da circulação do ar dentro do iglu."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O candidato pode supor que a pressão do ar baixa dentro do iglu dificulta a solidificação da água.",
+        "misconceptionType": "conceito errado sobre a influência da pressão atmosférica na solidificação da água",
+        "whyItLooksPlausible": "Sabendo que pressão altera o ponto de fusão, o candidato pode achar que isso é o motivo da geladeira ser necessária.",
+        "whyItIsWrong": "A pressão dentro do iglu é praticamente igual à pressão atmosférica externa; não é este o fator impeditivo para a solidificação da água."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação e análise de processos físicos (mudança de fase e temperatura)",
+      "secondarySkills": [
+        "Compreensão de propriedades térmicas de materiais",
+        "Raciocínio lógico sobre contexto físico e ambiental"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O texto e a tirinha são essenciais para entender o contexto e a justificativa da resposta.",
+        "É necessário saber que o ponto de congelamento da água é 0°C e que o iglu mantém temperatura interna um pouco mais alta.",
+        "Ambiente ilustrativo com elementos visuais importantes para ancorar a situação (iglu, geladeira, crianças)."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1320,
+    "outputTokens": 927,
+    "estimatedCostUsd": 0.002011
+  }
+}

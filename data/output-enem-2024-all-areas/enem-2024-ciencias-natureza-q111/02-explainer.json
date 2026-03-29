@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:32:53.711Z",
+  "questionId": "enem-2024-ciencias-natureza-q111",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para substituir 10 mols de etanol por biogás contendo 70% de metano, calculamos primeiro o volume e massa do etanol, depois determinamos o volume de biogás correspondente, extraímos o volume e a quantidade de mols de metano e, finalmente, calculamos sua massa. O resultado mais próximo é 510 g de metano.",
+      "stepByStep": [
+        "Calcule a massa de 10 mols de etanol: 10 mol × 46 g/mol = 460 g.",
+        "Calcule o volume de etanol usando a densidade: 460 g ÷ 0,78 g/mL ≈ 589,74 mL = 0,5897 L.",
+        "Use a relação de substituição entre biogás e etanol para encontrar o volume de biogás necessário: 0,5897 L etanol × (1 m³ biogás / 0,59 L etanol) ≈ 1 m³ de biogás.",
+        "Determine o volume de metano no biogás: 70% de 1 m³ = 0,7 m³ = 700 L.",
+        "Calcule os mols de metano usando o volume molar: 700 L ÷ 22 L/mol ≈ 31,82 mol.",
+        "Calcule a massa de metano: 31,82 mol × 16 g/mol ≈ 509 g, arredondado para 510 g."
+      ],
+      "commonPitfalls": [
+        "Confundir os volumes e não aplicar corretamente a porcentagem de metano no biogás.",
+        "Esquecer de converter unidades, especialmente entre mL, L e m³.",
+        "Não usar corretamente a densidade para converter massa em volume do etanol.",
+        "Ignorar o volume molar dos gases na conversão de volume para mols.",
+        "Arredondar os valores muito cedo, comprometendo a precisão do resultado final."
+      ],
+      "teachingTips": [
+        "Explique a importância de organizar os dados iniciais para facilitar o cálculo.",
+        "Enfatize o conceito de volume molar e sua aplicação em gases ideais.",
+        "Promova exercícios que envolvam conversão de unidades de massa, volume e concentração para consolidar o aprendizado.",
+        "Use esquemas visuais para representar a relação entre biogás, metano e etanol na substituição energética.",
+        "Incentive os alunos a verificar resultados intermediários para evitar erros acumulados durante cálculos complexos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1506,
+    "outputTokens": 506,
+    "estimatedCostUsd": 0.001412
+  }
+}

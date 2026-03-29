@@ -1,0 +1,2018 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2018/ENEM_2018_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2018,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Numa atividade de treinamento realizada no Exército\nde um determinado país, três equipes – Alpha, Beta\ne Gama – foram designadas a percorrer diferentes\ncaminhos, todos com os mesmos pontos de partida e de\nchegada.\n A equipe Alpha realizou seu percurso em 90 minutos\ncom uma velocidade média de 6,0 km/h.\n A equipe Beta também percorreu sua trajetória\nem 90 minutos, mas sua velocidade média foi\nde 5,0 km/h.\n Com uma velocidade média de 6,5 km/h, a equipe\nGama concluiu seu caminho em 60 minutos.\nCom base nesses dados, foram comparadas as\ndistâncias dBeta; dAlphae dGama percorridas pelas três equipes.\nA ordem das distâncias percorridas pelas equipes Alpha,\nBeta e Gama é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Numa atividade de treinamento realizada no Exército\nde um determinado país, três equipes – Alpha, Beta\ne Gama – foram designadas a percorrer diferentes\ncaminhos, todos com os mesmos pontos de partida e de\nchegada.\n A equipe Alpha realizou seu percurso em 90 minutos\ncom uma velocidade média de 6,0 km/h.\n A equipe Beta também percorreu sua trajetória\nem 90 minutos, mas sua velocidade média foi\nde 5,0 km/h.\n Com uma velocidade média de 6,5 km/h, a equipe\nGama concluiu seu caminho em 60 minutos.\nCom base nesses dados, foram comparadas as\ndistâncias dBeta; dAlphae dGama percorridas pelas três equipes.\nA ordem das distâncias percorridas pelas equipes Alpha,\nBeta e Gama é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "O colesterol total de uma pessoa é obtido pela\nsoma da taxa do seu “colesterol bom” com a taxa do\nseu “colesterol ruim”. Os exames periódicos, realizados\nem um paciente adulto, apresentaram taxa normal\nde “colesterol bom”, porém, taxa do “colesterol ruim”\nWDPEpP FKDPDGR /'/ GH PJ G/\n2 TXDGUR DSUHVHQWD XPD FODVVL¿FDomR GH DFRUGR FRP\nDV WD[DV GH /'/ HP DGXOWRV\nTaxa de LDL (mg/dL)\nÓtima\nMenor do que 100\n\n/LPLWH\nDe 130 a 159\nAlta\nDe 160 a 189\nMuito alta\n190 ou mais\n'LVSRQtYHO HP ZZZ PLQKDYLGD FRP EU $FHVVR HP RXW DGDSWDGR\nO paciente, seguindo as recomendações médicas\nVREUH HVWLOR GH YLGD H DOLPHQWDomR UHDOL]RX R H[DPH\nORJR DSyV R SULPHLUR PrV H D WD[D GH /'/ UHGX]LX\nNo mês seguinte, realizou novo exame e constatou uma\nUHGXomR GH PDLV QD WD[D GH /'/\nDe acordo com o resultado do segundo exame, a\nFODVVL¿FDomR GD WD[D GH /'/ GR SDFLHQWH p",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-137/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-137/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ótima.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "próxima de ótima.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "limite.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "alta.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "muito alta.",
+          "assets": []
+        }
+      ],
+      "rawText": "O colesterol total de uma pessoa é obtido pela\nsoma da taxa do seu “colesterol bom” com a taxa do\nseu “colesterol ruim”. Os exames periódicos, realizados\nem um paciente adulto, apresentaram taxa normal\nde “colesterol bom”, porém, taxa do “colesterol ruim”\nWDPEpP FKDPDGR /'/ GH PJ G/\n2 TXDGUR DSUHVHQWD XPD FODVVL¿FDomR GH DFRUGR FRP\nDV WD[DV GH /'/ HP DGXOWRV\nTaxa de LDL (mg/dL)\nÓtima\nMenor do que 100\n\n/LPLWH\nDe 130 a 159\nAlta\nDe 160 a 189\nMuito alta\n190 ou mais\n'LVSRQtYHO HP ZZZ PLQKDYLGD FRP EU $FHVVR HP RXW DGDSWDGR\nO paciente, seguindo as recomendações médicas\nVREUH HVWLOR GH YLGD H DOLPHQWDomR UHDOL]RX R H[DPH\nORJR DSyV R SULPHLUR PrV H D WD[D GH /'/ UHGX]LX\nNo mês seguinte, realizou novo exame e constatou uma\nUHGXomR GH PDLV QD WD[D GH /'/\nDe acordo com o resultado do segundo exame, a\nFODVVL¿FDomR GD WD[D GH /'/ GR SDFLHQWH p\n\nA. ótima.\nB. próxima de ótima.\nC. limite.\nD. alta.\nE. muito alta."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "statement": "Uma empresa deseja iniciar uma campanha\nSXEOLFLWiULD GLYXOJDQGR XPD SURPRomR SDUD VHXV\npossíveis consumidores. Para esse tipo de campanha,\nRV PHLRV PDLV YLiYHLV VmR D GLVWULEXLomR GH SDQÀHWRV\nQD UXD H DQ~QFLRV QD UiGLR ORFDO &RQVLGHUD VH TXH D\nSRSXODomR DOFDQoDGD SHOD GLVWULEXLomR GH SDQÀHWRV VHMD\nLJXDO j TXDQWLGDGH GH SDQÀHWRV GLVWULEXtGRV HQTXDQWR\nque a alcançada por um anúncio na rádio seja igual à\nquantidade de ouvintes desse anúncio. O custo de cada\nDQ~QFLR QD UiGLR p GH 5 H D HVWLPDWLYD p GH\nTXH VHMD RXYLGR SRU SHVVRDV -i D SURGXomR H\nD GLVWULEXLomR GRV SDQÀHWRV FXVWDP 5 FDGD\n1 000 unidades. Considerando que cada pessoa será\nDOFDQoDGD SRU XP ~QLFR GHVVHV PHLRV GH GLYXOJDomR D\nempresa pretende investir em ambas as mídias.\nConsidere X e Y os valores (em real) gastos em\nDQ~QFLRV QD UiGLR H FRP SDQÀHWRV UHVSHFWLYDPHQWH\nO número de pessoas alcançadas pela campanha será\nGDGR SHOD H[SUHVVmR",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-138/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-138/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-138/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-138/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-138/option-e-01.png",
+            "/generated/enem-2018/matematica/question-138/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "Uma empresa deseja iniciar uma campanha\nSXEOLFLWiULD GLYXOJDQGR XPD SURPRomR SDUD VHXV\npossíveis consumidores. Para esse tipo de campanha,\nRV PHLRV PDLV YLiYHLV VmR D GLVWULEXLomR GH SDQÀHWRV\nQD UXD H DQ~QFLRV QD UiGLR ORFDO &RQVLGHUD VH TXH D\nSRSXODomR DOFDQoDGD SHOD GLVWULEXLomR GH SDQÀHWRV VHMD\nLJXDO j TXDQWLGDGH GH SDQÀHWRV GLVWULEXtGRV HQTXDQWR\nque a alcançada por um anúncio na rádio seja igual à\nquantidade de ouvintes desse anúncio. O custo de cada\nDQ~QFLR QD UiGLR p GH 5 H D HVWLPDWLYD p GH\nTXH VHMD RXYLGR SRU SHVVRDV -i D SURGXomR H\nD GLVWULEXLomR GRV SDQÀHWRV FXVWDP 5 FDGD\n1 000 unidades. Considerando que cada pessoa será\nDOFDQoDGD SRU XP ~QLFR GHVVHV PHLRV GH GLYXOJDomR D\nempresa pretende investir em ambas as mídias.\nConsidere X e Y os valores (em real) gastos em\nDQ~QFLRV QD UiGLR H FRP SDQÀHWRV UHVSHFWLYDPHQWH\nO número de pessoas alcançadas pela campanha será\nGDGR SHOD H[SUHVVmR\n\nA.\nB.\nC.\nD.\nE. 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "O remo de assento deslizante é um esporte que faz\nuso de um barco e dois remos do mesmo tamanho.\n$ ¿JXUD PRVWUD XPD GDV SRVLo}HV GH XPD WpFQLFD\nchamada afastamento.\n\n'LVSRQtYHO HP ZZZ UHPREUDVLO FRP $FHVVR HP GH] DGDSWDGR\n1HVVD SRVLomR RV GRLV UHPRV VH HQFRQWUDP QR SRQWR\nA H VXDV RXWUDV H[WUHPLGDGHV HVWmR LQGLFDGDV SHORV\npontos B e C. Esses três pontos formam um triângulo\nABC cujo ângulo BÂCWHP PHGLGD GH \nO tipo de triângulo com vértices nos pontos A, B e C, no\nPRPHQWR HP TXH R UHPDGRU HVWi QHVVD SRVLomR p",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "retângulo escaleno.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "acutângulo escaleno.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "acutângulo isósceles.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "obtusângulo escaleno.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "obtusângulo isósceles.",
+          "assets": []
+        }
+      ],
+      "rawText": "O remo de assento deslizante é um esporte que faz\nuso de um barco e dois remos do mesmo tamanho.\n$ ¿JXUD PRVWUD XPD GDV SRVLo}HV GH XPD WpFQLFD\nchamada afastamento.\n\n'LVSRQtYHO HP ZZZ UHPREUDVLO FRP $FHVVR HP GH] DGDSWDGR\n1HVVD SRVLomR RV GRLV UHPRV VH HQFRQWUDP QR SRQWR\nA H VXDV RXWUDV H[WUHPLGDGHV HVWmR LQGLFDGDV SHORV\npontos B e C. Esses três pontos formam um triângulo\nABC cujo ângulo BÂCWHP PHGLGD GH \nO tipo de triângulo com vértices nos pontos A, B e C, no\nPRPHQWR HP TXH R UHPDGRU HVWi QHVVD SRVLomR p\n\nA. retângulo escaleno.\nB. acutângulo escaleno.\nC. acutângulo isósceles.\nD. obtusângulo escaleno.\nE. obtusângulo isósceles."
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "8P UDSD] HVWXGD HP XPD HVFROD TXH ¿FD ORQJH GH\nsua casa, e por isso precisa utilizar o transporte público.\nComo é muito observador, todos os dias ele anota a hora\nexata (sem considerar os segundos) em que o ônibus\npassa pelo ponto de espera. Também notou que nunca\nconsegue chegar ao ponto de ônibus antes de 6 h 15 min\nGD PDQKm $QDOLVDQGR RV GDGRV FROHWDGRV GXUDQWH R PrV\nGH IHYHUHLUR R TXDO WHYH GLDV OHWLYRV HOH FRQFOXLX TXH\nK PLQ IRL R TXH PDLV VH UHSHWLX H TXH D PHGLDQD GR\nFRQMXQWR GH GDGRV p K PLQ\nA probabilidade de que, em algum dos dias letivos de\nfevereiro, esse rapaz tenha apanhado o ônibus antes de\nK PLQ GD PDQKm p QR Pi[LPR",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-140/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-140/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-140/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-140/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-140/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "8P UDSD] HVWXGD HP XPD HVFROD TXH ¿FD ORQJH GH\nsua casa, e por isso precisa utilizar o transporte público.\nComo é muito observador, todos os dias ele anota a hora\nexata (sem considerar os segundos) em que o ônibus\npassa pelo ponto de espera. Também notou que nunca\nconsegue chegar ao ponto de ônibus antes de 6 h 15 min\nGD PDQKm $QDOLVDQGR RV GDGRV FROHWDGRV GXUDQWH R PrV\nGH IHYHUHLUR R TXDO WHYH GLDV OHWLYRV HOH FRQFOXLX TXH\nK PLQ IRL R TXH PDLV VH UHSHWLX H TXH D PHGLDQD GR\nFRQMXQWR GH GDGRV p K PLQ\nA probabilidade de que, em algum dos dias letivos de\nfevereiro, esse rapaz tenha apanhado o ônibus antes de\nK PLQ GD PDQKm p QR Pi[LPR\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "8P PDSD p D UHSUHVHQWDomR UHGX]LGD H VLPSOL¿FDGD\nGH XPD ORFDOLGDGH (VVD UHGXomR TXH p IHLWD FRP R\nXVR GH XPD HVFDOD PDQWpP D SURSRUomR GR HVSDoR\nUHSUHVHQWDGR HP UHODomR DR HVSDoR UHDO\nCerto mapa tem escala 1 : 58 000 000.\n\n'LVSRQtYHO HP KWWS REORJGHGD\\QDEULJWK EORJVSRW FRP EU $FHVVR HP DJR\nConsidere que, nesse mapa, o segmento de reta que\nOLJD R QDYLR j PDUFD GR WHVRXUR PHoD FP\nA medida real, em quilômetro, desse segmento de reta é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "8P PDSD p D UHSUHVHQWDomR UHGX]LGD H VLPSOL¿FDGD\nGH XPD ORFDOLGDGH (VVD UHGXomR TXH p IHLWD FRP R\nXVR GH XPD HVFDOD PDQWpP D SURSRUomR GR HVSDoR\nUHSUHVHQWDGR HP UHODomR DR HVSDoR UHDO\nCerto mapa tem escala 1 : 58 000 000.\n\n'LVSRQtYHO HP KWWS REORJGHGD\\QDEULJWK EORJVSRW FRP EU $FHVVR HP DJR\nConsidere que, nesse mapa, o segmento de reta que\nOLJD R QDYLR j PDUFD GR WHVRXUR PHoD FP\nA medida real, em quilômetro, desse segmento de reta é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "Um produtor de milho utiliza uma área de 160 hectares\npara as suas atividades agrícolas. Essa área é dividida em\nGXDV SDUWHV XPD GH KHFWDUHV FRP PDLRU SURGXWLYLGDGH\nH RXWUD GH KHFWDUHV FRP PHQRU SURGXWLYLGDGH\n$ SURGXWLYLGDGH p GDGD SHOD UD]mR HQWUH D SURGXomR\nHP WRQHODGD H D iUHD FXOWLYDGD 6DEH VH TXH D iUHD GH\nKHFWDUHV WHP SURGXWLYLGDGH LJXDO D YH]HV j\nda outra. Esse fazendeiro pretende aumentar sua\nSURGXomR WRWDO HP DXPHQWDQGR R WDPDQKR GD\nsua propriedade. Para tanto, pretende comprar uma\nparte de uma fazenda vizinha, que possui a mesma\nSURGXWLYLGDGH GD SDUWH GH KHFWDUHV GH VXDV WHUUDV\nQual é a área mínima, em hectare, que o produtor\nprecisará comprar?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "36",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "33",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*DO0525AM17* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-142/option-e-01.png",
+            "/generated/enem-2018/matematica/question-142/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "Um produtor de milho utiliza uma área de 160 hectares\npara as suas atividades agrícolas. Essa área é dividida em\nGXDV SDUWHV XPD GH KHFWDUHV FRP PDLRU SURGXWLYLGDGH\nH RXWUD GH KHFWDUHV FRP PHQRU SURGXWLYLGDGH\n$ SURGXWLYLGDGH p GDGD SHOD UD]mR HQWUH D SURGXomR\nHP WRQHODGD H D iUHD FXOWLYDGD 6DEH VH TXH D iUHD GH\nKHFWDUHV WHP SURGXWLYLGDGH LJXDO D YH]HV j\nda outra. Esse fazendeiro pretende aumentar sua\nSURGXomR WRWDO HP DXPHQWDQGR R WDPDQKR GD\nsua propriedade. Para tanto, pretende comprar uma\nparte de uma fazenda vizinha, que possui a mesma\nSURGXWLYLGDGH GD SDUWH GH KHFWDUHV GH VXDV WHUUDV\nQual é a área mínima, em hectare, que o produtor\nprecisará comprar?\n\nA. 36\nB. 33\nC.\nD.\nE. *DO0525AM17* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "A raiva é uma doença viral e infecciosa, transmitida\nSRU PDPtIHURV $ FDPSDQKD QDFLRQDO GH YDFLQDomR\nDQWLUUiELFD WHP R REMHWLYR GH FRQWURODU D FLUFXODomR\ndo vírus da raiva canina e felina, prevenindo a raiva\nhumana. O gráfico mostra a cobertura (porcentagem\nGH YDFLQDGRV GD FDPSDQKD HP FmHV QRV DQRV GH\nH QR PXQLFtSLR GH %HOR +RUL]RQWH\nem Minas Gerais. Os valores das coberturas dos\nDQRV GH H QmR HVWmR LQIRUPDGRV QR\nJUiILFR H GHVHMD VH HVWLPi ORV 3DUD WDO OHYRX VH\nHP FRQVLGHUDomR TXH D YDULDomR QD FREHUWXUD GH\nYDFLQDomR GD FDPSDQKD DQWLUUiELFD QRV SHUtRGRV GH\nD H GH D GHX VH GH IRUPD OLQHDU\n\n59%\n61%\n\n'LVSRQtYHO HP KWWS SQL GDWDVXV JRY EU $FHVVR HP QRY\n4XDO WHULD VLGR D FREHUWXUD GHVVD FDPSDQKD QR DQR GH \"",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-143/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-143/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A raiva é uma doença viral e infecciosa, transmitida\nSRU PDPtIHURV $ FDPSDQKD QDFLRQDO GH YDFLQDomR\nDQWLUUiELFD WHP R REMHWLYR GH FRQWURODU D FLUFXODomR\ndo vírus da raiva canina e felina, prevenindo a raiva\nhumana. O gráfico mostra a cobertura (porcentagem\nGH YDFLQDGRV GD FDPSDQKD HP FmHV QRV DQRV GH\nH QR PXQLFtSLR GH %HOR +RUL]RQWH\nem Minas Gerais. Os valores das coberturas dos\nDQRV GH H QmR HVWmR LQIRUPDGRV QR\nJUiILFR H GHVHMD VH HVWLPi ORV 3DUD WDO OHYRX VH\nHP FRQVLGHUDomR TXH D YDULDomR QD FREHUWXUD GH\nYDFLQDomR GD FDPSDQKD DQWLUUiELFD QRV SHUtRGRV GH\nD H GH D GHX VH GH IRUPD OLQHDU\n\n59%\n61%\n\n'LVSRQtYHO HP KWWS SQL GDWDVXV JRY EU $FHVVR HP QRY\n4XDO WHULD VLGR D FREHUWXUD GHVVD FDPSDQKD QR DQR GH \"\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "8PD HPSUHVD GH FRPXQLFDomR WHP D WDUHID GH\nelaborar um material publicitário de um estaleiro para\ndivulgar um novo navio, equipado com um guindaste de\n15 m de altura e uma esteira de 90 m de comprimento.\n1R GHVHQKR GHVVH QDYLR D UHSUHVHQWDomR GR JXLQGDVWH\ndeve ter sua altura entre 0,5 cm e 1 cm, enquanto a\nHVWHLUD GHYH DSUHVHQWDU FRPSULPHQWR VXSHULRU D FP\n7RGR R GHVHQKR GHYHUi VHU IHLWR HP XPD HVFDOD ;\n2V YDORUHV SRVVtYHLV SDUD ; VmR DSHQDV",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": ";! 1 500.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "; 3 000.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 500 ;",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 500 ; 3 000.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "; 3 000.",
+          "assets": []
+        }
+      ],
+      "rawText": "8PD HPSUHVD GH FRPXQLFDomR WHP D WDUHID GH\nelaborar um material publicitário de um estaleiro para\ndivulgar um novo navio, equipado com um guindaste de\n15 m de altura e uma esteira de 90 m de comprimento.\n1R GHVHQKR GHVVH QDYLR D UHSUHVHQWDomR GR JXLQGDVWH\ndeve ter sua altura entre 0,5 cm e 1 cm, enquanto a\nHVWHLUD GHYH DSUHVHQWDU FRPSULPHQWR VXSHULRU D FP\n7RGR R GHVHQKR GHYHUi VHU IHLWR HP XPD HVFDOD ;\n2V YDORUHV SRVVtYHLV SDUD ; VmR DSHQDV\n\nA. ;! 1 500.\nB. ; 3 000.\nC. 1 500 ;\nD. 1 500 ; 3 000.\nE. ; 3 000."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "(P IRL LQDXJXUDGD D PDLRU URGD JLJDQWH GR\nmundo, a High RollerVLWXDGD HP /DV 9HJDV $ ¿JXUD\nUHSUHVHQWD XP HVERoR GHVVD URGD JLJDQWH QR TXDO R\nponto A representa uma de suas cadeiras:\n\nSolo\nSolo",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "O 'LVSRQtYHO HP KWWS HQ ZLNLSHGLD RUJ $FHVVR HP DEU DGDSWDGR $ SDUWLU GD SRVLomR LQGLFDGD HP TXH R VHJPHQWROA\nVH HQFRQWUD SDUDOHOR DR SODQR GR VROR URWDFLRQD VH D\nHigh RollerQR VHQWLGR DQWL KRUiULR HP WRUQR GR SRQWRO.\nSejam t o ângulo determinado pelo segmento OA em\nUHODomR j VXD SRVLomR LQLFLDO HfD IXQomR TXH GHVFUHYH\na altura do ponto AHP UHODomR DR VROR HP IXQomR GHt. Após duas voltas completas, fWHP R VHJXLQWH JUi¿FR $ H[SUHVVmR GD IXQomR DOWXUD p GDGD SRU",
+          "assets": [
+            "/generated/enem-2018/matematica/question-145/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-145/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "f t cos t () () = + 88 168",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "f t sen t cos t () () () = + 168 88",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "f t sen t cos t () () () = + 88 168 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-145/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "(P IRL LQDXJXUDGD D PDLRU URGD JLJDQWH GR\nmundo, a High RollerVLWXDGD HP /DV 9HJDV $ ¿JXUD\nUHSUHVHQWD XP HVERoR GHVVD URGD JLJDQWH QR TXDO R\nponto A representa uma de suas cadeiras:\n\nSolo\nSolo\n\nA. O 'LVSRQtYHO HP KWWS HQ ZLNLSHGLD RUJ $FHVVR HP DEU DGDSWDGR $ SDUWLU GD SRVLomR LQGLFDGD HP TXH R VHJPHQWROA\nVH HQFRQWUD SDUDOHOR DR SODQR GR VROR URWDFLRQD VH D\nHigh RollerQR VHQWLGR DQWL KRUiULR HP WRUQR GR SRQWRO.\nSejam t o ângulo determinado pelo segmento OA em\nUHODomR j VXD SRVLomR LQLFLDO HfD IXQomR TXH GHVFUHYH\na altura do ponto AHP UHODomR DR VROR HP IXQomR GHt. Após duas voltas completas, fWHP R VHJXLQWH JUi¿FR $ H[SUHVVmR GD IXQomR DOWXUD p GDGD SRU\nB.\nC. f t cos t () () = + 88 168\nD. f t sen t cos t () () () = + 168 88\nE. f t sen t cos t () () () = + 88 168 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "Minecraft é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma.\nÉ possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento\nde cubinhos.\n8P MRJDGRU GHVHMD FRQVWUXLU XP FXER FRP GLPHQV}HVu u(OH Mi HPSLOKRX DOJXQV GRV FXELQKRV QHFHVViULRV\nFRQIRUPH D ¿JXUD\n\n+\n\n+\n\n+\n\n2V FXELQKRV TXH DLQGD IDOWDP HPSLOKDU SDUD ¿QDOL]DU D FRQVWUXomR GR FXER MXQWRV IRUPDP XPD SHoD ~QLFD FDSD]\nde completar a tarefa.\n2 IRUPDWR GD SHoD FDSD] GH FRPSOHWDU R FXERu up",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-146/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-146/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "*DO0525AM19* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-146/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-146/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-146/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Minecraft é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma.\nÉ possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento\nde cubinhos.\n8P MRJDGRU GHVHMD FRQVWUXLU XP FXER FRP GLPHQV}HVu u(OH Mi HPSLOKRX DOJXQV GRV FXELQKRV QHFHVViULRV\nFRQIRUPH D ¿JXUD\n\n+\n\n+\n\n+\n\n2V FXELQKRV TXH DLQGD IDOWDP HPSLOKDU SDUD ¿QDOL]DU D FRQVWUXomR GR FXER MXQWRV IRUPDP XPD SHoD ~QLFD FDSD]\nde completar a tarefa.\n2 IRUPDWR GD SHoD FDSD] GH FRPSOHWDU R FXERu up\n\nA.\nB.\nC. *DO0525AM19* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD\nD.\nE."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "De acordo com um relatório recente da Agência\n,QWHUQDFLRQDO GH (QHUJLD $,( R PHUFDGR GH YHtFXORV\nHOpWULFRV DWLQJLX XP QRYR PDUFR HP TXDQGR IRUDP\nYHQGLGRV PDLV GH PLO DXWRPyYHLV GD FDWHJRULD\nCom isso, o total de carros elétricos vendidos no mundo\nDOFDQoRX D PDUFD GH PLOK}HV GH XQLGDGHV GHVGH TXH\nos primeiros modelos começaram a ser comercializados\nHP\n1R %UDVLO D H[SDQVmR GDV YHQGDV WDPEpP VH YHUL¿FD\nA marca A, por exemplo, expandiu suas vendas no ano de\nVXSHUDQGR HP XQLGDGHV DV YHQGDV GH\nFRQIRUPH UHSUHVHQWDGR QR JUi¿FR\n\n'LVSRQtYHO HP ZZZ WHFPXQGR FRP EU $FHVVR HP GH]\nA média anual do número de carros vendidos pela\nPDUFD $ QRV DQRV UHSUHVHQWDGRV QR JUi¿FR IRL GH",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "De acordo com um relatório recente da Agência\n,QWHUQDFLRQDO GH (QHUJLD $,( R PHUFDGR GH YHtFXORV\nHOpWULFRV DWLQJLX XP QRYR PDUFR HP TXDQGR IRUDP\nYHQGLGRV PDLV GH PLO DXWRPyYHLV GD FDWHJRULD\nCom isso, o total de carros elétricos vendidos no mundo\nDOFDQoRX D PDUFD GH PLOK}HV GH XQLGDGHV GHVGH TXH\nos primeiros modelos começaram a ser comercializados\nHP\n1R %UDVLO D H[SDQVmR GDV YHQGDV WDPEpP VH YHUL¿FD\nA marca A, por exemplo, expandiu suas vendas no ano de\nVXSHUDQGR HP XQLGDGHV DV YHQGDV GH\nFRQIRUPH UHSUHVHQWDGR QR JUi¿FR\n\n'LVSRQtYHO HP ZZZ WHFPXQGR FRP EU $FHVVR HP GH]\nA média anual do número de carros vendidos pela\nPDUFD $ QRV DQRV UHSUHVHQWDGRV QR JUi¿FR IRL GH\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Para apagar os focos A e B de um incêndio, que\nestavam a uma distância de 30 m um do outro, os\nbombeiros de um quartel decidiram se posicionar de\nmodo que a distância de um bombeiro ao foco A, de\ntemperatura mais elevada, fosse sempre o dobro da\ndistância desse bombeiro ao foco B, de temperatura\nmenos elevada.\nNestas condições, a maior distância, em metro, que dois\nbombeiros poderiam ter entre eles é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "30.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "60.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "68.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para apagar os focos A e B de um incêndio, que\nestavam a uma distância de 30 m um do outro, os\nbombeiros de um quartel decidiram se posicionar de\nmodo que a distância de um bombeiro ao foco A, de\ntemperatura mais elevada, fosse sempre o dobro da\ndistância desse bombeiro ao foco B, de temperatura\nmenos elevada.\nNestas condições, a maior distância, em metro, que dois\nbombeiros poderiam ter entre eles é\n\nA. 30.\nB.\nC.\nD. 60.\nE. 68."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "7RUQHLRV GH WrQLV HP JHUDO VmR GLVSXWDGRV HP\nVLVWHPD GH HOLPLQDWyULD VLPSOHV 1HVVH VLVWHPD VmR\ndisputadas partidas entre dois competidores, com a\nHOLPLQDomR GR SHUGHGRU H SURPRomR GR YHQFHGRU SDUD\na fase seguinte. Dessa forma, se na 1a fase o torneio\nFRQWD FRPnFRPSHWLGRUHV HQWmR QDaIDVH UHVWDUmRn\nFRPSHWLGRUHV H DVVLP VXFHVVLYDPHQWH DWp D SDUWLGD ¿QDO\nEm um torneio de tênis, disputado nesse sistema,\nSDUWLFLSDP WHQLVWDV\n3DUD VH GH¿QLU R FDPSHmR GHVVH WRUQHLR R Q~PHUR GH\npartidas necessárias é dado por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "u",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "16 8",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "16 8 1",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "16 8",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "16 8 1",
+          "assets": []
+        }
+      ],
+      "rawText": "7RUQHLRV GH WrQLV HP JHUDO VmR GLVSXWDGRV HP\nVLVWHPD GH HOLPLQDWyULD VLPSOHV 1HVVH VLVWHPD VmR\ndisputadas partidas entre dois competidores, com a\nHOLPLQDomR GR SHUGHGRU H SURPRomR GR YHQFHGRU SDUD\na fase seguinte. Dessa forma, se na 1a fase o torneio\nFRQWD FRPnFRPSHWLGRUHV HQWmR QDaIDVH UHVWDUmRn\nFRPSHWLGRUHV H DVVLP VXFHVVLYDPHQWH DWp D SDUWLGD ¿QDO\nEm um torneio de tênis, disputado nesse sistema,\nSDUWLFLSDP WHQLVWDV\n3DUD VH GH¿QLU R FDPSHmR GHVVH WRUQHLR R Q~PHUR GH\npartidas necessárias é dado por\n\nA. u\nB. 16 8\nC. 16 8 1\nD. 16 8\nE. 16 8 1"
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "O artigo 33 da lei brasileira sobre drogas prevê a\nSHQD GH UHFOXVmR GH D DQRV SDUD TXDOTXHU SHVVRD\nTXH VHMD FRQGHQDGD SRU WUi¿FR LOtFLWR RX SURGXomR QmR\nautorizada de drogas. Entretanto, caso o condenado seja\nréu primário, com bons antecedentes criminais, essa\nSHQD SRGH VRIUHU XPD UHGXomR GH XP VH[WR D GRLV WHUoRV\nSuponha que um réu primário, com bons\nantecedentes criminais, foi condenado pelo artigo 33 da\nlei brasileira sobre drogas.\n$SyV R EHQHItFLR GD UHGXomR GH SHQD VXD SHQD SRGHUi\nvariar de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "DQR H PHVHV D DQRV H PHVHV",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 ano e 8 meses a 5 anos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "DQRV H PHVHV D DQRV",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "DQRV H PHVHV D DQRV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "DQRV H PHVHV D DQRV H PHVHV *DO0525AM20* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-150/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O artigo 33 da lei brasileira sobre drogas prevê a\nSHQD GH UHFOXVmR GH D DQRV SDUD TXDOTXHU SHVVRD\nTXH VHMD FRQGHQDGD SRU WUi¿FR LOtFLWR RX SURGXomR QmR\nautorizada de drogas. Entretanto, caso o condenado seja\nréu primário, com bons antecedentes criminais, essa\nSHQD SRGH VRIUHU XPD UHGXomR GH XP VH[WR D GRLV WHUoRV\nSuponha que um réu primário, com bons\nantecedentes criminais, foi condenado pelo artigo 33 da\nlei brasileira sobre drogas.\n$SyV R EHQHItFLR GD UHGXomR GH SHQD VXD SHQD SRGHUi\nvariar de\n\nA. DQR H PHVHV D DQRV H PHVHV\nB. 1 ano e 8 meses a 5 anos.\nC. DQRV H PHVHV D DQRV\nD. DQRV H PHVHV D DQRV\nE. DQRV H PHVHV D DQRV H PHVHV *DO0525AM20* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "'H DFRUGR FRP D /HL 8QLYHUVDO GD *UDYLWDomR SURSRVWD\nSRU ,VDDF 1HZWRQ D LQWHQVLGDGH GD IRUoD JUDYLWDFLRQDOF\nque a Terra exerce sobre um satélite em órbita circular\né proporcional à massa m do satélite e inversamente\nproporcional ao quadrado do raio r da órbita, ou seja,\n\nNo plano cartesiano, três satélites, A, B e CHVWmR\nrepresentados, cada um, por um ponto (m ; r) cujas\nFRRUGHQDGDV VmR UHVSHFWLYDPHQWH D PDVVD GR VDWpOLWH\ne o raio da sua órbita em torno da Terra.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "FC FA FB",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Raio (r) Massa (m)\nCom base nas posições relativas dos pontos no\nJUi¿FR GHVHMD VH FRPSDUDU DV LQWHQVLGDGHVFA, FB e FC\nda força gravitacional que a Terra exerce sobre os satélites\nA, B e C, respectivamente. As intensidades FA, FB e FC H[SUHVVDV QR JUi¿FR\nVDWLVID]HP D UHODomR FA FB FC",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "FA FB FC",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "FA FC FB",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "FC FA FB",
+          "assets": []
+        }
+      ],
+      "rawText": "'H DFRUGR FRP D /HL 8QLYHUVDO GD *UDYLWDomR SURSRVWD\nSRU ,VDDF 1HZWRQ D LQWHQVLGDGH GD IRUoD JUDYLWDFLRQDOF\nque a Terra exerce sobre um satélite em órbita circular\né proporcional à massa m do satélite e inversamente\nproporcional ao quadrado do raio r da órbita, ou seja,\n\nNo plano cartesiano, três satélites, A, B e CHVWmR\nrepresentados, cada um, por um ponto (m ; r) cujas\nFRRUGHQDGDV VmR UHVSHFWLYDPHQWH D PDVVD GR VDWpOLWH\ne o raio da sua órbita em torno da Terra.\n\nA. FC FA FB\nB. Raio (r) Massa (m)\nCom base nas posições relativas dos pontos no\nJUi¿FR GHVHMD VH FRPSDUDU DV LQWHQVLGDGHVFA, FB e FC\nda força gravitacional que a Terra exerce sobre os satélites\nA, B e C, respectivamente. As intensidades FA, FB e FC H[SUHVVDV QR JUi¿FR\nVDWLVID]HP D UHODomR FA FB FC\nC. FA FB FC\nD. FA FC FB\nE. FC FA FB"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "2V WLSRV GH SUDWD QRUPDOPHQWH YHQGLGRV VmR\nH (VVD FODVVL¿FDomR p IHLWD GH DFRUGR FRP D\nVXD SXUH]D 3RU H[HPSOR D SUDWD p D VXEVWkQFLD\nFRQVWLWXtGD GH SDUWHV GH SUDWD SXUD H SDUWHV GH\ncobre em 1 000 partes da substância. Já a prata 950 é\nconstituída de 950 partes de prata pura e 50 de cobre em\nH D SUDWD p FRQVWLWXtGD GH SDUWHV GH SUDWD\nSXUD H SDUWHV GH FREUH HP 8P RXULYHV SRVVXL\nJUDPDV GH SUDWD H GHVHMD REWHU JUDPDV GH\nSUDWD SDUD SURGXomR GH XPD MRLD\nNessas condições, quantos gramas de prata e de cobre,\nrespectivamente, devem ser fundidos com os 10 gramas\nGH SUDWD \"\nA H\nB H\nC H\nD H\nE H",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "2V WLSRV GH SUDWD QRUPDOPHQWH YHQGLGRV VmR\nH (VVD FODVVL¿FDomR p IHLWD GH DFRUGR FRP D\nVXD SXUH]D 3RU H[HPSOR D SUDWD p D VXEVWkQFLD\nFRQVWLWXtGD GH SDUWHV GH SUDWD SXUD H SDUWHV GH\ncobre em 1 000 partes da substância. Já a prata 950 é\nconstituída de 950 partes de prata pura e 50 de cobre em\nH D SUDWD p FRQVWLWXtGD GH SDUWHV GH SUDWD\nSXUD H SDUWHV GH FREUH HP 8P RXULYHV SRVVXL\nJUDPDV GH SUDWD H GHVHMD REWHU JUDPDV GH\nSUDWD SDUD SURGXomR GH XPD MRLD\nNessas condições, quantos gramas de prata e de cobre,\nrespectivamente, devem ser fundidos com os 10 gramas\nGH SUDWD \"\nA H\nB H\nC H\nD H\nE H\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Em um aeroporto, os passageiros devem submeter\nVXDV EDJDJHQV D XPD GDV FLQFR PiTXLQDV GH UDLR ;\ndisponíveis ao adentrarem a sala de embarque. Num\ndado instante, o tempo gasto por essas máquinas para\nescanear a bagagem de cada passageiro e o número de\nSHVVRDV SUHVHQWHV HP FDGD ¿OD HVWmR DSUHVHQWDGRV HP\nXP SDLQHO FRPR PRVWUDGR QD ¿JXUD\n\n35 segundos\n5 pessoas\n25 segundos\n6 pessoas\n\nUm passageiro, ao chegar à sala de embarque desse\naeroporto no instante indicado, visando esperar o menor\ntempo possível, deverá se dirigir à máquina",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-153/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-153/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um aeroporto, os passageiros devem submeter\nVXDV EDJDJHQV D XPD GDV FLQFR PiTXLQDV GH UDLR ;\ndisponíveis ao adentrarem a sala de embarque. Num\ndado instante, o tempo gasto por essas máquinas para\nescanear a bagagem de cada passageiro e o número de\nSHVVRDV SUHVHQWHV HP FDGD ¿OD HVWmR DSUHVHQWDGRV HP\nXP SDLQHO FRPR PRVWUDGR QD ¿JXUD\n\n35 segundos\n5 pessoas\n25 segundos\n6 pessoas\n\nUm passageiro, ao chegar à sala de embarque desse\naeroporto no instante indicado, visando esperar o menor\ntempo possível, deverá se dirigir à máquina\n\nA. 1.\nB.\nC. 3.\nD.\nE. 5."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "$ &RPLVVmR,QWHUQD GH 3UHYHQomR GH $FLGHQWHV\n&,3$ GH XPD HPSUHVD REVHUYDQGR RV DOWRV FXVWRV\ncom os frequentes acidentes de trabalho ocorridos, fez, a\npedido da diretoria, uma pesquisa do número de acidentes\nsofridos por funcionários. Essa pesquisa, realizada com\numa amostra de 100 funcionários, norteará as ações da\nempresa na política de segurança no trabalho.\n2V UHVXOWDGRV REWLGRV HVWmR QR TXDGUR\n\n3/10\n\n5\nA média do número de acidentes por funcionário na\nDPRVWUD TXH D &,3$ DSUHVHQWDUi j GLUHWRULD GD HPSUHVD p\nA 0,15.\nB 0,30.\nC 0,50.\nD 1,11.\nE\n\n*DO0525AM21*",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-154/statement-01.png",
+        "/generated/enem-2018/matematica/question-154/statement-02.png",
+        "/generated/enem-2018/matematica/question-154/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-154/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "$ &RPLVVmR,QWHUQD GH 3UHYHQomR GH $FLGHQWHV\n&,3$ GH XPD HPSUHVD REVHUYDQGR RV DOWRV FXVWRV\ncom os frequentes acidentes de trabalho ocorridos, fez, a\npedido da diretoria, uma pesquisa do número de acidentes\nsofridos por funcionários. Essa pesquisa, realizada com\numa amostra de 100 funcionários, norteará as ações da\nempresa na política de segurança no trabalho.\n2V UHVXOWDGRV REWLGRV HVWmR QR TXDGUR\n\n3/10\n\n5\nA média do número de acidentes por funcionário na\nDPRVWUD TXH D &,3$ DSUHVHQWDUi j GLUHWRULD GD HPSUHVD p\nA 0,15.\nB 0,30.\nC 0,50.\nD 1,11.\nE\n\n*DO0525AM21*\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "$ URVD GRV YHQWRV p XPD ¿JXUD TXH UHSUHVHQWD RLWR\nsentidos, que dividem o círculo em partes iguais.\n\nUmaFkPHUD GH YLJLOkQFLD HVWi ¿[DGD QR WHWR GH XP\nshopping e sua lente pode ser direcionada remotamente,\natravés de um controlador, para qualquer sentido. A lente\nda câmera está apontada inicialmente no sentido Oeste\ne o seu controlador efetua três mudanças consecutivas,\na saber:\n 1aPXGDQoD  QR VHQWLGR DQWL KRUiULR\n\n 3aPXGDQoD  QR VHQWLGR DQWL KRUiULR\nApós a 3a mudança, ele é orientado a reposicionar\na câmera, com a menor amplitude possível, no sentido\nNoroeste (NO) devido a um movimento suspeito de\num cliente.\nQual mudança de sentido o controlador deve efetuar para\nreposicionar a câmera?",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-155/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-155/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-155/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-155/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-155/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-155/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-155/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "$ URVD GRV YHQWRV p XPD ¿JXUD TXH UHSUHVHQWD RLWR\nsentidos, que dividem o círculo em partes iguais.\n\nUmaFkPHUD GH YLJLOkQFLD HVWi ¿[DGD QR WHWR GH XP\nshopping e sua lente pode ser direcionada remotamente,\natravés de um controlador, para qualquer sentido. A lente\nda câmera está apontada inicialmente no sentido Oeste\ne o seu controlador efetua três mudanças consecutivas,\na saber:\n 1aPXGDQoD  QR VHQWLGR DQWL KRUiULR\n\n 3aPXGDQoD  QR VHQWLGR DQWL KRUiULR\nApós a 3a mudança, ele é orientado a reposicionar\na câmera, com a menor amplitude possível, no sentido\nNoroeste (NO) devido a um movimento suspeito de\num cliente.\nQual mudança de sentido o controlador deve efetuar para\nreposicionar a câmera?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "Na teoria das eleições, o Método de Borda sugere\nque, em vez de escolher um candidato, cada juiz deve\ncriar um ranking de sua preferência para os concorrentes\nLVWR p FULDU XPD OLVWD FRP D RUGHP GH FODVVL¿FDomR\ndos concorrentes). A este ranking é associada uma\nSRQWXDomR XP SRQWR SDUD R ~OWLPR FRORFDGR QRranking,\ndois pontos para o penúltimo, três para o antepenúltimo,\nH DVVLP VXFHVVLYDPHQWH $R ¿QDO VRPD VH D SRQWXDomR\natribuída a cada concorrente por cada um dos juízes.\nEm uma escola houve um concurso de poesia no qual\ncinco alunos concorreram a um prêmio, sendo julgados\nSRU MXt]HV 3DUD D HVFROKD GD SRHVLD YHQFHGRUD\nIRL XWLOL]DGR R 0pWRGR GH %RUGD 1RV TXDGURV HVWmR\napresentados os rankings dos juízes e a frequência de\ncada ranking.\nColocação\nRanking\n\nRanking\nFrequência\n,\n\n,,,\n\nA poesia vencedora foi a de",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-156/statement-01.png",
+        "/generated/enem-2018/matematica/question-156/statement-02.png",
+        "/generated/enem-2018/matematica/question-156/statement-03.png",
+        "/generated/enem-2018/matematica/question-156/statement-04.png",
+        "/generated/enem-2018/matematica/question-156/statement-05.png",
+        "/generated/enem-2018/matematica/question-156/statement-06.png",
+        "/generated/enem-2018/matematica/question-156/statement-07.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-156/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Edu.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Dani.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Caio.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Bia.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Ana. *DO0525AM22* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-156/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Na teoria das eleições, o Método de Borda sugere\nque, em vez de escolher um candidato, cada juiz deve\ncriar um ranking de sua preferência para os concorrentes\nLVWR p FULDU XPD OLVWD FRP D RUGHP GH FODVVL¿FDomR\ndos concorrentes). A este ranking é associada uma\nSRQWXDomR XP SRQWR SDUD R ~OWLPR FRORFDGR QRranking,\ndois pontos para o penúltimo, três para o antepenúltimo,\nH DVVLP VXFHVVLYDPHQWH $R ¿QDO VRPD VH D SRQWXDomR\natribuída a cada concorrente por cada um dos juízes.\nEm uma escola houve um concurso de poesia no qual\ncinco alunos concorreram a um prêmio, sendo julgados\nSRU MXt]HV 3DUD D HVFROKD GD SRHVLD YHQFHGRUD\nIRL XWLOL]DGR R 0pWRGR GH %RUGD 1RV TXDGURV HVWmR\napresentados os rankings dos juízes e a frequência de\ncada ranking.\nColocação\nRanking\n\nRanking\nFrequência\n,\n\n,,,\n\nA poesia vencedora foi a de\n\nA. Edu.\nB. Dani.\nC. Caio.\nD. Bia.\nE. Ana. *DO0525AM22* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "6REUH XP VLVWHPD FDUWHVLDQR FRQVLGHUD VH XPD\nmalha formada por circunferências de raios com medidas\nGDGDV SRU Q~PHURV QDWXUDLV H SRU VHPLUUHWDV FRP\nextremidades na origem, separadas por ângulos de π\n6",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-157/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-157/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-157/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "5/6\n4/3\n2/1\n0/1 2/3\n4/5\n6\nx y Suponha que os objetos se desloquem apenas pelas\nVHPLUUHWDV H SHODV FLUFXQIHUrQFLDV GHVVD PDOKD QmR\npodendo passar pela origem (0 ; 0). Considere o valor de SFRP DSUR[LPDomR GH SHOR\nmenos, uma casa decimal. Para realizar o percurso mais curto possível ao longo da\nmalha, do ponto B até o ponto A, um objeto deve percorrer\numa distância igual a",
+          "assets": [
+            "/generated/enem-2018/matematica/question-157/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-157/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-157/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-157/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "6REUH XP VLVWHPD FDUWHVLDQR FRQVLGHUD VH XPD\nmalha formada por circunferências de raios com medidas\nGDGDV SRU Q~PHURV QDWXUDLV H SRU VHPLUUHWDV FRP\nextremidades na origem, separadas por ângulos de π\n6\n\nA.\nB. 5/6\n4/3\n2/1\n0/1 2/3\n4/5\n6\nx y Suponha que os objetos se desloquem apenas pelas\nVHPLUUHWDV H SHODV FLUFXQIHUrQFLDV GHVVD PDOKD QmR\npodendo passar pela origem (0 ; 0). Considere o valor de SFRP DSUR[LPDomR GH SHOR\nmenos, uma casa decimal. Para realizar o percurso mais curto possível ao longo da\nmalha, do ponto B até o ponto A, um objeto deve percorrer\numa distância igual a\nC.\nD.\nE."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "8P DUWHVmR SRVVXL SRWHV FLOtQGULFRV GH WLQWD FXMDV\nPHGLGDV H[WHUQDV VmR FP GH GLkPHWUR H FP GH\naltura. Ele pretende adquirir caixas organizadoras para\narmazenar seus potes de tinta, empilhados verticalmente\ncom tampas voltadas para cima, de forma que as caixas\npossam ser fechadas.\nNo mercado, existem cinco opções de caixas\norganizadoras, com tampa, em formato de paralelepípedo\nreto retângulo, vendidas pelo mesmo preço, possuindo as\nseguintes dimensões internas:\n\n4XDO GHVVHV PRGHORV R DUWHVmR GHYH DGTXLULU SDUD\nconseguir armazenar o maior número de potes por caixa?",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-158/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-158/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": ",",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": ",,",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": ",,,",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": ",9",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V",
+          "assets": []
+        }
+      ],
+      "rawText": "8P DUWHVmR SRVVXL SRWHV FLOtQGULFRV GH WLQWD FXMDV\nPHGLGDV H[WHUQDV VmR FP GH GLkPHWUR H FP GH\naltura. Ele pretende adquirir caixas organizadoras para\narmazenar seus potes de tinta, empilhados verticalmente\ncom tampas voltadas para cima, de forma que as caixas\npossam ser fechadas.\nNo mercado, existem cinco opções de caixas\norganizadoras, com tampa, em formato de paralelepípedo\nreto retângulo, vendidas pelo mesmo preço, possuindo as\nseguintes dimensões internas:\n\n4XDO GHVVHV PRGHORV R DUWHVmR GHYH DGTXLULU SDUD\nconseguir armazenar o maior número de potes por caixa?\n\nA. ,\nB. ,,\nC. ,,,\nD. ,9\nE. V"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "A prefeitura de um pequeno município do interior\nGHFLGH FRORFDU SRVWHV SDUD LOXPLQDomR DR ORQJR GH\numa estrada retilínea, que inicia em uma praça central\ne termina numa fazenda na zona rural. Como a praça\nMi SRVVXL LOXPLQDomR R SULPHLUR SRVWH VHUi FRORFDGR D\n80 metros da praça, o segundo, a 100 metros, o terceiro,\nD PHWURV H DVVLP VXFHVVLYDPHQWH PDQWHQGR VH\nsempre uma distância de vinte metros entre os postes,\naté que o último poste seja colocado a uma distância de\n1 380 metros da praça.\nSe a prefeitura pode pagar, no máximo, R$ 8 000,00 por\nposte colocado, o maior valor que poderá gastar com a\nFRORFDomR GHVVHV SRVWHV p",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-159/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-159/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-159/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-159/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "*DO0525AM23* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-159/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A prefeitura de um pequeno município do interior\nGHFLGH FRORFDU SRVWHV SDUD LOXPLQDomR DR ORQJR GH\numa estrada retilínea, que inicia em uma praça central\ne termina numa fazenda na zona rural. Como a praça\nMi SRVVXL LOXPLQDomR R SULPHLUR SRVWH VHUi FRORFDGR D\n80 metros da praça, o segundo, a 100 metros, o terceiro,\nD PHWURV H DVVLP VXFHVVLYDPHQWH PDQWHQGR VH\nsempre uma distância de vinte metros entre os postes,\naté que o último poste seja colocado a uma distância de\n1 380 metros da praça.\nSe a prefeitura pode pagar, no máximo, R$ 8 000,00 por\nposte colocado, o maior valor que poderá gastar com a\nFRORFDomR GHVVHV SRVWHV p\n\nA.\nB.\nC.\nD.\nE. *DO0525AM23* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "8P HGLItFLR WHP D QXPHUDomR GRV DQGDUHV LQLFLDQGR\nno térreo (T ), e continuando com primeiro, segundo,\nterceiro, ..., até o último andar. Uma criança entrou no\nelevador e, tocando no painel, seguiu uma sequência\nde andares, parando, abrindo e fechando a porta em\ndiversos andares. A partir de onde entrou a criança, o\nelevador subiu sete andares, em seguida desceu dez,\ndesceu mais treze, subiu nove, desceu quatro e parou no\nTXLQWR DQGDU ¿QDOL]DQGR D VHTXrQFLD &RQVLGHUH TXH QR\ntrajeto seguido pela criança, o elevador parou uma vez no\núltimo andar do edifício.\nDe acordo com as informações dadas, o último andar do\nedifício é o",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "16o",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "o",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "o",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "o",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "o",
+          "assets": []
+        }
+      ],
+      "rawText": "8P HGLItFLR WHP D QXPHUDomR GRV DQGDUHV LQLFLDQGR\nno térreo (T ), e continuando com primeiro, segundo,\nterceiro, ..., até o último andar. Uma criança entrou no\nelevador e, tocando no painel, seguiu uma sequência\nde andares, parando, abrindo e fechando a porta em\ndiversos andares. A partir de onde entrou a criança, o\nelevador subiu sete andares, em seguida desceu dez,\ndesceu mais treze, subiu nove, desceu quatro e parou no\nTXLQWR DQGDU ¿QDOL]DQGR D VHTXrQFLD &RQVLGHUH TXH QR\ntrajeto seguido pela criança, o elevador parou uma vez no\núltimo andar do edifício.\nDe acordo com as informações dadas, o último andar do\nedifício é o\n\nA. 16o\nB. o\nC. o\nD. o\nE. o"
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "2 6DOmR GR $XWRPyYHO GH 6mR 3DXOR p XP HYHQWR\nno qual vários fabricantes expõem seus modelos mais\nrecentes de veículos, mostrando, principalmente, suas\ninovações em design e tecnologia.\n'LVSRQtYHO HP KWWS J JORER FRP $FHVVR HP IHYadaptado).\nUma montadora pretende participar desse evento\nFRP GRLV HVWDQGHV XP QD HQWUDGD H RXWUR QD UHJLmR\nFHQWUDO GR VDOmR H[SRQGR HP FDGD XP GHOHV XP FDUUR\ncompacto e uma caminhonete.\nPara compor os estandes, foram disponibilizados\npela montadora quatro carros compactos, de modelos\ndistintos, e seis caminhonetes de diferentes cores para\nVHUHP HVFROKLGRV DTXHOHV TXH VHUmR H[SRVWRV $ SRVLomR\ndos carros dentro de cada estande é irrelevante.\n8PD H[SUHVVmR TXH IRUQHFH D TXDQWLGDGH GH PDQHLUDV\ndiferentes que os estandes podem ser compostos é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4 2 6 2 2 2 ×",
+          "assets": [
+            "/generated/enem-2018/matematica/question-161/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-161/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "C 4 2 6 2 2 2 × 4 2 6 2 ×",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "A",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "C",
+          "assets": []
+        }
+      ],
+      "rawText": "2 6DOmR GR $XWRPyYHO GH 6mR 3DXOR p XP HYHQWR\nno qual vários fabricantes expõem seus modelos mais\nrecentes de veículos, mostrando, principalmente, suas\ninovações em design e tecnologia.\n'LVSRQtYHO HP KWWS J JORER FRP $FHVVR HP IHYadaptado).\nUma montadora pretende participar desse evento\nFRP GRLV HVWDQGHV XP QD HQWUDGD H RXWUR QD UHJLmR\nFHQWUDO GR VDOmR H[SRQGR HP FDGD XP GHOHV XP FDUUR\ncompacto e uma caminhonete.\nPara compor os estandes, foram disponibilizados\npela montadora quatro carros compactos, de modelos\ndistintos, e seis caminhonetes de diferentes cores para\nVHUHP HVFROKLGRV DTXHOHV TXH VHUmR H[SRVWRV $ SRVLomR\ndos carros dentro de cada estande é irrelevante.\n8PD H[SUHVVmR TXH IRUQHFH D TXDQWLGDGH GH PDQHLUDV\ndiferentes que os estandes podem ser compostos é\n\nA. 4 2 6 2 2 2 ×\nB.\nC. C 4 2 6 2 2 2 × 4 2 6 2 ×\nD. A\nE. C"
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Os alunos da disciplina de estatística, em um curso\nuniversitário, realizam quatro avaliações por semestre\nFRP RV SHVRV GH H UHVSHFWLYDPHQWH\n1R ¿QDO GR VHPHVWUH SUHFLVDP REWHU XPD PpGLD QDV\nquatro avaliações de, no mínimo, 60 pontos para serem\naprovados. Um estudante dessa disciplina obteve os\nVHJXLQWHV SRQWRV QDV WUrV SULPHLUDV DYDOLDo}HV H\n50, respectivamente.\nO mínimo de pontos que esse estudante precisa obter na\nTXDUWD DYDOLDomR SDUD VHU DSURYDGR p",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Os alunos da disciplina de estatística, em um curso\nuniversitário, realizam quatro avaliações por semestre\nFRP RV SHVRV GH H UHVSHFWLYDPHQWH\n1R ¿QDO GR VHPHVWUH SUHFLVDP REWHU XPD PpGLD QDV\nquatro avaliações de, no mínimo, 60 pontos para serem\naprovados. Um estudante dessa disciplina obteve os\nVHJXLQWHV SRQWRV QDV WUrV SULPHLUDV DYDOLDo}HV H\n50, respectivamente.\nO mínimo de pontos que esse estudante precisa obter na\nTXDUWD DYDOLDomR SDUD VHU DSURYDGR p\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "O gerente do setor de recursos humanos de uma\nHPSUHVD HVWi RUJDQL]DQGR XPD DYDOLDomR HP TXH XPD\ndas etapas é um jogo de perguntas e respostas. Para\nHVVD HWDSD HOH FODVVL¿FRX DV SHUJXQWDV SHOR QtYHO GH\nGL¿FXOGDGH HP IiFLO PpGLR H GLItFLO H HVFUHYHX FDGD\nSHUJXQWD HP FDUW}HV SDUD FRORFDomR HP XPD XUQD\nContudo, após depositar vinte perguntas de diferentes\nQtYHLV QD XUQD HOH REVHUYRX TXH GHODV HUDP GH QtYHO\nfácil. Querendo que as perguntas de nível fácil sejam a\nmaioria, o gerente decidiu acrescentar mais perguntas\nde nível fácil à urna, de modo que a probabilidade de o\nprimeiro participante retirar, aleatoriamente, uma pergunta\nGH QtYHO IiFLO VHMD GH\nCom essas informações, a quantidade de perguntas de\nnível fácil que o gerente deve acrescentar à urna é igual a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "10.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "15.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "35.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*DO0525AM24* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": []
+        }
+      ],
+      "rawText": "O gerente do setor de recursos humanos de uma\nHPSUHVD HVWi RUJDQL]DQGR XPD DYDOLDomR HP TXH XPD\ndas etapas é um jogo de perguntas e respostas. Para\nHVVD HWDSD HOH FODVVL¿FRX DV SHUJXQWDV SHOR QtYHO GH\nGL¿FXOGDGH HP IiFLO PpGLR H GLItFLO H HVFUHYHX FDGD\nSHUJXQWD HP FDUW}HV SDUD FRORFDomR HP XPD XUQD\nContudo, após depositar vinte perguntas de diferentes\nQtYHLV QD XUQD HOH REVHUYRX TXH GHODV HUDP GH QtYHO\nfácil. Querendo que as perguntas de nível fácil sejam a\nmaioria, o gerente decidiu acrescentar mais perguntas\nde nível fácil à urna, de modo que a probabilidade de o\nprimeiro participante retirar, aleatoriamente, uma pergunta\nGH QtYHO IiFLO VHMD GH\nCom essas informações, a quantidade de perguntas de\nnível fácil que o gerente deve acrescentar à urna é igual a\n\nA. 10.\nB. 15.\nC. 35.\nD.\nE. *DO0525AM24* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "A Transferência Eletrônica Disponível (TED) é uma\nWUDQVDomR ¿QDQFHLUD GH YDORUHV HQWUH GLIHUHQWHV EDQFRV\nUm economista decide analisar os valores enviados por\nPHLR GH 7('V HQWUH FLQFR EDQFRV H GXUDQWH\num mês. Para isso, ele dispõe esses valores em uma\nmatriz A [aij], em que 1 d i d 5 e 1 d j d 5, e o elemento\naij corresponde ao total proveniente das operações feitas\nYLD 7(' HP PLOKmR GH UHDO WUDQVIHULGRV GR EDQFRi para\no banco j durante o mês. Observe que os elementos\naii 0, uma vez que TED é uma transferência entre bancos\ndistintos. Esta é a matriz obtida para essa análise:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "= ⎡ ⎣ ⎢\n⎢\n⎢\n⎢\n⎢\n⎢ ⎤ ⎦ ⎥\n⎥\n⎥\n⎥\n⎥\n⎥ 0/2\n2 0/0\n2/1\n0/1\n2/0\n1/1\n0/2\n2/0\n0/3\n0/1\n1/0 Com base nessas informações, o banco que transferiu a\nmaior quantia via TED é o banco 1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5.",
+          "assets": []
+        }
+      ],
+      "rawText": "A Transferência Eletrônica Disponível (TED) é uma\nWUDQVDomR ¿QDQFHLUD GH YDORUHV HQWUH GLIHUHQWHV EDQFRV\nUm economista decide analisar os valores enviados por\nPHLR GH 7('V HQWUH FLQFR EDQFRV H GXUDQWH\num mês. Para isso, ele dispõe esses valores em uma\nmatriz A [aij], em que 1 d i d 5 e 1 d j d 5, e o elemento\naij corresponde ao total proveniente das operações feitas\nYLD 7(' HP PLOKmR GH UHDO WUDQVIHULGRV GR EDQFRi para\no banco j durante o mês. Observe que os elementos\naii 0, uma vez que TED é uma transferência entre bancos\ndistintos. Esta é a matriz obtida para essa análise:\n\nA. = ⎡ ⎣ ⎢\n⎢\n⎢\n⎢\n⎢\n⎢ ⎤ ⎦ ⎥\n⎥\n⎥\n⎥\n⎥\n⎥ 0/2\n2 0/0\n2/1\n0/1\n2/0\n1/1\n0/2\n2/0\n0/3\n0/1\n1/0 Com base nessas informações, o banco que transferiu a\nmaior quantia via TED é o banco 1.\nB.\nC. 3.\nD.\nE. 5."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Um contrato de empréstimo prevê que quando uma\nSDUFHOD p SDJD GH IRUPD DQWHFLSDGD FRQFHGHU VH i XPD\nUHGXomR GH MXURV GH DFRUGR FRP R SHUtRGR GH DQWHFLSDomR\n1HVVH FDVR SDJD VH R YDORU SUHVHQWH TXH p R YDORU\nnaquele momento, de uma quantia que deveria ser paga\nem uma data futura. Um valor presente P submetido a\njuros compostos com taxa i, por um período de tempo n,\nproduz um valor futuro V determinado pela fórmula\n\nEm um contrato de empréstimo com sessenta\nSDUFHODV ¿[DV PHQVDLV GH 5 D XPD WD[D GH\nMXURV GH DR PrV MXQWR FRP D WULJpVLPD SDUFHOD\nserá paga antecipadamente uma outra parcela, desde\nTXH R GHVFRQWR VHMD VXSHULRU D GR YDORU GD SDUFHOD\n8WLOL]H FRPR DSUR[LPDomR SDUD,Q\n4/3\ne\nFRPR DSUR[LPDomR SDUD ,Q\nA primeira das parcelas que poderá ser antecipada junto\ncom a 30a é a",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-165/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-165/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "56a",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "55a",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "a",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "51a",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "a",
+          "assets": []
+        }
+      ],
+      "rawText": "Um contrato de empréstimo prevê que quando uma\nSDUFHOD p SDJD GH IRUPD DQWHFLSDGD FRQFHGHU VH i XPD\nUHGXomR GH MXURV GH DFRUGR FRP R SHUtRGR GH DQWHFLSDomR\n1HVVH FDVR SDJD VH R YDORU SUHVHQWH TXH p R YDORU\nnaquele momento, de uma quantia que deveria ser paga\nem uma data futura. Um valor presente P submetido a\njuros compostos com taxa i, por um período de tempo n,\nproduz um valor futuro V determinado pela fórmula\n\nEm um contrato de empréstimo com sessenta\nSDUFHODV ¿[DV PHQVDLV GH 5 D XPD WD[D GH\nMXURV GH DR PrV MXQWR FRP D WULJpVLPD SDUFHOD\nserá paga antecipadamente uma outra parcela, desde\nTXH R GHVFRQWR VHMD VXSHULRU D GR YDORU GD SDUFHOD\n8WLOL]H FRPR DSUR[LPDomR SDUD,Q\n4/3\ne\nFRPR DSUR[LPDomR SDUD ,Q\nA primeira das parcelas que poderá ser antecipada junto\ncom a 30a é a\n\nA. 56a\nB. 55a\nC. a\nD. 51a\nE. a"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "8P MRJR SHGDJyJLFR XWLOL]D VH GH XPD LQWHUIDFH\nDOJpEULFR JHRPpWULFD GR VHJXLQWH PRGR RV DOXQRV GHYHP\neliminar os pontos do plano cartesiano dando “tiros”,\nseguindo trajetórias que devem passar pelos pontos\nescolhidos. Para dar os tiros, o aluno deve escrever em\nXPD MDQHOD GR SURJUDPD D HTXDomR FDUWHVLDQD GH XPD\nreta ou de uma circunferência que passa pelos pontos\ne pela origem do sistema de coordenadas. Se o tiro for\nGDGR SRU PHLR GD HTXDomR GD FLUFXQIHUrQFLD FDGD SRQWR\nGLIHUHQWH GD RULJHP TXH IRU DWLQJLGR YDOH SRQWRV 6H\nR WLUR IRU GDGR SRU PHLR GD HTXDomR GH XPD UHWD FDGD\nponto diferente da origem que for atingido vale 1 ponto.\n(P XPD VLWXDomR GH MRJR DLQGD UHVWDP RV VHJXLQWHV\npontos para serem eliminados: A B C\nDHE\n\nPassando pelo ponto ATXDO HTXDomR IRUQHFHULD D PDLRU\nSRQWXDomR\"",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "x = 0 x",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "y = 0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "x + y = 16 *DO0525AM25* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "x \\ í",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "[ í \\ í = 8",
+          "assets": [
+            "/generated/enem-2018/matematica/question-166/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "8P MRJR SHGDJyJLFR XWLOL]D VH GH XPD LQWHUIDFH\nDOJpEULFR JHRPpWULFD GR VHJXLQWH PRGR RV DOXQRV GHYHP\neliminar os pontos do plano cartesiano dando “tiros”,\nseguindo trajetórias que devem passar pelos pontos\nescolhidos. Para dar os tiros, o aluno deve escrever em\nXPD MDQHOD GR SURJUDPD D HTXDomR FDUWHVLDQD GH XPD\nreta ou de uma circunferência que passa pelos pontos\ne pela origem do sistema de coordenadas. Se o tiro for\nGDGR SRU PHLR GD HTXDomR GD FLUFXQIHUrQFLD FDGD SRQWR\nGLIHUHQWH GD RULJHP TXH IRU DWLQJLGR YDOH SRQWRV 6H\nR WLUR IRU GDGR SRU PHLR GD HTXDomR GH XPD UHWD FDGD\nponto diferente da origem que for atingido vale 1 ponto.\n(P XPD VLWXDomR GH MRJR DLQGD UHVWDP RV VHJXLQWHV\npontos para serem eliminados: A B C\nDHE\n\nPassando pelo ponto ATXDO HTXDomR IRUQHFHULD D PDLRU\nSRQWXDomR\"\n\nA. x = 0 x\nB. y = 0\nC. x + y = 16 *DO0525AM25* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD\nD. x \\ í\nE. [ í \\ í = 8"
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "'HYLGR DR QmR FXPSULPHQWR GDV PHWDV GH¿QLGDV\nSDUD D FDPSDQKD GH YDFLQDomR FRQWUD D JULSH FRPXP\ne o vírus H1N1 em um ano, o Ministério da Saúde\nDQXQFLRX D SURUURJDomR GD FDPSDQKD SRU PDLV XPD\nsemana. A tabela apresenta as quantidades de pessoas\nvacinadas dentre os cinco grupos de risco até a data de\nLQtFLR GD SURUURJDomR GD FDPSDQKD\nBalanço parcial nacional da vacinação\ncontra a gripe\n\n'LVSRQtYHO HP KWWS SRUWDOVDXGH VDXGH JRY EU $FHVVR HP DJR\nQual é a porcentagem do total de pessoas desses grupos\nde risco já vacinadas?",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-167/statement-01.png",
+        "/generated/enem-2018/matematica/question-167/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-167/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "18",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "30",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "50",
+          "assets": []
+        }
+      ],
+      "rawText": "'HYLGR DR QmR FXPSULPHQWR GDV PHWDV GH¿QLGDV\nSDUD D FDPSDQKD GH YDFLQDomR FRQWUD D JULSH FRPXP\ne o vírus H1N1 em um ano, o Ministério da Saúde\nDQXQFLRX D SURUURJDomR GD FDPSDQKD SRU PDLV XPD\nsemana. A tabela apresenta as quantidades de pessoas\nvacinadas dentre os cinco grupos de risco até a data de\nLQtFLR GD SURUURJDomR GD FDPSDQKD\nBalanço parcial nacional da vacinação\ncontra a gripe\n\n'LVSRQtYHO HP KWWS SRUWDOVDXGH VDXGH JRY EU $FHVVR HP DJR\nQual é a porcentagem do total de pessoas desses grupos\nde risco já vacinadas?\n\nA.\nB. 18\nC. 30\nD.\nE. 50"
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Durante uma festa de colégio, um grupo de alunos\nRUJDQL]RX XPD ULID 2LWHQWD DOXQRV IDOWDUDP j IHVWD H QmR\nparticiparam da rifa. Entre os que compareceram, alguns\nFRPSUDUDP WUrV ELOKHWHV FRPSUDUDP ELOKHWHV H\nmuitos compraram apenas um. O total de alunos que\nFRPSURX XP ~QLFR ELOKHWH HUD GR Q~PHUR WRWDO GH\nbilhetes vendidos, e o total de bilhetes vendidos excedeu\nem 33 o número total de alunos do colégio.\nQuantos alunos compraram somente um bilhete?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Durante uma festa de colégio, um grupo de alunos\nRUJDQL]RX XPD ULID 2LWHQWD DOXQRV IDOWDUDP j IHVWD H QmR\nparticiparam da rifa. Entre os que compareceram, alguns\nFRPSUDUDP WUrV ELOKHWHV FRPSUDUDP ELOKHWHV H\nmuitos compraram apenas um. O total de alunos que\nFRPSURX XP ~QLFR ELOKHWH HUD GR Q~PHUR WRWDO GH\nbilhetes vendidos, e o total de bilhetes vendidos excedeu\nem 33 o número total de alunos do colégio.\nQuantos alunos compraram somente um bilhete?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "8P TXHEUD FDEHoD FRQVLVWH HP UHFREULU XP TXDGUDGR\nFRP WULkQJXORV UHWkQJXORV LVyVFHOHV FRPR LOXVWUD D ¿JXUD\n\n8PD DUWHVm FRQIHFFLRQD XP TXHEUD FDEHoD FRPR\no descrito, de tal modo que a menor das peças é um\nWULkQJXOR UHWkQJXOR LVyVFHOHV FXMRV FDWHWRV PHGHP FP\n2 TXHEUD FDEHoD TXDQGR PRQWDGR UHVXOWDUi HP XP\nquadrado cuja medida do lado, em centímetro, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "14",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-169/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-169/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-169/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "8P TXHEUD FDEHoD FRQVLVWH HP UHFREULU XP TXDGUDGR\nFRP WULkQJXORV UHWkQJXORV LVyVFHOHV FRPR LOXVWUD D ¿JXUD\n\n8PD DUWHVm FRQIHFFLRQD XP TXHEUD FDEHoD FRPR\no descrito, de tal modo que a menor das peças é um\nWULkQJXOR UHWkQJXOR LVyVFHOHV FXMRV FDWHWRV PHGHP FP\n2 TXHEUD FDEHoD TXDQGR PRQWDGR UHVXOWDUi HP XP\nquadrado cuja medida do lado, em centímetro, é\n\nA. 14\nB. 12\nC.\nD.\nE."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "Para decorar um cilindro circular reto será usada uma\nfaixa retangular de papel transparente, na qual está\nGHVHQKDGD HP QHJULWR XPD GLDJRQDO TXH IRUPD  FRP D\nborda inferior. O raio da base do cilindro mede π\n6 cm, e ao\nHQURODU D IDL[D REWpP VH XPD OLQKD HP IRUPDWR GH KpOLFH\nFRPR QD ¿JXUD\n\nO valor da medida da altura do cilindro, em centímetro, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-170/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-170/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-170/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*DO0525AM26* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-170/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Para decorar um cilindro circular reto será usada uma\nfaixa retangular de papel transparente, na qual está\nGHVHQKDGD HP QHJULWR XPD GLDJRQDO TXH IRUPD  FRP D\nborda inferior. O raio da base do cilindro mede π\n6 cm, e ao\nHQURODU D IDL[D REWpP VH XPD OLQKD HP IRUPDWR GH KpOLFH\nFRPR QD ¿JXUD\n\nO valor da medida da altura do cilindro, em centímetro, é\n\nA.\nB.\nC.\nD. 36\nE. *DO0525AM26* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "&RP R DYDQoR HP FLrQFLD GD FRPSXWDomR HVWDPRV\npróximos do momento em que o número de transistores no\nprocessador de um computador pessoal será da mesma\nordem de grandeza que o número de neurônios em um\ncérebro humano, que é da ordem de 100 bilhões.\nUma das grandezas determinantes para o desempenho\nde um processador é a densidade de transistores, que\né o número de transistores por centímetro quadrado.\nEm 1986, uma empresa fabricava um processador\ncontendo 100 WUDQVLVWRUHV GLVWULEXtGRV HP FP\nGH iUHD 'HVGH HQWmR R Q~PHUR GH WUDQVLVWRUHV SRU\ncentímetro quadrado que se pode colocar em um\nSURFHVVDGRU GREUD D FDGD GRLV DQRV /HL GH 0RRUH\n'LVSRQtYHO HP ZZZ SRFNHW OLQW FRP $FHVVR HP GH] DGDSWDGR\n&RQVLGHUH FRPR DSUR[LPDomR SDUD ORJ₁₀\nEm que ano a empresa atingiu ou atingirá a densidade de\n100 bilhões de transistores?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1999",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "&RP R DYDQoR HP FLrQFLD GD FRPSXWDomR HVWDPRV\npróximos do momento em que o número de transistores no\nprocessador de um computador pessoal será da mesma\nordem de grandeza que o número de neurônios em um\ncérebro humano, que é da ordem de 100 bilhões.\nUma das grandezas determinantes para o desempenho\nde um processador é a densidade de transistores, que\né o número de transistores por centímetro quadrado.\nEm 1986, uma empresa fabricava um processador\ncontendo 100 WUDQVLVWRUHV GLVWULEXtGRV HP FP\nGH iUHD 'HVGH HQWmR R Q~PHUR GH WUDQVLVWRUHV SRU\ncentímetro quadrado que se pode colocar em um\nSURFHVVDGRU GREUD D FDGD GRLV DQRV /HL GH 0RRUH\n'LVSRQtYHO HP ZZZ SRFNHW OLQW FRP $FHVVR HP GH] DGDSWDGR\n&RQVLGHUH FRPR DSUR[LPDomR SDUD ORJ₁₀\nEm que ano a empresa atingiu ou atingirá a densidade de\n100 bilhões de transistores?\n\nA. 1999\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Uma loja vende automóveis em N parcelas iguais\nVHP MXURV 1R PRPHQWR GH FRQWUDWDU R ¿QDQFLDPHQWR\ncaso o cliente queira aumentar o prazo, acrescentando\nmais 5 parcelas, o valor de cada uma das parcelas\nGLPLQXL 5 RX VH HOH TXLVHU GLPLQXLU R SUD]R\nFRP SDUFHODV D PHQRV R YDORU GH FDGD XPD GDV\nSDUFHODV VREH 5 &RQVLGHUH DLQGD TXH QDV WUrV\npossibilidades de pagamento, o valor do automóvel é o\nPHVPR WRGDV VmR VHP MXURV H QmR p GDGR GHVFRQWR HP\nnenhuma das situações.\nNessas condições, qual é a quantidade N de parcelas a\nserem pagas de acordo com a proposta inicial da loja?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "58",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma loja vende automóveis em N parcelas iguais\nVHP MXURV 1R PRPHQWR GH FRQWUDWDU R ¿QDQFLDPHQWR\ncaso o cliente queira aumentar o prazo, acrescentando\nmais 5 parcelas, o valor de cada uma das parcelas\nGLPLQXL 5 RX VH HOH TXLVHU GLPLQXLU R SUD]R\nFRP SDUFHODV D PHQRV R YDORU GH FDGD XPD GDV\nSDUFHODV VREH 5 &RQVLGHUH DLQGD TXH QDV WUrV\npossibilidades de pagamento, o valor do automóvel é o\nPHVPR WRGDV VmR VHP MXURV H QmR p GDGR GHVFRQWR HP\nnenhuma das situações.\nNessas condições, qual é a quantidade N de parcelas a\nserem pagas de acordo com a proposta inicial da loja?\n\nA.\nB.\nC.\nD.\nE. 58"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "O salto ornamental é um esporte em que cada\ncompetidor realiza seis saltos. A nota em cada salto é\ncalculada pela soma das notas dos juízes, multiplicada\nSHOD QRWD GH SDUWLGD R JUDX GH GL¿FXOGDGH GH FDGD VDOWR\n)LFD HP SULPHLUR OXJDU R DWOHWD TXH REWLYHU D PDLRU VRPD\ndas seis notas recebidas.\n2 DWOHWD LUi UHDOL]DU R ~OWLPR VDOWR GD ¿QDO\nEle observa no Quadro 1, antes de executar o salto,\no recorte do quadro parcial de notas com a sua\nFODVVL¿FDomR H D GRV WUrV SULPHLURV OXJDUHV DWp DTXHOH\nmomento.\nQuadro 1\n&ODVVL¿FDomR\nAtleta\n6o Salto\nTotal\n\no\n\nEle precisa decidir com seu treinador qual salto\ndeverá realizar. Os dados dos possíveis tipos de salto\nHVWmR QR 4XDGUR\nQuadro 2\n\nO atleta optará pelo salto com a maior probabilidade\nde obter a nota estimada, de maneira que lhe permita\nalcançar o primeiro lugar.\nConsiderando essas condições, o salto que o atleta\ndeverá escolher é o de tipo",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-173/statement-01.png",
+        "/generated/enem-2018/matematica/question-173/statement-02.png",
+        "/generated/enem-2018/matematica/question-173/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-173/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "T1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "7",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "T3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "7",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "T5. *DO0525AM27* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": []
+        }
+      ],
+      "rawText": "O salto ornamental é um esporte em que cada\ncompetidor realiza seis saltos. A nota em cada salto é\ncalculada pela soma das notas dos juízes, multiplicada\nSHOD QRWD GH SDUWLGD R JUDX GH GL¿FXOGDGH GH FDGD VDOWR\n)LFD HP SULPHLUR OXJDU R DWOHWD TXH REWLYHU D PDLRU VRPD\ndas seis notas recebidas.\n2 DWOHWD LUi UHDOL]DU R ~OWLPR VDOWR GD ¿QDO\nEle observa no Quadro 1, antes de executar o salto,\no recorte do quadro parcial de notas com a sua\nFODVVL¿FDomR H D GRV WUrV SULPHLURV OXJDUHV DWp DTXHOH\nmomento.\nQuadro 1\n&ODVVL¿FDomR\nAtleta\n6o Salto\nTotal\n\no\n\nEle precisa decidir com seu treinador qual salto\ndeverá realizar. Os dados dos possíveis tipos de salto\nHVWmR QR 4XDGUR\nQuadro 2\n\nO atleta optará pelo salto com a maior probabilidade\nde obter a nota estimada, de maneira que lhe permita\nalcançar o primeiro lugar.\nConsiderando essas condições, o salto que o atleta\ndeverá escolher é o de tipo\n\nA. T1.\nB. 7\nC. T3.\nD. 7\nE. T5. *DO0525AM27* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "2V JXLQGDVWHV VmR IXQGDPHQWDLV HP FDQWHLURV GH REUDV QR PDQHMR GH PDWHULDLV SHVDGRV FRPR YLJDV GH DoR\n$ ¿JXUD LOXVWUD XPD VHTXrQFLD GH HVWiJLRV HP TXH XP JXLQGDVWH LoD XPD YLJD GH DoR TXH VH HQFRQWUD LQLFLDOPHQWH\nno solo.\n\nCabo de aço\n\nViga\n\nM\nM\n\nO\nEstágio 1\nO\nEstágio 2\nM\n\nO\nEstágio 3\n1D ¿JXUD R SRQWR 2 UHSUHVHQWD D SURMHomR RUWRJRQDO GR FDER GH DoR VREUH R SODQR GR FKmR H HVWH VH PDQWpP\nna vertical durante todo o movimento de içamento da viga, que se inicia no tempo t HVWiJLR H ¿QDOL]D QR\ntempo tf (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra\nH[WUHPLGDGH GHVOL]D VREUH R VROR HP GLUHomR DR SRQWR 2 &RQVLGHUH TXH R FDER GH DoR XWLOL]DGR SHOR JXLQGDVWH\nSDUD LoDU D YLJD ¿TXH VHPSUH QD SRVLomR YHUWLFDO 1D ¿JXUD R SRQWR 0 UHSUHVHQWD R SRQWR PpGLR GR VHJPHQWR TXH\nrepresenta a viga.\n2 JUi¿FR TXH GHVFUHYH D GLVWkQFLD GR SRQWR 0 DR SRQWR 2 HP IXQomR GR WHPSR HQWUH W 0 e tf, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Distância Tempo\ntf\n0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Distância Tempo\n0\ntf",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Distância Tempo\n0\ntf *DO0525AM28* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Distância Tempo\n0\ntf",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Distância Tempo\n0\ntf",
+          "assets": []
+        }
+      ],
+      "rawText": "2V JXLQGDVWHV VmR IXQGDPHQWDLV HP FDQWHLURV GH REUDV QR PDQHMR GH PDWHULDLV SHVDGRV FRPR YLJDV GH DoR\n$ ¿JXUD LOXVWUD XPD VHTXrQFLD GH HVWiJLRV HP TXH XP JXLQGDVWH LoD XPD YLJD GH DoR TXH VH HQFRQWUD LQLFLDOPHQWH\nno solo.\n\nCabo de aço\n\nViga\n\nM\nM\n\nO\nEstágio 1\nO\nEstágio 2\nM\n\nO\nEstágio 3\n1D ¿JXUD R SRQWR 2 UHSUHVHQWD D SURMHomR RUWRJRQDO GR FDER GH DoR VREUH R SODQR GR FKmR H HVWH VH PDQWpP\nna vertical durante todo o movimento de içamento da viga, que se inicia no tempo t HVWiJLR H ¿QDOL]D QR\ntempo tf (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra\nH[WUHPLGDGH GHVOL]D VREUH R VROR HP GLUHomR DR SRQWR 2 &RQVLGHUH TXH R FDER GH DoR XWLOL]DGR SHOR JXLQGDVWH\nSDUD LoDU D YLJD ¿TXH VHPSUH QD SRVLomR YHUWLFDO 1D ¿JXUD R SRQWR 0 UHSUHVHQWD R SRQWR PpGLR GR VHJPHQWR TXH\nrepresenta a viga.\n2 JUi¿FR TXH GHVFUHYH D GLVWkQFLD GR SRQWR 0 DR SRQWR 2 HP IXQomR GR WHPSR HQWUH W 0 e tf, é\n\nA. Distância Tempo\ntf\n0\nB. Distância Tempo\n0\ntf\nC. Distância Tempo\n0\ntf *DO0525AM28* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD\nD. Distância Tempo\n0\ntf\nE. Distância Tempo\n0\ntf"
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "$ ¿JXUD DSUHVHQWD XP SURMHWR GH XPD UDPSD GH DFHVVR D XPD JDUDJHP UHVLGHQFLDO FXMD EDVH VLWXDGD PHWURV\nabaixo do nível da rua, tem 8 metros de comprimento. Garagem\n2 m 8 m Portão Rampa Nível da rua Nível da base\nda garagem Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde\nHOD HVWi ORFDOL]DGD H[LJHP TXH D LQFOLQDomR Pi[LPD GH XPD UDPSD GH DFHVVR D XPD JDUDJHP UHVLGHQFLDO VHMD GH 6H D UDPSD SURMHWDGD WLYHU LQFOLQDomR VXSHULRU D R QtYHO GD JDUDJHP GHYHUi VHU DOWHUDGR SDUD GLPLQXLU R\nSHUFHQWXDO GH LQFOLQDomR PDQWHQGR R FRPSULPHQWR GD EDVH GD UDPSD Para atender às normas técnicas do município, o nível da garagem deverá ser",
+          "assets": [
+            "/generated/enem-2018/matematica/question-175/option-a-01.png",
+            "/generated/enem-2018/matematica/question-175/option-a-02.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "elevado em 50 cm.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "mantido no mesmo nível.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-175/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "Inclinação 20% *DO0525AM29* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": [
+            "/generated/enem-2018/matematica/question-175/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A. $ ¿JXUD DSUHVHQWD XP SURMHWR GH XPD UDPSD GH DFHVVR D XPD JDUDJHP UHVLGHQFLDO FXMD EDVH VLWXDGD PHWURV\nabaixo do nível da rua, tem 8 metros de comprimento. Garagem\n2 m 8 m Portão Rampa Nível da rua Nível da base\nda garagem Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde\nHOD HVWi ORFDOL]DGD H[LJHP TXH D LQFOLQDomR Pi[LPD GH XPD UDPSD GH DFHVVR D XPD JDUDJHP UHVLGHQFLDO VHMD GH 6H D UDPSD SURMHWDGD WLYHU LQFOLQDomR VXSHULRU D R QtYHO GD JDUDJHP GHYHUi VHU DOWHUDGR SDUD GLPLQXLU R\nSHUFHQWXDO GH LQFOLQDomR PDQWHQGR R FRPSULPHQWR GD EDVH GD UDPSD Para atender às normas técnicas do município, o nível da garagem deverá ser\nB. elevado em 50 cm.\nC. mantido no mesmo nível.\nD.\nE. Inclinação 20% *DO0525AM29* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Para ganhar um prêmio, uma pessoa deverá retirar,\nVXFHVVLYDPHQWH H VHP UHSRVLomR GXDV ERODV SUHWDV GH\numa mesma urna.\n,QLFLDOPHQWH DV TXDQWLGDGHV H FRUHV GDV ERODV VmR\ncomo descritas a seguir:\n Urna A – Possui três bolas brancas, duas bolas\npretas e uma bola verde;\n Urna B – Possui seis bolas brancas, três bolas\npretas e uma bola verde;\n Urna C – Possui duas bolas pretas e duas bolas\nverdes;\n Urna D – Possui três bolas brancas e três bolas\npretas.\nA pessoa deve escolher uma entre as cinco opções\napresentadas:\n 2SomR ± 5HWLUDU DOHDWRULDPHQWH GXDV ERODV GD XUQD $\n 2SomR ± 5HWLUDU DOHDWRULDPHQWH GXDV ERODV GD\nurna B;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nC para a urna A; após isso, retirar, aleatoriamente,\nduas bolas da urna A;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nD para a urna C; após isso, retirar, aleatoriamente,\nduas bolas da urna C;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nC para a urna D; após isso, retirar, aleatoriamente,\nduas bolas da urna D.\nCom o objetivo de obter a maior probabilidade possível de\nJDQKDU R SUrPLR D SHVVRD GHYH HVFROKHU D RSomR",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para ganhar um prêmio, uma pessoa deverá retirar,\nVXFHVVLYDPHQWH H VHP UHSRVLomR GXDV ERODV SUHWDV GH\numa mesma urna.\n,QLFLDOPHQWH DV TXDQWLGDGHV H FRUHV GDV ERODV VmR\ncomo descritas a seguir:\n Urna A – Possui três bolas brancas, duas bolas\npretas e uma bola verde;\n Urna B – Possui seis bolas brancas, três bolas\npretas e uma bola verde;\n Urna C – Possui duas bolas pretas e duas bolas\nverdes;\n Urna D – Possui três bolas brancas e três bolas\npretas.\nA pessoa deve escolher uma entre as cinco opções\napresentadas:\n 2SomR ± 5HWLUDU DOHDWRULDPHQWH GXDV ERODV GD XUQD $\n 2SomR ± 5HWLUDU DOHDWRULDPHQWH GXDV ERODV GD\nurna B;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nC para a urna A; após isso, retirar, aleatoriamente,\nduas bolas da urna A;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nD para a urna C; após isso, retirar, aleatoriamente,\nduas bolas da urna C;\n 2SomR ± 3DVVDU DOHDWRULDPHQWH XPD EROD GD XUQD\nC para a urna D; após isso, retirar, aleatoriamente,\nduas bolas da urna D.\nCom o objetivo de obter a maior probabilidade possível de\nJDQKDU R SUrPLR D SHVVRD GHYH HVFROKHU D RSomR\n\nA. 1.\nB.\nC. 3.\nD.\nE. 5."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "A Ecofont possui design baseado na velha fonte\nVera Sans. Porém, ela tem um diferencial: pequenos\nburaquinhos circulares congruentes, e em todo o seu corpo,\npresentes em cada símbolo. Esses furos proporcionam\num gasto de tinta menor na hora da iPSUHVVmR\n\n'LVSRQtYHO HP ZZZ JRR JO $FHVVR HP GH] DGDSWDGR\nSuponha que a palavra ECO esteja escrita nessa fonte,\nFRP WDPDQKR H TXH VHMD FRPSRVWD SRU OHWUDV IRUPDGDV\npor quadrados de lados x com furos circulares de raio\nx\n3\nr =\n. Para que a área a ser pintada seja reduzida a 1\n16\nda área inicial, pretenGH VH UHGX]LU R WDPDQKR GD IRQWH\n6DEH VH TXH DR DOWHUDU R WDPDQKR GD IRQWH R WDPDQKR\nda letra é alterado na mHVPD SURSRUomR\nNessas condições, o tamanho adequado da fonte será",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-177/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-177/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A Ecofont possui design baseado na velha fonte\nVera Sans. Porém, ela tem um diferencial: pequenos\nburaquinhos circulares congruentes, e em todo o seu corpo,\npresentes em cada símbolo. Esses furos proporcionam\num gasto de tinta menor na hora da iPSUHVVmR\n\n'LVSRQtYHO HP ZZZ JRR JO $FHVVR HP GH] DGDSWDGR\nSuponha que a palavra ECO esteja escrita nessa fonte,\nFRP WDPDQKR H TXH VHMD FRPSRVWD SRU OHWUDV IRUPDGDV\npor quadrados de lados x com furos circulares de raio\nx\n3\nr =\n. Para que a área a ser pintada seja reduzida a 1\n16\nda área inicial, pretenGH VH UHGX]LU R WDPDQKR GD IRQWH\n6DEH VH TXH DR DOWHUDU R WDPDQKR GD IRQWH R WDPDQKR\nda letra é alterado na mHVPD SURSRUomR\nNessas condições, o tamanho adequado da fonte será\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "3DUD FULDU XP ORJRWLSR XP SUR¿VVLRQDO GD iUHD GH\ndesignJUi¿FR GHVHMD FRQVWUXt OR XWLOL]DQGR R FRQMXQWR GH\npontos do plano na forma de um triângulo, exatamente\ncomo mostra a imagem.\n\nx\ny\n\nPara construir tal imagem utilizando uma ferramenta\nJUi¿FD VHUi QHFHVViULR HVFUHYHU DOJHEULFDPHQWH R\nFRQMXQWR TXH UHSUHVHQWD RV SRQWRV GHVVH JUi¿FR\nEsse conjunto é dado pelos pares ordenados (x ; y) `u`,\ntais que",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-178/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0 d x d y d 10",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0 d y d x d 10",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2018/matematica/question-178/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "0 d x y d 10",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0 d x y d *DO0525AM30* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD",
+          "assets": []
+        }
+      ],
+      "rawText": "3DUD FULDU XP ORJRWLSR XP SUR¿VVLRQDO GD iUHD GH\ndesignJUi¿FR GHVHMD FRQVWUXt OR XWLOL]DQGR R FRQMXQWR GH\npontos do plano na forma de um triângulo, exatamente\ncomo mostra a imagem.\n\nx\ny\n\nPara construir tal imagem utilizando uma ferramenta\nJUi¿FD VHUi QHFHVViULR HVFUHYHU DOJHEULFDPHQWH R\nFRQMXQWR TXH UHSUHVHQWD RV SRQWRV GHVVH JUi¿FR\nEsse conjunto é dado pelos pares ordenados (x ; y) `u`,\ntais que\n\nA. 0 d x d y d 10\nB. 0 d y d x d 10\nC.\nD. 0 d x y d 10\nE. 0 d x y d *DO0525AM30* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD"
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "A figura mostra uma praça circular que contém\num chafariz em seu centro e, em seu entorno, um\npasseio. Os círculos que definem a praça e o chafariz\nVmR FRQFrQWULFRV\n\nPraça\nChafariz\nP\na\ns\ns\ne\ni\no\n\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\n\nO passeio terá seu piso revestido com ladrilhos. Sem\ncondições de calcular os raios, pois o chafariz está cheio,\nXP HQJHQKHLUR IH] D VHJXLQWH PHGLomR HVWLFRX XPD\ntrena tangente ao chafariz, medindo a distância entre\ndois pontos A e BFRQIRUPH D ¿JXUD &RP LVVR REWHYH D\nmedida do segmento de reta AB: 16 m.\n\nDispondo apenas dessa medida, o engenheiro\ncalculou corretamente a medida da área do passeio, em\nmetro quadrado.\nA medida encontrada pelo engenheiro foi",
+      "statementAssets": [
+        "/generated/enem-2018/matematica/question-179/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2018/matematica/question-179/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "S",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8S",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "S",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "S",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "S",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura mostra uma praça circular que contém\num chafariz em seu centro e, em seu entorno, um\npasseio. Os círculos que definem a praça e o chafariz\nVmR FRQFrQWULFRV\n\nPraça\nChafariz\nP\na\ns\ns\ne\ni\no\n\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\n\nO passeio terá seu piso revestido com ladrilhos. Sem\ncondições de calcular os raios, pois o chafariz está cheio,\nXP HQJHQKHLUR IH] D VHJXLQWH PHGLomR HVWLFRX XPD\ntrena tangente ao chafariz, medindo a distância entre\ndois pontos A e BFRQIRUPH D ¿JXUD &RP LVVR REWHYH D\nmedida do segmento de reta AB: 16 m.\n\nDispondo apenas dessa medida, o engenheiro\ncalculou corretamente a medida da área do passeio, em\nmetro quadrado.\nA medida encontrada pelo engenheiro foi\n\nA. S\nB. 8S\nC. S\nD. S\nE. S"
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2018,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2018 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Um designer de jogos planeja um jogo que faz uso\nGH XP WDEXOHLUR GH GLPHQVmRn u n, com n tQR TXDO\ncada jogador, na sua vez, coloca uma peça sobre uma\ndas casas vazias do tabuleiro. Quando uma peça é\nSRVLFLRQDGD D UHJLmR IRUPDGD SHODV FDVDV TXH HVWmR QD\nmesma linha ou coluna dessa peça é chamada de zona\nGH FRPEDWH GHVVD SHoD 1D ¿JXUD HVWi LOXVWUDGD D ]RQD\nde combate de uma peça colocada em uma das casas de\nXP WDEXOHLUR GH GLPHQVmRu 8.\n\nO tabuleiro deve ser dimensionado de forma que a\nprobabilidade de se posicionar a segunda peça\nDOHDWRULDPHQWH VHJXLQGR D UHJUD GR MRJR H HVWD ¿FDU\nsobre a zona de combate da primeira, seja inferior a 1\n5\n.\n$ GLPHQVmR PtQLPD TXH R designer deve adotar para\nesse tabuleiro é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "u",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "6 u 6.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "9 u 9.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "10 u 10.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "11 u 11. *DO0525AM31* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD *DO0525AM32*",
+          "assets": []
+        }
+      ],
+      "rawText": "Um designer de jogos planeja um jogo que faz uso\nGH XP WDEXOHLUR GH GLPHQVmRn u n, com n tQR TXDO\ncada jogador, na sua vez, coloca uma peça sobre uma\ndas casas vazias do tabuleiro. Quando uma peça é\nSRVLFLRQDGD D UHJLmR IRUPDGD SHODV FDVDV TXH HVWmR QD\nmesma linha ou coluna dessa peça é chamada de zona\nGH FRPEDWH GHVVD SHoD 1D ¿JXUD HVWi LOXVWUDGD D ]RQD\nde combate de uma peça colocada em uma das casas de\nXP WDEXOHLUR GH GLPHQVmRu 8.\n\nO tabuleiro deve ser dimensionado de forma que a\nprobabilidade de se posicionar a segunda peça\nDOHDWRULDPHQWH VHJXLQGR D UHJUD GR MRJR H HVWD ¿FDU\nsobre a zona de combate da primeira, seja inferior a 1\n5\n.\n$ GLPHQVmR PtQLPD TXH R designer deve adotar para\nesse tabuleiro é\n\nA. u\nB. 6 u 6.\nC. 9 u 9.\nD. 10 u 10.\nE. 11 u 11. *DO0525AM31* 07  GLD _ &DGHUQR $0$5(/2 3iJLQD *DO0525AM32*"
+    }
+  ]
+}

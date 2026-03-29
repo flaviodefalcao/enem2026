@@ -1,0 +1,182 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q097",
+  "generatedAt": "2026-03-28T22:32:09.570Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 853,
+      "outputTokens": 976,
+      "estimatedCostUsd": 0.001903
+    },
+    "explainer": {
+      "inputTokens": 1658,
+      "outputTokens": 393,
+      "estimatedCostUsd": 0.001292
+    },
+    "reviewer": {
+      "inputTokens": 2972,
+      "outputTokens": 2357,
+      "estimatedCostUsd": 0.00496
+    },
+    "totalEstimatedCostUsd": 0.008155
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta C é correta com base na observação do padrão de distribuição das células bacterianas nos tubos e no conhecimento sobre os tipos metabólicos dessas bactérias.",
+      "strategy": "Analisar a distribuição das bactérias em cada tubo de ensaio visando identificar o tipo de metabolismo energético: aeróbio estrito, anaeróbio estrito ou anaeróbio facultativo, com base na preferência por oxigênio para crescimento.",
+      "steps": [
+        "Observar o tubo 1: as bactérias estão concentradas na superfície, onde há maior disponibilidade de oxigênio, indicando que são aeróbias estritas, que necessitam de oxigênio para crescer.",
+        "Observar o tubo 2: as bactérias estão concentradas no fundo, onde o oxigênio é escasso, indicando que são anaeróbias estritas, que crescem apenas na ausência de oxigênio.",
+        "Observar o tubo 3: as bactérias estão distribuídas por todo o tubo, indicando que podem crescer tanto na presença quanto na ausência de oxigênio, caracterizando-se como anaeróbios facultativos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Presença de pontos no topo do tubo 1 indicando concentração na superfície (aeróbio estrito).",
+        "Presença de pontos no fundo do tubo 2 indicando concentração na ausência de oxigênio (anaeróbio estrito).",
+        "Distribuição uniforme dos pontos no tubo 3 indicando crescimento tanto na presença quanto na ausência de oxigênio (anaeróbio facultativo)."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Cada tubo mostra um padrão de crescimento bacteriano diferente relacionado ao uso do oxigênio: (1) bactérias crescem na superfície, usam oxigênio (aeróbias estritas); (2) crescem só no fundo, não usam oxigênio (anaeróbias estritas); (3) distribuídas por todo o tubo, crescem com ou sem oxigênio (anaeróbias facultativas).",
+      "stepByStep": [
+        "Observe o tubo 1: as bactérias estão concentradas no topo, onde o oxigênio é mais disponível, indicando que precisam de oxigênio para crescer (aeróbias estritas).",
+        "No tubo 2, as bactérias se concentram no fundo, onde não há oxigênio, indicando que não sobrevivem na presença do oxigênio (anaeróbias estritas).",
+        "No tubo 3, as bactérias estão distribuídas uniformemente, crescendo em ambas as condições, com ou sem oxigênio (anaeróbias facultativas)."
+      ],
+      "commonPitfalls": [
+        "Confundir anaeróbias facultativas com estritas pela distribuição no tubo.",
+        "Associar incorretamente o crescimento na superfície como sinal de anaeróbio facultativo.",
+        "Inverter os papéis do oxigênio e a localização da bactéria no tubo.",
+        "Ignorar a relação entre a presença de oxigênio e o local de crescimento bacteriano."
+      ],
+      "teachingTips": [
+        "Utilize modelos ou diagramas para mostrar como o oxigênio se distribui em um líquido.",
+        "Explique os termos aeróbio estrito, anaeróbio estrito e facultativo com exemplos práticos.",
+        "Peça para os estudantes relacionarem visualmente o padrão de crescimento com o ambiente do oxigênio.",
+        "Promova atividades em que os alunos predigam o padrão de crescimento para diferentes tipos de bactérias antes de ver o experimento."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir características de anaeróbios facultativos e anaeróbios estritos devido à má interpretação do padrão de crescimento nas áreas dos tubos.",
+        "misconceptionType": "Confusão conceitual sobre requisitos de oxigênio para o crescimento bacteriano.",
+        "whyItLooksPlausible": "Há crescimento no fundo do tubo 2, que poderia ser interpretado como anaeróbio estrito, mas a ordem com anaeróbio facultativo no tubo 1 não se ajusta à visualização.",
+        "whyItIsWrong": "O tubo 1 mostra crescimento apenas na superfície, indicando aeróbio estrito, não anaeróbio facultativo."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associar erroneamente o crescimento na parte superior do tubo 1 a anaeróbio facultativo, e no tubo 2 a aeróbio estrito.",
+        "misconceptionType": "Inversão das características metabólicas associadas à posição celular.",
+        "whyItLooksPlausible": "Presença de células no topo e embaixo dos tubos pode confundir a ordem dos tipos metabólicos.",
+        "whyItIsWrong": "O aeróbio estrito cresce no topo (tubo 1), não no meio (tubo 2), e anaeróbio estrito cresce no fundo (tubo 2), não no meio."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar o tubo 1 como anaeróbio estrito e o tubo 3 como anaeróbio facultativo, baseando-se apenas na posição das bactérias sem relação correta com oxigênio.",
+        "misconceptionType": "Interpretação incorreta do padrão de crescimento em relação ao oxigênio.",
+        "whyItLooksPlausible": "O crescimento no topo do tubo 3 pode sugerir anaeróbio facultativo, mas a distribuição no tubo 1 não confere.",
+        "whyItIsWrong": "O anaeróbio estrito não cresce próximo ao oxigênio como mostrado no tubo 1."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confusão entre os metabólitos dos tubos 1 e 2 e a posição das bactérias dentro dos tubos.",
+        "misconceptionType": "Troca de conceitos relativos ao crescimento aeróbio e anaeróbio.",
+        "whyItLooksPlausible": "A presença de bactérias no topo do tubo 1 e distribuição no tubo 3 pode levar a esta interpretação errada.",
+        "whyItIsWrong": "O tubo 1 mostra características de aeróbio estrito e o tubo 3 de anaeróbio facultativo, não ao contrário."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de Experimentos Biológicos",
+      "secondarySkills": [
+        "Conhecimento em Microbiologia",
+        "Análise de Distribuição de Micro-organismos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A análise correta do padrão de distribuição das bactérias em relação à disponibilidade de oxigênio é fundamental para a resolução.",
+        "Conhecimento prévio sobre metabolismo aeróbio e anaeróbio é necessário.",
+        "A questão exige ligação entre conceito teórico e interpretação visual."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧫",
+      "shortThemeTitle": "Metabolismo bacteriano e uso do oxigênio",
+      "interpretationIntro": "A questão apresenta diferentes padrões de crescimento bacteriano em tubos de ensaio e pede a classificação dos microrganismos quanto ao metabolismo energético, considerando a relação com o oxigênio.",
+      "commandTerms": [
+        {
+          "term": "Classificar",
+          "explanation": "Identificar os tipos metabólicos dos microrganismos com base no padrão de crescimento."
+        },
+        {
+          "term": "Analisar",
+          "explanation": "Observar a distribuição bacteriana e relacionar com as condições de oxigênio."
+        }
+      ],
+      "whatTheQuestionAsks": "Determinar se as bactérias dos tubos 1, 2 e 3 são aeróbias estritas, anaeróbias estritas ou anaeróbias facultativas a partir do padrão visual de crescimento.",
+      "strategyParagraph": "Para resolver, observe em cada tubo a distribuição das bactérias: se concentradas na superfície (mais oxigênio), no fundo (sem oxigênio) ou espalhadas uniformemente (crescem com ou sem oxigênio). Relacione esse padrão com o metabolismo energético esperado para cada tipo.",
+      "reviewTable": [
+        {
+          "concept": "Metabolismo bacteriano",
+          "keyIdea": "Algumas bactérias dependem de oxigênio, outras não, ou podem crescer em ambos os ambientes.",
+          "application": "A posição das bactérias no tubo indica seu tipo metabólico."
+        },
+        {
+          "concept": "Oxigênio dissolvido em meio líquido",
+          "keyIdea": "O oxigênio está mais concentrado na superfície do meio líquido e menos no fundo.",
+          "application": "Bactérias aeróbias crescem no topo, anaeróbias estritas no fundo e facultativas em toda extensão."
+        }
+      ],
+      "theoryParagraphs": [
+        "Bactérias aeróbias estritas necessitam de oxigênio para sua respiração e, portanto, crescem preferencialmente na superfície do meio de cultura, onde o oxigênio está disponível.",
+        "Bactérias anaeróbias estritas são inibidas ou morrem na presença de oxigênio, crescendo somente nas regiões sem oxigênio, geralmente no fundo ou áreas isoladas do tubo.",
+        "Por sua vez, bactérias anaeróbias facultativas podem crescer tanto na presença quanto na ausência de oxigênio, distribuindo-se por toda a extensão do meio de cultura."
+      ],
+      "resolutionParagraphs": [
+        "Observando o tubo 1, as bactérias estão concentradas no topo, mostrando dependência de oxigênio para sobrevivência e crescimento, característica de aeróbios estritos.",
+        "No tubo 2, as bactérias se localizam no fundo, onde o oxigênio é praticamente inexistente, indicando que são anaeróbias estritas, que não toleram oxigênio.",
+        "No tubo 3, as bactérias estão dispersas por todo o tubo, evidenciando a capacidade de crescimento tanto na presença quanto na ausência de oxigênio, típico dos anaeróbios facultativos.",
+        "Logo, a sequência correta que classifica os microrganismos dos tubos 1, 2 e 3 é: aeróbio estrito, anaeróbio estrito e anaeróbio facultativo, respectivamente (alternativa C)."
+      ],
+      "puloDoGato": "Lembre-se: onde há oxigênio, só aeróbios crescem; onde não há, anaeróbios estritos; quem cresce em tudo é o facultativo.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Troca o aeróbio estrito com o anaeróbio facultativo, o que não condiz com a distribuição observada no tubo 1."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Inverte os papéis da localização da bactéria, associando incorretamente o crescimento no topo ao anaeróbio facultativo e no fundo ao aeróbio."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Correta, pois identifica corretamente cada padrão: tubo 1 aeróbio estrito, tubo 2 anaeróbio estrito e tubo 3 anaeróbio facultativo."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Interpretação errada do padrão de crescimento e sua relação com a presença de oxigênio."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Confunde caracterizações de crescimento com base na presença ou ausência de oxigênio nos tubos."
+        }
+      ],
+      "questionCode": "CN_MICROBIOLOGIA_CIENCIAS_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "Enunciado, solução e explainer apresentam coerência completa na análise dos padrões de crescimento bacteriano e nos conceitos sobre metabolismo energético. O campo officialResolution segue as normas editoriais exigidas, com linguagem clara e didática, e análise detalhada das alternativas.",
+      "issues": []
+    }
+  }
+}

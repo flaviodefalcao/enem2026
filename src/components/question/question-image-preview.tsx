@@ -106,11 +106,11 @@ export function QuestionImagePreview({
 
   return (
     <>
-      <article className="overflow-hidden rounded-[30px] border border-[#dccfb8] bg-[#fffdf8] shadow-card">
-        <div className="border-b border-[#e9dfce] bg-[#f7f0e4] px-5 py-4">
+      <article className="overflow-hidden rounded-[30px] border border-[#d6e6ff] bg-[#fbfdff] shadow-card">
+        <div className="border-b border-[#e4eefb] bg-[#f1f7ff] px-5 py-4">
           <div className="flex flex-wrap items-start justify-between gap-3">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[#8d7350]">
+              <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[#5a7ead]">
                 Questão formatada como prova
               </p>
               <p className="mt-2 font-display text-2xl text-ink">{title}</p>
@@ -130,7 +130,7 @@ export function QuestionImagePreview({
               <button
                 type="button"
                 onClick={() => setZoomedAsset(primaryAsset)}
-                className="rounded-full border border-[#d7c6ae] bg-white px-4 py-2 text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
+                className="rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-ink transition hover:border-clay/50 hover:text-clay"
               >
                 Ampliar imagem
               </button>
@@ -141,28 +141,28 @@ export function QuestionImagePreview({
         <div className="space-y-8 px-5 py-6 sm:px-7 sm:py-7">
           <section className="space-y-4">
             <div className="flex items-center gap-3">
-              <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d9ccb8] bg-white text-sm font-semibold text-ink">
+              <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d6e6ff] bg-white text-sm font-semibold text-ink">
                 01
               </span>
               <h2 className="font-display text-xl text-ink">Enunciado</h2>
             </div>
 
-            <div className="space-y-4 rounded-[24px] border border-[#e5dac8] bg-white px-5 py-5">
+            <div className="space-y-4 rounded-[24px] border border-[#dfeafb] bg-white px-5 py-5">
               {contentBlocks.map((block, index) =>
                 block.type === "paragraph" ? (
                   <p
                     key={`${index}-${block.text.slice(0, 24)}`}
-                    className="text-[1.02rem] leading-8 text-[#2c3748]"
+                    className="text-[1.02rem] leading-8 text-[#3d5f8a]"
                   >
                     {block.text}
                   </p>
                 ) : (
                   <ul
                     key={`${index}-${block.items[0]?.slice(0, 24) ?? "list"}`}
-                    className="space-y-2 pl-6 text-[1.01rem] leading-8 text-[#2c3748]"
+                    className="space-y-2 pl-6 text-[1.01rem] leading-8 text-[#3d5f8a]"
                   >
                     {block.items.map((item) => (
-                      <li key={item} className="list-disc marker:text-[#8d7350]">
+                      <li key={item} className="list-disc marker:text-[#6aa5e8]">
                         {item}
                       </li>
                     ))}
@@ -185,7 +185,7 @@ export function QuestionImagePreview({
                         key={asset}
                         type="button"
                         onClick={() => setZoomedAsset(asset)}
-                        className="group rounded-[24px] border border-[#e5dac8] bg-[#fcf8f2] p-3 text-left transition hover:border-clay/40"
+                        className="group rounded-[24px] border border-[#dfeafb] bg-[#f7fbff] p-3 text-left transition hover:border-clay/50"
                       >
                         <div className="flex min-h-[260px] items-center justify-center overflow-hidden rounded-[18px] bg-white p-3">
                           <img
@@ -208,7 +208,7 @@ export function QuestionImagePreview({
           <section className="space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-3">
               <div className="flex items-center gap-3">
-                <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d9ccb8] bg-white text-sm font-semibold text-ink">
+                <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d6e6ff] bg-white text-sm font-semibold text-ink">
                   02
                 </span>
                 <h2 className="font-display text-xl text-ink">Alternativas</h2>
@@ -221,7 +221,7 @@ export function QuestionImagePreview({
             </div>
 
             {!hasRenderableOptions && hasStatementAssets ? (
-              <div className="rounded-[24px] border border-[#e5dac8] bg-white px-5 py-5">
+              <div className="rounded-[24px] border border-[#dfeafb] bg-white px-5 py-5">
                 <p className="text-[1.01rem] italic leading-8 text-slate-500">
                   As alternativas desta questão estão preservadas no elemento visual do enunciado.
                 </p>
@@ -235,7 +235,7 @@ export function QuestionImagePreview({
                   onClick={() => setSelectedOption(item.option)}
                   className={`block w-full rounded-[24px] border px-5 py-4 text-left transition ${
                     !hasOfficialAnswer || selectedOption === null
-                      ? "border-[#e5dac8] bg-white hover:border-clay/40 hover:bg-[#fffaf1]"
+                      ? "border-[#dfeafb] bg-white hover:border-clay/50 hover:bg-[#f7fbff]"
                       : item.option === correctOption
                         ? "border-emerald-300 bg-emerald-50"
                         : selectedOption === item.option
@@ -247,7 +247,7 @@ export function QuestionImagePreview({
                     <div
                       className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full border text-sm font-semibold ${
                         !hasOfficialAnswer || selectedOption === null
-                          ? "border-[#d9ccb8] bg-[#f7f0e4] text-ink"
+                          ? "border-[#d6e6ff] bg-[#f1f7ff] text-ink"
                           : item.option === correctOption
                             ? "border-emerald-300 bg-emerald-100 text-emerald-900"
                             : selectedOption === item.option
@@ -260,7 +260,7 @@ export function QuestionImagePreview({
 
                     <div className="min-w-0 flex-1 space-y-3">
                       {item.text ? (
-                        <p className="text-[1.01rem] leading-8 text-[#2c3748]">
+                        <p className="text-[1.01rem] leading-8 text-[#3d5f8a]">
                           {item.text}
                         </p>
                       ) : item.displayMode === "suppressed" ? (
@@ -285,7 +285,7 @@ export function QuestionImagePreview({
                               key={asset}
                               type="button"
                               onClick={() => setZoomedAsset(asset)}
-                              className="rounded-[20px] border border-[#e5dac8] bg-[#fcf8f2] p-3 text-left transition hover:border-clay/40"
+                              className="rounded-[20px] border border-[#dfeafb] bg-[#f7fbff] p-3 text-left transition hover:border-clay/50"
                             >
                               <div className="flex min-h-[180px] items-center justify-center overflow-hidden rounded-[16px] bg-white p-2">
                                 <img
@@ -349,7 +349,7 @@ export function QuestionImagePreview({
               </button>
             </div>
 
-            <div className="flex max-h-[80vh] items-center justify-center overflow-auto rounded-[24px] border border-slate-200 bg-[#fcf8f2] p-4">
+            <div className="flex max-h-[80vh] items-center justify-center overflow-auto rounded-[24px] border border-slate-200 bg-[#f7fbff] p-4">
               <img
                 src={zoomedAsset}
                 alt={`Imagem ampliada da ${title}`}

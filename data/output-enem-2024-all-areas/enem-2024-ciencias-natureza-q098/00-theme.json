@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:32:41.274Z",
+  "questionId": "enem-2024-ciencias-natureza-q098",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Ondas, óptica e radiação",
+    "rationale": "A questão aborda o fenômeno da fosforescência do sulfeto de zinco dopado, que ocorre devido a transições eletrônicas induzidas pela interação da radiação (luz ambiente) com a matéria (substância dopada). Portanto, está relacionada ao estudo da interação da radiação com a matéria, característico do tema 'Ondas, óptica e radiação' na Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1159,
+    "outputTokens": 108,
+    "estimatedCostUsd": 0.000636
+  }
+}

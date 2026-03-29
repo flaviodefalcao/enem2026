@@ -1,0 +1,187 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q096",
+  "generatedAt": "2026-03-28T22:30:50.259Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1036,
+      "outputTokens": 784,
+      "estimatedCostUsd": 0.001669
+    },
+    "explainer": {
+      "inputTokens": 1724,
+      "outputTokens": 434,
+      "estimatedCostUsd": 0.001384
+    },
+    "reviewer": {
+      "inputTokens": 3081,
+      "outputTokens": 2038,
+      "estimatedCostUsd": 0.004493
+    },
+    "totalEstimatedCostUsd": 0.007546
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A resposta está correta conforme a análise estrutural dos compostos apresentados.",
+      "strategy": "Identificar o grupo funcional comum presente nos dois compostos químicos fornecidos, analisando suas estruturas.",
+      "steps": [
+        "Examinar a estrutura do Composto 1: observa-se um grupo COOH (ácido carboxílico) e um grupo OH ligado ao anel aromático (grupo fenólico).",
+        "Examinar a estrutura do Composto 2: observa-se um grupo COOH (ácido carboxílico) presente na cadeia lateral.",
+        "Identificar o grupo funcional comum entre os dois compostos, que é o grupo ácido carboxílico (COOH).",
+        "Comparar com as alternativas fornecidas para escolher a função orgânica que corresponde ao grupo funcional comum."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado 1: estruturas químicas dos Compostos 1 e 2"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Os dois compostos apresentam em comum o grupo funcional ácido carboxílico (COOH), essencial para a atividade bioquímica desses pesticidas naturais, caracterizado por um carbono ligado duplamente a um oxigênio e também ligado a um grupo hidroxila (OH).",
+      "stepByStep": [
+        "Observar no Composto 1 a presença do grupo COOH e do grupo OH ligado ao anel aromático (fenol).",
+        "Observar no Composto 2 a presença do grupo COOH na cadeia lateral do composto.",
+        "Confrontar as estruturas dos dois compostos para encontrar o grupo funcional presente em ambos: ácido carboxílico (COOH).",
+        "Verificar as alternativas e selecionar aquela que representa essa função orgânica comum."
+      ],
+      "commonPitfalls": [
+        "Confundir ácido carboxílico com cetona devido à presença do carbono com dupla ligação ao oxigênio.",
+        "Associar incorretamente ligações duplas C=C como grupo funcional comum, quando não é o caso.",
+        "Considerar o grupo hidroxila do composto 1 como grupo álcool comum, ignorando que é fenol e que não está presente no composto 2.",
+        "Interpretar o grupo fenol como comum aos dois, o que não é verdadeiro, pois só está no composto 1."
+      ],
+      "teachingTips": [
+        "Incentivar a observação detalhada de grupos funcionais mesmo em estruturas complexas.",
+        "Diferenciar claramente grupos carbonílicos: cetona versus ácido carboxílico, ressaltando a presença do grupo OH no ácido carboxílico.",
+        "Utilizar representações visuais para reforçar a identificação de funções orgânicas.",
+        "Conectar a química orgânica à aplicação prática na agricultura sustentável para aumentar interesse e compreensão."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o grupo funcional cetona (C=O) com o ácido carboxílico por causa da presença do carbono carbonila.",
+        "misconceptionType": "Confusão entre grupos funcionais carbonílicos.",
+        "whyItLooksPlausible": "Ambos os compostos possuem carbono duplamente ligado a oxigênio, podendo ser confundido com cetona.",
+        "whyItIsWrong": "O grupo comum é ácido carboxílico (COOH), que inclui carbonila e hidroxila, diferente da cetona somente com carbonila."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar a presença de ligações duplas carbono-carbono (C=C) como grupo funcional comum.",
+        "misconceptionType": "Confusão entre características estruturais e grupos funcionais.",
+        "whyItLooksPlausible": "Composto 2 apresenta ligação dupla C=C que pode levar à confusão com alceno.",
+        "whyItIsWrong": "O grupo funcional comum não é C=C, mas sim o ácido carboxílico presente em ambos."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Considerar o grupo hidroxila (OH) do composto 1 como grupo álcool comum.",
+        "misconceptionType": "Confusão entre álcool e grupos como fenol.",
+        "whyItLooksPlausible": "Composto 1 tem grupo OH ligado ao anel aromático, que pode parecer álcool.",
+        "whyItIsWrong": "Este OH está em estrutura fenólica e não está presente no composto 2."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Interpretar o grupo fenol como o grupo funcional comum.",
+        "misconceptionType": "Erro ao generalizar a presença do fenol em ambos os compostos.",
+        "whyItLooksPlausible": "Fenol está visível no composto 1 e pode gerar confusão.",
+        "whyItIsWrong": "Fenol ocorre somente no composto 1, não no composto 2."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Identificação de grupos funcionais orgânicos",
+      "secondarySkills": [
+        "Análise de estruturas químicas",
+        "Conhecimentos básicos de química orgânica"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Interpretação de estruturas químicas para identificação dos grupos funcionais.",
+        "Conhecimento das funções ácido carboxílico, cetona, alceno, álcool e fenol.",
+        "Contextualização da química orgânica em agricultura e sustentabilidade."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧪",
+      "shortThemeTitle": "Identificação de grupo funcional ácido carboxílico",
+      "interpretationIntro": "A questão apresenta dois compostos utilizados como pesticidas naturais e solicita a identificação do grupo funcional que ambos possuem em comum.",
+      "commandTerms": [
+        {
+          "term": "Identificar",
+          "explanation": "Reconhecer o grupo funcional comum nas estruturas químicas apresentadas."
+        },
+        {
+          "term": "Comparar",
+          "explanation": "Analisar as estruturas para verificar características compartilhadas."
+        }
+      ],
+      "whatTheQuestionAsks": "Determinar qual função orgânica corresponde ao grupo funcional presente nos dois compostos mostrados no enunciado.",
+      "strategyParagraph": "Para resolver o problema, examina-se cada estrutura química fornecida, identifica-se os grupos funcionais presentes e, em seguida, encontra-se o grupo comum a ambos. É fundamental analisar visualmente os compostos para destacar os tipos de ligações e grupos químicos relevantes.",
+      "reviewTable": [
+        {
+          "concept": "Ácido carboxílico",
+          "keyIdea": "Possui grupo COOH formado por carbonila (C=O) e hidroxila (OH).",
+          "application": "Presente em ambos os compostos, sendo o grupo funcional comum."
+        },
+        {
+          "concept": "Cetona",
+          "keyIdea": "Grupo funcional com carbono duplamente ligado a oxigênio, mas sem grupo OH.",
+          "application": "Está ausente como grupo comum, pois só possui carbonila, sem hidroxila."
+        },
+        {
+          "concept": "Fenol",
+          "keyIdea": "Grupo hidroxila ligado a anel aromático.",
+          "application": "Presente apenas no composto 1, não é comum aos dois."
+        }
+      ],
+      "theoryParagraphs": [
+        "O ácido carboxílico é um grupo funcional que influencia muito as propriedades químicas e biológicas dos compostos, sendo composto por um átomo de carbono ligado a um grupo carbonila (C=O) e a um grupo hidroxila (OH).",
+        "É crucial distinguir grupos carbonílicos, como cetonas e ácidos carboxílicos: cetonas possuem apenas o grupo carbonila, enquanto ácidos carboxílicos também têm o grupo OH, conferindo características ácidas.",
+        "No contexto agrícola, muitos pesticidas naturais apresentam ácidos carboxílicos, que contribuem para sua biodegradabilidade e atividade na defesa das plantas. Identificar com precisão esse grupo funcional ajuda a entender a eficácia e segurança desses compostos. "
+      ],
+      "resolutionParagraphs": [
+        "Ao analisar o Composto 1, observa-se a presença clara do grupo COOH (ácido carboxílico) e de um grupo hidroxila ligado ao anel aromático (fenol).",
+        "No Composto 2, também é visível o grupo COOH, presente na cadeia lateral, enquanto o grupo fenol é ausente.",
+        "O grupo funcional comum e determinante para a resposta é o ácido carboxílico (COOH), presente como característica fundamental em ambos os compostos.",
+        "Portanto, ao comparar as opções da questão, a função orgânica que corresponde ao grupo funcional comum é o ácido carboxílico, indicada na alternativa A."
+      ],
+      "puloDoGato": "Foque sempre no grupo funcional que aparece explicitamente em ambas as estruturas – mesmo que outros grupos estejam presentes, só o grupo ácido carboxílico está nos dois compostos.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "É a única alternativa que indica corretamente o grupo funcional ácido carboxílico (COOH) comum a ambos os compostos."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Errada porque cetona só tem carbonila (C=O), enquanto ácido carboxílico tem carbonila e hidroxila; grupo comum é ácido carboxílico."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois a ligação dupla carbono-carbono não caracteriza o grupo funcional comum, que é o ácido carboxílico."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Errada por considerar o grupo hidroxila do composto 1 como álcool comum, enquanto ele é fenol e não está no composto 2."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Incorreta, pois o grupo fenol está presente apenas no composto 1, não no 2, não sendo comum."
+        }
+      ],
+      "questionCode": "CIENCIAS_DA_NATUREZA_ORGANICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, análise técnica e explicação didática estão coerentes e consistentes. A resolução é clara, correta e atende ao padrão ENEM. Não há discrepâncias entre as partes. Alternativas estão bem comentadas com justificativas corretas.",
+      "issues": []
+    }
+  }
+}

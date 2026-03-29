@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:34:25.258Z",
+  "questionId": "enem-2024-ciencias-natureza-q112",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Na estrutura da nimesulida, o grupamento sulfonamida possui um hidrogênio ácido que pode ser removido por uma base de Brönsted-Lowry, formando uma espécie carregada e aumentando a solubilidade em água.",
+      "stepByStep": [
+        "Observe a estrutura química da nimesulida e identifique os grupos funcionais destacados: metila, sulfonamida, éter, fenila e nitro.",
+        "Lembre que uma base de Brönsted-Lowry é capaz de captar um próton (H⁺), portanto o grupo que reage deve ser capaz de doar um H⁺ — ou seja, deve conter hidrogênio ácido.",
+        "Verifique quais grupos possuem hidrogênios ácidos. A sulfonamida tem um nitrogênio ligado a um hidrogênio (–NH–) que pode liberar o próton.",
+        "Os outros grupos (metila, fenila, éter e nitro) não possuem hidrogênios ácidos disponíveis para serem doados, portanto não reagem com a base para formar espécies carregadas.",
+        "Conclua que o grupo sulfonamida é o responsável pela reação com a base, promovendo maior solubilidade da nimesulida em água."
+      ],
+      "commonPitfalls": [
+        "Confundir grupos alquila (metila) com grupos ácidos; metilas não doam prótons.",
+        "Associar a presença de oxigênio ou nitrogênio em grupos como éter ou nitro com acidez, sem considerar a presença de hidrogênio ácido.",
+        "Pensar que o anel aromático (fenila) pode doar prótons diretamente; os hidrogênios do anel aromático não são ácidos nesse contexto.",
+        "Ignorar a teoria ácido-base de Brönsted-Lowry, que foca em doadores e aceitadores de prótons somente.",
+        "Assumir que qualquer grupo contendo oxigênio é ácido, sem analisar a capacidade real de doar H⁺."
+      ],
+      "teachingTips": [
+        "Explique a teoria ácido-base de Brönsted-Lowry enfatizando doador e receptor de prótons.",
+        "Ensine a identificar hidrogênios ácidos nos grupos funcionais a partir das suas estruturas químicas.",
+        "Use exemplos práticos de grupos funcionais comuns para distinguir os que possuem hidrogênios ácidos versus os que não possuem.",
+        "Estimule a análise criteriosa da estrutura molecular, observando química orgânica básica familiar a alunos.",
+        "Mostre diagramas que destacam grupos funcionais e expliquem as propriedades de cada um, para clarear possíveis confusões."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2050,
+    "outputTokens": 537,
+    "estimatedCostUsd": 0.001679
+  }
+}

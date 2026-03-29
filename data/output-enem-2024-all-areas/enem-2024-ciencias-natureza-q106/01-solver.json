@@ -1,0 +1,82 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:24:29.213Z",
+  "questionId": "enem-2024-ciencias-natureza-q106",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque o vetor nela apresentado representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão: a força é exercida para cima e para direita, representando a força normal que reage à queda e o impulso do impacto.",
+      "strategy": "Analisar o movimento de Calvin ao soltar-se do balanço, entendendo que ele descreve uma trajetória parabólica devido à ação da força gravitacional. O solo exerce uma força de reação no momento do impacto, que deve ser perpendicular à superfície do chão e para cima, mas também pode ter uma componente na direção do movimento para contrariar a velocidade do impacto.",
+      "steps": [
+        "Observar a sequência da tirinha: Calvin está em movimento circular no balanço e depois cai em trajetória parabólica.",
+        "Reconhecer que durante a queda, a única força atuando é a força gravitacional (para baixo).",
+        "No instante que Calvin toca o chão, o chão exerce uma força de reação ao contato, conhecida como força normal, que aponta para cima.",
+        "Como Calvin tem velocidade horizontal no momento do impacto, a força resultante do chão pode ter uma componente horizontal para desacelerá-lo e vertical para suportar seu peso.",
+        "Comparar os vetores das alternativas com essa análise para identificar o correto."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Primeiro quadrinho mostra movimento circular no balanço.",
+        "Segundo e terceiro quadrinhos mostram Calvin em queda livre com trajetória parabólica.",
+        "Quarto quadrinho mostra Calvin no momento do impacto com o chão.",
+        "Alternativas apresentam vetores que representam possíveis forças resultantes no contato com o chão."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode ter pensado que a força resultante é contrária à direção do movimento de Calvin, associando erroneamente à força de atrito, que não é relevante no momento do impacto.",
+        "misconceptionType": "Confusão entre forças e direções de movimento",
+        "whyItLooksPlausible": "O vetor aponta para trás, o que pode parecer que freia o movimento de Calvin.",
+        "whyItIsWrong": "Força de reação do chão deve ter componente para cima para sustentar Calvin; vetor horizontal para trás não explica a sustentação no impacto."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode parecer que a força resultante é diagonal para cima e para trás devido à componente do movimento e reação do solo.",
+        "misconceptionType": "Erro na decomposição das forças",
+        "whyItLooksPlausible": "Vetor diagonal pode parecer que combina desaceleração horizontal e sustentação vertical.",
+        "whyItIsWrong": "A direção do vetor não corresponde ao impulso que o chão dá no rosto em contato, dado o impulso descrito."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Poderia ser escolhido por parecer que a força é somente para cima, focando na força normal ao solo.",
+        "misconceptionType": "Desconsideração da componente horizontal da força no impacto",
+        "whyItLooksPlausible": "A força normal é vertical, então vetor para cima parece correto.",
+        "whyItIsWrong": "Ignora a componente horizontal que a força do chão pode exercer para parar o movimento para frente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pode parecer que a força é horizontal para frente, correspondente à velocidade no momento do chão.",
+        "misconceptionType": "Confusão entre força e velocidade",
+        "whyItLooksPlausible": "Movimento para frente pode iludir a ideia de que a força também está nesta direção.",
+        "whyItIsWrong": "Força do chão deve ter componente para cima, não apenas horizontal; vetor somente horizontal não representa o impacto."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de forças e movimentos em queda livre",
+      "secondarySkills": [
+        "Interpretação de imagens e histórias em quadrinhos",
+        "Aplicação do conceito de força normal e trajetória parabólica"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige entendimento conceitual de forças e movimento de queda.",
+        "É necessário interpretar a sequência da tirinha e associar à física do movimento e forças.",
+        "Não requer cálculos numéricos, mas raciocínio físico.",
+        "O uso das imagens é essencial para entender o contexto do movimento e a ação do solo no impacto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2126,
+    "outputTokens": 898,
+    "estimatedCostUsd": 0.002287
+  }
+}

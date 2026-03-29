@@ -1,0 +1,1932 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2022/ENEM_2022_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2022,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Em uma universidade, atuam professores que estão\nenquadrados funcionalmente pela sua maior titulação:\nmestre ou doutor. Nela há, atualmente, 60 mestres e\n40 doutores. Os salários mensais dos professores mestres\ne dos doutores são, respectivamente, R$ 8 000,00 e\nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um\naumento salarial diferenciado para o ano seguinte, de tal\nforma que o salário médio mensal dos professores dessa\ninstituição não ultrapasse R$ 12 240,00. A universidade já\nestabeleceu que o aumento salarial será de 25% para os\nmestres e precisa ainda definir o percentual de reajuste\npara os doutores.\nMantido o número atual de professores com suas atuais\ntitulações, o aumento salarial, em porcentagem, a ser\nconcedido aos doutores deverá ser de, no máximo,",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma universidade, atuam professores que estão\nenquadrados funcionalmente pela sua maior titulação:\nmestre ou doutor. Nela há, atualmente, 60 mestres e\n40 doutores. Os salários mensais dos professores mestres\ne dos doutores são, respectivamente, R$ 8 000,00 e\nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um\naumento salarial diferenciado para o ano seguinte, de tal\nforma que o salário médio mensal dos professores dessa\ninstituição não ultrapasse R$ 12 240,00. A universidade já\nestabeleceu que o aumento salarial será de 25% para os\nmestres e precisa ainda definir o percentual de reajuste\npara os doutores.\nMantido o número atual de professores com suas atuais\ntitulações, o aumento salarial, em porcentagem, a ser\nconcedido aos doutores deverá ser de, no máximo,\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Um borrifador de atuação automática libera, a cada\nacionamento, uma mesma quantidade de inseticida.\nO recipiente desse produto, quando cheio, contém 360 mL\nde inseticida, que duram 60 dias se o borrifador permanecer\nligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada\nacionamento do borrifador, em mililitro, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um borrifador de atuação automática libera, a cada\nacionamento, uma mesma quantidade de inseticida.\nO recipiente desse produto, quando cheio, contém 360 mL\nde inseticida, que duram 60 dias se o borrifador permanecer\nligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada\nacionamento do borrifador, em mililitro, é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Definem-se o dia e o ano de um planeta de um sistema solar\ncomo sendo, respectivamente, o tempo que o planeta leva para\ndar 1 volta completa em torno de seu próprio eixo de rotação e o\ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema\nsolar, onde um dia corresponda a 73 dias terrestres e\nque 2 de seus anos correspondam a 1 ano terrestre.\nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus\ndias?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2,5",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "10,0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "730,0",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "13 322,5",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "53 290,0",
+          "assets": []
+        }
+      ],
+      "rawText": "Definem-se o dia e o ano de um planeta de um sistema solar\ncomo sendo, respectivamente, o tempo que o planeta leva para\ndar 1 volta completa em torno de seu próprio eixo de rotação e o\ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema\nsolar, onde um dia corresponda a 73 dias terrestres e\nque 2 de seus anos correspondam a 1 ano terrestre.\nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus\ndias?\n\nA. 2,5\nB. 10,0\nC. 730,0\nD. 13 322,5\nE. 53 290,0"
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Em uma competição de velocidade, diz-se que há uma\nultrapassagem quando um veículo que está atrás de outro\npassa à sua frente, com ambos se deslocando no mesmo\nsentido. Considere uma competição automobilística entre\ncinco carros em uma pista com 100 m de comprimento,\nonde todos largam no mesmo instante e da mesma linha.\nO gráfico mostra a variação da distância percorrida por cada\nveículo, em função do tempo, durante toda a competição.\n\nDistância (m)\n\nQual o número de ultrapassagens, após o início da\ncompetição, efetuadas pelo veículo que chegou em\núltimo lugar?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-139/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-139/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma competição de velocidade, diz-se que há uma\nultrapassagem quando um veículo que está atrás de outro\npassa à sua frente, com ambos se deslocando no mesmo\nsentido. Considere uma competição automobilística entre\ncinco carros em uma pista com 100 m de comprimento,\nonde todos largam no mesmo instante e da mesma linha.\nO gráfico mostra a variação da distância percorrida por cada\nveículo, em função do tempo, durante toda a competição.\n\nDistância (m)\n\nQual o número de ultrapassagens, após o início da\ncompetição, efetuadas pelo veículo que chegou em\núltimo lugar?\n\nA. 0\nB. 1\nC. 2\nD. 3\nE. 4"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "Em uma loja, o preço promocional de uma geladeira\né de R$ 1 000,00 para pagamento somente em dinheiro.\nSeu preço normal, fora da promoção, é 10% maior. Para\npagamento feito com o cartão de crédito da loja, é dado\num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando\npelo pagamento com o cartão de crédito da loja. Ela\ncalculou que o valor a ser pago seria o preço promocional\nacrescido de 8%. Ao ser informada pela loja do valor a\npagar, segundo sua opção, percebeu uma diferença entre\nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor\ncalculado pela cliente, foi",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "R$ 2,00 menor.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "R$ 100,00 menor.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "R$ 200,00 menor.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "R$ 42,00 maior.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "R$ 80,00 maior. *020125AM17* 18\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma loja, o preço promocional de uma geladeira\né de R$ 1 000,00 para pagamento somente em dinheiro.\nSeu preço normal, fora da promoção, é 10% maior. Para\npagamento feito com o cartão de crédito da loja, é dado\num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando\npelo pagamento com o cartão de crédito da loja. Ela\ncalculou que o valor a ser pago seria o preço promocional\nacrescido de 8%. Ao ser informada pela loja do valor a\npagar, segundo sua opção, percebeu uma diferença entre\nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor\ncalculado pela cliente, foi\n\nA. R$ 2,00 menor.\nB. R$ 100,00 menor.\nC. R$ 200,00 menor.\nD. R$ 42,00 maior.\nE. R$ 80,00 maior. *020125AM17* 18\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Uma pessoa precisa se deslocar de automóvel do\nponto P para o ponto Q, indicados na figura, na qual as\nlinhas verticais e horizontais simbolizam ruas.\n\nP\nQ\n\nPor causa do sentido de tráfego nessas ruas, o\ncaminho poligonal destacado é a possibilidade mais\ncurta de efetuar esse deslocamento. Para descrevê-lo,\ndeve-se especificar qual o sentido a ser tomado em cada\ncruzamento de ruas, em relação à direção de deslocamento\ndo automóvel, que se movimentará continuamente.\nPara isso, empregam-se as letras E, F e D para indicar\n“vire à esquerda”, “siga em frente” e “vire à direita”,\nrespectivamente.\nA sequência de letras que descreve o caminho poligonal\ndestacado é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "DDEFDDEEFFD.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "DFEFDDDEFFD.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "DFEFDDEEFFD.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "EFDFEEDDFFE.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "EFDFEEEDFFE.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa precisa se deslocar de automóvel do\nponto P para o ponto Q, indicados na figura, na qual as\nlinhas verticais e horizontais simbolizam ruas.\n\nP\nQ\n\nPor causa do sentido de tráfego nessas ruas, o\ncaminho poligonal destacado é a possibilidade mais\ncurta de efetuar esse deslocamento. Para descrevê-lo,\ndeve-se especificar qual o sentido a ser tomado em cada\ncruzamento de ruas, em relação à direção de deslocamento\ndo automóvel, que se movimentará continuamente.\nPara isso, empregam-se as letras E, F e D para indicar\n“vire à esquerda”, “siga em frente” e “vire à direita”,\nrespectivamente.\nA sequência de letras que descreve o caminho poligonal\ndestacado é\n\nA. DDEFDDEEFFD.\nB. DFEFDDDEFFD.\nC. DFEFDDEEFFD.\nD. EFDFEEDDFFE.\nE. EFDFEEEDFFE."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Uma\nloja\ncomercializa\ncinco\nmodelos\nde\ncaixas-d’água (I, II, III, IV e V), todos em formato\nde cilindro reto de base circular. Os modelos II, III, IV e V\ntêm as especificações de suas dimensões dadas em\nrelação às dimensões do modelo I, cuja profundidade é P\ne área da base é Ab, como segue:\n• modelo II: o dobro da profundidade e a metade da\nárea da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do\nraio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da\nárea da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do\nraio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo\nde caixa-d’água que ofereça a maior capacidade\nvolumétrica.\nO modelo escolhido deve ser o",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma\nloja\ncomercializa\ncinco\nmodelos\nde\ncaixas-d’água (I, II, III, IV e V), todos em formato\nde cilindro reto de base circular. Os modelos II, III, IV e V\ntêm as especificações de suas dimensões dadas em\nrelação às dimensões do modelo I, cuja profundidade é P\ne área da base é Ab, como segue:\n• modelo II: o dobro da profundidade e a metade da\nárea da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do\nraio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da\nárea da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do\nraio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo\nde caixa-d’água que ofereça a maior capacidade\nvolumétrica.\nO modelo escolhido deve ser o\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "No período de 2005 a 2013, o valor de venda dos\nimóveis em uma cidade apresentou alta, o que resultou\nno aumento dos aluguéis. Os gráficos apresentam a\nevolução desses valores, para um mesmo imóvel, no\nmercado imobiliário dessa cidade.\n\nA rentabilidade do aluguel de um imóvel é calculada\npela razão entre o valor mensal de aluguel e o valor de\nmercado desse imóvel.\nCom base nos dados fornecidos, em que ano a\nrentabilidade do aluguel foi maior?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-143/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-143/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2005",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2007",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2009",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2011",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2013 *020125AM18* 19\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "No período de 2005 a 2013, o valor de venda dos\nimóveis em uma cidade apresentou alta, o que resultou\nno aumento dos aluguéis. Os gráficos apresentam a\nevolução desses valores, para um mesmo imóvel, no\nmercado imobiliário dessa cidade.\n\nA rentabilidade do aluguel de um imóvel é calculada\npela razão entre o valor mensal de aluguel e o valor de\nmercado desse imóvel.\nCom base nos dados fornecidos, em que ano a\nrentabilidade do aluguel foi maior?\n\nA. 2005\nB. 2007\nC. 2009\nD. 2011\nE. 2013 *020125AM18* 19\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Ao escutar a notícia de que um filme recém-lançado\narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão\nem bilheteria, um estudante escreveu corretamente o\nnúmero que representa essa quantia, com todos os seus\nalgarismos.\nO número escrito pelo estudante foi",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "135 000,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 350 000,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "13 500 000,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "135 000 000,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 350 000 000,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Ao escutar a notícia de que um filme recém-lançado\narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão\nem bilheteria, um estudante escreveu corretamente o\nnúmero que representa essa quantia, com todos os seus\nalgarismos.\nO número escrito pelo estudante foi\n\nA. 135 000,00.\nB. 1 350 000,00.\nC. 13 500 000,00.\nD. 135 000 000,00.\nE. 1 350 000 000,00."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "O governo de um estado pretende realizar uma\nobra de infraestrutura para auxiliar na integração e\nno processo de escoamento da produção agrícola\nde duas cidades. O projeto consiste na interligação\ndireta das cidades A e B com a Rodovia 003, pela\nconstrução das Rodovias 001 e 002. As duas rodovias\nserão construídas em linha reta e deverão se conectar\nà Rodovia 003 em um mesmo ponto, conforme\nesboço apresentado na figura, na qual estão também\nindicadas as posições das cidades A e B, considerando\no eixo x posicionado sobre a Rodovia 003, e cinco\nlocalizações sugeridas para o ponto de conexão entre\nas três rodovias.\n\nCidade B\n\nRodovia 003\nRodovia 001\nRodovia 002\n\nPretende-se que a distância percorrida entre as duas\ncidades, pelas Rodovias 001 e 002, passando pelo ponto\nde conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações\nsugeridas deve ser a escolhida para o ponto de conexão?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-145/statement-01.png",
+        "/generated/enem-2022/matematica/question-145/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-145/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V",
+          "assets": []
+        }
+      ],
+      "rawText": "O governo de um estado pretende realizar uma\nobra de infraestrutura para auxiliar na integração e\nno processo de escoamento da produção agrícola\nde duas cidades. O projeto consiste na interligação\ndireta das cidades A e B com a Rodovia 003, pela\nconstrução das Rodovias 001 e 002. As duas rodovias\nserão construídas em linha reta e deverão se conectar\nà Rodovia 003 em um mesmo ponto, conforme\nesboço apresentado na figura, na qual estão também\nindicadas as posições das cidades A e B, considerando\no eixo x posicionado sobre a Rodovia 003, e cinco\nlocalizações sugeridas para o ponto de conexão entre\nas três rodovias.\n\nCidade B\n\nRodovia 003\nRodovia 001\nRodovia 002\n\nPretende-se que a distância percorrida entre as duas\ncidades, pelas Rodovias 001 e 002, passando pelo ponto\nde conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações\nsugeridas deve ser a escolhida para o ponto de conexão?\n\nA. I\nB. II\nC. III\nD. IV\nE. V"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Uma pessoa precisa contratar um operário para\nfazer um serviço em sua casa. Para isso, ela postou um\nanúncio em uma rede social.\nCinco pessoas responderam informando preços por\nhora trabalhada, gasto diário com transporte e tempo\nnecessário para conclusão do serviço, conforme valores\napresentados no quadro.\n\nSe a pessoa pretende gastar o mínimo possível com essa\ncontratação, irá contratar o operário",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-146/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-146/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa precisa contratar um operário para\nfazer um serviço em sua casa. Para isso, ela postou um\nanúncio em uma rede social.\nCinco pessoas responderam informando preços por\nhora trabalhada, gasto diário com transporte e tempo\nnecessário para conclusão do serviço, conforme valores\napresentados no quadro.\n\nSe a pessoa pretende gastar o mínimo possível com essa\ncontratação, irá contratar o operário\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "Uma cozinheira produz docinhos especiais por\nencomenda. Usando uma receita-base de massa, ela\nprepara uma porção, com a qual produz 50 docinhos\nmaciços de formato esférico, com 2 cm de diâmetro.\nUm cliente encomenda 150 desses docinhos, mas pede\nque cada um tenha formato esférico com 4 cm de diâmetro.\nA cozinheira pretende preparar o número exato de\nporções da receita-base de massa necessário para\nproduzir os docinhos dessa encomenda.\nQuantas porções da receita-base de massa ela deve\npreparar para atender esse cliente?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "24 *020125AM19* 20\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma cozinheira produz docinhos especiais por\nencomenda. Usando uma receita-base de massa, ela\nprepara uma porção, com a qual produz 50 docinhos\nmaciços de formato esférico, com 2 cm de diâmetro.\nUm cliente encomenda 150 desses docinhos, mas pede\nque cada um tenha formato esférico com 4 cm de diâmetro.\nA cozinheira pretende preparar o número exato de\nporções da receita-base de massa necessário para\nproduzir os docinhos dessa encomenda.\nQuantas porções da receita-base de massa ela deve\npreparar para atender esse cliente?\n\nA. 2\nB. 3\nC. 6\nD. 12\nE. 24 *020125AM19* 20\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Uma empresa produz e vende um tipo de chocolate,\nmaciço, em formato de cone circular reto com as medidas\ndo diâmetro da base e da altura iguais a 8 cm e 10 cm,\nrespectivamente, como apresenta a figura.\n\nDevido a um aumento de preço dos ingredientes\nutilizados na produção desse chocolate, a empresa\ndecide produzir esse mesmo tipo de chocolate com um\nvolume 19% menor, no mesmo formato de cone circular\nreto com altura de 10 cm.\nPara isso, a empresa produzirá esses novos chocolates\ncom medida do raio da base, em centímetro, igual a",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-148/statement-01.png",
+        "/generated/enem-2022/matematica/question-148/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-148/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,52.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,24.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3,60.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "6,48.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "7,20.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa produz e vende um tipo de chocolate,\nmaciço, em formato de cone circular reto com as medidas\ndo diâmetro da base e da altura iguais a 8 cm e 10 cm,\nrespectivamente, como apresenta a figura.\n\nDevido a um aumento de preço dos ingredientes\nutilizados na produção desse chocolate, a empresa\ndecide produzir esse mesmo tipo de chocolate com um\nvolume 19% menor, no mesmo formato de cone circular\nreto com altura de 10 cm.\nPara isso, a empresa produzirá esses novos chocolates\ncom medida do raio da base, em centímetro, igual a\n\nA. 1,52.\nB. 3,24.\nC. 3,60.\nD. 6,48.\nE. 7,20."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Em janeiro de 2013, foram declaradas 1 794 272\nadmissões e 1 765 372 desligamentos no Brasil, ou seja,\nforam criadas 28 900 vagas de emprego, segundo dados\ndo Cadastro Geral de Empregados e Desempregados\n(Caged), divulgados pelo Ministério do Trabalho e\nEmprego (MTE). Segundo o Caged, o número de vagas\ncriadas em janeiro de 2013 sofreu uma queda de 75%,\nquando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de\nvagas criadas em janeiro de 2012 foi",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "16 514.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "86 700.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "115 600.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "441 343.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "448 568.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em janeiro de 2013, foram declaradas 1 794 272\nadmissões e 1 765 372 desligamentos no Brasil, ou seja,\nforam criadas 28 900 vagas de emprego, segundo dados\ndo Cadastro Geral de Empregados e Desempregados\n(Caged), divulgados pelo Ministério do Trabalho e\nEmprego (MTE). Segundo o Caged, o número de vagas\ncriadas em janeiro de 2013 sofreu uma queda de 75%,\nquando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de\nvagas criadas em janeiro de 2012 foi\n\nA. 16 514.\nB. 86 700.\nC. 115 600.\nD. 441 343.\nE. 448 568."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-150/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-150/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "9 6 6 2 ! !",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "9 6 6 2 2 ! ! !",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "9 4 4 2 2 ! ! !",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "9 2 2 2 2 ! ! !",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "9 8 8 2 2 1 ! ! ! *020125AM20* 21\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "A. 9 6 6 2 ! !\nB. 9 6 6 2 2 ! ! !\nC. 9 4 4 2 2 ! ! !\nD. 9 2 2 2 2 ! ! !\nE. 9 8 8 2 2 1 ! ! ! *020125AM20* 21\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Uma máquina em operação tem sua temperatura\nTmonitorada por meio de um registro gráfico, ao longo do\ntempo t. Essa máquina possui um pistão cuja velocidade\nVvaria com a temperatura T da máquina, de acordo\ncom a expressão V = T₂ − 4. Após a máquina funcionar\ndurante o intervalo de tempo de 10 horas, o seu operador\nanalisa o registro gráfico, apresentado na figura, para\navaliar a necessidade de eventuais ajustes, sabendo que\na máquina apresenta falhas de funcionamento quando a\nvelocidade do pistão se anula.\nT (ºC)\n\nQuantas vezes a velocidade do pistão se anulou durante\nas 10 horas de funcionamento?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-151/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-151/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma máquina em operação tem sua temperatura\nTmonitorada por meio de um registro gráfico, ao longo do\ntempo t. Essa máquina possui um pistão cuja velocidade\nVvaria com a temperatura T da máquina, de acordo\ncom a expressão V = T₂ − 4. Após a máquina funcionar\ndurante o intervalo de tempo de 10 horas, o seu operador\nanalisa o registro gráfico, apresentado na figura, para\navaliar a necessidade de eventuais ajustes, sabendo que\na máquina apresenta falhas de funcionamento quando a\nvelocidade do pistão se anula.\nT (ºC)\n\nQuantas vezes a velocidade do pistão se anulou durante\nas 10 horas de funcionamento?\n\nA. 1\nB. 2\nC. 3\nD. 4\nE. 5"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1\n2. Qual é a probabilidade de o time campeão ser aquele que\nvenceu a primeira partida da World Series? 35 64",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "40 64",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "42 64",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "44 64",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "52 64",
+          "assets": []
+        }
+      ],
+      "rawText": "A. World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1\n2. Qual é a probabilidade de o time campeão ser aquele que\nvenceu a primeira partida da World Series? 35 64\nB. 40 64\nC. 42 64\nD. 44 64\nE. 52 64"
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "O gráfico apresenta os totais de receitas e despesas\nde uma empresa, expressos em milhão de reais, no\ndecorrer dos meses de um determinado ano. A empresa\nobtém lucro quando a diferença entre receita e despesa é\npositiva e tem prejuízo quando essa diferença é negativa.\n\nJan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.\nReceitas Despesas\nQual é a mediana, em milhão de reais, dos valores dos\nlucros apurados pela empresa nesse ano?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,5",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2,0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2,9",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "3,0",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5,5 *020125AM21* 22\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "O gráfico apresenta os totais de receitas e despesas\nde uma empresa, expressos em milhão de reais, no\ndecorrer dos meses de um determinado ano. A empresa\nobtém lucro quando a diferença entre receita e despesa é\npositiva e tem prejuízo quando essa diferença é negativa.\n\nJan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez.\nReceitas Despesas\nQual é a mediana, em milhão de reais, dos valores dos\nlucros apurados pela empresa nesse ano?\n\nA. 1,5\nB. 2,0\nC. 2,9\nD. 3,0\nE. 5,5 *020125AM21* 22\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "O pacote básico de um jogo para smartphone, que\né vendido a R$ 50,00, contém 2 000 gemas e 100 000\nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar\num pacote especial que será vendido a R$ 100,00 e que\nse diferenciará do pacote básico por apresentar maiores\nquantidades de gemas e moedas de ouro. Para estimular\nas vendas desse novo pacote, a empresa decidiu inserir\nnele 6 000 gemas a mais, em relação ao que o cliente\nteria caso optasse por comprar, com a mesma quantia,\ndois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá\ninserir ao pacote especial, para que seja mantida a mesma\nproporção existente entre as quantidades de gemas e de\nmoedas de ouro contidas no pacote básico, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "50 000.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "100 000.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "200 000.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "300 000.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "400 000.",
+          "assets": []
+        }
+      ],
+      "rawText": "O pacote básico de um jogo para smartphone, que\né vendido a R$ 50,00, contém 2 000 gemas e 100 000\nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar\num pacote especial que será vendido a R$ 100,00 e que\nse diferenciará do pacote básico por apresentar maiores\nquantidades de gemas e moedas de ouro. Para estimular\nas vendas desse novo pacote, a empresa decidiu inserir\nnele 6 000 gemas a mais, em relação ao que o cliente\nteria caso optasse por comprar, com a mesma quantia,\ndois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá\ninserir ao pacote especial, para que seja mantida a mesma\nproporção existente entre as quantidades de gemas e de\nmoedas de ouro contidas no pacote básico, é\n\nA. 50 000.\nB. 100 000.\nC. 200 000.\nD. 300 000.\nE. 400 000."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Um parque tem dois circuitos de tamanhos\ndiferentes para corridas. Um corredor treina nesse\nparque e, no primeiro dia, inicia seu treino percorrendo\n3 voltas em torno do circuito maior e 2 voltas em torno\ndo menor, perfazendo um total de 1 800 m. Em seguida,\ndando continuidade a seu treino, corre mais 2 voltas\nem torno do circuito maior e 1 volta em torno do menor,\npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos\ncircuitos do parque, fazendo um número inteiro de voltas\nem torno deles e de modo que o número de voltas seja o\nmaior possível.\nA soma do número de voltas em torno dos dois circuitos,\nno segundo dia, será",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "10.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "13.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "14.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "15.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "16.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um parque tem dois circuitos de tamanhos\ndiferentes para corridas. Um corredor treina nesse\nparque e, no primeiro dia, inicia seu treino percorrendo\n3 voltas em torno do circuito maior e 2 voltas em torno\ndo menor, perfazendo um total de 1 800 m. Em seguida,\ndando continuidade a seu treino, corre mais 2 voltas\nem torno do circuito maior e 1 volta em torno do menor,\npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos\ncircuitos do parque, fazendo um número inteiro de voltas\nem torno deles e de modo que o número de voltas seja o\nmaior possível.\nA soma do número de voltas em torno dos dois circuitos,\nno segundo dia, será\n\nA. 10.\nB. 13.\nC. 14.\nD. 15.\nE. 16."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "Uma equipe de marketing digital foi contratada para\naumentar as vendas de um produto ofertado em um site\nde comércio eletrônico. Para isso, elaborou um anúncio\nque, quando o cliente clica sobre ele, é direcionado\npara a página de vendas do produto. Esse anúncio foi\ndivulgado em duas redes sociais, A e B, e foram obtidos\nos seguintes resultados:\n• rede social A: o anúncio foi visualizado por\n3 000 pessoas; 10% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 3% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por\n1 000 pessoas; 30% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 2% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing\nconsidera que a quantidade de novas pessoas que verão\no anúncio é diretamente proporcional ao investimento\nrealizado, e que a quantidade de pessoas que comprarão\no produto também se manterá proporcional à quantidade\nde pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir\nmais R$ 300,00 em cada uma das duas redes sociais\npara a divulgação desse anúncio e obteve, de fato, o\naumento proporcional esperado na quantidade de clientes\nque compraram esse produto. Para classificar o aumento\nobtido na quantidade (Q) de compradores desse produto,\nem consequência dessa segunda divulgação, em relação\naos resultados observados na primeira divulgação, o\nresponsável pelo produto adotou o seguinte critério:\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em\nconsequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi\nclassificado como",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "não satisfatório.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "regular.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "bom.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "muito bom.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "excelente. *020125AM22* 23\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma equipe de marketing digital foi contratada para\naumentar as vendas de um produto ofertado em um site\nde comércio eletrônico. Para isso, elaborou um anúncio\nque, quando o cliente clica sobre ele, é direcionado\npara a página de vendas do produto. Esse anúncio foi\ndivulgado em duas redes sociais, A e B, e foram obtidos\nos seguintes resultados:\n• rede social A: o anúncio foi visualizado por\n3 000 pessoas; 10% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 3% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por\n1 000 pessoas; 30% delas clicaram sobre o anúncio\ne foram redirecionadas para o site; 2% das que\nclicaram sobre o anúncio compraram o produto.\nO investimento feito para a publicação do anúncio\nnessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing\nconsidera que a quantidade de novas pessoas que verão\no anúncio é diretamente proporcional ao investimento\nrealizado, e que a quantidade de pessoas que comprarão\no produto também se manterá proporcional à quantidade\nde pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir\nmais R$ 300,00 em cada uma das duas redes sociais\npara a divulgação desse anúncio e obteve, de fato, o\naumento proporcional esperado na quantidade de clientes\nque compraram esse produto. Para classificar o aumento\nobtido na quantidade (Q) de compradores desse produto,\nem consequência dessa segunda divulgação, em relação\naos resultados observados na primeira divulgação, o\nresponsável pelo produto adotou o seguinte critério:\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em\nconsequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi\nclassificado como\n\nA. não satisfatório.\nB. regular.\nC. bom.\nD. muito bom.\nE. excelente. *020125AM22* 23\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Uma montadora de automóveis divulgou que oferta a\nseus clientes mais de 1 000 configurações diferentes de\ncarro, variando o modelo, a motorização, os opcionais e\na cor do veículo. Atualmente, ela oferece 7 modelos de\ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação\naos opcionais, existem 3 escolhas possíveis: central\nmultimídia, rodas de liga leve e bancos de couro, podendo\no cliente optar por incluir um, dois, três ou nenhum dos\nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima\nde cores que a montadora deverá disponibilizar a seus\nclientes é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "8.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "9.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "11.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "18.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "24.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma montadora de automóveis divulgou que oferta a\nseus clientes mais de 1 000 configurações diferentes de\ncarro, variando o modelo, a motorização, os opcionais e\na cor do veículo. Atualmente, ela oferece 7 modelos de\ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação\naos opcionais, existem 3 escolhas possíveis: central\nmultimídia, rodas de liga leve e bancos de couro, podendo\no cliente optar por incluir um, dois, três ou nenhum dos\nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima\nde cores que a montadora deverá disponibilizar a seus\nclientes é\n\nA. 8.\nB. 9.\nC. 11.\nD. 18.\nE. 24."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Dentre as diversas planificações possíveis para o\ncubo, uma delas é a que se encontra apresentada na\nFigura 1.\n\nFigura 1\nEm um cubo, foram pintados, em três de suas faces,\nquadrados de cor cinza escura, que ocupam um quarto\ndessas faces, tendo esses três quadrados um vértice em\ncomum, conforme ilustrado na Figura 2.\n\nFigura 2\nA planificação do cubo da Figura 2, conforme o tipo de\nplanificação apresentada na Figura 1, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Dentre as diversas planificações possíveis para o\ncubo, uma delas é a que se encontra apresentada na\nFigura 1.\n\nFigura 1\nEm um cubo, foram pintados, em três de suas faces,\nquadrados de cor cinza escura, que ocupam um quarto\ndessas faces, tendo esses três quadrados um vértice em\ncomum, conforme ilustrado na Figura 2.\n\nFigura 2\nA planificação do cubo da Figura 2, conforme o tipo de\nplanificação apresentada na Figura 1, é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "Cada número que identifica uma agência bancária tem\nquatro dígitos: N₁, N₂, N₃, N₄ mais um dígito verificador N₅.\n\nTodos\nesses\ndígitos\nsão\nnúmeros\nnaturais\npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\nPara a determinação de N₅, primeiramente multiplica-se\nordenadamente os quatro primeiros dígitos do número\nda agência por 5, 4, 3 e 2, respectivamente, somam-se\nos resultados e obtém-se S = 5 N₁ + 4 N₂ + 3 N₃ + 2 N₄.\nPosteriormente, encontra-se o resto da divisão de\nS por 11, denotando por R esse resto. Dessa forma, N₅ é\na diferença 11 − R.\nConsidere o número de uma agência bancária cujos\nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N₅ dessa agência bancária?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-159/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-159/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "7",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "8",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "9 *020125AM23* 24\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Cada número que identifica uma agência bancária tem\nquatro dígitos: N₁, N₂, N₃, N₄ mais um dígito verificador N₅.\n\nTodos\nesses\ndígitos\nsão\nnúmeros\nnaturais\npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\nPara a determinação de N₅, primeiramente multiplica-se\nordenadamente os quatro primeiros dígitos do número\nda agência por 5, 4, 3 e 2, respectivamente, somam-se\nos resultados e obtém-se S = 5 N₁ + 4 N₂ + 3 N₃ + 2 N₄.\nPosteriormente, encontra-se o resto da divisão de\nS por 11, denotando por R esse resto. Dessa forma, N₅ é\na diferença 11 − R.\nConsidere o número de uma agência bancária cujos\nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N₅ dessa agência bancária?\n\nA. 0\nB. 6\nC. 7\nD. 8\nE. 9 *020125AM23* 24\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Um casal está reformando a cozinha de casa e\ndecidiu comprar um refrigerador novo. Observando a\nplanta da nova cozinha, desenhada na escala de 1 : 50,\nnotaram que o espaço destinado ao refrigerador tinha\n3,8 cm de altura e 1,6 cm de largura. Eles sabem que\nos fabricantes de refrigeradores indicam que, para um\nbom funcionamento e fácil manejo na limpeza, esses\neletrodomésticos devem ser colocados em espaços que\npermitam uma distância de, pelo menos, 10 cm de outros\nmóveis ou paredes, tanto na parte superior quanto nas\nlaterais. O casal comprou um refrigerador que caberia\nno local a ele destinado na nova cozinha, seguindo as\ninstruções do fabricante.\nEsse refrigerador tem altura e largura máximas, em\nmetro, respectivamente, iguais a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,80 e 0,60.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,80 e 0,70.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,90 e 0,80.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2,00 e 0,90.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,00 e 1,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um casal está reformando a cozinha de casa e\ndecidiu comprar um refrigerador novo. Observando a\nplanta da nova cozinha, desenhada na escala de 1 : 50,\nnotaram que o espaço destinado ao refrigerador tinha\n3,8 cm de altura e 1,6 cm de largura. Eles sabem que\nos fabricantes de refrigeradores indicam que, para um\nbom funcionamento e fácil manejo na limpeza, esses\neletrodomésticos devem ser colocados em espaços que\npermitam uma distância de, pelo menos, 10 cm de outros\nmóveis ou paredes, tanto na parte superior quanto nas\nlaterais. O casal comprou um refrigerador que caberia\nno local a ele destinado na nova cozinha, seguindo as\ninstruções do fabricante.\nEsse refrigerador tem altura e largura máximas, em\nmetro, respectivamente, iguais a\n\nA. 1,80 e 0,60.\nB. 1,80 e 0,70.\nC. 1,90 e 0,80.\nD. 2,00 e 0,90.\nE. 2,00 e 1,00."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Foram convidadas 32 equipes para um torneio de\nfutebol, que foram divididas em 8 grupos com 4 equipes,\nsendo que, dentro de um grupo, cada equipe disputa uma\núnica partida contra cada uma das demais equipes de\nseu grupo. A primeira e a segunda colocadas de cada\ngrupo seguem para realizar as 8 partidas da próxima\nfase do torneio, chamada oitavas de final. Os vencedores\ndas partidas das oitavas de final seguem para jogar\nas 4 partidas das quartas de final. Os vencedores das\nquartas de final disputam as 2 partidas das semifinais, e\nos vencedores avançam para a grande final, que define a\ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um\nperíodo de descanso de, no mínimo, 3 dias entre dois\njogos por ela disputados, ou seja, se um time disputar\numa partida, por exemplo, num domingo, só poderá\ndisputar a partida seguinte a partir da quinta-feira da\nmesma semana.\nO número mínimo de dias necessários para a realização\ndesse torneio é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "22.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "25.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "28.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "48.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "64.",
+          "assets": []
+        }
+      ],
+      "rawText": "Foram convidadas 32 equipes para um torneio de\nfutebol, que foram divididas em 8 grupos com 4 equipes,\nsendo que, dentro de um grupo, cada equipe disputa uma\núnica partida contra cada uma das demais equipes de\nseu grupo. A primeira e a segunda colocadas de cada\ngrupo seguem para realizar as 8 partidas da próxima\nfase do torneio, chamada oitavas de final. Os vencedores\ndas partidas das oitavas de final seguem para jogar\nas 4 partidas das quartas de final. Os vencedores das\nquartas de final disputam as 2 partidas das semifinais, e\nos vencedores avançam para a grande final, que define a\ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um\nperíodo de descanso de, no mínimo, 3 dias entre dois\njogos por ela disputados, ou seja, se um time disputar\numa partida, por exemplo, num domingo, só poderá\ndisputar a partida seguinte a partir da quinta-feira da\nmesma semana.\nO número mínimo de dias necessários para a realização\ndesse torneio é\n\nA. 22.\nB. 25.\nC. 28.\nD. 48.\nE. 64."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "Figura 1\nO jogo inicia e, nas quatro primeiras rodadas, foram\nsorteados os seguintes números: 03, 27, 07 e 48. Ao\nfinal da quarta rodada, somente Pedro possuía uma\ncartela que continha esses quatro números sorteados,\nsendo que todos os demais jogadores conseguiram\nassinalar, no máximo, um desses números em suas\ncartelas. Observe na Figura 2 o cartão de Pedro após as\nquatro primeiras rodadas.\n\nFigura 2\n\nA probabilidade de Pedro ganhar o jogo em uma das duas\npróximas rodadas é",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-162/statement-01.png",
+        "/generated/enem-2022/matematica/question-162/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-162/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 46 1 45 +",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1/46 2/46 45",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1/46 8/46 45",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1/46 43/46 45",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1/46 49/46 45 *020125AM24* 25\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação",
+          "assets": []
+        }
+      ],
+      "rawText": "Figura 1\nO jogo inicia e, nas quatro primeiras rodadas, foram\nsorteados os seguintes números: 03, 27, 07 e 48. Ao\nfinal da quarta rodada, somente Pedro possuía uma\ncartela que continha esses quatro números sorteados,\nsendo que todos os demais jogadores conseguiram\nassinalar, no máximo, um desses números em suas\ncartelas. Observe na Figura 2 o cartão de Pedro após as\nquatro primeiras rodadas.\n\nFigura 2\n\nA probabilidade de Pedro ganhar o jogo em uma das duas\npróximas rodadas é\n\nA. 1 46 1 45 +\nB. 1/46 2/46 45\nC. 1/46 8/46 45\nD. 1/46 43/46 45\nE. 1/46 49/46 45 *020125AM24* 25\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas,\nconforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto\nmédio do lado do quadrado original, de modo que OR = 1\n4 OM, traçar um arco de circunferência de raio\nmedindo 1/2 OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco\nde circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\nFigura 4\nFigura 5\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-163/statement-01.png",
+        "/generated/enem-2022/matematica/question-163/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-163/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*020125AM25* 26\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas,\nconforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto\nmédio do lado do quadrado original, de modo que OR = 1\n4 OM, traçar um arco de circunferência de raio\nmedindo 1/2 OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco\nde circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\nFigura 4\nFigura 5\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será\n\nA.\nB.\nC.\nD.\nE. *020125AM25* 26\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "A esperança de vida ao nascer é o número médio\nde anos que um indivíduo tende a viver a partir de seu\nnascimento, considerando dados da população. No Brasil,\nesse número vem aumentando consideravelmente, como\nmostra o gráfico.\n\nEsperança de vida ao nascer\n75\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\nPode-se observar que a esperança de vida ao nascer\nem 2012 foi exatamente a média das registradas nos\nanos de 2011 e 2013. Suponha que esse fato também\nocorreu com a esperança de vida ao nascer em 2013, em\nrelação às esperanças de vida de 2012 e de 2014.\nCaso a suposição feita tenha sido confirmada, a\nesperança de vida ao nascer no Brasil no ano de 2014\nterá sido, em ano, igual a",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-164/statement-01.png",
+        "/generated/enem-2022/matematica/question-164/statement-02.png",
+        "/generated/enem-2022/matematica/question-164/statement-03.png",
+        "/generated/enem-2022/matematica/question-164/statement-04.png",
+        "/generated/enem-2022/matematica/question-164/statement-05.png",
+        "/generated/enem-2022/matematica/question-164/statement-06.png",
+        "/generated/enem-2022/matematica/question-164/statement-07.png",
+        "/generated/enem-2022/matematica/question-164/statement-08.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "74,23.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "74,51.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "75,07.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "75,23.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "78,49.",
+          "assets": []
+        }
+      ],
+      "rawText": "A esperança de vida ao nascer é o número médio\nde anos que um indivíduo tende a viver a partir de seu\nnascimento, considerando dados da população. No Brasil,\nesse número vem aumentando consideravelmente, como\nmostra o gráfico.\n\nEsperança de vida ao nascer\n75\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\nPode-se observar que a esperança de vida ao nascer\nem 2012 foi exatamente a média das registradas nos\nanos de 2011 e 2013. Suponha que esse fato também\nocorreu com a esperança de vida ao nascer em 2013, em\nrelação às esperanças de vida de 2012 e de 2014.\nCaso a suposição feita tenha sido confirmada, a\nesperança de vida ao nascer no Brasil no ano de 2014\nterá sido, em ano, igual a\n\nA. 74,23.\nB. 74,51.\nC. 75,07.\nD. 75,23.\nE. 78,49."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "Na figura estão destacadas duas trajetórias sobre a\nsuperfície do globo terrestre, descritas ao se percorrer\nparte dos meridianos 1, 2 e da Linha do Equador, sendo\nque os meridianos 1 e 2 estão contidos em planos\nperpendiculares entre si. O plano α é paralelo ao que\ncontém a Linha do Equador.\nMeridiano 2\nMeridiano 1\n\nLinha do Equador\nα\nN\n\nS\n\nA vista superior da projeção ortogonal sobre o plano α\ndessas duas trajetórias é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*020125AM26* 27\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Na figura estão destacadas duas trajetórias sobre a\nsuperfície do globo terrestre, descritas ao se percorrer\nparte dos meridianos 1, 2 e da Linha do Equador, sendo\nque os meridianos 1 e 2 estão contidos em planos\nperpendiculares entre si. O plano α é paralelo ao que\ncontém a Linha do Equador.\nMeridiano 2\nMeridiano 1\n\nLinha do Equador\nα\nN\n\nS\n\nA vista superior da projeção ortogonal sobre o plano α\ndessas duas trajetórias é\n\nA.\nB.\nC.\nD.\nE. *020125AM26* 27\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Nos cinco jogos finais da última temporada, com\numa média de 18 pontos por jogo, um jogador foi eleito o\nmelhor do campeonato de basquete. Na atual temporada,\ncinco jogadores têm a chance de igualar ou melhorar\nessa média. No quadro estão registradas as pontuações\ndesses cinco jogadores nos quatro primeiros jogos das\nfinais deste ano.\n\nO quinto e último jogo será realizado para decidir a\nequipe campeã e qual o melhor jogador da temporada.\nO jogador que precisa fazer a menor quantidade de\npontos no quinto jogo, para igualar a média de pontos do\nmelhor jogador da temporada passada, é o\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-166/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-166/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Nos cinco jogos finais da última temporada, com\numa média de 18 pontos por jogo, um jogador foi eleito o\nmelhor do campeonato de basquete. Na atual temporada,\ncinco jogadores têm a chance de igualar ou melhorar\nessa média. No quadro estão registradas as pontuações\ndesses cinco jogadores nos quatro primeiros jogos das\nfinais deste ano.\n\nO quinto e último jogo será realizado para decidir a\nequipe campeã e qual o melhor jogador da temporada.\nO jogador que precisa fazer a menor quantidade de\npontos no quinto jogo, para igualar a média de pontos do\nmelhor jogador da temporada passada, é o\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Um casal planeja construir em sua chácara uma\npiscina com o formato de um paralelepípedo reto\nretângulo com capacidade para 90 000 L de água.\nO casal contratou uma empresa de construções que\napresentou cinco projetos com diferentes combinações\nnas dimensões internas de profundidade, largura\ne comprimento. A piscina a ser construída terá\nrevestimento interno em suas paredes e fundo com uma\nmesma cerâmica, e o casal irá escolher o projeto que\nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura\ne comprimento, respectivamente, para cada um dos\nprojetos, são:\n• projeto I: 1,8 m, 2,0 m e 25,0 m;\n• projeto II: 2,0 m, 5,0 m e 9,0 m;\n• projeto III: 1,0 m, 6,0 m e 15,0 m;\n• projeto IV: 1,5 m, 15,0 m e 4,0 m;\n• projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um casal planeja construir em sua chácara uma\npiscina com o formato de um paralelepípedo reto\nretângulo com capacidade para 90 000 L de água.\nO casal contratou uma empresa de construções que\napresentou cinco projetos com diferentes combinações\nnas dimensões internas de profundidade, largura\ne comprimento. A piscina a ser construída terá\nrevestimento interno em suas paredes e fundo com uma\nmesma cerâmica, e o casal irá escolher o projeto que\nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura\ne comprimento, respectivamente, para cada um dos\nprojetos, são:\n• projeto I: 1,8 m, 2,0 m e 25,0 m;\n• projeto II: 2,0 m, 5,0 m e 9,0 m;\n• projeto III: 1,0 m, 6,0 m e 15,0 m;\n• projeto IV: 1,5 m, 15,0 m e 4,0 m;\n• projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Uma instituição de ensino superior ofereceu vagas\nem um processo seletivo de acesso a seus cursos.\nFinalizadas as inscrições, foi divulgada a relação do\nnúmero de candidatos por vaga em cada um dos cursos\noferecidos. Esses dados são apresentados no quadro.\n\nQual foi o número total de candidatos inscritos nesse\nprocesso seletivo?",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-168/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-168/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "200",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "400",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 200",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 235",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "7 200",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma instituição de ensino superior ofereceu vagas\nem um processo seletivo de acesso a seus cursos.\nFinalizadas as inscrições, foi divulgada a relação do\nnúmero de candidatos por vaga em cada um dos cursos\noferecidos. Esses dados são apresentados no quadro.\n\nQual foi o número total de candidatos inscritos nesse\nprocesso seletivo?\n\nA. 200\nB. 400\nC. 1 200\nD. 1 235\nE. 7 200"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "Peças metálicas de aeronaves abandonadas em\naeroportos serão recicladas. Uma dessas peças é\nmaciça e tem o formato cilíndrico, com a medida do raio\nda base igual a 4 cm e a da altura igual a 50 cm. Ela será\nderretida, e o volume de metal resultante será utilizado\npara a fabricação de esferas maciças com diâmetro de\n1 cm, a serem usadas para confeccionar rolamentos.\nPara estimar a quantidade de esferas que poderão ser\nproduzidas a partir de cada uma das peças cilíndricas,\nadmite-se que não ocorre perda de material durante o\nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de\ncada peça cilíndrica?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "800",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 200",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 400",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4 800",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "6 400 *020125AM27* 28\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação",
+          "assets": []
+        }
+      ],
+      "rawText": "Peças metálicas de aeronaves abandonadas em\naeroportos serão recicladas. Uma dessas peças é\nmaciça e tem o formato cilíndrico, com a medida do raio\nda base igual a 4 cm e a da altura igual a 50 cm. Ela será\nderretida, e o volume de metal resultante será utilizado\npara a fabricação de esferas maciças com diâmetro de\n1 cm, a serem usadas para confeccionar rolamentos.\nPara estimar a quantidade de esferas que poderão ser\nproduzidas a partir de cada uma das peças cilíndricas,\nadmite-se que não ocorre perda de material durante o\nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de\ncada peça cilíndrica?\n\nA. 800\nB. 1 200\nC. 2 400\nD. 4 800\nE. 6 400 *020125AM27* 28\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação"
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente.\nEle observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo\nque a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da\natividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física,\npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após\nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "30 minutos ou menos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "mais de 35 e menos de 45 minutos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "mais de 45 e menos de 55 minutos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "mais de 60 e menos de 70 minutos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "70 minutos ou mais.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente.\nEle observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo\nque a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da\natividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física,\npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após\nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou\n\nA. 30 minutos ou menos.\nB. mais de 35 e menos de 45 minutos.\nC. mais de 45 e menos de 55 minutos.\nD. mais de 60 e menos de 70 minutos.\nE. 70 minutos ou mais."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição\ndas poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as\nseguintes indicações:\n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo\nmenos, 60% da largura (L) da tela.\n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da\nlargura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de\npoltronas em duas fileiras consecutivas.\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e\ntem suas dimensões especificadas na figura.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "26",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "27",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "28",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "L\nTela Área de instalação\nde novas poltronas 0,6L mín= Fileira Fileira Fileira Pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,\nampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite\naceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se\nnovas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após essa ampliação? 29",
+          "assets": [
+            "/generated/enem-2022/matematica/question-171/option-d-01.png",
+            "/generated/enem-2022/matematica/question-171/option-d-02.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "35 *020125AM28* 29\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição\ndas poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as\nseguintes indicações:\n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo\nmenos, 60% da largura (L) da tela.\n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da\nlargura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de\npoltronas em duas fileiras consecutivas.\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e\ntem suas dimensões especificadas na figura.\n\nA. 26\nB. 27\nC. 28\nD. L\nTela Área de instalação\nde novas poltronas 0,6L mín= Fileira Fileira Fileira Pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,\nampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite\naceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se\nnovas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após essa ampliação? 29\nE. 35 *020125AM28* 29\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "A luminosidade Lde uma estrela está relacionada com\no raio Re com a temperatura Tdessa estrela segundo a\nLei de Stefan-Boltzmann: L = c ⋅ R₂ ⋅ T₄, em que c é uma\nconstante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrelaE\ntem metade do raio da estrela F e o dobro da temperatura\nde F.\nIndique por LE e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é\ndada por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "L L",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "L L",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "LE = LF",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "LE = 4LF",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "LE = 8LF",
+          "assets": [
+            "/generated/enem-2022/matematica/question-172/option-e-01.png",
+            "/generated/enem-2022/matematica/question-172/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "A luminosidade Lde uma estrela está relacionada com\no raio Re com a temperatura Tdessa estrela segundo a\nLei de Stefan-Boltzmann: L = c ⋅ R₂ ⋅ T₄, em que c é uma\nconstante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrelaE\ntem metade do raio da estrela F e o dobro da temperatura\nde F.\nIndique por LE e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é\ndada por\n\nA. L L\nB. L L\nC. LE = LF\nD. LE = 4LF\nE. LE = 8LF"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Uma das informações que pode auxiliar no\ndimensionamento do número de pediatras que devem\natender em uma Unidade Básica de Saúde (UBS) é\no número que representa a mediana da quantidade\nde crianças por família existente na região sob sua\nresponsabilidade. O quadro mostra a distribuição das\nfrequências do número de crianças por família na região\nde responsabilidade de uma UBS.\n\n5/50\nO número que representa a mediana da quantidade de\ncrianças por família nessa região é",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-173/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-173/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,0.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,5.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,9.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2,1.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma das informações que pode auxiliar no\ndimensionamento do número de pediatras que devem\natender em uma Unidade Básica de Saúde (UBS) é\no número que representa a mediana da quantidade\nde crianças por família existente na região sob sua\nresponsabilidade. O quadro mostra a distribuição das\nfrequências do número de crianças por família na região\nde responsabilidade de uma UBS.\n\n5/50\nO número que representa a mediana da quantidade de\ncrianças por família nessa região é\n\nA. 1,0.\nB. 1,5.\nC. 1,9.\nD. 2,1.\nE. 2,5."
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "Em jogos de voleibol, um saque é invalidado se a bola\natingir o teto do ginásio onde ocorre o jogo. Um jogador de\numa equipe tem um saque que atinge uma grande altura.\nSeu recorde foi quando a batida do saque se iniciou a\numa altura de 1,5 m do piso da quadra, e a trajetória da\n\nque yrepresenta a altura da bola em relação ao eixo\nx (das abscissas) que está localizado a 1,5 m do piso\nda quadra, como representado na figura. Suponha que\nem todas as partidas algum saque desse jogador atinja a\nmesma altura do seu recorde.\n\nx\nA equipe desse jogador participou de um torneio de\nvoleibol no qual jogou cinco partidas, cada uma delas\nem um ginásio diferente. As alturas dos tetos desses\nginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\nO saque desse atleta foi invalidado",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-174/statement-01.png",
+        "/generated/enem-2022/matematica/question-174/statement-02.png",
+        "/generated/enem-2022/matematica/question-174/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-174/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "apenas no ginásio I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "apenas nos ginásios I e II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "apenas nos ginásios I, II e III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "apenas nos ginásios I, II, III e IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "em todos os ginásios. *020125AM29* 30\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação",
+          "assets": []
+        }
+      ],
+      "rawText": "Em jogos de voleibol, um saque é invalidado se a bola\natingir o teto do ginásio onde ocorre o jogo. Um jogador de\numa equipe tem um saque que atinge uma grande altura.\nSeu recorde foi quando a batida do saque se iniciou a\numa altura de 1,5 m do piso da quadra, e a trajetória da\n\nque yrepresenta a altura da bola em relação ao eixo\nx (das abscissas) que está localizado a 1,5 m do piso\nda quadra, como representado na figura. Suponha que\nem todas as partidas algum saque desse jogador atinja a\nmesma altura do seu recorde.\n\nx\nA equipe desse jogador participou de um torneio de\nvoleibol no qual jogou cinco partidas, cada uma delas\nem um ginásio diferente. As alturas dos tetos desses\nginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\nO saque desse atleta foi invalidado\n\nA. apenas no ginásio I.\nB. apenas nos ginásios I e II.\nC. apenas nos ginásios I, II e III.\nD. apenas nos ginásios I, II, III e IV.\nE. em todos os ginásios. *020125AM29* 30\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação"
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão\nque depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo\ncom estes critérios:\n• até a quinquagésima peça vendida, paga-se 5 reais por peça;\n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.\nRepresente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal,\nem real, nesse mês.\nA expressão algébrica que descreve S(q) em função de q é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "S(q) = 675 + 12q",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "S(q) = 325 + 12q",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "S(q) = 675 + 7q",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "S q q q q q () , ,",
+          "assets": [
+            "/generated/enem-2022/matematica/question-175/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "S q q q q q () , ,",
+          "assets": [
+            "/generated/enem-2022/matematica/question-175/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão\nque depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo\ncom estes critérios:\n• até a quinquagésima peça vendida, paga-se 5 reais por peça;\n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.\nRepresente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal,\nem real, nesse mês.\nA expressão algébrica que descreve S(q) em função de q é\n\nA. S(q) = 675 + 12q\nB. S(q) = 325 + 12q\nC. S(q) = 675 + 7q\nD. S q q q q q () , ,\nE. S q q q q q () , ,"
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de\npessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t₂ + 10t + 24, sendo t um número\nnatural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do\nano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar\na propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V),\ncom diferentes períodos de intensificação das propagandas:\n• I: 1 ≤ t ≤ 2;\n• II: 3 ≤ t ≤ 4;\n• III: 5 ≤ t ≤ 6;\n• IV: 7 ≤ t ≤ 9;\n• V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o\nmês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.\nA proposta escolhida foi a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de\npessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t₂ + 10t + 24, sendo t um número\nnatural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do\nano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar\na propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V),\ncom diferentes períodos de intensificação das propagandas:\n• I: 1 ≤ t ≤ 2;\n• II: 3 ≤ t ≤ 4;\n• III: 5 ≤ t ≤ 6;\n• IV: 7 ≤ t ≤ 9;\n• V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o\nmês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.\nA proposta escolhida foi a\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos\ndiferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a\npartir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "T₃R T₄R R T₅R.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "R T₃R T₄R R T₅.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "R T₄R R T₅ R T₁.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "R R T₅R T₁R R.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "R T₅R T₁R R T₂. *020125AM30* 31\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022",
+          "assets": []
+        }
+      ],
+      "rawText": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos\ndiferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a\npartir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é\n\nA. T₃R T₄R R T₅R.\nB. R T₃R T₄R R T₅.\nC. R T₄R R T₅ R T₁.\nD. R R T₅R T₁R R.\nE. R T₅R T₁R R T₂. *020125AM30* 31\nMT - 2° dia | Caderno 5 - AMARELO - 1ª Aplicação ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022"
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Um robô, que tem um ímã em sua base, se desloca\nsobre a superfície externa de um cubo metálico, ao longo de\nsegmentos de reta cujas extremidades são pontos médios de\narestas e centros de faces. Ele inicia seu deslocamento no\nponto P, centro da face superior do cubo, segue para o centro\nda próxima face, converte à esquerda e segue para o centro da\nface seguinte, converte à direita e continua sua movimentação,\nsempre alternando entre conversões à esquerda e à direita\nquando alcança o centro de uma face. O robô só termina sua\nmovimentação quando retorna ao ponto P. A figura apresenta\nos deslocamentos iniciais desse robô.\nP\n\nA projeção ortogonal do trajeto descrito por esse robô\nsobre o plano da base, após terminada sua movimentação,\nvisualizada da posição em que se está enxergando esse\ncubo, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um robô, que tem um ímã em sua base, se desloca\nsobre a superfície externa de um cubo metálico, ao longo de\nsegmentos de reta cujas extremidades são pontos médios de\narestas e centros de faces. Ele inicia seu deslocamento no\nponto P, centro da face superior do cubo, segue para o centro\nda próxima face, converte à esquerda e segue para o centro da\nface seguinte, converte à direita e continua sua movimentação,\nsempre alternando entre conversões à esquerda e à direita\nquando alcança o centro de uma face. O robô só termina sua\nmovimentação quando retorna ao ponto P. A figura apresenta\nos deslocamentos iniciais desse robô.\nP\n\nA projeção ortogonal do trajeto descrito por esse robô\nsobre o plano da base, após terminada sua movimentação,\nvisualizada da posição em que se está enxergando esse\ncubo, é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Uma empresa de engenharia projetou uma casa com\na forma de um retângulo para um de seus clientes. Esse\ncliente solicitou a inclusão de uma varanda em forma\nde L. A figura apresenta a planta baixa desenhada pela\nempresa, já com a varanda incluída, cujas medidas,\nindicadas em centímetro, representam os valores das\ndimensões da varanda na escala de 1 : 50.\n\nESCALA 1 : 50\n\nQUARTO\n\nA medida real da área da varanda, em metro quadrado, é\nA\nA 33,40.\nB\nB 66,80.\nC\nC 89,24.\nD\nD 133,60.\nE\nE 534,40.",
+      "statementAssets": [
+        "/generated/enem-2022/matematica/question-179/statement-01.png",
+        "/generated/enem-2022/matematica/question-179/statement-02.png",
+        "/generated/enem-2022/matematica/question-179/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2022/matematica/question-179/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa de engenharia projetou uma casa com\na forma de um retângulo para um de seus clientes. Esse\ncliente solicitou a inclusão de uma varanda em forma\nde L. A figura apresenta a planta baixa desenhada pela\nempresa, já com a varanda incluída, cujas medidas,\nindicadas em centímetro, representam os valores das\ndimensões da varanda na escala de 1 : 50.\n\nESCALA 1 : 50\n\nQUARTO\n\nA medida real da área da varanda, em metro quadrado, é\nA\nA 33,40.\nB\nB 66,80.\nC\nC 89,24.\nD\nD 133,60.\nE\nE 534,40.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2022,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2022 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Uma loja de roupas fixou uma meta de vendas de\n77 000 reais para um determinado mês de 30 dias.\nO gráfico mostra o volume de vendas dessa loja, em real,\nnos dez primeiros dias do mês e entre o dia dez e o dia\nvinte desse mês, nos seus dois únicos setores (infantil e\nadulto). Suponha que a variação no volume de vendas,\npara o período registrado, tenha se dado de forma linear,\ncomo mostrado no gráfico, e que essa tendência se\nmantenha a mesma para os próximos dez dias.\n18 000\n\n10/30\n15 000\nAdulto\n\nDias\nInfantil\n\nAo final do trigésimo dia, quanto faltará no volume de vendas,\nem real, para que a meta fixada para o mês seja alcançada?\nA\nA 5 000\nB\nB 7 000\nC\nC 11 000\nD\nD 18 000\nE\nE 29 000\n*020125AM31*\n\n32/2° dia | Caderno 5 - AMARELO - 1ª Aplicação\n*020125AM32*",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma loja de roupas fixou uma meta de vendas de\n77 000 reais para um determinado mês de 30 dias.\nO gráfico mostra o volume de vendas dessa loja, em real,\nnos dez primeiros dias do mês e entre o dia dez e o dia\nvinte desse mês, nos seus dois únicos setores (infantil e\nadulto). Suponha que a variação no volume de vendas,\npara o período registrado, tenha se dado de forma linear,\ncomo mostrado no gráfico, e que essa tendência se\nmantenha a mesma para os próximos dez dias.\n18 000\n\n10/30\n15 000\nAdulto\n\nDias\nInfantil\n\nAo final do trigésimo dia, quanto faltará no volume de vendas,\nem real, para que a meta fixada para o mês seja alcançada?\nA\nA 5 000\nB\nB 7 000\nC\nC 11 000\nD\nD 18 000\nE\nE 29 000\n*020125AM31*\n\n32/2° dia | Caderno 5 - AMARELO - 1ª Aplicação\n*020125AM32*\n\nA.\nB.\nC.\nD.\nE."
+    }
+  ]
+}

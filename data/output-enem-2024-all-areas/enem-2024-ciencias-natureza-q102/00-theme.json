@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:37:40.538Z",
+  "questionId": "enem-2024-ciencias-natureza-q102",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Termologia e termodinâmica",
+    "rationale": "A questão aborda conceitos relacionados ao aquecimento da água, eficiência energética e transformação de energia térmica, que pertencem ao estudo da termologia e termodinâmica dentro da Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 781,
+    "outputTokens": 60,
+    "estimatedCostUsd": 0.000408
+  }
+}

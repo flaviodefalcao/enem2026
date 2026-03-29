@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:33:59.624Z",
+  "questionId": "enem-2024-ciencias-natureza-q129",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Ondas, óptica e radiação",
+    "rationale": "A questão aborda o uso de raios X para inspeção em aeroportos, focando no comportamento físico da radiação ao atravessar objetos e na necessidade de remover o computador para melhor visualização. Isso se enquadra no estudo das ondas e radiações electromagnéticas, que é tratado no subtema 'Ondas, óptica e radiação'.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 855,
+    "outputTokens": 98,
+    "estimatedCostUsd": 0.000499
+  }
+}

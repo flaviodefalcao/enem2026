@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:26:44.894Z",
+  "questionId": "enem-2024-ciencias-natureza-q107",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A fitorremediação engloba técnicas que usam plantas para tratar solos contaminados. Para remover o mercúrio do solo e evitar sua entrada na cadeia alimentar, a técnica correta é a fitoextração, que consiste no acúmulo do metal nas partes aéreas da planta, que depois são retiradas do local, eliminando o contaminante.",
+      "stepByStep": [
+        "Leia o enunciado para entender que o objetivo é retirar o mercúrio e impedir sua entrada na cadeia alimentar.",
+        "Observe a figura com as definições dos métodos de fitorremediação: fitoestabilização, fitovolatilização, fitodegradação, fitoestimulação e fitoextração.",
+        "Compreenda que a fitoextração é a técnica que remove poluentes absorvendo-os pelas raízes e acumulando-os na parte aérea da planta para posterior retirada.",
+        "Compare as outras opções: a fitoestabilização apenas imobiliza o contaminante no solo; a fitovolatilização transforma o mercúrio em forma volátil, que pode dispersar; a fitodegradação é para contaminantes orgânicos; a fitoestimulação estimula microrganismos para degradar contaminantes orgânicos.",
+        "Conclua que a alternativa E, a fitoextração, é a correta, pois promove a remoção física do mercúrio do solo, evitando sua entrada na cadeia alimentar."
+      ],
+      "commonPitfalls": [
+        "Confundir fitoestabilização com remoção do poluente, quando ela só imobiliza o contaminante no solo.",
+        "Achar que transformar o mercúrio em forma volátil (fitovolatilização) elimina o problema, mas o mercúrio volatilizado pode contaminar o ar e a cadeia alimentar.",
+        "Supor que mercúrio, um metal pesado, pode ser degradado enzimaticamente como contaminantes orgânicos (erro na fitodegradação).",
+        "Pensar que fitoestimulação, que estimula microrganismos para degradar orgânicos, remove metais pesados diretamente.",
+        "Não identificar que a retirada da biomassa contaminada é essencial para impedir a contaminação."
+      ],
+      "teachingTips": [
+        "Utilize a figura da questão para facilitar a visualização dos processos de fitorremediação e suas funções.",
+        "Explique a diferença entre imobilizar um contaminante e removê-lo efetivamente do ambiente.",
+        "Discuta características dos contaminantes: metais pesados não são degradados enzimaticamente, ao contrário de contaminantes orgânicos.",
+        "Estimule o raciocínio sobre o impacto ambiental das técnicas, como o risco da volatilização do mercúrio.",
+        "Pratique a interpretação de termos técnicos ambientais para fortalecer a compreensão dos alunos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 3188,
+    "outputTokens": 557,
+    "estimatedCostUsd": 0.002166
+  }
+}

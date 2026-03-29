@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:30:11.008Z",
+  "questionId": "enem-2024-ciencias-natureza-q096",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Química orgânica",
+    "rationale": "A questão aborda os grupos funcionais em compostos orgânicos relacionados ao controle de pragas, requerendo conhecimento sobre códigos e nomenclatura química para identificar funções orgânicas presentes nas moléculas apresentadas. Isso se enquadra claramente na área de Química, subtema Química orgânica, conforme a taxonomia permitida.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1234,
+    "outputTokens": 89,
+    "estimatedCostUsd": 0.000636
+  }
+}

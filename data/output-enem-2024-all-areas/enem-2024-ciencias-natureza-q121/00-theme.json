@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:20:22.170Z",
+  "questionId": "enem-2024-ciencias-natureza-q121",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Química orgânica",
+    "rationale": "A questão aborda o conceito de compostos orgânicos, discutindo a definição científica atual destes compostos, que é um tema típico da Química Orgânica dentro da Química.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 769,
+    "outputTokens": 58,
+    "estimatedCostUsd": 0.0004
+  }
+}

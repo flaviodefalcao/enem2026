@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:40:37.324Z",
+  "questionId": "enem-2024-ciencias-natureza-q134",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão trata do exoesqueleto dos crustáceos, uma estrutura biológica relacionada à fisiologia dos animais, abordando a função do exoesqueleto e o processo de crescimento através da muda, que são aspectos do funcionamento e adaptação dos organismos vivos, enquadrando-se claramente em fisiologia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 769,
+    "outputTokens": 86,
+    "estimatedCostUsd": 0.000445
+  }
+}

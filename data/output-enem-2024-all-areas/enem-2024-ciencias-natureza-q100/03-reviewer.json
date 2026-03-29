@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:35:37.555Z",
+  "questionId": "enem-2024-ciencias-natureza-q100",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E representa corretamente a modificação das linhas de campo elétrico quando um cilindro metálico oco é colocado entre duas placas carregadas com cargas opostas.",
+        "strategy": "Analisar o comportamento das linhas de campo elétrico entre duas placas planas com cargas opostas e, em seguida, observar como essas linhas se redistribuem ao inserir um objeto metálico oco entre as placas, verificando as alternativas para correspondência com o comportamento esperado.",
+        "steps": [
+          "Identificar que as placas A e B são condutores carregados com cargas opostas, criando um campo elétrico uniforme entre elas, representado por linhas de campo retas e paralelas.",
+          "Entender que o farelo de milho mostra o caminho das linhas de campo elétrico no óleo.",
+          "Reconhecer que um cilindro metálico oco funciona como um condutor que irá alterar as linhas de campo na região em que está inserido.",
+          "As linhas de campo não podem penetrar no condutor, e tendem a se redistribuir ao redor dele, desviando-se da região interna do cilindro.",
+          "Comparar as alternativas para identificar qual desenho mostra linhas de campo desviando ao redor do cilindro, mas sem entrar dentro dele, e mantendo a continuidade das linhas entre as placas.",
+          "Verificar que a alternativa E mostra as linhas desviadas contornando o cilindro metálico oco, sem penetração no interior do cilindro, condizendo com o comportamento físico esperado."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem do enunciado 1: linhas retas entre as placas A e B, indicando campo uniforme.",
+          "Imagem da alternativa E 1: linhas de campo desviando ao redor do cilindro metálico oco, sem penetrar no cilindro, condizente com o fenômeno físico esperado."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Quando um cilindro metálico oco é colocado entre duas placas carregadas com cargas opostas, as linhas de campo elétrico, que antes eram retas e paralelas, se desviam ao redor do cilindro, pois as linhas de campo não podem penetrar no condutor. O correto é observar o desvio das linhas sem que elas entrem no interior do cilindro, como mostrado na alternativa E.",
+        "stepByStep": [
+          "As placas A e B são condutores com cargas opostas, criando um campo elétrico uniforme com linhas retas e paralelas entre elas.",
+          "O farelo de milho no óleo mostra visualmente essas linhas de campo elétrico.",
+          "Inserir um cilindro metálico oco entre as placas adiciona um condutor interferindo no campo.",
+          "As linhas de campo elétrico não podem atravessar o condutor; portanto, elas se desviam e contornam o cilindro metálico.",
+          "Observar cada alternativa procurando a que mostra as linhas desviadas ao redor do cilindro, sem ultrapassar seu interior.",
+          "Concluir que a alternativa E apresenta o comportamento correto das linhas de campo elétrico na presença do cilindro metálico oco."
+        ],
+        "commonPitfalls": [
+          "Acreditar que as linhas de campo continuam retas e passam pelo cilindro metálico, como na alternativa A, ignorando as propriedades do condutor.",
+          "Pensar que o campo elétrico inverte sua direção ao colocar o cilindro, como na alternativa B, o que não acontece.",
+          "Interpretar as linhas com desvios incorretos e direções erradas, como na alternativa C.",
+          "Aceitar linhas cruzadas, como mostrado na alternativa D, sendo que linhas de campo elétrico nunca se cruzam."
+        ],
+        "teachingTips": [
+          "Enfatize que condutores não permitem a penetração de linhas de campo elétrico, por isso ocorre desvio das linhas ao redor do condutor.",
+          "Utilize analogias visuais, como fluxo de água desviando ao redor de obstáculos, para tornar o conceito mais intuitivo.",
+          "Incorpore experimentos simples ou simulações sobre campos elétricos para consolidar a compreensão do comportamento das linhas de campo.",
+          "Reforce que linhas de campo elétrico nunca se cruzam, sendo um conceito básico fundamental para interpretação gráfica em eletrostática.",
+          "Estimule os alunos a comparar cada alternativa criticamente com o conceito físico para identificar a correta representação do fenômeno."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que o campo elétrico permanece uniforme mesmo com o cilindro no meio, com linhas de campo passando para dentro do cilindro.",
+          "misconceptionType": "Ignorar a presença do condutor e suas propriedades na alteração do campo elétrico.",
+          "whyItLooksPlausible": "As linhas são paralelas e contínuas, o que é o comportamento esperado entre duas placas carregadas.",
+          "whyItIsWrong": "Ignora que as linhas de campo elétrico não penetram em condutores, portanto não podem passar dentro do cilindro metálico."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "As linhas de campo invertidas podem confundir e induzir a pensar que o campo se inverte devido à presença do cilindro.",
+          "misconceptionType": "Confusão sobre a direção do campo devido à inserção do condutor.",
+          "whyItLooksPlausible": "Mostra uma alteração no campo, o que é esperado com a inserção do cilindro.",
+          "whyItIsWrong": "Não há inversão da direção do campo elétrico devido a um condutor inserido, apenas desvio nas linhas."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Parece que as linhas são desviadas para a esquerda passando muito próximas ao cilindro, mas direções incorretas.",
+          "misconceptionType": "Compreensão incorreta do desvio das linhas de campo em presença de condutor.",
+          "whyItLooksPlausible": "Apresenta linhas desviadas, indicando influência do cilindro no campo.",
+          "whyItIsWrong": "As linhas indicam um comportamento anômalo e direção de campo errada para o arranjo de cargas mostrado."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "As linhas cruzadas no centro indicam uma ideia errada sobre o comportamento do campo em presença do condutor.",
+          "misconceptionType": "Confusão sobre as linhas de campo elétrico, surgindo cruzamentos que não ocorrem no campo elétrico real.",
+          "whyItLooksPlausible": "Mostra alterações evidentes na imagem, sugerindo interação do campo com o cilindro.",
+          "whyItIsWrong": "Linhas de campo elétrico não se cruzam, portanto essa alternativa representa um erro conceitual grave."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de fenômenos físicos: eletrostática e comportamento de campos elétricos",
+        "secondarySkills": [
+          "Conhecimento sobre propriedades de condutores em campos elétricos",
+          "Representação gráfica de campos elétricos",
+          "Interpretação de modelos experimentais"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Exige compreensão qualitativa do efeito de um condutor no campo elétrico entre placas carregadas.",
+          "Avalia a capacidade de interpretar imagens representando linhas de campo elétrico e fenômenos eletrostáticos.",
+          "Visualização e conhecimento conceitual de física do eletromagnetismo são essenciais para a resolução."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "⚡",
+        "shortThemeTitle": "Comportamento de linhas de campo elétrico com condutor",
+        "interpretationIntro": "A questão pede que se interprete como as linhas de campo elétrico se modificam ao inserir um cilindro metálico oco entre duas placas carregadas com cargas opostas, representado visualmente.",
+        "commandTerms": [
+          {
+            "term": "Linhas de campo elétrico",
+            "explanation": "Representação gráfica dos caminhos que as cargas positivas seguiriam sob influência do campo elétrico."
+          },
+          {
+            "term": "Condutor metálico",
+            "explanation": "Material que permite livre movimentação de cargas elétricas e impede penetração das linhas de campo elétrico."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão solicita identificar o desenho que expressa corretamente o padrão de linhas de campo elétrico ao colocar um condutor metálico oco entre placas com cargas opostas.",
+        "strategyParagraph": "É necessário compreender o comportamento das linhas de campo entre placas planas com cargas opostas, que formam um campo uniforme, e analisar como a inserção de um condutor altera este padrão, desviando as linhas ao redor e impedindo que penetrem no interior do condutor. A comparação das alternativas deve focar nessa característica física para selecionar a correta.",
+        "reviewTable": [
+          {
+            "concept": "Linhas de campo elétrico",
+            "keyIdea": "Não cruzam e indicam direção do campo.",
+            "application": "As linhas devem desviar ao redor do condutor sem se cruzar."
+          },
+          {
+            "concept": "Condutor em campo elétrico",
+            "keyIdea": "As linhas não penetram no condutor e se redistribuem ao redor.",
+            "application": "O cilindro metálico oco desvia as linhas, criando uma região sem linhas no interior."
+          },
+          {
+            "concept": "Campo uniforme entre placas",
+            "keyIdea": "Linhas paralelas, retas e contínuas entre cargas opostas.",
+            "application": "Antes da inserção do cilindro, as linhas são retas; depois, se desviam ao redor."
+          }
+        ],
+        "theoryParagraphs": [
+          "Entre duas placas metálicas carregadas com cargas opostas, o campo elétrico é uniforme, e suas linhas são retas, paralelas e direcionadas da placa positiva para a negativa.",
+          "Quando um condutor metálico é inserido nesse campo, ele impede a penetração das linhas de campo elétrico, que devem contornar o condutor, especificamente em sua forma oca, causando uma redistribuição visível das linhas.",
+          "Esse comportamento é fundamental no estudo de eletrostática, pois mostra a influência dos condutores no campo elétrico e é utilizado experimentalmente para visualizar linhas de campo por meio de materiais indicadores, como o farelo de milho."
+        ],
+        "resolutionParagraphs": [
+          "O experimento demonstra inicialmente linhas de campo elétrico retas e paralelas entre as placas A e B, evidenciado pelo farelo de milho.",
+          "Inserindo o cilindro metálico oco, as linhas de campo não podem mais atravessar o interior do condutor e desviam-se ao seu redor.",
+          "Ao analisar as alternativas, a letra E mostra exatamente esse desvio das linhas contornando o cilindro, sem que elas penetrem no seu interior, mantendo continuidade e respeitando as propriedades do campo elétrico.",
+          "As demais alternativas apresentam erros conceituais, como linhas penetrando no condutor (A), inversão da direção do campo (B), desvios incorretos (C) ou cruzamentos de linhas de campo (D), que são impossíveis no campo elétrico real.",
+          "Portanto, a alternativa E é a resposta correta, pois representa de forma fiel o comportamento esperado das linhas de campo elétrico ao introduzir um condutor metálico oco no campo entre placas carregadas."
+        ],
+        "puloDoGato": "Lembre-se: linhas de campo elétrico nunca entram em condutores; elas sempre contornam os corpos metálicos, mantendo sua continuidade externa.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Mostra linhas penetrando no cilindro metálico, o que não ocorre porque o condutor impede a passagem das linhas de campo elétrico."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Apresenta inversão da direção das linhas de campo, o que é incorreto; o campo não inverte sua direção por causa da presença do condutor."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "As linhas indicam desvios e direções erradas para o arranjo de cargas apresentado, mostrando um comportamento anômalo do campo."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Apresenta linhas de campo cruzadas, o que é impossível, pois linhas de campo elétrico nunca se cruzam."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Apenas a alternativa E mostra corretamente as linhas desviadas que contornam o cilindro metálico oco, alinhada com o comportamento físico real do campo elétrico."
+          }
+        ],
+        "questionCode": "CN_ELETROSTATICA_MULTIPLA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explicação didática estão coerentes e consistentes. A alternativa correta é a E, devidamente justificada com base no conhecimento da eletrostática e comportamento de condutores em campos elétricos. As imagens correspondem às descrições e nenhuma informação contraditória foi detectada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 4079,
+    "outputTokens": 2593,
+    "estimatedCostUsd": 0.00578
+  }
+}

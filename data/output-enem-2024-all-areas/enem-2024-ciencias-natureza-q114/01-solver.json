@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:36:53.692Z",
+  "questionId": "enem-2024-ciencias-natureza-q114",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta correta é a alternativa C porque a peça de chumbo deve ser colocada no ponto oposto ao deslocamento do centro de massa (CM) para corrigir o desequilíbrio.",
+      "strategy": "Analisar a posição do centro de massa (CM) em relação ao centro geométrico da roda e determinar o ponto oposto na roda para equilibrar o sistema adicionando peso.",
+      "steps": [
+        "Observar o esquema da roda com os pontos indicados e a posição do centro de massa (CM).",
+        "Notar que o CM está deslocado para o lado direito da roda.",
+        "Identificar o ponto que está exatamente oposto ao deslocamento do CM para adicionar peso extra e equilibrar a roda.",
+        "O ponto 3 está localizado à esquerda, diretamente oposto ao CM na direita.",
+        "Concluir que a peça de chumbo deve ser fixada no ponto 3 para mover o centro de massa em direção ao centro geométrico."
+      ],
+      "formulasUsed": [
+        "Nenhuma fórmula específica foi usada, o raciocínio baseia-se na física do centro de massa e equilíbrio."
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da roda com o centro de massa (CM) deslocado para a direita e cinco pontos marcados na roda para possível fixação de peso."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolher um ponto próximo ao centro de massa para tentar equilibrar.",
+        "misconceptionType": "Raciocínio incorreto sobre a localização oposta da massa necessária para equilíbrio.",
+        "whyItLooksPlausible": "O ponto 1 está próximo ao CM, o que pode parecer uma boa posição para fixar peso para equilibrar.",
+        "whyItIsWrong": "Fixar peso do mesmo lado do deslocamento do CM aumenta o desequilíbrio."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que qualquer ponto no lado esquerdo pode ser suficiente.",
+        "misconceptionType": "Generalização incorreta sem considerar o ponto exatamente oposto.",
+        "whyItLooksPlausible": "O ponto 2 está no lado esquerdo, que é o lado oposto ao CM.",
+        "whyItIsWrong": "O ponto 2 não está exatamente oposto ao CM, o que geraria menos eficácia em corrigir o equilíbrio."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Selecionar um ponto perto do centro geométrico na parte inferior da roda.",
+        "misconceptionType": "Não compreender que o peso deve estar diametralmente oposto ao deslocamento.",
+        "whyItLooksPlausible": "Parece uma posição estratégica na parte inferior para equilíbrio.",
+        "whyItIsWrong": "Não está alinhado diametralmente ao deslocamento do CM, portanto não corrige o problema eficientemente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Escolher um ponto adjacente ao CM para tentar neutralizar visualmente o desequilíbrio.",
+        "misconceptionType": "Não aplicar o conceito de vetor de equilíbrio adequadamente.",
+        "whyItLooksPlausible": "Próximo ao CM pode parecer um ponto para compensar o peso desigual.",
+        "whyItIsWrong": "O ponto 5 está do mesmo lado do deslocamento do CM; adicionando peso ali, a instabilidade piora."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Análise de equilíbrio e centro de massa",
+      "secondarySkills": [
+        "Visualização espacial",
+        "Física aplicada ao movimento rotacional"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige compreensão do conceito físico de centro de massa e como o peso influencia o equilíbrio na rotação.",
+        "A imagem é essencial para identificar o ponto de correção correto.",
+        "Não há necessidade de cálculos numéricos, apenas raciocínio geométrico e físico."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1026,
+    "outputTokens": 779,
+    "estimatedCostUsd": 0.001657
+  }
+}

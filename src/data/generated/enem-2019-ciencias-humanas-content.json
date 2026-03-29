@@ -1,0 +1,1926 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2019/ENEM_2019_P1_CAD_01_DIA_1_AZUL.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      46,
+      90
+    ],
+    "year": 2019,
+    "areaLabel": "Ciências Humanas",
+    "areaSlug": "ciencias-humanas"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 46,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 46 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "A pegada ecológica gigante que estamos a deixar\nno planeta está a transformá-lo de tal forma que os\nespecialistas consideram que já entramos numa\nnova época geológica, o Antropoceno. E muitos\ndefendem que, se não travarmos a crise ambiental, mais\nrapidamente transformaremos a Terra em Vênus do que\niremos a Marte. A expressão “Antropoceno” é atribuída\nao químico e prêmio Nobel Paul Crutzen, que a propôs\ndurante uma conferência em 2000, ao mesmo tempo\nque anunciou o fim do Holoceno — a época geológica\nem que os seres humanos se encontram há cerca de\n12 mil anos, segundo a União Internacional das Ciências\nGeológicas (UICG), a entidade que define as unidades\nde tempo geológicas.\n\nA concepção apresentada considera a existência de uma\nnova época geológica concebida a partir da capacidade\nde influência humana nos processos",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-46/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-46/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "eruptivos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "exógenos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "tectônicos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "magmáticos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "metamórficos.",
+          "assets": []
+        }
+      ],
+      "rawText": "A pegada ecológica gigante que estamos a deixar\nno planeta está a transformá-lo de tal forma que os\nespecialistas consideram que já entramos numa\nnova época geológica, o Antropoceno. E muitos\ndefendem que, se não travarmos a crise ambiental, mais\nrapidamente transformaremos a Terra em Vênus do que\niremos a Marte. A expressão “Antropoceno” é atribuída\nao químico e prêmio Nobel Paul Crutzen, que a propôs\ndurante uma conferência em 2000, ao mesmo tempo\nque anunciou o fim do Holoceno — a época geológica\nem que os seres humanos se encontram há cerca de\n12 mil anos, segundo a União Internacional das Ciências\nGeológicas (UICG), a entidade que define as unidades\nde tempo geológicas.\n\nA concepção apresentada considera a existência de uma\nnova época geológica concebida a partir da capacidade\nde influência humana nos processos\n\nA. eruptivos.\nB. exógenos.\nC. tectônicos.\nD. magmáticos.\nE. metamórficos."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 47,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 47 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Disponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado).\nA geração de imagens por meio da tecnologia ilustrada\ndepende da variação do(a):",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Albedo dos corpos físicos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Profundidade do lençol freático.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Campo de magnetismo terrestre.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Qualidade dos recursos minerais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Movimento de translação planetária.",
+          "assets": []
+        }
+      ],
+      "rawText": "Disponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado).\nA geração de imagens por meio da tecnologia ilustrada\ndepende da variação do(a):\n\nA. Albedo dos corpos físicos.\nB. Profundidade do lençol freático.\nC. Campo de magnetismo terrestre.\nD. Qualidade dos recursos minerais.\nE. Movimento de translação planetária."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 48,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 48 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        21
+      ],
+      "statement": "ACOSTA, A. Bem viver: uma oportunidade para imaginar outros mundos.\nSão Paulo: Elefante, 2016 (adaptado).\nA relação entre ser humano e natureza ressaltada\nno texto refletia a permanência da seguinte corrente\nfilosófica:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-48/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-48/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Relativismo cognitivo.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Materialismo dialético.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Racionalismo cartesiano.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Pluralismo epistemológico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Existencialismo fenomenológico.",
+          "assets": []
+        }
+      ],
+      "rawText": "ACOSTA, A. Bem viver: uma oportunidade para imaginar outros mundos.\nSão Paulo: Elefante, 2016 (adaptado).\nA relação entre ser humano e natureza ressaltada\nno texto refletia a permanência da seguinte corrente\nfilosófica:\n\nA. Relativismo cognitivo.\nB. Materialismo dialético.\nC. Racionalismo cartesiano.\nD. Pluralismo epistemológico.\nE. Existencialismo fenomenológico."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 49,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 49 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "O Instituto Brasileiro do Meio Ambiente e dos\nRecursos Naturais Renováveis (Ibama) está investigando\no extermínio de abelhas por intoxicação por agrotóxicos\nem colmeias de São Paulo e Minas Gerais. Os estudos\ncom inseticidas do tipo neonicotinoides devem estar\nconcluídos no primeiro semestre de 2015. Trata-se de\num problema de escala mundial, presente, inclusive,\nem países do chamado primeiro mundo, e que traz,\ncomo consequência, grave ameaça aos seres vivos\ndo planeta, inclusive ao homem.\n\nQual solução para o problema apresentado garante a\nprodutividade da agricultura moderna?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-49/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-49/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Preservação da área de mata ciliar.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Adoção da prática de adubação química.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Utilização da técnica de controle biológico.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Ampliação do modelo de monocultura tropical.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Intensificação da drenagem do solo de várzea. Satélite\nSol Energia solar\nrefletida Energia solar\nincidente CH - 1º dia | Caderno 1 - AZUL - Página 22",
+          "assets": [
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-01.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-02.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-03.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-04.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-05.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-06.png",
+            "/generated/enem-2019/ciencias-humanas/question-49/option-e-07.png"
+          ]
+        }
+      ],
+      "rawText": "O Instituto Brasileiro do Meio Ambiente e dos\nRecursos Naturais Renováveis (Ibama) está investigando\no extermínio de abelhas por intoxicação por agrotóxicos\nem colmeias de São Paulo e Minas Gerais. Os estudos\ncom inseticidas do tipo neonicotinoides devem estar\nconcluídos no primeiro semestre de 2015. Trata-se de\num problema de escala mundial, presente, inclusive,\nem países do chamado primeiro mundo, e que traz,\ncomo consequência, grave ameaça aos seres vivos\ndo planeta, inclusive ao homem.\n\nQual solução para o problema apresentado garante a\nprodutividade da agricultura moderna?\n\nA. Preservação da área de mata ciliar.\nB. Adoção da prática de adubação química.\nC. Utilização da técnica de controle biológico.\nD. Ampliação do modelo de monocultura tropical.\nE. Intensificação da drenagem do solo de várzea. Satélite\nSol Energia solar\nrefletida Energia solar\nincidente CH - 1º dia | Caderno 1 - AZUL - Página 22"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 50,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 50 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "A hospitalidade pura consiste em acolher aquele que\nchega antes de lhe impor condições, antes de saber e\nindagar o que quer que seja, ainda que seja um nome ou\num “documento” de identidade. Mas ela também supõe\nque se dirija a ele, de maneira singular, chamando-o\nportanto e reconhecendo-lhe um nome próprio:\n“Como você se chama?” A hospitalidade consiste em\nfazer tudo para se dirigir ao outro, em lhe conceder,\naté mesmo perguntar seu nome, evitando que essa\npergunta se torne uma “condição”, um inquérito policial,\num fichamento ou um simples controle das fronteiras.\nUma arte e uma poética, mas também toda uma política\ndependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo:\nEstação Liberdade, 2004 (adaptado).\nAssociado ao contexto migratório contemporâneo,\no conceito de hospitalidade proposto pelo autor impõe a\nnecessidade de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "anulação da diferença.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "cristalização da biografia.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "incorporação da alteridade.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "supressão da comunicação.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "verificação da proveniência.",
+          "assets": []
+        }
+      ],
+      "rawText": "A hospitalidade pura consiste em acolher aquele que\nchega antes de lhe impor condições, antes de saber e\nindagar o que quer que seja, ainda que seja um nome ou\num “documento” de identidade. Mas ela também supõe\nque se dirija a ele, de maneira singular, chamando-o\nportanto e reconhecendo-lhe um nome próprio:\n“Como você se chama?” A hospitalidade consiste em\nfazer tudo para se dirigir ao outro, em lhe conceder,\naté mesmo perguntar seu nome, evitando que essa\npergunta se torne uma “condição”, um inquérito policial,\num fichamento ou um simples controle das fronteiras.\nUma arte e uma poética, mas também toda uma política\ndependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo:\nEstação Liberdade, 2004 (adaptado).\nAssociado ao contexto migratório contemporâneo,\no conceito de hospitalidade proposto pelo autor impõe a\nnecessidade de\n\nA. anulação da diferença.\nB. cristalização da biografia.\nC. incorporação da alteridade.\nD. supressão da comunicação.\nE. verificação da proveniência."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 51,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 51 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Em sentido geral e fundamental, Direito é a técnica\nda coexistência humana, isto é, a técnica voltada a\ntornar possível a coexistência dos homens. Como\ntécnica, o Direito se concretiza em um conjunto de regras\n(que, nesse caso, são leis ou normas); e tais regras\ntêm por objeto o comportamento intersubjetivo, isto é,\no comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia.\nSão Paulo: Martins Fontes, 2007.\nO sentido geral e fundamental do Direito, conforme foi\ndestacado, refere-se à",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "aplicação de códigos legais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "regulação do convívio social.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "legitimação de decisões políticas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "mediação de conflitos econômicos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "representação da autoridade constituída.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em sentido geral e fundamental, Direito é a técnica\nda coexistência humana, isto é, a técnica voltada a\ntornar possível a coexistência dos homens. Como\ntécnica, o Direito se concretiza em um conjunto de regras\n(que, nesse caso, são leis ou normas); e tais regras\ntêm por objeto o comportamento intersubjetivo, isto é,\no comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia.\nSão Paulo: Martins Fontes, 2007.\nO sentido geral e fundamental do Direito, conforme foi\ndestacado, refere-se à\n\nA. aplicação de códigos legais.\nB. regulação do convívio social.\nC. legitimação de decisões políticas.\nD. mediação de conflitos econômicos.\nE. representação da autoridade constituída."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 52,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 52 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        22
+      ],
+      "statement": "O processamento da mandioca era uma atividade\njá realizada pelos nativos que viviam no Brasil antes da\nchegada de portugueses e africanos. Entretanto, ao longo\ndo processo de colonização portuguesa, a produção\nde farinha foi aperfeiçoada e ampliada, tornando-se\nlugar-comum em todo o território da colônia portuguesa\nna América. Com a consolidação do comércio atlântico\nem suas diferentes conexões, a farinha atravessou os\nmares e chegou aos mercados africanos.",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-52/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-52/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "difusão de hábitos alimentares.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "disseminação de rituais festivos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "ampliação dos saberes autóctones.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "apropriação de costumes guerreiros.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "diversificação de oferendas religiosas.",
+          "assets": []
+        }
+      ],
+      "rawText": "O processamento da mandioca era uma atividade\njá realizada pelos nativos que viviam no Brasil antes da\nchegada de portugueses e africanos. Entretanto, ao longo\ndo processo de colonização portuguesa, a produção\nde farinha foi aperfeiçoada e ampliada, tornando-se\nlugar-comum em todo o território da colônia portuguesa\nna América. Com a consolidação do comércio atlântico\nem suas diferentes conexões, a farinha atravessou os\nmares e chegou aos mercados africanos.\n\nA. difusão de hábitos alimentares.\nB. disseminação de rituais festivos.\nC. ampliação dos saberes autóctones.\nD. apropriação de costumes guerreiros.\nE. diversificação de oferendas religiosas."
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 53,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 53 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "Brasil, Alemanha, Japão e Índia pedem reforma\ndo Conselho de Segurança\nOs representantes do G4 (Brasil, Alemanha, Índia e\nJapão) reiteraram, em setembro de 2018, a defesa pela\nampliação do Conselho de Segurança da Organização\ndas Nações Unidas (ONU) durante reunião em\nNova York (Estados Unidos). Em declaração conjunta,\nde dez itens, os chanceleres destacaram que o\nórgão, no formato em que está, com apenas cinco\nmembros permanentes e dez rotativos, não reflete\no século 21. “A reforma do Conselho de Segurança é\nessencial para enfrentar os desafios complexos de\nhoje. Como aspirantes a novos membros permanentes\nde um conselho reformado, os ministros reiteraram\nseu compromisso de trabalhar para fortalecer o\nfuncionamento da ONU e da ordem multilateral global,\nbem como seu apoio às respectivas candidaturas”,\nafirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br.\nAcesso em: 7 dez. 2018 (adaptado).\nOs países mencionados no texto justificam sua\npretensão com base na seguinte característica comum:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Extensividade de área territorial.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Protagonismo em escala regional.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Investimento em tecnologia militar.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Desenvolvimento de energia nuclear.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Disponibilidade de recursos minerais. *SA0175AZ22* CH - 1º dia | Caderno 1 - AZUL - Página 23",
+          "assets": []
+        }
+      ],
+      "rawText": "Brasil, Alemanha, Japão e Índia pedem reforma\ndo Conselho de Segurança\nOs representantes do G4 (Brasil, Alemanha, Índia e\nJapão) reiteraram, em setembro de 2018, a defesa pela\nampliação do Conselho de Segurança da Organização\ndas Nações Unidas (ONU) durante reunião em\nNova York (Estados Unidos). Em declaração conjunta,\nde dez itens, os chanceleres destacaram que o\nórgão, no formato em que está, com apenas cinco\nmembros permanentes e dez rotativos, não reflete\no século 21. “A reforma do Conselho de Segurança é\nessencial para enfrentar os desafios complexos de\nhoje. Como aspirantes a novos membros permanentes\nde um conselho reformado, os ministros reiteraram\nseu compromisso de trabalhar para fortalecer o\nfuncionamento da ONU e da ordem multilateral global,\nbem como seu apoio às respectivas candidaturas”,\nafirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br.\nAcesso em: 7 dez. 2018 (adaptado).\nOs países mencionados no texto justificam sua\npretensão com base na seguinte característica comum:\n\nA. Extensividade de área territorial.\nB. Protagonismo em escala regional.\nC. Investimento em tecnologia militar.\nD. Desenvolvimento de energia nuclear.\nE. Disponibilidade de recursos minerais. *SA0175AZ22* CH - 1º dia | Caderno 1 - AZUL - Página 23"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 54,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 54 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "HOBSBAWM, E.; RUDÉ, G. Capitão Swing. Rio de Janeiro:\nFrancisco Alves, 1982 (adaptado).\nA revolta descrita no texto, ocorrida na Inglaterra no\nséculo XIX, foi uma reação ao seguinte processo\nsocioespacial:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-54/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-54/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Restrição da propriedade privada.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Expropriação das terras comunais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Imposição da estatização fundiária.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Redução da produção monocultora.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Proibição das atividades artesanais.",
+          "assets": []
+        }
+      ],
+      "rawText": "HOBSBAWM, E.; RUDÉ, G. Capitão Swing. Rio de Janeiro:\nFrancisco Alves, 1982 (adaptado).\nA revolta descrita no texto, ocorrida na Inglaterra no\nséculo XIX, foi uma reação ao seguinte processo\nsocioespacial:\n\nA. Restrição da propriedade privada.\nB. Expropriação das terras comunais.\nC. Imposição da estatização fundiária.\nD. Redução da produção monocultora.\nE. Proibição das atividades artesanais."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 55,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 55 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Entre os combatentes estava a mais famosa\nheroína da Independência. Nascida em Feira de\nSantana, filha de lavradores pobres, Maria Quitéria\nde Jesus tinha trinta anos quando a Bahia começou\na pegar em armas contra os portugueses. Apesar da\nproibição de mulheres nos batalhões de voluntários,\ndecidiu se alistar às escondidas. Cortou os cabelos,\namarrou os seios, vestiu-se de homem e incorporou-se\nàs fileiras brasileiras com o nome de Soldado Medeiros.\nGOMES, L. 1822. Rio de Janeiro: Nova Fronteira, 2010.\nNo processo de Independência do Brasil, o caso\nmencionado é emblemático porque evidencia a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "rigidez hierárquica da estrutura social.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "inserção feminina nos ofícios militares.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "adesão pública dos imigrantes portugueses.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "flexibilidade administrativa do governo imperial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "receptividade metropolitana aos ideais emancipatórios.",
+          "assets": []
+        }
+      ],
+      "rawText": "Entre os combatentes estava a mais famosa\nheroína da Independência. Nascida em Feira de\nSantana, filha de lavradores pobres, Maria Quitéria\nde Jesus tinha trinta anos quando a Bahia começou\na pegar em armas contra os portugueses. Apesar da\nproibição de mulheres nos batalhões de voluntários,\ndecidiu se alistar às escondidas. Cortou os cabelos,\namarrou os seios, vestiu-se de homem e incorporou-se\nàs fileiras brasileiras com o nome de Soldado Medeiros.\nGOMES, L. 1822. Rio de Janeiro: Nova Fronteira, 2010.\nNo processo de Independência do Brasil, o caso\nmencionado é emblemático porque evidencia a\n\nA. rigidez hierárquica da estrutura social.\nB. inserção feminina nos ofícios militares.\nC. adesão pública dos imigrantes portugueses.\nD. flexibilidade administrativa do governo imperial.\nE. receptividade metropolitana aos ideais emancipatórios."
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 56,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 56 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "A reestruturação global da indústria, condicionada\npelas estratégias de gestão global da cadeia de valor\ndos grandes grupos transnacionais, promoveu um forte\ndeslocamento do processo produtivo, até mesmo de\nplantas industriais inteiras, e redirecionou os fluxos de\nprodução e de investimento. Entretanto, o aumento da\nparticipação dos países em desenvolvimento no produto\nglobal deu-se de forma bastante assimétrica quando se\ncompara o dinamismo dos países do leste asiático com\no dos demais países, sobretudo os latino-americanos,\nno período 1980-2000.\nSARTI, F.; HIRATUKA, C. Indústria mundial: mudanças e\ntendências recentes. Campinas: Unicamp, n. 186, dez. 2010.\nA dinâmica de transformação da geografia das\nindústrias descrita expõe a complementaridade entre\ndispersão espacial e",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "autonomia tecnológica.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "crises de abastecimento.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "descentralização política.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "concentração econômica.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "compartilhamento de lucros.",
+          "assets": []
+        }
+      ],
+      "rawText": "A reestruturação global da indústria, condicionada\npelas estratégias de gestão global da cadeia de valor\ndos grandes grupos transnacionais, promoveu um forte\ndeslocamento do processo produtivo, até mesmo de\nplantas industriais inteiras, e redirecionou os fluxos de\nprodução e de investimento. Entretanto, o aumento da\nparticipação dos países em desenvolvimento no produto\nglobal deu-se de forma bastante assimétrica quando se\ncompara o dinamismo dos países do leste asiático com\no dos demais países, sobretudo os latino-americanos,\nno período 1980-2000.\nSARTI, F.; HIRATUKA, C. Indústria mundial: mudanças e\ntendências recentes. Campinas: Unicamp, n. 186, dez. 2010.\nA dinâmica de transformação da geografia das\nindústrias descrita expõe a complementaridade entre\ndispersão espacial e\n\nA. autonomia tecnológica.\nB. crises de abastecimento.\nC. descentralização política.\nD. concentração econômica.\nE. compartilhamento de lucros."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 57,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 57 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Regiões áridas e semiáridas do mundo\n\nTrópico\nde Capricórnio\n\nÁRIDA (DESERTO)\nSALGADO-LABOURIAL, M. L. História ecológica da Terra.\nSão Paulo: Edgard Blucher, 1994 (adaptado).\nNo Hemisfério Sul, a sequência latitudinal dos desertos\nrepresentada na imagem sofre uma interrupção no Brasil\ndevido à seguinte razão:\nA Existência de superfícies de intensa refletividade.\nB Preponderância de altas pressões atmosféricas.\nC Influência de umidade das áreas florestais.\nD Predomínio de correntes marinhas frias.\nE Ausência de massas de ar continentais.",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-57/statement-01.png",
+        "/generated/enem-2019/ciencias-humanas/question-57/statement-02.png",
+        "/generated/enem-2019/ciencias-humanas/question-57/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-57/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Regiões áridas e semiáridas do mundo\n\nTrópico\nde Capricórnio\n\nÁRIDA (DESERTO)\nSALGADO-LABOURIAL, M. L. História ecológica da Terra.\nSão Paulo: Edgard Blucher, 1994 (adaptado).\nNo Hemisfério Sul, a sequência latitudinal dos desertos\nrepresentada na imagem sofre uma interrupção no Brasil\ndevido à seguinte razão:\nA Existência de superfícies de intensa refletividade.\nB Preponderância de altas pressões atmosféricas.\nC Influência de umidade das áreas florestais.\nD Predomínio de correntes marinhas frias.\nE Ausência de massas de ar continentais.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 58,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 58 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "De fato, não é porque o homem pode usar a\nvontade livre para pecar que se deve supor que Deus\na concedeu para isso. Há, portanto, uma razão pela\nqual Deus deu ao homem esta característica, pois sem\nela não poderia viver e agir corretamente. Pode-se\ncompreender, então, que ela foi concedida ao homem\npara esse fim, considerando-se que se um homem a\nusa para pecar, recairão sobre ele as punições divinas.\nOra, isso seria injusto se a vontade livre tivesse sido\ndada ao homem não apenas para agir corretamente,\nmas também para pecar. Na verdade, por que deveria\nser punido aquele que usasse sua vontade para o fim\npara o qual ela lhe foi dada?\nAGOSTINHO. O livre-arbítrio. In: MARCONDES, D. Textos básicos\nde ética. Rio de Janeiro: Jorge Zahar, 2008.\nNesse texto, o filósofo cristão Agostinho de Hipona\nsustenta que a punição divina tem como fundamento o(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "desvio da postura celibatária.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "insuficiência da autonomia moral.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "afastamento das ações de desapego.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "distanciamento das práticas de sacrifício.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "violação dos preceitos do Velho Testamento. *SA0175AZ23* CH - 1º dia | Caderno 1 - AZUL - Página 24",
+          "assets": []
+        }
+      ],
+      "rawText": "De fato, não é porque o homem pode usar a\nvontade livre para pecar que se deve supor que Deus\na concedeu para isso. Há, portanto, uma razão pela\nqual Deus deu ao homem esta característica, pois sem\nela não poderia viver e agir corretamente. Pode-se\ncompreender, então, que ela foi concedida ao homem\npara esse fim, considerando-se que se um homem a\nusa para pecar, recairão sobre ele as punições divinas.\nOra, isso seria injusto se a vontade livre tivesse sido\ndada ao homem não apenas para agir corretamente,\nmas também para pecar. Na verdade, por que deveria\nser punido aquele que usasse sua vontade para o fim\npara o qual ela lhe foi dada?\nAGOSTINHO. O livre-arbítrio. In: MARCONDES, D. Textos básicos\nde ética. Rio de Janeiro: Jorge Zahar, 2008.\nNesse texto, o filósofo cristão Agostinho de Hipona\nsustenta que a punição divina tem como fundamento o(a)\n\nA. desvio da postura celibatária.\nB. insuficiência da autonomia moral.\nC. afastamento das ações de desapego.\nD. distanciamento das práticas de sacrifício.\nE. violação dos preceitos do Velho Testamento. *SA0175AZ23* CH - 1º dia | Caderno 1 - AZUL - Página 24"
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 59,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 59 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Disponível em: https://hypescience.com. Acesso em: 1 dez. 2018 (adaptado).\nA divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado\npela estabilidade do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ciclo hidrológico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "processo erosivo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "estrutura geológica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "índice pluviométrico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "pressão atmosférica.",
+          "assets": []
+        }
+      ],
+      "rawText": "Disponível em: https://hypescience.com. Acesso em: 1 dez. 2018 (adaptado).\nA divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado\npela estabilidade do(a)\n\nA. ciclo hidrológico.\nB. processo erosivo.\nC. estrutura geológica.\nD. índice pluviométrico.\nE. pressão atmosférica."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 60,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 60 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "A cidade medieval é, antes de mais nada, uma sociedade da abundância, concentrada num pequeno espaço\nem meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam\no artesanato e o comércio, sustentados por uma economia monetária. É também o centro de um sistema de\nvalores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro,\na inclinação para o luxo, o senso da beleza. É ainda um sistema de organização de um espaço fechado\ncom muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\nLE GOFF, J.; SCHMITT, J.-C. Dicionário temático do Ocidente Medieval. Bauru: Edusc, 2006.\nNo texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "emancipação do poder hegemônico da realeza.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "aceitação das práticas usurárias dos religiosos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "independência da produção alimentar dos campos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "superação do ordenamento corporativo dos ofícios.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "permanência dos elementos arquitetônicos de proteção. *SA0175AZ24* CH - 1º dia | Caderno 1 - AZUL - Página 25",
+          "assets": []
+        }
+      ],
+      "rawText": "A cidade medieval é, antes de mais nada, uma sociedade da abundância, concentrada num pequeno espaço\nem meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam\no artesanato e o comércio, sustentados por uma economia monetária. É também o centro de um sistema de\nvalores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro,\na inclinação para o luxo, o senso da beleza. É ainda um sistema de organização de um espaço fechado\ncom muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\nLE GOFF, J.; SCHMITT, J.-C. Dicionário temático do Ocidente Medieval. Bauru: Edusc, 2006.\nNo texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a\n\nA. emancipação do poder hegemônico da realeza.\nB. aceitação das práticas usurárias dos religiosos.\nC. independência da produção alimentar dos campos.\nD. superação do ordenamento corporativo dos ofícios.\nE. permanência dos elementos arquitetônicos de proteção. *SA0175AZ24* CH - 1º dia | Caderno 1 - AZUL - Página 25"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 61,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 61 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "TEXTO I\nDeixa esse som te embalar\nTerminam nas águas do mar\nQuando amanhã por acaso faltar\nUma alegria no seu coração\nLembra do som dessas águas de lá\nFaz desse rio a sua oração.\n\nTEXTO II\nO atrativo ecoturístico não é somente o banho de\ncachoeira, sentar e caminhar pela praia, cavalgar,\nmas conhecer a biodiversidade, às vezes supostamente\ntocar em corais, sair ao encontro de dezenas de jacarés\nem seu hábitat natural são símbolos que fascinam um\necoturista. A natureza é transformada em espetáculo\ndiferente da vida urbana moderna.\nSANTANA, P. V. Ecoturismo: uma indústria sem chaminé?\nSão Paulo: Labur Edições, 2008.\nposturas em relação à natureza:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-61/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-61/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Exploração e romantização.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Sacralização e profanação.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Preservação e degradação.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Segregação e democratização.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Idealização e mercantilização.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nDeixa esse som te embalar\nTerminam nas águas do mar\nQuando amanhã por acaso faltar\nUma alegria no seu coração\nLembra do som dessas águas de lá\nFaz desse rio a sua oração.\n\nTEXTO II\nO atrativo ecoturístico não é somente o banho de\ncachoeira, sentar e caminhar pela praia, cavalgar,\nmas conhecer a biodiversidade, às vezes supostamente\ntocar em corais, sair ao encontro de dezenas de jacarés\nem seu hábitat natural são símbolos que fascinam um\necoturista. A natureza é transformada em espetáculo\ndiferente da vida urbana moderna.\nSANTANA, P. V. Ecoturismo: uma indústria sem chaminé?\nSão Paulo: Labur Edições, 2008.\nposturas em relação à natureza:\n\nA. Exploração e romantização.\nB. Sacralização e profanação.\nC. Preservação e degradação.\nD. Segregação e democratização.\nE. Idealização e mercantilização."
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 62,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 62 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "A maior parte das agressões e manifestações\ndiscriminatórias contra as religiões de matrizes africanas\nocorrem em locais públicos (57%). É na rua, na via pública,\nque tiveram lugar mais de 2/3 das agressões, geralmente\nem locais próximos às casas de culto dessas religiões.\nO transporte público também é apontado como um local\nem que os adeptos das religiões de matrizes africanas\nsão discriminados, geralmente quando se encontram\nparamentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M.\n.\nRio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a\ndinâmica de uma sociedade laica e democrática porque",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "asseguram as expressões multiculturais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "promovem a diversidade de etnias.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "falseiam os dogmas teológicos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "estimulam os rituais sincréticos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "restringem a liberdade de credo.",
+          "assets": []
+        }
+      ],
+      "rawText": "A maior parte das agressões e manifestações\ndiscriminatórias contra as religiões de matrizes africanas\nocorrem em locais públicos (57%). É na rua, na via pública,\nque tiveram lugar mais de 2/3 das agressões, geralmente\nem locais próximos às casas de culto dessas religiões.\nO transporte público também é apontado como um local\nem que os adeptos das religiões de matrizes africanas\nsão discriminados, geralmente quando se encontram\nparamentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M.\n.\nRio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a\ndinâmica de uma sociedade laica e democrática porque\n\nA. asseguram as expressões multiculturais.\nB. promovem a diversidade de etnias.\nC. falseiam os dogmas teológicos.\nD. estimulam os rituais sincréticos.\nE. restringem a liberdade de credo."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 63,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 63 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        25
+      ],
+      "statement": "TEXTO I\nA centralização econômica, o protecionismo e\na expansão ultramarina engrandeceram o Estado,\nANDERSON, P. In: DEYON, P. O mercantilismo.\nLisboa: Gradiva,1989 (adaptado).\nTEXTO II\nAs interferências da legislação e das práticas\nnatural na esfera das relações econômicas.\nSMITH, A. A riqueza das Nações. São Paulo:\nAbril Cultural, 1983 (adaptado).\nEntre os séculos XVI e XIX, diferentes concepções sobre\nas relações entre Estado e economia foram formuladas.\nTais concepções, associadas a cada um dos textos,\nconfrontam-se, respectivamente, na oposição entre as\npráticas de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "valorização do pacto colonial — combate à livre- -iniciativa.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "defesa dos monopólios régios — apoio à livre concorrência.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "formação do sistema metropolitano — crítica à livre navegação.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "abandono da acumulação metalista — estímulo ao livre-comércio.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "eliminação das tarifas alfandegárias — incentivo ao livre-cambismo.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nA centralização econômica, o protecionismo e\na expansão ultramarina engrandeceram o Estado,\nANDERSON, P. In: DEYON, P. O mercantilismo.\nLisboa: Gradiva,1989 (adaptado).\nTEXTO II\nAs interferências da legislação e das práticas\nnatural na esfera das relações econômicas.\nSMITH, A. A riqueza das Nações. São Paulo:\nAbril Cultural, 1983 (adaptado).\nEntre os séculos XVI e XIX, diferentes concepções sobre\nas relações entre Estado e economia foram formuladas.\nTais concepções, associadas a cada um dos textos,\nconfrontam-se, respectivamente, na oposição entre as\npráticas de\n\nA. valorização do pacto colonial — combate à livre- -iniciativa.\nB. defesa dos monopólios régios — apoio à livre concorrência.\nC. formação do sistema metropolitano — crítica à livre navegação.\nD. abandono da acumulação metalista — estímulo ao livre-comércio.\nE. eliminação das tarifas alfandegárias — incentivo ao livre-cambismo."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 64,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 64 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "Em contraponto a uma interpretação idealizada, o\ntexto aponta para a seguinte dimensão fundamental da\nciência moderna:\nA\nB Negação da observação.\nC Proposição de hipóteses.\nD Contemplação da natureza.\nE Universalização de conclusões.\n*SA0175AZ25*\n\nCH - 1º dia | Caderno 1 - AZUL - Página 26",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-64/statement-01.png",
+        "/generated/enem-2019/ciencias-humanas/question-64/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-64/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Em contraponto a uma interpretação idealizada, o\ntexto aponta para a seguinte dimensão fundamental da\nciência moderna:\nA\nB Negação da observação.\nC Proposição de hipóteses.\nD Contemplação da natureza.\nE Universalização de conclusões.\n*SA0175AZ25*\n\nCH - 1º dia | Caderno 1 - AZUL - Página 26\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 65,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 65 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Para Maquiavel, quando um homem decide dizer\na verdade pondo em risco a própria integridade física,\ntal resolução diz respeito apenas a sua pessoa. Mas se\nesse mesmo homem é um chefe de Estado, os critérios\npessoais não são mais adequados para decidir sobre\nações cujas consequências se tornam tão amplas,\njá que o prejuízo não será apenas individual,\nmas coletivo. Nesse caso, conforme as circunstâncias e\nos fins a serem atingidos, pode-se decidir que o melhor\npara o bem comum seja mentir.\nARANHA, M. L. Maquiavel: a lógica da força.\nSão Paulo: Moderna, 2006 (adaptado).\nO texto aponta uma inovação na teoria política na época\nmoderna expressa na distinção entre",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "idealidade e efetividade da moral.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "nulidade e preservabilidade da liberdade.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "ilegalidade e legitimidade do governante.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "verificabilidade e possibilidade da verdade.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "objetividade e subjetividade do conhecimento.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para Maquiavel, quando um homem decide dizer\na verdade pondo em risco a própria integridade física,\ntal resolução diz respeito apenas a sua pessoa. Mas se\nesse mesmo homem é um chefe de Estado, os critérios\npessoais não são mais adequados para decidir sobre\nações cujas consequências se tornam tão amplas,\njá que o prejuízo não será apenas individual,\nmas coletivo. Nesse caso, conforme as circunstâncias e\nos fins a serem atingidos, pode-se decidir que o melhor\npara o bem comum seja mentir.\nARANHA, M. L. Maquiavel: a lógica da força.\nSão Paulo: Moderna, 2006 (adaptado).\nO texto aponta uma inovação na teoria política na época\nmoderna expressa na distinção entre\n\nA. idealidade e efetividade da moral.\nB. nulidade e preservabilidade da liberdade.\nC. ilegalidade e legitimidade do governante.\nD. verificabilidade e possibilidade da verdade.\nE. objetividade e subjetividade do conhecimento."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 66,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 66 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "A criação do Sistema Único de Saúde (SUS)\ncomo uma política para todos constitui-se uma\ndas mais importantes conquistas da sociedade\nbrasileira no século XX. O SUS deve ser valorizado\ne defendido como um marco para a cidadania e o\navanço civilizatório. A democracia envolve um modelo\nde Estado no qual políticas protegem os cidadãos\ne reduzem as desigualdades. O SUS é uma diretriz\nque fortalece a cidadania e contribui para assegurar o\nexercício de direitos, o pluralismo político e o bem-estar\ncomo valores de uma sociedade fraterna, pluralista\ne sem preconceitos, conforme prevê a Constituição\nFederal de 1988.\n\nSegundo o texto, duas características da concepção da\npolítica pública analisada são:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-66/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-66/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Paternalismo e filantropia.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Liberalismo e meritocracia.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Universalismo e igualitarismo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Nacionalismo e individualismo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Revolucionarismo e coparticipação.",
+          "assets": []
+        }
+      ],
+      "rawText": "A criação do Sistema Único de Saúde (SUS)\ncomo uma política para todos constitui-se uma\ndas mais importantes conquistas da sociedade\nbrasileira no século XX. O SUS deve ser valorizado\ne defendido como um marco para a cidadania e o\navanço civilizatório. A democracia envolve um modelo\nde Estado no qual políticas protegem os cidadãos\ne reduzem as desigualdades. O SUS é uma diretriz\nque fortalece a cidadania e contribui para assegurar o\nexercício de direitos, o pluralismo político e o bem-estar\ncomo valores de uma sociedade fraterna, pluralista\ne sem preconceitos, conforme prevê a Constituição\nFederal de 1988.\n\nSegundo o texto, duas características da concepção da\npolítica pública analisada são:\n\nA. Paternalismo e filantropia.\nB. Liberalismo e meritocracia.\nC. Universalismo e igualitarismo.\nD. Nacionalismo e individualismo.\nE. Revolucionarismo e coparticipação."
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 67,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 67 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        26
+      ],
+      "statement": "TEXTO I\nConsidero apropriado deter-me algum tempo na\ncontemplação deste Deus todo perfeito, ponderar\ntotalmente à vontade seus maravilhosos atributos,\nconsiderar, admirar e adorar a incomparável beleza\ndessa imensa luz.\nDESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.\nTEXTO II\nQual será a forma mais razoável de entender como é\no mundo? Existirá alguma boa razão para acreditar que\no mundo foi criado por uma divindade todo-poderosa?\nNão podemos dizer que a crença em Deus é “apenas”\numa questão de fé.\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\nOs textos abordam um questionamento da construção\nda modernidade que defende um modelo",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "centrado na razão humana.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "baseado na explicação mitológica.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "fundamentado na ordenação imanentista.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "focado na legitimação contratualista.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "configurado na percepção etnocêntrica.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nConsidero apropriado deter-me algum tempo na\ncontemplação deste Deus todo perfeito, ponderar\ntotalmente à vontade seus maravilhosos atributos,\nconsiderar, admirar e adorar a incomparável beleza\ndessa imensa luz.\nDESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.\nTEXTO II\nQual será a forma mais razoável de entender como é\no mundo? Existirá alguma boa razão para acreditar que\no mundo foi criado por uma divindade todo-poderosa?\nNão podemos dizer que a crença em Deus é “apenas”\numa questão de fé.\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\nOs textos abordam um questionamento da construção\nda modernidade que defende um modelo\n\nA. centrado na razão humana.\nB. baseado na explicação mitológica.\nC. fundamentado na ordenação imanentista.\nD. focado na legitimação contratualista.\nE. configurado na percepção etnocêntrica."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 68,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 68 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "A comunidade de Mumbuca, em Minas Gerais,\ntem uma organização coletiva de tal forma expressiva\nque coopera para o abastecimento de mantimentos da\ncidade do Jequitinhonha, o que pode ser atestado pela\nfeira aos sábados. Em Campinho da Independência, no\nRio de Janeiro, o artesanato local encanta os\nfrequentadores do litoral sul do estado, além do\nrestaurante quilombola que atende aos turistas.\nALMEIDA, A. W. B. (Org.). Cadernos de debates nova cartografia\nsocial: Territórios quilombolas e conflitos. Manaus: Projeto Nova\nCartografia Social da Amazônia; UEA Edições, 2010 (adaptado).\nNo texto, as estratégias territoriais dos grupos de\nremanescentes de quilombo visam garantir:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Perdão de dívidas fiscais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Reserva de mercado local.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Inserção econômica regional.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Protecionismo comercial tarifário.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Benefícios assistenciais públicos. *SA0175AZ26* CH - 1º dia | Caderno 1 - AZUL - Página 27",
+          "assets": []
+        }
+      ],
+      "rawText": "A comunidade de Mumbuca, em Minas Gerais,\ntem uma organização coletiva de tal forma expressiva\nque coopera para o abastecimento de mantimentos da\ncidade do Jequitinhonha, o que pode ser atestado pela\nfeira aos sábados. Em Campinho da Independência, no\nRio de Janeiro, o artesanato local encanta os\nfrequentadores do litoral sul do estado, além do\nrestaurante quilombola que atende aos turistas.\nALMEIDA, A. W. B. (Org.). Cadernos de debates nova cartografia\nsocial: Territórios quilombolas e conflitos. Manaus: Projeto Nova\nCartografia Social da Amazônia; UEA Edições, 2010 (adaptado).\nNo texto, as estratégias territoriais dos grupos de\nremanescentes de quilombo visam garantir:\n\nA. Perdão de dívidas fiscais.\nB. Reserva de mercado local.\nC. Inserção econômica regional.\nD. Protecionismo comercial tarifário.\nE. Benefícios assistenciais públicos. *SA0175AZ26* CH - 1º dia | Caderno 1 - AZUL - Página 27"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 69,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 69 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "SILVA, R. G. C. Amazônia globalizada — o exemplo de Rondônia.\nConfins, n. 23, 2015 (adaptado).\nA dinâmica de ocupação territorial descrita foi decorrente da",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-69/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-69/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "mecanização do processo produtivo.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "adoção da colonização dirigida.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "realização de reforma agrária.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ampliação de franjas urbanas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "expansão de frentes pioneiras.",
+          "assets": []
+        }
+      ],
+      "rawText": "SILVA, R. G. C. Amazônia globalizada — o exemplo de Rondônia.\nConfins, n. 23, 2015 (adaptado).\nA dinâmica de ocupação territorial descrita foi decorrente da\n\nA. mecanização do processo produtivo.\nB. adoção da colonização dirigida.\nC. realização de reforma agrária.\nD. ampliação de franjas urbanas.\nE. expansão de frentes pioneiras."
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 70,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 70 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Em nenhuma outra época o corpo magro adquiriu\num sentido de corpo ideal e esteve tão em evidência\ncomo nos dias atuais: esse corpo, nu ou vestido,\nexposto em diversas revistas femininas e masculinas,\nestá na moda: é capa de revistas, matérias de jornais,\nmanchetes publicitárias, e se transformou em sonho\nde consumo para milhares de pessoas. Partindo dessa\nconcepção, o gordo passa a ter um corpo visivelmente\nsem comedimento, sem saúde, um corpo estigmatizado\npelo desvio, o desvio pelo excesso. Entretanto, como\nafirma a escritora Marylin Wann, é perfeitamente\npossível ser gordo e saudável. Frequentemente os\ngordos adoecem não por causa da gordura, mas sim\npelo estresse, pela opressão a que são submetidos.\n\nNo texto, o tratamento predominante na mídia sobre a\nrelação entre saúde e corpo recebe a seguinte crítica:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-70/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-70/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Difusão das estéticas antigas.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Exaltação das crendices populares.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Propagação das conclusões científicas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Reiteração dos discursos hegemônicos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Contestação dos estereótipos consolidados.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em nenhuma outra época o corpo magro adquiriu\num sentido de corpo ideal e esteve tão em evidência\ncomo nos dias atuais: esse corpo, nu ou vestido,\nexposto em diversas revistas femininas e masculinas,\nestá na moda: é capa de revistas, matérias de jornais,\nmanchetes publicitárias, e se transformou em sonho\nde consumo para milhares de pessoas. Partindo dessa\nconcepção, o gordo passa a ter um corpo visivelmente\nsem comedimento, sem saúde, um corpo estigmatizado\npelo desvio, o desvio pelo excesso. Entretanto, como\nafirma a escritora Marylin Wann, é perfeitamente\npossível ser gordo e saudável. Frequentemente os\ngordos adoecem não por causa da gordura, mas sim\npelo estresse, pela opressão a que são submetidos.\n\nNo texto, o tratamento predominante na mídia sobre a\nrelação entre saúde e corpo recebe a seguinte crítica:\n\nA. Difusão das estéticas antigas.\nB. Exaltação das crendices populares.\nC. Propagação das conclusões científicas.\nD. Reiteração dos discursos hegemônicos.\nE. Contestação dos estereótipos consolidados."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 71,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 71 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        27
+      ],
+      "statement": "No sistema capitalista, as muitas manifestações\nde crise criam condições que forçam a algum tipo de\nracionalização. Em geral, essas crises periódicas têm o\nefeito de expandir a capacidade produtiva e de renovar\nas condições de acumulação. Podemos conceber cada\ncrise como uma mudança do processo de acumulação\npara um nível novo e superior.",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-71/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-71/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "associação sindical.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "participação eleitoral.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "migração internacional.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "qualificação profissional.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "regulamentação funcional.",
+          "assets": []
+        }
+      ],
+      "rawText": "No sistema capitalista, as muitas manifestações\nde crise criam condições que forçam a algum tipo de\nracionalização. Em geral, essas crises periódicas têm o\nefeito de expandir a capacidade produtiva e de renovar\nas condições de acumulação. Podemos conceber cada\ncrise como uma mudança do processo de acumulação\npara um nível novo e superior.\n\nA. associação sindical.\nB. participação eleitoral.\nC. migração internacional.\nD. qualificação profissional.\nE. regulamentação funcional."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 72,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 72 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "Art. 92. São excluídos de votar nas assembleias\nparoquiais:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-72/statement-01.png",
+        "/generated/enem-2019/ciencias-humanas/question-72/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-72/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "representação popular e sigilo individual.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "voto indireto e perfil censitário.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "liberdade pública e abertura política.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ética partidária e supervisão estatal.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "caráter liberal e sistema parlamentar. *SA0175AZ27* CH - 1º dia | Caderno 1 - AZUL - Página 28",
+          "assets": []
+        }
+      ],
+      "rawText": "Art. 92. São excluídos de votar nas assembleias\nparoquiais:\n\nA. representação popular e sigilo individual.\nB. voto indireto e perfil censitário.\nC. liberdade pública e abertura política.\nD. ética partidária e supervisão estatal.\nE. caráter liberal e sistema parlamentar. *SA0175AZ27* CH - 1º dia | Caderno 1 - AZUL - Página 28"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 73,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 73 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "O cristianismo incorporou antigas práticas relativas\nao fogo para criar uma festa sincrética. A igreja retomou\na distância de seis meses entre os nascimentos de Jesus\nCristo e João Batista e instituiu a data de comemoração\na este último de tal maneira que as festas do solstício de\nverão europeu com suas tradicionais fogueiras se tornaram\n“fogueiras de São João”. A festa do fogo e da luz no entanto\nnão foi imediatamente associada a São João Batista.\nNa Baixa Idade Média, algumas práticas tradicionais da\nfesta (como banhos, danças e cantos) foram perseguidas\npor monges e bispos. A partir do Concílio de Trento\n(1545-1563), a Igreja resolveu adotar celebrações em\ntorno do fogo e associá-las à doutrina cristã.\n\nCom o objetivo de se fortalecer, a instituição mencionada\nno texto adotou as práticas descritas, que consistem em",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-73/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-73/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "promoção de atos ecumênicos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "fomento de orientações bíblicas.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "apropriação de cerimônias seculares.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "retomada de ensinamentos apostólicos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ressignificação de rituais fundamentalistas.",
+          "assets": []
+        }
+      ],
+      "rawText": "O cristianismo incorporou antigas práticas relativas\nao fogo para criar uma festa sincrética. A igreja retomou\na distância de seis meses entre os nascimentos de Jesus\nCristo e João Batista e instituiu a data de comemoração\na este último de tal maneira que as festas do solstício de\nverão europeu com suas tradicionais fogueiras se tornaram\n“fogueiras de São João”. A festa do fogo e da luz no entanto\nnão foi imediatamente associada a São João Batista.\nNa Baixa Idade Média, algumas práticas tradicionais da\nfesta (como banhos, danças e cantos) foram perseguidas\npor monges e bispos. A partir do Concílio de Trento\n(1545-1563), a Igreja resolveu adotar celebrações em\ntorno do fogo e associá-las à doutrina cristã.\n\nCom o objetivo de se fortalecer, a instituição mencionada\nno texto adotou as práticas descritas, que consistem em\n\nA. promoção de atos ecumênicos.\nB. fomento de orientações bíblicas.\nC. apropriação de cerimônias seculares.\nD. retomada de ensinamentos apostólicos.\nE. ressignificação de rituais fundamentalistas."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 74,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 74 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Penso que não há um sujeito soberano, fundador,\numa forma universal de sujeito que poderíamos\nencontrar em todos os lugares. Penso, pelo contrário,\nque o sujeito se constitui através das práticas de\nsujeição ou, de maneira mais autônoma, através de práticas\nde liberação, de liberdade, como na Antiguidade — a partir,\nobviamente, de um certo número de regras, de estilos,\nque podemos encontrar no meio cultural.\nFOUCAULT, M. Ditos e escritos V: ética, sexualidade, política.\nRio de Janeiro: Forense Universitária, 2004.\nO texto aponta que a subjetivação se efetiva numa dimensão",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "legal, pautada em preceitos jurídicos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "racional, baseada em pressupostos lógicos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "contingencial, processada em interações sociais.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "transcendental, efetivada em princípios religiosos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "essencial, fundamentada em parâmetros substancialistas.",
+          "assets": []
+        }
+      ],
+      "rawText": "Penso que não há um sujeito soberano, fundador,\numa forma universal de sujeito que poderíamos\nencontrar em todos os lugares. Penso, pelo contrário,\nque o sujeito se constitui através das práticas de\nsujeição ou, de maneira mais autônoma, através de práticas\nde liberação, de liberdade, como na Antiguidade — a partir,\nobviamente, de um certo número de regras, de estilos,\nque podemos encontrar no meio cultural.\nFOUCAULT, M. Ditos e escritos V: ética, sexualidade, política.\nRio de Janeiro: Forense Universitária, 2004.\nO texto aponta que a subjetivação se efetiva numa dimensão\n\nA. legal, pautada em preceitos jurídicos.\nB. racional, baseada em pressupostos lógicos.\nC. contingencial, processada em interações sociais.\nD. transcendental, efetivada em princípios religiosos.\nE. essencial, fundamentada em parâmetros substancialistas."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 75,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 75 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        28
+      ],
+      "statement": "TEXTO I\nOs segredos da natureza se revelam mais sob a\ntortura dos experimentos do que no seu curso natural.\n\nO ser humano, totalmente desintegrado do todo,\nnão percebe mais as relações de equilíbrio da natureza.\nAge de forma totalmente desarmônica sobre o ambiente,\ncausando grandes desequilíbrios ambientais.\nGUIMARÃES, M. A dimensão ambiental na educação.\nCampinas: Papirus, 1995.\nOs textos indicam uma relação da sociedade diante da\nnatureza caracterizada pela",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-75/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-75/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "objetificação do espaço físico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "retomada do modelo criacionista.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "recuperação do legado ancestral.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "infalibilidade do método científico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "formação da cosmovisão holística.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nOs segredos da natureza se revelam mais sob a\ntortura dos experimentos do que no seu curso natural.\n\nO ser humano, totalmente desintegrado do todo,\nnão percebe mais as relações de equilíbrio da natureza.\nAge de forma totalmente desarmônica sobre o ambiente,\ncausando grandes desequilíbrios ambientais.\nGUIMARÃES, M. A dimensão ambiental na educação.\nCampinas: Papirus, 1995.\nOs textos indicam uma relação da sociedade diante da\nnatureza caracterizada pela\n\nA. objetificação do espaço físico.\nB. retomada do modelo criacionista.\nC. recuperação do legado ancestral.\nD. infalibilidade do método científico.\nE. formação da cosmovisão holística."
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 76,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 76 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "Essa atmosfera de loucura e irrealidade, criada\npela aparente ausência de propósitos, é a verdadeira\ncortina de ferro que esconde dos olhos do mundo\ntodas as formas de campos de concentração. Vistos de\nfora, os campos e o que neles acontece só podem ser\ndescritos com imagens extraterrenas, como se a vida\nfosse neles separada das finalidades deste mundo.\nMais que o arame farpado, é a irrealidade dos detentos\nque ele confina que provoca uma crueldade tão incrível\nque termina levando à aceitação do extermínio como\nsolução perfeitamente normal.\nARENDT, H. Origens do totalitarismo. São Paulo:\nCia. das Letras, 1989 (adaptado).\nA partir da análise da autora, no encontro das\ntemporalidades históricas, evidencia-se uma crítica à\nnaturalização do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ideário nacional, que legitima as desigualdades sociais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "alienação ideológica, que justifica as ações individuais.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "cosmologia religiosa, que sustenta as tradições hierárquicas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "segregação humana, que fundamenta os projetos biopolíticos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "enquadramento cultural, que favorece os comportamentos punitivos. *SA0175AZ28* CH - 1º dia | Caderno 1 - AZUL - Página 29",
+          "assets": []
+        }
+      ],
+      "rawText": "Essa atmosfera de loucura e irrealidade, criada\npela aparente ausência de propósitos, é a verdadeira\ncortina de ferro que esconde dos olhos do mundo\ntodas as formas de campos de concentração. Vistos de\nfora, os campos e o que neles acontece só podem ser\ndescritos com imagens extraterrenas, como se a vida\nfosse neles separada das finalidades deste mundo.\nMais que o arame farpado, é a irrealidade dos detentos\nque ele confina que provoca uma crueldade tão incrível\nque termina levando à aceitação do extermínio como\nsolução perfeitamente normal.\nARENDT, H. Origens do totalitarismo. São Paulo:\nCia. das Letras, 1989 (adaptado).\nA partir da análise da autora, no encontro das\ntemporalidades históricas, evidencia-se uma crítica à\nnaturalização do(a)\n\nA. ideário nacional, que legitima as desigualdades sociais.\nB. alienação ideológica, que justifica as ações individuais.\nC. cosmologia religiosa, que sustenta as tradições hierárquicas.\nD. segregação humana, que fundamenta os projetos biopolíticos.\nE. enquadramento cultural, que favorece os comportamentos punitivos. *SA0175AZ28* CH - 1º dia | Caderno 1 - AZUL - Página 29"
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 77,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 77 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Fala-se aqui de uma arte criada nas ruas e para\nas ruas, marcadas antes de tudo pela vida cotidiana,\nseus conflitos e suas possibilidades, que poderiam\nenvolver técnicas, agentes e temas que não fossem\nencontrados nas instituições mais tradicionais e formais.",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-77/statement-01.png",
+        "/generated/enem-2019/ciencias-humanas/question-77/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-77/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "regulação das relações sociais.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "apropriação dos espaços públicos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "padronização das culturas urbanas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "valorização dos formalismos estéticos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "revitalização dos patrimônios históricos.",
+          "assets": []
+        }
+      ],
+      "rawText": "Fala-se aqui de uma arte criada nas ruas e para\nas ruas, marcadas antes de tudo pela vida cotidiana,\nseus conflitos e suas possibilidades, que poderiam\nenvolver técnicas, agentes e temas que não fossem\nencontrados nas instituições mais tradicionais e formais.\n\nA. regulação das relações sociais.\nB. apropriação dos espaços públicos.\nC. padronização das culturas urbanas.\nD. valorização dos formalismos estéticos.\nE. revitalização dos patrimônios históricos."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 78,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 78 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "TEXTO I\nDuas coisas enchem o ânimo de admiração e\nveneração sempre crescentes: o céu estrelado sobre\nmim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o\nestrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa.\nSão Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes\nideias centrais do pensamento kantiano:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Possibilidade da liberdade e obrigação da ação.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Aprioridade do juízo e importância da natureza.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Necessidade da boa vontade e crítica da metafísica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Prescindibilidade do empírico e autoridade da razão.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Interioridade da norma e fenomenalidade do mundo.",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nDuas coisas enchem o ânimo de admiração e\nveneração sempre crescentes: o céu estrelado sobre\nmim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o\nestrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa.\nSão Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes\nideias centrais do pensamento kantiano:\n\nA. Possibilidade da liberdade e obrigação da ação.\nB. Aprioridade do juízo e importância da natureza.\nC. Necessidade da boa vontade e crítica da metafísica.\nD. Prescindibilidade do empírico e autoridade da razão.\nE. Interioridade da norma e fenomenalidade do mundo."
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 79,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 79 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "A soberania dos cidadãos dotados de plenos direitos\nera imprescindível para a existência da cidade-estado.\nSegundo os regimes políticos, a proporção desses\ncidadãos em relação à população total dos homens\nlivres podia variar muito, sendo bastante pequena nas\naristocracias e oligarquias e maior nas democracias.\nCARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.\nNas cidades-estado da Antiguidade Clássica, a proporção\nde cidadãos descrita no texto é explicada pela adoção do\nseguinte critério para a participação política:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Controle da terra.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Liberdade de culto.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Igualdade de gênero.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Exclusão dos militares.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Exigência da alfabetização.",
+          "assets": []
+        }
+      ],
+      "rawText": "A soberania dos cidadãos dotados de plenos direitos\nera imprescindível para a existência da cidade-estado.\nSegundo os regimes políticos, a proporção desses\ncidadãos em relação à população total dos homens\nlivres podia variar muito, sendo bastante pequena nas\naristocracias e oligarquias e maior nas democracias.\nCARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.\nNas cidades-estado da Antiguidade Clássica, a proporção\nde cidadãos descrita no texto é explicada pela adoção do\nseguinte critério para a participação política:\n\nA. Controle da terra.\nB. Liberdade de culto.\nC. Igualdade de gênero.\nD. Exclusão dos militares.\nE. Exigência da alfabetização."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 80,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 80 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        29
+      ],
+      "statement": "CARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República\nque não foi. São Paulo: Cia. das Letras, 1987 (adaptado).\nA mobilização analisada representou um alerta,\nna medida em que a ação popular questionava",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-80/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-80/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "a alta de preços.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "a política clientelista.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "as reformas urbanas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "o arbítrio governamental.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "as práticas eleitorais.",
+          "assets": []
+        }
+      ],
+      "rawText": "CARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República\nque não foi. São Paulo: Cia. das Letras, 1987 (adaptado).\nA mobilização analisada representou um alerta,\nna medida em que a ação popular questionava\n\nA. a alta de preços.\nB. a política clientelista.\nC. as reformas urbanas.\nD. o arbítrio governamental.\nE. as práticas eleitorais."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 81,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 81 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "A partir da segunda metade do século XVIII,\no número de escravos recém-chegados cresce no Rio e\nse estabiliza na Bahia. Nenhum lugar servia tão bem à\nrecepção de escravos quanto o Rio de Janeiro.\nFRANÇA, R. O tamanho real da escravidão. O Globo,\n5 abr. 2015 (adaptado).\nNa matéria, o jornalista informa uma mudança na\ndinâmica do tráfico atlântico que está relacionada à\nseguinte atividade:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Coleta de drogas do sertão.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Extração de metais preciosos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Adoção da pecuária extensiva.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Retirada de madeira do litoral.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Exploração da lavoura de tabaco. *SA0175AZ29* CH - 1º dia | Caderno 1 - AZUL - Página 30",
+          "assets": []
+        }
+      ],
+      "rawText": "A partir da segunda metade do século XVIII,\no número de escravos recém-chegados cresce no Rio e\nse estabiliza na Bahia. Nenhum lugar servia tão bem à\nrecepção de escravos quanto o Rio de Janeiro.\nFRANÇA, R. O tamanho real da escravidão. O Globo,\n5 abr. 2015 (adaptado).\nNa matéria, o jornalista informa uma mudança na\ndinâmica do tráfico atlântico que está relacionada à\nseguinte atividade:\n\nA. Coleta de drogas do sertão.\nB. Extração de metais preciosos.\nC. Adoção da pecuária extensiva.\nD. Retirada de madeira do litoral.\nE. Exploração da lavoura de tabaco. *SA0175AZ29* CH - 1º dia | Caderno 1 - AZUL - Página 30"
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 82,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 82 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Tratava-se agora de construir um ritmo novo.\nPara tanto, era necessário convocar todas as forças\nvivas da Nação, todos os homens que, com vontade\nde trabalhar e confiança no futuro, pudessem erguer,\nnum tempo novo, um novo Tempo. E, à grande\nconvocação que conclamava o povo para a gigantesca\ntarefa, começaram a chegar de todos os cantos da\nimensa pátria os trabalhadores: os homens simples\ne quietos, com pés de raiz, rostos de couro e mãos\nde pedra, e no calcanho, em carro de boi, em lombo\nde burro, em paus-de-arara, por todas as formas\npossíveis e imagináveis, em sua mudez cheia de\nesperança, muitas vezes deixando para trás mulheres\ne filhos a aguardar suas promessas de melhores dias;\nforam chegando de tantos povoados, tantas cidades\ncujos nomes pareciam cantar saudades aos seus\nouvidos, dentro dos antigos ritmos da imensa pátria...\nTerra de sol, Terra de luz... Brasil! Brasil! Brasília!",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-82/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-82/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Apelo simbólico e migração inter-regional.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Organização sindical e expansão do capital.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Segurança territorial e estabilidade financeira.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Consenso partidário e modernização rodoviária.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Perspectiva democrática e eficácia dos transportes.",
+          "assets": []
+        }
+      ],
+      "rawText": "Tratava-se agora de construir um ritmo novo.\nPara tanto, era necessário convocar todas as forças\nvivas da Nação, todos os homens que, com vontade\nde trabalhar e confiança no futuro, pudessem erguer,\nnum tempo novo, um novo Tempo. E, à grande\nconvocação que conclamava o povo para a gigantesca\ntarefa, começaram a chegar de todos os cantos da\nimensa pátria os trabalhadores: os homens simples\ne quietos, com pés de raiz, rostos de couro e mãos\nde pedra, e no calcanho, em carro de boi, em lombo\nde burro, em paus-de-arara, por todas as formas\npossíveis e imagináveis, em sua mudez cheia de\nesperança, muitas vezes deixando para trás mulheres\ne filhos a aguardar suas promessas de melhores dias;\nforam chegando de tantos povoados, tantas cidades\ncujos nomes pareciam cantar saudades aos seus\nouvidos, dentro dos antigos ritmos da imensa pátria...\nTerra de sol, Terra de luz... Brasil! Brasil! Brasília!\n\nA. Apelo simbólico e migração inter-regional.\nB. Organização sindical e expansão do capital.\nC. Segurança territorial e estabilidade financeira.\nD. Consenso partidário e modernização rodoviária.\nE. Perspectiva democrática e eficácia dos transportes."
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 83,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 83 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Saudado por centenas de militantes de movimentos\nsociais de quarenta países, o papa Francisco\nencerrou no dia 09/07/2015 o 2º Encontro Mundial dos\nMovimentos Populares, em Santa Cruz de La Sierra,\nna Bolívia. Segundo ele, a “globalização da esperança,\nque nasce dos povos e cresce entre os pobres,\ndeve substituir esta globalização da exclusão e\nda indiferença”.\nDisponível em: http://cartamaior.com.br.\nAcesso em: 15 jul. 2015 (adaptado).\nNo texto há uma crítica ao seguinte aspecto do\nmundo globalizado:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Liberdade política.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Mobilidade humana.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Conectividade cultural.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Disparidade econômica.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Complementaridade comercial.",
+          "assets": []
+        }
+      ],
+      "rawText": "Saudado por centenas de militantes de movimentos\nsociais de quarenta países, o papa Francisco\nencerrou no dia 09/07/2015 o 2º Encontro Mundial dos\nMovimentos Populares, em Santa Cruz de La Sierra,\nna Bolívia. Segundo ele, a “globalização da esperança,\nque nasce dos povos e cresce entre os pobres,\ndeve substituir esta globalização da exclusão e\nda indiferença”.\nDisponível em: http://cartamaior.com.br.\nAcesso em: 15 jul. 2015 (adaptado).\nNo texto há uma crítica ao seguinte aspecto do\nmundo globalizado:\n\nA. Liberdade política.\nB. Mobilidade humana.\nC. Conectividade cultural.\nD. Disparidade econômica.\nE. Complementaridade comercial."
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 84,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 84 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        30
+      ],
+      "statement": "A Declaração Universal dos Direitos Humanos,\nadotada e proclamada pela Assembleia Geral da ONU\nna Resolução 217-A, de 10 de dezembro de 1948,\nfoi um acontecimento histórico de grande relevância.\nAo afirmar, pela primeira vez em escala planetária, o\npapel dos direitos humanos na convivência coletiva,\npode ser considerada um evento inaugural de uma nova\nconcepção de vida internacional.\nLAFER, C. Declaração Universal dos Direitos Humanos (1948).\nIn: MAGNOLI, D. (Org.). História da paz. São Paulo: Contexto, 2008.\nA declaração citada no texto introduziu uma nova\nconcepção nas relações internacionais ao possibilitar a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "superação da soberania estatal.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "defesa dos grupos vulneráveis.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "redução da truculência belicista.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "impunidade dos atos criminosos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "inibição dos choques civilizacionais.",
+          "assets": []
+        }
+      ],
+      "rawText": "A Declaração Universal dos Direitos Humanos,\nadotada e proclamada pela Assembleia Geral da ONU\nna Resolução 217-A, de 10 de dezembro de 1948,\nfoi um acontecimento histórico de grande relevância.\nAo afirmar, pela primeira vez em escala planetária, o\npapel dos direitos humanos na convivência coletiva,\npode ser considerada um evento inaugural de uma nova\nconcepção de vida internacional.\nLAFER, C. Declaração Universal dos Direitos Humanos (1948).\nIn: MAGNOLI, D. (Org.). História da paz. São Paulo: Contexto, 2008.\nA declaração citada no texto introduziu uma nova\nconcepção nas relações internacionais ao possibilitar a\n\nA. superação da soberania estatal.\nB. defesa dos grupos vulneráveis.\nC. redução da truculência belicista.\nD. impunidade dos atos criminosos.\nE. inibição dos choques civilizacionais."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 85,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 85 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "“Nossa cultura não cabe nos seus museus”.\nTOLENTINO, A. B. Patrimônio cultural e discursos museológicos.\nMidas, n. 6, 2016.\nProduzida no Chile, no final da década de 1970,\na imagem expressa um conflito entre culturas e sua\npresença em museus decorrente da",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-85/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-85/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "valorização do mercado das obras de arte.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "definição dos critérios de criação de acervos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "ampliação da rede de instituições de memória.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "burocratização do acesso dos espaços expositivos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "fragmentação dos territórios das comunidades representadas. *SA0175AZ30* CH - 1º dia | Caderno 1 - AZUL - Página 31",
+          "assets": []
+        }
+      ],
+      "rawText": "“Nossa cultura não cabe nos seus museus”.\nTOLENTINO, A. B. Patrimônio cultural e discursos museológicos.\nMidas, n. 6, 2016.\nProduzida no Chile, no final da década de 1970,\na imagem expressa um conflito entre culturas e sua\npresença em museus decorrente da\n\nA. valorização do mercado das obras de arte.\nB. definição dos critérios de criação de acervos.\nC. ampliação da rede de instituições de memória.\nD. burocratização do acesso dos espaços expositivos.\nE. fragmentação dos territórios das comunidades representadas. *SA0175AZ30* CH - 1º dia | Caderno 1 - AZUL - Página 31"
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 86,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 86 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "A ocasião fez o ladrão: Francis Drake travava sua\nguerra de pirataria contra a Espanha papista quando\nroubou as tropas de mulas que levavam o ouro do\nPeru para o Panamá. Graças à cumplicidade da rainha\nElizabeth I, ele reincide e saqueia as costas do Chile e do\nPeru antes de regressar pelo Oceano Pacífico, e depois\npelo Índico. Ora, em Ternate ele oferece sua proteção a\num sultão revoltado com os portugueses; assim nasce o\nprimeiro entreposto inglês ultramarino.\n\nA tática adotada pela Inglaterra do século XVI, conforme\ncitada no texto, foi o meio encontrado para",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-86/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-86/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "restabelecer o crescimento da economia mercantil.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "conquistar as riquezas dos territórios americanos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "legalizar a ocupação de possessões ibéricas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ganhar a adesão das potências europeias.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "fortalecer as rotas do comércio marítimo.",
+          "assets": []
+        }
+      ],
+      "rawText": "A ocasião fez o ladrão: Francis Drake travava sua\nguerra de pirataria contra a Espanha papista quando\nroubou as tropas de mulas que levavam o ouro do\nPeru para o Panamá. Graças à cumplicidade da rainha\nElizabeth I, ele reincide e saqueia as costas do Chile e do\nPeru antes de regressar pelo Oceano Pacífico, e depois\npelo Índico. Ora, em Ternate ele oferece sua proteção a\num sultão revoltado com os portugueses; assim nasce o\nprimeiro entreposto inglês ultramarino.\n\nA tática adotada pela Inglaterra do século XVI, conforme\ncitada no texto, foi o meio encontrado para\n\nA. restabelecer o crescimento da economia mercantil.\nB. conquistar as riquezas dos territórios americanos.\nC. legalizar a ocupação de possessões ibéricas.\nD. ganhar a adesão das potências europeias.\nE. fortalecer as rotas do comércio marítimo."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 87,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 87 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Disponível em: http://portal.mte.gov.br.\nAcesso em: 4 fev. 2015 (adaptado).\nA estratégia defendida no texto para reduzir o problema\nsocial apontado consiste em:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-humanas/question-87/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-humanas/question-87/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Articular os órgãos públicos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Pressionar o Poder Legislativo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Ampliar a emissão das multas.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Limitar a autonomia das empresas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Financiar as pesquisas acadêmicas.",
+          "assets": []
+        }
+      ],
+      "rawText": "Disponível em: http://portal.mte.gov.br.\nAcesso em: 4 fev. 2015 (adaptado).\nA estratégia defendida no texto para reduzir o problema\nsocial apontado consiste em:\n\nA. Articular os órgãos públicos.\nB. Pressionar o Poder Legislativo.\nC. Ampliar a emissão das multas.\nD. Limitar a autonomia das empresas.\nE. Financiar as pesquisas acadêmicas."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 88,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 88 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "O bônus demográfico é caracterizado pelo período\nem que, por causa da redução do número de filhos\npor mulher, a estrutura populacional fica favorável\nao crescimento econômico. Isso acontece porque há\nproporcionalmente menos crianças na população, e o\npercentual de idosos ainda não é alto.\nGOIS, A. O Globo, 5 abr. 2015 (adaptado).\nA ação estatal que contribui para o aproveitamento do\nbônus demográfico é o estímulo à",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "atração de imigrantes.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "elevação da carga tributária.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "qualificação da mão de obra.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "admissão de exilados políticos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "concessão de aposentadorias.",
+          "assets": []
+        }
+      ],
+      "rawText": "O bônus demográfico é caracterizado pelo período\nem que, por causa da redução do número de filhos\npor mulher, a estrutura populacional fica favorável\nao crescimento econômico. Isso acontece porque há\nproporcionalmente menos crianças na população, e o\npercentual de idosos ainda não é alto.\nGOIS, A. O Globo, 5 abr. 2015 (adaptado).\nA ação estatal que contribui para o aproveitamento do\nbônus demográfico é o estímulo à\n\nA. atração de imigrantes.\nB. elevação da carga tributária.\nC. qualificação da mão de obra.\nD. admissão de exilados políticos.\nE. concessão de aposentadorias."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 89,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 89 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Os moradores de Utqiagvik passaram dois meses\nquase totalmente na escuridão\nOs habitantes desta pequena cidade no Alasca\n— o estado dos Estados Unidos mais ao norte —\njá estão acostumados a longas noites sem ver a luz\ndo dia. Em 18 de novembro de 2018, seus pouco mais\nde 4 mil habitantes viram o último pôr do sol do ano.\nA oportunidade seguinte para ver a luz do dia ocorreu no\ndia 23 de janeiro de 2019, às 13 h 04 min (horário local).\nDisponível em: www.bbc.com. Acesso em: 16 maio 2019 (adaptado).\nO fenômeno descrito está relacionado ao fato de a cidade\ncitada ter uma posição geográfica condicionada pela",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "continentalidade.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "maritimidade.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "longitude.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "latitude.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "altitude.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os moradores de Utqiagvik passaram dois meses\nquase totalmente na escuridão\nOs habitantes desta pequena cidade no Alasca\n— o estado dos Estados Unidos mais ao norte —\njá estão acostumados a longas noites sem ver a luz\ndo dia. Em 18 de novembro de 2018, seus pouco mais\nde 4 mil habitantes viram o último pôr do sol do ano.\nA oportunidade seguinte para ver a luz do dia ocorreu no\ndia 23 de janeiro de 2019, às 13 h 04 min (horário local).\nDisponível em: www.bbc.com. Acesso em: 16 maio 2019 (adaptado).\nO fenômeno descrito está relacionado ao fato de a cidade\ncitada ter uma posição geográfica condicionada pela\n\nA. continentalidade.\nB. maritimidade.\nC. longitude.\nD. latitude.\nE. altitude."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 90,
+      "year": 2019,
+      "area": "Ciências Humanas",
+      "title": "Questão 90 — ENEM 2019 — Ciências Humanas",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "A fome não é um problema técnico, pois ela não se\ndeve à falta de alimentos, isso porque a fome convive\nhoje com as condições materiais para resolvê-la.\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio\nambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo\nno século XXI: território de vida, de luta e de construção da justiça\nsocial. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).\nO texto demonstra que o problema alimentar apresentado\ntem uma dimensão política por estar associado ao(à)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "escala de produtividade regional.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "padrão de distribuição de renda.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "dificuldade de armazenamento de grãos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "crescimento da população mundial.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "custo de escoamento dos produtos. *SA0175AZ31* LC - 1º dia | Caderno 1 - AZUL - Página 32 RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação. *SA0175AZ32*",
+          "assets": []
+        }
+      ],
+      "rawText": "A fome não é um problema técnico, pois ela não se\ndeve à falta de alimentos, isso porque a fome convive\nhoje com as condições materiais para resolvê-la.\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio\nambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo\nno século XXI: território de vida, de luta e de construção da justiça\nsocial. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).\nO texto demonstra que o problema alimentar apresentado\ntem uma dimensão política por estar associado ao(à)\n\nA. escala de produtividade regional.\nB. padrão de distribuição de renda.\nC. dificuldade de armazenamento de grãos.\nD. crescimento da população mundial.\nE. custo de escoamento dos produtos. *SA0175AZ31* LC - 1º dia | Caderno 1 - AZUL - Página 32 RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação. *SA0175AZ32*"
+    }
+  ]
+}

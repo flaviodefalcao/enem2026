@@ -1,0 +1,200 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q120",
+  "generatedAt": "2026-03-28T22:46:03.014Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1593,
+      "outputTokens": 791,
+      "estimatedCostUsd": 0.001903
+    },
+    "explainer": {
+      "inputTokens": 2071,
+      "outputTokens": 581,
+      "estimatedCostUsd": 0.001758
+    },
+    "reviewer": {
+      "inputTokens": 3581,
+      "outputTokens": 2623,
+      "estimatedCostUsd": 0.005629
+    },
+    "totalEstimatedCostUsd": 0.00929
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A equação C representa a reação global correta.",
+      "strategy": "Somar as reações do ânodo e do cátodo para obter a reação global da CCM.",
+      "steps": [
+        "Identificar reação no ânodo: CH3COO− + 2 H2O → 2 CO2 + 7 H+ + 8 e−",
+        "Identificar reação no cátodo: 4 H+ + O2 + 4 e− → 2 H2O",
+        "Multiplicar a reação do cátodo por 2 para igualar elétrons: 8 H+ + 2 O2 + 8 e− → 4 H2O",
+        "Somar as duas reações para eliminar elétrons: CH3COO− + 2 H2O + 8 H+ + 2 O2 + 8 e− → 2 CO2 + 7 H+ + 8 e− + 4 H2O",
+        "Simplificar íons H+ e elétrons em ambos os lados, obtendo: CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O"
+      ],
+      "formulasUsed": [
+        "CH3COO− + 2 H2O → 2 CO2 + 7 H+ + 8 e−",
+        "4 H+ + O2 + 4 e− → 2 H2O"
+      ],
+      "visualEvidenceUsed": [
+        "Diagrama da CCM com ânodo onde ocorre oxidação do acetato (CH3COO−) formando CO2 e liberando elétrons e H+",
+        "Reações químicas apresentadas ao lado do esquema",
+        "Setas indicando fluxo de elétrons e íons H+ entre ânodo e cátodo"
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A reação global da célula a combustível microbiana (CCM) é obtida somando e balanceando as reações que ocorrem no ânodo (onde o acetato é oxidado) e no cátodo (onde o oxigênio é reduzido), eliminando os elétrons e íons H+ que aparecem dos dois lados, para formar uma equação química completa que mostra a conversão do acetato e oxigênio em dióxido de carbono e água.",
+      "stepByStep": [
+        "Identifique a reação que ocorre no ânodo: o acetato (CH3COO−) é oxidado, produzindo CO2, íons H+ e elétrons.",
+        "Identifique a reação que ocorre no cátodo: o oxigênio (O2) é reduzido com íons H+ e elétrons para formar água (H2O).",
+        "Multiplique a reação do cátodo por 2 para que o número de elétrons liberados no ânodo seja igual ao consumido no cátodo, permitindo que os elétrons possam ser eliminados da soma.",
+        "Some as duas reações mantendo os reagentes e produtos juntos e cancele os termos iguais que aparecem nos dois lados (elétrons e íons H+).",
+        "Simplifique a equação para chegar à reação global balanceada final, que mostra o acetato e oxigênio formando dióxido de carbono e água."
+      ],
+      "commonPitfalls": [
+        "Não balancear corretamente o número de elétrons entre as reações do ânodo e do cátodo, levando a equações incorretas.",
+        "Esquecer de somar as reações e eliminar as espécies intermediárias (elétrons e íons H+).",
+        "Interpretar a reação ao contrário, pensando em síntese do acetato em vez de sua oxidação.",
+        "Não considerar a participação do oxigênio na reação global, produzindo uma reação incompleta.",
+        "Confundir os produtos e reagentes da oxidação e redução, resultando em equações mal balanceadas."
+      ],
+      "teachingTips": [
+        "Use esquemas visuais para mostrar o fluxo de elétrons e íons entre ânodo e cátodo, facilitando a compreensão do processo.",
+        "Ensine o conceito de reação global como soma de semi-reações do ânodo e cátodo, enfatizando o balanceamento de elétrons.",
+        "Reforce o passo a passo do balanceamento de reações redox em duas etapas: primeiro identificar reações individuais, depois somar para cancelar elétrons.",
+        "Promova a prática com várias reações redox para desenvolver habilidade de balanceamento e reconhecimento das espécies envolvidas.",
+        "Apresente a ligação entre o funcionamento biológico das bactérias eletrogênicas e a geração de energia elétrica para conectar a química à aplicação real."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Considerar apenas oxidação parcial do acetato sem balancear completamente a reação.",
+        "misconceptionType": "Reação incompleta",
+        "whyItLooksPlausible": "Contém reagentes e produtos da oxidação do acetato.",
+        "whyItIsWrong": "Não considera a redução do oxigênio nem balanceamento dos íons H+."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir reação direta com o processo inverso de síntese de acetato.",
+        "misconceptionType": "Reação invertida",
+        "whyItLooksPlausible": "Contém compostos envolvidos na reação.",
+        "whyItIsWrong": "Reação apresenta sentido químico invertido, não condiz com oxidação do acetato."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir reação de oxidação com formação de oxigênio e excesso de íons H+.",
+        "misconceptionType": "Reação incorreta",
+        "whyItLooksPlausible": "Presença dos mesmos reagentes e produtos aparentes.",
+        "whyItIsWrong": "Não condiz com processo redox típico em CCM nem é balanceada corretamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Reação inversa à oxidação com incorreta estequiometria.",
+        "misconceptionType": "Reação inversa",
+        "whyItLooksPlausible": "Inclui reagentes e produtos associados à oxidação/redução do acetato.",
+        "whyItIsWrong": "Reação é o oposto do esperado, síntese em vez de degradação."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Balancing chemical redox reactions",
+      "secondarySkills": [
+        "Understanding redox processes",
+        "Microbial fuel cell concepts"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Usa somatória e balanceamento de equações redox",
+        "Interpreta esquema de célula a combustível microbiana",
+        "Identifica espécies químicas e elétrons na reação"
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🔬",
+      "shortThemeTitle": "Reação global em célula a combustível microbiana",
+      "interpretationIntro": "O comando exige identificar a reação global correta que representa o funcionamento da célula a combustível microbiana (CCM) a partir das semi-reações apresentadas no ânodo e no cátodo.",
+      "commandTerms": [
+        {
+          "term": "Reação global",
+          "explanation": "Equação química que representa o processo total combinando reações parciais, eliminando intermediários como elétrons."
+        },
+        {
+          "term": "Semi-reações",
+          "explanation": "Reações individuais ocorrendo no ânodo e no cátodo que, somadas, formam a reação global."
+        },
+        {
+          "term": "Balanceamento",
+          "explanation": "Ajuste dos coeficientes químicos para que haja conservação de massa e carga."
+        }
+      ],
+      "whatTheQuestionAsks": "A questão pede a identificação da equação química global balanceada que representa o processo redox completo durante o funcionamento da CCM, combinando as reações do ânodo e do cátodo.",
+      "strategyParagraph": "Para resolver a questão, deve-se entender as semi-reações indicadas: no ânodo, o acetato é oxidado liberando elétrons e íons H+; no cátodo, o oxigênio é reduzido utilizando esses elétrons e íons H+. Multiplicando-se a reação do cátodo para igualar o número de elétrons com a do ânodo, soma-se as equações, cancelando elétrons e íons repetidos, resultando na reação global balanceada.",
+      "reviewTable": [
+        {
+          "concept": "Semi-reações",
+          "keyIdea": "Equações parciais no ânodo e cátodo envolvendo oxidação e redução, respectivamente.",
+          "application": "Identificar e considerar para elaboração da reação global."
+        },
+        {
+          "concept": "Balanceamento de elétrons",
+          "keyIdea": "Igualar elétrons liberados e consumidos para somar as reações corretamente.",
+          "application": "Multiplicar semi-reação do cátodo para eliminar elétrons na soma."
+        },
+        {
+          "concept": "Reação global",
+          "keyIdea": "Combinação das semi-reações com balanceamento adequado, eliminando intermediários.",
+          "application": "Obter a equação balanceada final que reflete o funcionamento da CCM."
+        }
+      ],
+      "theoryParagraphs": [
+        "Células a combustível microbianas (CCM) são sistemas bioeletroquímicos que utilizam bactérias eletrogênicas para oxidar matéria orgânica no ânodo, liberando elétrons e íons H+. Estes elétrons fluem por um circuito externo até o cátodo, onde o oxigênio é reduzido, formando água. O processo global envolve reações redox balanceadas que convertem o substrato (acetato) e o oxigênio em dióxido de carbono e água.",
+        "O balanceamento das reações é fundamental para garantir a conservação das massas e carga elétrica. As semi-reações do ânodo e do cátodo devem ter os elétrons igualados para somá-las corretamente, cancelando os elétrons e os íons H+ que aparecem em ambos os lados, resultando finalmente na reação global da CCM."
+      ],
+      "resolutionParagraphs": [
+        "Partimos da reação no ânodo: o acetato (CH3COO−) é oxidado, formando dióxido de carbono (CO2), liberando 7 íons H+ e 8 elétrons.",
+        "No cátodo, o oxigênio (O2) é reduzido, consumindo 4 íons H+ e 4 elétrons para formar água (H2O).",
+        "Para balancear elétrons, multiplicamos a reação do cátodo por 2, obtendo 8 elétrons consumidos, igual ao número liberado no ânodo.",
+        "Somamos as duas equações, eliminando os elétrons e simplificando os íons H+, resultando na reação global: CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O.",
+        "Essa equação representa corretamente a reação global durante o funcionamento da CCM, mostrando a oxidação completa do acetato e a redução do oxigênio."
+      ],
+      "puloDoGato": "Multiplique as semi-reações para igualar elétrons e some-as, cancelando intermediários; assim você obtém rapidamente a reação global correta.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Considera parcialmente a oxidação do acetato, mas não inclui a redução do oxigênio nem o balanceamento adequado de elétrons e íons H+, resultando em uma reação incompleta."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Apresenta a reação no sentido inverso, indicando síntese de acetato, o que conflita com o conceito de oxidação esperado no ânodo da CCM."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Corresponde à reação global correta, resultado da soma balanceada das semi-reações do ânodo e do cátodo, eliminando elétrons e íons intermediários."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Reação incorreta que não representa o funcionamento redox típico da CCM, com desequilíbrio nos reagentes e produtos e interpretação errada da oxidação."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Mostra a reação em sentido contrário à oxidação, indicando síntese do acetato, além de apresentar balanceamento incorreto, o que não condiz com o processo real na CCM."
+        }
+      ],
+      "questionCode": "CN_FISIO_QUIM_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, resolução técnica e explicação didática estão coerentes e consistentes. A resolução oficial desenvolve de forma clara e didática o entendimento do problema, caminhada lógica do balanceamento e justificativa das alternativas. Todos os passos essenciais para a compreensão da reação global na CCM são contemplados sem contradições.",
+      "issues": []
+    }
+  }
+}

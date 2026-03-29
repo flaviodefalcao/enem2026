@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:26:44.993Z",
+  "questionId": "enem-2024-ciencias-natureza-q094",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Equilíbrio e cinética",
+    "rationale": "A questão trata do equilíbrio químico da desmineralização e mineralização da hidroxiapatita no esmalte dental, relacionando o pH dos cremes dentais com o efeito sobre esse equilíbrio. Dessa forma, o tema mais adequado é Química, com o subtema Equilíbrio e cinética, pois aborda reações em equilíbrio e a influência do meio (pH) nessas reações.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1418,
+    "outputTokens": 108,
+    "estimatedCostUsd": 0.00074
+  }
+}

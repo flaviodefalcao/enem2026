@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:43:05.742Z",
+  "questionId": "enem-2024-ciencias-natureza-q135",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O daltonismo é uma herança recessiva ligada ao cromossomo X, afetando mais homens do que mulheres. Um homem não daltônico tem um cromossomo X normal e Y, enquanto uma mulher portadora é heterozigota (tem um cromossomo X normal e um com o gene recessivo para daltonismo). A probabilidade do bebê ser daltônico depende do sexo e dos alelos herdados dos pais.",
+      "stepByStep": [
+        "Entender que o daltonismo é um distúrbio recessivo ligado ao cromossomo X.",
+        "Reconhecer que o homem não daltônico possui um cromossomo X normal (X^N) e um cromossomo Y.",
+        "Identificar que a mulher é heterozigota portadora (X^N X^d), carregando um alelo normal e um recessivo para daltonismo.",
+        "Para o bebê menino (XY): ele herdará o cromossomo Y do pai e um dos dois cromossomos X da mãe. Se herdar X^d, será daltônico; caso contrário, não.",
+        "Para o bebê menina (XX): pode herdar dois alelos normais (não daltônica), ser heterozigota portadora (sem manifestação), ou ser daltônica se herdar os dois alelos recessivos.",
+        "Elaborar o heredograma considerando as possibilidades genotípicas e fenotípicas para os possíveis filhos.",
+        "Comparar os heredogramas fornecidos e identificar o que corresponde corretamente às informações genéticas e probabilidades do problema."
+      ],
+      "commonPitfalls": [
+        "Confundir a herança ligada ao cromossomo X com herança autossômica.",
+        "Interpretar erroneamente as probabilidades de herança do gene recessivo, especialmente para meninas.",
+        "Ignorar que homens só possuem um cromossomo X, logo só manifestam a condição se herdarem o gene recessivo.",
+        "Confundir os símbolos dos cromossomos e alelos, o que pode levar a erro na montagem do heredograma.",
+        "Não analisar corretamente as proporções genotípicas e fenotípicas para os descendentes."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de gene recessivo ligado ao cromossomo X e como isso afeta homens e mulheres diferentemente.",
+        "Use exemplos visuais, como heredogramas, para demonstrar a segregação dos alelos.",
+        "Explique a importância da mulher portadora heterozigota e o impacto na probabilidade dos filhos serem afetados ou portadores.",
+        "Pratique com diferentes exemplos de herança ligada ao X para fixação dos conceitos.",
+        "Ajude o aluno a interpretar diagramas e gráficos relacionados à genética, associando-os aos conceitos biológicos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 21075,
+    "outputTokens": 561,
+    "estimatedCostUsd": 0.009328
+  }
+}

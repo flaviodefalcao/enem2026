@@ -1,0 +1,806 @@
+{
+  "questions": [
+    {
+      "id": "enem-2024-ciencias-natureza-q091",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 91 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O esquema representa um experimento feito com\ncélulas do protozoário Amoeba proteus. Nele, um grupo\nde células foi tratado com a droga citocalasina B, enquanto\noutro grupo não foi tratado, servindo como controle.\nO formato e o movimento das células tratadas foram\ncomprometidos.\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e\nhereditariedade. Porto Alegre: Artmed, 2009 (adaptado).\nQual componente celular foi afetado pela droga utilizada\nno experimento?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-91/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Vacúolos.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Mitocôndrias.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Microfilamentos.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Material genético.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Membrana plasmática.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 1,
+        "examQuestionNumber": 91,
+        "sourcePages": "2",
+        "sourceQuestionNumber": 25,
+        "skillCode": "H15",
+        "skillDescription": "Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em qualquer nível de organização dos sistemas biológicos.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111658,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q092",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 92 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O magnésio metálico utilizado em ligas leves é\nproduzido em um processo que envolve várias etapas e\nutiliza água do mar como matéria-prima. A primeira etapa\ndesse processo consiste na reação entre o íon Mg2+ e\nhidróxido de cálcio, Ca(OH)₂, obtendo uma mistura que\ncontém hidróxido de magnésio, pouco solúvel, e íons Ca2+,\nde acordo com a equação química:\nMg2+ (aq) +Ca₍OH₎₂ (aq) →Mg₍OH₎₂ (s) + Ca2+ (aq)\nO método adequado para separar o Mg(OH)₂ dessa\nmistura é a",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "filtração.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "catação.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "destilação.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "dissolução.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "evaporação.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 2,
+        "examQuestionNumber": 92,
+        "sourcePages": "2",
+        "sourceQuestionNumber": 26,
+        "skillCode": "H8",
+        "skillDescription": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 89141,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q093",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 93 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Moradores do Brooklin, bairro de São Paulo, perdem o\nsono com um som alto, constante e estridente. O barulho é\ncausado por anfíbios anuros trazidos do Caribe, da espécie\nEleutherodactylus jahnstonei, que têm tamanho um pouco\nmaior que o de um grão de feijão e que encontraram na\ncapital um ambiente favorável. Cientistas foram até o local\ne encontraram esses animais nos jardins das casas.\nAo emitirem o som estridente, esses anfíbios",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-93/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "indicam que estão fora de seu hábitat natural.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "alertam para a presença de poluição urbana.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "sinalizam a existência de superpopulação.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "direcionam insetos para sua alimentação.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "atraem fêmeas para o acasalamento.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 3,
+        "examQuestionNumber": 93,
+        "sourcePages": "2",
+        "sourceQuestionNumber": 27,
+        "skillCode": "H28",
+        "skillDescription": "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros.",
+        "competenceNumber": 8,
+        "competenceDescription": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 86002,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q094",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 94 — ENEM 2024 — Ciências da Natureza",
+      "statement": "A hidroxiapatita, Ca₅(PO₄)₃OH, é um mineral\nconstituinte do esmalte dos dentes. Entre as diversas\nreações que ocorrem no meio bucal, encontram-se em\nequilíbrio as reações de desmineralização e mineralização\nda hidroxiapatita em meio aquoso, ilustradas a seguir.\nA desmineralização está associada à fragilização do esmalte\ndo dente e à formação de cáries.\nDesmineralização\nMineralização\nO uso de creme dental pode minimizar a perda da\nhidroxiapatita. O quadro apresenta o agente de polimento\ne o pH de alguns cremes dentais comerciais.\nConsiderando o equilíbrio químico envolvido, qual creme dental\npromove a maior desmineralização do esmalte do dente?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-94/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-94/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "I",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "II",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "III",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "IV",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "V *020125AM2*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 4,
+        "examQuestionNumber": 94,
+        "sourcePages": "2",
+        "sourceQuestionNumber": 28,
+        "skillCode": "H2",
+        "skillDescription": "Associar a solução de problemas de comunicação, transporte, saúde ou outro, com o correspondente desenvolvimento científico e tecnológico.",
+        "competenceNumber": 1,
+        "competenceDescription": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111515,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q095",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 95 — ENEM 2024 — Ciências da Natureza",
+      "statement": "A tirinha ilustra esquimós dentro de um iglu, habitação\nde formato hemisférico construída durante o inverno a partir de\nneve ou blocos de gelo. Essa estrutura de construção se justifica\npelo fato de esse povo habitar as regiões mais setentrionais\nda Groenlândia, Canadá e Alasca.\nLAERTE. Disponível em: https://artedafisicapibid.blogspot.com.\nAcesso em: 4 dez. 2021 (adaptado).\nNa tirinha, a geladeira é necessária para fazer gelo porque",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-95/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "a temperatura interna do iglu é maior que a de solidificação da água.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 5,
+        "examQuestionNumber": 95,
+        "sourcePages": "3",
+        "sourceQuestionNumber": 32,
+        "skillCode": "H23",
+        "skillDescription": "Avaliar possibilidades de geração, uso ou transformação de energia em ambientes específicos, considerando implicações éticas, ambientais, sociais e/ou econômicas.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141558,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q096",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 96 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Os pesticidas naturais vêm sendo utilizados no controle\nde pragas e doenças agrícolas como substituintes de\npesticidas sintéticos tradicionais, por serem menos nocivos\nao ambiente, biodegradáveis e minimizarem custos e riscos\nrelativos à lavoura. Por exemplo, os compostos 1 e 2 estão\nenvolvidos nas respostas de defesa das plantas. Os grupos\nfuncionais presentes nesses compostos são importantes\npara suas propriedades no controle de pragas.\nQual é a função orgânica correspondente ao grupo funcional\ncomum presente nesses dois compostos?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-96/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-96/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Ácido carboxílico.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Cetona.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Alceno.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Álcool.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Fenol.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 6,
+        "examQuestionNumber": 96,
+        "sourcePages": "3",
+        "sourceQuestionNumber": 33,
+        "skillCode": "H24",
+        "skillDescription": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111693,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q097",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 97 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Utilizando-se um mesmo meio nutritivo, três gêneros\nbacterianos diferentes foram submetidos ao cultivo em\ntubos de ensaio. Após certo período de crescimento da\ncultura bacteriana em condições físico-químicas ideais,\nobservou-se que o padrão de distribuição das células\n(representadas por pontos na figura) ao longo dos tubos\nera diferente em cada um dos casos.\nEm relação ao metabolismo energético, os microrganismos\npresentes nos tubos 1, 2 e 3 são classificados,\nrespectivamente, como",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-97/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito. *020125AM3*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 7,
+        "examQuestionNumber": 97,
+        "sourcePages": "3",
+        "sourceQuestionNumber": 34,
+        "skillCode": "H15",
+        "skillDescription": "Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em qualquer nível de organização dos sistemas biológicos.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 87263,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q098",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 98 — ENEM 2024 — Ciências da Natureza",
+      "statement": "As placas que indicam saída de emergência brilham no\nescuro, pois apresentam substâncias que fosforecem na\ncor amarelo-esverdeada após exposição à luz ambiente,\nconforme a figura.\nEsse fenômeno ocorre pela presença do sulfeto de\nzinco (ZnS), dopado com prata ou cobre, na superfície\nda placa.\nZinc Sulphide Phosphorescence. Disponível em:\nhttps://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).\nO aparecimento do brilho nessas condições ocorre como\nconsequência de",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-98/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "colisões interatômicas.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "coloração dos átomos.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "transições eletrônicas.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "reações nucleares.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "reflexão da luz.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 8,
+        "examQuestionNumber": 98,
+        "sourcePages": "4",
+        "sourceQuestionNumber": 35,
+        "skillCode": "H22",
+        "skillDescription": "Compreender fenômenos decorrentes da interação entre a radiação e a matéria em suas manifestações em processos naturais ou tecnológicos, ou em suas implicações biológicas, sociais, econômicas ou ambientais.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 88293,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q099",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 99 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Indústrias farmacêuticas e instituições científicas têm\ntrabalhado no desenvolvimento de diferentes vacinas\ncontra a covid-19. Em algumas dessas vacinas, a principal\nestrutura antigênica é uma proteína de superfície viral\nchamada espícula (spike, em inglês). Essa proteína só\nexiste em coronavírus, incluindo o SARS-CoV-2. Ela se\nliga a receptores de membrana específicos das células\nhumanas por um mecanismo do tipo “chave-fechadura”.\nDessa forma, os vírus entram nas células, podendo se\nmultiplicar e acarretar a doença.\nO que são vacinas? Disponível em: www.cienciaviva.pt.\nAcesso em: 30 nov. 2021 (adaptado).\nNessas vacinas, essa proteína viral induz a",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "produção de anticorpos específicos contra os vírus.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "imunidade passiva contra o desenvolvimento da doença.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "alteração genômica para formação da memória imunológica.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "neutralização direta dos vírus presentes na circulação sanguínea.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "modificação dos receptores de membrana específicos para o vírus.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 9,
+        "examQuestionNumber": 99,
+        "sourcePages": "4",
+        "sourceQuestionNumber": 36,
+        "skillCode": "H11",
+        "skillDescription": "Reconhecer benefícios, limitações e aspectos éticos da biotecnologia, considerando estruturas e processos biológicos envolvidos em produtos biotecnológicos.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141743,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q100",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 100 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Em um experimento de laboratório, duas barras\nmetálicas, A e B, são carregadas com cargas opostas e\nimersas em óleo. Farelo de milho é jogado sobre o óleo e,\napós um certo tempo, o farelo assume o formato das linhas\nde campo elétrico entre as barras. A figura representa a\nvista superior desse experimento.\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4:\nmódulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\nAo repetir o experimento colocando um cilindro metálico\noco entre as placas, o esquema que representa o formato\ndas linhas de campo assumido pelo farelo é:",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-100/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-100/option-a-01.png"
+          ]
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-100/option-b-01.png"
+          ]
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-100/option-c-01.png"
+          ]
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-100/option-d-01.png"
+          ]
+        },
+        {
+          "label": "E",
+          "text": "*020125AM4*",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-100/option-e-01.png"
+          ]
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 10,
+        "examQuestionNumber": 100,
+        "sourcePages": "4",
+        "sourceQuestionNumber": 37,
+        "skillCode": "H21",
+        "skillDescription": "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 68866,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q101",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 101 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Placas solares comuns dependem de dias ensolarados\npara gerar energia. Mas podemos gerar eletricidade com\na ajuda de gotas de chuva, revestindo placas solares\ncom uma fina camada de grafeno. Os íons dissociados a\npartir da água da chuva (Am+ e Bn−) tornam a combinação\ngrafeno e água da chuva um par perfeito para geração\nde energia. O processo requer apenas uma camada de\ngrafeno para que grande quantidade de elétrons (e−)\nse movimente ao longo da superfície.\nTANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain.\nAngewandte Chemie International Edition, n. 55, 2016 (adaptado).\nAo produzir eletricidade em dias chuvosos, o grafeno",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-101/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "oxida os cátions dissolvidos na água da chuva.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "impede a difusão da água através das placas solares.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "diminui a energia de ativação da reação no pseudocapacitor.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "forma um compósito não metálico com os íons na água da chuva.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "gera uma diferença de potencial pela interação dos elétrons com os cátions.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 11,
+        "examQuestionNumber": 101,
+        "sourcePages": "5",
+        "sourceQuestionNumber": 38,
+        "skillCode": "H23",
+        "skillDescription": "Avaliar possibilidades de geração, uso ou transformação de energia em ambientes específicos, considerando implicações éticas, ambientais, sociais e/ou econômicas.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117837,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q102",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 102 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Um estudante comprou uma cafeteira elétrica de 700 W\nde potência e com capacidade de 0,5 L de água (500 g).\nEnquanto o café estava em preparação na capacidade\nmáxima da cafeteira, ele marcou que demorou 3 minutos\npara a cafeteira ferver toda a água (100 °C) a partir da\ntemperatura ambiente de 20 °C. Em seguida, para avaliar a\neficiência da cafeteira, ele calculou esse tempo desprezando\nquaisquer perdas energéticas. É necessária 1 cal (4,2 J)\npara elevar em 1 °C a temperatura de 1 grama de água.\nQual a eficiência energética calculada pelo estudante?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "100%",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "75%",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "60%",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "7,5%",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "5,1%",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "X",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 12,
+        "examQuestionNumber": 102,
+        "sourcePages": "5",
+        "sourceQuestionNumber": 39,
+        "skillCode": "H6",
+        "skillDescription": "Relacionar informações para compreender manuais de instalação ou utilização de aparelhos, ou sistemas tecnológicos de uso comum.",
+        "competenceNumber": 2,
+        "competenceDescription": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 61076,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q103",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 103 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O diagrama P-V a seguir representa o ciclo de Otto\npara um motor de combustão interna, como os motores a\ngasolina ou a etanol, utilizados nos automóveis.\nAs etapas representadas no diagrama estão descritas\nno quadro.\nDisponível em: www.mspc.eng.br.\nAcesso em: 24 fev. 2013 (adaptado).\nA transformação da energia térmica em energia útil ocorre\nna etapa",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-103/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-103/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "II.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "III.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "IV.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "V.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "VI. *020125AM5*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 13,
+        "examQuestionNumber": 103,
+        "sourcePages": "5",
+        "sourceQuestionNumber": 40,
+        "skillCode": "H8",
+        "skillDescription": "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 42680,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q104",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 104 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Para os circuitos de maratonas aquáticas realizadas em\nmares calmos e próximos à praia, é montado um sistema\nde boias que determinam o trajeto a ser seguido pelos\nnadadores. Uma das dificuldades desse tipo de circuito\né compensar os efeitos da corrente marinha. O diagrama\ncontém o circuito em que deve ser realizada uma volta no\nsentido anti-horário. As quatro boias estão numeradas de\n1 a 4. Existe uma corrente marinha de velocidade υc\n→, cujo\nmódulo é 30 metros por minuto, paralela à praia em toda\na área do circuito. Nas arestas mais longas, o nadador\nprecisará nadar na direção apontada pelos vetores υn\nNessa situação, em quantos minutos o nadador completará\na prova?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-104/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "42",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "65",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "72",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "105",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "120",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 14,
+        "examQuestionNumber": 104,
+        "sourcePages": "6",
+        "sourceQuestionNumber": 29,
+        "skillCode": "H20",
+        "skillDescription": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117932,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q105",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 105 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O vírus linfotrópico de células T humanas tipo 1\n(HTLV-1) é um retrovírus do mesmo grupo do vírus da\nimunodeficiência humana (HIV). Ambos são transmitidos\nda mesma forma e infectam as mesmas células de defesa\ndo organismo, os linfócitos T. A diferença entre eles é que o\nHTLV-1 estimula o aumento da produção desses linfócitos,\nenquanto o HIV causa destruição dessas células.\nUma possível consequência da infecção por HTLV-1 é o\ndesenvolvimento de",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-105/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "aids.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "câncer.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "diabetes.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "hepatite B.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "hemorragia.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 15,
+        "examQuestionNumber": 105,
+        "sourcePages": "6",
+        "sourceQuestionNumber": 30,
+        "skillCode": "H30",
+        "skillDescription": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente.",
+        "competenceNumber": 8,
+        "competenceDescription": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117878,
+        "coProva": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:55:35.997Z",
+  "questionId": "enem-2024-ciencias-natureza-q105",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O HTLV-1 é um vírus que aumenta a produção dos linfócitos T, o que pode causar uma proliferação celular descontrolada, levando ao desenvolvimento de cânceres como a leucemia ou linfoma de células T.",
+      "stepByStep": [
+        "Leia o enunciado e identifique que o HTLV-1 provoca aumento na produção de linfócitos T.",
+        "Entenda que a proliferação excessiva e descontrolada desses linfócitos pode levar a doenças proliferativas, como leucemias e linfomas, que são tipos de câncer.",
+        "Analise as alternativas e elimine aquelas que não estão relacionadas ao aumento de linfócitos, como AIDS, diabetes, hepatite B e hemorragia.",
+        "Conclua que a alternativa correta é câncer, pois está diretamente relacionada à proliferação anormal de linfócitos causada pelo HTLV-1."
+      ],
+      "commonPitfalls": [
+        "Confundir HTLV-1 com HIV e associar o vírus ao desenvolvimento de AIDS, mesmo que só o HIV cause essa doença.",
+        "Associar erroneamente a proliferação viral à diabetes ou hepatite B, apesar dessas doenças não terem relação com linfócitos T.",
+        "Pensar que o aumento de linfócitos pode causar hemorragia, confundindo tipos de distúrbios hematológicos."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre os efeitos do HTLV-1 e do HIV nas células do sistema imune.",
+        "Use exemplos para mostrar que o crescimento descontrolado de células pode levar ao câncer.",
+        "Estimule a prática de eliminar alternativas pelas características do agente causal e seus resultados.",
+        "Reforce o conceito de que diferentes vírus, mesmo com características semelhantes, podem causar doenças distintas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1483,
+    "outputTokens": 363,
+    "estimatedCostUsd": 0.001174
+  }
+}

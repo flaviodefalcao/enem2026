@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:28:21.956Z",
+  "questionId": "enem-2024-ciencias-natureza-q108",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular quanto de bauxita deixou de ser extraída devido à reciclagem, primeiro determinamos a massa de alumínio reciclado a partir da porcentagem dada. Depois, multiplicamos essa massa por 5, já que são necessários 50 kg de bauxita para produzir 10 kg de alumínio, para obter a massa de bauxita economizada.",
+      "stepByStep": [
+        "Identifique a massa total de latas vendidas: 4,0 × 10⁵ toneladas.",
+        "Calcule a massa de latas recicladas aplicando o índice de reciclagem: 0,974 × 4,0 × 10⁵ = 3,896 × 10⁵ toneladas de alumínio.",
+        "Use a proporção dada para converter a massa de alumínio reciclado em bauxita economizada: para cada 10 kg de alumínio, são necessários 50 kg de bauxita, ou seja, multiplique a massa de alumínio por 5.",
+        "Multiplique: 3,896 × 10⁵ × 5 = 1,948 × 10⁶ toneladas de bauxita economizadas.",
+        "Arredonde para o valor mais próximo das opções apresentadas, que é 1,9 × 10⁶ toneladas.",
+        "Conclua que a alternativa correta é a opção D."
+      ],
+      "commonPitfalls": [
+        "Confundir a unidade de massa ou não converter corretamente quilogramas em toneladas.",
+        "Considerar apenas a massa de alumínio reciclado sem multiplicar pela proporção necessária de bauxita.",
+        "Esquecer de aplicar o percentual de reciclagem, usando a massa total de latas vendidas como se tudo tivesse sido reciclado.",
+        "Fazer arredondamentos incorretos antes de calcular a massa final de bauxita, causando erro na ordem de grandeza."
+      ],
+      "teachingTips": [
+        "Reforce a importância de ler atentamente os dados percentuais e entender o que eles significam para o cálculo.",
+        "Explique a relação entre bauxita e alumínio na produção para que os alunos entendam por que multiplicamos a massa reciclada por 5.",
+        "Mostre como trabalhar com notação científica facilita o cálculo em grandes massas e evita erros de escala.",
+        "Estimule os estudantes a fazerem uma checagem lógica dos resultados para perceber se o valor faz sentido diante das grandezas envolvidas.",
+        "Use questões semelhantes para praticar a aplicação de porcentagens, proporções e unidades em problemas ambientais e industriais."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1614,
+    "outputTokens": 514,
+    "estimatedCostUsd": 0.001468
+  }
+}

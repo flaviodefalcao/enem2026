@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:43:33.404Z",
+  "questionId": "enem-2024-ciencias-natureza-q135",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B apresenta o heredograma correto que representa uma mulher heterozigota portadora do gene recessivo do daltonismo ligado ao cromossomo X e um homem não daltônico, refletindo as probabilidades genéticas esperadas para os filhos, alinhada ao enunciado e às regras da herança ligada ao X.",
+        "strategy": "A estratégia foi analisar a herança recessiva ligada ao cromossomo X considerando as características genéticas do casal (homem não daltônico XY com X normal e mulher heterozigota X^N X^d) e as probabilidades de transmissão do gene para os filhos, construindo assim o heredograma compatível com esses dados.",
+        "steps": [
+          "Identificar a condição genética do homem como não daltônico (genótipo XY, com X normal).",
+          "Identificar a mulher como portadora heterozigota (X^N X^d).",
+          "Determinar as possibilidades genotípicas para as crianças conforme o cromossomo X herdado da mãe e o sexo da criança.",
+          "Concluir que filhos homens têm 50% de chance de serem daltônicos (se herdarem o X^d da mãe).",
+          "Filhas mulheres podem ser normais (X^N X^N), portadoras heterozigotas (X^N X^d) ou daltônicas (X^d X^d).",
+          "Comparar os heredogramas disponíveis e selecionar o único que respeita essas probabilidades e características genéticas.",
+          "Confirmar que a alternativa B é aquela que melhor representa essa situação genética."
+        ],
+        "formulasUsed": [
+          "Probabilidade filho homem daltônico = 1/2.",
+          "Uso básico de genética de herança ligada ao cromossomo X."
+        ],
+        "visualEvidenceUsed": [
+          "Imagem do heredograma da alternativa B contendo símbolos indicativos de mulheres heterozigotas, homens normais e possibilidade dos filhos.",
+          "Gráficos e fórmulas apresentadas apenas na alternativa B compatíveis com a relação de alelos e probabilidades esperadas."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O daltonismo é uma herança recessiva ligada ao cromossomo X, que afeta mais homens porque eles têm apenas um cromossomo X. Uma mulher portadora tem um X normal e um X com o gene recessivo. A probabilidade do bebê ser daltônico depende do sexo e da combinação dos alelos herdados dos pais.",
+        "stepByStep": [
+          "Reconhecer que o daltonismo é recessivo ligado ao cromossomo X.",
+          "Entender que homens possuem XY, logo manifestam o fenótipo se herdarem X^d.",
+          "Mulher portadora tem genótipo heterozigoto X^N X^d e não manifesta o fenótipo.",
+          "Para menino: herda Y do pai e pode herdar X^N ou X^d da mãe, com 50% de chance de ser daltônico.",
+          "Para menina: pode ser normal (X^N X^N), portadora (X^N X^d) ou daltônica (X^d X^d).",
+          "Construir o heredograma considerando essas probabilidades.",
+          "Comparar as alternativas do heredograma e selecionar a que corretamente mostra essas informações."
+        ],
+        "commonPitfalls": [
+          "Confundir herança ligada ao cromossomo X com herança autossômica.",
+          "Ignorar que homens só têm um X e manifestam a condição se herdarem o alelo recessivo.",
+          "Interpretar erroneamente as chances para as filhas serem portadoras ou afetadas.",
+          "Trocar os símbolos dos alelos e cromossomos no heredograma.",
+          "Não considerar probabilidades corretas para cada descendente."
+        ],
+        "teachingTips": [
+          "Use exemplos visuais explicitando cromossomos e probabilidades.",
+          "Reforce que em herança ligada ao X, homens são mais afetados.",
+          "Pratique com diferentes genótipos parentais para aprender as probabilidades.",
+          "Explique a diferença fenótipo-genótipo e a importância da mulher portadora.",
+          "Associe diagramas e gráficos a conceitos genéticos para maior compreensão."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Poderiam ter confundido as fórmulas e probabilidades associadas à herança ligada ao X, associando a fórmula incorreta d(Q) = 1/4 d(R).",
+          "misconceptionType": "Erro conceitual na relação entre probabilidades e representação gráfica.",
+          "whyItLooksPlausible": "Possui elementos gráficos e fórmulas que parecem corretas para relação de alelos, mas a proporção está incorreta.",
+          "whyItIsWrong": "A relação entre d(Q) e d(R) deve ser 1/2 nesta configuração, não 1/4."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Erro na interpretação das probabilidades, supõe que a relação correta seja 3/4, que é típica em herança autossômica recessiva, não ligada ao X.",
+          "misconceptionType": "Confusão entre tipos de herança genética e probabilidades associadas.",
+          "whyItLooksPlausible": "Apresenta fórmulas e gráficos coerentes no geral, mas erradas para o contexto genético da questão.",
+          "whyItIsWrong": "A probabilidade para homem daltônico não é 3/4, e fórmula não condiz com a configuração genética para herança ligada ao cromossomo X."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Erra a escolha do gráfico e a dedução da fórmula para relação de densidades, levando a associação incorreta entre dados e genética.",
+          "misconceptionType": "Interpretação incorreta da genética ligada ao X e das representações gráficas associadas.",
+          "whyItLooksPlausible": "Apresenta gráficos razoáveis e fórmulas que parecem adequadas, porém incompatíveis com o modelo genético correto.",
+          "whyItIsWrong": "Fórmula incorreta e gráfico não se alinham com o padrão da herança recessiva ligada ao X."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Possível ignorância do princípio genético do daltonismo e aplicação de fórmulas sem relação com a questão principal.",
+          "misconceptionType": "Desconhecimento dos princípios básicos da genética ligada ao X aplicados no problema.",
+          "whyItLooksPlausible": "Contém elementos técnicos, fórmulas e gráficos que parecem complexos e adequados.",
+          "whyItIsWrong": "As fórmulas e os gráficos apresentados não correspondem à genética do daltonismo recessivo ligado ao X e às probabilidades deles."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Genética - Herança ligada ao cromossomo X",
+        "secondarySkills": [
+          "Interpretação de heredogramas",
+          "Análise de gráficos",
+          "Raciocínio lógico-matemático"
+        ],
+        "cognitiveDemand": "Análise e compreensão",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Envolve a interpretação correta da genética ligada ao cromossomo X e herança recessiva.",
+          "É necessário relacionar heredogramas, probabilidades genéticas e representações gráficas.",
+          "Distratores baseiam-se em confusões com fórmulas, gráficos e interpretação genética."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Herança Recessiva Ligada ao Cromossomo X",
+        "interpretationIntro": "O enunciado propõe identificar o heredograma que representa corretamente a genética de um casal formado por um homem não daltônico e por uma mulher portadora heterozigota do gene recessivo para daltonismo ligado ao cromossomo X, e suas possíveis crianças.",
+        "commandTerms": [
+          {
+            "term": "Herança recessiva ligada ao X",
+            "explanation": "Transmissão genética onde o gene mutado está no cromossomo X, e só se manifesta em homens ou mulheres homozigotas recessivas."
+          },
+          {
+            "term": "Heredograma",
+            "explanation": "Representação gráfica dos padrões de herança genética em uma família."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão solicita identificar qual dentre as alternativas apresenta o heredograma que de modo correto representa os possíveis genótipos e fenótipos dos filhos de um casal no contexto do daltonismo, uma condição recessiva ligada ao cromossomo X.",
+        "strategyParagraph": "Para responder, é necessário aplicar o conhecimento de genética ligado ao cromossomo X, especialmente as características da herança recessiva. Sabendo que o homem tem X normal (não daltônico) e a mulher é heterozigota portadora, a análise das possibilidades genotípicas e fenotípicas dos filhos e suas probabilidades permite selecionar o heredograma que mais condiz com essas informações.",
+        "reviewTable": [
+          {
+            "concept": "Herança Recessiva Ligada ao Cromossomo X",
+            "keyIdea": "Homens só precisam de um alelo recessivo no X para manifestar a característica; mulheres precisam ser homozigotas recessivas.",
+            "application": "Mostra por que há mais homens daltônicos e como mulheres portadoras influenciam os filhos."
+          },
+          {
+            "concept": "Heredogramas e Probabilidades",
+            "keyIdea": "Indicadores visuais e símbolos traduzem os genótipos e fenótipos na família.",
+            "application": "Analisar as alternativas para identificar aquela que melhor representa as combinações possíveis do casal."
+          }
+        ],
+        "theoryParagraphs": [
+          "O daltonismo é causado por um gene recessivo ligado ao cromossomo X. Como os homens possuem apenas um cromossomo X, a presença do gene recessivo manifesta o fenótipo daltônico. As mulheres possuem dois cromossomos X, portanto precisam herdar duas cópias do gene recessivo para manifestar a condição.",
+          "No caso de um casal onde o homem não é daltônico (possui X normal) e a mulher é heterozigota portadora (X^N X^d), as possibilidades para os filhos dependem do cromossomo X que a mãe transmite e o sexo da criança. Os meninos podem ser normais ou daltônicos, com 50% de chance para cada, enquanto as meninas podem ser normais, portadoras ou, muito raramente, daltônicas se herdarem ambos recessivos."
+        ],
+        "resolutionParagraphs": [
+          "Passo 1: Identificamos que o homem tem um cromossomo X normal e um cromossomo Y, portanto não é daltônico.",
+          "Passo 2: A mulher é portadora heterozigota, com um cromossomo X normal (X^N) e um com gene recessivo para daltonismo (X^d).",
+          "Passo 3: Para os filhos homens (XY), a chance de herdarem o X^d da mãe e serem daltônicos é de 50%, pois herdam o cromossomo Y do pai.",
+          "Passo 4: Para as filhas (XX), existem três possibilidades: normais (X^N X^N), portadoras heterozigotas (X^N X^d), e raramente daltônicas (X^d X^d).",
+          "Passo 5: Analisando os heredogramas, apenas a alternativa B representa corretamente essas possibilidades genéticas e probabilidades, mostrando a mulher heterozigota portadora, o homem não daltônico e os filhos com os genótipos esperados.",
+          "Passo 6: Portanto, a alternativa B está correta porque representa fielmente o padrão de herança recessiva ligada ao X para daltonismo do casal em questão."
+        ],
+        "puloDoGato": "Lembre que em herança ligada ao X, homens têm apenas um alelo, manifestando o fenótipo se o gene for recessivo; mulheres precisam ser homozigotas recessivas para manifestar. Isso simplifica a análise do heredograma.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Apresenta fórmula incorreta para a relação d(Q) e d(R) e gráficos incompatíveis com o padrão genético de daltonismo, o que invalida o heredograma apresentado."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Corresponde corretamente ao heredograma esperado com uma mulher heterozigota e um homem não daltônico, mostra as probabilidades corretas e as representações visuais compatíveis."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "A fórmula e o gráfico apresentados não condizem com as probabilidades e padrões da herança recessiva ligada ao cromossomo X."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Embora contenha elementos gráficos razoáveis, apresenta fórmula incorreta e um padrãode herança errôneo para o daltonismo."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Contém elementos técnicos e gráficos complexos, porém não relacionados à genética da questão e apresenta fórmulas erradas."
+          }
+        ],
+        "questionCode": "CN_GENETICA_HEREDOGRAMA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução técnica está correta e bem fundamentada, com coerência clara entre enunciado, solução e explicação didática. A resolução oficial foi construída com linguagem clara e didática, contemplando os aspectos principais da questão e explicações das alternativas. Não foram encontrados inconsistências ou problemas relevantes.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 22569,
+    "outputTokens": 2747,
+    "estimatedCostUsd": 0.013423
+  }
+}

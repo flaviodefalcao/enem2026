@@ -1,0 +1,190 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:30:24.854Z",
+  "questionId": "enem-2024-ciencias-natureza-q109",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A configuração em paralelo com resistor em cada ramo garante que cada LED opere com a tensão e corrente máxima especificadas, conforme cálculo de resistência e propriedades dos LEDs.",
+        "strategy": "Determinar a tensão e corrente de funcionamento dos LEDs, calcular resistor para limitar corrente, e escolher montagem em paralelo para manter tensão constante em cada LED.",
+        "steps": [
+          "Identificar os parâmetros dados: bateria 4,5 V, LEDs com tensão 3,0 V e corrente máxima 1,0 mA, resistores de 1,5 kΩ.",
+          "Calcular resistor necessário para limitar corrente em cada LED: R = (4,5 - 3,0) / 0,001 = 1,5 kΩ.",
+          "Verificar opções de conexão para garantir que cada LED receba tensão e corrente adequadas.",
+          "Descartar circuito em série pela tensão insuficiente para dois LEDs em série (6,0 V > 4,5 V).",
+          "Selecionar configuração em paralelo com resistor em cada ramo (alternativa B), que assegura 3 V em cada LED e corrente máxima controlada.",
+          "Confirmar que as outras alternativas não atendem a essas condições, seja por falta de resistor, polaridade incorreta ou configuração errada."
+        ],
+        "formulasUsed": [
+          "R = (V_bateria - V_LED) / I_máx"
+        ],
+        "visualEvidenceUsed": [
+          "Símbolo do LED indicando sentido correto da corrente.",
+          "Circuito da alternativa B mostrando LEDs em paralelo com resistores individualmente."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para que dois LEDs funcionem corretamente e acendam, é necessário que cada um receba uma tensão mínima de 3 V e uma corrente controlada de 1 mA. Isso é alcançado conectando-os em paralelo, com um resistor de 1,5 kΩ em série com cada LED para limitar a corrente, utilizando uma bateria de 4,5 V.",
+        "stepByStep": [
+          "Identifique a tensão da bateria de 4,5 V.",
+          "Reconheça os parâmetros dos LEDs: tensão de funcionamento 3,0 V e corrente máxima de 1,0 mA.",
+          "Calcule o resistor necessário para limitar a corrente no circuito: R = (4,5 V - 3,0 V) / 1,0 mA = 1,5 kΩ.",
+          "Conecte os LEDs em paralelo, cada um com seu resistor, para garantir a correta tensão e corrente para ambos.",
+          "Analise as alternativas e veja que apenas a B apresenta esta configuração correta.",
+          "Descartar outras configurações por apresentarem problemas de tensão, corrente ou disposição dos componentes."
+        ],
+        "commonPitfalls": [
+          "Ignorar a função do resistor e conectar LEDs diretamente à bateria, causando sobrecorrente e possível queima.",
+          "Montar LEDs em série sem tensão suficiente para acendê-los.",
+          "Conectar LEDs com polaridade invertida, impedindo seu funcionamento.",
+          "Colocar LEDs em paralelo sem resistores individuais, resultando em correntes desiguais e dano potencial aos LEDs."
+        ],
+        "teachingTips": [
+          "Explique o papel fundamental do resistor na proteção dos LEDs.",
+          "Mostre a diferença entre ligações em série e paralelo quanto à tensão e à corrente.",
+          "Use a Lei de Ohm para relacionar tensão, corrente e resistência e calcule valores práticos.",
+          "Destaque a importância da polaridade em dispositivos semicondutores, como os LEDs.",
+          "Incentive o uso de experimentos práticos para visualizar o efeito de diferentes conexões."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Considerar que LEDs em paralelo sem resistores limitarão a corrente corretamente.",
+          "misconceptionType": "Ignorar necessidade de resistor para limitar corrente.",
+          "whyItLooksPlausible": "Parece que a tensão da bateria é suficiente para acender os LEDs em paralelo.",
+          "whyItIsWrong": "Sem resistor, a corrente não é controlada, podendo danificar os LEDs."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Não observar o sentido correto da corrente nos LEDs, levando a polaridade invertida.",
+          "misconceptionType": "Desconsiderar a polaridade dos LEDs.",
+          "whyItLooksPlausible": "Parece ser uma configuração com resistores em paralelo que limitariam corrente.",
+          "whyItIsWrong": "LED com polaridade invertida não permite fluxo de corrente e não acende."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que LEDs em série com resistores podem funcionar mesmo com tensão menor do que a soma das tensões dos LEDs.",
+          "misconceptionType": "Confundir características da ligação em série para LEDs.",
+          "whyItLooksPlausible": "Circuito simples de montar e parece adequado linearmente.",
+          "whyItIsWrong": "A tensão da bateria (4,5 V) é insuficiente para a soma da tensão dos dois LEDs (6,0 V), portanto não acendem."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Confundir a posição dos resistores e LEDs e sua influência em tensão e corrente.",
+          "misconceptionType": "Ignorar limites de corrente e tensão em cada ramo do circuito.",
+          "whyItLooksPlausible": "Componentes estão todos conectados e pode parecer funcional visualmente.",
+          "whyItIsWrong": "Configuração não garante que cada LED receba a tensão e corrente apropriadas para acender corretamente."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Eletricidade básica e análise de circuitos",
+        "secondarySkills": [
+          "Cálculo de resistência",
+          "Entendimento de dispositivos semicondutores"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Essencial compreender o funcionamento do LED e seu sentido de corrente.",
+          "Cálculo de resistor segundo Lei de Ohm é fundamental para limitar corrente.",
+          "Distinção clara entre conexões em série e paralelo no comportamento do circuito."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "💡",
+        "shortThemeTitle": "Funcionamento e ligação correta de LEDs",
+        "interpretationIntro": "A questão pede para identificar o circuito que permita que dois LEDs acendam simultaneamente com a corrente máxima especificada, considerando as características do LED e da bateria.",
+        "commandTerms": [
+          {
+            "term": "Ligar",
+            "explanation": "Conectar componentes em um circuito para que funcionem conforme especificado."
+          },
+          {
+            "term": "Corrente máxima",
+            "explanation": "Valor máximo de corrente suportado pelo LED para funcionar sem danos."
+          },
+          {
+            "term": "Tensão de funcionamento",
+            "explanation": "Diferença de potencial mínima necessária para que o LED acenda."
+          }
+        ],
+        "whatTheQuestionAsks": "Escolher, entre os circuitos apresentados, aquele que garante o acendimento de ambos os LEDs, cada um percorrido pela corrente máxima especificada (1,0 mA), com a tensão correta fornecida por uma bateria ideal de 4,5 V.",
+        "strategyParagraph": "Para resolver o problema, é necessário analisar a relação entre tensão, corrente e resistência, aplicando conceitos de associação de componentes em série e em paralelo. Devemos calcular o resistor adequado para limitar a corrente a 1,0 mA por LED e identificar o circuito que permita essa configuração sem causar danos aos LEDs ou impedir seu acendimento.",
+        "reviewTable": [
+          {
+            "concept": "LED",
+            "keyIdea": "Dispositivo semicondutor que conduz corrente em um sentido com tensão mínima para acender.",
+            "application": "Ensinar a polaridade do LED e a necessidade de respeitar sua tensão e corrente."
+          },
+          {
+            "concept": "Lei de Ohm",
+            "keyIdea": "Relaciona tensão, corrente e resistência: V = R·I.",
+            "application": "Calcular o resistor para limitar a corrente no circuito."
+          },
+          {
+            "concept": "Circuito em paralelo",
+            "keyIdea": "Em paralelo, a tensão é a mesma em cada ramo, enquanto a corrente se divide.",
+            "application": "Permite que cada LED receba a tensão da bateria individualmente, com resistor para corrente."
+          }
+        ],
+        "theoryParagraphs": [
+          "Um LED só acende quando a tensão aplicada nele é igual ou superior à sua tensão de funcionamento, neste caso 3,0 V, e quando a corrente está dentro do limite máximo especificado (1,0 mA).",
+          "Aplicando a Lei de Ohm, é possível calcular o valor da resistência que limita essa corrente quando o LED está conectado à fonte de tensão de 4,5 V. O resistor protege o LED contra sobrecorrentes que podem causar danos.",
+          "Para ligar dois LEDs simultaneamente e com funcionamento correto, a ligação em paralelo é a mais indicada, pois cada LED receberá a tensão total da fonte e terá sua corrente regulada individualmente pelo resistor no respetivo ramo."
+        ],
+        "resolutionParagraphs": [
+          "O estudante dispõe de bateria de 4,5 V, dois LEDs (3,0 V e 1,0 mA) e dois resistores de 1,5 kΩ. O primeiro passo é confirmar o valor do resistor necessário pelo cálculo R = (4,5 V - 3,0 V) / 0,001 A = 1,5 kΩ, correspondendo aos resistores disponíveis.",
+          "Para garantir que ambos os LEDs acendam corretamente e sejam atravessados por 1,0 mA, cada LED deve ter seu próprio resistor em série, com ligação dos dois conjuntos (LED + resistor) em paralelo entre os terminais da bateria. Isso assegura que cada LED receba a tensão de 4,5 V e que a corrente em cada ramo seja limitada a 1,0 mA.",
+          "Analisando as alternativas, apenas a letra B apresenta essa configuração correta, com cada LED em paralelo com seu respectivo resistor, garantindo as condições de funcionamento estabelecidas no enunciado."
+        ],
+        "puloDoGato": "Sempre associe LEDs em paralelo com resistores individuais para garantir corrente e tensão corretas; ligá-los em série sem tensão suficiente impede o acendimento.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Os LEDs estão em paralelo sem resistores individuais, o que não limita a corrente e pode causar danos aos LEDs."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Configuração em paralelo, com resistor de 1,5 kΩ em série com cada LED, atende a tensão e corrente máximas, fazendo os LEDs acenderem corretamente."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "LEDs estão invertidos (polaridade errada), impedindo o fluxo de corrente e seu acendimento."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "LEDs e resistores em série demandam tensão total de 6 V para acender, maior que a bateria de 4,5 V, então não acendem."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Configuração incorreta que não assegura corrente e tensão necessárias em cada LED; resistores não bem posicionados."
+          }
+        ],
+        "questionCode": "CIENCIAS_DA_NATUREZA_ELETRICIDADE_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solver e explainer estão coerentes e consistentes entre si, apresentando claramente a resposta correta e o raciocínio para ela. A resolução oficial está detalhada e didática, com explicações adequadas para o ENEM.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3611,
+    "outputTokens": 2690,
+    "estimatedCostUsd": 0.005748
+  }
+}

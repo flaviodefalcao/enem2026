@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:35:13.096Z",
+  "questionId": "enem-2024-ciencias-natureza-q100",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Quando um cilindro metálico oco é colocado entre duas placas carregadas com cargas opostas, as linhas de campo elétrico, que antes eram retas e paralelas, se desviam ao redor do cilindro, pois as linhas de campo não podem penetrar no condutor. O correto é observar o desvio das linhas sem que elas entrem no interior do cilindro, como mostrado na alternativa E.",
+      "stepByStep": [
+        "As placas A e B são condutores com cargas opostas, criando um campo elétrico uniforme com linhas retas e paralelas entre elas.",
+        "O farelo de milho no óleo mostra visualmente essas linhas de campo elétrico.",
+        "Inserir um cilindro metálico oco entre as placas adiciona um condutor interferindo no campo.",
+        "As linhas de campo elétrico não podem atravessar o condutor; portanto, elas se desviam e contornam o cilindro metálico.",
+        "Observar cada alternativa procurando a que mostra as linhas desviadas ao redor do cilindro, sem ultrapassar seu interior.",
+        "Concluir que a alternativa E apresenta o comportamento correto das linhas de campo elétrico na presença do cilindro metálico oco."
+      ],
+      "commonPitfalls": [
+        "Acreditar que as linhas de campo continuam retas e passam pelo cilindro metálico, como na alternativa A, ignorando as propriedades do condutor.",
+        "Pensar que o campo elétrico inverte sua direção ao colocar o cilindro, como na alternativa B, o que não acontece.",
+        "Interpretar as linhas com desvios incorretos e direções erradas, como na alternativa C.",
+        "Aceitar linhas cruzadas, como mostrado na alternativa D, sendo que linhas de campo elétrico nunca se cruzam."
+      ],
+      "teachingTips": [
+        "Enfatize que condutores não permitem a penetração de linhas de campo elétrico, por isso ocorre desvio das linhas ao redor do condutor.",
+        "Utilize analogias visuais, como fluxo de água desviando ao redor de obstáculos, para tornar o conceito mais intuitivo.",
+        "Incorpore experimentos simples ou simulações sobre campos elétricos para consolidar a compreensão do comportamento das linhas de campo.",
+        "Reforce que linhas de campo elétrico nunca se cruzam, sendo um conceito básico fundamental para interpretação gráfica em eletrostática.",
+        "Estimule os alunos a comparar cada alternativa criticamente com o conceito físico para identificar a correta representação do fenômeno."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2657,
+    "outputTokens": 493,
+    "estimatedCostUsd": 0.001852
+  }
+}

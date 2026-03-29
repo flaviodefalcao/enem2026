@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:29:14.342Z",
+  "questionId": "enem-2024-ciencias-natureza-q125",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O procedimento de imersão das espigas de milho em água fervente seguido de água gelada cria um choque térmico que desnatura as enzimas responsáveis por transformar a glicose em amido. Como essas enzimas ficam inativas, a glicose permanece, mantendo o sabor adocicado do milho.",
+      "stepByStep": [
+        "Entender que as enzimas do milho transformam a glicose em amido, diminuindo o sabor doce.",
+        "Saber que altas temperaturas, como a água fervente, causam a desnaturação (desativação) dessas enzimas.",
+        "Perceber que o choque térmico, alternando água quente e gelada, inibe a atividade enzimática sem degradar a glicose.",
+        "Concluir que ao bloquear a conversão enzimática, a glicose não vira amido, preservando o sabor adocicado.",
+        "Selecionar a alternativa que explica corretamente esse processo bioquímico e o efeito do choque térmico."
+      ],
+      "commonPitfalls": [
+        "Confundir o papel do calor e do frio, achando que o resfriamento é o que impede a conversão da glicose.",
+        "Pensar que o sabor doce é mantido por degradação ou eliminação de nutrientes em vez da inibição enzimática.",
+        "Associar a preservação do sabor à remoção de oxigênio ou oxidação, que não é o mecanismo principal.",
+        "Achar que o procedimento causa desidratação, quando na verdade as espigas são imersas em água.",
+        "Ignorar o papel específico das enzimas na transformação da glicose e como o calor afeta isso."
+      ],
+      "teachingTips": [
+        "Explique o conceito de enzimas e como elas facilitam reações químicas no organismo, como a conversão de glicose em amido.",
+        "Demonstre o efeito do calor na estrutura das enzimas (desnaturação) usando exemplos simples do cotidiano, como cozinhar ovos.",
+        "Mostre a importância do choque térmico para interromper processos biológicos sem danificar o alimento.",
+        "Promova discussões sobre conservação de alimentos relacionando bioquímica e técnicas térmicas.",
+        "Use analogias visuais ou práticas para ilustrar a ação enzimática e os efeitos da temperatura."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1229,
+    "outputTokens": 460,
+    "estimatedCostUsd": 0.001228
+  }
+}

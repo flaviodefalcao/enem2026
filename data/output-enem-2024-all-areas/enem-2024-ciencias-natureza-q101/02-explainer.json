@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:36:42.926Z",
+  "questionId": "enem-2024-ciencias-natureza-q101",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O grafeno, ao interagir com íons positivos da água da chuva (cátions), provoca o movimento de elétrons em sua superfície, gerando assim uma diferença de potencial elétrico que pode ser usada para produzir eletricidade mesmo em dias chuvosos.",
+      "stepByStep": [
+        "Leia atentamente o enunciado e observe que o grafeno é revestido sobre placas solares para gerar energia com gotas de chuva.",
+        "Observe a imagem e identifique as camadas: uma camada fina de água com íons positivos (Am+) e negativos (Bn−) e uma camada fina de grafeno com elétrons (e−).",
+        "Note que os íons positivos (Am+) atraem os elétrons na camada de grafeno, fazendo com que esses elétrons se movimentem ao longo da superfície do grafeno.",
+        "Esse movimento desigual dos elétrons cria uma diferença de potencial elétrico, ou seja, uma voltagem entre duas regiões.",
+        "A alternativa correta descreve essa geração de diferença de potencial causada pela interação entre os íons positivos na água e os elétrons no grafeno."
+      ],
+      "commonPitfalls": [
+        "Pensar que ocorre uma reação química de oxidação entre grafeno e íons da água, o que não ocorre aqui.",
+        "Achar que o grafeno atua como uma barreira física para a água, impedindo sua passagem.",
+        "Conceber que o grafeno funciona diminuindo a energia de ativação de uma reação química, ou seja, agir como catalisador neste contexto, o que não é o caso.",
+        "Interpretar que se forma um novo compósito químico entre o grafeno e os íons da água da chuva, o que não ocorre; trata-se de interação eletrostática."
+      ],
+      "teachingTips": [
+        "Use a imagem para explicar o conceito de diferença de potencial elétrica, destacando a interação entre íons e elétrons.",
+        "Reforce o conceito básico de íons e elétrons e como eles podem gerar corrente elétrica por movimento.",
+        "Utilize analogias simples, como o movimento de cargas elétricas gerando voltagem, para facilitar a compreensão da geração de eletricidade.",
+        "Esclareça a diferença entre reações químicas e fenômenos físicos de movimento de cargas para evitar confusões.",
+        "Promova atividades que envolvam interpretação de gráficos e imagens científicas para desenvolver habilidades de leitura e compreensão de textos técnicos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2106,
+    "outputTokens": 485,
+    "estimatedCostUsd": 0.001618
+  }
+}

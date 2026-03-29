@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:29:01.672Z",
+  "questionId": "enem-2024-ciencias-natureza-q125",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Transformações químicas",
+    "rationale": "A questão trata do processo de conservação do sabor do milho por meio do choque térmico que interfere na atividade enzimática, impedindo a conversão da glicose em amido. Isso envolve transformações químicas mediadas por enzimas, que são catalisadores biológicos, tema típico de reações químicas e suas cinéticas.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 799,
+    "outputTokens": 91,
+    "estimatedCostUsd": 0.000465
+  }
+}

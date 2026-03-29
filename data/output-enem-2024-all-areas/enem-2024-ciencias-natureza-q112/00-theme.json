@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:33:54.950Z",
+  "questionId": "enem-2024-ciencias-natureza-q112",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Química orgânica",
+    "rationale": "A questão aborda a identificação de um grupamento químico na molécula da nimesulida que reage em uma reação ácido-base conforme a teoria de Brönsted-Lowry. Isso exige conhecimento sobre os grupos funcionais de compostos orgânicos e suas propriedades químicas, focando na estrutura da substância e sua reatividade, o que se enquadra no tema Química, subtema Química orgânica.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1422,
+    "outputTokens": 107,
+    "estimatedCostUsd": 0.00074
+  }
+}

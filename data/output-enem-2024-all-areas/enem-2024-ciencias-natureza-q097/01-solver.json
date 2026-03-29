@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:31:36.921Z",
+  "questionId": "enem-2024-ciencias-natureza-q097",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta C é correta com base na observação do padrão de distribuição das células bacterianas nos tubos e no conhecimento sobre os tipos metabólicos dessas bactérias.",
+      "strategy": "Analisar a distribuição das bactérias em cada tubo de ensaio visando identificar o tipo de metabolismo energético: aeróbio estrito, anaeróbio estrito ou anaeróbio facultativo, com base na preferência por oxigênio para crescimento.",
+      "steps": [
+        "Observar o tubo 1: as bactérias estão concentradas na superfície, onde há maior disponibilidade de oxigênio, indicando que são aeróbias estritas, que necessitam de oxigênio para crescer.",
+        "Observar o tubo 2: as bactérias estão concentradas no fundo, onde o oxigênio é escasso, indicando que são anaeróbias estritas, que crescem apenas na ausência de oxigênio.",
+        "Observar o tubo 3: as bactérias estão distribuídas por todo o tubo, indicando que podem crescer tanto na presença quanto na ausência de oxigênio, caracterizando-se como anaeróbios facultativos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Presença de pontos no topo do tubo 1 indicando concentração na superfície (aeróbio estrito).",
+        "Presença de pontos no fundo do tubo 2 indicando concentração na ausência de oxigênio (anaeróbio estrito).",
+        "Distribuição uniforme dos pontos no tubo 3 indicando crescimento tanto na presença quanto na ausência de oxigênio (anaeróbio facultativo)."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir características de anaeróbios facultativos e anaeróbios estritos devido à má interpretação do padrão de crescimento nas áreas dos tubos.",
+        "misconceptionType": "Confusão conceitual sobre requisitos de oxigênio para o crescimento bacteriano.",
+        "whyItLooksPlausible": "Há crescimento no fundo do tubo 2, que poderia ser interpretado como anaeróbio estrito, mas a ordem com anaeróbio facultativo no tubo 1 não se ajusta à visualização.",
+        "whyItIsWrong": "O tubo 1 mostra crescimento apenas na superfície, indicando aeróbio estrito, não anaeróbio facultativo."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associar erroneamente o crescimento na parte superior do tubo 1 a anaeróbio facultativo, e no tubo 2 a aeróbio estrito.",
+        "misconceptionType": "Inversão das características metabólicas associadas à posição celular.",
+        "whyItLooksPlausible": "Presença de células no topo e embaixo dos tubos pode confundir a ordem dos tipos metabólicos.",
+        "whyItIsWrong": "O aeróbio estrito cresce no topo (tubo 1), não no meio (tubo 2), e anaeróbio estrito cresce no fundo (tubo 2), não no meio."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretar o tubo 1 como anaeróbio estrito e o tubo 3 como anaeróbio facultativo, baseando-se apenas na posição das bactérias sem relação correta com oxigênio.",
+        "misconceptionType": "Interpretação incorreta do padrão de crescimento em relação ao oxigênio.",
+        "whyItLooksPlausible": "O crescimento no topo do tubo 3 pode sugerir anaeróbio facultativo, mas a distribuição no tubo 1 não confere.",
+        "whyItIsWrong": "O anaeróbio estrito não cresce próximo ao oxigênio como mostrado no tubo 1."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confusão entre os metabólitos dos tubos 1 e 2 e a posição das bactérias dentro dos tubos.",
+        "misconceptionType": "Troca de conceitos relativos ao crescimento aeróbio e anaeróbio.",
+        "whyItLooksPlausible": "A presença de bactérias no topo do tubo 1 e distribuição no tubo 3 pode levar a esta interpretação errada.",
+        "whyItIsWrong": "O tubo 1 mostra características de aeróbio estrito e o tubo 3 de anaeróbio facultativo, não ao contrário."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de Experimentos Biológicos",
+      "secondarySkills": [
+        "Conhecimento em Microbiologia",
+        "Análise de Distribuição de Micro-organismos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A análise correta do padrão de distribuição das bactérias em relação à disponibilidade de oxigênio é fundamental para a resolução.",
+        "Conhecimento prévio sobre metabolismo aeróbio e anaeróbio é necessário.",
+        "A questão exige ligação entre conceito teórico e interpretação visual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 853,
+    "outputTokens": 976,
+    "estimatedCostUsd": 0.001903
+  }
+}

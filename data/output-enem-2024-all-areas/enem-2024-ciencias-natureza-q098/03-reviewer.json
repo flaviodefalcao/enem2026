@@ -1,0 +1,184 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:33:18.279Z",
+  "questionId": "enem-2024-ciencias-natureza-q098",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "Correta, pois a fosforescência resulta de transições eletrônicas em átomos ou íons dentro do material dopado, neste caso, o sulfeto de zinco dopado com prata ou cobre.",
+        "strategy": "Identificar qual fenômeno físico-químico está relacionado ao brilho observado na placa, relacionando o efeito de fosforescência com processos eletrônicos em átomos.",
+        "steps": [
+          "Ler o enunciado e observar a imagem da placa que brilha no escuro.",
+          "Compreender que o brilho é devido à fosforescência causada pelo sulfeto de zinco dopado com prata ou cobre.",
+          "Relacionar o fenômeno da fosforescência à absorção de energia luminosa e posterior emissão de luz por transições eletrônicas entre níveis energéticos.",
+          "Analisar as alternativas para identificar a que corresponde ao fenômeno físico correto. Emissão de brilho não é resultado de colisões interatômicas, coloração, reações nucleares ou reflexão.",
+          "Concluir que fosforescência é causada por transições eletrônicas. Portanto, a alternativa correta é C."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem da placa de saída de emergência que brilha no escuro, ilustrando o fenômeno descrito."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O brilho nas placas de saída de emergência acontece por fosforescência, um fenômeno em que o material absorve luz e depois libera essa energia em forma de luz visível por transições eletrônicas no sulfeto de zinco dopado com prata ou cobre.",
+        "stepByStep": [
+          "Leia o enunciado e observe a placa que brilha no escuro.",
+          "Identifique que o fenômeno descrito é a fosforescência, que ocorre por causas eletrônicas no material.",
+          "Entenda que o sulfeto de zinco, dopado com prata ou cobre, absorve luz durante o dia ou em luz ambiente.",
+          "Depois de absorver energia, o material libera essa energia lentamente, emitindo luz (brilho) mesmo após a luz ambiente cessar.",
+          "Diferencie fosforescência de outras causas possíveis, como reflexão, coloração, colisões atômicas ou reações nucleares, que não explicam o brilho contínuo observado.",
+          "Escolha a alternativa que relaciona o fenômeno ao processo de transições eletrônicas no material dopado."
+        ],
+        "commonPitfalls": [
+          "Confundir o brilho com colisões entre átomos, que não geram fosforescência.",
+          "Pensar que o brilho é apenas a cor dos átomos (coloração) e não emissão de luz.",
+          "Associar o fenômeno a reações nucleares, que não ocorrem nesse caso.",
+          "Achar que o brilho é resultado de reflexão da luz ambiente, quando na verdade é uma emissão própria pós-exposição."
+        ],
+        "teachingTips": [
+          "Explique claramente a diferença entre fosforescência e fluorescência, ressaltando o tempo de emissão luminosa.",
+          "Use exemplos de materiais fosforescentes para exemplificar a emissão prolongada de luz.",
+          "Mostre que o processo envolve níveis de energia dos elétrons para conectar a teoria à química e física.",
+          "Utilize a imagem da placa para contextualizar o fenômeno e facilitar a compreensão prática.",
+          "Estimule os alunos a pensar no que acontece com a energia absorvida após a exposição à luz, para entender a emissão lenta e contínua."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "O aluno pode pensar que o brilho vem de processos envolvendo interações entre átomos.",
+          "misconceptionType": "Confusão entre processos físicos microscópicos e químicos.",
+          "whyItLooksPlausible": "Colisões entre átomos podem transferir energia, mas não explicam a fosforescência.",
+          "whyItIsWrong": "A fosforescência decorre de transições eletrônicas, não de colisões interatômicas."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "O aluno associa o brilho à cor dos átomos.",
+          "misconceptionType": "Confundir coloração (absorção/reflexão de luz) com emissão de luz por transições eletrônicas.",
+          "whyItLooksPlausible": "Cores visíveis associadas a elementos químicos são familiares para estudantes.",
+          "whyItIsWrong": "O brilho de fosforescência é uma emissão luminosa, não apenas coloração."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "O aluno pode imaginar que ocorreram reações nucleares na placa para produzir energia luminosa.",
+          "misconceptionType": "Erro conceitual quanto ao processo físico- químico e nuclear.",
+          "whyItLooksPlausible": "Reações nucleares liberam muita energia e podem causar brilho.",
+          "whyItIsWrong": "Não há reação nuclear no fenômeno de fosforescência que é eletrônico e não nuclear."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "O aluno pode pensar que o brilho é devido à reflexão da luz ambiente.",
+          "misconceptionType": "Confundir emissão própria de luz com reflexão.",
+          "whyItLooksPlausible": "Reflexão pode fazer superfícies parecerem brilhantes.",
+          "whyItIsWrong": "O brilho ocorre após a luz ambiente cessar, indicando emissão de luz própria (fosforescência) e não reflexão."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Fenômenos físicos ópticos e eletrônicos",
+        "secondarySkills": [
+          "Interpretação de fenômenos físicos",
+          "Conhecimento sobre propriedades ópticas de materiais",
+          "Identificação de processos de luminescência"
+        ],
+        "cognitiveDemand": "Mediano",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão requer entendimento do fenômeno de fosforescência que envolve transições eletrônicas.",
+          "Uso da imagem serve para ilustrar o contexto e reforçar o entendimento do fenômeno.",
+          "Não é necessária fórmula matemática para responder, mas compreensão teórica do processo."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "💡",
+        "shortThemeTitle": "Fosforescência e Transições Eletrônicas",
+        "interpretationIntro": "A questão requer identificar a causa do brilho em placas que brilham no escuro após exposição à luz ambiente, fenômeno observado como fosforescência.",
+        "commandTerms": [
+          {
+            "term": "Fosforescência",
+            "explanation": "Emissão prolongada de luz após absorção de energia, devido a transições eletrônicas."
+          },
+          {
+            "term": "Transições eletrônicas",
+            "explanation": "Mudança de níveis de energia em elétrons que pode resultar em emissão de luz."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pergunta qual é o fenômeno físico responsável pelo brilho nas placas de saída de emergência que brilham no escuro.",
+        "strategyParagraph": "Para resolver, deve-se relacionar a descrição do fenômeno à fosforescência e reconhecer que a emissão de luz ocorre por transições eletrônicas em um material dopado, descartando outras possibilidades como reflexão, coloração simples, reações nucleares ou colisões atômicas.",
+        "reviewTable": [
+          {
+            "concept": "Fosforescência",
+            "keyIdea": "Emissão luminosa prolongada após absorção de luz",
+            "application": "Explica o brilho em placas após cessar iluminação ambiental."
+          },
+          {
+            "concept": "Transições eletrônicas",
+            "keyIdea": "Elétrons mudam de nível energético emitindo fótons",
+            "application": "Base do fenômeno de emissão luminosa observado."
+          },
+          {
+            "concept": "Dopagem de materiais",
+            "keyIdea": "Inserção de átomos para modificar propriedades ópticas",
+            "application": "Sulfeto de zinco dopado com prata ou cobre apresenta fosforescência."
+          }
+        ],
+        "theoryParagraphs": [
+          "A fosforescência é um fenômeno físico-químico em que certos materiais absorvem energia luminosa e a liberam lentamente na forma de luz, devido a transições eletrônicas de elétrons que permanecem em estados excitados por algum tempo antes de retornar ao estado fundamental.",
+          "No caso concreto, o sulfeto de zinco dopado com prata ou cobre possui níveis energéticos modificados que possibilitam essa emissão prolongada, característica explorada em placas que brilham no escuro para sinalização de emergência.",
+          "Esse processo difere de fluorescência por durar mais tempo após cessar a fonte de luz e não se relaciona com reações nucleares, reflexão, coloração simples ou ocorrências de colisões atômicas, que são fenômenos distintos e não produzem o brilho prolongado observado."
+        ],
+        "resolutionParagraphs": [
+          "Começa-se por reconhecer que o fenômeno descrito é a fosforescência, evidenciada pelo brilho prolongado após a exposição à luz ambiente.",
+          "Entende-se que essa emissão luminosa ocorre pelo retorno dos elétrons a níveis mais estáveis, emitindo fótons visíveis na cor amarelo-esverdeada mencionada.",
+          "Ao analisar as alternativas, descartam-se aquelas que apontam para processos incorretos como colisões entre átomos (A), simples absorção/reflexão de luz (B e E) e reações nucleares (D).",
+          "A alternativa correta é a que indica que o brilho resulta de transições eletrônicas internas ao material dopado, fenômeno físico responsável pela fosforescência detectada (C)."
+        ],
+        "puloDoGato": "Lembre-se: fosforescência é luz emitida após absorver energia, por transições eletrônicas que retardam a emissão, não é reflexão nem processo nuclear.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque colisões entre átomos não provocam emissão luminosa prolongada como na fosforescência."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada pois a cor dos átomos não é a causa do brilho; o fenômeno baseia-se na emissão luminosa, não apenas na coloração."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Correta; fosforescência é causada por transições eletrônicas em materiais dopados, como o sulfeto de zinco com prata ou cobre."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errada, pois o fenômeno não envolve reações nucleares, mas sim processos eletrônicos em níveis de energia."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o brilho ocorre após cessar a luz ambiente, não é reflexo, mas emissão luminosa própria."
+          }
+        ],
+        "questionCode": "CN_FISICA_FENOMENOS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução, explicação didática e resolução oficial estão coerentes entre si. A questão está clara, as alternativas foram corretamente analisadas e o fenômeno explicado com base no conteúdo científico adequado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2989,
+    "outputTokens": 2209,
+    "estimatedCostUsd": 0.00473
+  }
+}

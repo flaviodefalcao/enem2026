@@ -1,0 +1,180 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:32:01.969Z",
+  "questionId": "enem-2024-ciencias-natureza-q127",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "Correta",
+        "strategy": "Analisar o fluxograma fornecido para entender como a urbanização leva a riscos à saúde humana, identificando as etapas intermediárias e a consequência da redução da biodiversidade aquática, o que está relacionado à diminuição dos predadores naturais dos mosquitos.",
+        "steps": [
+          "Identificar a sequência do fluxograma: Urbanização → Ausência de saneamento básico → Contaminação da água → Redução da biodiversidade aquática → Riscos para a saúde humana.",
+          "Compreender que a redução da biodiversidade aquática inclui a diminuição da população de predadores naturais dos mosquitos vetores de doenças.",
+          "Entender que a diminuição desses predadores aumenta a população de mosquitos, elevando o risco de transmissão de arboviroses, que afetam a saúde humana.",
+          "Comparar as alternativas com as informações do fluxograma para verificar qual corresponde à causa do aumento do risco identificado."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Fluxograma que mostra relação entre urbanização, ausência de saneamento básico, contaminação da água, redução da biodiversidade aquática e riscos para a saúde humana."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A urbanização, ao gerar ausência de saneamento básico, contamina a água e reduz a biodiversidade aquática, incluindo os predadores naturais dos mosquitos, o que aumenta os riscos de doenças transmitidas por esses insetos e afeta a saúde humana.",
+        "stepByStep": [
+          "Identifique no fluxograma que a urbanização leva à ausência de saneamento básico.",
+          "Observe que essa ausência causa contaminação da água.",
+          "Note que a contaminação da água reduz a biodiversidade aquática, incluindo predadores naturais dos mosquitos.",
+          "Entenda que com menos predadores, a população de mosquitos cresce, elevando o risco de doenças como chikungunya e zika.",
+          "Isso gera riscos para a saúde humana, conectando a urbanização a esses problemas de saúde."
+        ],
+        "commonPitfalls": [
+          "Confundir doenças transmitidas por mosquitos (arboviroses) com verminoses, que têm outros modos de transmissão.",
+          "Associar incorretamente a redução da biodiversidade a processos como eutrofização sem relação direta apresentada no fluxograma.",
+          "Focar nos coliformes como principal causa da doença, quando o foco está nos predadores naturais dos mosquitos.",
+          "Pensar que o risco aumenta apenas pela proximidade das pessoas com áreas de mosquitos, ignorando o papel da biodiversidade aquática."
+        ],
+        "teachingTips": [
+          "Use o fluxograma para guiar a compreensão do impacto da urbanização e a cadeia de causas.",
+          "Explique o papel da biodiversidade aquática na regulação das populações de mosquitos.",
+          "Traga exemplos reais de como a falta de saneamento básico afeta a saúde pública.",
+          "Incentive os alunos a relacionar conceitos de ecologia com saúde pública para formar uma visão integradora."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confundir doenças transmitidas por mosquitos com verminoses, que são parasitoses intestinais transmitidas por outros meios.",
+          "misconceptionType": "Confusão conceitual",
+          "whyItLooksPlausible": "Doenças transmitidas por vetores são associadas a parasitas, o que pode levar à associação errada com verminoses.",
+          "whyItIsWrong": "O texto e o fluxograma focam em arboviroses transmitidas por mosquitos, não verminoses."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Associar urbanização e poluição com eutrofização de lagoas, que ocorre pelo excesso de nutrientes em corpos d'água.",
+          "misconceptionType": "Generalização indevida",
+          "whyItLooksPlausible": "A contaminação da água pode gerar eutrofização, o que é um problema ambiental conhecido em ambientes urbanos.",
+          "whyItIsWrong": "Embora a urbanização possa causar eutrofização, o fluxograma especificamente destaca a redução da biodiversidade aquática e riscos para a saúde humana, sem mencionar eutrofização."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que a contaminação da água aumenta coliformes, que são indicadores de contaminação fecal.",
+          "misconceptionType": "Foco incorreto",
+          "whyItLooksPlausible": "Coliformes em água contaminada podem causar doenças, ligando-os à saúde humana em áreas urbanas.",
+          "whyItIsWrong": "O fluxograma destaca a biodiversidade aquática e predadores de mosquitos, não a presença de coliformes."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Associar urbanização com aproximação das pessoas às áreas onde mosquitos podem ocorrer, aumentando o contato.",
+          "misconceptionType": "Interpretação incorreta da relação causal",
+          "whyItLooksPlausible": "O aumento do contato entre pessoas e mosquitos é um fator que influencia epidemias de arboviroses.",
+          "whyItIsWrong": "O fluxograma destaca a redução da biodiversidade aquática, que leva à diminuição dos predadores naturais dos mosquitos, ampliando riscos, não simplesmente a proximidade das pessoas às áreas com mosquitos."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto e gráficos relacionados a biologia e saúde pública",
+        "secondarySkills": [
+          "Raciocínio causal",
+          "Conhecimentos de ecologia e biologia"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige interpretar um fluxograma para entender os impactos ambientais da urbanização na saúde humana.",
+          "É necessário conhecimento básico sobre ecologia (biodiversidade e predadores naturais) e doenças transmitidas por mosquitos.",
+          "Distratores envolvem confusões maduras que exigem atenção à relação entre os diferentes conceitos."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Impactos da Urbanização na Saúde Pública",
+        "interpretationIntro": "Esta questão solicita a análise de um fluxograma que relaciona a urbanização a riscos para a saúde humana, especialmente através da cadeia de eventos até a redução da biodiversidade aquática e sua influência na transmissão de arboviroses.",
+        "commandTerms": [
+          {
+            "term": "Analisar",
+            "explanation": "Examinar o fluxograma para compreender as relações causais apresentadas."
+          },
+          {
+            "term": "Relacionar",
+            "explanation": "Conectar os conceitos de urbanização, saneamento, biodiversidade e saúde humana."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar, a partir do fluxograma, como a urbanização contribui para o aumento dos riscos à saúde humana, especialmente relacionados a doenças transmitidas por mosquitos.",
+        "strategyParagraph": "Para responder, é fundamental acompanhar a sequência do fluxograma e entender como a ausência de saneamento causada pela urbanização leva à contaminação da água, que por sua vez reduz a biodiversidade aquática. Essa redução implica em menos predadores naturais dos mosquitos, aumentando o risco de transmissão de doenças, o que configura o impacto sobre a saúde humana evidenciado na questão.",
+        "reviewTable": [
+          {
+            "concept": "Urbanização e saneamento básico",
+            "keyIdea": "Urbanização sem saneamento básico causa contaminação da água",
+            "application": "Fluxograma mostra relação direta entre urbanização e ausência de saneamento, levando à contaminação."
+          },
+          {
+            "concept": "Biodiversidade aquática",
+            "keyIdea": "Redução da biodiversidade diminui predadores naturais dos mosquitos",
+            "application": "Contaminação da água reduz biodiversidade, aumentando a população de mosquitos."
+          },
+          {
+            "concept": "Transmissão de arboviroses",
+            "keyIdea": "Menos predadores naturais aumenta riscos de doenças transmitidas por mosquitos",
+            "application": "Aumenta-se a probabilidade de epidemias como chikungunya e zika na população."
+          }
+        ],
+        "theoryParagraphs": [
+          "A urbanização desordenada, quando associada à ausência de saneamento básico, resulta na contaminação da água, afetando diretamente os ecossistemas aquáticos. Este desequilíbrio diminui a biodiversidade, especialmente os predadores naturais dos mosquitos, que são vetores de importantes arboviroses.",
+          "A redução dos predadores aquáticos permite o crescimento descontrolado das populações de mosquitos, aumentando a incidência e disseminação de doenças como chikungunya, zika e dengue, que representam ameaças significativas à saúde pública em áreas urbanas.",
+          "Portanto, o controle dessas doenças depende não apenas de ações sanitárias e médicas, mas também da manutenção dos ecossistemas aquáticos e da biodiversidade, evidenciando a importância das interações ambientais para a saúde humana."
+        ],
+        "resolutionParagraphs": [
+          "Analisando o fluxograma, observa-se que a urbanização leva à ausência de saneamento básico, o que resulta na contaminação das águas urbanas.",
+          "Essa contaminação causa uma redução na biodiversidade aquática, afetando especialmente os predadores naturais dos mosquitos que transmitem arboviroses.",
+          "Com menos predadores, a população de mosquitos cresce, o que aumenta os riscos para a saúde humana, evidenciando o impacto negativo da urbanização sem controle sanitário.",
+          "Dessa forma, a alternativa que aponta para a redução da biodiversidade aquática e seus efeitos na saúde humana (alternativa D) está correta, pois representa o caminho causal apresentado no fluxograma."
+        ],
+        "puloDoGato": "Conecte a ausência de saneamento à perda de predadores naturais e ao aumento de mosquitos para entender por que a urbanização agrava doenças transmitidas por insetos.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Errada. Mistura doenças transmitidas por mosquitos com verminoses, que não têm relação com a transmissão vetorial apresentada."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada. Embora a eutrofização seja um problema ambiental, não é abordada no fluxograma ou na relação direta com os riscos à saúde da questão."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errada. A presença de coliformes não é o foco do fluxograma; o principal é a redução da biodiversidade e o aumento dos mosquitos."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta. Descreve corretamente a cadeia causal da urbanização até o aumento do risco à saúde humana por meio da redução da biodiversidade aquática."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada. Aproximação das pessoas aos mosquitos não é citada; o problema destacado é a diminuição dos predadores naturais que controlam a população dos mosquitos."
+          }
+        ],
+        "questionCode": "CN_BIO_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solver e explainer estão coerentes e alinhados, fornecendo um caminho claro para a resolução da questão e explicação didática adequada. A resolução oficial está bem estruturada conforme o padrão pedido, com comentários corretos para todas as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3086,
+    "outputTokens": 2263,
+    "estimatedCostUsd": 0.004855
+  }
+}

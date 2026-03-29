@@ -1,0 +1,80 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:26:35.038Z",
+  "questionId": "enem-2024-ciencias-natureza-q107",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta porque corresponde ao método que realmente remove o mercúrio contaminante do solo, acumulando-o na planta e permitindo a retirada da biomassa contaminada, impedindo assim a entrada do mercúrio na cadeia alimentar.",
+      "strategy": "Analisou-se o enunciado e a figura fornecida, que contém definições e ilustrações dos métodos de fitorremediação. Cada método descrito no texto foi confrontado com as definições fornecidas para entender seu mecanismo e objetivo, considerando o objetivo de remover o mercúrio e impedir sua entrada na cadeia alimentar.",
+      "steps": [
+        "Ler o enunciado para identificar o problema: remoção do mercúrio e impedimento de sua entrada na cadeia alimentar.",
+        "Observar a figura com os métodos de fitorremediação e suas descrições.",
+        "Identificar o método que retira o poluente do solo através do acúmulo na planta e posterior remoção da biomassa, o que é a fitoextração.",
+        "Comparar as outras alternativas com a definição correta para garantir a correção da escolha.",
+        "Selecionar a alternativa E como correta, por corresponder à remoção e retirada da biomassa contaminada contendo mercúrio."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Figura mostrando os métodos de fitorremediação e suas descrições no enunciado",
+        "Definição e ilustração da fitoextração que mostra remoção do poluente pela planta e acúmulo na parte aérea para posterior descarte"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir a fitoestabilização com remoção do contaminante, ao invés de apenas sua imobilização no solo.",
+        "misconceptionType": "Confusão conceitual entre imobilização e remoção do poluente.",
+        "whyItLooksPlausible": "A fitoestabilização age sobre a disponibilidade do contaminante ao fixá-lo perto das raízes, o que pode parecer uma forma de 'restringir' o mercúrio.",
+        "whyItIsWrong": "Ela apenas imobiliza o mercúrio no solo, não removendo-o ou impedindo a contaminação da cadeia alimentar."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que a transformação em forma volátil elimina o contaminante do ambiente.",
+        "misconceptionType": "Interpretação incorreta do transporte do contaminante pelo ar como remoção segura.",
+        "whyItLooksPlausible": "A fitovolatilização promove a transformação do contaminante em forma volátil, sugerindo a remoção do solo.",
+        "whyItIsWrong": "O mercúrio volatilizado pode se dispersar no ar e ainda contaminar o ambiente, não evitando sua entrada na cadeia alimentar."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Assumir que o mercúrio pode ser degradado enzimaticamente como contaminantes orgânicos.",
+        "misconceptionType": "Classificação errônea do mercúrio como contaminante degradável por enzimas.",
+        "whyItLooksPlausible": "Fitodegradação realmente destrói contaminantes orgânicos, o que pode parecer adequado para descontaminação.",
+        "whyItIsWrong": "Mercúrio é um metal pesado e não pode ser degradado enzimaticamente, apenas transferido ou imobilizado."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Acreditar que microrganismos podem remover ou imobilizar o mercúrio efetivamente e que isso corresponde à fitoestimulação.",
+        "misconceptionType": "Confusão entre estimulação e ação direta de remoção de contaminantes metálicos.",
+        "whyItLooksPlausible": "A ação microbiana pode ajudar na degradação e remoção, o que pode parecer resolver o problema da contaminação.",
+        "whyItIsWrong": "A fitoestimulação refere-se à estimulação de microrganismos para degradar contaminantes orgânicos, não metais pesados como o mercúrio."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto científico e conceitos ambientais",
+      "secondarySkills": [
+        "Conhecimento de processos ecológicos e ambientais",
+        "Raciocínio crítico para análise de definição e função",
+        "Identificação de termos técnicos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão analisa o conhecimento específico sobre técnicas de fitorremediação e sua aplicação para contaminação por metais pesados.",
+        "A imagem com definições e exemplos auxilia na compreensão dos conceitos.",
+        "Exige entendimento da diferença entre remoção física do contaminante e sua imobilização ou transformação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2313,
+    "outputTokens": 966,
+    "estimatedCostUsd": 0.002471
+  }
+}

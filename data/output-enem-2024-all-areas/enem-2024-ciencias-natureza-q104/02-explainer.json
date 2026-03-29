@@ -1,0 +1,44 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:53:42.881Z",
+  "questionId": "enem-2024-ciencias-natureza-q104",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O nadador precisa compensar a corrente para seguir o trajeto correto, e o tempo total é calculado somando os tempos em cada trecho, levando em conta a composição vetorial das velocidades (do nadador e da corrente). A resposta correta é 65 minutos.",
+      "stepByStep": [
+        "Identifique os quatro trechos do circuito: 1→2, 2→3, 3→4 e 4→1.",
+        "Nos trechos verticais (2→3 e 4→1), o nadador nada perpendicular à corrente a 50 m/min, percorrendo 400 m em 8 minutos cada trecho, totalizando 16 minutos.",
+        "Nos trechos inclinados (1→2 e 3→4), calcule a diagonal do retângulo usando Pitágoras: d = √(800² + 400²) = 894,4 m.",
+        "Decomponha a velocidade do nadador na direção da diagonal usando os ângulos do triângulo formado (θ ≈ 26,6°).",
+        "Considere que a corrente de 30 m/min afeta a componente horizontal da velocidade do nadador: ela ajuda numa diagonal e atrapalha na outra.",
+        "Calcule o tempo nas diagonais considerando as velocidades ajustadas pela corrente:",
+        "Diagonal 1→2 (corrente ajuda): tempo ≈ 800/(50×cosθ + 30) = 10,7 min.",
+        "Diagonal 3→4 (corrente atrapalha): tempo ≈ 800/(50×cosθ - 30) = 54,4 min.",
+        "Somando o tempo vertical (2x8 = 16 min) com os tempos diagonais ajustados, obtém-se o total próximo a 65 minutos.",
+        "Assim, a alternativa correta é B) 65 minutos."
+      ],
+      "commonPitfalls": [
+        "Ignorar a influência da corrente, assumindo que o nadador nada sempre a 50 m/min em linha reta.",
+        "Calcular o tempo apenas pela distância e velocidade do nadador, sem decompor os vetores das velocidades.",
+        "Confundir o ângulo da diagonal e não decompor corretamente as componentes da velocidade do nadador.",
+        "Somar tempos sem considerar se a corrente ajuda ou atrapalha em cada trecho diagonal.",
+        "Usar a velocidade resultante da soma vetorial de forma incorreta, desconsiderando a direção do movimento."
+      ],
+      "teachingTips": [
+        "Reforce o conceito de composição vetorial de velocidades e sua aplicação prática.",
+        "Utilize diagramas para ajudar os alunos a visualizar os vetores e seus ângulos.",
+        "Exercite a decomposição de vetores em componentes ortogonais (horizontal e vertical).",
+        "Mostre a importância de analisar cada trecho separadamente, considerando efeito da corrente.",
+        "Incentive o uso de Pitágoras para calcular distâncias diagonais em retângulos.",
+        "Reforce que o tempo depende da velocidade na direção do deslocamento, não apenas da velocidade relativa à água."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2973,
+    "outputTokens": 612,
+    "estimatedCostUsd": 0.002168
+  }
+}

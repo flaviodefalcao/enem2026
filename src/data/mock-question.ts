@@ -927,6 +927,8 @@ export function getExamQuestionSummaries() {
       competenceDescription: getExtractedContent(id).competenceDescription,
       skill: question.skill,
       difficulty: question.difficulty,
+      difficultyLevel: question.triMetrics.difficultyLevel,
+      relativeDifficultyLabel: question.triMetrics.relativeDifficultyLabel,
       accuracy: question.accuracy,
     };
   });

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:35:06.680Z",
+  "questionId": "enem-2024-ciencias-natureza-q130",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão trata da formação de compostos nitrosos e suas implicações mutagênicas e carcinogênicas iniciadas em um órgão específico do corpo. A habilidade citada envolve análise de experimentos com seres vivos referentes à saúde. Portanto, a classificação mais adequada é no tema Biologia, subtema Fisiologia e saúde, pois o enunciado aborda processos fisiológicos relacionados à saúde humana, especificamente no trato digestório.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 772,
+    "outputTokens": 112,
+    "estimatedCostUsd": 0.000488
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:34:37.122Z",
+  "questionId": "enem-2024-ciencias-natureza-q129",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D é correta pois explica que os componentes densos do computador impedem a passagem dos raios X, o que dificulta a visualização de objetos que estejam atrás ou na frente do equipamento na bagagem.",
+        "strategy": "Análise do funcionamento dos aparelhos de raios X e da necessidade de remover os computadores das bagagens para sua inspeção isolada.",
+        "steps": [
+          "Reconhecer que os aparelhos de raios X funcionam emitindo radiação que atravessa materiais e registra imagens baseadas na densidade e composição dos objetos.",
+          "Identificar que componentes eletrônicos e metálicos do computador possuem alta densidade, bloqueando o raio X.",
+          "Concluir que, se o computador ficar dentro da bagagem, ele bloqueia a passagem dos raios X para objetos posicionados atrás dele, impedindo a inspeção adequada.",
+          "Assim, para garantir que todos os objetos sejam inspecionados, o computador deve ser examinado isoladamente."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Os aparelhos de raios X funcionam emitindo radiação capaz de atravessar materiais, gerando imagens baseadas na densidade dos objetos. Como os computadores têm componentes metálicos e eletrônicos muito densos, eles bloqueiam os raios X, dificultando a visualização dos itens que estiverem dentro da bagagem atrás deles. Por isso, é preciso retirar os computadores para que sejam inspecionados separadamente, garantindo uma verificação completa das bagagens.",
+        "stepByStep": [
+          "Entenda que os aparelhos de raios X geram imagens ao passar radiação por objetos, onde materiais mais densos bloqueiam mais os raios e aparecem com maior destaque na imagem.",
+          "Reconheça que os computadores portáteis contêm peças metálicas e eletrônicas densas, que impedem a passagem dos raios X.",
+          "Perceba que se o computador ficar dentro da bagagem, ele pode esconder ou impedir que a máquina veja objetos que estiverem posicionados atrás dele.",
+          "Por isso, os computadores devem ser retirados das malas para que passem separados pela inspeção, permitindo visualizar todos os itens com clareza."
+        ],
+        "commonPitfalls": [
+          "Achar que os metais não aparecem nas imagens por não interagirem com os raios X, quando na verdade eles bloqueiam fortemente a radiação.",
+          "Pensar que os raios X causam danos como desmagnetização nos discos rígidos dos computadores, o que não ocorre.",
+          "Acreditar que os raios X refletem ou aquecem os metais da mesma forma que luz visível, o que é incorreto.",
+          "Confundir os efeitos de difração e ionização na inspeção, associando isso erroneamente à visualização dos objetos."
+        ],
+        "teachingTips": [
+          "Explique como funciona o princípio básico da formação de imagens por raios X, destacando a relação entre densidade do material e bloqueio da radiação.",
+          "Use exemplos do cotidiano, como tirar objetos metálicos de roupas para passar no scanner, para facilitar a compreensão.",
+          "Destaque que a inspeção Visa identificar todos os objetos, por isso é importante não deixar nada que bloqueie a passagem da radiação.",
+          "Corrija mitos sobre danos causados por raios X em eletrônicos, enfatizando a segurança desse tipo de inspeção."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer que componentes metálicos não interagem com raios X e, portanto, não geram imagem.",
+          "misconceptionType": "Compreensão incorreta da interação dos raios X com metais",
+          "whyItLooksPlausible": "Os metais aparecem como áreas claras ou escuras nas imagens por bloquear os raios X.",
+          "whyItIsWrong": "Na realidade, os raios X interagem fortemente com metais, que aparecem precisamente pela sua alta densidade e interferem na imagem dos objetos atrás deles."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Supõe-se que os raios X causam desmagnetização do disco rígido, afetando o computador.",
+          "misconceptionType": "Confusão sobre efeitos dos raios X em componentes eletrônicos",
+          "whyItLooksPlausible": "Discos rígidos dependem de magnetismo para armazenamento, e se os raios X pudessem interferir, haveria problema funcional.",
+          "whyItIsWrong": "Raios X não desmagnetizam discos rígidos, e o processo de inspeção não é prejudicial a eles."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensa-se que raios X refletem e aquecem metais na bagagem.",
+          "misconceptionType": "Confusão sobre propriedades físicas dos raios X",
+          "whyItLooksPlausible": "Aquecimento é um efeito comum de radiação em materiais.",
+          "whyItIsWrong": "Raios X têm baixa capacidade de aquecimento e não são refletidos significativamente como luz comum."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Supõe que raios X ionizam metais via difração, causando efeitos que impedem a inspeção.",
+          "misconceptionType": "Erro conceitual sobre interações de raios X",
+          "whyItLooksPlausible": "Raios X são ionizantes e fenômenos ópticos como difração existem com radiações.",
+          "whyItIsWrong": "Metais não são tipicamente difratados pelos raios X da maneira citada, e ionização não impede a inspeção visual dos objetos."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão de Interações de Radiação com a Matéria",
+        "secondarySkills": [
+          "Interpretação Física",
+          "Ciências Aplicadas",
+          "Raciocínio Lógico"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Questão exige conhecimento básico do funcionamento dos aparelhos de raios X.",
+          "Não requer cálculos nem análise de imagens anexadas.",
+          "Avalia compreensão dos bloqueios causados por objetos densos à radiação.",
+          "Necessita eliminar conceitos errados sobre efeitos dos raios X em componentes eletrônicos."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🛫",
+        "shortThemeTitle": "Inspeção por Raios X e Densidade dos Materiais",
+        "interpretationIntro": "O enunciado solicita explicar o motivo físico pelo qual os passageiros devem retirar seus computadores portáteis das bagagens para passar isoladamente na esteira de inspeção por aparelhos de raios X em aeroportos.",
+        "commandTerms": [
+          {
+            "term": "Explicação física",
+            "explanation": "Justificar o procedimento com base em princípios da física envolvidos na inspeção com raios X."
+          },
+          {
+            "term": "Esteira de inspeção",
+            "explanation": "Equipamento que permite a passagem da bagagem sob um aparelho de raios X para análise visual dos objetos internos."
+          }
+        ],
+        "whatTheQuestionAsks": "Compreender e justificar, com base em conceitos de interação da radiação com a matéria, por que os computadores devem ser retirados das malas para inspeção separada por raios X.",
+        "strategyParagraph": "Para responder, deve-se compreender que aparelhos de raios X produzem imagens a partir da capacidade da radiação atravessar materiais, sendo bloqueada ou atenuada segundo a densidade do objeto. Como computadores possuem componentes metálicos e eletrônicos densos, eles impedem parcialmente a passagem dos raios X, o que dificulta a visualização de outros objetos dentro da bagagem. Assim, é preciso identificar a alternativa que descreve essa relação e a justificativa para a separação dos equipamentos na inspeção.",
+        "reviewTable": [
+          {
+            "concept": "Interação de raios X com a matéria",
+            "keyIdea": "Materiais mais densos bloqueiam ou atenuam mais a radiação X.",
+            "application": "Componentes metálicos em computadores bloqueiam a passagem dos raios X na inspeção."
+          },
+          {
+            "concept": "Formação de imagens por raios X",
+            "keyIdea": "Imagens são geradas pelos contrastes na passagem da radiação através dos objetos.",
+            "application": "Objetos densos aparecem destacadamente, podendo ocultar itens atrás deles se estiverem juntos."
+          },
+          {
+            "concept": "Procedimento de segurança em aeroportos",
+            "keyIdea": "Separar itens para melhor visualização evita que objetos passem despercebidos.",
+            "application": "Retirar computadores da bagagem permite inspeção clara de todos os objetos."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os aparelhos de raios X em inspeções de segurança em aeroportos funcionam emitindo radiação capaz de atravessar a bagagem e originar imagens com base nas diferenças de densidade dos objetos internos. Materiais mais densos, como componentes metálicos e eletrônicos presentes nos computadores portáteis, bloqueiam ou atenuam significativamente essa radiação.",
+          "Quando um computador permanece dentro da mala junto com outros objetos, seu alto grau de densidade gera uma sombra na imagem de raios X, impedindo que itens localizados atrás dele sejam visualizados claramente pela equipe de segurança. Essa limitação pode comprometer a detecção de objetos potencialmente perigosos.",
+          "Portanto, o procedimento padrão exige que os computadores sejam retirados da bagagem e inspecionados separadamente para assegurar que todos os itens sejam observados de forma clara e completa, garantindo maior segurança e eficiência no processo de triagem."
+        ],
+        "resolutionParagraphs": [
+          "Para chegar à resposta correta, primeiro reconhecemos que aparelhos de raios X criam imagens internas da bagagem por meio da diferença de densidade dos objetos que passam pela radiação.",
+          "Em seguida, identificamos que os componentes metálicos e eletrônicos dos computadores são muito densos, bloqueando a passagem dos raios X.",
+          "Isso implica que objetos que estejam dentro da bagagem, localizados atrás do computador, não serão visíveis, já que o computador cria uma sombra na imagem.",
+          "Por isso, para que a inspeção seja eficaz e nenhuma ameaça passe despercebida, os passageiros devem remover os computadores e colocá-los isoladamente na esteira para inspeção separada."
+        ],
+        "puloDoGato": "Lembre-se: objetos muito densos bloqueiam os raios X e criam sombras que podem esconder outros itens; por isso, itens densos devem ser removidos para inspeção separada.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque metais, incluindo os componentes dos computadores, interagem e bloqueiam fortemente os raios X, aparecendo nas imagens, não deixando de gerar imagem."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada pois raios X não provocam desmagnetização dos discos rígidos; o procedimento não visa proteger eletrônicos de danos."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta porque raios X têm baixa capacidade de aquecer ou refletir metais; aquecimento não é causa para remover o computador."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta, pois explica que a alta densidade dos computadores bloqueia a passagem dos raios X, prejudicando a visualização de objetos atrás deles, justificando sua remoção para inspeção isolada."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Equivocada pelo entendimento incorreto de que difração e ionização causadas por raios X em metais impedem a inspeção visual; na prática, esses fenômenos não bloqueiam a imagem dessa forma."
+          }
+        ],
+        "questionCode": "CN_FISICA_ENSINO_MEDIO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução técnica e didática está coerente com o enunciado e abordagem da questão. A explicação do funcionamento dos aparelhos de raios X, a justificativa da remoção dos computadores e a análise das alternativas foram feitas de forma clara e precisa. O conteúdo didático auxilia na compreensão do tema central sem adicionar informações irrelevantes ou incorretas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2626,
+    "outputTokens": 2442,
+    "estimatedCostUsd": 0.004958
+  }
+}

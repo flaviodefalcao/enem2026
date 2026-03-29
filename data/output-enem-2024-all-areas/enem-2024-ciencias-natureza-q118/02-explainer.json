@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:42:21.520Z",
+  "questionId": "enem-2024-ciencias-natureza-q118",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Neste sistema com dois espelhos côncavos posicionados com seus vértices e focos invertidos, a imagem formada é real, estando a 7,6 cm verticalmente acima de cada ponto do objeto. Isso ocorre porque os raios refletem e convergem fisicamente, criando uma imagem tridimensional dentro do sistema.",
+      "stepByStep": [
+        "Identifique que os espelhos E₁ e E₂ são côncavos, com o vértice de E₁ coincidindo com o foco de E₂, e vice-versa.",
+        "Observe que o objeto está posicionado sobre o vértice de E₁, e os raios refletem primeiro em E₂ e depois em E₁.",
+        "Note as dimensões dadas: a distância vertical de cada espelho até o centro é 3,8 cm, totalizando 7,6 cm entre os dois espelhos.",
+        "Analise que a imagem formada é real porque os raios de luz refletem e convergem fisicamente dentro do sistema, tornando possível a percepção de uma imagem tridimensional.",
+        "Conclua que a distância vertical entre qualquer ponto objeto e seu ponto imagem correspondente é a soma dessas duas distâncias, ou seja, 7,6 cm."
+      ],
+      "commonPitfalls": [
+        "Confundir a abertura do espelho (5 cm) com a distância vertical entre objeto e imagem, levando a respostas erradas.",
+        "Considerar apenas a distância de 3,8 cm de um espelho, sem somar a distância total entre os dois espelhos.",
+        "Pensar que a imagem tridimensional vista é virtual apenas porque não é o objeto real, ignorando que a imagem é formada pela convergência real dos raios.",
+        "Misturar conceitos ao considerar a imagem como virtual e usar a distância incorreta simultaneamente."
+      ],
+      "teachingTips": [
+        "Enfatize a diferença entre distância de abertura e distância vertical real entre objeto e imagem.",
+        "Utilize o diagrama para mostrar claramente a trajetória dos raios e como eles convergem para formar a imagem.",
+        "Explique a diferença entre imagens reais e virtuais, usando exemplos simples com espelhos côncavos.",
+        "Estimule os alunos a somarem as medidas verticalmente para não confundir as distâncias.",
+        "Use analogias visuais para reforçar a ideia de que a imagem real pode ser 'tocada' pela luz convergida, mesmo que não seja o objeto."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2343,
+    "outputTokens": 494,
+    "estimatedCostUsd": 0.001728
+  }
+}

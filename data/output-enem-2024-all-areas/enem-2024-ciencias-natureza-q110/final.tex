@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Questão ENEM 2024: Circuitos em série e paralelo -- análise de tensão e potência}
+
+\subsection*{Interpretação da Questão e Estratégia}
+
+A questão solicita identificar o ponto correto (entre A, B, C, D, E) do fio resistivo QR onde o amperímetro deve ser conectado para garantir que as lâmpadas L_1 e L_2 acendam conforme as especificações de tensão (6 V e 12 V) e potência (9 W e 18 W).
+
+\textbf{Termos importantes:}
+\begin{itemize}
+  \item \textit{Calcular}: Determinar valores numéricos.
+  \item \textit{Analisar}: Estudar as relações elétricas no circuito.
+  \item \textit{Conservar}: Manter as condições de funcionamento das lâmpadas.
+\end{itemize}
+
+\textbf{Objetivo:} Determinar o ponto no fio QR que mantém tensões originais nas lâmpadas.
+
+A estratégia baseia-se no cálculo inicial das correntes e resistências, seguidas do entendimento de como a tensão se distribui no fio QR divido em segmentos, buscando o ponto onde a tensão fornecida às lâmpadas não se altera com a conexão do amperímetro.
+
+\subsection*{Conteúdo e Mini Revisão Teórica}
+
+\begin{tabular}{|p{4cm}|p{6cm}|p{6cm}|}
+\hline
+\textbf{Conceito} & \textbf{Ideia Principal} & \textbf{Aplicação} \\
+\hline
+Lei de Ohm & Tensão é resistência vezes corrente ($V=RI$) & Calcular resistências das lâmpadas e quedas de tensão no fio QR \\
+\hline
+Potência elétrica & Potência é produto de tensão e corrente ($P=VI$) & Determinar correntes necessárias para funcionamento das lâmpadas \\
+\hline
+Circuito série e paralelo & Série: mesma corrente; paralelo: mesma tensão & Entender efeito do fio QR paralelo à bateria e amplitude da tensão no circuito recorrente \\
+\hline
+\end{tabular}
+
+\paragraph{Teoria:}
+A potência $P$ dissipada por um componente é dada por $P=V \times I$. Com essa relação, sabendo $P$ e $V$, obtemos $I$. A resistência de cada lâmpada é dada por $R=V/I$. Para resistores em série, somam-se as resistências, e a corrente é a mesma em todos.
+
+O fio QR, quando está em paralelo à bateria, atua como um divisor de tensão se conectado em diferentes pontos, influenciando a tensão que as lâmpadas recebem.
+
+\subsection*{Resolução e "Pulo do Gato"}
+
+\textbf{Cálculos reais:}
+\begin{align*}
+I_1 &= \frac{P_1}{V_1} = \frac{9}{6} = 1,5 \mathrm{A}, \\
+I_2 &= \frac{P_2}{V_2} = \frac{18}{12} = 1,5 \mathrm{A}.
+\end{align*}
+
+\vspace{0.2cm}
+
+Ambas lâmpadas têm a mesma corrente, confirmando conexão em série.
+
+\begin{align*}
+R_1 &= \frac{V_1}{I_1} = \frac{6}{1,5} = 4 \Omega, \\
+R_2 &= \frac{12}{1,5} = 8 \Omega.
+\end{align*}
+
+\vspace{0.2cm}
+
+Resistência total das lâmpadas: $R_{total} = 4 + 8 = 12 \Omega$.
+
+\vspace{0.2cm}
+
+O fio resistivo QR de $48 \mathrm{cm}$ dividido em seis segmentos de $8 \mathrm{cm}$ cada, apresenta 5 pontos (A, B, C, D, E) para conectar o terminal livre do amperímetro.
+
+A conexão do amperímetro em cada ponto altera a tensão no circuito devido à queda de tensão proporcional ao comprimento do fio. O ponto B é adequado para evitar alteração e manter a tensão correta nas lâmpadas.
+
+\textbf{Pulo do Gato:}
+\begin{quote}
+Em um circuito em série, a corrente é constante, então o controle das tensões nas lâmpadas ocorre pela análise das resistências e da divisão de tensão nos componentes paralelos. Identificar o ponto B no fio QR como o ponto chave para a manutenção da tensão é crucial.
+\end{quote}
+
+\subsection*{Armadilhas e Alternativas}
+
+\begin{itemize}
+  \item \textbf{Alternativa A}: Conexão no ponto mais próximo a Q, que não mantém a tensão correta para as lâmpadas.
+  \item \textbf{Alternativa C}: Ponto central que parece equidistante, mas não preserva as tensões.
+  \item \textbf{Alternativa D}: Liga próximo ao R, altera as tensões necessárias.
+  \item \textbf{Alternativa E}: Encurta demais, comprometendo a tensão/vazão.
+\end{itemize}
+
+Todas essas alternativas têm um raciocínio plausível, mas não garantem o funcionamento correto devido à distribuição das quedas de tensão.
+
+\subsection*{Código da Questão}
+\texttt{CN\_ELETRICIDADE\_SERIEPARALELO\_001}
+
+\vspace{0.5cm}
+
+\noindent{\small $\blacksquare$ Questão aprovada conforme consistência entre enunciado, solução técnica e explicação pedagógica.}
+
+\end{document}

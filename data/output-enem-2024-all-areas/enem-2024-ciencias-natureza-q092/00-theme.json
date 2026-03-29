@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:20:21.481Z",
+  "questionId": "enem-2024-ciencias-natureza-q092",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Transformações químicas",
+    "rationale": "A questão trata do processo químico de separação do hidróxido de magnésio (Mg(OH)₂) formado em uma reação química, focando na etapa de separação de um sólido pouco solúvel de uma mistura líquida. Isto está diretamente relacionado a transformações e técnicas químicas para obtenção de substâncias.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 812,
+    "outputTokens": 91,
+    "estimatedCostUsd": 0.00047
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "questions": [
+    {
+      "id": "enem-2024-ciencias-natureza-q106",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 106 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Na tirinha, Calvin se divertia em um balanço antes de\nsoltar-se dele e cair ao chão. Em sua fala, ele demonstra ter\nimaginado que permaneceria em movimento circular. Porém,\na força gravitacional, que permanece atuando no garoto,\nmodifica a direção de sua velocidade, fazendo com que ele\nchegue ao chão da maneira ilustrada no último quadrinho.",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-106/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-106/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-106/option-a-01.png"
+          ]
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-106/option-b-01.png"
+          ]
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-106/option-c-01.png"
+          ]
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-106/option-d-01.png"
+          ]
+        },
+        {
+          "label": "E",
+          "text": "*020125AM6*",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-106/option-e-01.png"
+          ]
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 16,
+        "examQuestionNumber": 106,
+        "sourcePages": "6",
+        "sourceQuestionNumber": 31,
+        "skillCode": "H20",
+        "skillDescription": "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes.",
+        "competenceNumber": 6,
+        "competenceDescription": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141621,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q107",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 107 — ENEM 2024 — Ciências da Natureza",
+      "statement": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação\nde solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente,\nconforme representado na figura.\nLUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).\nO método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a\nA fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas.\nB fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil.\nC fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies\nmenos tóxicas.\nD fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e\nimobilizam o metal.\nE fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal\né retirada após o crescimento.",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-107/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 17,
+        "examQuestionNumber": 107,
+        "sourcePages": "7",
+        "sourceQuestionNumber": 44,
+        "skillCode": "H27",
+        "skillDescription": "Avaliar propostas de intervenção no meio ambiente aplicando conhecimentos químicos, observando riscos ou benefícios.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111726,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q108",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 108 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio\nA bauxita contém alumina (Al₂O₃), que é a matéria-prima para produção do alumínio (Al). De forma geral, são\nnecessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes\nmundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes\nde Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 105 toneladas\nde latas vendidas. Considere que a lata é constituída de alumínio puro.\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).\nLevando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que\ndeixou de ser extraída da natureza em 2020 no Brasil?\nA 1,0 × 104 ton\nB 3,9 × 105 ton\nC 5,0 × 105 ton\nD 1,9 × 106 ton\nE 2,0 × 107 ton\n*020125AM7*",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 18,
+        "examQuestionNumber": 108,
+        "sourcePages": "7",
+        "sourceQuestionNumber": 45,
+        "skillCode": "H26",
+        "skillDescription": "Avaliar implicações sociais, ambientais e/ou econômicas na produção ou no consumo de recursos energéticos ou minerais, identificando transformações químicas ou de energia envolvidas nesses processos.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141591,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q109",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 109 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O LED é um dispositivo eletrônico que conduz corrente\nelétrica em um único sentido, sendo caracterizado por uma\ntensão e uma corrente máxima de funcionamento, Imáx. Um LED\nacende apenas se a corrente que o percorre está no sentido\npermitido e se a diferença de potencial à qual está submetido\né igual ou superior à sua tensão de funcionamento. A figura\nilustra o símbolo do LED usado na representação de circuitos.\nUm estudante de física analisa as propriedades do LED\nem um circuito simples de corrente contínua. Ele dispõe dos\nseguintes materiais: uma bateria ideal de 4,5 V; dois LEDs\nde tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de\n1,5 kΩ cada.\nO circuito que o estudante pode montar, para que ambos os\nLEDs fiquem acesos e cada um seja percorrido por Imáx, é",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-109/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-109/option-a-01.png"
+          ]
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-109/option-b-01.png"
+          ]
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-109/option-c-01.png"
+          ]
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-109/option-d-01.png"
+          ]
+        },
+        {
+          "label": "E",
+          "text": "",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-109/option-e-01.png"
+          ]
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 19,
+        "examQuestionNumber": 109,
+        "sourcePages": "8",
+        "sourceQuestionNumber": 41,
+        "skillCode": "H5",
+        "skillDescription": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano.",
+        "competenceNumber": 2,
+        "competenceDescription": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117859,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q110",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 110 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Uma caixa decorativa utiliza duas pequenas lâmpadas,\nL₁ (6 V – 9 W) e L₂ (12 V – 18 W), ligadas em série a\numa bateria de tensão VQR. Um fio resistivo QR, de\n48 centímetros, está ligado em paralelo à bateria. Cinco\npontos, A, B, C, D e E, dividem o fio QR em seis segmentos\nde comprimentos iguais. O circuito também tem um\namperímetro com dois terminais. Um dos terminais (P) está\nligado ao fio entre as duas lâmpadas. O outro terminal (S)\nestá livre e será ligado ao fio QR. Dependendo do ponto em\nque esse terminal livre for conectado, ocorrerá a mudança\nna tensão à qual as lâmpadas são submetidas. Os demais\nfios do circuito têm resistências elétricas desprezíveis.\nA figura ilustra esse circuito.\nEm qual desses pontos o amperímetro deve ser conectado\npara que as lâmpadas acendam exatamente segundo as\nespecificações de tensão e potência elétricas fornecidas?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-110/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "E",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 20,
+        "examQuestionNumber": 110,
+        "sourcePages": "8",
+        "sourceQuestionNumber": 42,
+        "skillCode": "H5",
+        "skillDescription": "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano.",
+        "competenceNumber": 2,
+        "competenceDescription": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141594,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q111",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 111 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O biogás é uma alternativa energética muito importante,\npois, além de reduzir a dependência por combustíveis\nfósseis, sua obtenção pode ser realizada a partir de\nresíduos da produção agroindustrial. Considere que o\nbiogás produzido em um empreendimento de suinocultura\ncontém 70% em volume de metano (massa molar 16 g/mol;\nvolume molar 22 L/mol). Ele será utilizado para geração de\nenergia em substituição ao etanol (massa molar 46 g/mol)\nem um gerador no qual 1 m3 de biogás de origem suína\nsubstitui 0,59 L de etanol anidro (densidade 0,78 g/mL).\nNessas condições, a massa de metano necessária para\nsubstituir 10 mol de etanol na produção de energia é mais\npróxima de",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "300 g.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "400 g.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "510 g.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "590 g.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "720 g. *020125AM8*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 21,
+        "examQuestionNumber": 111,
+        "sourcePages": "8",
+        "sourceQuestionNumber": 43,
+        "skillCode": "H25",
+        "skillDescription": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111416,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q112",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 112 — ENEM 2024 — Ciências da Natureza",
+      "statement": "A nimesulida é um fármaco pouco solúvel em água,\nutilizado como anti-inflamatório, analgésico e antitérmico.\nEssa substância pode ser convertida em uma espécie\neletricamente carregada, de maior solubilidade em água,\nmediante o tratamento com uma base de Brönsted-Lowry,\nisto é, uma espécie química capaz de capturar um próton\n(H₊). Na figura são apresentados os grupamentos presentes\nna estrutura química da nimesulida.\nNa estrutura desse fármaco, o grupamento capaz de\nreagir com a base de Brönsted-Lowry é o grupo",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-112/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-112/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "sulfonamida.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "metila.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "fenila.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "nitro.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "éter.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 22,
+        "examQuestionNumber": 112,
+        "sourcePages": "9",
+        "sourceQuestionNumber": 4,
+        "skillCode": "H24",
+        "skillDescription": "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 97327,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q113",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 113 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O desenvolvimento da biotecnologia e da clonagem\ngênica em procariotos fez com que a produção de proteínas\nse tornasse mais intensa, rápida e econômica. Para a\nprodução de hormônios, enzimas e proteínas de resistência\na drogas, uma variação da técnica de reação em cadeia\npela polimerase (PCR, na sigla em inglês) utiliza a enzima\ntranscriptase reversa (RT-PCR), que sintetiza moléculas\nde DNA complementares a partir de fitas de RNA.\nNesse contexto, essa técnica é importante para detectar\ngenes",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "expressos.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "plasmidiais.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "bacterianos.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "dominantes.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "autossômicos.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 23,
+        "examQuestionNumber": 113,
+        "sourcePages": "9",
+        "sourceQuestionNumber": 5,
+        "skillCode": "H11",
+        "skillDescription": "Reconhecer benefícios, limitações e aspectos éticos da biotecnologia, considerando estruturas e processos biológicos envolvidos em produtos biotecnológicos.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111650,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q114",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 114 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Nos automóveis, é importante garantir que o centro de\nmassa (CM) de cada conjunto roda/pneu coincida com o\nseu centro geométrico. Esse processo é realizado em uma\nmáquina de balanceamento, na qual o conjunto roda e pneu\né colocado para girar a uma velocidade de valor constante.\nCom base nas oscilações medidas, a máquina indica a\nposição do centro de massa do conjunto, e pequenas\npeças de chumbo são fixadas em lugares específicos da\nroda até que as vibrações diminuam. Durante o treinamento\nde sua equipe, a fim de corrigir a posição do centro de\nmassa indicada pela máquina, um mecânico apresenta\no esquema a seguir, com cinco possíveis pontos da roda\npara posicionar uma peça de chumbo.\nEm qual ponto deve ser fixada a peça de chumbo para corrigir\na posição do centro de massa desse conjunto roda/pneu?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-114/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "5",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 24,
+        "examQuestionNumber": 114,
+        "sourcePages": "9",
+        "sourceQuestionNumber": 6,
+        "skillCode": "H1",
+        "skillDescription": "Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos.",
+        "competenceNumber": 1,
+        "competenceDescription": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111400,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q115",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 115 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O soro caseiro serve para combater a desidratação por\nmeio da reposição da água e sais minerais perdidos,\npor exemplo, por diarreia. Uma receita simples para a sua\npreparação consiste em utilizar duas colheres grandes\n(de sopa) de açúcar e duas colheres pequenas (de café)\nde sal de cozinha, dissolvidos em 2 L de água fervida,\nobtendo-se uma solução com concentração de íon sódio\nde 1,4 mg/mL.\nConsidere as massas molares: NaCl = 58,5 g/mol;\nNa = 23 g/mol.\nQual é o valor mais próximo da massa, em grama, de\ncloreto de sódio presente em uma única colher pequena?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "0,7 g",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "1,8 g",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "2,8 g",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "3,6 g",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "7,0 g *020125AM9*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 25,
+        "examQuestionNumber": 115,
+        "sourcePages": "9",
+        "sourceQuestionNumber": 7,
+        "skillCode": "H25",
+        "skillDescription": "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 98061,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q116",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 116 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Apesar de os animais representados no cladograma\ncompartilharem um mesmo ancestral, eles se caracterizam\npor distintos padrões de reprodução ou de nutrição dos\nembriões e descendentes.\nAo longo do processo evolutivo, percebem-se, entre\nesses animais, perdas e ganhos nos padrões citados que\nenvolvem o(a)",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-116/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-116/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "aumento no número de descendentes por ninhada.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "mudança no tipo de fecundação de externa para interna.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "redução da versatilidade de reprodução, que se torna unicamente sexuada.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "desenvolvimento embrionário, que passa do meio aquático para o terrestre.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 26,
+        "examQuestionNumber": 116,
+        "sourcePages": "10",
+        "sourceQuestionNumber": 8,
+        "skillCode": "H16",
+        "skillDescription": "Compreender o papel da evolução na produção de padrões, processos biológicos ou na organização taxonômica dos seres vivos.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141807,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q117",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 117 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Uma ambulância em alta velocidade com a sirene ligada\ndesloca-se em direção a um radar operado por uma pessoa.\nO radar emite ondas de rádio com frequência f₀ que são\nrefletidas pela dianteira da ambulância, retornando para\no detector com frequência fr. A percepção do operador do\nradar, em relação ao som emitido pela sirene, é de que\neste se altera à medida que a ambulância se aproxima\nou se afasta.\nDurante a aproximação, como o operador percebe o som\nda sirene e qual é a relação entre as frequências fr e f₀\nmedidas pelo radar?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Mais grave do que o som emitido e fr < f₀.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Mais agudo do que o som emitido e fr < f₀.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Mais agudo do que o som emitido e fr = f₀.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Mais agudo do que o som emitido e fr > f₀.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Mais grave do que o som emitido e fr > f₀.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 27,
+        "examQuestionNumber": 117,
+        "sourcePages": "10",
+        "sourceQuestionNumber": 9,
+        "skillCode": "H7",
+        "skillDescription": "Selecionar testes de controle, parâmetros ou critérios para a comparação de materiais e produtos, tendo em vista a defesa do consumidor, a saúde do trabalhador ou a qualidade de vida.",
+        "competenceNumber": 2,
+        "competenceDescription": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 126592,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q118",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 118 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Mirascópio 3D: produtor de ilusão instantânea\nO equipamento ilustrado na figura, de dimensões\napresentadas no esquema, é composto por dois espelhos\ncôncavos E₁ e E₂, apoiados um sobre o outro por suas\nbordas, de tal forma que o vértice de E₁ coincide com\no foco de E₂ e vice-versa. Na abertura circular de\nE₂, é formada uma imagem tridimensional de um objeto\nposicionado sobre o vértice de E₁. Essa imagem é\nformada a partir dos raios procedentes do objeto, refletidos\npor E₂ e E₁, respectivamente, conforme o esquema.\nOs observadores julgam visualizar o objeto quando estão,\nde fato, visualizando sua imagem. O efeito só é possível\nporque as superfícies de ambos os espelhos são de\nextrema qualidade.\nSALZMANN, W. Disponível em: https://wissenstexte.de.\nAcesso em: 27 jun. 2024 (adaptado).\nA natureza da imagem formada e a distância vertical entre\ncada ponto objeto e seu correspondente ponto imagem são",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-118/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "real e 5 cm.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "real e 3,8 cm.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "real e 7,6 cm.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "virtual e 7,6 cm.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "virtual e 3,8 cm. *020125AM10*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 28,
+        "examQuestionNumber": 118,
+        "sourcePages": "10",
+        "sourceQuestionNumber": 10,
+        "skillCode": "H6",
+        "skillDescription": "Relacionar informações para compreender manuais de instalação ou utilização de aparelhos, ou sistemas tecnológicos de uso comum.",
+        "competenceNumber": 2,
+        "competenceDescription": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 118000,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q119",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 119 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Muitas pessoas ainda se espantam com o fato de um\npassageiro sair ileso de um acidente de carro enquanto\no veículo onde estava teve perda total. Essas pessoas\ntalvez considerem, equivocadamente, que os carros mais\nseguros são os que têm as estruturas mais rígidas, ou seja,\nestruturas, que durante uma colisão, apresentam menor\ndeformação. Na verdade, o que ocorre é o contrário. Por isso,\na partir de 1958, passaram a ser produzidos carros com partes\nque se deformam facilmente.\nDAY, C. Crumple Zones. Disponível em: https://pubs.aip.org.\nAcesso em: 2 jul. 2024 (adaptado).\nAssim, além dos cintos de segurança e dos airbags,\nos carros modernos passaram a contar com o dispositivo\nde segurança conhecido como crumple zone (região\ndeformável, em inglês), conforme a figura.\nConsiderando o carro, seus ocupantes e o muro da figura\ncomo um sistema isolado, o crumple zone aumenta a\nsegurança dos passageiros porque, durante uma colisão,\na deformação da estrutura do carro",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-119/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-119/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "aciona os airbags do veículo.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "absorve a energia cinética do sistema.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "consome a quantidade de movimento do sistema.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "cria uma barreira de proteção para seus ocupantes.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "diminui a velocidade do centro de massa do sistema.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 29,
+        "examQuestionNumber": 119,
+        "sourcePages": "11",
+        "sourceQuestionNumber": 1,
+        "skillCode": "H18",
+        "skillDescription": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam.",
+        "competenceNumber": 5,
+        "competenceDescription": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 84075,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q120",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 120 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Células a combustível microbianas (CCM) são capazes\nde gerar eletricidade a partir de águas residuárias urbanas e\nagroindustriais. As CCM são compostas de duas câmaras.\nNuma delas, onde ocorre o tratamento da matéria orgânica,\nas bactérias eletrogênicas crescem formando um biofilme\ne se alimentam dos poluentes presentes no efluente. Ao se\nalimentarem, essas bactérias geram uma corrente elétrica\nque percorre o material sobre o qual elas formaram o biofilme.\nUm fio condutor externo possibilita a migração dessa corrente\npara uma segunda câmara, promovendo uma reação química.\nA figura esquematiza uma CCM e as reações envolvidas.\nCH₃COO− (aq) + 2 H₂O (I) →₂ CO₂ (g) + 7 H₊ (aq) + 8 e−\nQual das equações representa a reação global que ocorre\ndurante o funcionamento dessa CCM?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-120/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-120/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "CH₃COO− (aq) + O₂ (g) →₂ CO₂ (g) + 3 H₊ (aq)",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "CO₂ (g) + O₂ (g) + H₊ (aq) →H₂O (l) + CH₃COO− (aq)",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "CH₃COO− (aq) + H₊ (aq) + 2 O₂ (g) →₂ CO₂ (g) + 2 H₂O (l)",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "CH₃COO− (aq) + 6 H₂O (l) →₂ CO₂ (g) + 2 O₂ (g) + 15 H₊ (aq)",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "2 CO₂ (g) + 11 H₊ (aq) + O₂ (g) →CH₃COO− (aq) + 4 H₂O (l)",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 30,
+        "examQuestionNumber": 120,
+        "sourcePages": "11",
+        "sourceQuestionNumber": 2,
+        "skillCode": "H26",
+        "skillDescription": "Avaliar implicações sociais, ambientais e/ou econômicas na produção ou no consumo de recursos energéticos ou minerais, identificando transformações químicas ou de energia envolvidas nesses processos.",
+        "competenceNumber": 7,
+        "competenceDescription": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141598,
+        "coProva": 0
+      }
+    }
+  ]
+}

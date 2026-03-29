@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:28:37.410Z",
+  "questionId": "enem-2024-ciencias-natureza-q124",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "3,0 m",
+        "correctnessClaim": "A resposta A está correta conforme cálculo baseado no nível sonoro necessário para inteligibilidade, justificado pela tabela do gráfico.",
+        "strategy": "Analisar a diminuição do nível sonoro com a distância usando o gráfico fornecido; determinar o nível sonoro mínimo necessário para compreensão da fala; identificar a distância máxima em que o nível sonoro ainda está 5 dB acima do ruído de fundo de 45 dB.",
+        "steps": [
+          "Identificamos pelo enunciado que o nível sonoro do professor a 1m é 60 dB.",
+          "O ruído de fundo máximo na sala é 45 dB e o som da fala deve estar 5 dB acima desse ruído para ser inteligível, portanto o nível sonoro mínimo para compreensão é 50 dB.",
+          "Consultando o gráfico, observamos que o nível sonoro diminui à medida que a distância aumenta.",
+          "No gráfico, verificamos que a linha do nível sonoro cruza 50 dB aproximadamente na distância de 3 metros.",
+          "Logo, a maior distância para que o estudante compreenda a fala é cerca de 3 metros."
+        ],
+        "formulasUsed": [
+          "Nível sonoro mínimo para compreensão = ruído de fundo + 5 dB = 45 dB + 5 dB = 50 dB"
+        ],
+        "visualEvidenceUsed": [
+          "Gráfico mostrando a relação entre o nível sonoro (em dB) e a distância do professor (em metros). A linha do gráfico indica que o nível sonoro cai de 60 dB a 1 m para cerca de 50 dB a aproximadamente 3 m."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para entender até que distância um estudante consegue ouvir o professor claramente, é preciso que o som da fala seja pelo menos 5 dB mais alto que o ruído de fundo. Como o ruído máximo é 45 dB, a fala deve estar em pelo menos 50 dB. Usando o gráfico, vemos que o som chega a 50 dB perto de 3 metros, que é a distância máxima para boa compreensão.",
+        "stepByStep": [
+          "Verifique que o nível de som a 1 metro do professor é 60 dB.",
+          "Identifique que o ruído de fundo máximo é 45 dB e que a fala deve estar 5 dB acima, ou seja, no mínimo 50 dB para ser entendida.",
+          "Observe no gráfico que o nível sonoro vai diminuindo conforme a distância aumenta.",
+          "Localize no gráfico o ponto onde o nível sonoro da fala atinge 50 dB.",
+          "Veja que isso ocorre aproximadamente aos 3 metros.",
+          "Conclua que a maior distância para ouvir bem o professor é cerca de 3 metros."
+        ],
+        "commonPitfalls": [
+          "Confundir a distância no gráfico e achar que o nível sonoro permanece acima de 50 dB por mais tempo.",
+          "Ignorar que o som deve estar 5 dB acima do ruído para ser entendido, pensando que o som igual a 45 dB já basta.",
+          "Superestimar a distância máxima para compreensão por não interpretar corretamente o gráfico.",
+          "Desconsiderar o ruído de fundo e focar só no nível sonoro da fala, levando a um resultado incorreto."
+        ],
+        "teachingTips": [
+          "Explique a importância da diferença mínima de 5 dB entre o som da fala e o ruído para garantir a inteligibilidade.",
+          "Use o gráfico para mostrar visualmente como o som decai com a distância e como isso afeta a audição.",
+          "Reforce a habilidade de leitura e interpretação de gráficos, fundamental para resolver este tipo de questão.",
+          "Estimule os alunos a relacionar conceitos físicos (nível sonoro, ruído) com situações cotidianas, como ouvir em uma sala de aula."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "4,5 m",
+          "likelyReasoning": "O estudante pode ter interpretado mal a linha do gráfico e estimado que o nível sonoro permanece acima de 50 dB até 4,5 metros.",
+          "misconceptionType": "Interpretação incorreta de gráfico",
+          "whyItLooksPlausible": "O valor 4,5 m está dentro da escala do gráfico, aparentando ser possível para boa audição.",
+          "whyItIsWrong": "O gráfico mostra claramente que o nível sonoro cai abaixo de 50 dB antes de 4,5 m."
+        },
+        {
+          "option": "6,5 m",
+          "likelyReasoning": "Erro ao confundir o nível aceitável de ruído ou ignorar o requisito do nível estar 5 dB acima do ruído.",
+          "misconceptionType": "Desconsideração da diferença mínima de 5 dB para compreensão",
+          "whyItLooksPlausible": "6,5 m parece uma distância razoável para ouvir o professor em uma sala típica.",
+          "whyItIsWrong": "O gráfico mostra que o nível sonoro a essa distância está abaixo de 50 dB, comprometendo a inteligibilidade."
+        },
+        {
+          "option": "8,0 m",
+          "likelyReasoning": "Suposição excessivamente otimista da distância de compreensão eficaz.",
+          "misconceptionType": "Superestimação da distância com boa inteligibilidade",
+          "whyItLooksPlausible": "O estudante pode pensar que o som não decai significativamente até esta distância.",
+          "whyItIsWrong": "No gráfico, o nível sonoro a 8 m está claramente abaixo do necessário para compreensão."
+        },
+        {
+          "option": "9,5 m",
+          "likelyReasoning": "Ignorar o ruído de fundo ou interpretar o gráfico de forma errada para justificar a maior distância possível.",
+          "misconceptionType": "Ignorar o limite do ruído de fundo e o requisito de 5 dB acima dele",
+          "whyItLooksPlausible": "Como o gráfico mostra valores próximos, pode parecer que o som ainda é audível.",
+          "whyItIsWrong": "A distância é longe demais e o nível sonoro se encontra muito abaixo do mínimo necessário para compreensão."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de gráfico e conceitos básicos de acústica",
+        "secondarySkills": [
+          "Raciocínio quantitativo",
+          "Compreensão de física aplicada ao ambiente"
+        ],
+        "cognitiveDemand": "Medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Exige interpretar gráfico para extrair dados de nível sonoro com distância.",
+          "É necessário entender o conceito de relação entre ruído de fundo, nível de sinal e inteligibilidade.",
+          "Aplica a lógica de decaimento do som em ambientes fechados para determinar distância máxima para compreensão."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🔊",
+        "shortThemeTitle": "Acústica e Inteligibilidade Sonora",
+        "interpretationIntro": "Esta questão avalia a compreensão sobre como o nível sonoro e o ruído de fundo incidem na inteligibilidade da fala em ambientes fechados, especialmente numa sala de aula.",
+        "commandTerms": [
+          {
+            "term": "Nível sonoro",
+            "explanation": "Medida da intensidade do som em decibéis (dB)."
+          },
+          {
+            "term": "Ruído de fundo",
+            "explanation": "Som ambiente que interfere na percepção do som desejado."
+          },
+          {
+            "term": "Inteligibilidade",
+            "explanation": "Capacidade de entender claramente uma fala ou som emitido."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para determinar a maior distância em que um estudante consegue entender a fala do professor, considerando as condições do nível sonoro da fala e do ruído de fundo.",
+        "strategyParagraph": "Para encontrar essa distância, devemos observar o gráfico que relaciona o nível sonoro à distância. Sabemos que a fala precisa estar pelo menos 5 dB acima do ruído de fundo máximo (45 dB), ou seja, a fala deve ter, no mínimo, 50 dB para ser compreendida. Assim, localizamos no gráfico a distância onde o nível sonoro cai até 50 dB, identificando esse ponto como a distância máxima para boa compreensão.",
+        "reviewTable": [
+          {
+            "concept": "Decaimento do nível sonoro com distância",
+            "keyIdea": "O som diminui conforme a distância da fonte aumenta.",
+            "application": "Permite determinar a distância máxima para escutar claramente a fala do professor."
+          },
+          {
+            "concept": "Relação entre som da fala e ruído de fundo",
+            "keyIdea": "A fala deve estar pelo menos 5 dB acima do ruído para ser inteligível.",
+            "application": "Determina o nível sonoro mínimo necessário para a compreensão."
+          },
+          {
+            "concept": "Interpretação de gráfico",
+            "keyIdea": "Leitura correta do gráfico de nível sonoro versus distância.",
+            "application": "Localizar a distância onde o som da fala atinge o nível mínimo para compreensão."
+          }
+        ],
+        "theoryParagraphs": [
+          "O som emitido por uma fonte pontual em um ambiente fechado sofre uma diminuição de intensidade conforme se afasta da fonte, caracterizada pelo decaimento do nível sonoro com a distância. Neste contexto, a intensidade sonora diminui em função da distância devido à dispersão da energia sonora.",
+          "Além disso, o ruído de fundo presente no ambiente, como sons de ventilação, conversas ou equipamentos, interfere na audição. Para que a fala seja inteligível, ela precisa se destacar do ruído ambiente. Pesquisa acústica aponta que o nível da fala deve estar pelo menos 5 dB acima do ruído para garantir uma boa compreensão.",
+          "A compreensão deste conceito permite aplicar a leitura de gráficos que relacionam o nível sonoro com a distância para definir o alcance efetivo da fala do professor em uma sala de aula, garantindo condições adequadas para a aprendizagem."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado informa que o nível sonoro da fala do professor a 1 metro é 60 dB e que o ruído de fundo máximo é 45 dB.",
+          "Para garantir a inteligibilidade da fala, essa deve estar pelo menos 5 dB acima do ruído, ou seja, no mínimo 50 dB.",
+          "Consultando o gráfico, observa-se que o nível sonoro diminui com o aumento da distância, chegando a aproximadamente 50 dB na distância de 3 metros.",
+          "Portanto, a maior distância na qual o estudante ainda consegue compreender claramente a fala do professor é cerca de 3 metros."
+        ],
+        "puloDoGato": "Lembre-se: para boa compreensão, o nível sonoro da fala precisa estar pelo menos 5 dB acima do ruído de fundo — e use o gráfico para encontrar essa distância exatamente.",
+        "alternatives": [
+          {
+            "option": "3,0 m",
+            "isCorrect": true,
+            "explanation": "Correta. A fala, para ser entendida, precisa estar a pelo menos 50 dB, que ocorre aproximadamente a 3 metros do professor segundo o gráfico."
+          },
+          {
+            "option": "4,5 m",
+            "isCorrect": false,
+            "explanation": "Incorreta. O nível sonoro cai abaixo de 50 dB antes dos 4,5 metros, logo a fala não é inteligível a essa distância."
+          },
+          {
+            "option": "6,5 m",
+            "isCorrect": false,
+            "explanation": "Incorreta. A distância de 6,5 metros está além do ponto em que a fala está 5 dB acima do ruído de fundo, então não garante compreensão."
+          },
+          {
+            "option": "8,0 m",
+            "isCorrect": false,
+            "explanation": "Incorreta. A fala está muito abaixo do nível necessário para compreensão a essa distância, segundo o gráfico."
+          },
+          {
+            "option": "9,5 m",
+            "isCorrect": false,
+            "explanation": "Incorreta. Muito distante, o som está claramente abaixo do nível mínimo para ser compreendido com ruído de fundo de 45 dB."
+          }
+        ],
+        "questionCode": "CN_ACUSTICA_INTERPRETACAO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução apresentada está coerente entre enunciado, cálculo e explicação. A resposta correta é consistente com o gráfico e os conceitos físicos envolvidos. Não foram detectados erros na interpretação, cálculo ou explicação didática. O bloco de resolução oficial está claro, didático e atende ao padrão editorial solicitado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3371,
+    "outputTokens": 2456,
+    "estimatedCostUsd": 0.005278
+  }
+}

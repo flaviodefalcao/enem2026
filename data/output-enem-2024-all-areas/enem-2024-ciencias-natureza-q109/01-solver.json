@@ -1,0 +1,82 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:29:46.480Z",
+  "questionId": "enem-2024-ciencias-natureza-q109",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "Circuito em paralelo com resistor e LED em cada ramo, tensão adequada para acender cada LED na corrente máxima.",
+      "strategy": "Analisar a tensão da bateria, tensão de funcionamento do LED, e corrente máxima para escolher circuito que garanta corrente e tensão adequadas para ambos os LEDs.",
+      "steps": [
+        "Identificar tensão da bateria: 4,5 V",
+        "Identificar tensão do LED: 3,0 V e corrente máxima: 1 mA",
+        "Calcular resistor para limitar corrente: R = (4,5 V - 3 V) / 1 mA = 1,5 kΩ",
+        "Verificar configurações possíveis para garantir corrente máxima em ambos LEDs",
+        "Confirmar que circuito em paralelo (alternativa B) garante tensão 4,5 V em cada ramo, permitindo cada LED operar a 3 V com resistor de 1,5 kΩ limitando corrente a 1 mA.",
+        "Confirmar que outros circuitos podem não garantir a mesma corrente e tensão simultaneamente.",
+        "Conclusão: alternativa B é a correta."
+      ],
+      "formulasUsed": [
+        "R = (V_bateria - V_LED) / I_máx"
+      ],
+      "visualEvidenceUsed": [
+        "Símbolo do LED mostrando sentido permitido da corrente",
+        "Circuito paralelo com resistor e LED em cada ramo na alternativa B"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "LEDs em paralelo sem resistores adequados.",
+        "misconceptionType": "Ignorar necessidade de resistor para limitar corrente.",
+        "whyItLooksPlausible": "Se os LEDs estão em paralelo, parece que a tensão é correta para ambos.",
+        "whyItIsWrong": "Sem resistor, corrente não é limitada, podendo queimar os LEDs."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Reversão da polaridade dos LEDs ou ligação incorreta.",
+        "misconceptionType": "Considerar apenas posição sem respeitar sentido da corrente do LED.",
+        "whyItLooksPlausible": "Circuito com resistores em paralelo pode parecer correto visualmente.",
+        "whyItIsWrong": "LED com polaridade invertida não acende."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "LEDs em série com resistores separados.",
+        "misconceptionType": "Confundir série com paralelo para múltiplos LEDs.",
+        "whyItLooksPlausible": "Fácil de montar, parece linear e simples.",
+        "whyItIsWrong": "Tensão total dos LEDs é 6 V, maior que bateria de 4,5 V; LEDs não acendem."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Confusão na posição dos resistores e LEDs.",
+        "misconceptionType": "Ignorar corrente e tensão limitantes, só olhar posição.",
+        "whyItLooksPlausible": "Componentes estão todos no circuito, pode parecer funcional.",
+        "whyItIsWrong": "Configuração não garante a tensão e corrente adequadas para ambos os LEDs."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Eletricidade básica e análise de circuitos",
+      "secondarySkills": [
+        "Cálculo de resistência",
+        "Entendimento de dispositivos semicondutores"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Importante reconhecer o sentido do LED e tensão mínima para acendimento",
+        "Configuração em paralelo com resistor individual é chave para operação correta"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1653,
+    "outputTokens": 687,
+    "estimatedCostUsd": 0.00176
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:31:24.232Z",
+  "questionId": "enem-2024-ciencias-natureza-q127",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "Correta",
+      "strategy": "Analisar o fluxograma fornecido para entender como a urbanização leva a riscos à saúde humana, identificando as etapas intermediárias e a consequência da redução da biodiversidade aquática, o que está relacionado à diminuição dos predadores naturais dos mosquitos.",
+      "steps": [
+        "Identificar a sequência do fluxograma: Urbanização → Ausência de saneamento básico → Contaminação da água → Redução da biodiversidade aquática → Riscos para a saúde humana.",
+        "Compreender que a redução da biodiversidade aquática inclui a diminuição da população de predadores naturais dos mosquitos vetores de doenças.",
+        "Entender que a diminuição desses predadores aumenta a população de mosquitos, elevando o risco de transmissão de arboviroses, que afetam a saúde humana.",
+        "Comparar as alternativas com as informações do fluxograma para verificar qual corresponde à causa do aumento do risco identificado."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Fluxograma que mostra relação entre urbanização, ausência de saneamento básico, contaminação da água, redução da biodiversidade aquática e riscos para a saúde humana."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confundir doenças transmitidas por mosquitos com verminoses, que são parasitoses intestinais transmitidas por outros meios.",
+        "misconceptionType": "Confusão conceitual",
+        "whyItLooksPlausible": "Doenças transmitidas por vetores são associadas a parasitas, o que pode levar à associação errada com verminoses.",
+        "whyItIsWrong": "O texto e o fluxograma focam em arboviroses transmitidas por mosquitos, não verminoses."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Associar urbanização e poluição com eutrofização de lagoas, que ocorre pelo excesso de nutrientes em corpos d'água.",
+        "misconceptionType": "Generalização indevida",
+        "whyItLooksPlausible": "A contaminação da água pode gerar eutrofização, o que é um problema ambiental conhecido em ambientes urbanos.",
+        "whyItIsWrong": "Embora a urbanização possa causar eutrofização, o fluxograma especificamente destaca a redução da biodiversidade aquática e riscos para a saúde humana, sem mencionar eutrofização."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a contaminação da água aumenta coliformes, que são indicadores de contaminação fecal.",
+        "misconceptionType": "Foco incorreto",
+        "whyItLooksPlausible": "Coliformes em água contaminada podem causar doenças, ligando-os à saúde humana em áreas urbanas.",
+        "whyItIsWrong": "O fluxograma destaca a biodiversidade aquática e predadores de mosquitos, não a presença de coliformes."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Associar urbanização com aproximação das pessoas às áreas onde mosquitos podem ocorrer, aumentando o contato.",
+        "misconceptionType": "Interpretação incorreta da relação causal",
+        "whyItLooksPlausible": "O aumento do contato entre pessoas e mosquitos é um fator que influencia epidemias de arboviroses.",
+        "whyItIsWrong": "O fluxograma destaca a redução da biodiversidade aquática, que leva à diminuição dos predadores naturais dos mosquitos, ampliando riscos, não simplesmente a proximidade das pessoas às áreas com mosquitos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto e gráficos relacionados a biologia e saúde pública",
+      "secondarySkills": [
+        "Raciocínio causal",
+        "Conhecimentos de ecologia e biologia"
+      ],
+      "cognitiveDemand": "médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretar um fluxograma para entender os impactos ambientais da urbanização na saúde humana.",
+        "É necessário conhecimento básico sobre ecologia (biodiversidade e predadores naturais) e doenças transmitidas por mosquitos.",
+        "Distratores envolvem confusões maduras que exigem atenção à relação entre os diferentes conceitos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1101,
+    "outputTokens": 840,
+    "estimatedCostUsd": 0.001784
+  }
+}

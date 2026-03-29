@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:43:29.812Z",
+  "questionId": "enem-2024-ciencias-natureza-q119",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Mecânica e energia",
+    "rationale": "A questão aborda os conceitos físicos relacionados à segurança veicular, especificamente a função do crumple zone como uma área deformável que absorve energia cinética durante uma colisão para proteger os ocupantes do veículo. Isso está diretamente relacionado à mecânica, envolvendo energia, forças e movimentos, sendo um conteúdo típico do subtema \"Mecânica e energia\" em Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1539,
+    "outputTokens": 98,
+    "estimatedCostUsd": 0.000772
+  }
+}

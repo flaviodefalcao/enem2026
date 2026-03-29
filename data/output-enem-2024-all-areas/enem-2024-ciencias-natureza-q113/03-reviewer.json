@@ -1,0 +1,182 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:36:20.793Z",
+  "questionId": "enem-2024-ciencias-natureza-q113",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta porque a técnica RT-PCR detecta genes que estão em atividade, ou seja, em processo de expressão, visto que converte RNA mensageiro em DNA complementar para análise.",
+        "strategy": "Analisar o funcionamento da RT-PCR, que usa transcriptase reversa para sintetizar DNA a partir de RNA, especificamente mRNA, indicando a expressão gênica ativa.",
+        "steps": [
+          "Compreender que RT-PCR inicia com transcriptase reversa transformando RNA em DNA complementar.",
+          "Identificar que o RNA alvo é o mensageiro (mRNA), relacionado a genes expressos.",
+          "Concluir que a técnica detecta genes ativos, expressos nas células.",
+          "Relacionar as alternativas com o propósito da técnica, selecionando a que indica expressão gênica."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "RT-PCR detecta genes ativos que produzem RNA mensageiro, convertendo-o em DNA para análise, permitindo identificar expressão gênica.",
+        "stepByStep": [
+          "Reconheça que a transcriptase reversa converte RNA em DNA complementar na RT-PCR.",
+          "Note que o RNA empregado é o mensageiro, produzido apenas por genes ativos.",
+          "Interprete que a detecção desse DNA complementar representa genes expressos.",
+          "Selecione a alternativa que correlaciona a técnica à detecção da expressão gênica."
+        ],
+        "commonPitfalls": [
+          "Confundir RT-PCR com PCR tradicional, que detecta DNA genômico, não expressão.",
+          "Pensar que RT-PCR identifica genes presentes independentemente de expressão.",
+          "Associar a técnica a características genéticas como dominância ou localização genômica.",
+          "Acreditar que a técnica identifica exclusivamente genes bacterianos ou plasmidiais."
+        ],
+        "teachingTips": [
+          "Destaque a diferença entre PCR e RT-PCR e o papel da transcriptase reversa.",
+          "Utilize exemplos de transcrição para explicar o conceito de expressão gênica.",
+          "Mostre aplicações práticas da RT-PCR, como diagnóstico de vírus por RNA.",
+          "Estimule análise cuidadosa dos termos técnicos no enunciado."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "Associação dos plasmídeos com genes detectáveis via PCR em procariotos.",
+          "misconceptionType": "confusão conceitual",
+          "whyItLooksPlausible": "Plasmídeos são comuns em clonagem, ligando PCR a genes plasmidiais.",
+          "whyItIsWrong": "RT-PCR detecta RNA mensageiro, ligado à expressão gênica, não diretamente à presença em plasmídeos."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Relação generalizada da técnica com genes bacterianos por seu uso em procariotos.",
+          "misconceptionType": "generalização indevida",
+          "whyItLooksPlausible": "RT-PCR aplicada em bactérias sugere foco em genes bacterianos.",
+          "whyItIsWrong": "A técnica detecta genes expressos independentemente da espécie de origem."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Confusão com características genéticas, como dominância.",
+          "misconceptionType": "confusão conceitual",
+          "whyItLooksPlausible": "Dominância é um conceito genético conhecido, parecendo ligado a detecção gênica.",
+          "whyItIsWrong": "Dominância refere-se à herança, não à expressão gênica medida pela RT-PCR."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Generalização considerando genes autossômicos como maioria e portanto detectáveis.",
+          "misconceptionType": "confusão conceitual",
+          "whyItLooksPlausible": "Genes autossômicos são comuns, parecendo adequados para RT-PCR.",
+          "whyItIsWrong": "RT-PCR detecta expressão, não categoriza genes por localização cromossômica."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Biologia molecular e genética",
+        "secondarySkills": [
+          "Conhecimento de técnicas laboratoriais",
+          "Interpretação de conceitos científicos"
+        ],
+        "cognitiveDemand": "Medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Requer conhecimento sobre técnica RT-PCR.",
+          "Enunciado não apresenta imagens auxiliares.",
+          "Avalia compreensão da expressão gênica e técnicas moleculares."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Detecção de Genes Expressos pela RT-PCR",
+        "interpretationIntro": "A questão pede para identificar o tipo de genes que podem ser detectados pela técnica RT-PCR, focada na transcrição reversa a partir de RNA.",
+        "commandTerms": [
+          {
+            "term": "RT-PCR",
+            "explanation": "Técnica que converte RNA em DNA complementar para analisar expressão gênica."
+          },
+          {
+            "term": "Transcriptase reversa",
+            "explanation": "Enzima que sintetiza DNA a partir de RNA, utilizada na RT-PCR para cDNA."
+          },
+          {
+            "term": "Expressão gênica",
+            "explanation": "Processo em que genes ativos produzem RNA mensageiro."
+          }
+        ],
+        "whatTheQuestionAsks": "A pergunta busca compreender a aplicação da RT-PCR na detecção de quais genes, considerando sua função molecular.",
+        "strategyParagraph": "Para resolver, é necessário entender que a RT-PCR usa transcriptase reversa para transformar RNA, especialmente o mensageiro, em DNA complementar, que indica quais genes estão ativos e sendo expressos na célula. Avaliar as alternativas à luz desse funcionamento leva à correta associação da técnica com a detecção de genes expressão.",
+        "reviewTable": [
+          {
+            "concept": "RT-PCR",
+            "keyIdea": "Transforma RNA em DNA complementar para análise",
+            "application": "Detecta genes que estão ativos, produzindo RNA mensageiro"
+          },
+          {
+            "concept": "Expressão gênica",
+            "keyIdea": "Genes ativos transcrevem RNA mensageiro",
+            "application": "RT-PCR identifica genes ativos pela presença de mRNA"
+          },
+          {
+            "concept": "Transcriptase reversa",
+            "keyIdea": "Enzima que sintetiza DNA a partir de RNA",
+            "application": "Fundamental para converter o RNA em DNA na RT-PCR"
+          }
+        ],
+        "theoryParagraphs": [
+          "A RT-PCR é uma técnica molecular que inicia com a transcriptase reversa, enzima que sintetiza DNA complementar (cDNA) a partir de moléculas de RNA, especialmente RNA mensageiro (mRNA), produto da expressão gênica ativa nas células.",
+          "Esse processo permite identificar quais genes estão ativos, pois apenas genes em expressão produzem mRNA, que serve como molde para a síntese do cDNA detectado pela técnica.",
+          "Assim, a RT-PCR não detecta genes presentes no genoma indiscriminadamente, mas especificamente aqueles que estão sendo transcritos em determinado momento, refletindo a atividade gênica celular."
+        ],
+        "resolutionParagraphs": [
+          "A RT-PCR começa convertendo o RNA mensageiro em DNA complementar através da transcriptase reversa.",
+          "O RNA mensageiro representa a informação genética dos genes que estão ativos na célula, ou seja, em processo de expressão.",
+          "Dessa forma, o DNA complementar sintetizado é diretamente ligado à expressão gênica, evidenciando quais genes estão ativos.",
+          "Analisando as alternativas, a que melhor representa essa função da RT-PCR é a que indica genes expressos, pois as outras confundem presença gênica com expressão, característica genética ou localização genômica.",
+          "Portanto, a resposta correta é a alternativa A, que reconhece a técnica como ferramenta para detectar genes em atividade (expressos)."
+        ],
+        "puloDoGato": "Lembre que RT-PCR identifica RNA mensageiro, ou seja, a expressão gênica ativa, não apenas a presença do gene.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta porque RT-PCR detecta genes em atividade, convertendo o RNA mensageiro em DNA complementar para análise."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada pois RT-PCR não detecta genes em plasmídeos especificamente, mas RNA de genes expressos."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta porque a técnica não distingue expressão gênica por origem bacteriana ou não."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Errada pois dominância genética é conceito distinto e não envolve expressão avaliada pela RT-PCR."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada porque RT-PCR não categoriza genes por sua localização autossômica, mas detecta expressão gênica."
+          }
+        ],
+        "questionCode": "CN_BIOLOGIA_TECNICA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução e o explicador estão coerentes em identificar a alternativa A como correta, fundamentados no funcionamento da RT-PCR e sua aplicação para detectar genes expressos. A resolução oficial segue o padrão editorial solicitado, detalhando estratégia, teoria e justificativa das alternativas com clareza e precisão.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2539,
+    "outputTokens": 1786,
+    "estimatedCostUsd": 0.003873
+  }
+}

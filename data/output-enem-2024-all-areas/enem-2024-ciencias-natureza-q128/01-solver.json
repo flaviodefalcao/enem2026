@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:33:01.475Z",
+  "questionId": "enem-2024-ciencias-natureza-q128",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta, pois o texto destaca que poluentes apolares e lipossolúveis tendem a se acumular em tecidos com maior afinidade por substâncias lipossolúveis, como o tecido adiposo.",
+      "strategy": "Identificar a propriedade dos poluentes mencionados (lipossolúveis e apolares) e relacionar com o tipo de tecido onde essas substâncias se acumulam preferencialmente, aplicando conhecimento sobre bioacumulação e propriedades químicas dos tecidos.",
+      "steps": [
+        "Ler o enunciado e identificar que os poluentes derivam de pesticidas lipossolúveis apolares.",
+        "Reconhecer que esses poluentes lipossolúveis tendem a se acumular em tecidos com alta concentração de lipídios.",
+        "Listar os tecidos mencionados nas opções e analisar sua composição: ósseo (matriz rígida), nervoso (tecido com alta concentração de lipídios na bainha de mielina), epitelial (reveste superfícies), adiposo (principalmente formado por gordura), sanguíneo (sangue, líquido).",
+        "Identificar que o tecido adiposo é o mais rico em gordura, sendo o principal local de acumulação para substâncias lipossolúveis.",
+        "Concluir que a acumulação preferencial ocorre no tecido adiposo."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O tecido ósseo pode parecer um local de armazenamento, mas é pobre em lipídios e não é o local preferencial para compostos lipossolúveis.",
+        "misconceptionType": "Confusão sobre composição tecidual",
+        "whyItLooksPlausible": "O tecido ósseo é uma estrutura rígida que pode armazenar alguns minerais e substâncias.",
+        "whyItIsWrong": "Não é um tecido lipofílico e, portanto, não acumula poluentes lipossolúveis preferencialmente."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O tecido nervoso tem lipídios na bainha de mielina, o que pode levar à ideia de que poluentes lipossolúveis se acumulam nele.",
+        "misconceptionType": "Generalização",
+        "whyItLooksPlausible": "A bainha de mielina é rica em lipídios, sugerindo potencial para acumulação.",
+        "whyItIsWrong": "Embora o tecido nervoso contenha lipídios, a quantidade é menor comparada ao tecido adiposo e não é o principal acumulador."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "O tecido epitelial pode ser confundido como local de acumulação por ser a interface com o ambiente externo.",
+        "misconceptionType": "Confusão entre função e composição",
+        "whyItLooksPlausible": "O tecido epitelial está em contato direto com poluentes e substâncias do meio externo.",
+        "whyItIsWrong": "O tecido epitelial não é rico em lipídios para armazenar poluentes lipossolúveis."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "O sangue circula poluentes, levando à ideia de que eles se acumulam ali.",
+        "misconceptionType": "Confusão entre transporte e acumulação",
+        "whyItLooksPlausible": "O sangue transporta substâncias pela corrente sanguínea.",
+        "whyItIsWrong": "O sangue não é um tecido de armazenamento e não acumula poluentes lipossolúveis preferencialmente."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de texto científico e biologia celular",
+      "secondarySkills": [
+        "Conhecimento sobre bioacumulação",
+        "Química de compostos lipossolúveis"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão avalia compreensão da solubilidade e sua relação com o tipo de tecido biológico.",
+        "É necessário relacionar informação do texto com conhecimento prévio de tecidos e propriedades químicas.",
+        "Não há imagens associadas que impactem diretamente na resposta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 580,
+    "outputTokens": 837,
+    "estimatedCostUsd": 0.001571
+  }
+}

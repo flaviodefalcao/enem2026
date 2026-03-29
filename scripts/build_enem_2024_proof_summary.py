@@ -7,8 +7,21 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-INPUT_DIR = ROOT / "output_enem_all_areas_2024"
 OUTPUT_PATH = ROOT / "src" / "data" / "generated" / "enem-2024-proof-summary.json"
+
+
+def resolve_input_dir() -> Path:
+    candidates = [
+        ROOT / "output_enem_all_areas_2024",
+        Path("/Volumes/ELEMENTS/microdados/output_enem_all_areas_2024"),
+    ]
+    for candidate in candidates:
+        if (candidate / "LC" / "06_gold_a_student_wide.parquet").exists():
+            return candidate
+    raise FileNotFoundError("Could not find output_enem_all_areas_2024 with student-wide parquet files.")
+
+
+INPUT_DIR = resolve_input_dir()
 
 AREA_META = {
     "LC": {"slug": "linguagens", "label": "Linguagens", "questionCount": 45},
@@ -169,6 +182,24 @@ def main() -> None:
             }
         )
 
+    top_student_accuracy_ranges = []
+    for label, column, max_possible in [
+        ("Linguagens", "acertos_lc", 45),
+        ("Ciências Humanas", "acertos_ch", 45),
+        ("Ciências da Natureza", "acertos_cn", 45),
+        ("Matemática", "acertos_mt", 45),
+        ("Geral", "total_acertos_180", 180),
+    ]:
+        series = pd.to_numeric(top_students[column], errors="coerce").dropna()
+        top_student_accuracy_ranges.append(
+            {
+                "label": label,
+                "minAccuracy": round(float(series.min()), 1) if not series.empty else 0.0,
+                "maxAccuracy": round(float(series.max()), 1) if not series.empty else 0.0,
+                "maxPossible": max_possible,
+            }
+        )
+
     areas_payload: dict[str, object] = {}
     for area_code, meta in AREA_META.items():
         frame = area_frames[area_code]
@@ -209,7 +240,8 @@ def main() -> None:
         "topStudents": {
             "threshold": 800,
             "sampleSize": int(len(top_students)),
-            "ranges": top_student_ranges,
+            "scoreRanges": top_student_ranges,
+            "accuracyRanges": top_student_accuracy_ranges,
         },
         "overallAccuracyVsScore": bucketize_accuracy_vs_score(
             overall_base,

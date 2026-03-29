@@ -1,0 +1,41 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:31:32.649Z",
+  "questionId": "enem-2024-ciencias-natureza-q110",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para que as lâmpadas L₁ e L₂ acendam conforme especificado, o amperímetro deve ser conectado no ponto B do fio QR. Isso porque, em B, a tensão se distribui corretamente, preservando as condições de tensão e potência das lâmpadas, devido à divisão proporcional da resistência no fio e ao circuito em série.",
+      "stepByStep": [
+        "Calcule a corrente necessária para cada lâmpada usando I = P/V.",
+        "Determine a resistência de cada lâmpada com R = V/I.",
+        "Some as resistências das lâmpadas em série para entender a resistência total do circuito.",
+        "Observe que o fio QR está em paralelo à bateria e que conectar o amperímetro em diferentes pontos do fio altera a tensão no circuito.",
+        "Divida o fio QR em seis segmentos iguais, correspondendo a cinco pontos para conexão (A, B, C, D, E).",
+        "Analise a tensão em cada ponto do fio para verificar qual deles mantém as tensões originais das lâmpadas.",
+        "Verifique que somente no ponto B a divisão da tensão e a resistência do fio preservam as tensões e potências originais das lâmpadas.",
+        "Conclua que o amperímetro deve ser conectado em B para que as lâmpadas funcionem conforme especificado."
+      ],
+      "commonPitfalls": [
+        "Assumir que ligar o amperímetro no ponto mais próximo da bateria (como A) manterá a tensão ideal, sem considerar a queda de tensão no fio.",
+        "Pensar que a posição central (C) do fio garantirá a tensão correta para ambas as lâmpadas.",
+        "Ignorar a influência da resistência do fio QR na divisão de tensão do circuito.",
+        "Não aplicar corretamente a relação entre potência, tensão e corrente nas lâmpadas conectadas em série.",
+        "Confundir a função do fio QR em paralelo e como ele afeta a tensão do circuito principal."
+      ],
+      "teachingTips": [
+        "Explique a relação fundamental entre potência, tensão e corrente para ajudar na compreensão do problema.",
+        "Use o diagrama para mostrar as divisões do fio QR e como elas afetam as quedas de tensão em cada segmento.",
+        "Faça com que os alunos calculem a resistência das lâmpadas para entenderem a série e a paralelo do circuito.",
+        "Reforce a importância de analisar cada ponto de conexão em circuitos para compreender como a tensão se distribui.",
+        "Utilize exemplos práticos e simulações para ilustrar a influência da posição de conexão do amperímetro no funcionamento do circuito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1786,
+    "outputTokens": 511,
+    "estimatedCostUsd": 0.001532
+  }
+}

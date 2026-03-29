@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:40:51.054Z",
+  "questionId": "enem-2024-ciencias-natureza-q134",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O exoesqueleto rígido dos crustáceos limita seu crescimento porque não se expande. Para crescer, eles precisam substituir esse exoesqueleto antigo por um novo, processo conhecido como muda ou ecdise.",
+      "stepByStep": [
+        "Reconhecer que o exoesqueleto dos crustáceos é duro e impede o crescimento contínuo do animal.",
+        "Entender que, porque o exoesqueleto não cresce junto com o crustáceo, este precisa trocá-lo periodicamente.",
+        "Saber que esse processo de troca do exoesqueleto se chama muda ou ecdise.",
+        "Concluir que o crustáceo cresce ao formar um novo exoesqueleto maior que substitui o antigo, permitindo aumento de tamanho.",
+        "Selecionar a alternativa que indica essa substituição periódica do exoesqueleto, confirmando o mecanismo biológico correto."
+      ],
+      "commonPitfalls": [
+        "Pensar que o exoesqueleto cresce junto com o corpo do crustáceo, sem necessidade de troca.",
+        "Acreditar que o exoesqueleto pode fragmentar em articulações para permitir crescimento.",
+        "Supor que o exoesqueleto é moldado continuamente para se ajustar ao crescimento do animal.",
+        "Confundir a composição química do exoesqueleto com sua capacidade de expansão(elasticidade)."
+      ],
+      "teachingTips": [
+        "Utilize modelos ou imagens que mostrem o processo de muda nos crustáceos para facilitar a visualização.",
+        "Explique a diferença entre crescimento em animais com exoesqueleto rígido e aqueles com esqueleto interno.",
+        "Discuta exemplos práticos, como a troca de carapaça em caranguejos, para conectar teoria e observação.",
+        "Reforce a importância da adaptação biológica para o crescimento, destacando limitações físicas e estratégias para superá-las."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1109,
+    "outputTokens": 373,
+    "estimatedCostUsd": 0.00104
+  }
+}

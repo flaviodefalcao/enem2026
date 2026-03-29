@@ -1,0 +1,1938 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2023/ENEM_2023_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2023,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Alguns estudos comprovam que os carboidratos\nfornecem energia ao corpo, preservam as proteínas\nestruturais dos músculos durante a prática de atividade\nfísica e ainda dão força para o cérebro coordenar os\nmovimentos, o que de fato tem impacto positivo no\ndesenvolvimento do praticante. O ideal é consumir 1 grama\nde carboidrato para cada minuto de caminhada.\n\nA quantidade mínima de pacotes de pão de fôrma\nnecessários para prover o suprimento a esse casal é\nA\nA 1.\nB\nB 4.\nC\nC 6.\nD\nD 7.\nE\nE 8.",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-136/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-136/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Alguns estudos comprovam que os carboidratos\nfornecem energia ao corpo, preservam as proteínas\nestruturais dos músculos durante a prática de atividade\nfísica e ainda dão força para o cérebro coordenar os\nmovimentos, o que de fato tem impacto positivo no\ndesenvolvimento do praticante. O ideal é consumir 1 grama\nde carboidrato para cada minuto de caminhada.\n\nA quantidade mínima de pacotes de pão de fôrma\nnecessários para prover o suprimento a esse casal é\nA\nA 1.\nB\nB 4.\nC\nC 6.\nD\nD 7.\nE\nE 8.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "O mastro de uma bandeira foi instalado\nperpendicularmente ao solo em uma região plana.\nDevido aos fortes ventos, três cabos de aço, de mesmo\ncomprimento, serão instalados para dar sustentação ao\nmastro. Cada cabo de aço ficará perfeitamente esticado,\ncom uma extremidade num ponto P do mastro, a uma\naltura h do solo, e a outra extremidade, num ponto no\nchão, como mostra a figura.\n\nh\nP\n\nα\nα\nα\nOs cabos de aço formam um ângulo acom o plano\ndo chão.\nPor medida de segurança, há apenas três opções de\ninstalação:\n• opção I: h = 11 m e a₌ 30°\n• opção II: h = 12 m e a₌ 45°\n• opção III: h = 18 m e a₌ 60°\nA opção a ser escolhida é aquela em que a medida\ndos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a\nserem instalados?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "22 3",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "11 2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "12 2",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12 3",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "22",
+          "assets": []
+        }
+      ],
+      "rawText": "O mastro de uma bandeira foi instalado\nperpendicularmente ao solo em uma região plana.\nDevido aos fortes ventos, três cabos de aço, de mesmo\ncomprimento, serão instalados para dar sustentação ao\nmastro. Cada cabo de aço ficará perfeitamente esticado,\ncom uma extremidade num ponto P do mastro, a uma\naltura h do solo, e a outra extremidade, num ponto no\nchão, como mostra a figura.\n\nh\nP\n\nα\nα\nα\nOs cabos de aço formam um ângulo acom o plano\ndo chão.\nPor medida de segurança, há apenas três opções de\ninstalação:\n• opção I: h = 11 m e a₌ 30°\n• opção II: h = 12 m e a₌ 45°\n• opção III: h = 18 m e a₌ 60°\nA opção a ser escolhida é aquela em que a medida\ndos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a\nserem instalados?\n\nA. 22 3\nB. 11 2\nC. 12 2\nD. 12 3\nE. 22"
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "statement": "Um controlador de voo dispõe de um instrumento que\ndescreve a altitude de uma aeronave em voo, em função\nda distância em solo. Essa distância em solo é a medida na\nhorizontal entre o ponto de origem do voo até o ponto que\nrepresenta a projeção ortogonal da posição da aeronave,\nem voo, no solo. Essas duas grandezas são dadas numa\nmesma unidade de medida.\nA tela do instrumento representa proporcionalmente\nas dimensões reais das distâncias associadas ao voo.\nA figura apresenta a tela do instrumento depois de\nconcluída a viagem de um avião, sendo a medida do lado\nde cada quadradinho da malha igual a 1 cm.\nAltitude\n\nEssa tela apresenta os dados de um voo cuja maior\naltitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é\nA\nA 1 : 5.\nB\nB 1 : 11.\nC\nC 1 : 55.\nD\nD 1 : 5 000.\nE\nE 1 : 500 000.\n*020125AM16*\n\n17\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-138/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-138/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um controlador de voo dispõe de um instrumento que\ndescreve a altitude de uma aeronave em voo, em função\nda distância em solo. Essa distância em solo é a medida na\nhorizontal entre o ponto de origem do voo até o ponto que\nrepresenta a projeção ortogonal da posição da aeronave,\nem voo, no solo. Essas duas grandezas são dadas numa\nmesma unidade de medida.\nA tela do instrumento representa proporcionalmente\nas dimensões reais das distâncias associadas ao voo.\nA figura apresenta a tela do instrumento depois de\nconcluída a viagem de um avião, sendo a medida do lado\nde cada quadradinho da malha igual a 1 cm.\nAltitude\n\nEssa tela apresenta os dados de um voo cuja maior\naltitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é\nA\nA 1 : 5.\nB\nB 1 : 11.\nC\nC 1 : 55.\nD\nD 1 : 5 000.\nE\nE 1 : 500 000.\n*020125AM16*\n\n17\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte\nde seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que\napresenta o número de horas diárias por atividade.\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades\nfísicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h)\nsão os seguintes:\n\nO dia da semana em que será comemorado o aniversário é\nA\nA segunda-feira.\nB\nB terça-feira.\nC\nC quarta-feira.\nD\nD quinta-feira.\nE\nE sexta-feira.",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-139/statement-01.png",
+        "/generated/enem-2023/matematica/question-139/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-139/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte\nde seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que\napresenta o número de horas diárias por atividade.\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades\nfísicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h)\nsão os seguintes:\n\nO dia da semana em que será comemorado o aniversário é\nA\nA segunda-feira.\nB\nB terça-feira.\nC\nC quarta-feira.\nD\nD quinta-feira.\nE\nE sexta-feira.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número\nde alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos\nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos.\nA diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel\nofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um\ndesconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.\nO desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo\nA\nA (5,0 ; 5,5).\nB\nB (8,0 ; 8,5).\nC\nC (11,5 ; 12,5).\nD\nD (19,5 ; 20,5).\nE\nE (3,5 ; 4,0).\n*020125AM17*\n\n18\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número\nde alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos\nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos.\nA diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel\nofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um\ndesconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.\nO desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo\nA\nA (5,0 ; 5,5).\nB\nB (8,0 ; 8,5).\nC\nC (11,5 ; 12,5).\nD\nD (19,5 ; 20,5).\nE\nE (3,5 ; 4,0).\n*020125AM17*\n\n18\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "O calendário maia apresenta duas contagens\nsimultâneas de anos, o chamado ano Tzolkim, composto\npor 260 dias e que determinava o calendário religioso,\ne o ano Haab, composto por 365 dias e que determinava o\ncalendário agrícola. Um historiador encontrou evidências\nde que gerações de uma mesma família governaram certa\ncomunidade maia pelo período de 20 ciclos, sendo cada\nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante\nquantos anos Tzolkim aquela comunidade maia foi\ngovernada por tal família?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "741",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 040",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 460",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2 100",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5 200",
+          "assets": []
+        }
+      ],
+      "rawText": "O calendário maia apresenta duas contagens\nsimultâneas de anos, o chamado ano Tzolkim, composto\npor 260 dias e que determinava o calendário religioso,\ne o ano Haab, composto por 365 dias e que determinava o\ncalendário agrícola. Um historiador encontrou evidências\nde que gerações de uma mesma família governaram certa\ncomunidade maia pelo período de 20 ciclos, sendo cada\nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante\nquantos anos Tzolkim aquela comunidade maia foi\ngovernada por tal família?\n\nA. 741\nB. 1 040\nC. 1 460\nD. 2 100\nE. 5 200"
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Sejam a, b e c as medidas dos lados de um triângulo\nretângulo, tendo a como medida da hipotenusa. Esses\nvalores a, b e c são, respectivamente, os diâmetros dos\ncírculos C₁, C₂ e C₃, como apresentados na figura.\n\nc\na\n\nb\n\nObserve que essa construção assegura, pelo teorema\nde Pitágoras, que área (C₁) = área (C₂) + área (C₃).\nUm professor de matemática era conhecedor dessa\nconstrução e, confraternizando com dois amigos em uma\npizzaria onde são vendidas pizzas somente em formato\nde círculo, lançou um desafio: mesmo sem usar um\ninstrumento de medição, poderia afirmar com certeza se\na área do círculo correspondente à pizza que ele pedisse\nera maior, igual ou menor do que a soma das áreas das\npizzas dos dois amigos. Assim, foram pedidas três pizzas.\nO professor as dividiu ao meio e formou um triângulo com\nos diâmetros das pizzas, conforme indicado na figura.\nMeia pizza do amigo 2\nMeia pizza do\namigo 1\nMeia pizza do professor\nde matemática\n\nα\n\nA partir da medida do ângulo a, o professor afirmou\nque a área de sua pizza é maior do que a soma das áreas\ndas outras duas pizzas.\nA área da pizza do professor de matemática é maior do\nque a soma das áreas das outras duas pizzas, pois",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-142/statement-01.png",
+        "/generated/enem-2023/matematica/question-142/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-142/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0° < a< 90°",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "a₌ 90°",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "90° < a< 180°",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "a₌ 180°",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "180° < a< 360°",
+          "assets": []
+        }
+      ],
+      "rawText": "Sejam a, b e c as medidas dos lados de um triângulo\nretângulo, tendo a como medida da hipotenusa. Esses\nvalores a, b e c são, respectivamente, os diâmetros dos\ncírculos C₁, C₂ e C₃, como apresentados na figura.\n\nc\na\n\nb\n\nObserve que essa construção assegura, pelo teorema\nde Pitágoras, que área (C₁) = área (C₂) + área (C₃).\nUm professor de matemática era conhecedor dessa\nconstrução e, confraternizando com dois amigos em uma\npizzaria onde são vendidas pizzas somente em formato\nde círculo, lançou um desafio: mesmo sem usar um\ninstrumento de medição, poderia afirmar com certeza se\na área do círculo correspondente à pizza que ele pedisse\nera maior, igual ou menor do que a soma das áreas das\npizzas dos dois amigos. Assim, foram pedidas três pizzas.\nO professor as dividiu ao meio e formou um triângulo com\nos diâmetros das pizzas, conforme indicado na figura.\nMeia pizza do amigo 2\nMeia pizza do\namigo 1\nMeia pizza do professor\nde matemática\n\nα\n\nA partir da medida do ângulo a, o professor afirmou\nque a área de sua pizza é maior do que a soma das áreas\ndas outras duas pizzas.\nA área da pizza do professor de matemática é maior do\nque a soma das áreas das outras duas pizzas, pois\n\nA. 0° < a< 90°\nB. a₌ 90°\nC. 90° < a< 180°\nD. a₌ 180°\nE. 180° < a< 360°"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "Entre maratonistas, um parâmetro utilizado é o de\neconomia de corrida (EC). O valor desse parâmetro é\ncalculado pela razão entre o consumo de oxigênio, em\nmililitro (mL) por minuto (min), e a massa, em quilograma (kg),\ndo atleta correndo a uma velocidade constante.\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\nUm maratonista, visando melhorar sua performance,\nauxiliado por um médico, mensura o seu consumo de\noxigênio por minuto a velocidade constante. Com base\nnesse consumo e na massa do atleta, o médico calcula\no EC do atleta.\nA unidade de medida da grandeza descrita pelo\nparâmetro EC é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "min mL kg ⋅",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "mL min kg ⋅",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "min mL kg ⋅",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "min kg mL ⋅",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "mL kg min ⋅ *020125AM18* 19\nMT • 2º DIA • CADERNO 5 • AMARELO",
+          "assets": []
+        }
+      ],
+      "rawText": "Entre maratonistas, um parâmetro utilizado é o de\neconomia de corrida (EC). O valor desse parâmetro é\ncalculado pela razão entre o consumo de oxigênio, em\nmililitro (mL) por minuto (min), e a massa, em quilograma (kg),\ndo atleta correndo a uma velocidade constante.\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\nUm maratonista, visando melhorar sua performance,\nauxiliado por um médico, mensura o seu consumo de\noxigênio por minuto a velocidade constante. Com base\nnesse consumo e na massa do atleta, o médico calcula\no EC do atleta.\nA unidade de medida da grandeza descrita pelo\nparâmetro EC é\n\nA. min mL kg ⋅\nB. mL min kg ⋅\nC. min mL kg ⋅\nD. min kg mL ⋅\nE. mL kg min ⋅ *020125AM18* 19\nMT • 2º DIA • CADERNO 5 • AMARELO"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso,\npassou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa\nverificação, para os meses de abril a junho, são apresentados na tabela.\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do\nproduto I superassem as do produto II.\nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como\nno período representado na tabela.\nEm qual mês o produto II parou de ser produzido?",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-144/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-144/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Junho.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Julho.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Agosto.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Setembro.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Outubro.",
+          "assets": []
+        }
+      ],
+      "rawText": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso,\npassou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa\nverificação, para os meses de abril a junho, são apresentados na tabela.\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do\nproduto I superassem as do produto II.\nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como\nno período representado na tabela.\nEm qual mês o produto II parou de ser produzido?\n\nA. Junho.\nB. Julho.\nC. Agosto.\nD. Setembro.\nE. Outubro."
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia\npor todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um\ngráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até\naquele instante do dia.\n\nComparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas\npelos motoristas cadastrados nessa empresa, obtém-se",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-145/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-145/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "mediana = média < moda. Q₂",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "mediana = moda < média. Q4\nQ5 Q6 α Qual é o jogador que receberá a bola? Q₃",
+          "assets": [
+            "/generated/enem-2023/matematica/question-145/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "mediana < média < moda. Q₄",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "moda < média < mediana. Q₅",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "moda < mediana < média. *020125AM19* 20\nMT • 2º DIA • CADERNO 5 • AMARELO Q₆",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia\npor todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um\ngráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até\naquele instante do dia.\n\nComparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas\npelos motoristas cadastrados nessa empresa, obtém-se\n\nA. mediana = média < moda. Q₂\nB. mediana = moda < média. Q4\nQ5 Q6 α Qual é o jogador que receberá a bola? Q₃\nC. mediana < média < moda. Q₄\nD. moda < média < mediana. Q₅\nE. moda < mediana < média. *020125AM19* 20\nMT • 2º DIA • CADERNO 5 • AMARELO Q₆"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "A foto mostra a construção de uma cisterna destinada\nao armazenamento de água. Uma cisterna como essa, na\nforma de cilindro circular reto com 3 m² de área da base,\nfoi abastecida por um curso-d’água com vazão constante.\nO seu proprietário registrou a altura do nível da água no\ninterior da cisterna durante o abastecimento em diferentes\nmomentos de um mesmo dia, conforme o quadro.\nHorário (h)\nNível da água (m)\n6:00/0,5\n8:00/1,1\n12:00/2,3\n15:00/3,2\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.\nQual foi a vazão, em metro cúbico por hora, do\ncurso-d’água que abasteceu a cisterna?",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-146/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-146/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,3",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,5",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "0,9",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,8",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,7",
+          "assets": []
+        }
+      ],
+      "rawText": "A foto mostra a construção de uma cisterna destinada\nao armazenamento de água. Uma cisterna como essa, na\nforma de cilindro circular reto com 3 m² de área da base,\nfoi abastecida por um curso-d’água com vazão constante.\nO seu proprietário registrou a altura do nível da água no\ninterior da cisterna durante o abastecimento em diferentes\nmomentos de um mesmo dia, conforme o quadro.\nHorário (h)\nNível da água (m)\n6:00/0,5\n8:00/1,1\n12:00/2,3\n15:00/3,2\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.\nQual foi a vazão, em metro cúbico por hora, do\ncurso-d’água que abasteceu a cisterna?\n\nA. 0,3\nB. 0,5\nC. 0,9\nD. 1,8\nE. 2,7"
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "Num certo momento de um jogo digital, a tela\napresenta a imagem representada na figura. O ponto Q₁\nrepresenta a posição de um jogador que está com a bola,\nos pontos Q₂, Q₃, Q₄, Q₅ e Q₆ também indicam posições\nde jogadores da mesma equipe, e os pontos A e B indicam\nos dois pés da trave mais próxima deles. No momento da\npartida retratado, o jogador Q₁ tem a posse da bola, que\nserá passada para um dos outros jogadores das posições\nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B\nn\ntenha a mesma\nmedida do ângulo\nAQ B\n1.\n*020125AM20*\n\n21\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Num certo momento de um jogo digital, a tela\napresenta a imagem representada na figura. O ponto Q₁\nrepresenta a posição de um jogador que está com a bola,\nos pontos Q₂, Q₃, Q₄, Q₅ e Q₆ também indicam posições\nde jogadores da mesma equipe, e os pontos A e B indicam\nos dois pés da trave mais próxima deles. No momento da\npartida retratado, o jogador Q₁ tem a posse da bola, que\nserá passada para um dos outros jogadores das posições\nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B\nn\ntenha a mesma\nmedida do ângulo\nAQ B\n1.\n*020125AM20*\n\n21\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O triângulo da figura é denominado triângulo mágico.\nNos círculos, escrevem-se os números de 1 a 6, sem\nrepetição, com um número em cada círculo. O objetivo é\ndistribuir os números de forma que as somas dos números\nem cada lado do triângulo sejam iguais.\n\nConsidere que os números colocados nos vértices\ndo triângulo estejam em progressão aritmética de razão\nigual a 2.\nNas condições propostas, quais as possíveis soluções\npara as somas dos números que formam os lados do\ntriângulo?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",
+          "assets": []
+        }
+      ],
+      "rawText": "O triângulo da figura é denominado triângulo mágico.\nNos círculos, escrevem-se os números de 1 a 6, sem\nrepetição, com um número em cada círculo. O objetivo é\ndistribuir os números de forma que as somas dos números\nem cada lado do triângulo sejam iguais.\n\nConsidere que os números colocados nos vértices\ndo triângulo estejam em progressão aritmética de razão\nigual a 2.\nNas condições propostas, quais as possíveis soluções\npara as somas dos números que formam os lados do\ntriângulo?\n\nA. Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.\nB. Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.\nC. Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.\nD. Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.\nE. Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos\nficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto,\num sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão\ndepositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com\nseu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano,\ntrês cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro\nano. Todos os cartões têm a mesma probabilidade de serem sorteados.\nQual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 2",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 3",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 8",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2 9",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "3 8",
+          "assets": []
+        }
+      ],
+      "rawText": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos\nficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto,\num sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão\ndepositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com\nseu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano,\ntrês cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro\nano. Todos os cartões têm a mesma probabilidade de serem sorteados.\nQual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano?\n\nA. 1 2\nB. 1 3\nC. 1 8\nD. 2 9\nE. 3 8"
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto\ncujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador\ndesse vilarejo consome, em média, 200 litros de água por dia.\nNo mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água\nnos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório\ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água\ndurante os 10 dias seguintes. Considere 3 como aproximação para p.\nQual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo\nque o reservatório não fique sem água nos próximos 10 dias?\nA\nA 50\nB\nB 60\nC\nC 80\nD\nD 140\nE\nE 150",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto\ncujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador\ndesse vilarejo consome, em média, 200 litros de água por dia.\nNo mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água\nnos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório\ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água\ndurante os 10 dias seguintes. Considere 3 como aproximação para p.\nQual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo\nque o reservatório não fique sem água nos próximos 10 dias?\nA\nA 50\nB\nB 60\nC\nC 80\nD\nD 140\nE\nE 150\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com\n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos\ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado,\na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.\nA direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma\nquantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para\na creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista\nde espera no próximo ano seja 25% menor que o deste ano.\nO número mínimo de salas que deverão ser construídas é\nA\nA 10.\nB\nB 11.\nC\nC 13.\nD\nD 30.\nE\nE 33.\n*020125AM21*\n\n22\nMT • 2º DIA • CADERNO 5 • AMARELO\nO gráfico que melhor representa a variação dessa altura,\nem função do tempo, contado a partir do instante em que\na cadeira da pessoa P se encontra na posição mais alta\nda roda-gigante, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Altura em relação ao solo Tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Altura em relação ao solo Tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Altura em relação ao solo Tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Altura em relação ao solo Tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Altura em relação ao solo Tempo\n0",
+          "assets": []
+        }
+      ],
+      "rawText": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com\n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos\ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado,\na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.\nA direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma\nquantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para\na creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista\nde espera no próximo ano seja 25% menor que o deste ano.\nO número mínimo de salas que deverão ser construídas é\nA\nA 10.\nB\nB 11.\nC\nC 13.\nD\nD 30.\nE\nE 33.\n*020125AM21*\n\n22\nMT • 2º DIA • CADERNO 5 • AMARELO\nO gráfico que melhor representa a variação dessa altura,\nem função do tempo, contado a partir do instante em que\na cadeira da pessoa P se encontra na posição mais alta\nda roda-gigante, é\n\nA. Altura em relação ao solo Tempo\n0\nB. Altura em relação ao solo Tempo\n0\nC. Altura em relação ao solo Tempo\n0\nD. Altura em relação ao solo Tempo\n0\nE. Altura em relação ao solo Tempo\n0"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Os números figurados pentagonais provavelmente\nforam introduzidos pelos pitagóricos por volta do\nséculo V a.C. As figuras ilustram como obter os seis\nprimeiros deles, sendo os demais obtidos seguindo o\nmesmo padrão geométrico.",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-152/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-152/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Os números figurados pentagonais provavelmente\nforam introduzidos pelos pitagóricos por volta do\nséculo V a.C. As figuras ilustram como obter os seis\nprimeiros deles, sendo os demais obtidos seguindo o\nmesmo padrão geométrico.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "A figura ilustra uma roda-gigante no exato instante em\nque a cadeira onde se encontra a pessoa P está no ponto\nmais alto dessa roda-gigante.\nP\n\nSolo\nCom o passar do tempo, à medida que a roda-gigante\ngira, com velocidade angular constante e no sentido\nhorário, a altura da cadeira onde se encontra a pessoa P,\nem relação ao solo, vai se alterando.\n*020125AM22*\n\n23\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura ilustra uma roda-gigante no exato instante em\nque a cadeira onde se encontra a pessoa P está no ponto\nmais alto dessa roda-gigante.\nP\n\nSolo\nCom o passar do tempo, à medida que a roda-gigante\ngira, com velocidade angular constante e no sentido\nhorário, a altura da cadeira onde se encontra a pessoa P,\nem relação ao solo, vai se alterando.\n*020125AM22*\n\n23\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Um professor, para promover a aprendizagem dos\nestudantes em estatística, propôs uma atividade. O objetivo\nera verificar o percentual de estudantes com massa corporal\nabaixo da média e altura acima da média de um grupo de\nestudantes. Para isso, usando uma balança e uma fita\nmétrica, avaliou uma amostra de dez estudantes, anotando as\nmedidas observadas. O gráfico apresenta a massa corporal,\nem quilograma, e a altura, em metro, obtidas na atividade.\nMassa corporal e altura de estudantes\nAltura (m)\n\nMassa corporal (kg)\n0\n\nApós a coleta dos dados, os estudantes calcularam a\nmédia dos valores obtidos, referentes à massa corporal\ne à altura, obtendo, respectivamente, 80 kg e 1,65 m.\nQual é o percentual de estudantes dessa amostra com\nmassa corporal abaixo da média e altura acima da média?\nA\nA 10\nB\nB 20\nC\nC 30\nD\nD 50\nE\nE 70",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-154/statement-01.png",
+        "/generated/enem-2023/matematica/question-154/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-154/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um professor, para promover a aprendizagem dos\nestudantes em estatística, propôs uma atividade. O objetivo\nera verificar o percentual de estudantes com massa corporal\nabaixo da média e altura acima da média de um grupo de\nestudantes. Para isso, usando uma balança e uma fita\nmétrica, avaliou uma amostra de dez estudantes, anotando as\nmedidas observadas. O gráfico apresenta a massa corporal,\nem quilograma, e a altura, em metro, obtidas na atividade.\nMassa corporal e altura de estudantes\nAltura (m)\n\nMassa corporal (kg)\n0\n\nApós a coleta dos dados, os estudantes calcularam a\nmédia dos valores obtidos, referentes à massa corporal\ne à altura, obtendo, respectivamente, 80 kg e 1,65 m.\nQual é o percentual de estudantes dessa amostra com\nmassa corporal abaixo da média e altura acima da média?\nA\nA 10\nB\nB 20\nC\nC 30\nD\nD 50\nE\nE 70\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Um pescador tem um custo fixo diário de R$ 900,00\ncom combustível, iscas, manutenção de seu barco e outras\npequenas despesas. Ele vende cada quilograma de peixe por\nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00\npor dia. Sozinho, ele consegue, ao final de um dia de trabalho,\npescar 180 kg de peixe, o que é suficiente apenas para cobrir o\ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando\npara cada um R$ 250,00 por dia de trabalho. Além desse valor,\n4% da receita obtida pela venda de peixe é repartida igualmente\nentre os ajudantes. Considerando o tamanho de seu barco, ele\npode contratar até 5 ajudantes. Ele sabe que com um ajudante\na pesca diária é de 300 kg e que, a partir do segundo\najudante contratado, aumenta-se em 100 kg a quantidade de\npeixe pescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador\nprecisa contratar para conseguir o lucro diário pretendido é\nA\nA 1.\nB\nB 2.\nC\nC 3.\nD\nD 4.\nE\nE 5.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um pescador tem um custo fixo diário de R$ 900,00\ncom combustível, iscas, manutenção de seu barco e outras\npequenas despesas. Ele vende cada quilograma de peixe por\nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00\npor dia. Sozinho, ele consegue, ao final de um dia de trabalho,\npescar 180 kg de peixe, o que é suficiente apenas para cobrir o\ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando\npara cada um R$ 250,00 por dia de trabalho. Além desse valor,\n4% da receita obtida pela venda de peixe é repartida igualmente\nentre os ajudantes. Considerando o tamanho de seu barco, ele\npode contratar até 5 ajudantes. Ele sabe que com um ajudante\na pesca diária é de 300 kg e que, a partir do segundo\najudante contratado, aumenta-se em 100 kg a quantidade de\npeixe pescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador\nprecisa contratar para conseguir o lucro diário pretendido é\nA\nA 1.\nB\nB 2.\nC\nC 3.\nD\nD 4.\nE\nE 5.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Um agricultor é informado sobre um método de proteção\npara sua lavoura que consiste em inserir larvas específicas,\nde rápida reprodução. A reprodução dessas larvas faz com\nque sua população multiplique-se por 10 a cada 3 dias e,\npara evitar eventuais desequilíbrios, é possível cessar essa\nreprodução aplicando-se um produto X. O agricultor decide\niniciar esse método com 100 larvas e dispõe de 5 litros do\nproduto X, cuja aplicação recomendada é de exatamente\n1 litro para cada população de 200 000 larvas. A quantidade\ntotal do produto X de que ele dispõe deverá ser aplicada\nde uma única vez.\nQuantos dias após iniciado esse método o agricultor\ndeverá aplicar o produto X?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "18",
+          "assets": []
+        }
+      ],
+      "rawText": "Um agricultor é informado sobre um método de proteção\npara sua lavoura que consiste em inserir larvas específicas,\nde rápida reprodução. A reprodução dessas larvas faz com\nque sua população multiplique-se por 10 a cada 3 dias e,\npara evitar eventuais desequilíbrios, é possível cessar essa\nreprodução aplicando-se um produto X. O agricultor decide\niniciar esse método com 100 larvas e dispõe de 5 litros do\nproduto X, cuja aplicação recomendada é de exatamente\n1 litro para cada população de 200 000 larvas. A quantidade\ntotal do produto X de que ele dispõe deverá ser aplicada\nde uma única vez.\nQuantos dias após iniciado esse método o agricultor\ndeverá aplicar o produto X?\n\nA. 2\nB. 4\nC. 6\nD. 12\nE. 18"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "Ao realizar o cadastro em um aplicativo de investimentos,\nfoi solicitado ao usuário que criasse uma senha, sendo\npermitido o uso somente dos seguintes caracteres:\n• algarismos de 0 a 9;\n• 26 letras minúsculas do alfabeto;\n• 26 letras maiúsculas do alfabeto;\n• 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas\nao usuário:\n• tipo I: formada por quaisquer quatro caracteres\ndistintos, escolhidos dentre os permitidos;\n• tipo II: formada por cinco caracteres distintos,\niniciando por três letras, seguidas por um algarismo\ne, ao final, um caractere especial;\n• tipo III: formada por seis caracteres distintos, iniciando\npor duas letras, seguidas por dois algarismos e, ao\nfinal, dois caracteres especiais.\nConsidere p₁, p₂ e p₃ as probabilidades de se\ndescobrirem ao acaso, na primeira tentativa, as senhas\ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a\nmenor probabilidade de ser descoberta ao acaso, na\nprimeira tentativa, é o",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "tipo I, pois p₁ < p₂ < p₃.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "tipo I, pois tem menor quantidade de caracteres.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "tipo II, pois tem maior quantidade de letras.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "tipo III, pois p₃ < p₂ < p₁.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "tipo III, pois tem maior quantidade de caracteres. *020125AM23* 24\nMT • 2º DIA • CADERNO 5 • AMARELO",
+          "assets": []
+        }
+      ],
+      "rawText": "Ao realizar o cadastro em um aplicativo de investimentos,\nfoi solicitado ao usuário que criasse uma senha, sendo\npermitido o uso somente dos seguintes caracteres:\n• algarismos de 0 a 9;\n• 26 letras minúsculas do alfabeto;\n• 26 letras maiúsculas do alfabeto;\n• 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas\nao usuário:\n• tipo I: formada por quaisquer quatro caracteres\ndistintos, escolhidos dentre os permitidos;\n• tipo II: formada por cinco caracteres distintos,\niniciando por três letras, seguidas por um algarismo\ne, ao final, um caractere especial;\n• tipo III: formada por seis caracteres distintos, iniciando\npor duas letras, seguidas por dois algarismos e, ao\nfinal, dois caracteres especiais.\nConsidere p₁, p₂ e p₃ as probabilidades de se\ndescobrirem ao acaso, na primeira tentativa, as senhas\ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a\nmenor probabilidade de ser descoberta ao acaso, na\nprimeira tentativa, é o\n\nA. tipo I, pois p₁ < p₂ < p₃.\nB. tipo I, pois tem menor quantidade de caracteres.\nC. tipo II, pois tem maior quantidade de letras.\nD. tipo III, pois p₃ < p₂ < p₁.\nE. tipo III, pois tem maior quantidade de caracteres. *020125AM23* 24\nMT • 2º DIA • CADERNO 5 • AMARELO"
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Em um colégio público, a admissão no primeiro ano se\ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições\nsão numeradas de 01 a 55. O sorteio de cada número de\ninscrição será realizado em etapas, utilizando-se duas\nurnas. Da primeira urna será sorteada uma bola, dentre\nbolas numeradas de 0 a 9, que representará o algarismo\ndas unidades do número de inscrição a ser sorteado e, em\nseguida, da segunda urna, será sorteada uma bola para\nrepresentar o algarismo das dezenas desse número. Depois\ndo primeiro sorteio, e antes de se sortear o algarismo das\ndezenas, as bolas que estarão presentes na segunda\nurna serão apenas aquelas cujos números formam, com o\nalgarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número\n50 e 02 serem sorteados são, respectivamente,",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 50 1 60 e",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 50 1 50 e",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 50 1 10 e",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 55 1 54 e",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 100 1 100 e",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um colégio público, a admissão no primeiro ano se\ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições\nsão numeradas de 01 a 55. O sorteio de cada número de\ninscrição será realizado em etapas, utilizando-se duas\nurnas. Da primeira urna será sorteada uma bola, dentre\nbolas numeradas de 0 a 9, que representará o algarismo\ndas unidades do número de inscrição a ser sorteado e, em\nseguida, da segunda urna, será sorteada uma bola para\nrepresentar o algarismo das dezenas desse número. Depois\ndo primeiro sorteio, e antes de se sortear o algarismo das\ndezenas, as bolas que estarão presentes na segunda\nurna serão apenas aquelas cujos números formam, com o\nalgarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número\n50 e 02 serem sorteados são, respectivamente,\n\nA. 1 50 1 60 e\nB. 1 50 1 50 e\nC. 1 50 1 10 e\nD. 1 55 1 54 e\nE. 1 100 1 100 e"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "O esquema mostra como a intensidade luminosa\ndecresce com o aumento da profundidade em um rio,\nsendo L₀ a intensidade na sua superfície.\n\nIntensidade luminosa\nProfundidade\n\nConsidere que a intensidade luminosa diminui, a cada\nmetro acrescido na profundidade, segundo o mesmo\npadrão do esquema.\nA intensidade luminosa correspondente à profundidade\nde 6 m é igual a",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-159/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-159/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 9 L₀",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "16 27 L₀",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "32 243 L₀",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "64 729 L₀",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "128 2187 0\nL",
+          "assets": []
+        }
+      ],
+      "rawText": "O esquema mostra como a intensidade luminosa\ndecresce com o aumento da profundidade em um rio,\nsendo L₀ a intensidade na sua superfície.\n\nIntensidade luminosa\nProfundidade\n\nConsidere que a intensidade luminosa diminui, a cada\nmetro acrescido na profundidade, segundo o mesmo\npadrão do esquema.\nA intensidade luminosa correspondente à profundidade\nde 6 m é igual a\n\nA. 1 9 L₀\nB. 16 27 L₀\nC. 32 243 L₀\nD. 64 729 L₀\nE. 128 2187 0\nL"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "Analisando as vendas de uma empresa, o gerente\nconcluiu que o montante diário arrecadado, em milhar de real,\n\nem que os valores de x representam os dias do mês,\nvariando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal\nda empresa é verificar qual é o menor montante diário V₀\narrecadado ao longo do mês e classificar o desempenho\nconforme as categorias apresentadas a seguir, em que as\nquantidades estão expressas em milhar de real.\n• Ótimo: V₀ ≥ 24\n• Bom: 20 ≤ V₀ < 24\n• Normal: 10 ≤ V₀ < 20\n• Ruim: 4 ≤ V₀ < 10\n• Péssimo: V₀ < 4\nNo caso analisado, qual seria a classificação do\ndesempenho da empresa?\nA\nA Ótimo.\nB\nB Bom.\nC\nC Normal.\nD\nD Ruim.\nE\nE Péssimo.\n*020125AM24*\n\n25\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-160/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-160/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Analisando as vendas de uma empresa, o gerente\nconcluiu que o montante diário arrecadado, em milhar de real,\n\nem que os valores de x representam os dias do mês,\nvariando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal\nda empresa é verificar qual é o menor montante diário V₀\narrecadado ao longo do mês e classificar o desempenho\nconforme as categorias apresentadas a seguir, em que as\nquantidades estão expressas em milhar de real.\n• Ótimo: V₀ ≥ 24\n• Bom: 20 ≤ V₀ < 24\n• Normal: 10 ≤ V₀ < 20\n• Ruim: 4 ≤ V₀ < 10\n• Péssimo: V₀ < 4\nNo caso analisado, qual seria a classificação do\ndesempenho da empresa?\nA\nA Ótimo.\nB\nB Bom.\nC\nC Normal.\nD\nD Ruim.\nE\nE Péssimo.\n*020125AM24*\n\n25\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Dirigir após ingerir bebidas alcoólicas é uma atitude\nextremamente perigosa, uma vez que, a partir da primeira\ndose, a pessoa já começa a ter perda de sensibilidade\nde movimentos e de reflexos. Apesar de a eliminação e\nabsorção do álcool depender de cada pessoa e de como\no organismo consegue metabolizar a substância, ao final\nda primeira hora após a ingestão, a concentração de álcool\n(C) no sangue corresponde a aproximadamente 90% da\nquantidade (q) de álcool ingerida, e a eliminação total\ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão\nda quantidade q de álcool, a concentração C dessa\nsubstância no sangue é expressa algebricamente por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "C = 0,9q",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "C = 0,1q",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "C = 1 − 0,1q",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "C = 1 − 0,9q",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "C = q − 10",
+          "assets": []
+        }
+      ],
+      "rawText": "Dirigir após ingerir bebidas alcoólicas é uma atitude\nextremamente perigosa, uma vez que, a partir da primeira\ndose, a pessoa já começa a ter perda de sensibilidade\nde movimentos e de reflexos. Apesar de a eliminação e\nabsorção do álcool depender de cada pessoa e de como\no organismo consegue metabolizar a substância, ao final\nda primeira hora após a ingestão, a concentração de álcool\n(C) no sangue corresponde a aproximadamente 90% da\nquantidade (q) de álcool ingerida, e a eliminação total\ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão\nda quantidade q de álcool, a concentração C dessa\nsubstância no sangue é expressa algebricamente por\n\nA. C = 0,9q\nB. C = 0,1q\nC. C = 1 − 0,1q\nD. C = 1 − 0,9q\nE. C = q − 10"
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Um investidor iniciante observou o gráfico que\napresenta a evolução dos valores de duas criptomoedas\nA e B em relação ao tempo.\nCriptomoeda B\n(milhar de real)\n\nEm quantos desses instantes a criptomoeda A estava\nmais valorizada do que a criptomoeda B?",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-162/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-162/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "7",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "9",
+          "assets": []
+        }
+      ],
+      "rawText": "Um investidor iniciante observou o gráfico que\napresenta a evolução dos valores de duas criptomoedas\nA e B em relação ao tempo.\nCriptomoeda B\n(milhar de real)\n\nEm quantos desses instantes a criptomoeda A estava\nmais valorizada do que a criptomoeda B?\n\nA. 3\nB. 4\nC. 6\nD. 7\nE. 9"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "A exposição a alguns níveis sonoros pode causar\nlesões auditivas. Por isso, em uma indústria, são adotadas\nmedidas preventivas de acordo com a máquina que o\nfuncionário opera e o nível N de intensidade do som,\nmedido em decibel (dB), a que o operário é exposto,\nsendo N = log₁₀I¹⁰ − log₁₀I¹⁰\n0, I a intensidade do som e\nI₀ = 10−12 W/m₂.\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja,\nN = 48 dB ou menos, deve ser utilizada a medida\npreventiva I. No caso de o som ser moderado, quando\nN está no intervalo (48 dB, 55 dB), deve ser utilizada a\nmedida preventiva II. Quando o som é moderado alto,\nque equivale a N no intervalo (55 dB, 80 dB), a medida\npreventiva a ser usada é a III. Se N estiver no intervalo\n(80 dB, 115 dB), quando o som é considerado alto, deve ser\nutilizada a medida preventiva IV. E se o som é considerado\nmuito alto, com N maior que 115 dB, deve-se utilizar a\nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m₂, foi adquirida\ne será classificada de acordo com o nível de ruído\nque produz.\nConsidere 0,3 como aproximação para log₁₀2.\nO funcionário que operará a nova máquina deverá adotar\na medida preventiva\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.\n*020125AM25*\n\n26\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A exposição a alguns níveis sonoros pode causar\nlesões auditivas. Por isso, em uma indústria, são adotadas\nmedidas preventivas de acordo com a máquina que o\nfuncionário opera e o nível N de intensidade do som,\nmedido em decibel (dB), a que o operário é exposto,\nsendo N = log₁₀I¹⁰ − log₁₀I¹⁰\n0, I a intensidade do som e\nI₀ = 10−12 W/m₂.\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja,\nN = 48 dB ou menos, deve ser utilizada a medida\npreventiva I. No caso de o som ser moderado, quando\nN está no intervalo (48 dB, 55 dB), deve ser utilizada a\nmedida preventiva II. Quando o som é moderado alto,\nque equivale a N no intervalo (55 dB, 80 dB), a medida\npreventiva a ser usada é a III. Se N estiver no intervalo\n(80 dB, 115 dB), quando o som é considerado alto, deve ser\nutilizada a medida preventiva IV. E se o som é considerado\nmuito alto, com N maior que 115 dB, deve-se utilizar a\nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m₂, foi adquirida\ne será classificada de acordo com o nível de ruído\nque produz.\nConsidere 0,3 como aproximação para log₁₀2.\nO funcionário que operará a nova máquina deverá adotar\na medida preventiva\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.\n*020125AM25*\n\n26\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Um artista plástico esculpe uma escultura a partir\nde um bloco de madeira de lei, em etapas. Inicialmente,\nesculpe um cone reto com 36 cm de altura e diâmetro da\nbase medindo 18 cm. Em seguida, remove desse cone um\ncone menor, cujo diâmetro da base mede 6 cm, obtendo,\nassim, um tronco de cone, conforme ilustrado na figura.\n\nEm seguida, perfura esse tronco de cone, removendo\num cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o\nmesmo do cone original. Dessa forma, ao final, a escultura\ntem a forma de um tronco de cone com uma perfuração\ncilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura\ntem massa igual a 0,6 g por centímetro cúbico de volume.\nUtilize 3 como aproximação para π.\nQual é a massa, em grama, dessa escultura?\nA\nA 1 198,8\nB\nB 1 296,0\nC\nC 1 360,8\nD\nD 4 665,6\nE\nE 4 860,0",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-164/statement-01.png",
+        "/generated/enem-2023/matematica/question-164/statement-02.png",
+        "/generated/enem-2023/matematica/question-164/statement-03.png",
+        "/generated/enem-2023/matematica/question-164/statement-04.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um artista plástico esculpe uma escultura a partir\nde um bloco de madeira de lei, em etapas. Inicialmente,\nesculpe um cone reto com 36 cm de altura e diâmetro da\nbase medindo 18 cm. Em seguida, remove desse cone um\ncone menor, cujo diâmetro da base mede 6 cm, obtendo,\nassim, um tronco de cone, conforme ilustrado na figura.\n\nEm seguida, perfura esse tronco de cone, removendo\num cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o\nmesmo do cone original. Dessa forma, ao final, a escultura\ntem a forma de um tronco de cone com uma perfuração\ncilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura\ntem massa igual a 0,6 g por centímetro cúbico de volume.\nUtilize 3 como aproximação para π.\nQual é a massa, em grama, dessa escultura?\nA\nA 1 198,8\nB\nB 1 296,0\nC\nC 1 360,8\nD\nD 4 665,6\nE\nE 4 860,0\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Os 100 funcionários de uma empresa estão\ndistribuídos em dois setores: Produção e Administração.\nOs funcionários de um mesmo setor recebem salários\ncom valores iguais. O quadro apresenta a quantidade de\nfuncionários por setor e seus respectivos salários.\n\nA média dos salários dos 100 funcionários dessa\nempresa, em real, é",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-165/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-165/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 000,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2 500,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3 250,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4 500,00.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "9 000,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os 100 funcionários de uma empresa estão\ndistribuídos em dois setores: Produção e Administração.\nOs funcionários de um mesmo setor recebem salários\ncom valores iguais. O quadro apresenta a quantidade de\nfuncionários por setor e seus respectivos salários.\n\nA média dos salários dos 100 funcionários dessa\nempresa, em real, é\n\nA. 2 000,00.\nB. 2 500,00.\nC. 3 250,00.\nD. 4 500,00.\nE. 9 000,00."
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "Visando atrair mais clientes, o gerente de uma loja\nanunciou uma promoção em que cada cliente que realizar\numa compra pode ganhar um voucher para ser usado\nem sua próxima compra. Para ganhar seu voucher,\no cliente precisa retirar, ao acaso, uma bolinha de dentro\nde cada uma das duas urnas A e B disponibilizadas pelo\ngerente, nas quais há apenas bolinhas pretas e brancas.\nAtualmente, a probabilidade de se escolher, ao acaso,\numa bolinha preta na urna A é igual a 20% e a probabilidade\nde se escolher uma bolinha preta na urna B é 25%.\nGanha o voucher o cliente que retirar duas bolinhas pretas,\numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a\npromoção ser viável aos negócios, era preciso alterar\na probabilidade de acerto do cliente sem alterar a regra\nda promoção. Para isso, resolveu alterar a quantidade de\nbolinhas brancas na urna B de forma que a probabilidade\nde um cliente ganhar o voucher passasse a ser menor ou\nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e\nque, em ambas as urnas, todas as bolinhas têm a mesma\nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o\ngerente deve adicionar à urna B?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "20",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "60",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "64",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "68",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "80 *020125AM26* 27\nMT • 2º DIA • CADERNO 5 • AMARELO",
+          "assets": []
+        }
+      ],
+      "rawText": "Visando atrair mais clientes, o gerente de uma loja\nanunciou uma promoção em que cada cliente que realizar\numa compra pode ganhar um voucher para ser usado\nem sua próxima compra. Para ganhar seu voucher,\no cliente precisa retirar, ao acaso, uma bolinha de dentro\nde cada uma das duas urnas A e B disponibilizadas pelo\ngerente, nas quais há apenas bolinhas pretas e brancas.\nAtualmente, a probabilidade de se escolher, ao acaso,\numa bolinha preta na urna A é igual a 20% e a probabilidade\nde se escolher uma bolinha preta na urna B é 25%.\nGanha o voucher o cliente que retirar duas bolinhas pretas,\numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a\npromoção ser viável aos negócios, era preciso alterar\na probabilidade de acerto do cliente sem alterar a regra\nda promoção. Para isso, resolveu alterar a quantidade de\nbolinhas brancas na urna B de forma que a probabilidade\nde um cliente ganhar o voucher passasse a ser menor ou\nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e\nque, em ambas as urnas, todas as bolinhas têm a mesma\nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o\ngerente deve adicionar à urna B?\n\nA. 20\nB. 60\nC. 64\nD. 68\nE. 80 *020125AM26* 27\nMT • 2º DIA • CADERNO 5 • AMARELO"
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Estudantes trabalhando com robótica criaram uma\n“torneira inteligente” que automatiza sua abertura e seu\nfechamento durante a limpeza das mãos. A tecnologia\nfunciona da seguinte forma: ao se colocarem as mãos\nsob a torneira, ela libera água durante 3 segundos para\nque a pessoa possa molhá-las. Em seguida, interrompe o\nfornecimento de água por 5 segundos, enquanto a pessoa\nensaboa suas mãos, e finaliza o ciclo liberando água para\no enxágue por mais 3 segundos. Considere o tempo ( t ),\nem segundo, contado a partir do instante em que se inicia\no ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água\nacumulado, em litro, liberado por essa torneira durante um\nciclo de lavagem das mãos, em função do tempo ( t ), em\nsegundo, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2023/matematica/question-167/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2023/matematica/question-167/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2023/matematica/question-167/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2023/matematica/question-167/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2023/matematica/question-167/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Estudantes trabalhando com robótica criaram uma\n“torneira inteligente” que automatiza sua abertura e seu\nfechamento durante a limpeza das mãos. A tecnologia\nfunciona da seguinte forma: ao se colocarem as mãos\nsob a torneira, ela libera água durante 3 segundos para\nque a pessoa possa molhá-las. Em seguida, interrompe o\nfornecimento de água por 5 segundos, enquanto a pessoa\nensaboa suas mãos, e finaliza o ciclo liberando água para\no enxágue por mais 3 segundos. Considere o tempo ( t ),\nem segundo, contado a partir do instante em que se inicia\no ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água\nacumulado, em litro, liberado por essa torneira durante um\nciclo de lavagem das mãos, em função do tempo ( t ), em\nsegundo, é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "As características culturais variam de povo para povo.\nHá notícias de um povo que possuía formas de contar\ndiferentes das nossas, como indicado no quadrinho a seguir.\n\nSegundo o padrão de contagem indicado na figura, as\nrepresentações dos numerais cinco e sete, nessa cultura,\ndevem ser, respectivamente,\nA\nA okosa urapum urapum urapum e okosa okosa urapum\nurapum urapum.\nB\nB okosa okosa urapum e okosa okosa okosa okosa urapum.\nC\nC okosa okosa urapum e okosa okosa okosa urapum.\nD\nD okosa urapum urapum e okosa urapum okosa urapum\nurapum.\nE\nE okosa okosa urapum e okosa okosa okosa okosa.",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-168/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-168/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "As características culturais variam de povo para povo.\nHá notícias de um povo que possuía formas de contar\ndiferentes das nossas, como indicado no quadrinho a seguir.\n\nSegundo o padrão de contagem indicado na figura, as\nrepresentações dos numerais cinco e sete, nessa cultura,\ndevem ser, respectivamente,\nA\nA okosa urapum urapum urapum e okosa okosa urapum\nurapum urapum.\nB\nB okosa okosa urapum e okosa okosa okosa okosa urapum.\nC\nC okosa okosa urapum e okosa okosa okosa urapum.\nD\nD okosa urapum urapum e okosa urapum okosa urapum\nurapum.\nE\nE okosa okosa urapum e okosa okosa okosa okosa.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "Um tipo de semente necessita de bastante água nos\ndois primeiros meses após o plantio. Um produtor pretende\nestabelecer o melhor momento para o plantio desse tipo de\nsemente, nos meses de outubro a março. Após consultar\na previsão do índice mensal de precipitação de chuva\n(ImPC) da região onde ocorrerá o plantio, para o período\nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n• outubro/2020: ImPC = 250 mm;\n• novembro/2020: ImPC = 150 mm;\n• dezembro/2020: ImPC = 200 mm;\n• janeiro/2021: ImPC = 450 mm;\n• fevereiro/2021: ImPC = 100 mm;\n• março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher\ndois meses consecutivos em que a média mensal de\nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar\nesse tipo de semente?\nA\nA Outubro.\nB\nB Novembro.\nC\nC Dezembro.\nD\nD Janeiro.\nE\nE Fevereiro.\n*020125AM27*\n\n28\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um tipo de semente necessita de bastante água nos\ndois primeiros meses após o plantio. Um produtor pretende\nestabelecer o melhor momento para o plantio desse tipo de\nsemente, nos meses de outubro a março. Após consultar\na previsão do índice mensal de precipitação de chuva\n(ImPC) da região onde ocorrerá o plantio, para o período\nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n• outubro/2020: ImPC = 250 mm;\n• novembro/2020: ImPC = 150 mm;\n• dezembro/2020: ImPC = 200 mm;\n• janeiro/2021: ImPC = 450 mm;\n• fevereiro/2021: ImPC = 100 mm;\n• março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher\ndois meses consecutivos em que a média mensal de\nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar\nesse tipo de semente?\nA\nA Outubro.\nB\nB Novembro.\nC\nC Dezembro.\nD\nD Janeiro.\nE\nE Fevereiro.\n*020125AM27*\n\n28\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Uma loja vende seus produtos de duas formas:\nà vista ou financiado em três parcelas mensais iguais.\nPara definir o valor dessas parcelas nas vendas\nfinanciadas, a loja aumenta em 20% o valor do produto\nà vista e divide esse novo valor por 3. A primeira parcela\ndeve ser paga no ato da compra, e as duas últimas,\nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada,\num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para\n28.\nA taxa mensal de juros compostos praticada nesse\nfinanciamento é de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "6,7%",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "10%",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "20%",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "21,5%",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "23,3%",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma loja vende seus produtos de duas formas:\nà vista ou financiado em três parcelas mensais iguais.\nPara definir o valor dessas parcelas nas vendas\nfinanciadas, a loja aumenta em 20% o valor do produto\nà vista e divide esse novo valor por 3. A primeira parcela\ndeve ser paga no ato da compra, e as duas últimas,\nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada,\num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para\n28.\nA taxa mensal de juros compostos praticada nesse\nfinanciamento é de\n\nA. 6,7%\nB. 10%\nC. 20%\nD. 21,5%\nE. 23,3%"
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Para concretar a laje de sua residência, uma pessoa\ncontratou uma construtora. Tal empresa informa que o\npreço y do concreto bombeado é composto de duas\npartes: uma fixa, chamada de taxa de bombeamento,\ne uma variável, que depende do volume x de concreto\nutilizado. Sabe-se que a taxa de bombeamento custa\nR$ 500,00 e que o metro cúbico do concreto bombeado\né de R$ 250,00.\nA expressão que representa o preço y em função do\nvolume x, em metro cúbico, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "y = 250x",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "y = 500x",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "y = 750x",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "y = 250x + 500",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "y = 500x + 250",
+          "assets": []
+        }
+      ],
+      "rawText": "Para concretar a laje de sua residência, uma pessoa\ncontratou uma construtora. Tal empresa informa que o\npreço y do concreto bombeado é composto de duas\npartes: uma fixa, chamada de taxa de bombeamento,\ne uma variável, que depende do volume x de concreto\nutilizado. Sabe-se que a taxa de bombeamento custa\nR$ 500,00 e que o metro cúbico do concreto bombeado\né de R$ 250,00.\nA expressão que representa o preço y em função do\nvolume x, em metro cúbico, é\n\nA. y = 250x\nB. y = 500x\nC. y = 750x\nD. y = 250x + 500\nE. y = 500x + 250"
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "Uma empresa de segurança domiciliar oferece o serviço\nde patrulha noturna, no qual vigilantes em motocicletas\nfazem o monitoramento periódico de residências.\nA empresa conta com uma base, de onde acompanha\no trajeto realizado pelos vigilantes durante as patrulhas\ne orienta o deslocamento de equipes de reforço quando\nnecessário. Numa patrulha rotineira, sem ocorrências,\num vigilante conduziu sua motocicleta a uma velocidade\nconstante durante todo o itinerário estabelecido, levando\n30 minutos para conclusão. De acordo com os registros\ndo GPS alocado na motocicleta, a distância da posição\ndo vigilante à base, ao longo do tempo de realização do\ntrajeto, é descrita pelo gráfico.\nDistância do vigilante em relação\nà base em função do tempo\n\nA vista superior da trajetória realizada pelo vigilante\ndurante a patrulha registrada no gráfico é descrita pela\nrepresentação",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-172/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-172/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "*020125AM28* 29\nMT • 2º DIA • CADERNO 5 • AMARELO",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa de segurança domiciliar oferece o serviço\nde patrulha noturna, no qual vigilantes em motocicletas\nfazem o monitoramento periódico de residências.\nA empresa conta com uma base, de onde acompanha\no trajeto realizado pelos vigilantes durante as patrulhas\ne orienta o deslocamento de equipes de reforço quando\nnecessário. Numa patrulha rotineira, sem ocorrências,\num vigilante conduziu sua motocicleta a uma velocidade\nconstante durante todo o itinerário estabelecido, levando\n30 minutos para conclusão. De acordo com os registros\ndo GPS alocado na motocicleta, a distância da posição\ndo vigilante à base, ao longo do tempo de realização do\ntrajeto, é descrita pelo gráfico.\nDistância do vigilante em relação\nà base em função do tempo\n\nA vista superior da trajetória realizada pelo vigilante\ndurante a patrulha registrada no gráfico é descrita pela\nrepresentação\n\nA.\nB.\nC.\nD.\nE. *020125AM28* 29\nMT • 2º DIA • CADERNO 5 • AMARELO"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Um supermercado conta com cinco caixas disponíveis\npara pagamento. Foram instaladas telas que apresentam\no tempo médio gasto por cada caixa para iniciar e finalizar o\natendimento de cada cliente, e o número de pessoas\npresentes na fila de cada caixa em tempo real. Um cliente,\nna hora de passar sua compra, sabendo que cada um\ndos cinco caixas iniciará um novo atendimento naquele\nmomento, pretende gastar o menor tempo possível de\nespera na fila. Ele observa que as telas apresentavam as\ninformações a seguir.\n• Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n• Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n• Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n• Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um supermercado conta com cinco caixas disponíveis\npara pagamento. Foram instaladas telas que apresentam\no tempo médio gasto por cada caixa para iniciar e finalizar o\natendimento de cada cliente, e o número de pessoas\npresentes na fila de cada caixa em tempo real. Um cliente,\nna hora de passar sua compra, sabendo que cada um\ndos cinco caixas iniciará um novo atendimento naquele\nmomento, pretende gastar o menor tempo possível de\nespera na fila. Ele observa que as telas apresentavam as\ninformações a seguir.\n• Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n• Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n• Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n• Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa\nA\nA I.\nB\nB II.\nC\nC III.\nD\nD IV.\nE\nE V.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "As figuras pintadas no quadro da sala de estar de\numa residência representam as silhuetas de parte das\ntorres de um castelo e, ao fundo, a de uma lua cheia.\nA lua foi pintada na forma de um círculo, e o telhado da\ntorre mais alta, na forma de triângulo equilátero, foi pintado\nsobrepondo parte da lua. O centro da lua coincide com um\ndos vértices do telhado da torre mais alta.\n\nNesse quadro, a parte da lua escondida atrás da torre\nmais alta do castelo pode ser representada por um\nA\nA cone.\nB\nB setor circular.\nC\nC segmento circular.\nD\nD triângulo isósceles.\nE\nE arco de circunferência.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "As figuras pintadas no quadro da sala de estar de\numa residência representam as silhuetas de parte das\ntorres de um castelo e, ao fundo, a de uma lua cheia.\nA lua foi pintada na forma de um círculo, e o telhado da\ntorre mais alta, na forma de triângulo equilátero, foi pintado\nsobrepondo parte da lua. O centro da lua coincide com um\ndos vértices do telhado da torre mais alta.\n\nNesse quadro, a parte da lua escondida atrás da torre\nmais alta do castelo pode ser representada por um\nA\nA cone.\nB\nB setor circular.\nC\nC segmento circular.\nD\nD triângulo isósceles.\nE\nE arco de circunferência.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Na planta baixa de um clube, a piscina é representada\npor um quadrado cuja área real mede 400 m². Ao redor\ndessa piscina, será construída uma calçada, de largura\nconstante igual a 5 m.\nCalçada\n\nPiscina\n\nQual é a medida da área, em metro quadrado, ocupada\npela calçada?\nA\nA 1 000\nB\nB 900\nC\nC 600\nD\nD 500\nE\nE 400",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-175/statement-01.png",
+        "/generated/enem-2023/matematica/question-175/statement-02.png",
+        "/generated/enem-2023/matematica/question-175/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-175/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Na planta baixa de um clube, a piscina é representada\npor um quadrado cuja área real mede 400 m². Ao redor\ndessa piscina, será construída uma calçada, de largura\nconstante igual a 5 m.\nCalçada\n\nPiscina\n\nQual é a medida da área, em metro quadrado, ocupada\npela calçada?\nA\nA 1 000\nB\nB 900\nC\nC 600\nD\nD 500\nE\nE 400\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "Uma pessoa caminha por 30 minutos e utiliza um\naplicativo instalado em seu celular para monitorar a\nvariação da intensidade do sinal de internet recebido\npelo aparelho durante o deslocamento. Chegando ao seu\ndestino, o aplicativo forneceu este gráfico:\n\nPor quantos minutos, durante essa caminhada, o celular\ndessa pessoa ficou sem receber sinal de internet?\nA\nA 6\nB\nB 8\nC\nC 10\nD\nD 14\nE\nE 24\n*020125AM29*\n\n30\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-176/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-176/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa caminha por 30 minutos e utiliza um\naplicativo instalado em seu celular para monitorar a\nvariação da intensidade do sinal de internet recebido\npelo aparelho durante o deslocamento. Chegando ao seu\ndestino, o aplicativo forneceu este gráfico:\n\nPor quantos minutos, durante essa caminhada, o celular\ndessa pessoa ficou sem receber sinal de internet?\nA\nA 6\nB\nB 8\nC\nC 10\nD\nD 14\nE\nE 24\n*020125AM29*\n\n30\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização,\numa já está completamente imunizada, a dos trabalhadores da saúde.\n\nAdultos entre 20 e 29 anos\n\nCrianças de 6 meses a 2 anos\nGestantes\nDoentes crônicos\nIndígenas\n\n10,0% 20,0%\n30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0% 100,0%\nTrabalhadores da saúde\nNúmeros da campanha contra a gripe A-H1N1\n\nÉpoca, 26 abr. 2010 (adaptado).\nDe acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a\ncategoria de\nA\nA indígenas.\nB\nB gestantes.\nC\nC doentes crônicos.\nD\nD adultos entre 20 e 29 anos.\nE\nE crianças de 6 meses a 2 anos.",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-177/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-177/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização,\numa já está completamente imunizada, a dos trabalhadores da saúde.\n\nAdultos entre 20 e 29 anos\n\nCrianças de 6 meses a 2 anos\nGestantes\nDoentes crônicos\nIndígenas\n\n10,0% 20,0%\n30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0% 100,0%\nTrabalhadores da saúde\nNúmeros da campanha contra a gripe A-H1N1\n\nÉpoca, 26 abr. 2010 (adaptado).\nDe acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a\ncategoria de\nA\nA indígenas.\nB\nB gestantes.\nC\nC doentes crônicos.\nD\nD adultos entre 20 e 29 anos.\nE\nE crianças de 6 meses a 2 anos.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos\nlados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.\nA área a ser revestida em cerâmica, em metro quadrado, mede\nA\nA 1,20.\nB\nB 1,35.\nC\nC 1,65.\nD\nD 1,80.\nE\nE 1,95.\n*020125AM30*\n\n31\nMT • 2º DIA • CADERNO 5 • AMARELO",
+      "statementAssets": [
+        "/generated/enem-2023/matematica/question-178/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2023/matematica/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos\nlados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.\nA área a ser revestida em cerâmica, em metro quadrado, mede\nA\nA 1,20.\nB\nB 1,35.\nC\nC 1,65.\nD\nD 1,80.\nE\nE 1,95.\n*020125AM30*\n\n31\nMT • 2º DIA • CADERNO 5 • AMARELO\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação\nbidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou\na subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete\ne observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na\ndireção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.\n\nFileiras\nEscada\nEscada\n\nPoltrona\nPosições\nTela\nEntrada",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "F G H I J Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a\nposição da poltrona na fileira, respectivamente. A poltrona dessa pessoa é a identificada por\nA\nA A6.\nB\nB H1.\nC\nC H6.\nD\nD I1.\nE\nE I6.",
+          "assets": [
+            "/generated/enem-2023/matematica/question-179/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação\nbidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou\na subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete\ne observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na\ndireção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.\n\nFileiras\nEscada\nEscada\n\nPoltrona\nPosições\nTela\nEntrada\n\nA.\nB.\nC.\nD.\nE. F G H I J Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a\nposição da poltrona na fileira, respectivamente. A poltrona dessa pessoa é a identificada por\nA\nA A6.\nB\nB H1.\nC\nC H6.\nD\nD I1.\nE\nE I6."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2023,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2023 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos\nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e\numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço\nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?\nA\nA 4,68\nB\nB 6,30\nC\nC 9,30\nD\nD 10,50\nE\nE 10,65\n*020125AM31*\n\n32/2º DIA • CADERNO 5 • AMARELO\n*020125AM32*",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos\nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e\numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço\nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?\nA\nA 4,68\nB\nB 6,30\nC\nC 9,30\nD\nD 10,50\nE\nE 10,65\n*020125AM31*\n\n32/2º DIA • CADERNO 5 • AMARELO\n*020125AM32*\n\nA.\nB.\nC.\nD.\nE."
+    }
+  ]
+}

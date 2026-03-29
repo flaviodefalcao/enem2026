@@ -1,0 +1,189 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:34:24.140Z",
+  "questionId": "enem-2024-ciencias-natureza-q099",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "A",
+        "correctnessClaim": "A alternativa A está correta, pois vacinas que utilizam a proteína espícula do SARS-CoV-2 estimulam o sistema imunológico a produzir anticorpos específicos contra essa proteína viral, conferindo proteção.",
+        "strategy": "Interpretar o papel da proteína espícula nas vacinas contra a covid-19 e relacionar com o mecanismo imunológico esperado, eliminando as alternativas incorretas que descrevem processos incompatíveis com a atuação da vacina com proteína antigênica.",
+        "steps": [
+          "Entender que a proteína espícula do coronavírus é usada como antígeno na vacina.",
+          "Saber que o papel do antígeno na vacina é estimular o sistema imune a produzir anticorpos específicos.",
+          "Reconhecer que a imunidade conferida por vacinas é ativa, e não passiva (eliminar B).",
+          "Desconsiderar alteração genômica direta causada por vacinas que apenas apresentam a proteína (eliminar C).",
+          "Entender que a neutralização ocorre via anticorpos, que são produzidos posteriormente; vacina não neutraliza diretamente (eliminar D).",
+          "Saber que as vacinas não modificam os receptores celulares (eliminar E).",
+          "Concluir que a produção de anticorpos específicos contra o vírus é o mecanismo esperado (A)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Vacinas que usam a proteína espícula do coronavírus estimulam o sistema imunológico a produzir anticorpos específicos contra essa proteína, construindo proteção ativa contra o vírus.",
+        "stepByStep": [
+          "Compreenda que a proteína espícula (spike) é usada pela vacina como antígeno, uma substância que provoca resposta imune.",
+          "Saiba que o papel do antígeno é fazer com que o sistema imunológico reconheça e reaja contra o vírus, produzindo anticorpos.",
+          "Lembre que a imunidade gerada pela vacina é ativa, ou seja, o corpo produz seus próprios anticorpos após a vacinação, diferente da imunidade passiva, que recebe anticorpos prontos.",
+          "Entenda que a vacina não altera o DNA das células nem modifica diretamente os receptores celulares onde o vírus se liga.",
+          "Reconheça que a neutralização do vírus ocorre por causa dos anticorpos produzidos após a vacinação, e não pela vacina agindo diretamente no vírus.",
+          "Conclua que o resultado esperado da vacinação é a produção de anticorpos específicos contra a proteína viral, protegendo contra a infecção."
+        ],
+        "commonPitfalls": [
+          "Confundir imunidade ativa (vacina) com imunidade passiva (anticorpos administrados diretamente).",
+          "Acreditar que a vacina altera o genoma das células para proteger o organismo.",
+          "Pensar que a vacina neutraliza o vírus diretamente no organismo, sem mediação do sistema imunológico.",
+          "Imaginar que a vacina modifica os receptores celulares para impedir a entrada do vírus.",
+          "Interpretar o papel da vacina como uma ação farmacológica imediata ao invés de estimular a resposta imune. "
+        ],
+        "teachingTips": [
+          "Explique a diferença entre imunidade ativa e passiva usando exemplos simples, como vacinação versus anticorpos de mãe para filho.",
+          "Ilustre o funcionamento das proteínas antigênicas como 'impressões digitais' que o sistema imune aprende a reconhecer.",
+          "Use analogias com chaves e fechaduras para explicar a ligação da proteína espícula e a importância dos anticorpos.",
+          "Enfatize que vacinas não alteram o DNA, esclarecendo dúvidas sobre técnicas de mRNA e genética.",
+          "Promova atividades que mostrem o processo da resposta imune adaptativa passo a passo, para fixar o conceito de produção de anticorpos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "B",
+          "likelyReasoning": "Confundir imunidade passiva, que é obtida pela administração direta de anticorpos, com imunidade ativa induzida pela vacina.",
+          "misconceptionType": "Confusão entre imunidade ativa e passiva.",
+          "whyItLooksPlausible": "A imunidade passiva envolve proteção direta, portanto pode parecer que a vacina fornece imunidade imediata.",
+          "whyItIsWrong": "Vacinas induzem produção própria de anticorpos, ou seja, imunidade ativa, não passiva."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Achar que vacinas de mRNA ou que apresentam proteínas alteram o genoma celular para gerar memória imunológica.",
+          "misconceptionType": "Equivocação sobre o mecanismo de vacinas e engenharia genética.",
+          "whyItLooksPlausible": "Algumas vacinas envolvem material genético, levando à confusão sobre alteração genômica.",
+          "whyItIsWrong": "A vacina não altera o genoma do hospedeiro, apenas apresenta antígenos para gerar resposta imune."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Imaginar que a vacina neutraliza diretamente o vírus presente no sangue.",
+          "misconceptionType": "Interpretar a ação da vacina como efeito terapêutico imediato.",
+          "whyItLooksPlausible": "Neutralização do vírus é o objetivo final da imunidade, então parece correto.",
+          "whyItIsWrong": "Neutralização ocorre através da ação dos anticorpos produzidos após a vacinação, não pela vacina diretamente."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Pensar que a vacina modifica os receptores celulares para impedir a entrada do vírus.",
+          "misconceptionType": "Errar o mecanismo de ação das vacinas e celulares.",
+          "whyItLooksPlausible": "Modificar receptores impediria a entrada viral e parece uma solução lógica.",
+          "whyItIsWrong": "Vacinas não alteram receptores celulares; elas estimulam o sistema imunológico a produzir anticorpos."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Conhecimento sobre imunologia e funcionamento de vacinas",
+        "secondarySkills": [
+          "Leitura e interpretação de texto científico",
+          "Conhecimento específico em biologia molecular e celular"
+        ],
+        "cognitiveDemand": "médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Requer entendimento básico de como vacinas estimulam a resposta imune",
+          "Distinguir tipos de imunidade: ativa vs passiva",
+          "Processo da resposta imune adaptativa"
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Vacinas e Resposta Imune",
+        "interpretationIntro": "O enunciado explica a importância da proteína espícula do coronavírus como antígeno nas vacinas contra a covid-19. A questão pede para identificar qual é o efeito dessa proteína viral no organismo vacinado.",
+        "commandTerms": [
+          {
+            "term": "Induzir",
+            "explanation": "Provocar ou estimular uma resposta biológica, neste caso a resposta imunológica ativa."
+          },
+          {
+            "term": "Proteína espícula",
+            "explanation": "Estrutura antigênica que desencadeia a resposta imune nas vacinas contra o coronavírus."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pede para compreendermos o papel da proteína viral apresentada nas vacinas — a proteína espícula — e o efeito imunológico que ela induz após a vacinação.",
+        "strategyParagraph": "Para responder, é necessário associar o conceito de antígeno ao estímulo para produção de anticorpos, reconhecer que vacinas induzem imunidade ativa e eliminar alternativas que descrevem ações erradas como imunidade passiva, alteração do DNA ou ação farmacológica direta da vacina.",
+        "reviewTable": [
+          {
+            "concept": "Antígeno",
+            "keyIdea": "Substância que induz resposta imunológica.",
+            "application": "Proteína espícula atua como antígeno na vacina, estimulando anticorpos."
+          },
+          {
+            "concept": "Imunidade ativa",
+            "keyIdea": "Produção interna de anticorpos pelo organismo.",
+            "application": "Vacinas estimulam o organismo a produzir anticorpos específicos."
+          },
+          {
+            "concept": "Imunidade passiva",
+            "keyIdea": "Recebimento direto de anticorpos prontos.",
+            "application": "Não ocorre nesse caso, pois vacinas induzem resposta ativa."
+          },
+          {
+            "concept": "Neutralização viral",
+            "keyIdea": "Bloqueio da ação do vírus por anticorpos.",
+            "application": "Resultado da ação dos anticorpos produzidos após vacinação; não ação direta da vacina."
+          }
+        ],
+        "theoryParagraphs": [
+          "As vacinas utilizam antígenos — substâncias reconhecidas pelo sistema imunológico — para induzir uma resposta imune específica. No caso da covid-19, a proteína espícula (spike) serve como antígeno para que o organismo produza anticorpos contra essa estrutura, impedindo a entrada viral nas células.",
+          "A imunidade conferida pela vacina é ativa porque estimula o sistema imunológico a produzir seus próprios anticorpos e células de memória, garantindo proteção duradoura. Isso difere da imunidade passiva, na qual anticorpos são administrados diretamente, sem resposta imune gerada pelo organismo.",
+          "Vacinas não alteram o material genético das células nem modificam os receptores celulares. Sua função é apresentar o antígeno para que o sistema imune reconheça o vírus e responda de forma eficaz ao encontro com o patógeno real."
+        ],
+        "resolutionParagraphs": [
+          "Sabendo que a vacina apresenta a proteína espícula como antígeno, entende-se que ela promove a produção ativa de anticorpos específicos contra o SARS-CoV-2.",
+          "Isso significa que a alternativa A está correta ao afirmar que a vacina induz a produção de anticorpos contra a proteína viral, preparando o sistema imunológico para combater o vírus em futuras exposições.",
+          "As outras alternativas apresentam conceitos incorretos: imunidade passiva (B), alteração do genoma (C), ação direta da vacina na neutralização (D) e modificação dos receptores celulares (E), que não condizem com o funcionamento das vacinas.",
+          "Portanto, a resposta esperada é que a proteína viral presente na vacina induz a produção de anticorpos específicos, o que caracteriza a imunidade ativa."
+        ],
+        "puloDoGato": "Lembre que vacinas estimulam o corpo a produzir seus próprios anticorpos — imunidade ativa — e não fornecem anticorpos prontos nem alteram o DNA.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": true,
+            "explanation": "Correta: Vacinas que apresentam a proteína espícula estimulam o sistema imunológico a produzir anticorpos contra esse antígeno, criando proteção ativa."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta: Confunde imunidade ativa (vacina) com passiva (anticorpos administrados diretamente)."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta: Vacinas não alteram o DNA das células; apresentam somente antígenos para estimular resposta imune."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorreta: A neutralização do vírus ocorre por anticorpos produzidos após a vacinação, não pela vacina diretamente."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta: Vacinas não modificam os receptores celulares; apenas induzem a produção de anticorpos que bloqueiam a ação viral."
+          }
+        ],
+        "questionCode": "CN_BIOLOGIA_MOLECULAR_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explicação didática estão alinhados e coerentes. O conteúdo respeita o tema da questão sobre vacinas e o papel da proteína espícula na indução da resposta imune ativa. A resolução oficial segue metodologia clara, didática e cobre todos os aspectos solicitados. Comentários das alternativas são pertinentes e explicam bem os erros comuns.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2721,
+    "outputTokens": 2370,
+    "estimatedCostUsd": 0.00488
+  }
+}

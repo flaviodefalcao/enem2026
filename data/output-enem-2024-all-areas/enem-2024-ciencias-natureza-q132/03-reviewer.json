@@ -1,0 +1,179 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:38:10.890Z",
+  "questionId": "enem-2024-ciencias-natureza-q132",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B é a correta porque o salto em altura exige explosão muscular rápida e força, características das fibras musculares rápidas (fibras brancas). Essas fibras possuem menos mitocôndrias e menor suprimento sanguíneo, mas são especializadas em contrações rápidas e potentes, ideais para esforços curtos e intensos.",
+        "strategy": "Interpretar as características das fibras musculares lentas e rápidas, relacionando-as com o tipo de esforço físico exigido em cada modalidade esportiva mencionada nas alternativas.",
+        "steps": [
+          "Ler o enunciado que descreve as diferenças entre fibras lentas (vermelhas) e rápidas (brancas).",
+          "Identificar que as fibras rápidas têm poucas mitocôndrias, menor suprimento sanguíneo, e são adaptadas para esforços rápidos e potentes, porém de curta duração.",
+          "Analisar as modalidades esportivas e identificar quais exigem esforço explosivo e rápida contração muscular (ex: salto em altura).",
+          "Concluir que modalidades de resistência, como maratona aquática, triatlo, ciclismo em estrada e marcha atlética, beneficiam mais das fibras lentas, com maior resistência e suprimento de oxigênio.",
+          "Selecionar a alternativa que melhor corresponde a um esporte que utiliza maior proporção de fibras rápidas, ou seja, salto em altura (alternativa B)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem do enunciado contendo a descrição das fibras musculares e as alternativas das modalidades esportivas"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "As fibras musculares rápidas (brancas) são especializadas em contrações rápidas e potentes, ideais para esforços curtos como o salto em altura. Por isso, atletas com maior proporção desses tipos de fibras se beneficiam mais em modalidades que requerem explosão muscular.",
+        "stepByStep": [
+          "Leia o enunciado para entender as diferenças entre fibras musculares lentas (vermelhas) e rápidas (brancas).",
+          "Note que as fibras rápidas possuem poucas mitocôndrias, menor suprimento sanguíneo e são adaptadas para esforços curtos e intensos.",
+          "Analise as modalidades esportivas listadas e identifique aquela que exige potência e explosão muscular rápida, como o salto em altura.",
+          "Lembre-se que esportes de resistência, como maratonas e ciclismo, pedem maior participação das fibras lentas, que suportam esforço prolongado.",
+          "Conclua que a alternativa correta é a que representa um esporte de esforço explosivo, correspondente ao salto em altura (alternativa B)."
+        ],
+        "commonPitfalls": [
+          "Confundir esportes de resistência com aqueles que exigem explosão muscular.",
+          "Achar que atividade intensa e prolongada exige fibras rápidas, quando realmente precisa das fibras lentas.",
+          "Associar o fato de um esporte ser 'rápido' com necessidade de fibras rápidas, sem considerar a duração e tipo de esforço.",
+          "Ignorar as características biológicas das fibras musculares ao relacionar com modalidades esportivas."
+        ],
+        "teachingTips": [
+          "Explique a estrutura e função das fibras musculares de forma visual, utilizando imagens ou esquemas.",
+          "Utilize exemplos práticos do cotidiano ou de esportes populares para ilustrar diferenças entre os tipos de fibras.",
+          "Trabalhe com comparações entre esportes de resistência e esportes de explosão para fixar o conceito.",
+          "Estimule os alunos a relacionar características celulares com capacidades físicas, treinando a interpretação contextual."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Assumir que o triatlo, por ser esporte intenso e variado, demanda mais fibras rápidas para desempenho superior.",
+          "misconceptionType": "Confusão entre tipo de esforço (resistência vs explosão).",
+          "whyItLooksPlausible": "Triatlo é uma competição atlética intensa que envolve corrida, natação e ciclismo, podendo parecer exigir força rápida.",
+          "whyItIsWrong": "Triatlo é uma prova de endurance que depende principalmente das fibras lentas para sustentar o esforço prolongado."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que a marcha atlética, sendo uma atividade rápida, requer fibras musculares rápidas.",
+          "misconceptionType": "Generalização incorreta da velocidade de movimento com tipo de fibra.",
+          "whyItLooksPlausible": "Marcha atlética é uma modalidade rápida e pode ser confundida com esforço explosivo.",
+          "whyItIsWrong": "Embora rápida, a marcha atlética é uma prova de resistência, beneficiando das fibras lentas."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Supor que maratona aquática, sendo um esforço extenuante, requer fibras rápidas para potência momentânea.",
+          "misconceptionType": "Confusão entre esforço prolongado e força explosiva.",
+          "whyItLooksPlausible": "A maratona aquática é uma prova vigorosa e intensa, pode parecer exigir fibras rápidas.",
+          "whyItIsWrong": "Maratona aquática é prova de resistência, fatia das fibras lentas mais demandada."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Acreditar que ciclismo em estrada, sendo uma atividade rápida, utiliza fibras rápidas majoritariamente.",
+          "misconceptionType": "Subestimar a resistência necessária para provas longas.",
+          "whyItLooksPlausible": "Ciclismo pode envolver esprints e velocidades altas, sugerindo fibras rápidas.",
+          "whyItIsWrong": "Ciclismo em estrada é predominantemente uma atividade de resistência, favorecendo fibras lentas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Conhecimento em biologia celular e muscular",
+        "secondarySkills": [
+          "Interpretação de texto",
+          "Relação entre estrutura e função biológica"
+        ],
+        "cognitiveDemand": "Requer compreensão e aplicação de conceitos biológicos para associar características celulares ao desempenho esportivo",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige leitura atenta do texto sobre fibras musculares.",
+          "Requer conhecimento básico dos tipos de fibras musculares e suas funções no corpo humano.",
+          "É preciso relacionar aptidão física e estrutura celular muscular ao esporte indicado."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "💪",
+        "shortThemeTitle": "Tipos de fibras musculares e desempenho esportivo",
+        "interpretationIntro": "O enunciado apresenta características das fibras musculares esqueléticas lentas (vermelhas) e rápidas (brancas) e pergunta em qual prova olímpica um atleta com maior proporção de fibras rápidas teria vantagem.",
+        "commandTerms": [
+          {
+            "term": "Proporção",
+            "explanation": "Quantitativo relativo das fibras musculares em um músculo ou atleta."
+          },
+          {
+            "term": "Fibra muscular rápida",
+            "explanation": "Tipo de fibra com contração rápida, força e baixa resistência."
+          },
+          {
+            "term": "Explosão muscular",
+            "explanation": "Capacidade de realizar um movimento rápido e potente em curto tempo."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar a modalidade esportiva que mais se beneficia do predomínio das fibras musculares rápidas, que são adaptadas para exercícios explosivos e de curta duração.",
+        "strategyParagraph": "Primeiro, é necessário compreender as diferenças funcionais entre as fibras musculares lentas e rápidas. Em seguida, relacionar essas características com a demanda física de cada modalidade esportiva listada nas alternativas para reconhecer qual delas exige esforço explosivo.",
+        "reviewTable": [
+          {
+            "concept": "Fibras musculares lentas (vermelhas)",
+            "keyIdea": "Alta resistência devido a muitas mitocôndrias e bom suprimento sanguíneo",
+            "application": "São predominantes em esportes de resistência, como maratona aquática e ciclismo em estrada."
+          },
+          {
+            "concept": "Fibras musculares rápidas (brancas)",
+            "keyIdea": "Especializadas em contrações rápidas e potentes, com menor resistência",
+            "application": "Importantes para esforços curtos e intensos, como o salto em altura."
+          }
+        ],
+        "theoryParagraphs": [
+          "As fibras musculares esqueléticas se dividem em lentas e rápidas, com características e funções distintas. As fibras lentas possuem muitas mitocôndrias e bom suprimento sanguíneo, o que propicia resistência e capacidade para esforços prolongados. Já as fibras rápidas têm menos mitocôndrias, menor suprimento sanguíneo e são adaptadas para contrações rápidas e de alta potência, porém se fatigam rapidamente.",
+          "No contexto esportivo, modalidades que demandam resistência requerem maior proporção de fibras lentas, para manter o esforço por longos períodos. Por outro lado, modalidades que exigem explosão muscular e potência intensa, como o salto em altura, beneficiam-se de maior presença de fibras rápidas."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado informa que as fibras rápidas são especializadas em contrações rápidas e potentes, mas com menor resistência, ideais para esforços curtos.",
+          "Diante das alternativas, triatlo, marcha atlética, maratona aquática e ciclismo em estrada são esportes predominantemente de resistência, favorecendo fibras lentas.",
+          "O salto em altura é uma prova que exige explosão muscular rápida e força momentânea, características fundamentais das fibras rápidas.",
+          "Portanto, o atleta que possui uma maior proporção de fibras brancas terá vantagem em competições de salto em altura, opção B."
+        ],
+        "puloDoGato": "Foque na diferença entre resistência (fibras lentas) e explosão (fibras rápidas) para associar corretamente os esportes.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Triatlo é uma prova de resistência com esforço prolongado, favorecendo fibras musculares lentas, não rápidas."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Salto em altura requer movimentos rápidos e potentes, que utilizam fibras musculares rápidas (brancas)."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Marcha atlética é uma atividade de resistência ao invés de explosão muscular, beneficiando fibras lentas."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Maratona aquática é uma prova de longa duração que depende mais das fibras lentas para sustentar o esforço."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Ciclismo em estrada é predominantemente de resistência, favorecendo a ação das fibras lentas."
+          }
+        ],
+        "questionCode": "CN_BIO_TIPO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solver e explicação estão coerentes entre si. A resposta correta é a alternativa B, correspondendo ao salto em altura, alinhada com a descrição das fibras musculares rápidas na questão. A resolução oficial foi formulada claramente, com análise didática apropriada e comentários para cada alternativa.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 5033,
+    "outputTokens": 2207,
+    "estimatedCostUsd": 0.005544
+  }
+}

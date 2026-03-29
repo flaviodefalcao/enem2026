@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:41:08.251Z",
+  "questionId": "enem-2024-ciencias-natureza-q117",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Quando a ambulância se aproxima do radar, o efeito Doppler faz com que a frequência das ondas refletidas (fr) seja maior que a frequência original (f₀). Assim, o operador do radar percebe o som da sirene mais agudo, pois a frequência do som aumenta na aproximação.",
+      "stepByStep": [
+        "Reconheça que o som da sirene tem uma frequência original f₀.",
+        "O radar emite ondas de rádio com frequência f₀, que são refletidas pela ambulância.",
+        "Como a ambulância está se movendo em direção ao radar, ocorre o efeito Doppler: a frequência das ondas refletidas aumenta.",
+        "O operador percebe o som da sirene mais agudo durante a aproximação, porque a frequência aumentou.",
+        "Portanto, a frequência das ondas refletidas medidas pelo radar (fr) é maior que a frequência original (f₀), ou seja, fr > f₀."
+      ],
+      "commonPitfalls": [
+        "Achar que a frequência diminui na aproximação, tornando o som mais grave (confusão com o efeito Doppler).",
+        "Confundir a frequência do som com a frequência das ondas de rádio refletidas pelo radar.",
+        "Pensar que a frequência medida pelo radar permanece igual à frequência emitida (f₀).",
+        "Interpretar incorretamente que um som mais agudo corresponde a frequência menor.",
+        "Ignorar que o movimento relativo entre a ambulância e o radar altera a frequência percebida."
+      ],
+      "teachingTips": [
+        "Use exemplos simples do dia a dia, como a sirene de uma ambulância ou a passagem de um trem com apito, para ilustrar o efeito Doppler.",
+        "Destaque claramente a diferença entre frequências de som e frequências das ondas de rádio do radar.",
+        "Incentive os alunos a visualizar o movimento e a pensar sobre o que acontece com as ondas emitidas e refletidas.",
+        "Explique que sons mais agudos correspondem a frequências maiores, reforçando o conceito auditivo.",
+        "Promova atividades onde os alunos possam relacionar movimento, frequência e percepção sonora, para fixar o conceito."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1295,
+    "outputTokens": 431,
+    "estimatedCostUsd": 0.001208
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:35:58.532Z",
+  "questionId": "enem-2024-ciencias-natureza-q113",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta porque a técnica RT-PCR é usada para detectar genes expressos, ou seja, genes que estão ativos em uma célula, produzindo RNA mensageiro, que é usado como molde para a síntese de DNA complementar na reação.",
+      "strategy": "Identificar o que a RT-PCR detecta, relacionando a descrição que a técnica sintetiza DNA a partir de RNA, logo o RNA mensageiro produzido por genes expressos é o alvo da técnica.",
+      "steps": [
+        "Reconhecer que a RT-PCR utiliza a enzima transcriptase reversa para converter RNA em DNA complementar.",
+        "Identificar que o tipo de RNA utilizado na RT-PCR geralmente é o RNA mensageiro, que é sintetizado a partir dos genes que estão sendo expressos.",
+        "Concluir que a técnica detecta genes em atividade, ou seja, genes expressos.",
+        "Analisar as alternativas e associar a função da RT-PCR com a alternativa que mais se adequa, que é a expressão gênica (genes expressos)."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Como os plasmídeos são elementos genéticos circulares comuns em procariotos, o candidato pode achar que a técnica PCR se destina a detectar genes presentes em plasmídeos.",
+        "misconceptionType": "confusão conceitual",
+        "whyItLooksPlausible": "Plasmídeos são frequentemente usados em biotecnologia para a clonagem gênica e expressão proteica, por isso parece adequado associar a PCR a genes plasmidiais.",
+        "whyItIsWrong": "A RT-PCR detecta RNA mensageiro e, portanto, genes que estão sendo expressos, não genes presença em plasmídeos especificamente."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "A alternativa indica genes bacterianos, pode parecer correta porque a técnica se aplica a procariotos.",
+        "misconceptionType": "generalização indevida",
+        "whyItLooksPlausible": "RT-PCR é usada em procariotos e eucariotos, inclusive bactérias, então associar à bactéria é razoável.",
+        "whyItIsWrong": "A técnica não detecta especificamente genes bacterianos, mas genes que estão sendo expressos (transcritos), independente da origem."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "O candidato pode pensar que a técnica detecta genes com características de dominância genética.",
+        "misconceptionType": "confusão conceitual",
+        "whyItLooksPlausible": "Genes dominantes são um conceito conhecido e o candidato pode relacionar a técnica com detecção gênica em geral.",
+        "whyItIsWrong": "RT-PCR detecta expressão gênica (produção de RNA), e dominância é uma característica de herança, não relacionada à técnica."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pense que todos os genes são autossômicos e a técnica detecta genes gerais, então escolheu essa alternativa.",
+        "misconceptionType": "confusão conceitual",
+        "whyItLooksPlausible": "Genes autossômicos representam maioria dos genes e técnica detecta genes expressos, então pode parecer correto.",
+        "whyItIsWrong": "A técnica identifica a expressão gênica (genes ativados), não faz distinção entre autossômicos e outros."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Biologia molecular e genética",
+      "secondarySkills": [
+        "Conhecimento de técnicas laboratoriais",
+        "Interpretação de conceitos científicos"
+      ],
+      "cognitiveDemand": "Medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento sobre a técnica RT-PCR e sua aplicação.",
+        "Não há imagens associadas ao enunciado que auxiliem na resposta.",
+        "A questão avalia a compreensão da expressão gênica e técnica molecular."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 562,
+    "outputTokens": 787,
+    "estimatedCostUsd": 0.001484
+  }
+}

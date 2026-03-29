@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:39:46.067Z",
+  "questionId": "enem-2024-ciencias-natureza-q116",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E é correta pois aborda a diminuição da vesícula vitelínica associada ao desenvolvimento da lactação, uma característica evolutiva dos mamíferos mostrada no cladograma.",
+      "strategy": "Analisar o cladograma para identificar as relações evolutivas entre os grupos de mamíferos, focando nas características reprodutivas e de nutrição dos embriões, e aplicar conhecimentos biológicos sobre a evolução da reprodução e nutrição em mamíferos.",
+      "steps": [
+        "Observar o cladograma e identificar os grupos Monotremata, Marsupialia e Placentalia dentro de Mammalia.",
+        "Reconhecer que todos esses grupos possuem reprodução sexuada e fecundação interna, o que elimina opções relacionadas a mudanças nesse aspecto.",
+        "Saber que a evolução dos mamíferos envolve redução do vitelo (vesícula vitelínica) e o desenvolvimento da lactação para nutrir os filhotes.",
+        "Comparar as opções com as informações do cladograma e do conhecimento sobre evolução dos mamíferos, destacando a opção que aborda a nutrição embrionária e descendente (alternativa E)."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Cladograma que mostra Monotremata, Marsupialia e Placentalia dentro de Mammalia"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Os estudantes podem pensar que o número de descendentes por ninhada aumentou evolutivamente para garantir maior sobrevivência.",
+        "misconceptionType": "Generalização incorreta",
+        "whyItLooksPlausible": "É comum associar evolução a aumento da fecundidade como forma de adaptação.",
+        "whyItIsWrong": "O cladograma e conhecimento mamífero indicam variações, mas o foco evolutivo mais marcante nos grupos do cladograma é a mudança na vesícula vitelínica e lactação, não no número de descendentes."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pode parecer que a fecundação mudou de externa para interna em mamíferos para proteção dos embriões.",
+        "misconceptionType": "Confusão de características",
+        "whyItLooksPlausible": "A fecundação interna é uma característica importante em mamíferos e répteis terrestres.",
+        "whyItIsWrong": "Os mamíferos já possuem fecundação interna desde o ancestral Mammalia, não há mudança nesse ponto entre os grupos apresentados."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Acreditar que a reprodução se tornou exclusivamente sexuada em mamíferos.",
+        "misconceptionType": "Erro conceitual",
+        "whyItLooksPlausible": "Reprodução sexuada é predominante em mamíferos.",
+        "whyItIsWrong": "Diversos animais possuem reprodução sexuada desde antes; no cladograma, não há evidência de que a versatilidade se reduziu unicamente a isso."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Pressupor que o desenvolvimento embrionário migrou do aquático para o terrestre ao longo da evolução dos mamíferos.",
+        "misconceptionType": "Confusão de habitat com desenvolvimento embrionário",
+        "whyItLooksPlausible": "É sabido que muitos vertebrados passaram da água para a terra.",
+        "whyItIsWrong": "Mamíferos são tetrápodes terrestres; o cladograma não indica mudanças nesse aspecto e a questão enfatiza nutrição e reprodução."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de cladogramas e conhecimentos em reprodução animal",
+      "secondarySkills": [
+        "Biologia Evolutiva",
+        "Zoologia",
+        "Anatomia e Fisiologia"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "É necessário compreender conceitos de evolução reprodutiva em mamíferos.",
+        "É importante relacionar o cladograma à evolução dos sistemas de nutrição dos embriões.",
+        "Não há necessidade de cálculos numéricos.",
+        "A questão exige interpretação crítica do cladograma apresentado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1396,
+    "outputTokens": 854,
+    "estimatedCostUsd": 0.001925
+  }
+}

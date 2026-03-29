@@ -1,0 +1,196 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:33:20.451Z",
+  "questionId": "enem-2024-ciencias-natureza-q111",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C) 510 g",
+        "correctnessClaim": "A resposta C está correta com base nos cálculos estequiométricos e de equivalência energética realizados.",
+        "strategy": "Determinar a massa de metano que substitui 10 mol de etanol a partir da equivalência dada entre volumes de biogás e volume de etanol e o conteúdo de metano no biogás.",
+        "steps": [
+          "Determinar a massa e o volume do etanol referente a 10 mols: Massa etanol = 10 mol × 46 g/mol = 460 g; Volume etanol = massa/densidade = 460 g / (0,78 g/mL) ≈ 589,74 mL ≈ 0,5897 L.",
+          "Determinar o volume de biogás que substitui este volume de etanol usando a relação 1 m³ de biogás substitui 0,59 L de etanol: Volume de biogás necessário = 0,5897 L etanol × (1 m³ biogás / 0,59 L etanol) ≈ 1 m³ de biogás.",
+          "Determinar o volume de metano no biogás sabendo que ele corresponde a 70% em volume: Volume metano = 70% de 1 m³ = 0,7 m³ = 700 L.",
+          "Calcular a quantidade de mols de metano no volume calculado utilizando o volume molar (22 L/mol): Mols metano = 700 L / 22 L/mol ≈ 31,82 mol.",
+          "Calcular a massa de metano: Massa metano = 31,82 mol × 16 g/mol ≈ 509 g.",
+          "Arredondar para o valor mais próximo entre as alternativas disponíveis, 510 g."
+        ],
+        "formulasUsed": [
+          "Massa = número de mol × massa molar",
+          "Volume de gás = número de mol × volume molar",
+          "Densidade = massa/volume",
+          "Regra de três para volumes equivalentes"
+        ],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para substituir 10 mols de etanol por biogás contendo 70% de metano, calculamos primeiro o volume e massa do etanol, depois determinamos o volume de biogás correspondente, extraímos o volume e a quantidade de mols de metano e, finalmente, calculamos sua massa. O resultado mais próximo é 510 g de metano.",
+        "stepByStep": [
+          "Calcule a massa de 10 mols de etanol: 10 mol × 46 g/mol = 460 g.",
+          "Calcule o volume de etanol usando a densidade: 460 g ÷ 0,78 g/mL ≈ 589,74 mL = 0,5897 L.",
+          "Use a relação de substituição entre biogás e etanol para encontrar o volume de biogás necessário: 0,5897 L etanol × (1 m³ biogás / 0,59 L etanol) ≈ 1 m³ de biogás.",
+          "Determine o volume de metano no biogás: 70% de 1 m³ = 0,7 m³ = 700 L.",
+          "Calcule os mols de metano usando o volume molar: 700 L ÷ 22 L/mol ≈ 31,82 mol.",
+          "Calcule a massa de metano: 31,82 mol × 16 g/mol ≈ 509 g, arredondado para 510 g."
+        ],
+        "commonPitfalls": [
+          "Confundir os volumes e não aplicar corretamente a porcentagem de metano no biogás.",
+          "Esquecer de converter unidades, especialmente entre mL, L e m³.",
+          "Não usar corretamente a densidade para converter massa em volume do etanol.",
+          "Ignorar o volume molar dos gases na conversão de volume para mols.",
+          "Arredondar os valores muito cedo, comprometendo a precisão do resultado final."
+        ],
+        "teachingTips": [
+          "Explique a importância de organizar os dados iniciais para facilitar o cálculo.",
+          "Enfatize o conceito de volume molar e sua aplicação em gases ideais.",
+          "Promova exercícios que envolvam conversão de unidades de massa, volume e concentração para consolidar o aprendizado.",
+          "Use esquemas visuais para representar a relação entre biogás, metano e etanol na substituição energética.",
+          "Incentive os alunos a verificar resultados intermediários para evitar erros acumulados durante cálculos complexos."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A) 300 g",
+          "likelyReasoning": "Erro ao considerar volume ou porcentagem de metano, subestimando a massa de metano necessária.",
+          "misconceptionType": "Erro de cálculo multiplicativo",
+          "whyItLooksPlausible": "300 g é um valor arredondado intermediário que poderia surgir de uma conversão incorreta de mols para massa ou volume.",
+          "whyItIsWrong": "Não corresponde à correta relação entre volumes e massa para os parâmetros dados."
+        },
+        {
+          "option": "B) 400 g",
+          "likelyReasoning": "Consideração incorreta do volume de biogás ou erro na conversão entre mols e massa.",
+          "misconceptionType": "Confusão entre densidade e volume molar",
+          "whyItLooksPlausible": "Valor próximo da massa real, pode parecer razoável a um cálculo rápido.",
+          "whyItIsWrong": "Não respeita a proporção correta de 70% de metano e o volume molar."
+        },
+        {
+          "option": "D) 590 g",
+          "likelyReasoning": "Confusão entre volume e massa ou erro de arredondamento dos dados.",
+          "misconceptionType": "Erro no arredondamento de resultados parciais",
+          "whyItLooksPlausible": "Está próximo do produto dos volumes e massas envolvidos, podendo resultar de erro de arredondamento.",
+          "whyItIsWrong": "Não representa o resultado da conversão dos mols de metano a partir do volume corretamente."
+        },
+        {
+          "option": "E) 720 g",
+          "likelyReasoning": "Suposição incorreta de 100% metano no biogás ou erro na conversão do volume de biogás para massa.",
+          "misconceptionType": "Ignorar a porcentagem volumétrica do metano",
+          "whyItLooksPlausible": "Se o biogás fosse considerado 100% metano, poderia resultar neste valor, fazendo parecer razoável.",
+          "whyItIsWrong": "O biogás contém 70% metano, não 100%, logo este valor é superestimado."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Raciocínio químico e estequiometria",
+        "secondarySkills": [
+          "Cálculos de massa, volume e concentração",
+          "Interpretação de dados quantitativos",
+          "Conversão de unidades"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": true,
+        "notes": [
+          "Necessita interpretar dados quantitativos de composição gasosa e equivalência energética.",
+          "Requer conhecimento de volume molar e massa molar.",
+          "Envolve cálculo de massa, volume e densidade simultaneamente."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "⚗️",
+        "shortThemeTitle": "Estequiometria e Cálculo de Massa em Gases",
+        "interpretationIntro": "Esta questão requer que interpretemos a relação entre volumes e massas de gases para calcular a quantidade de metano necessária para substituir uma quantidade específica de etanol na geração de energia.",
+        "commandTerms": [
+          {
+            "term": "Substituir",
+            "explanation": "Calcular o equivalente em metano para substituir dado número de mols de etanol na produção de energia."
+          },
+          {
+            "term": "Calcular",
+            "explanation": "Determinar o valor numérico da massa de metano envolvida no processo."
+          }
+        ],
+        "whatTheQuestionAsks": "A pergunta busca a massa aproximada de metano necessária para substituir 10 mols de etanol, considerando as características do biogás e as relações volumétricas e estequiométricas apresentadas.",
+        "strategyParagraph": "Primeiro identificamos a massa e o volume do etanol correspondente a 10 mols usando sua massa molar e densidade. Em seguida, aplicamos a proporção dada para encontrar o volume de biogás que substitui esse volume de etanol. Sabendo que o biogás contém 70% metano em volume, calculamos o volume e, consequentemente, o número de mols de metano presentes. Finalmente, calculamos a massa de metano usando sua massa molar, arredondando o resultado para aproximar às alternativas fornecidas.",
+        "reviewTable": [
+          {
+            "concept": "Massa molar e número de mols",
+            "keyIdea": "Permitem converter entre quantidade de matéria e massa.",
+            "application": "Calcular massa de etanol e massa de metano a partir dos mols."
+          },
+          {
+            "concept": "Densidade",
+            "keyIdea": "Relação entre massa e volume de uma substância.",
+            "application": "Determina o volume do etanol a partir da massa."
+          },
+          {
+            "concept": "Volume molar de gases",
+            "keyIdea": "Volume ocupado por um mol de gás nas condições padrão.",
+            "application": "Usado para converter volume de metano em número de mols."
+          },
+          {
+            "concept": "Proporção e regra de três",
+            "keyIdea": "Relacionar volumes de biogás e etanol para equivalência energética.",
+            "application": "Calcula volume total de biogás que substitui o etanol."
+          }
+        ],
+        "theoryParagraphs": [
+          "A massa molar é fundamental para relacionar a quantidade de matéria em mols à sua massa, através da fórmula massa = mols × massa molar. No caso dos gases, o volume molar representa o volume ocupado por um mol em condições específicas (22 L/mol aqui).",
+          "A densidade possibilita converter a massa do etanol em volume, facilitando comparações volumétricas com o biogás.",
+          "A relação entre volumes de biogás e etanol dada permite estabelecer uma equivalência energética, fundamental para determinar quanto biogás substitui o etanol em volume e, consequentemente, em massa de metano."
+        ],
+        "resolutionParagraphs": [
+          "Começamos calculando a massa de 10 mols de etanol: 10 × 46 g/mol = 460 g.",
+          "Com a densidade 0,78 g/mL, determinamos o volume do etanol: 460 g ÷ 0,78 g/mL ≈ 589,74 mL ou 0,5897 L.",
+          "Sabendo que 1 m³ de biogás substitui 0,59 L de etanol, calculamos o volume de biogás requerido para substituir 0,5897 L etanol pela regra de três: Cerca de 1 m³ de biogás.",
+          "Considerando que o biogás possui 70% de metano em volume, o volume de metano é 0,7 m³, ou 700 L.",
+          "Aplicando o volume molar, descobrimos a quantidade de mols de metano: 700 L ÷ 22 L/mol ≈ 31,82 mol.",
+          "Por fim, multiplicamos pela massa molar do metano para obter a massa necessária: 31,82 mol × 16 g/mol ≈ 509 g, arredondando para 510 g, alternativa C."
+        ],
+        "puloDoGato": "Lembre-se de aplicar a porcentagem volumétrica do metano no biogás antes de converter para mols e massa – ignorar isso superestima a massa necessária.",
+        "alternatives": [
+          {
+            "option": "A) 300 g",
+            "isCorrect": false,
+            "explanation": "Valor subestimado por erro no cálculo do volume de metano ou porcentagem aplicada, levando a massa menor que a real."
+          },
+          {
+            "option": "B) 400 g",
+            "isCorrect": false,
+            "explanation": "Próximo, mas incorreto, provavelmente por confusão entre volume molar e densidade ou erro na conversão."
+          },
+          {
+            "option": "C) 510 g",
+            "isCorrect": true,
+            "explanation": "Resposta correta, resultado de cálculo correto da equivalência volumétrica e concentração de metano no biogás."
+          },
+          {
+            "option": "D) 590 g",
+            "isCorrect": false,
+            "explanation": "Valor próximo, porém incorreto devido a erros de arredondamento ou inversão nas grandezas utilizadas."
+          },
+          {
+            "option": "E) 720 g",
+            "isCorrect": false,
+            "explanation": "Valor superestimado, corresponde a considerar 100% de metano no biogás, o que não é o caso."
+          }
+        ],
+        "questionCode": "CN_QUIMESTQ_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução técnica atende corretamente à questão proposta, com todos os cálculos coerentes e explicações didáticas claras. A análise dos distractores é pertinente e bem fundamentada. A resolução oficial está bem estruturada, fluida e adequada ao padrão ENEM, tornando acessível a compreensão do aluno.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2943,
+    "outputTokens": 2662,
+    "estimatedCostUsd": 0.005436
+  }
+}

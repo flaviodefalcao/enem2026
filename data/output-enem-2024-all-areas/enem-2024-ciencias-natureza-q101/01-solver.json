@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:36:36.427Z",
+  "questionId": "enem-2024-ciencias-natureza-q101",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "Correta, pois a alternativa descreve o fenômeno de gerar uma diferença de potencial elétrico resultante da interação dos elétrons livres no grafeno com os íons positivos (cátions) presentes na camada fina de água da chuva, causando movimento de elétrons e gerando eletricidade.",
+      "strategy": "Interpretar o texto e a imagem fornecida para compreender o papel do grafeno e dos íons da água da chuva na geração de eletricidade. A imagem mostra claramente uma camada fina de grafeno sob uma camada fina de água, com íons Am+ e Bn− na água e elétrons (e−) se movendo no grafeno, com setas indicando alto e baixo potencial elétrico. Isso indica a formação de diferença de potencial por interação entre elétrons do grafeno e os íons.",
+      "steps": [
+        "Ler e interpretar o enunciado, que relaciona grafeno, água da chuva e geração de energia.",
+        "Analisar a imagem, observando as camadas fines de água e grafeno, a presença de íons Am+ e Bn−, e os elétrons (e−) na camada de grafeno.",
+        "Relação do fato que elétrons se movimentam ao longo da superfície do grafeno devido à presença dos cátions (Am+).",
+        "Identificar que esta movimentação de elétrons causada pela interação com íons positivos gera uma diferença de potencial elétrico.",
+        "Confirmar que a alternativa E corresponde a este fenômeno: geração de diferença de potencial pela interação dos elétrons com os cátions."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem mostrando camada fina de água e grafeno, com íons Am+ e Bn− na água e elétrons (e−) na camada de grafeno, com indicações de alto e baixo potencial elétrico para evidenciar geração de diferença de potencial pela interação."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O candidato pode pensar que o grafeno atua quimicamente oxidando os cátions dissolvidos na água.",
+        "misconceptionType": "Confusão conceitual sobre reação química envolvida",
+        "whyItLooksPlausible": "Fala-se em íons e grafeno, sugerindo reações químicas ou redox.",
+        "whyItIsWrong": "O texto e a imagem indicam geração de eletricidade pela movimentação de elétrons, não uma reação de oxidação dos cátions."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode pensar que o grafeno atua na barreira física impedindo a difusão da água.",
+        "misconceptionType": "Interpretação errada do papel do grafeno",
+        "whyItLooksPlausible": "Grafeno pode ser uma camada fina e impermeável, levando à esta conclusão.",
+        "whyItIsWrong": "O foco do enunciado é a geração de eletricidade, não a função de barreira contra água."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que o grafeno atua diminuindo energia de ativação de uma reação.",
+        "misconceptionType": "Aplicação errada de conceito catalítico",
+        "whyItLooksPlausible": "Grafeno pode atuar como catalisador em algumas reações, então diminuir energia de ativação é um conceito conhecido.",
+        "whyItIsWrong": "Não há reação química catalisada ou pseudocapacitiva descrita; trata-se do movimento de elétrons e geração de potencial elétrico."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Entender que se forma um compósito entre grafeno e íons na água.",
+        "misconceptionType": "Erro conceitual em química de materiais",
+        "whyItLooksPlausible": "Combinação de materiais sugere compósitos.",
+        "whyItIsWrong": "O texto descreve o grafeno em camada fina com interação eletrostática, não formação de novo material compósito."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de textos e gráficos científicos",
+      "secondarySkills": [
+        "Conhecimentos básicos de eletricidade e química",
+        "Interpretação de imagens científicas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Requer compreensão do funcionamento de um sistema gerador de energia baseado em interação eletrostática.",
+        "Exige interpretar a ilustração que detalha a estrutura em camadas e os potenciais elétricos.",
+        "Conhecimento prévio básico sobre íons e movimento de elétrons auxilia na compreensão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1317,
+    "outputTokens": 937,
+    "estimatedCostUsd": 0.002026
+  }
+}

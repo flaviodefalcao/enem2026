@@ -1,0 +1,1997 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2020/ENEM_2020_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2020,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "statement": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de\nprodução de seus itens, em real, em função da quantidade de itens produzidos.\n\nReceita\nCusto\n\nQuantidade de\nitens produzidos\nR$\n\nO lucro é determinado pela diferença: Receita – Custo.\nO gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-136/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-136/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "R$",
+          "assets": [
+            "/generated/enem-2020/matematica/question-136/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "R$ −5 −10\n−15 −20 −25",
+          "assets": [
+            "/generated/enem-2020/matematica/question-136/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "R$ MT - 2° dia | Caderno 5 - AMARELO - Página 17 *020525AM17*",
+          "assets": [
+            "/generated/enem-2020/matematica/question-136/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "R$",
+          "assets": [
+            "/generated/enem-2020/matematica/question-136/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "R$",
+          "assets": [
+            "/generated/enem-2020/matematica/question-136/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de\nprodução de seus itens, em real, em função da quantidade de itens produzidos.\n\nReceita\nCusto\n\nQuantidade de\nitens produzidos\nR$\n\nO lucro é determinado pela diferença: Receita – Custo.\nO gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é\n\nA. R$\nB. R$ −5 −10\n−15 −20 −25\nC. R$ MT - 2° dia | Caderno 5 - AMARELO - Página 17 *020525AM17*\nD. R$\nE. R$"
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até\nalcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo\nconvenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos,\nformando assim um sólido rígido, como ilustrado na figura.\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três\nplanos quadriculados perpendiculares entre si, durante sua descida.\nA figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três\nplanos citados, durante sua descida é",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-137/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-137/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-137/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-137/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "*020525AM18* MT - 2° dia | Caderno 5 - AMARELO - Página 18",
+          "assets": [
+            "/generated/enem-2020/matematica/question-137/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-137/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-137/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até\nalcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo\nconvenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos,\nformando assim um sólido rígido, como ilustrado na figura.\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três\nplanos quadriculados perpendiculares entre si, durante sua descida.\nA figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três\nplanos citados, durante sua descida é\n\nA.\nB.\nC. *020525AM18* MT - 2° dia | Caderno 5 - AMARELO - Página 18\nD.\nE."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Um clube deseja produzir miniaturas em escala do\ntroféu que ganhou no último campeonato. O troféu está\nrepresentado na Figura 1 e é composto por uma base\nem formato de um paralelepípedo reto-retângulo de\nmadeira, sobre a qual estão fi xadas três hastes verticais\nque sustentam uma esfera de 30 cm de diâmetro, que fi ca\ncentralizada sobre a base de madeira. O troféu tem 100 cm\nde altura, incluída sua base.\n\n?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-138/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-138/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um clube deseja produzir miniaturas em escala do\ntroféu que ganhou no último campeonato. O troféu está\nrepresentado na Figura 1 e é composto por uma base\nem formato de um paralelepípedo reto-retângulo de\nmadeira, sobre a qual estão fi xadas três hastes verticais\nque sustentam uma esfera de 30 cm de diâmetro, que fi ca\ncentralizada sobre a base de madeira. O troféu tem 100 cm\nde altura, incluída sua base.\n\n?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "nas quais h é a altura do degrau (denominada espelho)\ne b é a profundidade da pisada, como mostra a fi gura.\nPor conveniência, escolheu-se a altura do degrau como\nsendo h = 16. As unidades de h e b estão em centímetro.\nNesse caso, o mais amplo intervalo numérico ao qual a\nprofundidade da pisada (b) deve pertencer, para que as\nregras sejam satisfeitas é",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-139/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-139/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "30 ≤ b",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "30 ≤ b ≤ 31,5",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "30 ≤ b ≤ 33",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "31,5 ≤ b ≤ 33",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "b ≤ 33",
+          "assets": []
+        }
+      ],
+      "rawText": "nas quais h é a altura do degrau (denominada espelho)\ne b é a profundidade da pisada, como mostra a fi gura.\nPor conveniência, escolheu-se a altura do degrau como\nsendo h = 16. As unidades de h e b estão em centímetro.\nNesse caso, o mais amplo intervalo numérico ao qual a\nprofundidade da pisada (b) deve pertencer, para que as\nregras sejam satisfeitas é\n\nA. 30 ≤ b\nB. 30 ≤ b ≤ 31,5\nC. 30 ≤ b ≤ 33\nD. 31,5 ≤ b ≤ 33\nE. b ≤ 33"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "Muitos modelos atuais de veículos possuem\ncomputador de bordo. Os computadores informam em\numa tela diversas variações de grandezas associadas\nao desempenho do carro, dentre elas o consumo médio\nde combustível. Um veículo, de um determinado modelo,\npode vir munido de um dos dois tipos de computadores\nde bordo:\n• Tipo A: informa a quantidade X de litro de\ncombustível gasto para percorrer 100 quilômetros;\n• Tipo B: informa a quantidade de quilômetro que\no veículo é capaz de percorrer com um litro de\ncombustível.\nUm veículo utiliza o computador do Tipo A, e ao fi nal\nde uma viagem o condutor viu apresentada na tela a\ninformação “X/100”.\nCaso o seu veículo utilizasse o computador do Tipo B, o\nvalor informado na tela seria obtido pela operação",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "X ∙ 100",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "X",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "100 X",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 X",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 ∙ X *020525AM19* MT - 2° dia | Caderno 5 - AMARELO - Página 19",
+          "assets": []
+        }
+      ],
+      "rawText": "Muitos modelos atuais de veículos possuem\ncomputador de bordo. Os computadores informam em\numa tela diversas variações de grandezas associadas\nao desempenho do carro, dentre elas o consumo médio\nde combustível. Um veículo, de um determinado modelo,\npode vir munido de um dos dois tipos de computadores\nde bordo:\n• Tipo A: informa a quantidade X de litro de\ncombustível gasto para percorrer 100 quilômetros;\n• Tipo B: informa a quantidade de quilômetro que\no veículo é capaz de percorrer com um litro de\ncombustível.\nUm veículo utiliza o computador do Tipo A, e ao fi nal\nde uma viagem o condutor viu apresentada na tela a\ninformação “X/100”.\nCaso o seu veículo utilizasse o computador do Tipo B, o\nvalor informado na tela seria obtido pela operação\n\nA. X ∙ 100\nB. X\nC. 100 X\nD. 1 X\nE. 1 ∙ X *020525AM19* MT - 2° dia | Caderno 5 - AMARELO - Página 19"
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Amigo secreto é uma brincadeira tradicional nas festas\nde fim de ano. Um grupo de amigos se reúne e cada um\ndeles sorteia o nome da pessoa que irá presentear. No dia\nda troca de presentes, uma primeira pessoa presenteia\nseu amigo secreto. Em seguida, o presenteado revela seu\namigo secreto e o presenteia. A brincadeira continua até que\ntodos sejam presenteados, mesmo no caso em que o ciclo\nse fecha. Dez funcionários de uma empresa, entre eles um\ncasal, participarão de um amigo secreto. A primeira pessoa\na revelar será definida por sorteio.\nQual é a probabilidade de que a primeira pessoa a revelar\no seu amigo secreto e a última presenteada sejam as\nduas pessoas do casal?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-141/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-141/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-141/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Amigo secreto é uma brincadeira tradicional nas festas\nde fim de ano. Um grupo de amigos se reúne e cada um\ndeles sorteia o nome da pessoa que irá presentear. No dia\nda troca de presentes, uma primeira pessoa presenteia\nseu amigo secreto. Em seguida, o presenteado revela seu\namigo secreto e o presenteia. A brincadeira continua até que\ntodos sejam presenteados, mesmo no caso em que o ciclo\nse fecha. Dez funcionários de uma empresa, entre eles um\ncasal, participarão de um amigo secreto. A primeira pessoa\na revelar será definida por sorteio.\nQual é a probabilidade de que a primeira pessoa a revelar\no seu amigo secreto e a última presenteada sejam as\nduas pessoas do casal?\n\nA.\nB. 1\nC.\nD.\nE."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Três amigos, André, Bernardo e Carlos, moram em\num condomínio fechado de uma cidade. O quadriculado\nrepresenta a localização das ruas paralelas e\nperpendiculares, delimitando quadras de mesmo\ntamanho nesse condomínio, em que nos pontos A, B e C\nestão localizadas as casas de André, Bernardo e Carlos,\nrespectivamente.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "André deseja deslocar-se da sua casa até a casa\nde Bernardo, sem passar pela casa de Carlos, seguindo\nao longo das ruas do condomínio, fazendo sempre\ndeslocamentos para a direita ( → ) ou para cima ( ↑ ),\nsegundo o esquema da figura.\nO número de diferentes caminhos que André poderá\nutilizar para realizar o deslocamento nas condições\npropostas é\nA 4.\nB 14.\nC 17.\nD 35.\nE 48.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Três amigos, André, Bernardo e Carlos, moram em\num condomínio fechado de uma cidade. O quadriculado\nrepresenta a localização das ruas paralelas e\nperpendiculares, delimitando quadras de mesmo\ntamanho nesse condomínio, em que nos pontos A, B e C\nestão localizadas as casas de André, Bernardo e Carlos,\nrespectivamente.\n\nA.\nB. André deseja deslocar-se da sua casa até a casa\nde Bernardo, sem passar pela casa de Carlos, seguindo\nao longo das ruas do condomínio, fazendo sempre\ndeslocamentos para a direita ( → ) ou para cima ( ↑ ),\nsegundo o esquema da figura.\nO número de diferentes caminhos que André poderá\nutilizar para realizar o deslocamento nas condições\npropostas é\nA 4.\nB 14.\nC 17.\nD 35.\nE 48.\nC.\nD.\nE."
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Uma pessoa precisa comprar 15 sacos de cimento\npara uma reforma em sua casa. Faz pesquisa de preço em\ncinco depósitos que vendem o cimento de sua preferência\ne cobram frete para entrega do material, conforme a\ndistância do depósito à sua casa. As informações sobre\npreço do cimento, valor do frete e distância do depósito\naté a casa dessa pessoa estão apresentadas no quadro.\n\nDepósito",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-143/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-143/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "23,00 1,00 10",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "21,50 3,00 12",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "22,00 1,50 14",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "21,00 3,50 18",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "24,00 2,50 2 A pessoa escolherá um desses depósitos para\nrealizar sua compra, considerando os preços do cimento\ne do frete oferecidos em cada opção.\nSe a pessoa decidir pela opção mais econômica, o depósito\nescolhido para a realização dessa compra será o\nA A.\nB B.\nC C.\nD D.\nE E.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa precisa comprar 15 sacos de cimento\npara uma reforma em sua casa. Faz pesquisa de preço em\ncinco depósitos que vendem o cimento de sua preferência\ne cobram frete para entrega do material, conforme a\ndistância do depósito à sua casa. As informações sobre\npreço do cimento, valor do frete e distância do depósito\naté a casa dessa pessoa estão apresentadas no quadro.\n\nDepósito\n\nA. 23,00 1,00 10\nB. 21,50 3,00 12\nC. 22,00 1,50 14\nD. 21,00 3,50 18\nE. 24,00 2,50 2 A pessoa escolherá um desses depósitos para\nrealizar sua compra, considerando os preços do cimento\ne do frete oferecidos em cada opção.\nSe a pessoa decidir pela opção mais econômica, o depósito\nescolhido para a realização dessa compra será o\nA A.\nB B.\nC C.\nD D.\nE E."
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "Um motociclista planeja realizar uma viagem cujo\ndestino fica a 500 km de sua casa. Sua moto consome\n5 litros de gasolina para cada 100 km rodados, e o\ntanque da moto tem capacidade para 22 litros. Pelo\nmapa, observou que no trajeto da viagem o último posto\ndisponível para reabastecimento, chamado Estrela, fica a\n80 km do seu destino. Ele pretende partir com o tanque\nda moto cheio e planeja fazer somente duas paradas para\nreabastecimento, uma na ida e outra na volta, ambas no\nposto Estrela. No reabastecimento para a viagem de ida,\ndeve considerar também combustível suficiente para se\ndeslocar por 200 km no seu destino.\nA quantidade mínima de combustível, em litro, que\nesse motociclista deve reabastecer no posto Estrela na\nviagem de ida, que seja suficiente para fazer o segundo\nreabastecimento, é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "13.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "14.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "17.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "18.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "21. *020525AM20* MT - 2° dia | Caderno 5 - AMARELO - Página 20",
+          "assets": []
+        }
+      ],
+      "rawText": "Um motociclista planeja realizar uma viagem cujo\ndestino fica a 500 km de sua casa. Sua moto consome\n5 litros de gasolina para cada 100 km rodados, e o\ntanque da moto tem capacidade para 22 litros. Pelo\nmapa, observou que no trajeto da viagem o último posto\ndisponível para reabastecimento, chamado Estrela, fica a\n80 km do seu destino. Ele pretende partir com o tanque\nda moto cheio e planeja fazer somente duas paradas para\nreabastecimento, uma na ida e outra na volta, ambas no\nposto Estrela. No reabastecimento para a viagem de ida,\ndeve considerar também combustível suficiente para se\ndeslocar por 200 km no seu destino.\nA quantidade mínima de combustível, em litro, que\nesse motociclista deve reabastecer no posto Estrela na\nviagem de ida, que seja suficiente para fazer o segundo\nreabastecimento, é\n\nA. 13.\nB. 14.\nC. 17.\nD. 18.\nE. 21. *020525AM20* MT - 2° dia | Caderno 5 - AMARELO - Página 20"
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Um processo de aeração, que consiste na introdução\nde ar num líquido, acontece do seguinte modo: uma\nbomba B retira o líquido de um tanque T1 e o faz passar\npelo aerador A1, que aumenta o volume do líquido em\n15%, e em seguida pelo aerador A2, ganhando novo\naumento de volume de 10%. Ao final, ele fica armazenado\nnum tanque T2, de acordo com a figura.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-145/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-145/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "y = 1,265x",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Os tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento c 2 e largura 2L. Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015. A equação que relaciona as medidas das alturas y e x é\ndada por y = 1,250x",
+          "assets": [
+            "/generated/enem-2020/matematica/question-145/option-b-01.png",
+            "/generated/enem-2020/matematica/question-145/option-b-02.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "y = 1,150x",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "y = 1,125x",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "y = x",
+          "assets": []
+        }
+      ],
+      "rawText": "Um processo de aeração, que consiste na introdução\nde ar num líquido, acontece do seguinte modo: uma\nbomba B retira o líquido de um tanque T1 e o faz passar\npelo aerador A1, que aumenta o volume do líquido em\n15%, e em seguida pelo aerador A2, ganhando novo\naumento de volume de 10%. Ao final, ele fica armazenado\nnum tanque T2, de acordo com a figura.\n\nA. y = 1,265x\nB. Os tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento c 2 e largura 2L. Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015. A equação que relaciona as medidas das alturas y e x é\ndada por y = 1,250x\nC. y = 1,150x\nD. y = 1,125x\nE. y = x"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Para chegar à universidade, um estudante utiliza\num metrô e, depois, tem duas opções:\n• seguir num ônibus, percorrendo 2,0 km;\n• alugar uma bicicleta, ao lado da estação do metrô,\nseguindo 3,0 km pela ciclovia.\nO quadro fornece as velocidades médias do ônibus\ne da bicicleta, em km/h, no trajeto metrô−universidade.\n\nA fim de poupar tempo no deslocamento para a\nuniversidade, em quais dias o aluno deve seguir pela\nciclovia?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-146/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-146/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Às segundas, quintas e sextas-feiras.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Às terças e quintas-feiras e aos sábados.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Às segundas, quartas e sextas-feiras.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Às terças, quartas e sextas-feiras.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Para chegar à universidade, um estudante utiliza\num metrô e, depois, tem duas opções:\n• seguir num ônibus, percorrendo 2,0 km;\n• alugar uma bicicleta, ao lado da estação do metrô,\nseguindo 3,0 km pela ciclovia.\nO quadro fornece as velocidades médias do ônibus\ne da bicicleta, em km/h, no trajeto metrô−universidade.\n\nA fim de poupar tempo no deslocamento para a\nuniversidade, em quais dias o aluno deve seguir pela\nciclovia?\n\nA. Às segundas, quintas e sextas-feiras.\nB. Às terças e quintas-feiras e aos sábados.\nC. Às segundas, quartas e sextas-feiras.\nD. Às terças, quartas e sextas-feiras.\nE."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "Pesquisadores da Universidade de Tecnologia\nde Viena, na Áustria, produziram miniaturas de\nobjetos em impressoras 3D de alta precisão. Ao\nserem ativadas, tais impressoras lançam feixes de\nlaser sobre um tipo de resina, esculpindo o objeto\ndesejado. O produto final da impressão é uma\nescultura microscópica de três dimensões, como\nvisto na imagem ampliada.\n\nA escultura apresentada é uma miniatura de\num carro de Fórmula 1, com 100 micrômetros de\ncomprimento. Um micrômetro é a milionésima parte\nde um metro.\nUsando notação científica, qual é a representação do\ncomprimento dessa miniatura, em metro?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-147/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-147/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,0 × 10− ₁",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,0 × 10− ₃",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,0 × 10− ₄",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,0 × 10− ₆",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1,0 × 10− ₇ *020525AM21* MT - 2° dia | Caderno 5 - AMARELO - Página 21",
+          "assets": []
+        }
+      ],
+      "rawText": "Pesquisadores da Universidade de Tecnologia\nde Viena, na Áustria, produziram miniaturas de\nobjetos em impressoras 3D de alta precisão. Ao\nserem ativadas, tais impressoras lançam feixes de\nlaser sobre um tipo de resina, esculpindo o objeto\ndesejado. O produto final da impressão é uma\nescultura microscópica de três dimensões, como\nvisto na imagem ampliada.\n\nA escultura apresentada é uma miniatura de\num carro de Fórmula 1, com 100 micrômetros de\ncomprimento. Um micrômetro é a milionésima parte\nde um metro.\nUsando notação científica, qual é a representação do\ncomprimento dessa miniatura, em metro?\n\nA. 1,0 × 10− ₁\nB. 1,0 × 10− ₃\nC. 1,0 × 10− ₄\nD. 1,0 × 10− ₆\nE. 1,0 × 10− ₇ *020525AM21* MT - 2° dia | Caderno 5 - AMARELO - Página 21"
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "A fabricação da Bandeira Nacional deve obedecer ao\ndescrito na Lei n. 5.700, de 1º de setembro de 1971, que\ntrata dos Símbolos Nacionais. No artigo que se refere às\ndimensões da Bandeira, observa-se:\n“Para cálculos das dimensões, será tomada por base\na largura, dividindo-a em 14 (quatorze) partes iguais,\nsendo que cada uma das partes será considerada uma\nmedida ou módulo (M). Os demais requisitos dimensionais\nseguem o critério abaixo:\nI.\nComprimento será de vinte módulos (20 M);\nII. A distância dos vértices do losango amarelo ao\nquadro externo será de um módulo e sete décimos\n\nIII. O raio do círculo azul no meio do losango\namarelo será de três módulos e meio (3,5 M).”\nBRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br.\nAcesso em: 15 set. 2015.\nA figura indica as cores da bandeira do Brasil e\nlocaliza o quadro externo a que se refere a Lei n. 5.700.\n\nComprimento do quadro externo\nLargura do quadro externo\n\nUm torcedor, preparando-se para a Copa do Mundo\ne dispondo de cortes de tecidos verde (180 cm x 150 cm)\ne amarelo (o quanto baste), deseja confeccionar a maior\nBandeira Nacional possível a partir das medidas do tecido\nverde.\nQual a medida, em centímetro, do lado do menor\nquadrado de tecido azul que deverá ser comprado para\nconfecção do círculo da bandeira desejada?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-148/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-148/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "27",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "32",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "53",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "63",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "90",
+          "assets": []
+        }
+      ],
+      "rawText": "A fabricação da Bandeira Nacional deve obedecer ao\ndescrito na Lei n. 5.700, de 1º de setembro de 1971, que\ntrata dos Símbolos Nacionais. No artigo que se refere às\ndimensões da Bandeira, observa-se:\n“Para cálculos das dimensões, será tomada por base\na largura, dividindo-a em 14 (quatorze) partes iguais,\nsendo que cada uma das partes será considerada uma\nmedida ou módulo (M). Os demais requisitos dimensionais\nseguem o critério abaixo:\nI.\nComprimento será de vinte módulos (20 M);\nII. A distância dos vértices do losango amarelo ao\nquadro externo será de um módulo e sete décimos\n\nIII. O raio do círculo azul no meio do losango\namarelo será de três módulos e meio (3,5 M).”\nBRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br.\nAcesso em: 15 set. 2015.\nA figura indica as cores da bandeira do Brasil e\nlocaliza o quadro externo a que se refere a Lei n. 5.700.\n\nComprimento do quadro externo\nLargura do quadro externo\n\nUm torcedor, preparando-se para a Copa do Mundo\ne dispondo de cortes de tecidos verde (180 cm x 150 cm)\ne amarelo (o quanto baste), deseja confeccionar a maior\nBandeira Nacional possível a partir das medidas do tecido\nverde.\nQual a medida, em centímetro, do lado do menor\nquadrado de tecido azul que deverá ser comprado para\nconfecção do círculo da bandeira desejada?\n\nA. 27\nB. 32\nC. 53\nD. 63\nE. 90"
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "Uma empresa de ônibus utiliza um sistema de\nvendas de passagens que fornece a imagem de todos\nos assentos do ônibus, diferenciando os assentos já\nvendidos, por uma cor mais escura, dos assentos ainda\ndisponíveis. A empresa monitora, permanentemente,\no número de assentos já vendidos e compara-o com\no número total de assentos do ônibus para avaliar a\nnecessidade de alocação de veículos extras.\nNa imagem tem-se a informação dos assentos já\nvendidos e dos ainda disponíveis em um determinado\ninstante.\n\nA razão entre o número de assentos já vendidos e o total\nde assentos desse ônibus, no instante considerado na\nimagem, é",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-149/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-149/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-149/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-149/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "26",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-149/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "*020525AM22* MT - 2° dia | Caderno 5 - AMARELO - Página 22",
+          "assets": [
+            "/generated/enem-2020/matematica/question-149/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Uma empresa de ônibus utiliza um sistema de\nvendas de passagens que fornece a imagem de todos\nos assentos do ônibus, diferenciando os assentos já\nvendidos, por uma cor mais escura, dos assentos ainda\ndisponíveis. A empresa monitora, permanentemente,\no número de assentos já vendidos e compara-o com\no número total de assentos do ônibus para avaliar a\nnecessidade de alocação de veículos extras.\nNa imagem tem-se a informação dos assentos já\nvendidos e dos ainda disponíveis em um determinado\ninstante.\n\nA razão entre o número de assentos já vendidos e o total\nde assentos desse ônibus, no instante considerado na\nimagem, é\n\nA.\nB.\nC. 26\nD.\nE. *020525AM22* MT - 2° dia | Caderno 5 - AMARELO - Página 22"
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "A caixa-d’água de um edifício terá a forma de um\nparalelepípedo retângulo reto com volume igual a\n28 080 litros. Em uma maquete que representa o edifício,\na caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm.\nDado: 1 dm³ = 1 L.\nA escala usada pelo arquiteto foi\nA 1 : 10\nB 1 : 100\nC 1 : 1 000\nD 1 : 10 000\nE 1 : 100 000",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A caixa-d’água de um edifício terá a forma de um\nparalelepípedo retângulo reto com volume igual a\n28 080 litros. Em uma maquete que representa o edifício,\na caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm.\nDado: 1 dm³ = 1 L.\nA escala usada pelo arquiteto foi\nA 1 : 10\nB 1 : 100\nC 1 : 1 000\nD 1 : 10 000\nE 1 : 100 000\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "Os gráficos representam a produção de peças em\numa indústria e as horas trabalhadas dos funcionários\nno período de cinco dias. Em cada dia, o gerente\nde produção aplica uma metodologia diferente de\ntrabalho. Seu objetivo é avaliar a metodologia mais\neficiente para utilizá-la como modelo nos próximos\nperíodos. Sabe-se que, neste caso, quanto maior\nfor a razão entre o número de peças produzidas e o\nnúmero de horas trabalhadas, maior será a eficiência\nda metodologia.\n\nEm qual dia foi aplicada a metodologia mais eficiente?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5",
+          "assets": []
+        }
+      ],
+      "rawText": "Os gráficos representam a produção de peças em\numa indústria e as horas trabalhadas dos funcionários\nno período de cinco dias. Em cada dia, o gerente\nde produção aplica uma metodologia diferente de\ntrabalho. Seu objetivo é avaliar a metodologia mais\neficiente para utilizá-la como modelo nos próximos\nperíodos. Sabe-se que, neste caso, quanto maior\nfor a razão entre o número de peças produzidas e o\nnúmero de horas trabalhadas, maior será a eficiência\nda metodologia.\n\nEm qual dia foi aplicada a metodologia mais eficiente?\n\nA. 1\nB. 2\nC. 3\nD. 4\nE. 5"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        22
+      ],
+      "statement": "O proprietário de um apartamento decidiu instalar\nporcelanato no piso da sala. Essa sala tem formato\nretangular com 3,2 m de largura e 3,6 m de comprimento.\nAs peças do porcelanato têm formato de um quadrado\ncom lado medindo 80 cm. Esse porcelanato é vendido em\ndois tipos de caixas, com os preços indicados a seguir.\n• Caixas do tipo A: 4 unidades de piso, R$ 35,00;\n• Caixas do tipo B: 3 unidades de piso, R$ 27,00.\nNa instalação do porcelanato, as peças podem ser\nrecortadas e devem ser assentadas sem espaçamento\nentre elas, aproveitando-se ao máximo os recortes\nfeitos.\nA compra que atende às necessidades do proprietário,\nproporciona a menor sobra de pisos e resulta no menor\npreço é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "5 caixas do tipo A.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 caixa do tipo A e 4 caixas do tipo B.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3 caixas do tipo A e 2 caixas do tipo B.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5 caixas do tipo A e 1 caixa do tipo B.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "6 caixas do tipo B.",
+          "assets": []
+        }
+      ],
+      "rawText": "O proprietário de um apartamento decidiu instalar\nporcelanato no piso da sala. Essa sala tem formato\nretangular com 3,2 m de largura e 3,6 m de comprimento.\nAs peças do porcelanato têm formato de um quadrado\ncom lado medindo 80 cm. Esse porcelanato é vendido em\ndois tipos de caixas, com os preços indicados a seguir.\n• Caixas do tipo A: 4 unidades de piso, R$ 35,00;\n• Caixas do tipo B: 3 unidades de piso, R$ 27,00.\nNa instalação do porcelanato, as peças podem ser\nrecortadas e devem ser assentadas sem espaçamento\nentre elas, aproveitando-se ao máximo os recortes\nfeitos.\nA compra que atende às necessidades do proprietário,\nproporciona a menor sobra de pisos e resulta no menor\npreço é\n\nA. 5 caixas do tipo A.\nB. 1 caixa do tipo A e 4 caixas do tipo B.\nC. 3 caixas do tipo A e 2 caixas do tipo B.\nD. 5 caixas do tipo A e 1 caixa do tipo B.\nE. 6 caixas do tipo B."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "Um hotel de 3 andares está sendo construído. Cada\nandar terá 100 quartos. Os quartos serão numerados de\n100 a 399 e cada um terá seu número afixado à porta.\nCada número será composto por peças individuais, cada\numa simbolizando um único algarismo.\nQual a quantidade mínima de peças, simbolizando o\nalgarismo 2, necessárias para identificar o número de\ntodos os quartos?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "160",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "157",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "130",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "120",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "60 MT - 2° dia | Caderno 5 - AMARELO - Página 23 *020525AM23*",
+          "assets": []
+        }
+      ],
+      "rawText": "Um hotel de 3 andares está sendo construído. Cada\nandar terá 100 quartos. Os quartos serão numerados de\n100 a 399 e cada um terá seu número afixado à porta.\nCada número será composto por peças individuais, cada\numa simbolizando um único algarismo.\nQual a quantidade mínima de peças, simbolizando o\nalgarismo 2, necessárias para identificar o número de\ntodos os quartos?\n\nA. 160\nB. 157\nC. 130\nD. 120\nE. 60 MT - 2° dia | Caderno 5 - AMARELO - Página 23 *020525AM23*"
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas\npresentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea\nda via pública principal na área ocupada, bem como das vias afl uentes que apresentem aglomerações de pessoas\nque acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se\num esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantifi cando a densidade,\nda seguinte forma:\n• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;\n• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;\n• 6 pessoas por metro quadrado, se elas estiverem paradas.\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas\npara cada carro de som fotografado.\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo\nesboço geométrico é dado na fi gura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afl uente\nda principal: QR .\nLegenda:\n30 m\n\nObs.: a figura não está em escala (considere as medidas dadas).\nSegundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-154/statement-01.png",
+        "/generated/enem-2020/matematica/question-154/statement-02.png",
+        "/generated/enem-2020/matematica/question-154/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-154/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "110 000.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "104 000.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "93 000.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "92 000.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "87 000. *020525AM24* MT - 2° dia | Caderno 5 - AMARELO - Página 24",
+          "assets": []
+        }
+      ],
+      "rawText": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas\npresentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea\nda via pública principal na área ocupada, bem como das vias afl uentes que apresentem aglomerações de pessoas\nque acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se\num esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantifi cando a densidade,\nda seguinte forma:\n• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;\n• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;\n• 6 pessoas por metro quadrado, se elas estiverem paradas.\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas\npara cada carro de som fotografado.\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo\nesboço geométrico é dado na fi gura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afl uente\nda principal: QR .\nLegenda:\n30 m\n\nObs.: a figura não está em escala (considere as medidas dadas).\nSegundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a\n\nA. 110 000.\nB. 104 000.\nC. 93 000.\nD. 92 000.\nE. 87 000. *020525AM24* MT - 2° dia | Caderno 5 - AMARELO - Página 24"
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "A Pesquisa Nacional por Amostra de Domicílios\n(Pnad) é uma pesquisa feita anualmente pelo IBGE,\nexceto nos anos em que há Censo. Em um ano, foram\nentrevistados 363 mil jovens para fazer um levantamento\nsobre suas atividades profissionais e/ou acadêmicas. Os\nresultados da pesquisa estão indicados no gráfico.\n\nJovens em atividade entre 15 e 29 anos (%)",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-155/statement-01.png",
+        "/generated/enem-2020/matematica/question-155/statement-02.png",
+        "/generated/enem-2020/matematica/question-155/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-155/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A Pesquisa Nacional por Amostra de Domicílios\n(Pnad) é uma pesquisa feita anualmente pelo IBGE,\nexceto nos anos em que há Censo. Em um ano, foram\nentrevistados 363 mil jovens para fazer um levantamento\nsobre suas atividades profissionais e/ou acadêmicas. Os\nresultados da pesquisa estão indicados no gráfico.\n\nJovens em atividade entre 15 e 29 anos (%)\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "A Lei de Zipf, batizada com o nome do linguista\namericano George Zipf, é uma lei empírica que\nrelaciona a frequência ( f ) de uma palavra em um\ndado texto com o seu ranking (r). Ela é dada por\n\n.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-156/statement-01.png",
+        "/generated/enem-2020/matematica/question-156/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-156/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Y = log A −B X XB log",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "− X log X log",
+          "assets": [
+            "/generated/enem-2020/matematica/question-156/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "Y =",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Y =",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Y =",
+          "assets": []
+        }
+      ],
+      "rawText": "A Lei de Zipf, batizada com o nome do linguista\namericano George Zipf, é uma lei empírica que\nrelaciona a frequência ( f ) de uma palavra em um\ndado texto com o seu ranking (r). Ela é dada por\n\n.\n\nA. Y = log A −B X XB log\nB. − X log X log\nC. Y =\nD. Y =\nE. Y ="
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Enquanto um ser está vivo, a quantidade de carbono\n14 nele existente não se altera. Quando ele morre, essa\nquantidade vai diminuindo. Sabe-se que a meia-vida do\ncarbono 14 é de 5 730 anos, ou seja, num fóssil de um\norganismo que morreu há 5 730 anos haverá metade do\ncarbono 14 que existia quando ele estava vivo. Assim,\ncientistas e arqueólogos usam a seguinte fórmula para\nsaber a idade de um fóssil encontrado: Q t = Q₀ ∙ 2\n\nem que t é o tempo, medido em ano, Q t é a quantidade\nde carbono 14 medida no instante t e Q₀ é a quantidade\nde carbono 14 no ser vivo correspondente.\nUm grupo de arqueólogos, numa de suas expedições,\nencontrou 5 fósseis de espécies conhecidas e mediram\na quantidade de carbono 14 neles existente. Na tabela\ntemos esses valores juntamente com a quantidade de\ncarbono 14 nas referidas espécies vivas.\n\nO fóssil mais antigo encontrado nessa expedição foi",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-157/statement-01.png",
+        "/generated/enem-2020/matematica/question-157/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-157/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Enquanto um ser está vivo, a quantidade de carbono\n14 nele existente não se altera. Quando ele morre, essa\nquantidade vai diminuindo. Sabe-se que a meia-vida do\ncarbono 14 é de 5 730 anos, ou seja, num fóssil de um\norganismo que morreu há 5 730 anos haverá metade do\ncarbono 14 que existia quando ele estava vivo. Assim,\ncientistas e arqueólogos usam a seguinte fórmula para\nsaber a idade de um fóssil encontrado: Q t = Q₀ ∙ 2\n\nem que t é o tempo, medido em ano, Q t é a quantidade\nde carbono 14 medida no instante t e Q₀ é a quantidade\nde carbono 14 no ser vivo correspondente.\nUm grupo de arqueólogos, numa de suas expedições,\nencontrou 5 fósseis de espécies conhecidas e mediram\na quantidade de carbono 14 neles existente. Na tabela\ntemos esses valores juntamente com a quantidade de\ncarbono 14 nas referidas espécies vivas.\n\nO fóssil mais antigo encontrado nessa expedição foi\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "Uma das Sete Maravilhas do Mundo Moderno é o\nTemplo de Kukulkán, localizado na cidade de Chichén\nItzá, no México. Geometricamente, esse templo pode\nser representado por um tronco reto de pirâmide de base\nquadrada.\nAs quantidades de cada tipo de figura plana que formam\nesse tronco de pirâmide são",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 quadrados e 4 retângulos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 retângulo e 4 triângulos isósceles.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 quadrados e 4 trapézios isósceles.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2 retângulos, 2 quadrados e 2 trapézios retângulos. *020525AM25* MT - 2° dia | Caderno 5 - AMARELO - Página 25",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma das Sete Maravilhas do Mundo Moderno é o\nTemplo de Kukulkán, localizado na cidade de Chichén\nItzá, no México. Geometricamente, esse templo pode\nser representado por um tronco reto de pirâmide de base\nquadrada.\nAs quantidades de cada tipo de figura plana que formam\nesse tronco de pirâmide são\n\nA. 2 quadrados e 4 retângulos.\nB. 1 retângulo e 4 triângulos isósceles.\nC. 2 quadrados e 4 trapézios isósceles.\nD. 1 quadrado, 3 retângulos e 2 trapézios retângulos.\nE. 2 retângulos, 2 quadrados e 2 trapézios retângulos. *020525AM25* MT - 2° dia | Caderno 5 - AMARELO - Página 25"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "A Figura 1 apresenta uma casa e a planta do seu\ntelhado, em que as setas indicam o sentido do escoamento\nda água de chuva. Um pedreiro precisa fazer a planta do\nescoamento da água de chuva de um telhado que tem\ntrês caídas de água, como apresentado na Figura 2.\n\n(a) Casa\n(b) Planta do telhado\nFigura 1\nFigura 2\nA figura que representa a planta do telhado da Figura 2 com\no escoamento da água de chuva que o pedreiro precisa\nfazer é",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-159/statement-01.png",
+        "/generated/enem-2020/matematica/question-159/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-159/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A Figura 1 apresenta uma casa e a planta do seu\ntelhado, em que as setas indicam o sentido do escoamento\nda água de chuva. Um pedreiro precisa fazer a planta do\nescoamento da água de chuva de um telhado que tem\ntrês caídas de água, como apresentado na Figura 2.\n\n(a) Casa\n(b) Planta do telhado\nFigura 1\nFigura 2\nA figura que representa a planta do telhado da Figura 2 com\no escoamento da água de chuva que o pedreiro precisa\nfazer é\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Suponha que uma equipe de corrida de automóveis\ndisponha de cinco tipos de pneu (I, II, III, IV, V), em que\no fator de eficiência climática EC (índice que fornece o\ncomportamento do pneu em uso, dependendo do clima)\né apresentado:\n• EC do pneu I: com chuva 6, sem chuva 3;\n• EC do pneu II: com chuva 7, sem chuva −4;\n• EC do pneu III: com chuva −2, sem chuva 10;\n• EC do pneu IV: com chuva 2, sem chuva 8;\n• EC do pneu V: com chuva −6, sem chuva 7.\nO coeficiente de rendimento climático (CRC) de um\npneu é calculado como a soma dos produtos dos fatores\nde EC, com ou sem chuva, pelas correspondentes\nprobabilidades de se ter tais condições climáticas:\nele é utilizado para determinar qual pneu deve ser\nselecionado para uma dada corrida, escolhendo-se o\npneu que apresentar o maior CRC naquele dia. No dia\nde certa corrida, a probabilidade de chover era de 70%\ne o chefe da equipe calculou o CRC de cada um dos\ncinco tipos de pneu.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Suponha que uma equipe de corrida de automóveis\ndisponha de cinco tipos de pneu (I, II, III, IV, V), em que\no fator de eficiência climática EC (índice que fornece o\ncomportamento do pneu em uso, dependendo do clima)\né apresentado:\n• EC do pneu I: com chuva 6, sem chuva 3;\n• EC do pneu II: com chuva 7, sem chuva −4;\n• EC do pneu III: com chuva −2, sem chuva 10;\n• EC do pneu IV: com chuva 2, sem chuva 8;\n• EC do pneu V: com chuva −6, sem chuva 7.\nO coeficiente de rendimento climático (CRC) de um\npneu é calculado como a soma dos produtos dos fatores\nde EC, com ou sem chuva, pelas correspondentes\nprobabilidades de se ter tais condições climáticas:\nele é utilizado para determinar qual pneu deve ser\nselecionado para uma dada corrida, escolhendo-se o\npneu que apresentar o maior CRC naquele dia. No dia\nde certa corrida, a probabilidade de chover era de 70%\ne o chefe da equipe calculou o CRC de cada um dos\ncinco tipos de pneu.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Um pé de eucalipto em idade adequada para o corte\nrende, em média, 20 mil folhas de papel A4. A densidade\nsuperficial do papel A4, medida pela razão da massa de\numa folha desse papel por sua área, é de 75 gramas por\nmetro quadrado, e a área de uma folha de A4 é 0,062\nmetro quadrado.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-161/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-161/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um pé de eucalipto em idade adequada para o corte\nrende, em média, 20 mil folhas de papel A4. A densidade\nsuperficial do papel A4, medida pela razão da massa de\numa folha desse papel por sua área, é de 75 gramas por\nmetro quadrado, e a área de uma folha de A4 é 0,062\nmetro quadrado.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "Com o objetivo de contratar uma empresa responsável\npelo serviço de atendimento ao público, os executivos\nde uma agência bancária realizaram uma pesquisa de\nsatisfação envolvendo cinco empresas especializadas\nnesse segmento. Os procedimentos analisados (com\npesos que medem sua importância para a agência) e\nas respectivas notas que cada empresa recebeu estão\norganizados no quadro.\n\nA agência bancária contratará a empresa com a maior\nmédia ponderada das notas obtidas nos procedimentos\nanalisados.\nApós a análise dos resultados da pesquisa de satisfação,\nos executivos da agência bancária contrataram a empresa\nA X.\nB Y.\nC Z.\nD W.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-162/statement-01.png",
+        "/generated/enem-2020/matematica/question-162/statement-02.png",
+        "/generated/enem-2020/matematica/question-162/statement-03.png",
+        "/generated/enem-2020/matematica/question-162/statement-04.png",
+        "/generated/enem-2020/matematica/question-162/statement-05.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-162/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "T. *020525AM26* MT - 2° dia | Caderno 5 - AMARELO - Página 26",
+          "assets": []
+        }
+      ],
+      "rawText": "Com o objetivo de contratar uma empresa responsável\npelo serviço de atendimento ao público, os executivos\nde uma agência bancária realizaram uma pesquisa de\nsatisfação envolvendo cinco empresas especializadas\nnesse segmento. Os procedimentos analisados (com\npesos que medem sua importância para a agência) e\nas respectivas notas que cada empresa recebeu estão\norganizados no quadro.\n\nA agência bancária contratará a empresa com a maior\nmédia ponderada das notas obtidas nos procedimentos\nanalisados.\nApós a análise dos resultados da pesquisa de satisfação,\nos executivos da agência bancária contrataram a empresa\nA X.\nB Y.\nC Z.\nD W.\n\nA.\nB.\nC.\nD.\nE. T. *020525AM26* MT - 2° dia | Caderno 5 - AMARELO - Página 26"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "O Estatuto do Idoso, no Brasil, prevê certos\ndireitos às pessoas com idade avançada, concedendo\na estas, entre outros benefícios, a restituição de\nimposto de renda antes dos demais contribuintes. A\ntabela informa os nomes e as idades de 12 idosos\nque aguardam suas restituições de imposto de\nrenda. Considere que, entre os idosos, a restituição\nseja concedida em ordem decrescente de idade e\nque, em subgrupos de pessoas com a mesma idade,\na ordem seja decidida por sorteio.\nNome\nIdade (em ano)\nOrlando\n89\nGustavo\n86\nLuana\n86\nTeresa\n85\nMárcia\n84\nRoberto\n82\nHeloisa\n75\nMarisa\n75\nPedro\n75\nJoão\n75\nAntônio\n72\nFernanda\n70\nNessas condições, a probabilidade de João ser a sétima\npessoa do grupo a receber sua restituição é igual a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "7",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-163/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "1",
+          "assets": []
+        }
+      ],
+      "rawText": "O Estatuto do Idoso, no Brasil, prevê certos\ndireitos às pessoas com idade avançada, concedendo\na estas, entre outros benefícios, a restituição de\nimposto de renda antes dos demais contribuintes. A\ntabela informa os nomes e as idades de 12 idosos\nque aguardam suas restituições de imposto de\nrenda. Considere que, entre os idosos, a restituição\nseja concedida em ordem decrescente de idade e\nque, em subgrupos de pessoas com a mesma idade,\na ordem seja decidida por sorteio.\nNome\nIdade (em ano)\nOrlando\n89\nGustavo\n86\nLuana\n86\nTeresa\n85\nMárcia\n84\nRoberto\n82\nHeloisa\n75\nMarisa\n75\nPedro\n75\nJoão\n75\nAntônio\n72\nFernanda\n70\nNessas condições, a probabilidade de João ser a sétima\npessoa do grupo a receber sua restituição é igual a\n\nA. 1\nB. 7\nC. 1\nD.\nE. 1"
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "No Brasil, o tempo necessário para um estudante\nrealizar sua formação até a diplomação em um\ncurso superior, considerando os 9 anos de ensino\nfundamental, os 3 anos do ensino médio e os 4 anos de\ngraduação (tempo médio), é de 16 anos. No entanto,\na realidade dos brasileiros mostra que o tempo médio\nde estudo de pessoas acima de 14 anos é ainda muito\npequeno, conforme apresentado na tabela.\nTempo médio de estudo de pessoas acima de 14 anos\n\nDisponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado).\nConsidere que o incremento no tempo de estudo,\na cada período, para essas pessoas, se mantenha\nconstante até o ano 2050, e que se pretenda chegar ao\npatamar de 70% do tempo necessário à obtenção do\ncurso superior dado anteriormente.\nO ano em que o tempo médio de estudo de pessoas\nacima de 14 anos atingirá o percentual pretendido será",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-164/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2018.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2023.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2031.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2035.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2043.",
+          "assets": []
+        }
+      ],
+      "rawText": "No Brasil, o tempo necessário para um estudante\nrealizar sua formação até a diplomação em um\ncurso superior, considerando os 9 anos de ensino\nfundamental, os 3 anos do ensino médio e os 4 anos de\ngraduação (tempo médio), é de 16 anos. No entanto,\na realidade dos brasileiros mostra que o tempo médio\nde estudo de pessoas acima de 14 anos é ainda muito\npequeno, conforme apresentado na tabela.\nTempo médio de estudo de pessoas acima de 14 anos\n\nDisponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado).\nConsidere que o incremento no tempo de estudo,\na cada período, para essas pessoas, se mantenha\nconstante até o ano 2050, e que se pretenda chegar ao\npatamar de 70% do tempo necessário à obtenção do\ncurso superior dado anteriormente.\nO ano em que o tempo médio de estudo de pessoas\nacima de 14 anos atingirá o percentual pretendido será\n\nA. 2018.\nB. 2023.\nC. 2031.\nD. 2035.\nE. 2043."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "Uma torneira está gotejando água em um balde\ncom capacidade de 18 litros. No instante atual, o\nbalde se encontra com ocupação de 50% de sua\ncapacidade. A cada segundo caem 5 gotas de água\nda torneira, e uma gota é formada, em média, por\n5 × 10−₂ mL de água.\nQuanto tempo, em hora, será necessário para encher\ncompletamente o balde, partindo do instante atual?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2 × 10₁",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 × 10₁",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 × 10−₂",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 × 10−₂",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1 × 10−₃ *020525AM27* MT - 2° dia | Caderno 5 - AMARELO - Página 27",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma torneira está gotejando água em um balde\ncom capacidade de 18 litros. No instante atual, o\nbalde se encontra com ocupação de 50% de sua\ncapacidade. A cada segundo caem 5 gotas de água\nda torneira, e uma gota é formada, em média, por\n5 × 10−₂ mL de água.\nQuanto tempo, em hora, será necessário para encher\ncompletamente o balde, partindo do instante atual?\n\nA. 2 × 10₁\nB. 1 × 10₁\nC. 2 × 10−₂\nD. 1 × 10−₂\nE. 1 × 10−₃ *020525AM27* MT - 2° dia | Caderno 5 - AMARELO - Página 27"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "O artista gráfico holandês Maurits Cornelius Escher\ncriou belíssimas obras nas quais as imagens se repetiam,\ncom diferentes tamanhos, induzindo ao raciocínio de\nrepetição infinita das imagens. Inspirado por ele, um artista\nfez um rascunho de uma obra na qual propunha a ideia\nde construção de uma sequência de infinitos quadrados,\ncada vez menores, uns sob os outros, conforme indicado\nna figura.\nP\n\nT\nR\n\nS\n\nO quadrado PRST, com lado de medida 1, é o ponto\nde partida. O segundo quadrado é construído sob ele\ntomando-se o ponto médio da base do quadrado anterior\ne criando-se um novo quadrado, cujo lado corresponde\nà metade dessa base. Essa sequência de construção se\nrepete recursivamente.\nQual é a medida do lado do centésimo quadrado\nconstruído de acordo com esse padrão?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-166/statement-01.png",
+        "/generated/enem-2020/matematica/question-166/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-166/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-166/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1",
+          "assets": []
+        }
+      ],
+      "rawText": "O artista gráfico holandês Maurits Cornelius Escher\ncriou belíssimas obras nas quais as imagens se repetiam,\ncom diferentes tamanhos, induzindo ao raciocínio de\nrepetição infinita das imagens. Inspirado por ele, um artista\nfez um rascunho de uma obra na qual propunha a ideia\nde construção de uma sequência de infinitos quadrados,\ncada vez menores, uns sob os outros, conforme indicado\nna figura.\nP\n\nT\nR\n\nS\n\nO quadrado PRST, com lado de medida 1, é o ponto\nde partida. O segundo quadrado é construído sob ele\ntomando-se o ponto médio da base do quadrado anterior\ne criando-se um novo quadrado, cujo lado corresponde\nà metade dessa base. Essa sequência de construção se\nrepete recursivamente.\nQual é a medida do lado do centésimo quadrado\nconstruído de acordo com esse padrão?\n\nA.\nB. 1\nC. 1\nD. 1\nE. 1"
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "O gerente de uma loja de cosméticos colocou à venda\ncinco diferentes tipos de perfume, tendo em estoque na\nloja as mesmas quantidades de cada um deles. O setor\nde controle de estoque encaminhou ao gerente registros\ngráficos descrevendo os preços unitários de cada\nperfume, em real, e a quantidade vendida de cada um\ndeles, em percentual, ocorrida no mês de novembro.\nPreço do perfume por unidade (R$)\n\nPerfume V\n32%\n\nPerfume IV\n29%\nPerfume III\n16%\nPerfume I\n13%\nPerfume II\n10%\nPorcentagem da quantidade vendida de\ncada perfume\n\nDados a chegada do final de ano e o aumento das\nvendas, a gerência pretende aumentar a quantidade\nestocada do perfume do tipo que gerou a maior\narrecadação em espécie, em real, no mês de novembro.\nNessas condições, qual o tipo de perfume que deverá ter\nmaior reposição no estoque?",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-167/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-167/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V *020525AM28* MT - 2° dia | Caderno 5 - AMARELO - Página 28",
+          "assets": []
+        }
+      ],
+      "rawText": "O gerente de uma loja de cosméticos colocou à venda\ncinco diferentes tipos de perfume, tendo em estoque na\nloja as mesmas quantidades de cada um deles. O setor\nde controle de estoque encaminhou ao gerente registros\ngráficos descrevendo os preços unitários de cada\nperfume, em real, e a quantidade vendida de cada um\ndeles, em percentual, ocorrida no mês de novembro.\nPreço do perfume por unidade (R$)\n\nPerfume V\n32%\n\nPerfume IV\n29%\nPerfume III\n16%\nPerfume I\n13%\nPerfume II\n10%\nPorcentagem da quantidade vendida de\ncada perfume\n\nDados a chegada do final de ano e o aumento das\nvendas, a gerência pretende aumentar a quantidade\nestocada do perfume do tipo que gerou a maior\narrecadação em espécie, em real, no mês de novembro.\nNessas condições, qual o tipo de perfume que deverá ter\nmaior reposição no estoque?\n\nA. I\nB. II\nC. III\nD. IV\nE. V *020525AM28* MT - 2° dia | Caderno 5 - AMARELO - Página 28"
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Uma loja de materiais de construção vende dois tipos de\ncaixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e\npossuem o mesmo volume, e a altura da caixa-d’água do\ntipo B é igual a 25% da altura da caixa-d’água do tipo A.\nSe R denota o raio da caixa-d’água do tipo A, então o raio\nda caixa-d’água do tipo B é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-168/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4 R",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5 R",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "16 R",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma loja de materiais de construção vende dois tipos de\ncaixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e\npossuem o mesmo volume, e a altura da caixa-d’água do\ntipo B é igual a 25% da altura da caixa-d’água do tipo A.\nSe R denota o raio da caixa-d’água do tipo A, então o raio\nda caixa-d’água do tipo B é\n\nA.\nB.\nC. 4 R\nD. 5 R\nE. 16 R"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "A lei municipal para a edificação de casas em lotes\nde uma cidade determina que sejam obedecidos os\nseguintes critérios:\n• afastamento mínimo de 4 m da rua;\n• afastamento mínimo de 1 m da divisa com outro lote;\n• área total construída da casa entre 40% e 50% da\nárea total do lote.\nUm construtor submeteu para aprovação na\nprefeitura dessa cidade uma planta com propostas para a\nconstrução de casas em seus 5 lotes. Cada lote tem área\nmedindo 200 m².\nA imagem apresenta um esquema, sem escala,\nno qual estão representados os lotes, as ruas e os\nafastamentos considerados nos projetos entre as\ncasas e as divisas dos lotes. As medidas indicadas no\nesquema estão expressas em metro.\n\nRua\nCasa 3\n\nCasa 5\nCasa 4\n\nLote\n\nLote\n\nRua\n\nA prefeitura aprovará apenas a planta da casa\nA 1.\nB 2.\nC 3.\nD 4.\nE 5.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-169/statement-01.png",
+        "/generated/enem-2020/matematica/question-169/statement-02.png",
+        "/generated/enem-2020/matematica/question-169/statement-03.png",
+        "/generated/enem-2020/matematica/question-169/statement-04.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-169/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A lei municipal para a edificação de casas em lotes\nde uma cidade determina que sejam obedecidos os\nseguintes critérios:\n• afastamento mínimo de 4 m da rua;\n• afastamento mínimo de 1 m da divisa com outro lote;\n• área total construída da casa entre 40% e 50% da\nárea total do lote.\nUm construtor submeteu para aprovação na\nprefeitura dessa cidade uma planta com propostas para a\nconstrução de casas em seus 5 lotes. Cada lote tem área\nmedindo 200 m².\nA imagem apresenta um esquema, sem escala,\nno qual estão representados os lotes, as ruas e os\nafastamentos considerados nos projetos entre as\ncasas e as divisas dos lotes. As medidas indicadas no\nesquema estão expressas em metro.\n\nRua\nCasa 3\n\nCasa 5\nCasa 4\n\nLote\n\nLote\n\nRua\n\nA prefeitura aprovará apenas a planta da casa\nA 1.\nB 2.\nC 3.\nD 4.\nE 5.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        28
+      ],
+      "statement": "Nos livros Harry Potter, um anagrama do nome do\npersonagem “TOM MARVOLO RIDDLE” gerou a frase\n“I AM LORD VOLDEMORT”.\nSuponha que Harry quisesse formar todos os\nanagramas da frase “I AM POTTER”, de tal forma\nque as vogais e consoantes aparecessem sempre\nintercaladas, e sem considerar o espaçamento entre\nas letras.\nNessas condições, o número de anagramas formados\né dado por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "9!",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4! 5!",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 × 4! 5!",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "9!",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4! 5!",
+          "assets": []
+        }
+      ],
+      "rawText": "Nos livros Harry Potter, um anagrama do nome do\npersonagem “TOM MARVOLO RIDDLE” gerou a frase\n“I AM LORD VOLDEMORT”.\nSuponha que Harry quisesse formar todos os\nanagramas da frase “I AM POTTER”, de tal forma\nque as vogais e consoantes aparecessem sempre\nintercaladas, e sem considerar o espaçamento entre\nas letras.\nNessas condições, o número de anagramas formados\né dado por\n\nA. 9!\nB. 4! 5!\nC. 2 × 4! 5!\nD. 9!\nE. 4! 5!"
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "A exposição a barulhos excessivos, como os que\npercebemos em geral em trânsitos intensos, casas\nnoturnas e espetáculos musicais, podem provocar\ninsônia, estresse, infarto, perda de audição, entre outras\nenfermidades. De acordo com a Organização Mundial\nda Saúde, todo e qualquer som que ultrapasse os 55\ndecibéis (unidade de intensidade do som) já pode ser\nconsiderado nocivo para a saúde. O gráfico foi elaborado\na partir da medição do ruído produzido, durante um dia,\nem um canteiro de obras.\nDecibel\n\nHora\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24\nDisponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado).\nNesse dia, durante quantas horas o ruído esteve acima\nde 55 decibéis?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "11",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "13 *020525AM29* MT - 2° dia | Caderno 5 - AMARELO - Página 29",
+          "assets": []
+        }
+      ],
+      "rawText": "A exposição a barulhos excessivos, como os que\npercebemos em geral em trânsitos intensos, casas\nnoturnas e espetáculos musicais, podem provocar\ninsônia, estresse, infarto, perda de audição, entre outras\nenfermidades. De acordo com a Organização Mundial\nda Saúde, todo e qualquer som que ultrapasse os 55\ndecibéis (unidade de intensidade do som) já pode ser\nconsiderado nocivo para a saúde. O gráfico foi elaborado\na partir da medição do ruído produzido, durante um dia,\nem um canteiro de obras.\nDecibel\n\nHora\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24\nDisponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado).\nNesse dia, durante quantas horas o ruído esteve acima\nde 55 decibéis?\n\nA. 5\nB. 8\nC. 10\nD. 11\nE. 13 *020525AM29* MT - 2° dia | Caderno 5 - AMARELO - Página 29"
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "O técnico de um time de basquete pretende aumentar\na estatura média de sua equipe de 1,93 m para, no\nmínimo, 1,99 m. Para tanto, dentre os 15 jogadores que\nfazem parte de sua equipe, irá substituir os quatro mais\nbaixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m.\nPara isso, o técnico contratou um novo jogador de 2,02 m.\nOs outros três jogadores que ele ainda precisa contratar\ndevem satisfazer à sua necessidade de aumentar a média\ndas estaturas da equipe. Ele fi xará a média das estaturas\npara os três jogadores que ainda precisa contratar dentro\ndo critério inicialmente estabelecido.\nQual deverá ser a média mínima das estaturas, em metro,\nque ele deverá fi xar para o grupo de três novos jogadores\nque ainda irá contratar?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,96",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1,98",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2,05",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2,06",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,08",
+          "assets": []
+        }
+      ],
+      "rawText": "O técnico de um time de basquete pretende aumentar\na estatura média de sua equipe de 1,93 m para, no\nmínimo, 1,99 m. Para tanto, dentre os 15 jogadores que\nfazem parte de sua equipe, irá substituir os quatro mais\nbaixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m.\nPara isso, o técnico contratou um novo jogador de 2,02 m.\nOs outros três jogadores que ele ainda precisa contratar\ndevem satisfazer à sua necessidade de aumentar a média\ndas estaturas da equipe. Ele fi xará a média das estaturas\npara os três jogadores que ainda precisa contratar dentro\ndo critério inicialmente estabelecido.\nQual deverá ser a média mínima das estaturas, em metro,\nque ele deverá fi xar para o grupo de três novos jogadores\nque ainda irá contratar?\n\nA. 1,96\nB. 1,98\nC. 2,05\nD. 2,06\nE. 2,08"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "O consumo de espumantes no Brasil tem\naumentado nos últimos anos. Uma das etapas do\nseu processo de produção consiste no envasamento\nda bebida em garrafas semelhantes às da imagem.\nNesse processo, a vazão do líquido no interior da\ngarrafa é constante e cessa quando atinge o nível de\nenvasamento.\n\nNível de envasamento\nda garrafa\nQual esboço de gráfi co melhor representa a variação da\naltura do líquido em função do tempo, na garrafa indicada\nna imagem?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "altura tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "altura tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "altura tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "altura tempo\n0",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "altura 0\ntempo",
+          "assets": []
+        }
+      ],
+      "rawText": "O consumo de espumantes no Brasil tem\naumentado nos últimos anos. Uma das etapas do\nseu processo de produção consiste no envasamento\nda bebida em garrafas semelhantes às da imagem.\nNesse processo, a vazão do líquido no interior da\ngarrafa é constante e cessa quando atinge o nível de\nenvasamento.\n\nNível de envasamento\nda garrafa\nQual esboço de gráfi co melhor representa a variação da\naltura do líquido em função do tempo, na garrafa indicada\nna imagem?\n\nA. altura tempo\n0\nB. altura tempo\n0\nC. altura tempo\n0\nD. altura tempo\n0\nE. altura 0\ntempo"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "O quadro representa os gastos mensais, em real,\nde uma família com internet, mensalidade escolar e\nmesada do fi lho.\n\nNo início do ano, a internet e a mensalidade escolar\ntiveram acréscimos, respectivamente, de 20% e 10%.\nNecessitando manter o valor da despesa mensal total\ncom os itens citados, a família reduzirá a mesada do fi lho.\nQual será a porcentagem da redução da mesada?\nA 15,0\nB 23,5\nC 30,0\nD 70,0\nE 76,5\n\n*020525AM30*\n\nMT - 2° dia | Caderno 5 - AMARELO - Página 30",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-174/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-174/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "O quadro representa os gastos mensais, em real,\nde uma família com internet, mensalidade escolar e\nmesada do fi lho.\n\nNo início do ano, a internet e a mensalidade escolar\ntiveram acréscimos, respectivamente, de 20% e 10%.\nNecessitando manter o valor da despesa mensal total\ncom os itens citados, a família reduzirá a mesada do fi lho.\nQual será a porcentagem da redução da mesada?\nA 15,0\nB 23,5\nC 30,0\nD 70,0\nE 76,5\n\n*020525AM30*\n\nMT - 2° dia | Caderno 5 - AMARELO - Página 30\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Num recipiente com a forma de paralelepípedo\nreto-retângulo, colocou-se água até a altura de 8 cm e\num objeto, que ficou flutuando na superfície da água.\nPara retirar o objeto de dentro do recipiente, a altura\nda coluna de água deve ser de, pelo menos, 15 cm. Para\na coluna de água chegar até essa altura, é necessário\ncolocar dentro do recipiente bolinhas de volume igual a\n6 cm³ cada, que ficarão totalmente submersas.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-175/statement-01.png",
+        "/generated/enem-2020/matematica/question-175/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-175/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Num recipiente com a forma de paralelepípedo\nreto-retângulo, colocou-se água até a altura de 8 cm e\num objeto, que ficou flutuando na superfície da água.\nPara retirar o objeto de dentro do recipiente, a altura\nda coluna de água deve ser de, pelo menos, 15 cm. Para\na coluna de água chegar até essa altura, é necessário\ncolocar dentro do recipiente bolinhas de volume igual a\n6 cm³ cada, que ficarão totalmente submersas.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na\npresença ou ausência de dois antígenos, A e B, na superfície\ndas células vermelhas do sangue. Como dois antígenos\nestão envolvidos, os quatro tipos sanguíneos distintos são:\n• Tipo A: apenas o antígeno A está presente;\n• Tipo B: apenas o antígeno B está presente;\n• Tipo AB: ambos os antígenos estão presentes;\n• Tipo O: nenhum dos antígenos está presente.",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-176/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-176/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na\npresença ou ausência de dois antígenos, A e B, na superfície\ndas células vermelhas do sangue. Como dois antígenos\nestão envolvidos, os quatro tipos sanguíneos distintos são:\n• Tipo A: apenas o antígeno A está presente;\n• Tipo B: apenas o antígeno B está presente;\n• Tipo AB: ambos os antígenos estão presentes;\n• Tipo O: nenhum dos antígenos está presente.\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "Antônio, Joaquim e José são sócios de uma\nempresa cujo capital é dividido, entre os três, em\npartes proporcionais a: 4, 6 e 6, respectivamente. Com\na intenção de igualar a participação dos três sócios no\ncapital da empresa, Antônio pretende adquirir uma fração\ndo capital de cada um dos outros dois sócios.\nA fração do capital de cada sócio que Antônio deverá\nadquirir é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-177/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2020/matematica/question-177/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4",
+          "assets": []
+        }
+      ],
+      "rawText": "Antônio, Joaquim e José são sócios de uma\nempresa cujo capital é dividido, entre os três, em\npartes proporcionais a: 4, 6 e 6, respectivamente. Com\na intenção de igualar a participação dos três sócios no\ncapital da empresa, Antônio pretende adquirir uma fração\ndo capital de cada um dos outros dois sócios.\nA fração do capital de cada sócio que Antônio deverá\nadquirir é\n\nA.\nB.\nC. 1\nD. 2\nE. 4"
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "Azulejo designa peça de cerâmica vitrificada e/ou\nesmaltada usada, sobretudo, no revestimento de paredes. A\norigem das técnicas de fabricação de azulejos é oriental, mas\nsua expansão pela Europa traz consigo uma diversificação\nde estilos, padrões e usos, que podem ser decorativos,\nutilitários e arquitetônicos.\n\nEntre os octógonos e na borda lateral dessa área,\nserá necessária a colocação de 15 azulejos de outros\nformatos para preencher os 15 espaços em branco do\npainel. Uma loja oferece azulejos nos seguintes formatos:\n1 – Triângulo retângulo isósceles;\n2 – Triângulo equilátero;\n3 – Quadrado.\nOs azulejos necessários para o devido preenchimento\ndas áreas em branco desse painel são os de formato",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-178/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 e 2.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1 e 3.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2 e 3. *020525AM31* MT - 2° dia | Caderno 5 - AMARELO - Página 31",
+          "assets": []
+        }
+      ],
+      "rawText": "Azulejo designa peça de cerâmica vitrificada e/ou\nesmaltada usada, sobretudo, no revestimento de paredes. A\norigem das técnicas de fabricação de azulejos é oriental, mas\nsua expansão pela Europa traz consigo uma diversificação\nde estilos, padrões e usos, que podem ser decorativos,\nutilitários e arquitetônicos.\n\nEntre os octógonos e na borda lateral dessa área,\nserá necessária a colocação de 15 azulejos de outros\nformatos para preencher os 15 espaços em branco do\npainel. Uma loja oferece azulejos nos seguintes formatos:\n1 – Triângulo retângulo isósceles;\n2 – Triângulo equilátero;\n3 – Quadrado.\nOs azulejos necessários para o devido preenchimento\ndas áreas em branco desse painel são os de formato\n\nA. 1.\nB. 3.\nC. 1 e 2.\nD. 1 e 3.\nE. 2 e 3. *020525AM31* MT - 2° dia | Caderno 5 - AMARELO - Página 31"
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "No período de fi m de ano, o síndico de um condomínio\nresolveu colocar, em um poste, uma iluminação natalina\nem formato de cone, lembrando uma árvore de Natal,\nconforme as fi guras 1 e 2.\nPoste\n\nFigura 2\nFigura 1\n\nc\n\nA árvore deverá ser feita colocando-se mangueiras\nde iluminação, consideradas segmentos de reta de\nmesmo comprimento, a partir de um ponto situado a 3 m\nde altura no poste até um ponto de uma circunferência de\nfi xação, no chão, de tal forma que esta fi que dividida em\n20 arcos iguais. O poste está fi xado no ponto C (centro\nda circunferência) perpendicularmente ao plano do chão.\nPara economizar, ele utilizará mangueiras de\niluminação aproveitadas de anos anteriores, que juntas\ntotalizaram pouco mais de 100 m de comprimento, dos\nquais ele decide usar exatamente 100 m e deixar o\nrestante como reserva.\nPara que ele atinja seu objetivo, o raio, em metro, da\ncircunferência deverá ser de",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-179/statement-01.png",
+        "/generated/enem-2020/matematica/question-179/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-179/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4,87.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "5,00.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5,83.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "6,26.",
+          "assets": []
+        }
+      ],
+      "rawText": "No período de fi m de ano, o síndico de um condomínio\nresolveu colocar, em um poste, uma iluminação natalina\nem formato de cone, lembrando uma árvore de Natal,\nconforme as fi guras 1 e 2.\nPoste\n\nFigura 2\nFigura 1\n\nc\n\nA árvore deverá ser feita colocando-se mangueiras\nde iluminação, consideradas segmentos de reta de\nmesmo comprimento, a partir de um ponto situado a 3 m\nde altura no poste até um ponto de uma circunferência de\nfi xação, no chão, de tal forma que esta fi que dividida em\n20 arcos iguais. O poste está fi xado no ponto C (centro\nda circunferência) perpendicularmente ao plano do chão.\nPara economizar, ele utilizará mangueiras de\niluminação aproveitadas de anos anteriores, que juntas\ntotalizaram pouco mais de 100 m de comprimento, dos\nquais ele decide usar exatamente 100 m e deixar o\nrestante como reserva.\nPara que ele atinja seu objetivo, o raio, em metro, da\ncircunferência deverá ser de\n\nA. 4,00.\nB. 4,87.\nC. 5,00.\nD. 5,83.\nE. 6,26."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2020,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2020 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Pergolado é o nome que se dá a um tipo de cobertura\nprojetada por arquitetos, comumente em praças e jardins,\npara criar um ambiente para pessoas ou plantas, no qual\nhá uma quebra da quantidade de luz, dependendo da\nposição do sol. É feito como um estrado de vigas iguais,\npostas paralelas e perfeitamente em fi la, como ilustra a\nfi gura.\n\nPara atender à proposta do projeto elaborado pelo\narquiteto, as vigas do pergolado devem ser construídas\nde maneira que a altura, em centímetro, seja a mais\npróxima possível de",
+      "statementAssets": [
+        "/generated/enem-2020/matematica/question-180/statement-01.png",
+        "/generated/enem-2020/matematica/question-180/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2020/matematica/question-180/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "9.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "15.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "26.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "52.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "60. *020525AM32* 2° dia | Caderno 5 - AMARELO - Página 32",
+          "assets": []
+        }
+      ],
+      "rawText": "Pergolado é o nome que se dá a um tipo de cobertura\nprojetada por arquitetos, comumente em praças e jardins,\npara criar um ambiente para pessoas ou plantas, no qual\nhá uma quebra da quantidade de luz, dependendo da\nposição do sol. É feito como um estrado de vigas iguais,\npostas paralelas e perfeitamente em fi la, como ilustra a\nfi gura.\n\nPara atender à proposta do projeto elaborado pelo\narquiteto, as vigas do pergolado devem ser construídas\nde maneira que a altura, em centímetro, seja a mais\npróxima possível de\n\nA. 9.\nB. 15.\nC. 26.\nD. 52.\nE. 60. *020525AM32* 2° dia | Caderno 5 - AMARELO - Página 32"
+    }
+  ]
+}

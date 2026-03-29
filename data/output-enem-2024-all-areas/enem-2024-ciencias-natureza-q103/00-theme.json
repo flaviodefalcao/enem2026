@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:51:57.530Z",
+  "questionId": "enem-2024-ciencias-natureza-q103",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Termologia e termodinâmica",
+    "rationale": "A questão trata do ciclo de Otto, típico dos motores de combustão interna, e exige que o estudante entenda como a energia térmica é convertida em energia útil (trabalho) no motor, analisando as etapas do ciclo no diagrama P-V e sua descrição detalhada. O foco está nos processos termodinâmicos envolvidos na conversão de energia, enquadrando-se diretamente no subtema 'Termologia e termodinâmica' dentro de Física.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1951,
+    "outputTokens": 125,
+    "estimatedCostUsd": 0.004902
+  }
+}

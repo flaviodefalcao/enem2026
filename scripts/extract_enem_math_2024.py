@@ -33,7 +33,7 @@ DEFAULT_AREA_LABEL = "Matemática"
 DEFAULT_AREA_SLUG = "math"
 OPTION_LABELS = ("A", "B", "C", "D", "E")
 CONTROL_CHARS_RE = re.compile(r"[\x00-\x08\x0b-\x1f\x7f]")
-QUESTION_HEADER_RE = re.compile(r"^QUESTÃO\s+(\d{1,3})$")
+QUESTION_HEADER_RE = re.compile(r"^QUESTÃO\s+(\d{1,3})$", re.IGNORECASE)
 BOOKLET_NUMBER_RE = re.compile(r"CD\s*0*(\d{1,2})", re.IGNORECASE)
 QUESTION_RANGE_RE = re.compile(r"^Questões de \d{1,3} a \d{1,3}", re.IGNORECASE)
 SENTENCE_END_RE = re.compile(r"[.!?…:]$")
@@ -115,7 +115,7 @@ def is_noise_text(text: str) -> bool:
         return True
     if text.startswith("*020325AZ"):
         return True
-    if text.startswith("ENEM2024ENEM2024"):
+    if re.match(r"ENEM20\d{2}ENEM20\d{2}", text):
         return True
     if "CADERNO" in text and "ENEM" in text:
         return True
@@ -309,6 +309,9 @@ def merge_fraction_lines(lines: list[str]) -> list[str]:
 
 
 def join_fraction_pair(current: str, following: str) -> str | None:
+    if QUESTION_HEADER_RE.match(current.strip()):
+        return None
+
     current_match = re.match(r"^(.*?)(\d+)\s*$", current)
     following_match = re.match(r"^(\d+)(.*)$", following)
     if not current_match or not following_match:
@@ -1058,6 +1061,7 @@ def extract_text_block_asset(
     question_number: int,
     blocks: list[TextBlock],
     assets_root: Path,
+    year: int,
     area_slug: str,
     prefix: str,
     index: int,
@@ -1073,7 +1077,7 @@ def extract_text_block_asset(
     page_text_blocks: list[TextBlock] | None = None,
 ) -> str:
     relative_asset = (
-        f"/generated/enem-2024/{area_slug}/question-{question_number}/{prefix}-{index:02d}.png"
+        f"/generated/enem-{year}/{area_slug}/question-{question_number}/{prefix}-{index:02d}.png"
     )
     asset_output_path = (
         assets_root / f"question-{question_number}" / f"{prefix}-{index:02d}.png"
@@ -1097,7 +1101,7 @@ def extract_text_block_asset(
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Extrai um intervalo de questões do ENEM 2024 com texto, alternativas e assets visuais."
+        description="Extrai um intervalo de questões do ENEM com texto, alternativas e assets visuais."
     )
     parser.add_argument("--pdf", required=True, help="Caminho para o PDF da prova.")
     parser.add_argument(
@@ -1169,22 +1173,30 @@ def collect_questions(
             if block_type == 0:
                 text = block_text(raw_block)
                 text_lines = text.splitlines()
-                header_index = None
-                match = None
+                header_matches: list[tuple[int, re.Match[str]]] = []
                 for index, line in enumerate(text_lines):
                     candidate = QUESTION_HEADER_RE.match(line.strip())
                     if candidate:
-                        header_index = index
-                        match = candidate
-                        break
+                        header_matches.append((index, candidate))
 
-                if match and header_index is not None:
-                    question_number = int(match.group(1))
-                    if question_start <= question_number <= question_end:
+                if header_matches:
+                    raw_lines = raw_block.get("lines", [])
+                    for match_index, (header_index, match) in enumerate(header_matches):
+                        question_number = int(match.group(1))
+                        next_header_index = (
+                            header_matches[match_index + 1][0]
+                            if match_index + 1 < len(header_matches)
+                            else len(text_lines)
+                        )
+
+                        if not (question_start <= question_number <= question_end):
+                            continue
+
                         existing_question = questions.get(question_number)
                         if existing_question and existing_question.items:
                             current_question = None
                             continue
+
                         current_question = questions.setdefault(
                             question_number,
                             QuestionContent(
@@ -1193,8 +1205,8 @@ def collect_questions(
                             ),
                         )
                         current_question.source_pages.add(page_index + 1)
-                        remaining_text = "\n".join(text_lines[header_index + 1 :]).strip()
-                        remaining_lines = raw_block.get("lines", [])[header_index + 1 :]
+                        remaining_text = "\n".join(text_lines[header_index + 1 : next_header_index]).strip()
+                        remaining_lines = raw_lines[header_index + 1 : next_header_index]
                         if remaining_text:
                             current_question.items.append(
                                 TextBlock(
@@ -1387,7 +1399,7 @@ def materialize_question(
                     if current_option is None:
                         statement_image_index += 1
                         relative_asset = (
-                            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
+                            f"/generated/enem-{year}/{area_slug}/question-{question.exam_question_number}/"
                             f"statement-{statement_image_index:02d}.png"
                         )
                         asset_output_path = (
@@ -1398,7 +1410,7 @@ def materialize_question(
                     else:
                         option_image_index[current_option.option] += 1
                         relative_asset = (
-                            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
+                            f"/generated/enem-{year}/{area_slug}/question-{question.exam_question_number}/"
                             f"option-{current_option.option.lower()}-{option_image_index[current_option.option]:02d}.png"
                         )
                         asset_output_path = (
@@ -1460,6 +1472,7 @@ def materialize_question(
                             question_number=question.exam_question_number,
                             blocks=math_blocks,
                             assets_root=assets_root,
+                            year=year,
                             area_slug=area_slug,
                             prefix=f"option-{current_option.option.lower()}",
                             index=option_image_index[current_option.option],
@@ -1509,6 +1522,7 @@ def materialize_question(
                     question_number=question.exam_question_number,
                     blocks=math_blocks,
                     assets_root=assets_root,
+                    year=year,
                     area_slug=area_slug,
                     prefix="statement",
                     index=statement_image_index,
@@ -1539,7 +1553,7 @@ def materialize_question(
         if current_option is None:
             statement_image_index += 1
             relative_asset = (
-                f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
+                f"/generated/enem-{year}/{area_slug}/question-{question.exam_question_number}/"
                 f"statement-{statement_image_index:02d}.png"
             )
             asset_output_path = (
@@ -1560,7 +1574,7 @@ def materialize_question(
 
         option_image_index[current_option.option] += 1
         relative_asset = (
-            f"/generated/enem-2024/{area_slug}/question-{question.exam_question_number}/"
+            f"/generated/enem-{year}/{area_slug}/question-{question.exam_question_number}/"
             f"option-{current_option.option.lower()}-{option_image_index[current_option.option]:02d}.png"
         )
         asset_output_path = (

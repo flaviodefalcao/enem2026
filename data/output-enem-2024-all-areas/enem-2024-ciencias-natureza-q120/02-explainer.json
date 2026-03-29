@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:45:39.537Z",
+  "questionId": "enem-2024-ciencias-natureza-q120",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A reação global da célula a combustível microbiana (CCM) é obtida somando e balanceando as reações que ocorrem no ânodo (onde o acetato é oxidado) e no cátodo (onde o oxigênio é reduzido), eliminando os elétrons e íons H+ que aparecem dos dois lados, para formar uma equação química completa que mostra a conversão do acetato e oxigênio em dióxido de carbono e água.",
+      "stepByStep": [
+        "Identifique a reação que ocorre no ânodo: o acetato (CH3COO−) é oxidado, produzindo CO2, íons H+ e elétrons.",
+        "Identifique a reação que ocorre no cátodo: o oxigênio (O2) é reduzido com íons H+ e elétrons para formar água (H2O).",
+        "Multiplique a reação do cátodo por 2 para que o número de elétrons liberados no ânodo seja igual ao consumido no cátodo, permitindo que os elétrons possam ser eliminados da soma.",
+        "Some as duas reações mantendo os reagentes e produtos juntos e cancele os termos iguais que aparecem nos dois lados (elétrons e íons H+).",
+        "Simplifique a equação para chegar à reação global balanceada final, que mostra o acetato e oxigênio formando dióxido de carbono e água."
+      ],
+      "commonPitfalls": [
+        "Não balancear corretamente o número de elétrons entre as reações do ânodo e do cátodo, levando a equações incorretas.",
+        "Esquecer de somar as reações e eliminar as espécies intermediárias (elétrons e íons H+).",
+        "Interpretar a reação ao contrário, pensando em síntese do acetato em vez de sua oxidação.",
+        "Não considerar a participação do oxigênio na reação global, produzindo uma reação incompleta.",
+        "Confundir os produtos e reagentes da oxidação e redução, resultando em equações mal balanceadas."
+      ],
+      "teachingTips": [
+        "Use esquemas visuais para mostrar o fluxo de elétrons e íons entre ânodo e cátodo, facilitando a compreensão do processo.",
+        "Ensine o conceito de reação global como soma de semi-reações do ânodo e cátodo, enfatizando o balanceamento de elétrons.",
+        "Reforce o passo a passo do balanceamento de reações redox em duas etapas: primeiro identificar reações individuais, depois somar para cancelar elétrons.",
+        "Promova a prática com várias reações redox para desenvolver habilidade de balanceamento e reconhecimento das espécies envolvidas.",
+        "Apresente a ligação entre o funcionamento biológico das bactérias eletrogênicas e a geração de energia elétrica para conectar a química à aplicação real."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2071,
+    "outputTokens": 581,
+    "estimatedCostUsd": 0.001758
+  }
+}

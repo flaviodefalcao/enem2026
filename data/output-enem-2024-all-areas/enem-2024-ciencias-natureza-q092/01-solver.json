@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:24:13.488Z",
+  "questionId": "enem-2024-ciencias-natureza-q092",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa correta é a A porque apresenta o método adequado para separar um sólido pouco solúvel de uma solução aquosa, que é a filtração.",
+      "strategy": "Identificar o estado físico dos componentes da mistura e escolher o método de separação físico-químico apropriado para separar um sólido insolúvel de uma solução aquosa.",
+      "steps": [
+        "Identificar que a mistura contém Mg(OH)₂ sólido, pouco solúvel, e Ca2+ em solução aquosa.",
+        "Reconhecer que Mg(OH)₂ está em estado sólido e Ca2+ está dissolvido na solução.",
+        "Selecionar o método que separa sólido de líquido sem alterar as substâncias: filtração.",
+        "Descartar os métodos que não se aplicam à separação sólido-líquido (catação, destilação, dissolução, evaporação)."
+      ],
+      "formulasUsed": [
+        "Mg^{2+} (aq) + Ca(OH)_2 (aq) → Mg(OH)_2 (s) + Ca^{2+} (aq)"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O aluno pode confundir catação com filtração, pensando que catação serve para separar sólido de líquido.",
+        "misconceptionType": "Entendimento incorreto do método de separação física",
+        "whyItLooksPlausible": "Catação é utilizada para separar manualmente sólidos visíveis em misturas sólidas, parecendo um método simples para separação.",
+        "whyItIsWrong": "Catação não é adequada para separar sólidos dispersos em líquidos, especialmente em escala microscópica como íons e sólidos suspensos."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que destilação é sempre a solução para separar componentes em uma mistura líquida.",
+        "misconceptionType": "Confusão entre métodos de separação baseado em mudança de estado físico",
+        "whyItLooksPlausible": "Destilação separa substâncias pela diferença em pontos de ebulição, método comum para soluções líquidas.",
+        "whyItIsWrong": "Não se aplica para separar sólidos insolúveis presentes em uma mistura aquosa."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Achar que dissolução separa os componentes ao dissolver apenas uma parte da mistura.",
+        "misconceptionType": "Má compreensão do processo de dissolução como método de separação",
+        "whyItLooksPlausible": "Dissolução pode ser vista como uma forma de separar componentes usando solventes.",
+        "whyItIsWrong": "A dissolução não é um método que separa sólidos de líquidos, mas sim mistura substâncias."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que evaporação pode ser usada para separar sólidos dissolvidos pela retirada da água.",
+        "misconceptionType": "Confundir evaporação para separar sólido pouco solúvel",
+        "whyItLooksPlausible": "Evaporação remove a água, deixando os sólidos para trás.",
+        "whyItIsWrong": "Mg(OH)₂ é pouco solúvel e está em suspensão sólida, portanto a filtração é mais prática e adequada para separá-lo sem evaporar todo o solvente."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Separação de misturas",
+      "secondarySkills": [
+        "Química inorgânica",
+        "Métodos físicos de separação"
+      ],
+      "cognitiveDemand": "Baixo a médio",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento de química básica sobre estados físicos e técnicas de separação.",
+        "Não requer cálculos ou interpretação de imagens, apenas conceito de técnicas.",
+        "Afirma explicitamente os estados físicos, facilitando a identificação do método adequado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 594,
+    "outputTokens": 766,
+    "estimatedCostUsd": 0.001463
+  }
+}

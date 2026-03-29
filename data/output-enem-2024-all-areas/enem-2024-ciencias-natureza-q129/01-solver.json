@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:34:06.688Z",
+  "questionId": "enem-2024-ciencias-natureza-q129",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D é correta pois explica que os componentes densos do computador impedem a passagem dos raios X, o que dificulta a visualização de objetos que estejam atrás ou na frente do equipamento na bagagem.",
+      "strategy": "Análise do funcionamento dos aparelhos de raios X e da necessidade de remover os computadores das bagagens para sua inspeção isolada.",
+      "steps": [
+        "Reconhecer que os aparelhos de raios X funcionam emitindo radiação que atravessa materiais e registra imagens baseadas na densidade e composição dos objetos.",
+        "Identificar que componentes eletrônicos e metálicos do computador possuem alta densidade, bloqueando o raio X.",
+        "Concluir que, se o computador ficar dentro da bagagem, ele bloqueia a passagem dos raios X para objetos posicionados atrás dele, impedindo a inspeção adequada.",
+        "Assim, para garantir que todos os objetos sejam inspecionados, o computador deve ser examinado isoladamente."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que componentes metálicos não interagem com raios X e, portanto, não geram imagem.",
+        "misconceptionType": "Compreensão incorreta da interação dos raios X com metais",
+        "whyItLooksPlausible": "Os metais aparecem como áreas claras ou escuras nas imagens por bloquear os raios X.",
+        "whyItIsWrong": "Na realidade, os raios X interagem fortemente com metais, que aparecem precisamente pela sua alta densidade e interferem na imagem dos objetos atrás deles."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Supõe-se que os raios X causam desmagnetização do disco rígido, afetando o computador.",
+        "misconceptionType": "Confusão sobre efeitos dos raios X em componentes eletrônicos",
+        "whyItLooksPlausible": "Discos rígidos dependem de magnetismo para armazenamento, e se os raios X pudessem interferir, haveria problema funcional.",
+        "whyItIsWrong": "Raios X não desmagnetizam discos rígidos, e o processo de inspeção não é prejudicial a eles."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensa-se que raios X refletem e aquecem metais na bagagem.",
+        "misconceptionType": "Confusão sobre propriedades físicas dos raios X",
+        "whyItLooksPlausible": "Aquecimento é um efeito comum de radiação em materiais.",
+        "whyItIsWrong": "Raios X têm baixa capacidade de aquecimento e não são refletidos significativamente como luz comum."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Supõe que raios X ionizam metais via difração, causando efeitos que impedem a inspeção.",
+        "misconceptionType": "Erro conceitual sobre interações de raios X",
+        "whyItLooksPlausible": "Raios X são ionizantes e fenômenos ópticos como difração existem com radiações.",
+        "whyItIsWrong": "Metais não são tipicamente difratados pelos raios X da maneira citada, e ionização não impede a inspeção visual dos objetos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de Interações de Radiação com a Matéria",
+      "secondarySkills": [
+        "Interpretação Física",
+        "Ciências Aplicadas",
+        "Raciocínio Lógico"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão exige conhecimento básico do funcionamento dos aparelhos de raios X.",
+        "Não requer cálculos nem análise de imagens anexadas.",
+        "Avalia compreensão dos bloqueios causados por objetos densos à radiação.",
+        "Necessita eliminar conceitos errados sobre efeitos dos raios X em componentes eletrônicos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 659,
+    "outputTokens": 786,
+    "estimatedCostUsd": 0.001521
+  }
+}

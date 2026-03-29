@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:25:04.102Z",
+  "questionId": "enem-2024-ciencias-natureza-q122",
+  "payload": {
+    "theme": "Ambiente e sustentabilidade",
+    "subtheme": "Ciclos e recursos naturais",
+    "rationale": "A questão aborda processos biogeoquímicos específicos no ciclo do nitrogênio e do carbono, focando nas transformações químicas promovidas por procariontes, o que se enquadra no estudo dos ciclos naturais e sua importância para o ambiente.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 2497,
+    "outputTokens": 79,
+    "estimatedCostUsd": 0.001125
+  }
+}

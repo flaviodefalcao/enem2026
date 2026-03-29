@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:34:02.647Z",
+  "questionId": "enem-2024-ciencias-natureza-q099",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Vacinas que usam a proteína espícula do coronavírus estimulam o sistema imunológico a produzir anticorpos específicos contra essa proteína, construindo proteção ativa contra o vírus.",
+      "stepByStep": [
+        "Compreenda que a proteína espícula (spike) é usada pela vacina como antígeno, uma substância que provoca resposta imune.",
+        "Saiba que o papel do antígeno é fazer com que o sistema imunológico reconheça e reaja contra o vírus, produzindo anticorpos.",
+        "Lembre que a imunidade gerada pela vacina é ativa, ou seja, o corpo produz seus próprios anticorpos após a vacinação, diferente da imunidade passiva, que recebe anticorpos prontos.",
+        "Entenda que a vacina não altera o DNA das células nem modifica diretamente os receptores celulares onde o vírus se liga.",
+        "Reconheça que a neutralização do vírus ocorre por causa dos anticorpos produzidos após a vacinação, e não pela vacina agindo diretamente no vírus.",
+        "Conclua que o resultado esperado da vacinação é a produção de anticorpos específicos contra a proteína viral, protegendo contra a infecção."
+      ],
+      "commonPitfalls": [
+        "Confundir imunidade ativa (vacina) com imunidade passiva (anticorpos administrados diretamente).",
+        "Acreditar que a vacina altera o genoma das células para proteger o organismo.",
+        "Pensar que a vacina neutraliza o vírus diretamente no organismo, sem mediação do sistema imunológico.",
+        "Imaginar que a vacina modifica os receptores celulares para impedir a entrada do vírus.",
+        "Interpretar o papel da vacina como uma ação farmacológica imediata ao invés de estimular a resposta imune. "
+      ],
+      "teachingTips": [
+        "Explique a diferença entre imunidade ativa e passiva usando exemplos simples, como vacinação versus anticorpos de mãe para filho.",
+        "Ilustre o funcionamento das proteínas antigênicas como 'impressões digitais' que o sistema imune aprende a reconhecer.",
+        "Use analogias com chaves e fechaduras para explicar a ligação da proteína espícula e a importância dos anticorpos.",
+        "Enfatize que vacinas não alteram o DNA, esclarecendo dúvidas sobre técnicas de mRNA e genética.",
+        "Promova atividades que mostrem o processo da resposta imune adaptativa passo a passo, para fixar o conceito de produção de anticorpos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1313,
+    "outputTokens": 477,
+    "estimatedCostUsd": 0.001288
+  }
+}

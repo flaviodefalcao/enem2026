@@ -1,0 +1,195 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q118",
+  "generatedAt": "2026-03-28T22:42:54.847Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1500,
+      "outputTokens": 960,
+      "estimatedCostUsd": 0.002136
+    },
+    "explainer": {
+      "inputTokens": 2343,
+      "outputTokens": 494,
+      "estimatedCostUsd": 0.001728
+    },
+    "reviewer": {
+      "inputTokens": 3764,
+      "outputTokens": 2691,
+      "estimatedCostUsd": 0.005811
+    },
+    "totalEstimatedCostUsd": 0.009675
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A imagem formada é real e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem é 7,6 cm.",
+      "strategy": "Analisar a formação da imagem por dois espelhos côncavos posicionados de modo que o vértice de um coincide com o foco do outro e vice-versa, e usar as dimensões dadas para determinar a distância vertical e a natureza da imagem.",
+      "steps": [
+        "Identificar que os espelhos E₁ e E₂ são côncavos, com o vértice de E₁ coincidindo com o foco de E₂, e vice-versa.",
+        "Observar que o objeto está sobre o vértice de E₁ e os raios refletem de E₂ e depois de E₁, formando a imagem 3D.",
+        "Notar que a distância vertical total entre os espelhos é dada por 3,8 cm + 3,8 cm = 7,6 cm.",
+        "Considerar que a imagem formada é real porque os raios se cruzam fisicamente formando a imagem frente ao observador dentro dos espelhos.",
+        "Concluir que a distância vertical entre cada ponto do objeto e do correspondente ponto imagem é 7,6 cm e que a imagem é real."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Dimensões dadas: 5 cm abertura entre os espelhos, 3,8 cm distância vertical de cada espelho ao centro.",
+        "Posicionamento dos espelhos côncavos e trajetórias dos raios mostrando trajetória e formação da imagem."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "Neste sistema com dois espelhos côncavos posicionados com seus vértices e focos invertidos, a imagem formada é real, estando a 7,6 cm verticalmente acima de cada ponto do objeto. Isso ocorre porque os raios refletem e convergem fisicamente, criando uma imagem tridimensional dentro do sistema.",
+      "stepByStep": [
+        "Identifique que os espelhos E₁ e E₂ são côncavos, com o vértice de E₁ coincidindo com o foco de E₂, e vice-versa.",
+        "Observe que o objeto está posicionado sobre o vértice de E₁, e os raios refletem primeiro em E₂ e depois em E₁.",
+        "Note as dimensões dadas: a distância vertical de cada espelho até o centro é 3,8 cm, totalizando 7,6 cm entre os dois espelhos.",
+        "Analise que a imagem formada é real porque os raios de luz refletem e convergem fisicamente dentro do sistema, tornando possível a percepção de uma imagem tridimensional.",
+        "Conclua que a distância vertical entre qualquer ponto objeto e seu ponto imagem correspondente é a soma dessas duas distâncias, ou seja, 7,6 cm."
+      ],
+      "commonPitfalls": [
+        "Confundir a abertura do espelho (5 cm) com a distância vertical entre objeto e imagem, levando a respostas erradas.",
+        "Considerar apenas a distância de 3,8 cm de um espelho, sem somar a distância total entre os dois espelhos.",
+        "Pensar que a imagem tridimensional vista é virtual apenas porque não é o objeto real, ignorando que a imagem é formada pela convergência real dos raios.",
+        "Misturar conceitos ao considerar a imagem como virtual e usar a distância incorreta simultaneamente."
+      ],
+      "teachingTips": [
+        "Enfatize a diferença entre distância de abertura e distância vertical real entre objeto e imagem.",
+        "Utilize o diagrama para mostrar claramente a trajetória dos raios e como eles convergem para formar a imagem.",
+        "Explique a diferença entre imagens reais e virtuais, usando exemplos simples com espelhos côncavos.",
+        "Estimule os alunos a somarem as medidas verticalmente para não confundir as distâncias.",
+        "Use analogias visuais para reforçar a ideia de que a imagem real pode ser 'tocada' pela luz convergida, mesmo que não seja o objeto."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Alguém pode pensar que a distância vertical é simplesmente o valor da abertura do espelho E₂, que é 5 cm, e considerar a imagem real.",
+        "misconceptionType": "Confusão entre as medidas do sistema e a distância vertical real na formação da imagem.",
+        "whyItLooksPlausible": "A distância de 5 cm aparece no esquema como a abertura da parte superior dos espelhos e poderia ser associada à distância vertical da imagem.",
+        "whyItIsWrong": "A distância verdadeira entre a imagem e o objeto é a soma das duas distâncias verticais de 3,8 cm, totalizando 7,6 cm."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir a distância vertical de 3,8 cm de apenas um dos espelhos com a distância completa entre objeto e imagem.",
+        "misconceptionType": "Uso incorreto ou parcial da informação dimensional fornecida.",
+        "whyItLooksPlausible": "3,8 cm é uma medida destacada na figura, facilmente tomada como correta se a soma não for considerada.",
+        "whyItIsWrong": "A distância entre ponto objeto e imagem é a soma dos 3,8 cm de cada espelho, totalizando 7,6 cm."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Considerar que a imagem é virtual porque a imagem tridimensional é percebida pelo observador sem ver o objeto real diretamente.",
+        "misconceptionType": "Confundir a percepção visual com a natureza real ou virtual da imagem em sistema óptico.",
+        "whyItLooksPlausible": "Na ótica, imagens tridimensionais são frequentemente associadas a imagens virtuais, levando a essa escolha errada.",
+        "whyItIsWrong": "Nesse sistema específico, a imagem é real pois os raios efetivamente convergem, como indicado pelo esquema e pelas dimensões."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Combinar a distância vertical de 3,8 cm com a ideia errada de que a imagem é virtual.",
+        "misconceptionType": "Erro duplo ao usar apenas a metade da distância vertical e errar a natureza da imagem.",
+        "whyItLooksPlausible": "Mistura de valores fornecidos com interpretações erradas da formação da imagem visualizada.",
+        "whyItIsWrong": "A imagem é real e a distância correta é 7,6 cm."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Óptica Geométrica - Formação de Imagens em Espelhos Côncavos",
+      "secondarySkills": [
+        "Interpretação de Diagramas",
+        "Raciocínio Espacial/Visualização 3D"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O aluno deve ser capaz de interpretar o arranjo dos espelhos e as dimensões dadas na figura.",
+        "Não são necessários cálculos complexos, mas sim a compreensão da formação da imagem e das distâncias envolvidas.",
+        "A questão envolve conhecimento de propriedades de espelhos côncavos e natureza de imagens reais e virtuais."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🔍",
+      "shortThemeTitle": "Formação de Imagens em Espelhos Côncavos",
+      "interpretationIntro": "A questão apresenta um sistema óptico formado por dois espelhos côncavos que refletem a luz de um objeto posicionado sobre o vértice de um dos espelhos, formando uma imagem tridimensional perceptível aos observadores. É pedido analisar a natureza dessa imagem e determinar a distância vertical entre pontos correspondentes do objeto e da imagem.",
+      "commandTerms": [
+        {
+          "term": "Identificar",
+          "explanation": "Reconhecer elementos do sistema óptico e suas propriedades."
+        },
+        {
+          "term": "Analisar",
+          "explanation": "Examinar como a formação da imagem ocorre no sistema."
+        },
+        {
+          "term": "Determinar",
+          "explanation": "Calcular ou inferir a distância vertical relevante entre objeto e imagem."
+        }
+      ],
+      "whatTheQuestionAsks": "Determine se a imagem formada pelos espelhos é real ou virtual e qual é a distância vertical entre cada ponto do objeto e o seu correspondente ponto imagem, baseado nas dimensões fornecidas.",
+      "strategyParagraph": "Para resolver, é essencial compreender como imagens são formadas em espelhos côncavos e interpretar as medidas do esquema. Observando o arranjo dos espelhos, onde o vértice de um coincide com o foco do outro, e a trajetória dos raios, permite-se deduzir que a imagem é real e que a distância vertical entre objeto e imagem corresponde à soma das distâncias verticais indicadas, totalizando 7,6 cm.",
+      "reviewTable": [
+        {
+          "concept": "Espelhos côncavos",
+          "keyIdea": "Formam imagens reais ou virtuais dependendo da posição do objeto.",
+          "application": "Aqui, o arranjo especial produz uma imagem real pelo cruzamento dos raios refletidos."
+        },
+        {
+          "concept": "Natureza da imagem (real vs. virtual)",
+          "keyIdea": "Imagem real ocorre quando raios efetivamente convergem; virtual, quando parecem convergir.",
+          "application": "A imagem tridimensional é real pois os raios convergem fisicamente dentro do sistema."
+        },
+        {
+          "concept": "Interpretação de medidas em diagramas",
+          "keyIdea": "Somar dimensões verticais para encontrar distância total entre pontos correspondentes.",
+          "application": "Distância vertical entre objeto e imagem é a soma dos 3,8 cm de cada espelho, ou 7,6 cm."
+        }
+      ],
+      "theoryParagraphs": [
+        "Espelhos côncavos têm a capacidade de formar imagens reais ou virtuais dependendo da posição do objeto em relação ao foco e ao centro de curvatura. Uma imagem real é formada quando os raios refletem e efetivamente se cruzam em um ponto, permitindo projeção da imagem em um anteparo.",
+        "Neste sistema, dois espelhos côncavos estão posicionados de modo que o vértice de um coincide com o foco do outro, causando múltiplas reflexões que resultam em uma imagem tridimensional real, visualizada pelo observador através da abertura circular no espelho superior.",
+        "A interpretação correta das medidas fornecidas no diagrama é essencial para determinar a distância vertical entre o objeto e a imagem, somando as distâncias verticais de 3,8 cm de cada espelho, totalizando 7,6 cm."
+      ],
+      "resolutionParagraphs": [
+        "Observando o esquema, os espelhos E₁ e E₂ são côncavos e posicionados de forma que o vértice de E₁ coincide com o foco de E₂ e vice-versa. O objeto está colocado sobre o vértice de E₁.",
+        "Os raios originados do objeto refletem em E₂ e depois em E₁, cruzando-se e formando uma imagem 3D dentro do sistema. Essa imagem é real porque os raios se convergem fisicamente, possibilitando a percepção tridimensional.",
+        "As dimensões revelam que a distância vertical entre as bordas inferiores e superiores, passando pelos focos/vértices dos espelhos, é 3,8 cm para cada espelho, somando um total de 7,6 cm entre o objeto e sua imagem. Portanto, a distância vertical entre cada ponto do objeto e seu correspondente na imagem é 7,6 cm.",
+        "Assim, conclui-se que a imagem é real e a distância vertical entre cada ponto do objeto e da imagem é 7,6 cm, respondendo corretamente à pergunta."
+      ],
+      "puloDoGato": "A soma das distâncias verticais de cada espelho indica a distância entre objeto e imagem; além disso, a convergência real dos raios garante a imagem real.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "A alternativa confunde a abertura de 5 cm do espelho com a distância vertical real entre objeto e imagem, que é maior, 7,6 cm."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Considera incorretamente apenas a distância de 3,8 cm de um único espelho, não a soma das duas distâncias verticais necessárias."
+        },
+        {
+          "option": "C",
+          "isCorrect": true,
+          "explanation": "Correta. A imagem é real e a distância vertical total entre ponto objeto e imagem é 7,6 cm, soma das distâncias de ambos os espelhos."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Errado ao afirmar que a imagem é virtual, pois no sistema ilustrado os raios convergem efetivamente, caracterizando imagem real."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Combina distância errada e afirma natureza virtual da imagem, incorreta para este sistema."
+        }
+      ],
+      "questionCode": "CN_OPTICA_3D_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A questão, solução técnica e explicação estão coerentes e complementares. A resolução final está clara, didática e atende às exigências editoriais, comentando adequadamente todas as alternativas, explicando conceitos e indicando o raciocínio para a resposta correta. Não há inconsistências ou ambiguidade relevantes.",
+      "issues": []
+    }
+  }
+}

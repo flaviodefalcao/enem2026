@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:36:43.344Z",
+  "questionId": "enem-2024-ciencias-natureza-q114",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Mecânica e energia",
+    "rationale": "A questão aborda o conceito de centro de massa e equilíbrio dinâmico na rotação de um conjunto roda/pneu, que são tópicos da mecânica, uma subárea da física. A habilidade associada indica o reconhecimento de propriedades oscilatórias relacionadas à aplicação prática do balanceamento, reforçando o tema de mecânica.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1240,
+    "outputTokens": 90,
+    "estimatedCostUsd": 0.00064
+  }
+}

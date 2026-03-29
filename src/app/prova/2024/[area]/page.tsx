@@ -29,9 +29,9 @@ export default function AreaOverviewRoute({ params }: PageProps) {
 
   return (
     <AreaOverviewPage
-      area={getAreaMeta(area)}
-      questions={getAreaQuestionSummaries(area)}
-      overviewAnalytics={getAreaOverviewAnalytics(area)}
+      area={getAreaMeta(2024, area)}
+      questions={getAreaQuestionSummaries(2024, area)}
+      overviewAnalytics={getAreaOverviewAnalytics(2024, area)}
     />
   );
 }

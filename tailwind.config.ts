@@ -9,14 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#102033",
-        sand: "#f5efe6",
-        clay: "#d96c3f",
-        gold: "#e2b95b",
-        mist: "#eef5fb",
+        ink: "#2A4E7A",
+        sand: "#FFFFFF",
+        clay: "#6AA5E8",
+        gold: "#6AA5E8",
+        mist: "#F5F9FF",
       },
       boxShadow: {
-        card: "0 24px 60px rgba(16, 32, 51, 0.08)",
+        card: "0 24px 60px rgba(42, 78, 122, 0.10)",
       },
       fontFamily: {
         sans: ['"Avenir Next"', '"Segoe UI"', "sans-serif"],
@@ -24,7 +24,7 @@ const config: Config = {
       },
       backgroundImage: {
         "page-glow":
-          "radial-gradient(circle at top left, rgba(226,185,91,0.24), transparent 28%), linear-gradient(180deg, #f7f2ea 0%, #eef5fb 100%)",
+          "radial-gradient(circle at top left, rgba(106,165,232,0.18), transparent 28%), radial-gradient(circle at top right, rgba(214,230,255,0.85), transparent 34%), linear-gradient(180deg, #ffffff 0%, #f5f9ff 100%)",
       },
     },
   },

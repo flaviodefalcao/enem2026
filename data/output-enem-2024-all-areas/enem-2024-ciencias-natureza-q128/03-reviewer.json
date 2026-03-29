@@ -1,0 +1,178 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:33:29.754Z",
+  "questionId": "enem-2024-ciencias-natureza-q128",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta pois poluentes lipossolúveis e apolares se acumulam principalmente em tecidos ricos em lipídios, como o tecido adiposo.",
+        "strategy": "Identificar a natureza lipossolúvel dos poluentes e relacionar com o tecido biológico que mais acumula substâncias lipossolúveis.",
+        "steps": [
+          "Identificar a propriedade lipossolúvel dos poluentes derivados de pesticidas.",
+          "Reconhecer que poluentes lipossolúveis se acumulam em tecidos gordurosos.",
+          "Analisar as opções de tecidos quanto à sua composição lipídica.",
+          "Concluir que o tecido adiposo é o principal local de acumulação desses poluentes."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Poluentes derivados de pesticidas lipossolúveis acumulam-se preferencialmente no tecido adiposo, que é rico em gordura nos vertebrados.",
+        "stepByStep": [
+          "Reconhecer que poluentes são apolares e lipossolúveis, com afinidade por lipídios.",
+          "Identificar os tecidos disponíveis nas alternativas: ósseo, nervoso, epitelial, adiposo, sanguíneo.",
+          "Ressaltar que o tecido adiposo é o mais rico em gorduras, sendo o local de maior acúmulo.",
+          "Concluir que o tecido adiposo é o local preferencial para acúmulo dos poluentes."
+        ],
+        "commonPitfalls": [
+          "Confundir tecido ósseo com armazenamento por estabilidade, esquecendo sua baixa lipofilicidade.",
+          "Generalizar tecido nervoso como local principal devido à bainha de mielina, sem considerar menor quantidade de lipídios comparado ao tecido adiposo.",
+          "Pensar que o tecido epitelial acumula poluentes por contato com ambiente externo, ignorando sua baixa gordura.",
+          "Confundir transporte pelo sangue com acúmulo, pensando que poluentes se armazenam no tecido sanguíneo."
+        ],
+        "teachingTips": [
+          "Explique o conceito de solubilidade e \"semelhante dissolve semelhante\", para associar lipossolubilidade a acumulação em gordura.",
+          "Use exemplos reais de bioacumulação em tecido adiposo de animais.",
+          "Apresente composição dos tecidos para identificar onde lipídios predominam.",
+          "Destaque diferença entre transporte no sangue e armazenamento em tecidos específicos.",
+          "Incentive relação entre texto científico e conhecimento prévio para interpretação crítica."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Considerar o tecido ósseo como local de armazenamento por ser uma estrutura estável.",
+          "misconceptionType": "Confusão sobre composição tecidual",
+          "whyItLooksPlausible": "O tecido ósseo pode parecer um depósito devido à sua rigidez e papel estrutural.",
+          "whyItIsWrong": "O tecido ósseo não é rico em lipídios, não acumulando poluentes lipossolúveis preferencialmente."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Assumir que o tecido nervoso acumula poluentes devido à bainha de mielina rica em lipídios.",
+          "misconceptionType": "Generalização",
+          "whyItLooksPlausible": "A bainha de mielina possui lipídios, sugerindo possível bioacumulação.",
+          "whyItIsWrong": "A quantidade total de lipídios no tecido nervoso é menor que no tecido adiposo, portanto acumula menos."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que o tecido epitelial, por estar em contato com o ambiente, acumula poluentes.",
+          "misconceptionType": "Confusão entre função e composição",
+          "whyItLooksPlausible": "É a interface com o meio externo, possível local de contato com poluentes.",
+          "whyItIsWrong": "O tecido epitelial não tem alta concentração de lipídios para acumular poluentes lipossolúveis."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Confundir transporte pelo sangue com acúmulo nos tecidos sanguíneos.",
+          "misconceptionType": "Confusão entre transporte e acumulação",
+          "whyItLooksPlausible": "O sangue transporta poluentes pela circulação.",
+          "whyItIsWrong": "Sangue não é local de armazenamento ou acúmulo de poluentes lipossolúveis."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de texto científico e biologia celular",
+        "secondarySkills": [
+          "Conhecimento sobre bioacumulação",
+          "Química de compostos lipossolúveis"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Avalia compreensão da relação entre solubilidade e tecidos biológicos.",
+          "Exige integração entre informação textual e conhecimento prévio de tecidos e química.",
+          "Não depende de imagens para resolução."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Bioacumulação de poluentes lipossolúveis",
+        "interpretationIntro": "A questão solicita identificar em qual tecido de animais vertebrados os poluentes derivados de pesticidas lipossolúveis se acumulam preferencialmente.",
+        "commandTerms": [
+          {
+            "term": "Acumulação",
+            "explanation": "Processo pelo qual substâncias se concentram em determinados tecidos ou órgãos."
+          },
+          {
+            "term": "Lipossolúvel",
+            "explanation": "Substância que se dissolve em lipídios, tendendo a se acumular em tecidos gordurosos."
+          }
+        ],
+        "whatTheQuestionAsks": "Determine o tecido em que poluentes lipossolúveis, associados a microplásticos, tendem a se acumular preferencialmente em animais vertebrados.",
+        "strategyParagraph": "A estratégia envolve compreender que poluentes lipossolúveis têm afinidade por gorduras e, portanto, se acumulam em tecidos ricos em lipídios. Dado o conhecimento sobre a composição dos tecidos listados, identifica-se o tecido adiposo como o principal local de acúmulo desses compostos, por ser altamente lipídico.",
+        "reviewTable": [
+          {
+            "concept": "Lipossolubilidade",
+            "keyIdea": "Substâncias lipossolúveis se acumulam em ambientes ricos em gordura.",
+            "application": "Poluentes apolares derivados de pesticidas acumulam-se no tecido adiposo."
+          },
+          {
+            "concept": "Tecido adiposo",
+            "keyIdea": "Composto principalmente por gordura, atua como depósito de lipídios.",
+            "application": "Local preferencial de armazenamento de poluentes lipossolúveis nos vertebrados."
+          },
+          {
+            "concept": "Distinção entre transporte e acúmulo",
+            "keyIdea": "Sangue transporta substâncias, mas não as armazena em concentração significativa.",
+            "application": "Poluentes circulam no sangue, mas não se acumulam nele."
+          }
+        ],
+        "theoryParagraphs": [
+          "Poluentes lipossolúveis, como derivados de pesticidas, apresentam afinidade química por lipídios e tendem a se acumular em tecidos ricos em gordura. Esta propriedade é importante para entender como substâncias tóxicas se armazenam e afetam organismos vivos.",
+          "Nos animais vertebrados, o tecido adiposo é altamente lipídico e atua como principal reservatório desses poluentes, ao contrário de tecidos como ósseo, epitelial ou sanguíneo, que não possuem essa característica.",
+          "Entender a diferença entre tecidos de armazenamento e locais de transporte (como o sangue) é crucial para interpretar corretamente a ação e riscos dos poluentes em organismos."
+        ],
+        "resolutionParagraphs": [
+          "O enunciado informa que os poluentes em questão são apolares e lipossolúveis. Por propriedades químicas, esses compostos tendem a se acumular em tecidos ricos em gorduras, pois substâncias lipossolúveis dissolvem-se melhor em ambientes lipofílicos.",
+          "Analisando as opções, o tecido adiposo destaca-se por ser constituído majoritariamente por lipídios, o que o torna o local preferencial para o acúmulo desses poluentes.",
+          "Tecidos ósseo, epitelial e sanguíneo não possuem características lipídicas adequadas para armazenar substâncias lipossolúveis em concentrações significativas. Tecidos nervosos possuem gordura na bainha de mielina, mas em menor proporção comparado ao tecido adiposo.",
+          "Assim, conclui-se que o tecido adiposo é o local de acumulação preferencial dos poluentes lipossolúveis derivados de pesticidas, correspondendo à alternativa D."
+        ],
+        "puloDoGato": "Associe 'lipossolúvel' a 'tecido adiposo' para localizar o acúmulo de poluentes rapidamente.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Tecido ósseo não é rico em gordura e não acumula poluentes lipossolúveis preferencialmente."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Tecido nervoso contém lipídios, mas em menor quantidade que o tecido adiposo; portanto, não é local principal de acúmulo."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Tecido epitelial não possui alto teor lipídico e não armazena poluentes lipossolúveis."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Tecido adiposo é rico em lipídios e acumula preferencialmente poluentes lipossolúveis, sendo a resposta correta."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Sangue transporta poluentes, mas não é local de acúmulo significativo desses compostos lipossolúveis."
+          }
+        ],
+        "questionCode": "CN_BIO_ACUMULO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução técnica está correta, coerente e consistente com o enunciado e a explicação didática. A interpretação do enunciado está adequada e a consolidação segue o padrão solicitado para a resolução ENEM. As alternativas foram comentadas de forma clara e objetiva.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2684,
+    "outputTokens": 2038,
+    "estimatedCostUsd": 0.004334
+  }
+}

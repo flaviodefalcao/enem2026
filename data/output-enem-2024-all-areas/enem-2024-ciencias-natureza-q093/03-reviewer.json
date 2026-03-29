@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:26:11.762Z",
+  "questionId": "enem-2024-ciencias-natureza-q093",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E está correta porque o som estridente emitido pelos anfíbios anuros, especificamente pela espécie Eleutherodactylus jahnstonei, tipicamente serve para atrair fêmeas durante o período de acasalamento. Esse comportamento é comum entre anuros, que utilizam o canto como sinal acústico para reprodução.",
+        "strategy": "Analisei o comportamento típico dos anfíbios anuros no contexto apresentado, considerando seus sons como forma de comunicação biológica. Identifiquei a função principal dos cantos em sapos e rãs, que é a atração de parceiros para o acasalamento, e comparei com as outras alternativas para verificar sua coerência.",
+        "steps": [
+          "Ler atentamente o enunciado que fala sobre o som alto e estridente emitido pelos anfíbios.",
+          "Reconhecer que os anuros utilizam sons para comunicação, especialmente para reprodução.",
+          "Considerar as alternativas e avaliar a função conhecida do canto na biologia dos anuros.",
+          "Descartar as opções que não correspondem às funções típicas do som em anuros, como cuidado com hábitat, poluição e caça.",
+          "Confirmar que a atração de fêmeas para o acasalamento é o propósito mais plausível do som emitido."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Nenhum elemento visual fornecido foi utilizado na solução, pois a imagem do enunciado contém apenas a fonte da notícia e não traz informação adicional para resolução."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O som alto e estridente emitido pelos anfíbios Eleutherodactylus jahnstonei serve para atrair fêmeas durante o período de acasalamento. Esse canto é uma forma de comunicação típica dos anuros para garantir a reprodução da espécie.",
+        "stepByStep": [
+          "Leia com atenção o enunciado para entender o contexto: um som alto e constante causado por anfíbios.",
+          "Reconheça que os anuros, como sapos e rãs, usam sons para comunicar principalmente durante o acasalamento.",
+          "Analise as alternativas, identificando qual delas apresenta a função típica do canto desses animais.",
+          "Descartar opções que relacionam o som a comportamento de estresse, alertas ambientais, superpopulação ou caça, pois não são funções típicas do canto dos anuros.",
+          "Conclua que a alternativa correta é aquela que associa o som à atração de fêmeas para reprodução."
+        ],
+        "commonPitfalls": [
+          "Interpretar o som como sinal de estresse ou desconforto dos animais por estarem fora do habitat original.",
+          "Achar que o som serve para alertar sobre poluição ou perigo no ambiente.",
+          "Pensar que o canto indica superpopulação ou competição entre os animais.",
+          "Supor que o som é emitido para atrair presas, facilitando a alimentação."
+        ],
+        "teachingTips": [
+          "Explique que muitos animais usam sons para comunicação, principalmente para atrair parceiros na reprodução.",
+          "Use exemplos comuns de sapos e rãs que coaxam para ajudar os alunos a relacionar o comportamento com a função biológica.",
+          "Incentive os alunos a interpretar o enunciado e relacionar com conceitos básicos de ecologia e comportamento animal.",
+          "Alerta para a importância de descartar alternativas aparentemente plausíveis, mas que não se encaixam no comportamento típico estudado.",
+          "Estimule a leitura cuidadosa do texto para identificar informações relevantes que levam à resposta correta."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pensar que o barulho indica estresse ou desconforto dos animais fora de seu ambiente natural.",
+          "misconceptionType": "Interpretação incorreta do comportamento animal.",
+          "whyItLooksPlausible": "O texto destaca que os animais não estão em seu habitat original, o que pode levar a pensar que o som é um sinal de desalento.",
+          "whyItIsWrong": "O som emitido é um comportamento natural de canto para acasalamento, independente do local onde estão."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Interpretar o som como um alerta para alguma poluição ou perigo ambiental.",
+          "misconceptionType": "Maus entendidos sobre funções dos sons animais.",
+          "whyItLooksPlausible": "Associação entre ruídos e ambientes poluídos pode confundir, relacionando o barulho a advertência ambiental.",
+          "whyItIsWrong": "O canto dos anuros não tem função de alertar poluição urbana."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Achar que o som é para mostrar superpopulação, indicando competição entre indivíduos.",
+          "misconceptionType": "Confusão entre comunicação para reprodução e regulação populacional.",
+          "whyItLooksPlausible": "O barulho intenso pode sugerir muitos animais em pequeno espaço, levando à ideia de superpopulação.",
+          "whyItIsWrong": "O canto serve para atrair parceiros, não para avisar sobre densidade populacional."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pensar que o som atrai presas (insetos) para facilitar alimentação.",
+          "misconceptionType": "Erro na compreensão da comunicação sonora animal.",
+          "whyItLooksPlausible": "Como anuros se alimentam de insetos, alguém pode supor que o som auxilia na caça.",
+          "whyItIsWrong": "O canto atrai fêmeas, não insetos; o som não é uma estratégia de caça."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de comportamento animal e ecologia básica",
+        "secondarySkills": [
+          "Compreensão textual",
+          "Conhecimento básico de biologia zoológica"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "O enunciado destaca o comportamento de animais exóticos em um ambiente urbano.",
+          "É necessário conhecimento prévio sobre a função dos sons emitidos pelos anuros para responder correta e rapidamente.",
+          "Não há necessidade de cálculos ou interpretação visual complexa."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🐸",
+        "shortThemeTitle": "Comunicação Sonora em Anfíbios",
+        "interpretationIntro": "Esta questão exige compreender qual é a função do som estridente emitido por anfíbios da espécie Eleutherodactylus jahnstonei encontrados em São Paulo.",
+        "commandTerms": [
+          {
+            "term": "Emitir",
+            "explanation": "Produzir ou enviar sinais (neste caso, sons) para comunicação."
+          },
+          {
+            "term": "Função",
+            "explanation": "O propósito ou papel do som emitido pelos animais."
+          },
+          {
+            "term": "Anfíbios Anuros",
+            "explanation": "Grupo de animais que inclui sapos e rãs, caracterizados principalmente pelo som que produzem."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão pergunta qual é a função do som emitido pelos anfíbios, especificamente atendendo suas características e comportamento biológico.",
+        "strategyParagraph": "Para responder, é necessário analisar o comportamento dos anuros, que utilizam sons para comunicação, especialmente com finalidade reprodutiva. O enunciado indica um som constante e estridente que causa incômodo, comum em chamadas para atração de parceiros. Examinando as alternativas, deve-se identificar aquela que condiz com o uso biológico do som por estes animais.",
+        "reviewTable": [
+          {
+            "concept": "Comunicação animal",
+            "keyIdea": "Animais emitem sons para diversos objetivos, incluindo atração sexual, alerta e interação social.",
+            "application": "Anfíbios anuros usam canto para atrair fêmeas durante a reprodução."
+          },
+          {
+            "concept": "Função do canto em anuros",
+            "keyIdea": "O canto é uma estratégia para encontrar parceiros e garantir a reprodução da espécie.",
+            "application": "O som estridente tem como função avisar a presença e atrair fêmeas."
+          },
+          {
+            "concept": "Ecologia de espécies exóticas",
+            "keyIdea": "Animais fora de seu habitat natural podem continuar exibindo comportamentos típicos.",
+            "application": "A espécie do Caribe presente no Brooklin mantém comportamento de canto reprodutivo."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os anfíbios da ordem Anura, como sapos e rãs, possuem uma comunicação sonora altamente desenvolvida, cuja principal função é a atração de fêmeas durante o período reprodutivo, através do canto. Esse comportamento é instintivo e ocorre independente do local, desde que o ambiente permita a sobrevivência da espécie.",
+          "O canto dos anuros é emitido principalmente pelos machos para marcar território e sinalizar sua disponibilidade sexual, sendo um fator crucial para o sucesso reprodutivo e manutenção populacional.",
+          "Mesmo em ambientes urbanos, algumas espécies exóticas mantêm seus comportamentos naturais, como a emissão de sons altos para comunicação sexual, que pode, contudo, causar incômodo aos humanos próximos."
+        ],
+        "resolutionParagraphs": [
+          "No enunciado, observa-se que o som estridente emitido por anfíbios do Caribe ocorre em área residencial da cidade de São Paulo, causando desconforto aos moradores.",
+          "Sabe-se que o canto de anuros é uma forma de sinal acústico voltado à comunicação sexual, principalmente para atrair fêmeas a fim de reprodução.",
+          "Analisando as alternativas, a que indica que o som visa atrair fêmeas para acasalamento é a que corresponde ao comportamento natural e conhecido desses animais.",
+          "Outras opções sugerem funções não típicas do canto dos anuros, tais como sinal de estresse, aviso sobre poluição, alerta de superpopulação ou atrair presas, as quais não são comprovadas para essa espécie.",
+          "Portanto, a alternativa correta é aquela que relaciona o som à atração sexual e reprodução."
+        ],
+        "puloDoGato": "Lembre-se: o canto dos anuros serve para atrair fêmeas e garantir a reprodução, não para comunicar problemas ambientais ou sociais.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "O som não indica estresse dos animais por estarem fora do habitat; é um comportamento natural de comunicação."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Os anuros não usam o canto para alertar sobre poluição ou perigo ambiental."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "O canto não indica superpopulação, mas sim a busca por parceiros para reprodução."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Os sons não têm a função de atrair presas; atraem fêmeas para o acasalamento."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "O som serve para atrair fêmeas durante o período de acasalamento, o que é típico dos anuros."
+          }
+        ],
+        "questionCode": "CN_BIOLOGIA_COMPORTAMENTO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A questão, a resolução técnica e a explicação didática estão coerentes entre si, apresentando uma análise clara do comportamento biológico dos anuros e abordando corretamente as alternativas. A resolução oficial segue as orientações editoriais exigidas, fornecendo uma explicação didática consistente e detalhada, acompanhada dos comentários sobre as alternativas.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2763,
+    "outputTokens": 2267,
+    "estimatedCostUsd": 0.004732
+  }
+}

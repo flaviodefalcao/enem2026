@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:42:05.903Z",
+  "questionId": "enem-2024-ciencias-natureza-q118",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Ondas, óptica e radiação",
+    "rationale": "A questão aborda a formação de imagens por espelhos côncavos, o que é um tema típico da óptica, um subtema da Física. A análise do tipo de imagem formada (real ou virtual) e a distância entre objeto e imagem são conceitos fundamentais da óptica geométrica.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1690,
+    "outputTokens": 85,
+    "estimatedCostUsd": 0.000812
+  }
+}

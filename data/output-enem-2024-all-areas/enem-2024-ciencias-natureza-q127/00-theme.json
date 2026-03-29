@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:31:13.800Z",
+  "questionId": "enem-2024-ciencias-natureza-q127",
+  "payload": {
+    "theme": "Ambiente e sustentabilidade",
+    "subtheme": "Impactos ambientais",
+    "rationale": "A questão discute como a urbanização, pela ausência de saneamento básico, provoca contaminação da água e redução da biodiversidade aquática, o que resulta em riscos à saúde humana. Isso caracteriza uma análise dos impactos ambientais decorrentes de atividades sociais, que está diretamente relacionado ao subtema 'Impactos ambientais' em Ambiente e sustentabilidade.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1301,
+    "outputTokens": 92,
+    "estimatedCostUsd": 0.000668
+  }
+}

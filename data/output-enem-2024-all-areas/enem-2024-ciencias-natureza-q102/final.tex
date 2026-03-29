@@ -1,0 +1,87 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\begin{document}
+
+\section*{Eficiência energética em aquecimento de água (ENEM 2024, Questão 102)}
+
+\subsection*{Enunciado Original}
+Um estudante comprou uma cafeteira elétrica de 700~W de potência e com capacidade de 0,5~L de água (500~g). Enquanto o café estava em preparação na capacidade máxima da cafeteira, ele marcou que demorou 3 minutos para a cafeteira ferver toda a água (100~\textdegree C) a partir da temperatura ambiente de 20~\textdegree C. Em seguida, para avaliar a eficiência da cafeteira, ele calculou esse tempo desprezando quaisquer perdas energéticas. É necessária 1~cal (4,2~J) para elevar em 1~\textdegree C a temperatura de 1~g de água.\par
+Qual a eficiência energética calculada pelo estudante?
+
+\section*{Interpretação e Estratégia}
+O problema envolve o conceito de \textbf{eficiência energética}: quanto da energia elétrica fornecida foi, de fato, convertida em aquecimento da água. O estudante mede o tempo real (3 min) e compara com quanto \textit{deveria} demorar para aquecer toda a água \textit{sem perdas} (tempo teórico), considerando apenas a energia exigida para elevar a temperatura da água (sem considerar eventuais dissipações para o ambiente).
+
+\noindent
+As etapas principais:
+\begin{enumerate}
+    \item Calcular a energia necessária para elevar a água de 20~\textdegree C até 100~\textdegree C;
+    \item Converter para Joules;
+    \item Calcular o tempo teórico para aquecer a água com uma resistência de 700~W;
+    \item Comparar com o tempo real e encontrar a eficiência.
+\end{enumerate}
+
+\section*{Mini-revisão de Conceitos}
+\begin{tabular}{|l|l|l|}
+    \hline
+    \textbf{Conceito} & \textbf{Ideia-chave} & \textbf{Aplicação} \\
+    \hline
+    Eficiência energética & Razão entre o útil e o total & Razão entre tempos teórico e real \\
+    Energia térmica & Depende de massa, c e $\Delta T$ & $Q = m c \Delta T$ \\
+    Conversão de unidades & Energia em Joules & $1~\mathrm{cal} = 4,2~\mathrm{J}$ \\
+    \hline
+\end{tabular}
+
+\section*{Resolução Completa}
+\textbf{1. Calor necessário para aquecer a água:}
+
+\begin{equation*}
+Q = m \cdot c \cdot \Delta T = 500~\text{g} \times 1~\text{cal/g}^{\circ}\text{C} \times (100 - 20)~^{\circ}\text{C} = 40~000~\text{cal}
+\end{equation*}
+
+\textbf{2. Converter $Q$ para Joules:}
+
+\begin{equation*}
+Q_{(J)} = 40~000~\text{cal} \times 4,2~\text{J/cal} = 168~000~\text{J}
+\end{equation*}
+
+\textbf{3. Calcule o tempo ideal (sem perdas energéticas):}
+
+\begin{equation*}
+t_{\text{teo}} = \frac{Q}{P} = \frac{168~000~\text{J}}{700~\text{W}} = 240~\text{s} = 4~\text{min}
+\end{equation*}
+
+\textbf{4. Tempo real:}
+
+\begin{equation*}
+t_{\text{real}} = 3~\text{min} = 180~\text{s}
+\end{equation*}
+
+\textbf{5. Cálculo da eficiência:}
+
+\begin{equation*}
+\text{Eficiência} = \frac{t_{\text{real}}}{t_{\text{teo}}} = \frac{180}{240} = 0,75 = 75\%
+\end{equation*}
+
+\noindent
+\textbf{Resposta:} \textbf{B) 75\%}
+
+\section*{O pulo do gato}
+A eficiência nunca pode ultrapassar 100\%; ela representa o quanto do consumo efetivo virou resultado útil (no caso, aumento de temperatura da água). Se seu cálculo der mais que 100\%, revise a razão utilizada!
+
+\section*{Distratores comentados}
+\begin{enumerate}[label=\textbf{(\Alph*)}]
+    \item 100\% -- resposta errada comum para quem esquece que toda máquina real apresenta perdas.
+    \item 75\% -- \textbf{gabarito}, correta (ver resolução).
+    \item 60\% -- erro por uso incorreto da razão ou arredondamento incorreto.
+    \item 35\% -- resultado de erros grosseiros na conversão de unidades.
+    \item 20\% -- erro de conceito (por exemplo, esquecer conversões múltiplas).
+\end{enumerate}
+
+\section*{Código e referência da questão}
+CIENCIAS\_ENERGIA\_EFICIENCIA\_001
+
+
+\end{document}

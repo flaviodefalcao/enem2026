@@ -1,0 +1,203 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q103",
+  "generatedAt": "2026-03-28T22:52:46.012Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1733,
+      "outputTokens": 1104,
+      "estimatedCostUsd": 0.012298
+    },
+    "explainer": {
+      "inputTokens": 2396,
+      "outputTokens": 428,
+      "estimatedCostUsd": 0.001643
+    },
+    "reviewer": {
+      "inputTokens": 3948,
+      "outputTokens": 2686,
+      "estimatedCostUsd": 0.029384
+    },
+    "totalEstimatedCostUsd": 0.043325
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "IV",
+      "correctnessClaim": "Correta, está conforme o diagrama, tabela e teoria dos ciclos de motores.",
+      "strategy": "Identificar no ciclo de Otto e na tabela de processos qual etapa representa a conversão efetiva da energia térmica da combustão em trabalho mecânico útil para o motor.",
+      "steps": [
+        "O ciclo de Otto tem seis etapas, detalhadas na tabela: admissão, compressão, aquecimento (combustão), expansão, liberação de calor e expulsão dos gases.",
+        "O comando pede a etapa em que ocorre a ‘transformação da energia térmica em energia útil’. No contexto de motores, energia útil é trabalho realizado para movimentar o veículo.",
+        "No ciclo, a combustão (etapa III) fornece calor ao gás – mas a conversão em trabalho não ocorre neste instante.",
+        "A conversão da energia térmica para trabalho útil acontece propriamente na expansão (etapa IV: 3 a 4), quando os gases fazem o pistão descer e girar o motor.",
+        "Conferindo a tabela: ‘IV – 3 a 4 – Expansão adiabática’ é quando a energia térmica internalizada após a combustão gera trabalho. As demais etapas não realizam conversão de calor em trabalho útil."
+      ],
+      "formulasUsed": [
+        "Primeira Lei da Termodinâmica: ΔU = Q - W",
+        "Trabalho em expansão adiabática: W = (P2V2 - P1V1)/(γ-1)"
+      ],
+      "visualEvidenceUsed": [
+        "Gráfico P-V: A área sob a curva 3→4 corresponde ao trabalho entregue pelo gás em expansão.",
+        "Tabela: A etapa IV corresponde diretamente à ‘expansão adiabática’, etapa de produção de trabalho útil."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A etapa IV é a expansão adiabática do ciclo de Otto; é nela que a energia térmica produzida pela combustão empurra o pistão, transformando calor em trabalho útil para o motor.",
+      "stepByStep": [
+        "O ciclo de Otto é composto por seis etapas (veja na tabela).",
+        "Durante a etapa III ocorre a combustão, mas o gás apenas recebe calor: não é produzida energia útil ali.",
+        "Após isso, vem a etapa IV (expansão adiabática): o gás aquecido se expande, faz o pistão descer e realiza trabalho, transformando energia térmica da combustão em energia mecânica.",
+        "As demais etapas servem para admissão, compressão, liberação de calor e remoção de resíduos e não convertem energia térmica em trabalho útil.",
+        "Portanto, é na etapa IV (expansão adiabática) que esta conversão realmente acontece."
+      ],
+      "commonPitfalls": [
+        "Confundir a combustão (III) com produção de trabalho: ali há apenas entrada de calor.",
+        "Achar que compressão (II) já faz conversão de energia: neste ponto, energia só é armazenada.",
+        "Pensar que liberação de gases/exaustão (V/VI) pode estar relacionada à energia útil: são etapas de remoção ou rejeição de energia."
+      ],
+      "teachingTips": [
+        "Use sempre o diagrama P-V para que os alunos visualizem a etapa de geração de trabalho (área sob a curva de expansão).",
+        "Ressalte o papel da expansão adiabática e sua ligação direta com o movimento do motor.",
+        "Relacione cada etapa teórica com o funcionamento prático do pistão para facilitar fixação.",
+        "Peça para alunos desenharem e rotularem cada etapa em ciclos termodinâmicos comuns."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "II",
+        "likelyReasoning": "Pode-se pensar que a compressão transforme energia mecânica em útil.",
+        "misconceptionType": "Confundir armazenamento de energia com uso para trabalho.",
+        "whyItLooksPlausible": "Compressão parece etapa ‘ativa’ do pistão.",
+        "whyItIsWrong": "A compressão apenas armazena energia; não ocorre trabalho útil nesta etapa."
+      },
+      {
+        "option": "III",
+        "likelyReasoning": "Pode ser confundido com o momento de conversão energética por ser a combustão.",
+        "misconceptionType": "Confundir entrada de calor com conversão para trabalho.",
+        "whyItLooksPlausible": "Combustão parece ser onde tudo acontece.",
+        "whyItIsWrong": "Aqui o gás só recebe calor — a transformação em trabalho ocorre no passo seguinte."
+      },
+      {
+        "option": "IV",
+        "likelyReasoning": "Opção correta: associa expansão adiabática à etapa de trabalho útil.",
+        "misconceptionType": "Nenhum.",
+        "whyItLooksPlausible": "É a etapa coreta.",
+        "whyItIsWrong": "Não está errada."
+      },
+      {
+        "option": "V",
+        "likelyReasoning": "Pode-se pensar que liberação de calor seja conversão de energia.",
+        "misconceptionType": "Confundir rejeição de energia com produção de trabalho.",
+        "whyItLooksPlausible": "‘Liberação de energia’ parece ato importante.",
+        "whyItIsWrong": "Aqui o gás apenas rejeita calor: não há trabalho útil para o motor."
+      },
+      {
+        "option": "VI",
+        "likelyReasoning": "Expulsão dos gases pode ser erroneamente vista como etapa de energia útil.",
+        "misconceptionType": "Supergeneralização do conceito de energia útil.",
+        "whyItLooksPlausible": "É visualizada como saída de energia final.",
+        "whyItIsWrong": "Apenas uma etapa de limpeza do ciclo — sem geração de trabalho útil."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de processos termodinâmicos em ciclos reais",
+      "secondarySkills": [
+        "Leitura de gráficos P-V",
+        "Relacionamento de etapas teóricas e aplicação prática em motores",
+        "Aplicação da Primeira Lei da Termodinâmica"
+      ],
+      "cognitiveDemand": "Análise integrada entre teoria, diagrama e descrição prática de processos.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O estudante precisa associar descrições e processos no ciclo de Otto.",
+        "Depende de leitura do gráfico P-V e da tabela.",
+        "Não há cálculos: é conceitual e aplicada."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🔄",
+      "shortThemeTitle": "Conversão de energia no ciclo de Otto",
+      "interpretationIntro": "A questão pede para identificar, dentro do ciclo de Otto (motor de combustão interna), em qual etapa a energia térmica gerada na combustão é transformada em energia útil (trabalho mecânico) para o funcionamento do veículo.",
+      "commandTerms": [
+        {
+          "term": "transformação de energia",
+          "explanation": "Troca de uma forma de energia por outra (calor em trabalho) em um processo físico ou químico."
+        },
+        {
+          "term": "ciclo de Otto",
+          "explanation": "Sequência de processos termodinâmicos típicos de motores a combustão."
+        },
+        {
+          "term": "expansão adiabática",
+          "explanation": "Fase em que o gás expande sem troca de calor, convertendo energia interna em trabalho."
+        }
+      ],
+      "whatTheQuestionAsks": "Saber, no diagrama de fases e na tabela de processos do ciclo de Otto, em que etapa a energia térmica da combustão é efetivamente transformada em trabalho útil.",
+      "strategyParagraph": "O ciclo de Otto é dividido em etapas, cada uma representando uma transformação diferente. É fundamental correlacionar a descrição das etapas com o conceito físico de conversão de energia térmica em trabalho útil (energia mecânica). Ao analisar o gráfico P-V e a tabela de etapas, a conversão ocorre na expansão adiabática (3 a 4), quando o gás, já aquecido pela combustão, expande rapidamente e empurra o pistão, realizando trabalho sobre o eixo do motor.",
+      "reviewTable": [
+        {
+          "concept": "Ciclo de Otto",
+          "keyIdea": "Modelo teórico para motores a combustão.",
+          "application": "Permite mapear e entender as fases do motor e a conversão de energia."
+        },
+        {
+          "concept": "Expansão adiabática",
+          "keyIdea": "Processo onde o gás realiza trabalho sem troca de calor.",
+          "application": "Executa a conversão direta de energia térmica da combustão em trabalho útil."
+        },
+        {
+          "concept": "Energia útil",
+          "keyIdea": "Energia mecânica aproveitada pelo sistema.",
+          "application": "Produzida no exato momento em que o gás atua sobre o pistão."
+        }
+      ],
+      "theoryParagraphs": [
+        "O ciclo de Otto descreve o funcionamento básico de motores de combustão interna, como os presentes em carros a gasolina ou etanol. Cada etapa do ciclo representa um processo específico pelo qual a mistura ar-combustível passa dentro do cilindro.",
+        "Após a combustão (adição de calor, etapa III), ocorre a expansão adiabática (etapa IV): é esse processo que transforma a energia interna acumulada pelos gases aquecidos em trabalho mecânico, movimentando o pistão e, por consequência, o veículo.",
+        "As outras fases do ciclo (admissão, compressão, rejeição de calor e exaustão) têm papel fundamental no funcionamento do motor, mas não correspondem diretamente à produção de trabalho útil a partir do calor da combustão."
+      ],
+      "resolutionParagraphs": [
+        "Observando a tabela, vemos que: etapa I é admissão, II é compressão, III é a introdução de calor por combustão, IV é expansão adiabática, V é rejeição de calor e VI é exaustão dos gases.",
+        "Na expansão adiabática (IV, processo 3 a 4), a energia interna dos gases – aumentada pela combustão da etapa anterior – é convertida em trabalho mecânico ao empurrar o pistão para baixo. Esta é a única etapa em que ocorre a transformação efetiva de energia térmica em trabalho útil.",
+        "Logo, a resposta correta é a etapa IV."
+      ],
+      "puloDoGato": "No ciclo de Otto, só há trabalho útil na expansão: observe sempre o movimento do pistão após a combustão!",
+      "alternatives": [
+        {
+          "option": "II",
+          "isCorrect": false,
+          "explanation": "II é compressão adiabática; apenas armazena energia, não converte calor em trabalho útil."
+        },
+        {
+          "option": "III",
+          "isCorrect": false,
+          "explanation": "III é a introdução de energia térmica (combustão); há entrada de calor, mas não conversão direta para trabalho útil."
+        },
+        {
+          "option": "IV",
+          "isCorrect": true,
+          "explanation": "IV é a expansão adiabática, responsável pela conversão de energia térmica em trabalho útil no motor."
+        },
+        {
+          "option": "V",
+          "isCorrect": false,
+          "explanation": "V é liberação de calor (rejeição); não há produção de trabalho, apenas dissipa energia para o ambiente."
+        },
+        {
+          "option": "VI",
+          "isCorrect": false,
+          "explanation": "VI é a exaustão dos gases já usados, etapa sem conversão de energia útil."
+        }
+      ],
+      "questionCode": "CIENCIAS_NATUREZA_TERMODINAMICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "A resolução está consistente com o enunciado, imagens e fundamentação teórica. A resposta correta foi escolhida, com argumentos fundamentados no ciclo de Otto e suas etapas.",
+      "issues": []
+    }
+  }
+}

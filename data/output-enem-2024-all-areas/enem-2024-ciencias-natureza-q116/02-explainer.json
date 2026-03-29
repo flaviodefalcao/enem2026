@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:39:54.468Z",
+  "questionId": "enem-2024-ciencias-natureza-q116",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Os grupos de mamíferos apresentados no cladograma (Monotremata, Marsupialia e Placentalia) evoluíram características reprodutivas específicas, como a redução da vesícula vitelínica (que armazena o vitelo) associada ao desenvolvimento da lactação para nutrir os filhotes, um avanço evolutivo importante para a nutrição dos embriões e dos descendentes.",
+      "stepByStep": [
+        "Observe o cladograma e identifique os grupos de mamíferos: Monotremata, Marsupialia e Placentalia.",
+        "Reconheça que todos esses grupos possuem reprodução sexuada e fecundação interna, eliminando opções relacionadas a mudanças nesses aspectos.",
+        "Entenda que a evolução dos mamíferos está marcada pela diminuição do vitelo no ovo (redução da vesícula vitelínica) e pelo surgimento da lactação, que nutre os filhotes após o nascimento.",
+        "Compare as alternativas com o cladograma e o conhecimento sobre o desenvolvimento reprodutivo dos mamíferos para escolher a alternativa que aborda essas mudanças, no caso, a que trata da redução da vesícula vitelínica e o surgimento da lactação (alternativa E)."
+      ],
+      "commonPitfalls": [
+        "Confundir o aumento do número de descendentes como a principal evolução reprodutiva, quando na verdade o foco está na nutrição dos embriões e descendentes.",
+        "Pensar que a fecundação mudou de externa para interna ao longo da evolução dos mamíferos, quando na verdade já é interna nos grupos do cladograma.",
+        "Acreditar que a reprodução dos mamíferos se tornou exclusivamente sexuada, sem reconhecer que já era assim nos ancestrais próximos.",
+        "Associar o desenvolvimento embrionário à migração do ambiente aquático para o terrestre, o que não é foco na evolução dos grupos do cladograma apresentados."
+      ],
+      "teachingTips": [
+        "Utilize cladogramas como ferramentas visuais para explicar relações evolutivas e características compartilhadas ou derivadas.",
+        "Enfatize os conceitos de redução do vitelo e de desenvolvimento da lactação como avanços evolutivos importantes nos mamíferos.",
+        "Explore comparações entre os grupos Monotremata, Marsupialia e Placentalia para mostrar variações nos padrões de nutrição dos embriões e dos filhotes.",
+        "Estimule os alunos a descartarem alternativas com base em conhecimento prévio e interpretação crítica de cladogramas.",
+        "Reforce que evolução não significa apenas ganhos, mas também perdas e modificações adaptativas, como a redução do vitelo com compensação via lactação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2056,
+    "outputTokens": 554,
+    "estimatedCostUsd": 0.001709
+  }
+}

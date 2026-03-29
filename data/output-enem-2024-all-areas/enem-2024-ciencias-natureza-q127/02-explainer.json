@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:31:29.097Z",
+  "questionId": "enem-2024-ciencias-natureza-q127",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A urbanização, ao gerar ausência de saneamento básico, contamina a água e reduz a biodiversidade aquática, incluindo os predadores naturais dos mosquitos, o que aumenta os riscos de doenças transmitidas por esses insetos e afeta a saúde humana.",
+      "stepByStep": [
+        "Identifique no fluxograma que a urbanização leva à ausência de saneamento básico.",
+        "Observe que essa ausência causa contaminação da água.",
+        "Note que a contaminação da água reduz a biodiversidade aquática, incluindo predadores naturais dos mosquitos.",
+        "Entenda que com menos predadores, a população de mosquitos cresce, elevando o risco de doenças como chikungunya e zika.",
+        "Isso gera riscos para a saúde humana, conectando a urbanização a esses problemas de saúde."
+      ],
+      "commonPitfalls": [
+        "Confundir doenças transmitidas por mosquitos (arboviroses) com verminoses, que têm outros modos de transmissão.",
+        "Associar incorretamente a redução da biodiversidade a processos como eutrofização sem relação direta apresentada no fluxograma.",
+        "Focar nos coliformes como principal causa da doença, quando o foco está nos predadores naturais dos mosquitos.",
+        "Pensar que o risco aumenta apenas pela proximidade das pessoas com áreas de mosquitos, ignorando o papel da biodiversidade aquática."
+      ],
+      "teachingTips": [
+        "Use o fluxograma para guiar a compreensão do impacto da urbanização e a cadeia de causas.",
+        "Explique o papel da biodiversidade aquática na regulação das populações de mosquitos.",
+        "Traga exemplos reais de como a falta de saneamento básico afeta a saúde pública.",
+        "Incentive os alunos a relacionar conceitos de ecologia com saúde pública para formar uma visão integradora."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1803,
+    "outputTokens": 358,
+    "estimatedCostUsd": 0.001294
+  }
+}

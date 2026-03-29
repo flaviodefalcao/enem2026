@@ -1,0 +1,196 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q102",
+  "generatedAt": "2026-03-28T22:51:27.983Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 591,
+      "outputTokens": 1545,
+      "estimatedCostUsd": 0.013542
+    },
+    "explainer": {
+      "inputTokens": 1891,
+      "outputTokens": 603,
+      "estimatedCostUsd": 0.001721
+    },
+    "reviewer": {
+      "inputTokens": 3426,
+      "outputTokens": 2434,
+      "estimatedCostUsd": 0.026324
+    },
+    "totalEstimatedCostUsd": 0.041587
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "B) 75%",
+      "correctnessClaim": "Correto, é 75%.",
+      "strategy": "Calcular o tempo teórico necessário para aquecer a água sem perdas, em seguida comparar com o tempo real medido pelo estudante. A eficiência é a razão entre o tempo teórico e o real.",
+      "steps": [
+        "Calcule a energia necessária para aquecer 500 g de água de 20 °C a 100 °C com Q = m·c·ΔT: 500 × 1 × 80 = 40.000 cal",
+        "Converta para Joules: 40.000 × 4,2 = 168.000 J",
+        "Calcule o tempo teórico sem perdas: t = Q/P = 168.000 J / 700 W = 240 s (4 min)",
+        "Tempo real medido: 3 min = 180 s",
+        "Eficiência = (tempo teórico / tempo real) = 180 / 240 = 0,75 = 75%"
+      ],
+      "formulasUsed": [
+        "Q = m·c·ΔT",
+        "Eficiência = (tempo teórico / tempo real)",
+        "t = Q/P"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A eficiência energética é calculada comparando o tempo mínimo teórico para aquecer toda a água (sem perdas) com o tempo real medido. A razão entre eles indica quanta da energia elétrica foi realmente usada para aquecer a água.",
+      "stepByStep": [
+        "1. Calcule a energia necessária: Q = m·c·ΔT = 500 g × 1 cal/g°C × 80°C = 40.000 cal.",
+        "2. Converta para Joules: 40.000 cal × 4,2 J/cal = 168.000 J.",
+        "3. Calcule o tempo teórico ideal: t = Q/P = 168.000 J / 700 W = 240 s (4 min).",
+        "4. Use o tempo real: 3 min = 180 s.",
+        "5. Eficiência energética = tempo real / tempo teórico = 180 / 240 = 0,75 ou 75%."
+      ],
+      "commonPitfalls": [
+        "Invertendo a razão dos tempos, levando a eficiência > 100%.",
+        "Não converter calorias para Joules corretamente.",
+        "Esquecer de transformar o tempo de minutos para segundos.",
+        "Tratar energia elétrica e energia útil sem coerência dimensional."
+      ],
+      "teachingTips": [
+        "Sempre cheque se a eficiência é menor ou igual a 100%, nunca maior.",
+        "Reforce o controle de unidades: cal para Joule, minuto para segundo.",
+        "Mostre que 'tempo teórico' corresponde ao cenário ideal, sem perdas.",
+        "Explique com exemplos práticos de eletrodomésticos."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O estudante confunde energia teórica com prática e assume que não há perdas.",
+        "misconceptionType": "Desconsiderar perdas reais.",
+        "whyItLooksPlausible": "Como a questão fala em desprezar perdas no cálculo teórico, pode parecer que a eficiência calculada seria 100%.",
+        "whyItIsWrong": "O tempo teórico é maior que o real, indicando menos eficiência. A energia real consumida é superior à energia que seria usada sem perdas. O correto é comparar os tempos, obtendo valor menor que 100%."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Erro aritmético na razão entre tempos ou energias, confundindo a ordem da divisão.",
+        "misconceptionType": "Cálculo incorreto de razão.",
+        "whyItLooksPlausible": "Cálculos rápidos com arredondamentos ou omissão de um fator podem dar próximo de 60%.",
+        "whyItIsWrong": "O cálculo correto da razão entre o tempo teórico e real resulta em 75%."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Erro grosseiro na conversão de tempo ou energia, talvez considerando segundos por minuto ou unidade errada.",
+        "misconceptionType": "Erro conceitual e de unidade.",
+        "whyItLooksPlausible": "Pode parecer correto se o estudante inverter valores ou errar ordens de grandeza.",
+        "whyItIsWrong": "A eficiência não é tão baixa nesse contexto; a ordem de grandeza está errada."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Talvez erro em múltiplos fatores de conversão ou uso incompleto dos dados.",
+        "misconceptionType": "Erro de conversão ou cálculo parcial.",
+        "whyItLooksPlausible": "Pode parecer plausível caso o estudante some calorias com Joules sem converter corretamente.",
+        "whyItIsWrong": "Seria uma eficiência muito baixa para o contexto e não corresponde ao cálculo correto."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conservação de energia e eficiência energética",
+      "secondarySkills": [
+        "Conversão de unidades (cal/J)",
+        "Cálculo de tempo a partir de energia/potência",
+        "Razão e proporção"
+      ],
+      "cognitiveDemand": "Médio, envolvendo aplicação de conhecimentos de Física e matemática básica.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "A questão avalia aplicação de conceitos físicos com cálculos elementares e interpretação de eficiência.",
+        "Exige cuidado com unidades e sentido físico dos resultados (eficiência < 100%)."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "💡",
+      "shortThemeTitle": "Eficiência energética em aquecimento de água",
+      "interpretationIntro": "A questão aborda o conceito de eficiência energética ao comparar energia teórica e energia elétrica consumida por uma cafeteira.",
+      "commandTerms": [
+        {
+          "term": "calcule",
+          "explanation": "Pede resolução quantitativa, com conta."
+        },
+        {
+          "term": "eficiência",
+          "explanation": "Relação entre o útil e o total, ou entre condições ideais e reais."
+        },
+        {
+          "term": "desprezando perdas",
+          "explanation": "Restrinja o cálculo ao cenário ideal."
+        }
+      ],
+      "whatTheQuestionAsks": "Pede a eficiência energética da cafeteira ao aquecer toda a água, comparando o tempo real medido com o tempo ideal calculado sem considerar perdas.",
+      "strategyParagraph": "A estratégia é calcular a quantidade de energia que seria necessária para aquecer a água da temperatura inicial à final sem perdas (teórico), determinar o tempo ideal, e comparar com o tempo real observado, determinando a eficiência como a razão entre o tempo mínimo necessário (teórico) e o tempo realmente medido.",
+      "reviewTable": [
+        {
+          "concept": "Eficiência energética",
+          "keyIdea": "É a razão entre o que se obtém de útil e o que se consome de total.",
+          "application": "Relação entre tempo teórico e tempo real de aquecimento."
+        },
+        {
+          "concept": "Energia térmica",
+          "keyIdea": "Calor necessário para aquecer um corpo depende de sua massa, calor específico e variação de temperatura.",
+          "application": "Q = m·c·ΔT para a água aquecida."
+        },
+        {
+          "concept": "Conversão de unidades",
+          "keyIdea": "No SI, o trabalho/energia se mede em Joules.",
+          "application": "Relacionar caloria à Joule: 1 cal = 4,2 J."
+        }
+      ],
+      "theoryParagraphs": [
+        "Eficiência energética mede quanto da energia consumida é efetivamente aproveitada em um processo. É sempre menor ou igual a 100%.",
+        "No aquecimento, parte da energia é 'perdida' por dissipação, por isso o tempo real costuma ser maior que o tempo mínimo possível.",
+        "Para calcular corretamente, é fundamental controlar as unidades e comparar os contextos ideal e real do experimento."
+      ],
+      "resolutionParagraphs": [
+        "Primeiro, calcule a energia necessária para aquecer toda a água (Q = m·c·ΔT): 500 g × 1 cal/g°C × 80°C = 40.000 cal. Convertendo para o SI, 40.000 cal × 4,2 J/cal = 168.000 J.",
+        "O tempo ideal (sem perdas) para aquecer, com uma cafeteira de 700 W, é t = Q/P = 168.000 J / 700 W = 240 s (4 minutos).",
+        "Na prática, o estudante mediu um tempo real de 3 minutos, ou seja, 180 s.",
+        "A eficiência é a razão entre o tempo ideal e o tempo real: Eficiência = 180 / 240 = 0,75 = 75%.",
+        "Portanto, a eficiência energética calculada pelo estudante é de 75%."
+      ],
+      "puloDoGato": "A eficiência nunca pode ultrapassar 100%: se seu cálculo der mais que isso, revise a ordem da razão!",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Indica eficiência de 100%, que só ocorre em processos sem qualquer perda. No mundo real, sempre há perdas. Cálculo correto dá 75%."
+        },
+        {
+          "option": "B",
+          "isCorrect": true,
+          "explanation": "Correta. Representa a razão adequada entre tempo real e tempo teórico de aquecimento — o que corresponde a 75%."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Resultado incorreto, provavelmente vindo de erro de operação com as razões ou conversões, não corresponde ao dado obtido na resolução."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Muito baixo, consequência provável de erro em operações ou conversão de unidades."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Também incorreta, revela erro grave em conversão ou na sequência de passos do cálculo."
+        }
+      ],
+      "questionCode": "CIENCIAS_ENERGIA_EFICIENCIA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, resolução técnica e explicação didática estão consistentes, sem gaps conceituais. Todos os cálculos foram rastreados. A resolução oficial está clara, segue o template ENEM e não omite nem adiciona informações indevidas.",
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:36:29.951Z",
+  "questionId": "enem-2024-ciencias-natureza-q131",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O texto descreve um processo natural de mudanças graduais na estrutura e composição das comunidades vegetais, que é característico da sucessão ecológica, um fenômeno em que a vegetação evolui ao longo do tempo, aumentando a diversidade do ambiente.",
+      "stepByStep": [
+        "Leia o texto atentamente e identifique que há mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo.",
+        "Observe que o processo culmina no aumento da diversidade do ambiente.",
+        "Pense em qual processo natural apresenta essas características de mudança gradual e aumento da diversidade.",
+        "Analise as opções e descarte aquelas que não se referem a processos naturais graduais (rotação de culturas, coevolução específica, adaptação por seleção, convergência adaptativa).",
+        "Reconheça que a sucessão ecológica é o processo natural que explica essas mudanças graduais e aumento da diversidade em comunidades vegetais.",
+        "Conclua que a alternativa correta é a B, sucessão ecológica. "
+      ],
+      "commonPitfalls": [
+        "Confundir práticas agrícolas, como rotação de culturas, com processos naturais, como sucessão ecológica.",
+        "Associar a coevolução específica, que é um processo evolutivo entre espécies, com mudanças na composição da comunidade vegetal.",
+        "Interpretar adaptação por seleção, mecanismo genético, como mudança comunitária ecológica.",
+        "Confundir convergência adaptativa, que é evolução de características semelhantes em espécies diferentes, com mudanças ecológicas graduais."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre práticas agrícolas (como rotação de culturas) e processos ecológicos naturais (como sucessão ecológica).",
+        "Use exemplos práticos ou imagens de sucessão ecológica para ilustrar o conceito de mudança gradual na vegetação.",
+        "Estimule o aluno a identificar palavras-chave no texto que indicam processos graduais e aumentos da diversidade.",
+        "Mostre como eliminar alternativas incorretas com base no entendimento do processo natural descrito.",
+        "Reforce o conhecimento sobre os termos ecológicos presentes nas alternativas, destacando suas definições e aplicações."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1721,
+    "outputTokens": 422,
+    "estimatedCostUsd": 0.001364
+  }
+}

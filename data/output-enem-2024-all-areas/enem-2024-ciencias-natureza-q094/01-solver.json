@@ -1,0 +1,82 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:27:05.921Z",
+  "questionId": "enem-2024-ciencias-natureza-q094",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A resposta está correta com base no princípio do equilíbrio químico relacionado ao pH do meio e sua influência na desmineralização da hidroxiapatita.",
+      "strategy": "Analisar o efeito do pH sobre o equilíbrio químico da hidroxiapatita e identificar qual creme dental, pelo seu pH, favorece mais a desmineralização do esmalte dental.",
+      "steps": [
+        "Identificar a reação de equilíbrio entre hidroxiapatita sólida e íons em solução, considerando a presença de H⁺ no meio.",
+        "Entender que a desmineralização ocorre quando há aumento na concentração de H⁺ (meio ácido), deslocando o equilíbrio para a dissolução da hidroxiapatita, fragilizando o esmalte.",
+        "Observar os valores de pH dos cremes dentais na tabela fornecida.",
+        "Reconhecer que menor pH (meio mais ácido) promove maior desmineralização, pois aumenta a concentração de H⁺.",
+        "Comparar os pH dos cremes para identificar qual tem o menor pH, indicando maior acidez e, portanto, maior potencial para desmineralização.",
+        "Verificar que o creme dental IV tem o menor pH (6,9), sendo o que mais favorece a desmineralização da hidroxiapatita."
+      ],
+      "formulasUsed": [
+        "Ca5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO4^3- (aq) + H2O (l)"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem 1 mostrando a reação de equilíbrio da hidroxiapatita em função do H+",
+        "Tabela da Imagem 2 com os pHs dos cremes dentais"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Escolher o creme com pH alcalino e pensar que ele pode ser menos agressivo.",
+        "misconceptionType": "Interpretação incorreta do efeito do pH sobre o equilíbrio químico",
+        "whyItLooksPlausible": "O bicarbonato de sódio é conhecido por neutralizar ácidos, o que pode sugerir proteção do esmalte.",
+        "whyItIsWrong": "O pH 9,5 é alcalino, o que não favorece o aumento de H+, logo não promove maior desmineralização."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Assumir que pH maior significa maior desmineralização.",
+        "misconceptionType": "Confusão sobre relação entre acidez e desmineralização.",
+        "whyItLooksPlausible": "pH 11,0 é mais elevado, pode confundir como reativo.",
+        "whyItIsWrong": "pH elevado significa meio básico, que diminui concentração de H+, reduzindo desmineralização."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que o pH próximo ao neutro (7,7) seria mais propício para desmineralização do que pH ácido.",
+        "misconceptionType": "Subestimar o efeito ácido no equilíbrio.",
+        "whyItLooksPlausible": "O pH está próximo do neutro, podendo parecer menos agressivo que valores alcalinos.",
+        "whyItIsWrong": "Ainda é pH alcalino, menos ácido que 6,9, por isso menor desmineralização."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Correlacionar presença de fosfato de cálcio com maior desmineralização sem considerar o pH.",
+        "misconceptionType": "Confundir agente de polimento com efeito químico sobre equilíbrio.",
+        "whyItLooksPlausible": "O fosfato de cálcio está ligado ao esmalte, pode sugerir ação sobre mineral.",
+        "whyItIsWrong": "O pH de 7,3 é maior que 6,9, logo menos ácido e menor desmineralização."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de equilíbrio químico em meio aquoso",
+      "secondarySkills": [
+        "Conhecimento sobre pH e efeito de H+ em reações químicas",
+        "Relação entre propriedades químicas e implicações biológicas"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "O enunciado demanda compreensão do equilíbrio químico e influência do pH na reação.",
+        "A interpretação da tabela de pH e do esquema da reação é fundamental.",
+        "Não há cálculos específicos, apenas análise qualitativa do efeito do pH."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1257,
+    "outputTokens": 936,
+    "estimatedCostUsd": 0.002
+  }
+}

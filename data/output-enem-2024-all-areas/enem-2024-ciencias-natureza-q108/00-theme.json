@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:28:05.393Z",
+  "questionId": "enem-2024-ciencias-natureza-q108",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Estequiometria e soluções",
+    "rationale": "A questão envolve cálculo estequiométrico para determinar a massa de bauxita economizada por causa da reciclagem de latas de alumínio, utilizando relações entre massa da matéria-prima (bauxita) e produto (alumínio). Embora trate de um conteúdo aplicado, a essência do problema está no relacionamento quantitativo entre reagentes e produtos químicos.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 953,
+    "outputTokens": 98,
+    "estimatedCostUsd": 0.000538
+  }
+}

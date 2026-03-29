@@ -30,24 +30,60 @@ export function AreaOverviewPage({
     questions.reduce((sum, question) => sum + question.accuracy, 0) / questions.length
   ).toFixed(1);
 
+  const getDifficultyCardTheme = (level: number) => {
+    if (level <= 1) {
+      return {
+        card: "border-emerald-300/90 bg-gradient-to-br from-emerald-100 via-white to-emerald-200/90",
+        badge: "bg-emerald-700 text-white",
+        accent: "text-emerald-800",
+      };
+    }
+    if (level === 2) {
+      return {
+        card: "border-emerald-200/80 bg-gradient-to-br from-emerald-50 via-white to-green-100/80",
+        badge: "bg-emerald-100 text-emerald-700",
+        accent: "text-emerald-700",
+      };
+    }
+    if (level === 3) {
+      return {
+        card: "border-amber-200/80 bg-gradient-to-br from-amber-50 via-white to-yellow-100/80",
+        badge: "bg-amber-100 text-amber-700",
+        accent: "text-amber-700",
+      };
+    }
+    if (level === 4) {
+      return {
+        card: "border-rose-200/80 bg-gradient-to-br from-rose-50 via-white to-pink-100/80",
+        badge: "bg-rose-100 text-rose-700",
+        accent: "text-rose-700",
+      };
+    }
+    return {
+      card: "border-red-300/90 bg-gradient-to-br from-red-100 via-white to-rose-200/90",
+      badge: "bg-red-700 text-white",
+      accent: "text-red-800",
+    };
+  };
+
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-10 px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
       <section className="rounded-[32px] border border-white/70 bg-white/80 p-8 shadow-card backdrop-blur">
         <div className="mb-5 flex justify-end">
           <Link
-            href="/prova/2024"
-            className="inline-flex items-center rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/40 hover:text-clay"
+            href={`/prova/${area.year}`}
+            className="inline-flex items-center rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
           >
             ← Voltar ao menu geral
           </Link>
         </div>
-        <span className="mb-3 inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#8a6a22]">
+        <span className="mb-3 inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#4f79b0]">
           {area.dayLabel}
         </span>
         <div className="grid gap-8 lg:grid-cols-[1.3fr_0.7fr]">
           <div className="space-y-4">
             <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">
-              ENEM 2024 - {area.label} com leitura orientada por dados.
+              ENEM {area.year} - {area.label} com leitura orientada por dados.
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600 sm:text-lg">
               {area.lead}
@@ -76,8 +112,8 @@ export function AreaOverviewPage({
               </div>
             </div>
             <Link
-              href="/prova/2024"
-              className="flex items-center justify-center rounded-3xl bg-clay px-5 py-5 text-base font-semibold text-white transition hover:bg-[#c45c30]"
+              href={`/prova/${area.year}`}
+              className="flex items-center justify-center rounded-3xl bg-clay px-5 py-5 text-base font-semibold text-white transition hover:bg-[#568fd0]"
             >
               Voltar ao menu anterior
             </Link>
@@ -101,35 +137,44 @@ export function AreaOverviewPage({
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-          {questions.map((question) => (
-            <Link
-              key={question.id}
-              href={`/questoes/${area.slug}/${question.id}`}
-              className={`rounded-[28px] border p-5 shadow-card transition hover:-translate-y-1 hover:border-clay/40 ${
-                question.id === featuredQuestion.id
-                  ? "border-clay/40 bg-white"
-                  : "border-white/70 bg-white/75 backdrop-blur"
-              }`}
-            >
-              <div className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-500">
-                Questão {question.displayNumber}
-              </div>
-              <div className="mt-4 text-xl font-semibold text-ink">
-                {question.theme}
-              </div>
-              <div className="mt-3 text-sm text-slate-600">
-                {question.skill} • {question.difficulty}
-              </div>
-              <div className="mt-6 flex items-end justify-between">
-                <span className="text-xs uppercase tracking-[0.16em] text-slate-500">
-                  Acerto
-                </span>
-                <span className="text-2xl font-semibold text-clay">
-                  {question.accuracy.toFixed(1)}%
-                </span>
-              </div>
-            </Link>
-          ))}
+          {questions.map((question) => {
+            const theme = getDifficultyCardTheme(question.difficultyLevel);
+
+            return (
+              <Link
+                key={question.id}
+                href={`/questoes/${area.year}/${area.slug}/${question.id}`}
+                className={`rounded-[28px] border p-5 shadow-card transition hover:-translate-y-1 hover:shadow-[0_22px_44px_rgba(15,23,42,0.08)] ${theme.card} ${
+                  question.id === featuredQuestion.id ? "ring-2 ring-clay/30" : ""
+                }`}
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <div className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-500">
+                    Questão {question.displayNumber}
+                  </div>
+                  <span
+                    className={`inline-flex rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.14em] ${theme.badge}`}
+                  >
+                    Nível {question.difficultyLevel}
+                  </span>
+                </div>
+                <div className="mt-4 text-xl font-semibold leading-8 text-ink">
+                  {question.theme}
+                </div>
+                <div className="mt-3 text-sm leading-6 text-slate-600">
+                  {question.skill} • {question.relativeDifficultyLabel}
+                </div>
+                <div className="mt-6 flex items-end justify-between">
+                  <span className="text-xs uppercase tracking-[0.16em] text-slate-500">
+                    Acerto
+                  </span>
+                  <span className={`text-2xl font-semibold ${theme.accent}`}>
+                    {question.accuracy.toFixed(1)}%
+                  </span>
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
     </main>

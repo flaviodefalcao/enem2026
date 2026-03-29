@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:30:26.722Z",
+  "questionId": "enem-2024-ciencias-natureza-q126",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O aquecedor solar funciona ao transferir o calor do coletor para o reservatório principalmente por convecção, que é o movimento da água quente do coletor para o reservatório, transportando energia térmica através do fluido.",
+      "stepByStep": [
+        "Observe o funcionamento do aquecedor: a água fria entra no coletor e é aquecida pela radiação solar.",
+        "Identifique os modos de transferência de calor possíveis: condução (em sólidos), convecção (em fluidos com movimento), radiação (ondas eletromagnéticas), difusão (movimento de partículas), absorção (captação de energia).",
+        "Note que, após o aquecimento, a água quente sai do coletor e circula até o reservatório, ou seja, há movimento do fluido.",
+        "Esse movimento da água quente transporta o calor, caracterizando o processo de convecção como responsável pela transferência do calor do coletor para o reservatório.",
+        "Portanto, a transferência entre essas partes não é por condução nem radiação, mas sim por convecção, devido à circulação do fluido aquecido."
+      ],
+      "commonPitfalls": [
+        "Confundir difusão com transferência de calor, pensando que movimento de partículas indica transferência térmica predominante.",
+        "Associar absorção ao processo de transferência do calor entre coletor e reservatório, quando na verdade absorção refere-se à captação da radiação solar pelo coletor.",
+        "Pensar que a condução é o modo de transferência porque há contato físico entre componentes, esquecendo que o calor é levado pelo fluido em movimento.",
+        "Confundir radiação solar (que aquece o coletor) com o processo de transferência interna do calor para o reservatório."
+      ],
+      "teachingTips": [
+        "Use exemplos cotidianos de convecção, como água quente circulando em uma panela, para ilustrar o conceito.",
+        "Explique claramente a diferença entre condução (em sólidos), convecção (em fluidos em movimento) e radiação (transferência por ondas).",
+        "Peça que os alunos analisem esquemas técnicos para identificar como o calor se move em sistemas de aquecimento.",
+        "Reforce a ideia de que absorção é o primeiro passo (captação de energia), mas o transporte do calor acontece por outro processo, neste caso, convecção."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1861,
+    "outputTokens": 475,
+    "estimatedCostUsd": 0.001504
+  }
+}

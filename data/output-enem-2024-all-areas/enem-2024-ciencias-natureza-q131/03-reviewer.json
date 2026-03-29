@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:36:55.223Z",
+  "questionId": "enem-2024-ciencias-natureza-q131",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "B",
+        "correctnessClaim": "A alternativa B está correta.",
+        "strategy": "Analisar o texto sobre sistemas agroflorestais e relacionar o processo gradual de mudanças na estrutura e composição das comunidades vegetais com os conceitos ecológicos apresentados nas alternativas.",
+        "steps": [
+          "Identificar no texto que há mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo.",
+          "Reconhecer que esse processo gradual culmina no aumento da diversidade do ambiente.",
+          "Relacionar esse conceito com o processo natural conhecido, entre as opções dadas.",
+          "Descartar alternativas que não se ajustem à descrição gradual e temporal do texto (como rotação de culturas, coevolução específica, adaptação por seleção e convergência adaptativa).",
+          "Confirmar que a sucessão ecológica é o processo natural que descreve a mudança gradual e temporal na composição das comunidades vegetais, levando a um aumento da diversidade.",
+          "Concluir que a resposta correta é a alternativa B, sucessão ecológica."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Texto da imagem do enunciado que descreve as mudanças graduais na composição das comunidades vegetais e o aumento da diversidade."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O texto descreve um processo natural de mudanças graduais na estrutura e composição das comunidades vegetais, que é característico da sucessão ecológica, um fenômeno em que a vegetação evolui ao longo do tempo, aumentando a diversidade do ambiente.",
+        "stepByStep": [
+          "Leia o texto atentamente e identifique que há mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo.",
+          "Observe que o processo culmina no aumento da diversidade do ambiente.",
+          "Pense em qual processo natural apresenta essas características de mudança gradual e aumento da diversidade.",
+          "Analise as opções e descarte aquelas que não se referem a processos naturais graduais (rotação de culturas, coevolução específica, adaptação por seleção, convergência adaptativa).",
+          "Reconheça que a sucessão ecológica é o processo natural que explica essas mudanças graduais e aumento da diversidade em comunidades vegetais.",
+          "Conclua que a alternativa correta é a B, sucessão ecológica. "
+        ],
+        "commonPitfalls": [
+          "Confundir práticas agrícolas, como rotação de culturas, com processos naturais, como sucessão ecológica.",
+          "Associar a coevolução específica, que é um processo evolutivo entre espécies, com mudanças na composição da comunidade vegetal.",
+          "Interpretar adaptação por seleção, mecanismo genético, como mudança comunitária ecológica.",
+          "Confundir convergência adaptativa, que é evolução de características semelhantes em espécies diferentes, com mudanças ecológicas graduais."
+        ],
+        "teachingTips": [
+          "Explique claramente a diferença entre práticas agrícolas (como rotação de culturas) e processos ecológicos naturais (como sucessão ecológica).",
+          "Use exemplos práticos ou imagens de sucessão ecológica para ilustrar o conceito de mudança gradual na vegetação.",
+          "Estimule o aluno a identificar palavras-chave no texto que indicam processos graduais e aumentos da diversidade.",
+          "Mostre como eliminar alternativas incorretas com base no entendimento do processo natural descrito.",
+          "Reforce o conhecimento sobre os termos ecológicos presentes nas alternativas, destacando suas definições e aplicações."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Pode parecer correto porque envolve culturas agrícolas, mas rotação de culturas é uma prática agrícola, não um processo natural ecológico.",
+          "misconceptionType": "Confusão conceitual entre práticas agrícolas e processos ecológicos naturais.",
+          "whyItLooksPlausible": "O texto menciona culturas agrícolas anuais combinadas com árvores nativas, o que pode remeter à rotação de culturas.",
+          "whyItIsWrong": "Rotação de culturas envolve a alternância planejada de plantações para melhorar o solo, e não mudanças graduais naturais na composição vegetal."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pode parecer relacionado por envolver interações biológicas entre espécies, mas coevolução trata da evolução conjunta, não da mudança progressiva na comunidade vegetal.",
+          "misconceptionType": "Confusão entre interação evolutiva específica e sucessão ecológica.",
+          "whyItLooksPlausible": "O texto menciona espécies diferentes plantadas em tempo e espaço, o que pode sugerir interação entre espécies.",
+          "whyItIsWrong": "Coevolução específica diz respeito à influência evolutiva entre espécies, não necessariamente a mudanças graduais na comunidade e composição vegetais."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Adaptação por seleção pode ser confundida com o processo gradual descrito, já que envolve mudanças ao longo do tempo.",
+          "misconceptionType": "Confusão entre processo evolutivo genético e processo ecológico comunitário.",
+          "whyItLooksPlausible": "O conceito de mudança gradual é comum em seleção natural.",
+          "whyItIsWrong": "A adaptação por seleção refere-se a alterações genéticas nas populações, não a mudanças na composição de comunidades vegetais descritas no texto."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Convergência adaptativa pode ser pensada como similar a mudanças graduais em organismos para se ajustarem ao ambiente.",
+          "misconceptionType": "Confusão entre processos de evolução convergente e sucessão ecológica.",
+          "whyItLooksPlausible": "Pode parecer relacionado por envolver adaptação e mudanças ao longo do tempo.",
+          "whyItIsWrong": "Convergência adaptativa é a evolução independente de características semelhantes em espécies distintas, não a mudança comunitária gradual descrita no texto."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão e interpretação de texto científico",
+        "secondarySkills": [
+          "Conhecimento de conceitos ecológicos básicos",
+          "Raciocínio analítico"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige interpretar um texto científico e relacioná-lo a conceitos ecológicos.",
+          "Exige conhecimento específico sobre sucessão ecológica e diferenciação de processos biológicos.",
+          "Requer atenção para não confundir práticas agrícolas com processos naturais."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🌱",
+        "shortThemeTitle": "Sucessão ecológica e mudanças em comunidades vegetais",
+        "interpretationIntro": "A questão apresenta um texto que descreve um processo natural gradual de mudanças na composição e estrutura de comunidades vegetais, pedindo para identificar qual processo é referido.",
+        "commandTerms": [
+          {
+            "term": "Análogo",
+            "explanation": "Comparar um conjunto de mudanças graduais a um processo natural conhecido."
+          },
+          {
+            "term": "Processo natural",
+            "explanation": "Fenômeno que ocorre na natureza sem intervenção humana direta."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar qual processo natural é análogo às mudanças graduais citadas no texto sobre sistemas agroflorestais.",
+        "strategyParagraph": "Primeiro, interpretamos o texto para entender que há mudanças graduais e aumento da diversidade na vegetação. Em seguida, relacionamos isso a conceitos ecológicos para escolher a alternativa que descreve esse fenômeno natural, descartando termos que não se encaixam na característica gradual e comunitária apresentada.",
+        "reviewTable": [
+          {
+            "concept": "Sucessão Ecológica",
+            "keyIdea": "Mudanças graduais na composição e estrutura das comunidades vegetais ao longo do tempo.",
+            "application": "O texto descreve mudanças graduais que culminam em aumento da diversidade ambiental, caracterizando a sucessão ecológica."
+          },
+          {
+            "concept": "Rotação de Culturas",
+            "keyIdea": "Alternância planejada de culturas agrícolas para melhorar o solo e produtividade.",
+            "application": "Embora citado, não é um processo natural, mas uma prática agrícola."
+          },
+          {
+            "concept": "Coevolução Específica",
+            "keyIdea": "Evolução conjunta entre espécies por interação biológica direta.",
+            "application": "Não corresponde à descrição de mudança na composição de comunidades vegetais ao longo do tempo."
+          },
+          {
+            "concept": "Adaptação por Seleção",
+            "keyIdea": "Mudança genética em populações ao longo do tempo por seleção natural.",
+            "application": "Envolve genética, não mudanças ecológicas de comunidades vegetais conforme o texto."
+          }
+        ],
+        "theoryParagraphs": [
+          "A sucessão ecológica é um processo natural pelo qual comunidades biológicas mudam sua composição e estrutura gradualmente ao longo do tempo, geralmente aumentando a diversidade e a complexidade do ecossistema. Esse fenômeno ocorre, por exemplo, em áreas degradadas que são recuperadas, onde a vegetação pioneira é gradualmente substituída por estágios mais maduros da comunidade vegetal.",
+          "É importante distinguir sucessão ecológica de outras práticas ou processos biológicos: a rotação de culturas é uma técnica agrícola; a coevolução envolve a evolução interdependente entre espécies; a adaptação por seleção refere-se a mudanças genéticas em populações; e a convergência adaptativa descreve a evolução independente de características semelhantes em espécies distintas."
+        ],
+        "resolutionParagraphs": [
+          "Ao ler o texto sobre sistemas agroflorestais, identificamos que ele relata a introdução progressiva de espécies e mudanças graduais na composição vegetal, culminando em maior diversidade no ambiente.",
+          "Reconhecemos que este processo é clássico da sucessão ecológica, que explica a recuperação e transformação natural da vegetação após perturbações.",
+          "As outras alternativas, como rotação de culturas, coevolução específica, adaptação por seleção e convergência adaptativa, não descrevem esse tipo de mudança gradual e comunitária, sendo descartadas.",
+          "Portanto, a alternativa B é a correta, pois descreve precisamente o fenômeno natural análogo às mudanças mencionadas no texto."
+        ],
+        "puloDoGato": "Para provas, lembre que sucessão ecológica é o termo-chave para processos naturais de recuperação e aumento gradual da diversidade em comunidades vegetais.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Rotação de culturas é uma prática agrícola planejada para manejo do solo, não um processo natural de mudanças na vegetação descrito no texto."
+          },
+          {
+            "option": "B",
+            "isCorrect": true,
+            "explanation": "Sucessão ecológica corresponde exatamente ao processo natural gradual de mudanças na composição e estrutura das comunidades vegetais culminando em maior diversidade, conforme descrito no texto."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Coevolução específica trata da evolução conjunta entre espécies, não da mudança progressiva e comunitária na composição da vegetação."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Adaptação por seleção refere-se a mudanças genéticas em populações, não a mudanças na estrutura e composição comunitária descritas no enunciado."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Convergência adaptativa é evolução independente de características semelhantes, não a mudança gradual da comunidade vegetal mencionada."
+          }
+        ],
+        "questionCode": "CN_SUCESSAO_ECOLOGICA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e consistentes entre si. A resolução está clara, didática e alinhada com o conteúdo da questão, sem desvios conceituais ou erros.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3072,
+    "outputTokens": 2259,
+    "estimatedCostUsd": 0.004843
+  }
+}

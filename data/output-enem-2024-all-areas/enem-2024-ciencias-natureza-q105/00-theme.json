@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:55:22.870Z",
+  "questionId": "enem-2024-ciencias-natureza-q105",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão trata de vírus que afetam o sistema imune humano, pedindo ao estudante que relacione o HTLV-1 com possíveis consequências para a saúde, exigindo conhecimento sobre os efeitos fisiopatológicos desses agentes infecciosos e sua implicação em doenças (neste caso, câncer). Isso está diretamente relacionado ao subtema 'Fisiologia e saúde' dentro da Biologia.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1196,
+    "outputTokens": 116,
+    "estimatedCostUsd": 0.00332
+  }
+}

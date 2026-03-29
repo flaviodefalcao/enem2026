@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:37:29.219Z",
+  "questionId": "enem-2024-ciencias-natureza-q132",
+  "payload": {
+    "theme": "Biologia",
+    "subtheme": "Fisiologia e saúde",
+    "rationale": "A questão aborda a diferença entre fibras musculares (lentas e rápidas) e sua relação com o desempenho físico, o que está diretamente ligado à fisiologia muscular e ao funcionamento do corpo humano em atividades físicas, dentro do tema Biologia em Fisiologia e saúde.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 3151,
+    "outputTokens": 77,
+    "estimatedCostUsd": 0.001384
+  }
+}

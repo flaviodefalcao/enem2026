@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:25:41.682Z",
+  "questionId": "enem-2024-ciencias-natureza-q093",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O som alto e estridente emitido pelos anfíbios Eleutherodactylus jahnstonei serve para atrair fêmeas durante o período de acasalamento. Esse canto é uma forma de comunicação típica dos anuros para garantir a reprodução da espécie.",
+      "stepByStep": [
+        "Leia com atenção o enunciado para entender o contexto: um som alto e constante causado por anfíbios.",
+        "Reconheça que os anuros, como sapos e rãs, usam sons para comunicar principalmente durante o acasalamento.",
+        "Analise as alternativas, identificando qual delas apresenta a função típica do canto desses animais.",
+        "Descartar opções que relacionam o som a comportamento de estresse, alertas ambientais, superpopulação ou caça, pois não são funções típicas do canto dos anuros.",
+        "Conclua que a alternativa correta é aquela que associa o som à atração de fêmeas para reprodução."
+      ],
+      "commonPitfalls": [
+        "Interpretar o som como sinal de estresse ou desconforto dos animais por estarem fora do habitat original.",
+        "Achar que o som serve para alertar sobre poluição ou perigo no ambiente.",
+        "Pensar que o canto indica superpopulação ou competição entre os animais.",
+        "Supor que o som é emitido para atrair presas, facilitando a alimentação."
+      ],
+      "teachingTips": [
+        "Explique que muitos animais usam sons para comunicação, principalmente para atrair parceiros na reprodução.",
+        "Use exemplos comuns de sapos e rãs que coaxam para ajudar os alunos a relacionar o comportamento com a função biológica.",
+        "Incentive os alunos a interpretar o enunciado e relacionar com conceitos básicos de ecologia e comportamento animal.",
+        "Alerta para a importância de descartar alternativas aparentemente plausíveis, mas que não se encaixam no comportamento típico estudado.",
+        "Estimule a leitura cuidadosa do texto para identificar informações relevantes que levam à resposta correta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1443,
+    "outputTokens": 393,
+    "estimatedCostUsd": 0.001206
+  }
+}

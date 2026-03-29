@@ -1,0 +1,188 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:25:46.236Z",
+  "questionId": "enem-2024-ciencias-natureza-q122",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A resposta E está correta porque a etapa 5 do esquema representa a oxidação do carbono orgânico decomposto em CO2 pelos procariontes decompositores, processo redox similar à oxidação realizada pelos procariontes nitrificantes.",
+        "strategy": "Analisou-se o esquema para identificar as etapas dos ciclos do nitrogênio e do carbono mediadas por procariontes, focando nas transformações redox semelhantes às da nitrificação (oxidação de NH3).",
+        "steps": [
+          "Identificou que os procariontes nitrificantes realizam oxidação de amônia em nitrito e nitrato no ciclo do nitrogênio.",
+          "Reconheceu que a etapa 2 corresponde à desnitrificação, que é uma reação redox de natureza diferente (redução).",
+          "No ciclo do carbono, verificou que a etapa 5 representa procariontes decompositores que oxidam compostos orgânicos de volta em CO2, outro processo redox de oxidação.",
+          "Comparou essas transformações para concluir que a etapa 5 é a que mais se assemelha à reação redox dos nitrificantes, ambas oxidações.",
+          "Concluiu que a alternativa E (etapa 5) está correta para o enunciado."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Imagem do enunciado 1",
+          "Imagem do enunciado 2"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "A etapa 5 do esquema mostra procariontes decompositores oxidando carbono fixado em CO2, uma transformação redox de oxidação semelhante à realizada pelos procariontes nitrificantes no ciclo do nitrogênio.",
+        "stepByStep": [
+          "Identifique os ciclos do nitrogênio (etapas 1 e 2) e do carbono (etapas 3, 4 e 5) no esquema.",
+          "Entenda que procariontes nitrificantes oxidam NH3 em NO2- e NO3-, caracterizando uma reação redox de oxidação.",
+          "Note que a desnitrificação (etapa 2) é uma redução e difere da nitrificação.",
+          "Observe que a etapa 5 envolve oxidação do carbono orgânico em CO2 pelos procariontes decompositores, outro processo redox de oxidação.",
+          "Associe a transformação da etapa 5 à pedida da questão, pois ambas são oxidações similares."
+        ],
+        "commonPitfalls": [
+          "Confundir fixação de nitrogênio (etapa 1) com nitrificação, pois a fixação não é uma reação redox de oxidação semelhante.",
+          "Confundir desnitrificação (etapa 2), que é uma reação de redução, com nitrificação.",
+          "Pensar que fixação de CO2 por procariontes fotossintetizantes (etapa 3) é um processo redox similar à nitrificação, quando não é.",
+          "Atribuir processos fisiológicos das plantas (etapa 4) a transformações redox procariontes, o que é incorreto."
+        ],
+        "teachingTips": [
+          "Explique o conceito de reações redox e sua presença nos ciclos biogeoquímicos.",
+          "Utilize o esquema para evidenciar os papéis dos diferentes grupos procariontes nos ciclos do nitrogênio e do carbono.",
+          "Destaque a diferença entre oxidação e redução para compreender as transformações químicas envolvidas.",
+          "Reforce o vínculo entre transformação química e metabolismo microbiano para clarificar processos semelhantes.",
+          "Estimule leitura atenta do enunciado e análise crítica do esquema para evitar confusões entre processos diferentes."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Confunde fixação de nitrogênio (N2 em NH3) com a transformação redox da nitrificação.",
+          "misconceptionType": "Confusão entre diferentes tipos de metabolismo procarionte.",
+          "whyItLooksPlausible": "Está ligada ao ciclo do nitrogênio e envolve conversão química de nitrogênio.",
+          "whyItIsWrong": "Fixação de nitrogênio não é uma reação redox de oxidação como a nitrificação."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Confunde a desnitrificação (redução de nitratos em N2) com a nitrificação.",
+          "misconceptionType": "Erro ao identificar tipo específico de reação redox.",
+          "whyItLooksPlausible": "É uma reação redox no ciclo do nitrogênio.",
+          "whyItIsWrong": "Nitrificação é oxidação e desnitrificação é redução; a questão pede transformação similar à nitrificação."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Confunde fixação de CO2 por procariontes fotossintetizantes com transformação redox da nitrificação.",
+          "misconceptionType": "Confusão entre fixação de carbono e reações redox de oxidação nitrificante.",
+          "whyItLooksPlausible": "Relaciona-se ao metabolismo procarionte envolvendo CO2.",
+          "whyItIsWrong": "Fixação de CO2 não é transformação redox de oxidação semelhante à nitrificação."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Associa processos vegetais com transformações redox procariontes.",
+          "misconceptionType": "Confusão entre metabolismo vegetal e metabolismo procarionte redox.",
+          "whyItLooksPlausible": "Envolve alteração química de CO2 no ciclo do carbono.",
+          "whyItIsWrong": "Plantas não realizam a transformação redox de oxidação procarionte requeridas."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão dos ciclos biogeoquímicos",
+        "secondarySkills": [
+          "Conhecimento de metabolismo procarionte",
+          "Identificação de processos químicos (transformações redox)",
+          "Interpretação de esquemas biológicos"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Necessário compreender os papéis dos procariontes nos ciclos do nitrogênio e carbono.",
+          "Exige diferenciar tipos específicos de reações redox no metabolismo.",
+          "O esquema é fundamental para associar as etapas numeradas aos processos."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Metabolismo Procarionte nos Ciclos Biogeoquímicos",
+        "interpretationIntro": "O enunciado pede que se identifique, dentre as etapas numeradas do esquema, aquela que apresenta uma transformação redox semelhante à realizada pelos procariontes nitrificantes.",
+        "commandTerms": [
+          {
+            "term": "Transformação redox",
+            "explanation": "Reação química envolvendo ganho ou perda de elétrons, essencial para o metabolismo procarionte."
+          },
+          {
+            "term": "Nitrificação",
+            "explanation": "Processo em que procariontes oxidam amônia para nitrito e nitrato no ciclo do nitrogênio."
+          },
+          {
+            "term": "Decompositores",
+            "explanation": "Procariontes que oxidam matéria orgânica para CO2 no ciclo do carbono."
+          }
+        ],
+        "whatTheQuestionAsks": "Identificar a etapa numerada onde ocorre uma transformação redox semelhante àquela feita pelos procariontes nitrificantes, ou seja, uma oxidação química mediada por bactérias procariontes.",
+        "strategyParagraph": "Para responder, é necessário analisar o esquema dos ciclos do nitrogênio e do carbono, reconhecendo os processos bioquímicos mediadores dos procariontes, especialmente as reações redox de oxidação da amônia na nitrificação, e comparar com outras etapas que também envolvem oxidação, para encontrar aquela mais similar à ação dos nitrificantes.",
+        "reviewTable": [
+          {
+            "concept": "Nitrificação",
+            "keyIdea": "Oxidação de amônia em nitrito e nitrato por procariontes nitrificantes.",
+            "application": "Explica a transformação redox do ciclo do nitrogênio na etapa ligada a esse processo."
+          },
+          {
+            "concept": "Desnitrificação",
+            "keyIdea": "Redução de nitratos em nitrogênio gasoso por procariontes desnitrificantes.",
+            "application": "Diferencia processo redox da nitrificação (redução vs oxidação)."
+          },
+          {
+            "concept": "Decomposição no ciclo do carbono",
+            "keyIdea": "Oxidação do carbono orgânico em CO2 por procariontes decompositores.",
+            "application": "Correspondente redox similar ao da nitrificação, representada na etapa 5."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os ciclos biogeoquímicos do nitrogênio e do carbono contam com a ação fundamental de procariontes que promovem transformações químicas vitais à manutenção dos ecossistemas.",
+          "No ciclo do nitrogênio, procariontes nitrificantes realizam reações de oxidação, convertendo amônia em nitrito e nitrato, processos que envolvem ganho e perda de elétrons (reações redox).",
+          "No ciclo do carbono, procariontes decompositores oxidam a matéria orgânica retornando CO2 à atmosfera, processo redox de oxidação semelhante à nitrificação, embora em um ciclo diferente."
+        ],
+        "resolutionParagraphs": [
+          "Observando o esquema, identificam-se as etapas 1 e 2 no ciclo do nitrogênio, representando respectivamente a fixação e a desnitrificação, que não são transformações redox semelhantes à nitrificação.",
+          "A etapa 3 mostra os procariontes fotossintetizantes fixando CO2, processo que não se caracteriza como reação redox semelhante à nitrificação.",
+          "A etapa 4 representa a fixação de CO2 pelas plantas, que não são procariontes e não realizam transformação redox semelhante à nitrificação.",
+          "Finalmente, a etapa 5 demonstra a atividade dos procariontes decompositores oxidando carbono fixado em CO2, uma transformação redox de oxidação semelhante à realizada pelos procariontes nitrificantes, sendo esta a etapa correta para responder à questão."
+        ],
+        "puloDoGato": "Para identificar transformações redox semelhantes, foque no tipo de reação (oxidação ou redução) e no metabolismo específico dos procariontes envolvidos.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Representa a fixação de nitrogênio (N2 em NH3), que não é uma reação redox de oxidação como a nitrificação."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Refere-se à desnitrificação (redução de nitratos em N2), que é um processo redox, mas de redução, diferente da oxidação nitrificante."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Mostra a fixação de CO2 por procariontes fotossintetizantes, sem a transformação redox de oxidação pedida."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Incorpora a fixação de CO2 pelas plantas, que não são procariontes e não realizam esse tipo de transformação redox."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Corresponde à oxidação do carbono fixado em CO2 por procariontes decompositores, transformação redox similar à realizada pelos nitrificantes."
+          }
+        ],
+        "questionCode": "CN_CIENCIA_VIDA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Os enunciado, solvers e explicação didática estão coerentes entre si, a resposta correta está bem fundamentada, e a resolução oficial está clara e didaticamente estruturada.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 4612,
+    "outputTokens": 2370,
+    "estimatedCostUsd": 0.005637
+  }
+}

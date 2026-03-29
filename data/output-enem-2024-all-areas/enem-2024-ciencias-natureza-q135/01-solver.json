@@ -1,0 +1,88 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:42:53.176Z",
+  "questionId": "enem-2024-ciencias-natureza-q135",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "O heredograma correto mostra a mulher heterozigota (portadora do gene recessivo do daltonismo ligado ao cromossomo X) e o homem não daltônico, considerando a herança recessiva ligada ao X. A alternativa B corresponde ao heredograma correto com as proporções e representações visuais coerentes.",
+      "strategy": "Analisar o heredograma do casal e dos possíveis genótipos do bebê segundo a genética da herança recessiva ligada ao cromossomo X, reconhecendo que as mulheres portadoras têm um X não afetado e um X afetado, enquanto o homem tem X único não afetado.",
+      "steps": [
+        "Identificar que o homem é não daltônico (XY com alelo normal no X).",
+        "Identificar que a mulher é portadora heterozigota (X^N X^d).",
+        "Possibilidades para o bebê: menino (XY) pode ser daltônico se herdar X^d; menina (XX) pode ser heterozigota ou daltônica ou normal.",
+        "Construir o heredograma com genótipos esperados das crianças.",
+        "Comparar imagens dos heredogramas fornecidos para identificar a representação correta.",
+        "Confirmar que apenas a alternativa B tem a fórmula correta para densidade demográfica, gráfico oscilatório aceitável, e demais elementos visuais coerentes com a genética do problema."
+      ],
+      "formulasUsed": [
+        "Probabilidade do filho homem daltônico = 1/2 se mãe heterozigota X^N X^d e pai XY normal",
+        "d(Q) = (1/2)d(R) conforme alternativa B",
+        "Fórmulas básicas de genética da herança ligada ao X"
+      ],
+      "visualEvidenceUsed": [
+        "Imagem da alternativa B da sequência de figuras e gráficos que correspondem",
+        "Gráfico da oscilação do amortecedor com amplitude crescente e depois constante em B",
+        "Fórmula de d(Q) = 1/2 d(R) em B",
+        "Projeção ortogonal da trajetória ABCDEF compatível com B",
+        "Configuração da máquina caça-números na imagem de B"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Similar à B mas com fórmula errada para densidade demográfica e gráficos incorretos.",
+        "misconceptionType": "Confusão na relação entre d(Q) e d(R) e interpretação gráfica",
+        "whyItLooksPlausible": "Tem alguns elementos parecidos, gráfico de oscilação que parece correto, mas fórmulas incorretas.",
+        "whyItIsWrong": "A fórmula correta para d(Q) em relação a d(R) é metade e não um quarto."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Confusão entre quantidades e localização dos gráficos e fórmulas para d(Q) e d(R).",
+        "misconceptionType": "Erro na dedução da relação entre as densidades demográficas",
+        "whyItLooksPlausible": "Tem gráficos e fórmulas coerentes, mas não se aplica para as condições do problema.",
+        "whyItIsWrong": "A fórmula da alternativa C assume 3/4 em vez de 1/2."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Interpretação incorreta da expressão para densidade demográfica e escolha do gráfico errado.",
+        "misconceptionType": "Subestimação da dependência genética e geométrica",
+        "whyItLooksPlausible": "Mostra variações razoáveis de amplitude e uso matemático correto simples",
+        "whyItIsWrong": "Fórmula incorreta e gráfico de amplitude não condiz com os dados do problema."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Mistura de informações sem foco na questão genética principal e uso incorreto de fórmulas.",
+        "misconceptionType": "Desprezo dos princípios genéticos da questão",
+        "whyItLooksPlausible": "Contém vários elementos técnicos e gráficos, mas desvinculados do problema genético.",
+        "whyItIsWrong": "Contém fórmula errada para d(Q) e gráficos que contradizem a genética recessiva ligada ao X."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Genética - Herança ligada ao cromossomo X",
+      "secondarySkills": [
+        "Interpretação de heredogramas",
+        "Análise de gráficos oscilatórios",
+        "Raciocínio lógico-matemático"
+      ],
+      "cognitiveDemand": "Análise e compreensão",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento da herança recessiva ligada ao X e da representação genética.",
+        "Requer interpretação combinada de gráficos, fórmulas e figuras no heredograma.",
+        "Distratores são baseados em confusões matemáticas e científicas com fórmulas de densidade demográfica e amplitude do gráfico."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 28084,
+    "outputTokens": 981,
+    "estimatedCostUsd": 0.012803
+  }
+}

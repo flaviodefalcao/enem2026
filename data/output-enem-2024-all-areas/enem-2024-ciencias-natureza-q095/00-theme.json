@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:28:34.441Z",
+  "questionId": "enem-2024-ciencias-natureza-q095",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Termologia e termodinâmica",
+    "rationale": "A questão aborda aspectos de temperatura, estado físico da água e mudança de fase no interior do iglu, que estão relacionados aos conceitos de termologia e termodinâmica, como a relação entre temperatura ambiente e ponto de solidificação da água, e a transferência de calor.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1525,
+    "outputTokens": 78,
+    "estimatedCostUsd": 0.000735
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q130",
+  "generatedAt": "2026-03-28T22:35:45.524Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 561,
+      "outputTokens": 867,
+      "estimatedCostUsd": 0.001612
+    },
+    "explainer": {
+      "inputTokens": 1332,
+      "outputTokens": 388,
+      "estimatedCostUsd": 0.001154
+    },
+    "reviewer": {
+      "inputTokens": 2645,
+      "outputTokens": 2282,
+      "estimatedCostUsd": 0.004709
+    },
+    "totalEstimatedCostUsd": 0.007475
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A resposta correta é a alternativa E, Estômago.",
+      "strategy": "Analisar o processo químico descrito no enunciado e identificar o órgão onde o ácido clorídrico está presente para iniciar a reação que forma os compostos nitrosos mutagênicos.",
+      "steps": [
+        "Identificar que a reação entre nitrito de sódio e ácido clorídrico gera ácido nitroso, que reage com aminas formando compostos nitrosos.",
+        "Reconhecer que o ácido clorídrico é encontrado em alta concentração no suco gástrico, ou seja, no estômago.",
+        "Verificar que o processo de formação dos compostos mutagênicos ocorre no órgão onde o ácido clorídrico está disponível para reagir com o nitrito de sódio.",
+        "Concluir que o estômago é o órgão onde o processo inicia, pois o ácido clorídrico é secretado lá."
+      ],
+      "formulasUsed": [
+        "NO2- (nitrito de sódio) + HCl (ácido clorídrico) → HNO2 (ácido nitroso)",
+        "HNO2 + aminas → compostos nitrosos mutagênicos"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "A formação dos compostos nitrosos mutagênicos ocorre no estômago, pois é nele que o ácido clorídrico, necessário para a reação com o nitrito de sódio, está presente.",
+      "stepByStep": [
+        "Entenda que nitrito de sódio reage com ácido clorídrico para formar ácido nitroso.",
+        "Saiba que o ácido clorídrico é um componente principal do suco gástrico no estômago.",
+        "Reconheça que o ácido nitroso reage com compostos nitrogenados (aminas) para formar compostos nitrosos.",
+        "Conclua que o local onde essa reação inicial ocorre é no estômago, por causa da presença do ácido clorídrico.",
+        "Assim, o processo de formação de substâncias mutagênicas começa no estômago."
+      ],
+      "commonPitfalls": [
+        "Confundir o estômago com órgãos responsáveis por funções de filtragem, como o rim.",
+        "Pensar que o fígado, como órgão de metabolismo, é o local da reação inicial.",
+        "Associar erroneamente o intestino à formação dos compostos nitrosos, quando na verdade essa reação ocorre antes daquela etapa.",
+        "Assumir que o pâncreas participa da reação química envolvendo nitrito de sódio e ácido clorídrico, o que não ocorre."
+      ],
+      "teachingTips": [
+        "Enfatize a função do ácido clorídrico no estômago e seu papel nas reações químicas do sistema digestório.",
+        "Utilize esquemas do trato digestivo para localizar onde os sucos gástricos são produzidos e suas características.",
+        "Explique a diferença entre funções dos órgãos para evitar a confusão sobre onde processos químicos específicos acontecem.",
+        "Apresente as reações químicas envolvidas de forma simplificada e conecte-as com o ambiente fisiológico do estômago."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar a função de filtrar sangue e eliminar substâncias tóxicas ao rim, supondo que o processo ocorra ali.",
+        "misconceptionType": "Confusão funcional dos órgãos",
+        "whyItLooksPlausible": "Rim é um órgão relacionado à filtragem e excreção, podendo parecer um local de reações químicas para eliminar toxinas.",
+        "whyItIsWrong": "O processo específico de reação entre ácido clorídrico e nitrito para formar compostos nitrosos ocorre no estômago, que secreta ácido clorídrico, não nos rins."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir a função metabólica do fígado com o local inicial da reação química.",
+        "misconceptionType": "Confusão entre metabolismo e local de reação química",
+        "whyItLooksPlausible": "Fígado é o órgão principal do metabolismo e detoxificação, parecendo um local possível para transformação química de substâncias.",
+        "whyItIsWrong": "A reação que gera compostos nitrosos acontece antes do metabolismo hepático, no estômago, onde o ácido clorídrico está presente."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar a digestão química ao intestino, pensando que as reações complexas de substâncias ocorrem ali.",
+        "misconceptionType": "Confusão da sequência do trato digestório",
+        "whyItLooksPlausible": "Intestino é importante na absorção e digestão, sugerindo que processos químicos possam ocorrer ali.",
+        "whyItIsWrong": "O ácido clorídrico está no estômago, não no intestino, e a reação descrita ocorre antes da passagem ao intestino."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Vincular o pâncreas ao processo digestivo pela secreção de enzimas, pensando que ali ocorre a reação química.",
+        "misconceptionType": "Confusão sobre secreções pancreáticas",
+        "whyItLooksPlausible": "Pâncreas produz sucos digestivos essenciais, pode parecer o local da reação.",
+        "whyItIsWrong": "O pâncreas não secreta ácido clorídrico, e a reação química inicial com nitrito e ácido clorídrico ocorre no estômago."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento de Bioquímica e Fisiologia Humana",
+      "secondarySkills": [
+        "Química Orgânica",
+        "Processos do Trato Digestório"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão avalia o conhecimento sobre a localização e função do ácido clorídrico no aparelho digestivo.",
+        "Exige a compreensão das reações químicas que podem ocorrer no ambiente ácido do estômago.",
+        "Não são necessárias imagens adicionais para resolver a questão."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧬",
+      "shortThemeTitle": "Reações químicas no trato digestório",
+      "interpretationIntro": "A questão solicita identificar em qual órgão do corpo humano inicia-se a reação química entre nitrito de sódio e ácido clorídrico, levando à formação de compostos nitrosos mutagênicos.",
+      "commandTerms": [
+        {
+          "term": "Mutagênicas",
+          "explanation": "Substâncias capazes de causar alterações no material genético das células."
+        },
+        {
+          "term": "Reação química",
+          "explanation": "Transformação química entre substâncias que gera novos compostos."
+        }
+      ],
+      "whatTheQuestionAsks": "Determinar o órgão em que o processo químico descrito no enunciado, envolvendo ácido clorídrico e nitrito de sódio, se inicia.",
+      "strategyParagraph": "Para resolver essa questão, é necessário relacionar o ambiente químico descrito no enunciado com a anatomia e fisiologia humana, identificando qual órgão do sistema digestório possui ácido clorídrico em sua composição para que a reação química ocorra. A partir disso, deduz-se o local inicial da formação dos compostos nitrosos mutagênicos.",
+      "reviewTable": [
+        {
+          "concept": "Ácido clorídrico",
+          "keyIdea": "Presente no suco gástrico do estômago",
+          "application": "Onde ocorre a reação com nitrito de sódio para formar ácido nitroso"
+        },
+        {
+          "concept": "Compostos nitrosos mutagênicos",
+          "keyIdea": "Formados pela reação do ácido nitroso com aminas",
+          "application": "Produzidos inicialmente no estômago"
+        },
+        {
+          "concept": "Função dos órgãos digestórios",
+          "keyIdea": "Cada órgão tem funções específicas",
+          "application": "Estômago é responsável pelas secreções ácidas necessárias para a reação"
+        }
+      ],
+      "theoryParagraphs": [
+        "O estômago é o órgão do sistema digestório responsável por secretar o suco gástrico, que contém ácido clorídrico em alta concentração. Esse ambiente ácido permite diversas reações químicas, inclusive a transformação de nitrito de sódio em ácido nitroso.",
+        "O ácido nitroso, formado no estômago, pode reagir com compostos nitrogenados, como aminas presentes nas carnes processadas, formando compostos nitrosos que têm potencial mutagênico, podendo causar mutações e câncer.",
+        "Outros órgãos do sistema digestório, como fígado, rins, intestino e pâncreas, não produzem ácido clorídrico e, portanto, não são o local de início da formação desses compostos químicos."
+      ],
+      "resolutionParagraphs": [
+        "O enunciado explica que nitrito de sódio reage com ácido clorídrico para gerar ácido nitroso, o qual reage com aminas para formar compostos nitrosos mutagênicos.",
+        "Sabemos que ácido clorídrico está presente no suco gástrico produzido pelo estômago. Nenhum outro órgão citado produz essa substância que é essencial para a reação inicial.",
+        "Assim, o processo químico mencionado ocorre primeiramente no estômago, onde o ambiente ácido favorece a formação do ácido nitroso e dos compostos mutagênicos.",
+        "Portanto, a alternativa correta é a letra E, que indica o estômago como o órgão onde o processo se inicia."
+      ],
+      "puloDoGato": "Lembre-se que ácido clorídrico só é secretado no estômago; a reação química depende desse ambiente ácido para começar.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": false,
+          "explanation": "Rim é responsável pela filtragem e excreção de substâncias, mas não produz ácido clorídrico; portanto, não é o local da reação química inicial."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Fígado atua no metabolismo e desintoxicação, mas não produz ácido clorídrico nem é onde essa reação química se inicia."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Intestino absorve nutrientes, mas não possui ácido clorídrico, interrompendo a possibilidade da reação descrita ocorrer nesse local."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Pâncreas produz enzimas digestivas e bicarbonato, mas não ácido clorídrico, logo não é local dessa reação."
+        },
+        {
+          "option": "E",
+          "isCorrect": true,
+          "explanation": "Estômago produz suco gástrico contendo ácido clorídrico, possibilitando a reação com nitrito de sódio e iniciando a formação dos compostos nitrosos mutagênicos."
+        }
+      ],
+      "questionCode": "CIENCIAS_NATUREZA_BIOQUIMICA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a resolução técnica e a explicação didática estão coerentes entre si. A resposta correta está adequadamente justificada e as alternativas incorretas são bem comentadas em termos de possíveis equívocos.",
+      "issues": []
+    }
+  }
+}

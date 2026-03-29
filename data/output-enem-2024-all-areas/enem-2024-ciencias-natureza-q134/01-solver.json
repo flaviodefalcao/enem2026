@@ -1,0 +1,74 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:40:45.331Z",
+  "questionId": "enem-2024-ciencias-natureza-q134",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque o exoesqueleto rígido dos crustáceos não cresce com o animal, o que faz necessário que eles realizem mudas periódicas para substituir o exoesqueleto e permitir seu crescimento.",
+      "strategy": "Primeiro, analisa-se o problema do crescimento limitado por um exoesqueleto duro e a solução biológica para isso. Em seguida, avalia-se cada alternativa segundo o funcionamento biológico conhecido dos crustáceos.",
+      "steps": [
+        "Identificar que o exoesqueleto é duro e limita o crescimento dos crustáceos.",
+        "Saber que os crustáceos crescem substituindo seu exoesqueleto por meio de mudas (ecdise).",
+        "Avaliar as alternativas e eliminar as que não explicam esse mecanismo corretamente.",
+        "Concluir que a alternativa D, que fala em substituição periódica do exoesqueleto por meio de mudas, é correta."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Pode parecer que a formação do exoesqueleto ocorre só na fase adulta devido à ideia de crescimento concluído.",
+        "misconceptionType": "Falsa associação temporal",
+        "whyItLooksPlausible": "A formação do exoesqueleto está associada ao corpo do animal adulto.",
+        "whyItIsWrong": "O exoesqueleto está presente em todas as fases e não é formado somente na fase adulta."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Pensar que o exoesqueleto pode fragmentar onde há articulações para permitir expansão.",
+        "misconceptionType": "Entendimento incorreto da estrutura rígida",
+        "whyItLooksPlausible": "Área de articulação geralmente é mais flexível.",
+        "whyItIsWrong": "O exoesqueleto não fragmenta para crescer, ele é rigidamente substituído para isso."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Supor que o exoesqueleto pode ser modelado continuamente para se ajustar ao crescimento.",
+        "misconceptionType": "Falha na compreensão da rigidez do exoesqueleto",
+        "whyItLooksPlausible": "Outros tecidos cresceriam com o corpo por modelagem contínua.",
+        "whyItIsWrong": "O exoesqueleto não cresce nem se ajusta; é necessário substituí-lo por meio de mudas."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Acreditar que pouca impregnação de sais calcários poderia permitir distensão e crescimento do exoesqueleto.",
+        "misconceptionType": "Falsa relação entre composição e elasticidade",
+        "whyItLooksPlausible": "Menos sais poderia significar mais flexibilidade.",
+        "whyItIsWrong": "A composição do exoesqueleto é fixa, e não há variação para permitir crescimento; é substituído."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de processos biológicos",
+      "secondarySkills": [
+        "Conhecimento da morfologia animal",
+        "Raciocínio lógico sobre mecanismos biológicos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Conhecimento prévio sobre moluscos e processos de muda são essenciais.",
+        "A questão avalia entendimento de adaptação biológica para crescimento em animais com exoesqueleto rígido."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 559,
+    "outputTokens": 687,
+    "estimatedCostUsd": 0.001323
+  }
+}

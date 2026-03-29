@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:37:39.978Z",
+  "questionId": "enem-2024-ciencias-natureza-q132",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B",
+      "correctnessClaim": "A alternativa B é a correta porque o salto em altura exige explosão muscular rápida e força, características das fibras musculares rápidas (fibras brancas). Essas fibras possuem menos mitocôndrias e menor suprimento sanguíneo, mas são especializadas em contrações rápidas e potentes, ideais para esforços curtos e intensos.",
+      "strategy": "Interpretar as características das fibras musculares lentas e rápidas, relacionando-as com o tipo de esforço físico exigido em cada modalidade esportiva mencionada nas alternativas.",
+      "steps": [
+        "Ler o enunciado que descreve as diferenças entre fibras lentas (vermelhas) e rápidas (brancas).",
+        "Identificar que as fibras rápidas têm poucas mitocôndrias, menor suprimento sanguíneo, e são adaptadas para esforços rápidos e potentes, porém de curta duração.",
+        "Analisar as modalidades esportivas e identificar quais exigem esforço explosivo e rápida contração muscular (ex: salto em altura).",
+        "Concluir que modalidades de resistência, como maratona aquática, triatlo, ciclismo em estrada e marcha atlética, beneficiam mais das fibras lentas, com maior resistência e suprimento de oxigênio.",
+        "Selecionar a alternativa que melhor corresponde a um esporte que utiliza maior proporção de fibras rápidas, ou seja, salto em altura (alternativa B)."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem do enunciado contendo a descrição das fibras musculares e as alternativas das modalidades esportivas"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Assumir que o triatlo, por ser esporte intenso e variado, demanda mais fibras rápidas para desempenho superior.",
+        "misconceptionType": "Confusão entre tipo de esforço (resistência vs explosão).",
+        "whyItLooksPlausible": "Triatlo é uma competição atlética intensa que envolve corrida, natação e ciclismo, podendo parecer exigir força rápida.",
+        "whyItIsWrong": "Triatlo é uma prova de endurance que depende principalmente das fibras lentas para sustentar o esforço prolongado."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pensar que a marcha atlética, sendo uma atividade rápida, requer fibras musculares rápidas.",
+        "misconceptionType": "Generalização incorreta da velocidade de movimento com tipo de fibra.",
+        "whyItLooksPlausible": "Marcha atlética é uma modalidade rápida e pode ser confundida com esforço explosivo.",
+        "whyItIsWrong": "Embora rápida, a marcha atlética é uma prova de resistência, beneficiando das fibras lentas."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Supor que maratona aquática, sendo um esforço extenuante, requer fibras rápidas para potência momentânea.",
+        "misconceptionType": "Confusão entre esforço prolongado e força explosiva.",
+        "whyItLooksPlausible": "A maratona aquática é uma prova vigorosa e intensa, pode parecer exigir fibras rápidas.",
+        "whyItIsWrong": "Maratona aquática é prova de resistência, fatia das fibras lentas mais demandada."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Acreditar que ciclismo em estrada, sendo uma atividade rápida, utiliza fibras rápidas majoritariamente.",
+        "misconceptionType": "Subestimar a resistência necessária para provas longas.",
+        "whyItLooksPlausible": "Ciclismo pode envolver esprints e velocidades altas, sugerindo fibras rápidas.",
+        "whyItIsWrong": "Ciclismo em estrada é predominantemente uma atividade de resistência, favorecendo fibras lentas."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento em biologia celular e muscular",
+      "secondarySkills": [
+        "Interpretação de texto",
+        "Relação entre estrutura e função biológica"
+      ],
+      "cognitiveDemand": "Requer compreensão e aplicação de conceitos biológicos para associar características celulares ao desempenho esportivo",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige leitura atenta do texto sobre fibras musculares.",
+        "Requer conhecimento básico dos tipos de fibras musculares e suas funções no corpo humano.",
+        "É preciso relacionar aptidão física e estrutura celular muscular ao esporte indicado."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2941,
+    "outputTokens": 868,
+    "estimatedCostUsd": 0.002565
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:39:39.522Z",
+  "questionId": "enem-2024-ciencias-natureza-q133",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As falsas-corais se beneficiam da semelhança de coloração com as corais-verdadeiras porque essa aparência enganosa afasta predadores, que evitam atacar cobras que parecem venenosas. Esse fenômeno é chamado de mimetismo Batesiano.",
+      "stepByStep": [
+        "Identifique que as corais-verdadeiras têm veneno, enquanto as falsas-corais não possuem.",
+        "Observe que ambas têm padrões de cor muito parecidos, como mostrado nas imagens.",
+        "Reconheça que essa semelhança serve como uma estratégia de defesa para as falsas-corais.",
+        "Entenda o conceito de mimetismo Batesiano, onde uma espécie inofensiva imita uma venenosa para evitar ataques.",
+        "Conclua que a vantagem dessa semelhança para as falsas-corais é a redução do risco de serem comidas por predadores."
+      ],
+      "commonPitfalls": [
+        "Achar que a semelhança ajuda as falsas-corais a caçar melhor (não é o caso).",
+        "Confundir a coloração similar com redução de competição entre as espécies.",
+        "Pensar que espécies parecidas têm mais chances de cruzar (híbridos), o que não ocorre.",
+        "Interpretar a semelhança como um sinal para facilitar encontro entre parceiros reprodutivos, que são espécies diferentes."
+      ],
+      "teachingTips": [
+        "Use imagens reais para mostrar a semelhança entre as cobras e discutir a camuflagem versus mimetismo.",
+        "Explique claramente o conceito de mimetismo Batesiano usando exemplos de outras espécies.",
+        "Reforce a ideia de que o mimetismo protege espécies inofensivas da predação.",
+        "Trabalhe situações que envolvem diferentes tipos de mimetismo para diferenciar conceitos.",
+        "Promova a análise crítica das alternativas incorretas para melhorar o raciocínio dos alunos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2003,
+    "outputTokens": 380,
+    "estimatedCostUsd": 0.001409
+  }
+}

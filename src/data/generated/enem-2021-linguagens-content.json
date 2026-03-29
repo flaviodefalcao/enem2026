@@ -1,0 +1,2260 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2021/ENEM_2021_P1_CAD_01_DIA_1_AZUL.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      1,
+      45
+    ],
+    "year": 2021,
+    "areaLabel": "Linguagens",
+    "areaSlug": "linguagens"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 1,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 1 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        2
+      ],
+      "statement": "] ^ & ^ 8 8\n& _4 \" & 8 (8/8 8 4 ` & (\n_ _ 8\n^8 ( 4 b\n_ 8 4 $8 ( f _ &_\nh 8\n( & & _ 8 _ 4 $8 _ 8\n& 8 8 & _ 8 8 & _ &\n4 \" ( f ^ 8 ( ( ^ & _ (\n& _ 8 4 b 8 ( & _ 8 (\n8 8 _ ^ 8 f ^ 8/8 & _ 8 8 ( 8 ((\n^ ^ & ( 8 4 F f\n^ _ 8 & _ _ 8 8\n(8 f 8 4 \" & 8 8\n& & ( _4 b\n_ _ & 4 ] 8 ( ( ^8\n8 8 & _ 8 f 4 b ((\nj & ^8 8 f 8 8 8\n^8 ^ 4 $8 ^ ^ ( &_ & _\n& 8 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-1/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-1/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-1/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-1/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-1/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-1/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-1/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "] ^ & ^ 8 8\n& _4 \" & 8 (8/8 8 4 ` & (\n_ _ 8\n^8 ( 4 b\n_ 8 4 $8 ( f _ &_\nh 8\n( & & _ 8 _ 4 $8 _ 8\n& 8 8 & _ 8 8 & _ &\n4 \" ( f ^ 8 ( ( ^ & _ (\n& _ 8 4 b 8 ( & _ 8 (\n8 8 _ ^ 8 f ^ 8/8 & _ 8 8 ( 8 ((\n^ ^ & ( 8 4 F f\n^ _ 8 & _ _ 8 8\n(8 f 8 4 \" & 8 8\n& & ( _4 b\n_ _ & 4 ] 8 ( ( ^8\n8 8 & _ 8 f 4 b ((\nj & ^8 8 f 8 8 8\n^8 ^ 4 $8 ^ ^ ( &_ & _\n& 8 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 2,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 2 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "statement": "The British (serves 60 million)\n$ f ' \" F\n; 8\n$8 8 ^ 8 ) 4\n) 8 ) (( W _ _\n; > L 8\n; F W z 6 f 8 _4\n[…]\nF( f 8 b ~ _ `\nb ` 8 8 ^ 8\n; 8 F( 8 $ f 8 8 z (\nAnd Palestinians\n$8 8 ( 4\n! 8 4\n; 8 _ W & ^ 8 y 8\n` 8 8 ^ 8 = 84\n; ^ & 4\n; _ ( 8\nF ^ 8 H\n; H _4\n\nWarning:; ( H ^ 8\n( ( ( 4  H _ 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-2/statement-01.png",
+        "/generated/enem-2021/linguagens/question-2/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-2/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "k 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "( k 8 # 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "( & *+ 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "+  5 4 3\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ3*",
+          "assets": []
+        }
+      ],
+      "rawText": "The British (serves 60 million)\n$ f ' \" F\n; 8\n$8 8 ^ 8 ) 4\n) 8 ) (( W _ _\n; > L 8\n; F W z 6 f 8 _4\n[…]\nF( f 8 b ~ _ `\nb ` 8 8 ^ 8\n; 8 F( 8 $ f 8 8 z (\nAnd Palestinians\n$8 8 ( 4\n! 8 4\n; 8 _ W & ^ 8 y 8\n` 8 8 ^ 8 = 84\n; ^ & 4\n; _ ( 8\nF ^ 8 H\n; H _4\n\nWarning:; ( H ^ 8\n( ( ( 4  H _ 4\n\nA. k 4\nB. 4\nC. ( k 8 # 4\nD. ( & *+ 4\nE. +  5 4 3\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ3*"
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 3,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 3 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        3
+      ],
+      "statement": "Becoming\n\n< ( 5 ^^^4 _ 4 4 ; x k4 x  7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-3/statement-01.png",
+        "/generated/enem-2021/linguagens/question-3/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-3/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-3/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "* ( 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "5 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "& 8 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-3/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Becoming\n\n< ( 5 ^^^4 _ 4 4 ; x k4 x  7 ( 4\n\nA.\nB. * ( 4\nC. 5 4\nD. & 8 4\nE."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 4,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 4 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        3
+      ],
+      "statement": "Fb')=FF4 < ( 5 ^^^4 ^_ f 4 4 ; x H 4 x 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-4/statement-01.png",
+        "/generated/enem-2021/linguagens/question-4/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-4/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-4/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-4/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-4/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-4/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Fb')=FF4 < ( 5 ^^^4 ^_ f 4 4 ; x H 4 x 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 5,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 5 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "statement": "Exterior: Between The Museums — Day\n\"=!b>=\n; ^ _ 8 f = ( ( 4 ` 8\n& _ 8 _ & _ (( 4 b 8\n8 4 b H _ 8 _\nH ( f 8 _ ^8 ;\n_ f _ & f 8 _4 $8 j ^8_ b f\n! ; & \nz=FF=\nUgly?\n\"=!b>=\n> b ^ _  4 b j f f\n& f 4 b 8 f ( ( ( f 6\n8 8 _ f 8 _ 8/8 ^ ^ f 8 & 8 _j &\n& _ f 8 & 8 4 $8 j\n^8 ( ( (  ^8 ^8/8 ( ^ _ ( _ 4\n; 8 _ ( ^ & f ^8\n> ^ z _4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-5/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-5/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-5/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-5/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-5/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-5/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "LC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ4*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-5/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Exterior: Between The Museums — Day\n\"=!b>=\n; ^ _ 8 f = ( ( 4 ` 8\n& _ 8 _ & _ (( 4 b 8\n8 4 b H _ 8 _\nH ( f 8 _ ^8 ;\n_ f _ & f 8 _4 $8 j ^8_ b f\n! ; & \nz=FF=\nUgly?\n\"=!b>=\n> b ^ _  4 b j f f\n& f 4 b 8 f ( ( ( f 6\n8 8 _ f 8 _ 8/8 ^ ^ f 8 & 8 _j &\n& _ f 8 & 8 4 $8 j\n^8 ( ( (  ^8 ^8/8 ( ^ _ ( _ 4\n; 8 _ ( ^ & f ^8\n> ^ z _4\n\nA.\nB.\nC.\nD.\nE. LC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ4*"
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 6,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 6 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        6
+      ],
+      "statement": "Um asteroide de cerca de um mil metros de diâmetro,\nH x  ( 8 (\n  # \nTerra, pouco mais do dobro da distância que nos separa\n! 4 F\nk # & $ + (\n+ (*+ 4 F\ntivesse sido capturado pelo campo gravitacional do nosso\n( ( & 8\n$>$ W( +\n& & 8 2\n( ( (  (\n=W( *+ F F > % 5\n& \n5 8/8 % & (\n4\n= + ;( ( 4\n< ( 5 8 ( VV& H 4 H4H 4& 4 ; x & 4 x 4\n@ I k W 5\nalarmante?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "A *+ 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "A 2 * 8 ( I 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "A 2 ( +  4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "A k *+ *+ & “n 5 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "A ( *+  ! $ 4",
+          "assets": []
+        }
+      ],
+      "rawText": "Um asteroide de cerca de um mil metros de diâmetro,\nH x  ( 8 (\n  # \nTerra, pouco mais do dobro da distância que nos separa\n! 4 F\nk # & $ + (\n+ (*+ 4 F\ntivesse sido capturado pelo campo gravitacional do nosso\n( ( & 8\n$>$ W( +\n& & 8 2\n( ( (  (\n=W( *+ F F > % 5\n& \n5 8/8 % & (\n4\n= + ;( ( 4\n< ( 5 8 ( VV& H 4 H4H 4& 4 ; x & 4 x 4\n@ I k W 5\nalarmante?\n\nA. A *+ 4\nB. A 2 * 8 ( I 4\nC. A 2 ( +  4\nD. A k *+ *+ & “n 5 4\nE. A ( *+  ! $ 4"
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 7,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 7 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "statement": "A draga\n\n@ ~ #\n( 8 8 K ~ K\" ( KF (  ; \n\nQueria capturakpega( + 7/5 \n\n;& & &2&\nW(estar na draga, viver na draga por estar sem\ndinheiro, viver na miséria\n\n`;))?F ~4Gramática expositiva do chão( 4 ) z\n\" k *+ ` // 7 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-7/statement-01.png",
+        "/generated/enem-2021/linguagens/question-7/statement-02.png",
+        "/generated/enem-2021/linguagens/question-7/statement-03.png",
+        "/generated/enem-2021/linguagens/question-7/statement-04.png",
+        "/generated/enem-2021/linguagens/question-7/statement-05.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-7/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "co( 5 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "irk *+ K( + 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "su& ( 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "va k ( ( 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "de4 7\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ7*",
+          "assets": []
+        }
+      ],
+      "rawText": "A draga\n\n@ ~ #\n( 8 8 K ~ K\" ( KF (  ; \n\nQueria capturakpega( + 7/5 \n\n;& & &2&\nW(estar na draga, viver na draga por estar sem\ndinheiro, viver na miséria\n\n`;))?F ~4Gramática expositiva do chão( 4 ) z\n\" k *+ ` // 7 4\n\nA. co( 5 4\nB. irk *+ K( + 4\nC. su& ( 4\nD. va k ( ( 4\nE. de4 7\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ7*"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 8,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 8 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        7
+      ],
+      "statement": "? O menino que fez um museu,\n*+ FI B 8 ( *+ (\n& &  > x .\n( < @ k\n\" ( ! (Foreign Press\nAssociation7L'; *+ (\n4\nDe acordo com o diretor, O menino que fez um museu\n& 8 ( k ( ( W\n= B K= ( 4 ?\n8 # ` ( 8\nI ( & 4  (\n' ! L 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-8/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-8/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-8/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-8/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-8/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-8/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-8/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "? O menino que fez um museu,\n*+ FI B 8 ( *+ (\n& &  > x .\n( < @ k\n\" ( ! (Foreign Press\nAssociation7L'; *+ (\n4\nDe acordo com o diretor, O menino que fez um museu\n& 8 ( k ( ( W\n= B K= ( 4 ?\n8 # ` ( 8\nI ( & 4  (\n' ! L 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 9,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 9 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "statement": "A volta do marido pródigo\n ` ~ 8  \" ( \n ` 4 z & + I F# 8 4 \n! I  $\n  6 K8/8 I + \n @ I 8 k ~ 8  ; 8\n L ( 8\n\n 3 \n ~ 8 *\n* ( & 8 \n[…]\nPintão suou para desprender um pedrouço, e teve de\n( ( ( H 8 +\n(I4 ' H\n @ + & \n  = H # I   (\nF 4\n $ &I (j & \n k \" ( W + 4 \n“P’ra uns, as vacas morrem … p’ra outros até boi pega\n(  4\nF ~ H\n = & ! ( 8 H ( *\n( 4 @ I k = W\n( ",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-9/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-9/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "*+ ( 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2 ( H W k ( 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "aos nomes de personagens que acentuam aspectos ( 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ao emprego de ditados populares que resgatam # & 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "* * ( * 4 \nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ8*",
+          "assets": []
+        }
+      ],
+      "rawText": "A volta do marido pródigo\n ` ~ 8  \" ( \n ` 4 z & + I F# 8 4 \n! I  $\n  6 K8/8 I + \n @ I 8 k ~ 8  ; 8\n L ( 8\n\n 3 \n ~ 8 *\n* ( & 8 \n[…]\nPintão suou para desprender um pedrouço, e teve de\n( ( ( H 8 +\n(I4 ' H\n @ + & \n  = H # I   (\nF 4\n $ &I (j & \n k \" ( W + 4 \n“P’ra uns, as vacas morrem … p’ra outros até boi pega\n(  4\nF ~ H\n = & ! ( 8 H ( *\n( 4 @ I k = W\n( \n\nA. *+ ( 4\nB. 2 ( H W k ( 4\nC. aos nomes de personagens que acentuam aspectos ( 4\nD. ao emprego de ditados populares que resgatam # & 4\nE. * * ( * 4 \nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ8*"
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 10,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 10 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        8
+      ],
+      "statement": "Intenso e original, Son of Saul retrata horror\ndo holocausto\n\" & 8 H\n( k ( 5 8\nI + 8Son of Saul, do estreante\nK ! k # > \n' 2 z L \" 4\n; ( *\n2\n* + k (\n& 8 ( *+\n( 8 ( ( 4\n= I F 7Ik ) 8\nk W * H (\ndia e meio, luta obsessivamente para que um menino\nH  ( + 8  8\n+ H ( 4\n? ( 8 H ( I\nno sentido mais literal que o cinema pode proporcionar:\n ( ( H (\n& & Hclose em primeiro plano\n+ &H 4 ? (\nI k 4\nF (; 8^ k\n( & ( k\n* ( ( (\n( 8 k\n( 8 4 6 2 & (\n4/6 via crucisI ( k W\ncerta entrega do espectador, mas certamente é daquelas\nW( 2 (\n& * ( ( 4\n? H (\n? 4 F\n+ ;\n( 2 ( & x  4 '\nW *+ (\numa abordagem tão ousada e radical como Son of Saul\n+ W ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-10/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-10/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": " K ! k # >  ' 2 z L \" 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "= I F 7Ik ) 8 k W * H  4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "  ( ( H ( & & Hclose 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "F ( ; 8^ k ( & ( k *  4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "“[…] premiar uma abordagem tão ousada e radical como Son of Saul+ W ( 4",
+          "assets": []
+        }
+      ],
+      "rawText": "Intenso e original, Son of Saul retrata horror\ndo holocausto\n\" & 8 H\n( k ( 5 8\nI + 8Son of Saul, do estreante\nK ! k # > \n' 2 z L \" 4\n; ( *\n2\n* + k (\n& 8 ( *+\n( 8 ( ( 4\n= I F 7Ik ) 8\nk W * H (\ndia e meio, luta obsessivamente para que um menino\nH  ( + 8  8\n+ H ( 4\n? ( 8 H ( I\nno sentido mais literal que o cinema pode proporcionar:\n ( ( H (\n& & Hclose em primeiro plano\n+ &H 4 ? (\nI k 4\nF (; 8^ k\n( & ( k\n* ( ( (\n( 8 k\n( 8 4 6 2 & (\n4/6 via crucisI ( k W\ncerta entrega do espectador, mas certamente é daquelas\nW( 2 (\n& * ( ( 4\n? H (\n? 4 F\n+ ;\n( 2 ( & x  4 '\nW *+ (\numa abordagem tão ousada e radical como Son of Saul\n+ W ( 4\n\nA.  K ! k # >  ' 2 z L \" 4\nB. = I F 7Ik ) 8 k W * H  4\nC.   ( ( H ( & & Hclose 4\nD. F ( ; 8^ k ( & ( k *  4\nE. “[…] premiar uma abordagem tão ousada e radical como Son of Saul+ W ( 4"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 11,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 11 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "statement": "\"3b\"? `B;)@B=% z?J? `?F\"?4Chico4 ) z ` L x 7 4\n> *+ & (\n*+ + ( ( \n5 ( 5\nA re 2 5 &#\n( k 4\nB va k y 2 &\n4\nC re k (\n& 4\nD na *+\n& 4\nE pr& k\n( 5 4\n\n9\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ9*",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-11/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-11/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "\"3b\"? `B;)@B=% z?J? `?F\"?4Chico4 ) z ` L x 7 4\n> *+ & (\n*+ + ( ( \n5 ( 5\nA re 2 5 &#\n( k 4\nB va k y 2 &\n4\nC re k (\n& 4\nD na *+\n& 4\nE pr& k\n( 5 4\n\n9\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ9*\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 12,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 12 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        9
+      ],
+      "statement": "ESSE PET É\nDESCARTÁVEL.\n\nESSE NÃO\n\nABANDONO\nLEI FEDERAL Nº 9 605/98\nÉ CRIME.\n!\n.\n\n< ( 5 ^^^4 f 4 4 ; x k4 x  7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-12/statement-01.png",
+        "/generated/enem-2021/linguagens/question-12/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-12/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "ESSE PET É\nDESCARTÁVEL.\n\nESSE NÃO\n\nABANDONO\nLEI FEDERAL Nº 9 605/98\nÉ CRIME.\n!\n.\n\n< ( 5 ^^^4 f 4 4 ; x k4 x  7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 13,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 13 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        9
+      ],
+      "statement": "3=>Lb!4 < ( 5 8 ( VV 4 4 ; x/ 4 x  7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-13/statement-01.png",
+        "/generated/enem-2021/linguagens/question-13/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-13/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "3=>Lb!4 < ( 5 8 ( VV 4 4 ; x/ 4 x  7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 14,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 14 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "statement": "A crise dos refugiados imortalizada para sempre no\nfundo do mar\n\n$;!?) z4 \"4A balsa de Lampedusa4 b *+ 4\n~ ;  ! k \" x . 7 8 4\nA balsa de Lampedusa, nome da obra do artista\n&  z \" $ _ I *\ncriadas por ele para compor o acervo do primeiro museu\n& = ( ~ ;  k\n! k 8 (I \" 4\n! ( I 8\n ( 5\nF5 !5& b 8 (\n( 4\n; ~ ; \n( ! k 4\n> & + k ( 4 $ 2\nW( + & 4 = 8 * 4\nUma delas, uma menina debruçada sobre a beira do bote,\n8 ( * 8 k 4 ; I +\n( ( 4 =W ( ( 4\n< ( 5 8 ( VV W ( 4 4& 4 ; xx H 4 x / 7 ( 4\n; I (( & & A balsa de\nLampedusa, essa reportagem cumpre, paralelamente, a\n*+ 8 *+ (\nA 8 ! k k (I\n\" *+ ( 4\nB ( 5\n& * ( I 4\nC *+ *+\n# ((\n8 4\nD a construção do museu submarino como um memorial\npara as centenas de imigrantes mortos nas travessias\n( 4\nE ( ( ( #\n8 2 & (\n+ 4\n\n10\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ10*",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-14/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-14/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A crise dos refugiados imortalizada para sempre no\nfundo do mar\n\n$;!?) z4 \"4A balsa de Lampedusa4 b *+ 4\n~ ;  ! k \" x . 7 8 4\nA balsa de Lampedusa, nome da obra do artista\n&  z \" $ _ I *\ncriadas por ele para compor o acervo do primeiro museu\n& = ( ~ ;  k\n! k 8 (I \" 4\n! ( I 8\n ( 5\nF5 !5& b 8 (\n( 4\n; ~ ; \n( ! k 4\n> & + k ( 4 $ 2\nW( + & 4 = 8 * 4\nUma delas, uma menina debruçada sobre a beira do bote,\n8 ( * 8 k 4 ; I +\n( ( 4 =W ( ( 4\n< ( 5 8 ( VV W ( 4 4& 4 ; xx H 4 x / 7 ( 4\n; I (( & & A balsa de\nLampedusa, essa reportagem cumpre, paralelamente, a\n*+ 8 *+ (\nA 8 ! k k (I\n\" *+ ( 4\nB ( 5\n& * ( I 4\nC *+ *+\n# ((\n8 4\nD a construção do museu submarino como um memorial\npara as centenas de imigrantes mortos nas travessias\n( 4\nE ( ( ( #\n8 2 & (\n+ 4\n\n10\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ10*\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 15,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 15 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        10
+      ],
+      "statement": "TEXTO I\n\n;FFbF ~4Um homem célebre4 < ( 5 ^^^4& & 4 4& 4\n; x H 4 x /4\nTEXTO II\n\npopular que busca atingir a sublimidade da obra-prima\n\ncomposições irresistivelmente dançantes, esconde-se\n\nclassicismo vienense, prepara-se para o supremo salto\n\n]bF>b z4 ~4 ~ 8 W W ' 4Teresa: revista de literatura brasileira,\nx 7 ( 4\n? ~ 8; k 2\nW W\n2\n+ * 4 > $ W bb\ny ( ( & 2 I\nrepresentativo da",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-15/statement-01.png",
+        "/generated/enem-2021/linguagens/question-15/statement-02.png",
+        "/generated/enem-2021/linguagens/question-15/statement-03.png",
+        "/generated/enem-2021/linguagens/question-15/statement-04.png",
+        "/generated/enem-2021/linguagens/question-15/statement-05.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-15/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-15/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-15/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-15/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-15/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-15/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "TEXTO I\n\n;FFbF ~4Um homem célebre4 < ( 5 ^^^4& & 4 4& 4\n; x H 4 x /4\nTEXTO II\n\npopular que busca atingir a sublimidade da obra-prima\n\ncomposições irresistivelmente dançantes, esconde-se\n\nclassicismo vienense, prepara-se para o supremo salto\n\n]bF>b z4 ~4 ~ 8 W W ' 4Teresa: revista de literatura brasileira,\nx 7 ( 4\n? ~ 8; k 2\nW W\n2\n+ * 4 > $ W bb\ny ( ( & 2 I\nrepresentativo da\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 16,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 16 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "statement": "Devagar, devagarinho\n< I ( 4; + I ( 4\n; & ( ( #( & (\nk &# 2 4 b\n& (5 Sinal fechado\n7 /./ ' 8 6 4 $ K 8 #\nH (\n 4 ; & ( I\n(4 ! (\ndespedem, com a promessa de se verem em outra\n( 4 ' & K *+\nk ( H \n( 5 ( ?\n V = 2 &  V $ &\nV (4\n= 2 V $ & & V\ntranquilo, quem sabe? / Quanto tempo… / Pois é, quanto\n(  V ~ ( ( V I\n#  V ?8 >+ 24 V = &I #\n4\n\n\" fast, temos o\nmovimento slow lifeH ( (# I\nk ( ( I\n( *+ ( k &\n( 8 & 4\n\nNesse artigo de opinião, a apresentação da letra da\ncanção Sinal fechado é uma estratégia argumentativa\n& k (",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-16/statement-01.png",
+        "/generated/enem-2021/linguagens/question-16/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-16/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-16/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-16/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-16/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-16/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "11\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ11*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-16/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Devagar, devagarinho\n< I ( 4; + I ( 4\n; & ( ( #( & (\nk &# 2 4 b\n& (5 Sinal fechado\n7 /./ ' 8 6 4 $ K 8 #\nH (\n 4 ; & ( I\n(4 ! (\ndespedem, com a promessa de se verem em outra\n( 4 ' & K *+\nk ( H \n( 5 ( ?\n V = 2 &  V $ &\nV (4\n= 2 V $ & & V\ntranquilo, quem sabe? / Quanto tempo… / Pois é, quanto\n(  V ~ ( ( V I\n#  V ?8 >+ 24 V = &I #\n4\n\n\" fast, temos o\nmovimento slow lifeH ( (# I\nk ( ( I\n( *+ ( k &\n( 8 & 4\n\nNesse artigo de opinião, a apresentação da letra da\ncanção Sinal fechado é uma estratégia argumentativa\n& k (\n\nA.\nB.\nC.\nD.\nE. 11\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ11*"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 17,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 17 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        11
+      ],
+      "statement": "; 8 # & & I\nI ( # 4 =\n( W & 5\n( 8 &\n( + ( &\n8 K ( (\n( H *+ 4 ; \" ( ~\n` /\n( 4 \" +\nB & ( I 4 ; \n( ` &\n` & W( # \nH ( H 5k 4\nB 8 & * ( &\n& 4 >/w (+\nW((# (\n& ' \"I !\nH K( & 4 = & *\n8 & & & 4 = ` &\n` ( 8\n/ ' \"I K\n( K ( /w 4\n? H\n( (\n4 F ( &H\n( b I I\n( ( ¤ j4 ~ (\nW F *+ ` 4\nSua ousadia consistiu em pronunciar a palavra\n( * &# (\n4\n< ( 5 8 ( VV & & 4 4& 4 ; xx H 4 x / 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-17/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-17/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-17/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-17/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-17/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-17/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-17/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "; 8 # & & I\nI ( # 4 =\n( W & 5\n( 8 &\n( + ( &\n8 K ( (\n( H *+ 4 ; \" ( ~\n` /\n( 4 \" +\nB & ( I 4 ; \n( ` &\n` & W( # \nH ( H 5k 4\nB 8 & * ( &\n& 4 >/w (+\nW((# (\n& ' \"I !\nH K( & 4 = & *\n8 & & & 4 = ` &\n` ( 8\n/ ' \"I K\n( K ( /w 4\n? H\n( (\n4 F ( &H\n( b I I\n( ( ¤ j4 ~ (\nW F *+ ` 4\nSua ousadia consistiu em pronunciar a palavra\n( * &# (\n4\n< ( 5 8 ( VV & & 4 4& 4 ; xx H 4 x / 7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 18,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 18 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        11
+      ],
+      "statement": "~=b)=!!=F 64Moema4 ¥ & x/ W / 4\n~ ( F+ ' ..4\n< ( 5 ^^^4 (4 4& 4 ;  4 x x 7 ( 4\nNessa obra, que retrata uma cena de Caramuru, célebre\n( I( & *+ I \nK\nA W *+ & k 4\nB k *+ 8 4\nC *+ &  4\nD ( *+ k ( 5 4\nE ( *+ *+ 8 k\n( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-18/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-18/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "~=b)=!!=F 64Moema4 ¥ & x/ W / 4\n~ ( F+ ' ..4\n< ( 5 ^^^4 (4 4& 4 ;  4 x x 7 ( 4\nNessa obra, que retrata uma cena de Caramuru, célebre\n( I( & *+ I \nK\nA W *+ & k 4\nB k *+ 8 4\nC *+ &  4\nD ( *+ k ( 5 4\nE ( *+ *+ 8 k\n( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 19,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 19 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        11,
+        12
+      ],
+      "statement": "\" < b <\nb  ( & 8\n* * 4\nB ( 8 &\n* 8 H *+ // 4 =\n& I * 2 k\ne estão mais sobrecarregadas por deveres e atividades\nW x 4 ; *\n8 H + # ( ( &\n&I & + k\ncrianças no parque, na rua ou na praça, mas em casa\nk k 8 4 = H + &\n& ( 8 \n( H 4\n?!b6; ~4 '4 ? * k  2 4\nEl Paísx 4 x 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-19/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-19/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "* * 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "k ( * 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "incentivaram a criação de novos espaços para se 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "( 2 ( 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "& 5 ( ( ( & 4 12\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ12*",
+          "assets": []
+        }
+      ],
+      "rawText": "\" < b <\nb  ( & 8\n* * 4\nB ( 8 &\n* 8 H *+ // 4 =\n& I * 2 k\ne estão mais sobrecarregadas por deveres e atividades\nW x 4 ; *\n8 H + # ( ( &\n&I & + k\ncrianças no parque, na rua ou na praça, mas em casa\nk k 8 4 = H + &\n& ( 8 \n( H 4\n?!b6; ~4 '4 ? * k  2 4\nEl Paísx 4 x 7 ( 4\n\nA. * * 4\nB. k ( * 4\nC. incentivaram a criação de novos espaços para se 4\nD. ( 2 ( 4\nE. & 5 ( ( ( & 4 12\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ12*"
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 20,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 20 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        12
+      ],
+      "statement": "Que tal transformar a internet em palco para a dança?\n\n? # & < ~\ncomo um dos criadores que descobriram a dança de\n( 4 Mini@turesI W( 2\n& (\n5 4 \" ( *+\na dança das miniaturas pode caber na palma da\n+ 4 ' (\nprocesso de criação das miniaturas de dança levou\nem consideração os limites de tempo de download\n8 (\n ((4; *\nH *+\n5\n( V * V ( *+\nV 4\n< I k *\n( 4 Mini@turesW( +\ndescobre o espaço-tempo da web e conquista um novo\n# ( * (  4 ;\n8 * K 4\nF';>3=)? ~4A dança dos encéfalos acesos4\nF+ ' b \" x  7 ( 4\n\" ( ( H * ( \n& (& 8 I (\ncomo inovador por",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-20/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-20/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-20/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-20/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-20/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-20/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-20/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Que tal transformar a internet em palco para a dança?\n\n? # & < ~\ncomo um dos criadores que descobriram a dança de\n( 4 Mini@turesI W( 2\n& (\n5 4 \" ( *+\na dança das miniaturas pode caber na palma da\n+ 4 ' (\nprocesso de criação das miniaturas de dança levou\nem consideração os limites de tempo de download\n8 (\n ((4; *\nH *+\n5\n( V * V ( *+\nV 4\n< I k *\n( 4 Mini@turesW( +\ndescobre o espaço-tempo da web e conquista um novo\n# ( * (  4 ;\n8 * K 4\nF';>3=)? ~4A dança dos encéfalos acesos4\nF+ ' b \" x  7 ( 4\n\" ( ( H * ( \n& (& 8 I (\ncomo inovador por\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 21,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 21 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        12,
+        13
+      ],
+      "statement": "TEXTO I\nO mito da estiagem em São Paulo\n\nmedida em que são alimentados principalmente pelos\n\n< ( 5 ^^^4 4 4& 4 ; w H 4 x 7 ( 4\nTEXTO II\n\nela vai simplesmente evaporar e vai cair em outro lugar,\n\n< ( 5 ^^^4H ( 4 4& 4 ; w H 4 x 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-21/statement-01.png",
+        "/generated/enem-2021/linguagens/question-21/statement-02.png",
+        "/generated/enem-2021/linguagens/question-21/statement-03.png",
+        "/generated/enem-2021/linguagens/question-21/statement-04.png",
+        "/generated/enem-2021/linguagens/question-21/statement-05.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-21/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "k ( ( 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "( 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "k W ( ( *+ ( *+ 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "k & *+ 4 13\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ13*",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\nO mito da estiagem em São Paulo\n\nmedida em que são alimentados principalmente pelos\n\n< ( 5 ^^^4 4 4& 4 ; w H 4 x 7 ( 4\nTEXTO II\n\nela vai simplesmente evaporar e vai cair em outro lugar,\n\n< ( 5 ^^^4H ( 4 4& 4 ; w H 4 x 7 ( 4\n\nA. 4\nB. k ( ( 4\nC. ( 4\nD. k W ( ( *+ ( *+ 4\nE. k & *+ 4 13\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ13*"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 22,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 22 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        13
+      ],
+      "statement": "? 2 W( +\n4 $ 8 w (senhor, mas\nH (vocêk (\n; & \" 8 (\n&5 ( 4\nO você( I + k 8 4 ?tu predomina em\nPorto Alegre e convive com o você) z\n)você é o tratamento predominante em São\n' \" & ` 3 k F 4 ?tuH\n( #Wvocê\nK *+\n( ( 5 (\nI b 5 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-22/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-22/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "? 2 W( +\n4 $ 8 w (senhor, mas\nH (vocêk (\n; & \" 8 (\n&5 ( 4\nO você( I + k 8 4 ?tu predomina em\nPorto Alegre e convive com o você) z\n)você é o tratamento predominante em São\n' \" & ` 3 k F 4 ?tuH\n( #Wvocê\nK *+\n( ( 5 (\nI b 5 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 23,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 23 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        13
+      ],
+      "statement": "O solo A morte do cisne/ (\n~ f8 L f ( ( 2\n\" F KF\n4 > + &\nimpecavelmente branco e na ponta dos pés interpreta toda\n& I 4\n= x x z 8 ! F x\n& F+ ~  ! F+ '\n& H * k\n( & ; ' 4 > +\n( 8 * H 2 4 = k\n& I W popping da street dance4 F\napresentação inovadora de A morte do cisne\nno programa Se ela dança, eu danço8  $ & 4\n< ( 5 ^^^4 & k 4 4& 4 ;  H 4 x / 7 ( 4\n; z 8 ! F (\nA morte do cisne demonstra que",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "a ( *+ y ( 8 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "a *+ 5 I & ( 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "a variação entre os modos de dançar uma 8 * 5 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "a *+ * + # 8 I ( ( 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "a ( *+ (8 & ( 8 W ( *+ ( W 4",
+          "assets": []
+        }
+      ],
+      "rawText": "O solo A morte do cisne/ (\n~ f8 L f ( ( 2\n\" F KF\n4 > + &\nimpecavelmente branco e na ponta dos pés interpreta toda\n& I 4\n= x x z 8 ! F x\n& F+ ~  ! F+ '\n& H * k\n( & ; ' 4 > +\n( 8 * H 2 4 = k\n& I W popping da street dance4 F\napresentação inovadora de A morte do cisne\nno programa Se ela dança, eu danço8  $ & 4\n< ( 5 ^^^4 & k 4 4& 4 ;  H 4 x / 7 ( 4\n; z 8 ! F (\nA morte do cisne demonstra que\n\nA. a ( *+ y ( 8 4\nB. a *+ 5 I & ( 4\nC. a variação entre os modos de dançar uma 8 * 5 4\nD. a *+ * + # 8 I ( ( 4\nE. a ( *+ (8 & ( 8 W ( *+ ( W 4"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 24,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 24 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        13
+      ],
+      "statement": "F ( 5 %\n( 4 ;( 8\nk k  W\n& * ( & % (\n( H H\n( 8+ 4 > k & ( ( 8\nW (\n& 4 F ( 5/4 z + 4 ?& 4\n\" ( 4 ` W & * 4 ;( 8\nk k 4 ' (\n4 F ( 4\nb & 4 ' 5/8 4\n~;b; ;4 '4 Assim na terra como embaixo da terra4 ) z ) x w4\n; * W( H\n( *+",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "F ( 5 %\n( 4 ;( 8\nk k  W\n& * ( & % (\n( H H\n( 8+ 4 > k & ( ( 8\nW (\n& 4 F ( 5/4 z + 4 ?& 4\n\" ( 4 ` W & * 4 ;( 8\nk k 4 ' (\n4 F ( 4\nb & 4 ' 5/8 4\n~;b; ;4 '4 Assim na terra como embaixo da terra4 ) z ) x w4\n; * W( H\n( *+\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 25,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 25 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        13,
+        14
+      ],
+      "statement": "§ ? 8 ( # ( W\n( 5 ( k  >\n* 8 5  >+\n& 8 ( 5  >+ &\nW 8 =WI `\n8 (  @ # I  444 =\n8 ( “ W”\nF 8 + k &\n 4\n~  F 8 4 444 L\n+ 8 k 8 \n§ = 8 8 k \n? ( 8 K ( 4\n§ ' + & &I (\n8 4 ~ + I 8\n+ 4 F ( ( \n( 8 &I\n( 4 = & &\n( ~ H =WI & 8\n\" 8   ~  =\n# * ( & &\n8 § < 8 8 4\nF;`b>? L4 ; 8 k 8 4 bOs melhores contos4 ) z ) /.4\nA representação do discurso intimidador engendrada no\nI ( (\nA irk W #& 4\nB co# 4\nC dissimular o ponto de vista do narrador4\nD ac8 ( 4\nE Waltar relações de poder estereotipadas4\n\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ14*",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "§ ? 8 ( # ( W\n( 5 ( k  >\n* 8 5  >+\n& 8 ( 5  >+ &\nW 8 =WI `\n8 (  @ # I  444 =\n8 ( “ W”\nF 8 + k &\n 4\n~  F 8 4 444 L\n+ 8 k 8 \n§ = 8 8 k \n? ( 8 K ( 4\n§ ' + & &I (\n8 4 ~ + I 8\n+ 4 F ( ( \n( 8 &I\n( 4 = & &\n( ~ H =WI & 8\n\" 8   ~  =\n# * ( & &\n8 § < 8 8 4\nF;`b>? L4 ; 8 k 8 4 bOs melhores contos4 ) z ) /.4\nA representação do discurso intimidador engendrada no\nI ( (\nA irk W #& 4\nB co# 4\nC dissimular o ponto de vista do narrador4\nD ac8 ( 4\nE Waltar relações de poder estereotipadas4\n\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ14*\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 26,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 26 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        14
+      ],
+      "statement": "? 8 ( (I + + (\nk ( 5\n( 4\nÉ assim que se descobre algo novo de um nome\n& H H &\n~ 8 ; 4\n' W ( 2 ( + &\n/  8\n.w  + ( & (\nI 4 ; I 8 H 4\n= & & H\nL #( ( ( (\nL ( ) 4\n< y 8 & V F\nV = 8 # ' V ? `\nk * 8 (\n8 H 5 &\n( I 4 ? 8 &I I + 4\n? ' I ( < ' bb4\n? & W \" 6 8 ( (\nx x k &\n 8 (\n< L #( 4\n< ( 5 ^^^4 ( 4 4 ; k4 x  7 ( 4\nConsiderando-se\nas\noperações\nde\nretomada\nde\n* *+ W 8 ( 2\nW(\nA ? 8 ( (I  4\nB   & 4\nC  ' W ( 4\nD ? ` ? ' 4\nE  ( < ' bb ? & W \" 6 8 4",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "? 8 ( (I + + (\nk ( 5\n( 4\nÉ assim que se descobre algo novo de um nome\n& H H &\n~ 8 ; 4\n' W ( 2 ( + &\n/  8\n.w  + ( & (\nI 4 ; I 8 H 4\n= & & H\nL #( ( ( (\nL ( ) 4\n< y 8 & V F\nV = 8 # ' V ? `\nk * 8 (\n8 H 5 &\n( I 4 ? 8 &I I + 4\n? ' I ( < ' bb4\n? & W \" 6 8 ( (\nx x k &\n 8 (\n< L #( 4\n< ( 5 ^^^4 ( 4 4 ; k4 x  7 ( 4\nConsiderando-se\nas\noperações\nde\nretomada\nde\n* *+ W 8 ( 2\nW(\nA ? 8 ( (I  4\nB   & 4\nC  ' W ( 4\nD ? ` ? ' 4\nE  ( < ' bb ? & W \" 6 8 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 27,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 27 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        14
+      ],
+      "statement": ")?<)bB=F F4Acervo pessoal4\nA revolução estética brasiliense empurrou os\n#/5\n/. ( 4 b k &\nrebuscado pelo colonial, a trocar Ouro Preto por\n` 5 & ( \n8 H H (\n# # 4 \"\n& H ( &\n( 8 8\nK 2 8\n( \" 4\n\"3;6=F <4 < ( 5 ^^^4 H 4 & 4 4& 4 ; x/ H 4 x 4\n> ( & ` 5 <I&\n\"8 ( *+\n( FI ) K\nelementos da estética brasiliense",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-27/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-27/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "( 8 &H 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "W( 8 & ( 8 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "W( + I 8 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "( I K( k & *+ 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "( *+ * ( *+ 4",
+          "assets": []
+        }
+      ],
+      "rawText": ")?<)bB=F F4Acervo pessoal4\nA revolução estética brasiliense empurrou os\n#/5\n/. ( 4 b k &\nrebuscado pelo colonial, a trocar Ouro Preto por\n` 5 & ( \n8 H H (\n# # 4 \"\n& H ( &\n( 8 8\nK 2 8\n( \" 4\n\"3;6=F <4 < ( 5 ^^^4 H 4 & 4 4& 4 ; x/ H 4 x 4\n> ( & ` 5 <I&\n\"8 ( *+\n( FI ) K\nelementos da estética brasiliense\n\nA. ( 8 &H 4\nB. W( 8 & ( 8 4\nC. W( + I 8 4\nD. ( I K( k & *+ 4\nE. ( *+ * ( *+ 4"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 28,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 28 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        14,
+        15
+      ],
+      "statement": "Thumbs Up\n' ( ( L & f\nH (& +\n8 ( * 4 < L\n2 (\n* * 4 ;\n( 2 5 W (\n8\n ( 7I ? f k  4 F ~ f\n f & & 8+\n& ( H +\n( 4\n? &H I\n( (\n4 ; I ~ f ( H\n 8 8\n*+ *+ 4 \" ( 8\n( +\nentra a segmentação, que pode ser uma boa porta para\nk *+ ( #W 4 >\n f & &I L & f I\n( + 8\n( ( 4 =\nk * I\n& * 4\n\n< ( 5 8 ( VV 8 & 4 .4 K 4 4 ;  x / 7 ( 4\n? W k\n* 4\n= *+\ncomunicação",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-28/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-28/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "bu( 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "as( 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "pr*+ & 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "(& k 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ev( ( 4 LC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ15*",
+          "assets": []
+        }
+      ],
+      "rawText": "Thumbs Up\n' ( ( L & f\nH (& +\n8 ( * 4 < L\n2 (\n* * 4 ;\n( 2 5 W (\n8\n ( 7I ? f k  4 F ~ f\n f & & 8+\n& ( H +\n( 4\n? &H I\n( (\n4 ; I ~ f ( H\n 8 8\n*+ *+ 4 \" ( 8\n( +\nentra a segmentação, que pode ser uma boa porta para\nk *+ ( #W 4 >\n f & &I L & f I\n( + 8\n( ( 4 =\nk * I\n& * 4\n\n< ( 5 8 ( VV 8 & 4 .4 K 4 4 ;  x / 7 ( 4\n? W k\n* 4\n= *+\ncomunicação\n\nA. bu( 4\nB. as( 4\nC. pr*+ & 4\nD. (& k 4\nE. ev( ( 4 LC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ15*"
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 29,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 29 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        15
+      ],
+      "statement": "Reaprender a ler notícias\n\n< ( 5 ^^^4 & ( 4 4& 4 ;  4 x 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-29/statement-01.png",
+        "/generated/enem-2021/linguagens/question-29/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-29/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-29/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-29/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-29/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-29/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-29/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Reaprender a ler notícias\n\n< ( 5 ^^^4 & ( 4 4& 4 ;  4 x 7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 30,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 30 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        15,
+        16
+      ],
+      "statement": ">+ ' 5 %\n& 4 > I $ &\nque não levasse bordoada do Capitão Pelino, e mesmo\n8 )\n+ W k >+ 8  ? 8\ntem talento, mas escreve: ‘um outro’, ‘de resto’…”\n= 5 &\n4\nToda a vila de Tubiacanga acostumou-se a respeitar\no solene Pelino, que corrigia e emendava as maiores\n# 4 B & \nAo entardecer, depois de ler um pouco o Sotero,\n\" L \" ! (\n( k & 8\nK 5\n& ( # & 8 K\nK ( & ` ( 4\n\" I k ('\n( K + K 4\n@ ( I & I (\n*+ 8 4\n= k \"  ' 5\nK 8 I\n>+ ¤ j F 8 ` % ( 2\nI 4\nE a conversa continuava depois da emenda, para ser\n( ( 4 '\n8 (\n'\n( 4\n`;))=$? !4A Nova Califórnia4 < ( 5 ^^^4 ( & 4 4& 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-30/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-30/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-30/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-30/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "adotar uma perspectiva complacente em relação aos",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-30/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": ".\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ16*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-30/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": ">+ ' 5 %\n& 4 > I $ &\nque não levasse bordoada do Capitão Pelino, e mesmo\n8 )\n+ W k >+ 8  ? 8\ntem talento, mas escreve: ‘um outro’, ‘de resto’…”\n= 5 &\n4\nToda a vila de Tubiacanga acostumou-se a respeitar\no solene Pelino, que corrigia e emendava as maiores\n# 4 B & \nAo entardecer, depois de ler um pouco o Sotero,\n\" L \" ! (\n( k & 8\nK 5\n& ( # & 8 K\nK ( & ` ( 4\n\" I k ('\n( K + K 4\n@ ( I & I (\n*+ 8 4\n= k \"  ' 5\nK 8 I\n>+ ¤ j F 8 ` % ( 2\nI 4\nE a conversa continuava depois da emenda, para ser\n( ( 4 '\n8 (\n'\n( 4\n`;))=$? !4A Nova Califórnia4 < ( 5 ^^^4 ( & 4 4& 4\n\nA.\nB.\nC. adotar uma perspectiva complacente em relação aos\nD.\nE. .\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ16*"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 31,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 31 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        16
+      ],
+      "statement": "? f ( 2 k\n( 5 & W 8\n 8 4 > 5 k W 8\nde patins pregados numa madeira qualquer, para sua\n( *+ & 8 4\n? 8 # f /w\n8 5 8 L f > ^ 8_\n& y W5/2 4 ; ( 2 f\nem relação a esse novo material igualmente alavancou\no surgimento de novas manobras e possibilitou a um\n(W(*\n( 4 ? *+\n( & H ( k 4\n;)~`)BF$ b4% !;B)? L4 ;4 ;4 ? f ( & 4\nMotrizH 4K 4 x 7 ( 4\n< W (",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "? f ( 2 k\n( 5 & W 8\n 8 4 > 5 k W 8\nde patins pregados numa madeira qualquer, para sua\n( *+ & 8 4\n? 8 # f /w\n8 5 8 L f > ^ 8_\n& y W5/2 4 ; ( 2 f\nem relação a esse novo material igualmente alavancou\no surgimento de novas manobras e possibilitou a um\n(W(*\n( 4 ? *+\n( & H ( k 4\n;)~`)BF$ b4% !;B)? L4 ;4 ;4 ? f ( & 4\nMotrizH 4K 4 x 7 ( 4\n< W (\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 32,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 32 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Estojo escolar\n) z  >\n& 8\n & & & f\n( k H & *+\n( 4\n \" ( H 8 & K\ncomprar aquilo que os caras anunciavam como o top do\n( I ( ( 4\n> & & & 8 (\n* ( & 4\n < (\n( 8 #\n( H 4 $ 8 (\nH  4\n= W 8 ( k\n( & ( ( ( 4 <\n8 (\napontador, uma lapiseira cromada, uma régua de 20 cm\n& 8 ( ( 4\n < W 8 8 8 8\n( k 4 \n? & f & I I\n8 I & 4 \"8\n& + ( 8\n* ( 4 ; 8\n( H 4\n\"?> \"4 34Crônicas para ler na escola4 F+ ' ?&H x / 7 ( 4\n> W 8 *+\n( 4 = + ( (\n7\nA meK &H I\n4\nB # k W\n( #( & 4\nC coW k * (\nW ( 4\nD en & W(\n*+ 4\nE in\nK\n(\n(\n( 4",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Estojo escolar\n) z  >\n& 8\n & & & f\n( k H & *+\n( 4\n \" ( H 8 & K\ncomprar aquilo que os caras anunciavam como o top do\n( I ( ( 4\n> & & & 8 (\n* ( & 4\n < (\n( 8 #\n( H 4 $ 8 (\nH  4\n= W 8 ( k\n( & ( ( ( 4 <\n8 (\napontador, uma lapiseira cromada, uma régua de 20 cm\n& 8 ( ( 4\n < W 8 8 8 8\n( k 4 \n? & f & I I\n8 I & 4 \"8\n& + ( 8\n* ( 4 ; 8\n( H 4\n\"?> \"4 34Crônicas para ler na escola4 F+ ' ?&H x / 7 ( 4\n> W 8 *+\n( 4 = + ( (\n7\nA meK &H I\n4\nB # k W\n( #( & 4\nC coW k * (\nW ( 4\nD en & W(\n*+ 4\nE in\nK\n(\n(\n( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 33,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 33 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "statement": "A PESQUISA FOI O PRIMEIRO PASSO\nNA PRODUÇÃO DESTE LIVRO\nDEIXA DE DRAMA,\nA MAIOR PARTE DO\nMATERIAL ESTÁ ON-LINE.\n\nSEGUIDA DA SELEÇÃO\nDAS INFORMAÇÕES E\nDA ELABORAÇÃO\nDE UM ROTEIRO\n\nE DEPOIS EDITADO\nE COLORIZADO DIGITALMENTE.\n\nDEPOIS DE TODO\nTRABALHO, ESTE LIVRO\nSÓ PRECISA DE MAIS\nUMA COISA:\n\nSER LIDO.\nO DESENHO\nFEITO À TINTA\nNÃO OLHA\nAINDA!\n\n!=~?F ;4Artistas brasileiras4 ` 3 k ~ x 4\n? 8 W\n8 ( I 7",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-33/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-33/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-33/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-33/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-33/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-33/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "17\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ17*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-33/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A PESQUISA FOI O PRIMEIRO PASSO\nNA PRODUÇÃO DESTE LIVRO\nDEIXA DE DRAMA,\nA MAIOR PARTE DO\nMATERIAL ESTÁ ON-LINE.\n\nSEGUIDA DA SELEÇÃO\nDAS INFORMAÇÕES E\nDA ELABORAÇÃO\nDE UM ROTEIRO\n\nE DEPOIS EDITADO\nE COLORIZADO DIGITALMENTE.\n\nDEPOIS DE TODO\nTRABALHO, ESTE LIVRO\nSÓ PRECISA DE MAIS\nUMA COISA:\n\nSER LIDO.\nO DESENHO\nFEITO À TINTA\nNÃO OLHA\nAINDA!\n\n!=~?F ;4Artistas brasileiras4 ` 3 k ~ x 4\n? 8 W\n8 ( I 7\n\nA.\nB.\nC.\nD.\nE. 17\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ17*"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 34,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 34 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        17
+      ],
+      "statement": "< ( 5 8 ( VV 4 & 4 4 ;  H 4 x / 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-34/statement-01.png",
+        "/generated/enem-2021/linguagens/question-34/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-34/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-34/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-34/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-34/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-34/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-34/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "< ( 5 8 ( VV 4 & 4 4 ;  H 4 x / 7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 35,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 35 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "Singular ocorrência",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-35/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-35/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-35/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-35/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-35/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-35/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ18*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-35/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Singular ocorrência\n\nA.\nB.\nC.\nD.\nE. \nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ18*"
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 36,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 36 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        18
+      ],
+      "statement": "TEXTO I\n\n3;?B~ )4Nanawax4 ' 4   x /4\n\nL;)$3b> F4Tudo sobre arte4 ) z F W x 7 ( 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-36/statement-01.png",
+        "/generated/enem-2021/linguagens/question-36/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-36/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "TEXTO I\n\n3;?B~ )4Nanawax4 ' 4   x /4\n\nL;)$3b> F4Tudo sobre arte4 ) z F W x 7 ( 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 37,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 37 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Comportamento geral\n\n6 2/6 2\nTudo vai bem, tudo legal\n\" H & 8+ I\nSe acabarem com teu carnaval\n\n< ( # k ( & *+\n$\n' 8 + H 5k\nE diploma de bem-comportado\n?>;Bb>3;4Luiz Gonzaga Jr4 ) z ? /w 7 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-37/statement-01.png",
+        "/generated/enem-2021/linguagens/question-37/statement-02.png",
+        "/generated/enem-2021/linguagens/question-37/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-37/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "k ( *+ 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "( & & (  5 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "*+ ( & 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "& 5 ( ( ( *+ ( ( 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "( 4",
+          "assets": []
+        }
+      ],
+      "rawText": "Comportamento geral\n\n6 2/6 2\nTudo vai bem, tudo legal\n\" H & 8+ I\nSe acabarem com teu carnaval\n\n< ( # k ( & *+\n$\n' 8 + H 5k\nE diploma de bem-comportado\n?>;Bb>3;4Luiz Gonzaga Jr4 ) z ? /w 7 4\n\nA. k ( *+ 4\nB. ( & & (  5 4\nC. *+ ( & 4\nD. & 5 ( ( ( *+ ( ( 4\nE. ( 4"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 38,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 38 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "F ( 5 K k\n  8 4 ; k \n~ K k ( 5/3 (\n~ 8 ( 4\n~ K &\n$+ 4 F I\n@ # 2 4\n= & & 8 I\n< ( W\n>\n= (I 8 K k\n  \n= k 4\n3b!F$ 34Júbilo, memória, noviciado da paixão4 F+ ' \" 4 ! x 4\nL 5 K k\nH",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-38/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-38/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-38/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-38/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "19\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ19*",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-38/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "F ( 5 K k\n  8 4 ; k \n~ K k ( 5/3 (\n~ 8 ( 4\n~ K &\n$+ 4 F I\n@ # 2 4\n= & & 8 I\n< ( W\n>\n= (I 8 K k\n  \n= k 4\n3b!F$ 34Júbilo, memória, noviciado da paixão4 F+ ' \" 4 ! x 4\nL 5 K k\nH\n\nA.\nB.\nC.\nD.\nE. 19\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ19*"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 39,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 39 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Falso moralista\n6 2 * k\ne não aceita o teatro de revista\n( 2 +\nI 2 k +\n\n6 2 I W z\n+ I # \" ( & &\nL 2 W ( 8\ne no bar com os amigos bebe bem a noite inteira\nF K 8 ( *+\npede dispensa para ir ao oculista\ne vai curar sua ressaca simplesmente\n6 2 + (",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-39/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-39/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Falso moralista\n6 2 * k\ne não aceita o teatro de revista\n( 2 +\nI 2 k +\n\n6 2 I W z\n+ I # \" ( & &\nL 2 W ( 8\ne no bar com os amigos bebe bem a noite inteira\nF K 8 ( *+\npede dispensa para ir ao oculista\ne vai curar sua ressaca simplesmente\n6 2 + (\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 40,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 40 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        19
+      ],
+      "statement": "Introdução a Alda\n< k I 4 < k\n& ( 4 F 8 k +\nk & 4 ' K\nk H &\n+ ( 4 ! K 8\n( W 8 & k\n( 4\nF ( H + I I 8\n*+ 8 & 8 4 ~ + I\nI + ( 4 = K 4 ; K\nH ( (\n( 8 ( 8 4 @\nreino sente o mundo de mil lanças, e selvagem prepara-\nK ( 8 4 ; K * &\n4 B (I * 8 * 4\n\" k K 4\n\";>M;<? ~4 !4O sofredor do ver4 ` 3 k ; 2 x 4\n; 8 8 (\n( ( W(\nsua percepção\nA  & 4\nB I (2 4\nC ( + 5 ( * *+ 4\nD ( ( ( 8/8 4\nE ( 8 &\nk4",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Introdução a Alda\n< k I 4 < k\n& ( 4 F 8 k +\nk & 4 ' K\nk H &\n+ ( 4 ! K 8\n( W 8 & k\n( 4\nF ( H + I I 8\n*+ 8 & 8 4 ~ + I\nI + ( 4 = K 4 ; K\nH ( (\n( 8 ( 8 4 @\nreino sente o mundo de mil lanças, e selvagem prepara-\nK ( 8 4 ; K * &\n4 B (I * 8 * 4\n\" k K 4\n\";>M;<? ~4 !4O sofredor do ver4 ` 3 k ; 2 x 4\n; 8 8 (\n( ( W(\nsua percepção\nA  & 4\nB I (2 4\nC ( + 5 ( * *+ 4\nD ( ( ( 8/8 4\nE ( 8 &\nk4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 41,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 41 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        19
+      ],
+      "statement": "O pavão vermelho\n? ( + 8/4\n6 ( H 8\nI 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-41/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-41/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "O pavão vermelho\n? ( + 8/4\n6 ( H 8\nI 4\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 42,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 42 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "!b\"3$=>F$=b> )4Garota com bola4 ¥ &  W / / 4\n~ ; ~ >  f /. 4\n< ( 5 ^^^4 4 4 ; k4 x 4\n; & I /. (\n5 Pop Art W(& k\n( *+ 4/3\n( &H *\n& I( 4\n> ( *+ ( k *+ (\n5 (\nA k *+ W 5 5\nW 4\nB k *+ ( I 4\nC *+ ( 4\nD *+ ( * ( 2 ( ( 4\nE ( *+ W( 2/8 k 4\n\n20\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ20*",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-42/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-42/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "!b\"3$=>F$=b> )4Garota com bola4 ¥ &  W / / 4\n~ ; ~ >  f /. 4\n< ( 5 ^^^4 4 4 ; k4 x 4\n; & I /. (\n5 Pop Art W(& k\n( *+ 4/3\n( &H *\n& I( 4\n> ( *+ ( k *+ (\n5 (\nA k *+ W 5 5\nW 4\nB k *+ ( I 4\nC *+ ( 4\nD *+ ( * ( 2 ( ( 4\nE ( *+ W( 2/8 k 4\n\n20\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação\n*010175AZ20*\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 43,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 43 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        20
+      ],
+      "statement": "O TATA CONTOU\nSOBRE O CALUNGA, 0\nMAR QUE NÃO ACABA.\n\nNANA, SE A GENTE BEBER A\nNSANGA E ENFRENTAR O CALUNGA,\nPODEMOS FICAR JUNTOS LA NA\nOUTRA TERRA.\nLONGE DAQUI...\n\n...LONGE DISSO TUDO.\n<jF;!=$= ~4Cumbe4 F+ ' 6 x  (4 K 7 ( 4\n; 2 8 H 2",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-43/statement-01.png",
+        "/generated/enem-2021/linguagens/question-43/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-43/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "su( & *+ 4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "re( ( & 4",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "representar o abatimento diante da desumanidade 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ac 2 ( k 4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "W( H H ( W5 4",
+          "assets": []
+        }
+      ],
+      "rawText": "O TATA CONTOU\nSOBRE O CALUNGA, 0\nMAR QUE NÃO ACABA.\n\nNANA, SE A GENTE BEBER A\nNSANGA E ENFRENTAR O CALUNGA,\nPODEMOS FICAR JUNTOS LA NA\nOUTRA TERRA.\nLONGE DAQUI...\n\n...LONGE DISSO TUDO.\n<jF;!=$= ~4Cumbe4 F+ ' 6 x  (4 K 7 ( 4\n; 2 8 H 2\n\nA. su( & *+ 4\nB. re( ( & 4\nC. representar o abatimento diante da desumanidade 4\nD. ac 2 ( k 4\nE. W( H H ( W5 4"
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 44,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 44 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        20
+      ],
+      "statement": "= 4 \" K\nK 8 ( (\n( + 4 <\nquando tocava a matraca, reunia-se gente, e ele anunciava\n8 &  I ( k\n8 & 4\n? 8 ( ( k ( & %\nera conservado pela grande energia de divulgação que\n( 5 4 ' W (\n( *+ ( &\n# & 8 % 8\nk & 8 4\n= k  (\nI * ( % *+\n( # & *\n4 6 *\ndo antigo regímen( k I 4\n\n? k 2 \n*+ *+ *\n( 4 ; *\npopulação no sistema da matraca, o narrador associa\n*+",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-44/statement-01.png",
+        "/generated/enem-2021/linguagens/question-44/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-44/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-44/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-44/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-44/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-44/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-44/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "= 4 \" K\nK 8 ( (\n( + 4 <\nquando tocava a matraca, reunia-se gente, e ele anunciava\n8 &  I ( k\n8 & 4\n? 8 ( ( k ( & %\nera conservado pela grande energia de divulgação que\n( 5 4 ' W (\n( *+ ( &\n# & 8 % 8\nk & 8 4\n= k  (\nI * ( % *+\n( # & *\n4 6 *\ndo antigo regímen( k I 4\n\n? k 2 \n*+ *+ *\n( 4 ; *\npopulação no sistema da matraca, o narrador associa\n*+\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 45,
+      "year": 2021,
+      "area": "Linguagens",
+      "title": "Questão 45 — ENEM 2021 — Linguagens",
+      "sourcePages": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "statement": "> `\n8 ;& L 8/4  ( W\n5 *+ 5 & H\n( &\na insensibilidade dos meios de comunicação e a amnésia\nk 4 = k &\n5 ( 4 ; $\n8 ¤\nH k j 4 ?\n\"\nChorando baixinho7 / x\n( ' W 8\ngravou Ingênuo7 /  ( 8\n( ( *+ 4 ? ~ b\nF ) z W\n// 4\n> *+ ! ` 8 Revista\ndo Choro ( I\n( ( ( + 4 ? ( &\n& ( WI 4 = &\n*+ 8 ( *+\n2 4",
+      "statementAssets": [
+        "/generated/enem-2021/linguagens/question-45/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2021/linguagens/question-45/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "(I * 4 ( *+ I 4 & H *+ 4 ; * 4 po 5 *+ 4 *+ 5 4 I 5 4 k 4 * W *+ 4 y W & k *+ \"# \" 4 correção dos métodos preventivos e das regras 4 ( 5 ( 5 4 ( I + 4 8 4 ra 4 I & 8 4 ( 4 ( 4 & 8 # 4 co& ( 8 4",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-45/option-a-01.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-02.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-03.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-04.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-05.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-06.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-07.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-08.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-09.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-10.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-11.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-12.png",
+            "/generated/enem-2021/linguagens/question-45/option-a-13.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "  4 & *+ 5 4 ( 8 # 5 4 ' 5 (  4 in4 ( *+ 2 ( * ( & 4 W( 2 ( ( 4 ( 5 4 ( 5 4 ( *+ + 4 *+ ( & * & 4 8 * ( & 4 ( *+ 4 8 I 4 an W *+ ( W 4 k *+ I 4 I I 4 ( *+ *+ 4 + 4 im( * 5 W 4",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-45/option-b-01.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-02.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-03.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-04.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-05.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-06.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-07.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-08.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-09.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-10.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-11.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-12.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-13.png",
+            "/generated/enem-2021/linguagens/question-45/option-b-14.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "4 ( 5 *+ & 4 ( 5 8 4 ~ * ( 5 4 pr* k *+ 4 ( *+ & 4 *+ * 4 2 4 * k & 4 *+ ( 4 *+ ( ( * 4 & ( *+ & 4 4 \" k 4 descompassos na construção de quadros 4 ( *+ *+ 4 4 k *+ ( H 4 ( 4 as( + k *+ k 4",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-45/option-c-01.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-02.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-03.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-04.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-05.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-06.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-07.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-08.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-09.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-10.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-11.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-12.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-13.png",
+            "/generated/enem-2021/linguagens/question-45/option-c-14.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "& 4 ( k *+ 5 # 4 ( & *+ 4 > 5 (I 4 me&H *+ 4 y W & k *+ ( ( *+ ( 5 4 ( k *+ 4 & ( # 4 * W I 4 *+ (*+ ( 5 4 *+ ( 5 * 4 *+ ( ( I 4 ( 5 H 4 ( * 5 4 ilegitimidade na atuação dos movimentos de ( *+ 4 ( & ( * 4 W( *+ 4 *+  4 ( # 4 co# ; \" 4",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-45/option-d-01.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-02.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-03.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-04.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-05.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-06.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-07.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-08.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-09.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-10.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-11.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-12.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-13.png",
+            "/generated/enem-2021/linguagens/question-45/option-d-14.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "*010175AZ21* 21\n!\" K   \" K ;B! K  ;( *+ INSTRUÇÕES PARA A REDAÇÃO\n4 ? 8 *+ ( * ( ( 4\nx4 ? W ( 8 ( #( I  8 4\n4; *+ ( #( W ' ( ) *+ \" @ 8 ( ( 8 4/4. Receberá nota zero, em qualquer das situações expressas a seguir, a redação que:\n4 4 I w 7 8  W %\n4x4 + ( K %\n44 ( ( W & ( ( %\n4 4 ( & *+ ( * W 4 TEXTOS MOTIVADORES\nTEXTO I $ W K  & k &\n( 6 b  z ' *\n? k \" ) H\n( / 84 < (\ntodas pobres ou muito pobres, quase todas negras, cercam\n5 ( (\n( ( ( 4\n; 8 * + (\n` I 8 (\n§ + 4 444 ;\nk\n 8  ( + W\n+ W(\na ideia da pessoa sem registro de nascimento sobre si\n(H W 2/8 ( = 4 =F\"¥FFb; L4 ~4Invisíveis& H # & 4 $ 7< 3 # ' 5 ` \" 4 L *+  6 4 ) z x /4\nTEXTO II ; ! >« /  //w\n` 4 F# ( & (\nW + I ( W + W( ( (\n( ( ( W ( 4 < ( 5 8 ( VV 4 w4 V4 ; xx H 4 x x 7 ( 4 TEXTO III A certidão de nascimento é o primeiro e o mais\n( + 4 \" (\nW ( = 4 F#\n( + I ( 5\n& 8/5 \" ' L5 7\"'L 4\nAlém disso, para matricular uma criança na escola e\n& 5 ( *+\nI & # 4 < ( 5 8 ( VV^^^4 4 4& V4 ; x H 4 x x 4\nTEXTO IV DEFENSORAS E DEFENSORES\nPÚBLICOS PELO DIREITO À\nDOCUMENTAÇÃO PESSOAL. < ( 5 8 ( VV^^^4 4& V8 4 ; x. H 4 x x 7 ( 4 PROPOSTA DE REDAÇÃO\n; ( W & 8 5 *+\nH W K 5 (&\nb & ` ( ( ( *+\n( 8 4 F k\n( ( 4 *010175AZ22* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação A simples vontade de checar mensagens do trabalho pós-expediente prejudica sua\nsaúde — e a de sua família4 < ( 5 ^^^4&& 4 4 ; k4 x 4 ? W ( * & 8\n( 5 'b =$$ $4O capital no século XXI4 ) z b 5 x 7 ( 4 \"\n( 5(\n& # \nW 7 ; ' ~ 8 B\n` k I 8\n*+ *+ 8 & * 4\n;* H H * *\n2 ( '\n~ 8 & k *+\n4 ; (\nI & 8 ( W ( H ( ( atores da vitivinicultura nacional, incluindo produtores de\n( W( *+\n( k\n( ( ( +\nF  8 8/8 ( k 4 Programa de Melhoramento Genético “Uvas do Brasil”4 < ( 5 ^^^4 & ( 4& 4\n; x 4 x  7 ( 4\n' 8 ( *+ 5\nI W &\n( 7 4 TEXTO I Portadoras de mensagem espiritual do passado,\nas obras monumentais de cada povo perduram no\n( 8 *\n4 ; 8 k\n8 &\n( * 8\n( ( ( K (\na si mesma o dever de transmiti-las na plenitude de sua\n4 Carta de Veneza /. 4 < ( 5 ^^^4 (8 4 4& 4\n; w 4 x /4 TEXTO II Os sistemas tradicionais de proteção se mostram\nk (\n& k *+ *+ 4\nA legislação de proteção peca por considerar o\nmonumento, até certo ponto, desvinculado da realidade\n 4\n?\n&\nimutabilidade do monumento, provoca a redução de seu\nvalor venal e o abandono, o que é uma causa, ainda que\n*+ 4 $=!!=F !4 F4Manual do patrimônio histórico4 ' ; % \" W F\n= F ( $ F+ ! * ` /ww 7 ( 4 = (8 # ( W\nW ( (\n& 7 ( * # 4 *010175AZ23* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação TEXTO II\n3 W( & W \n(  4  5\nk I W\n4 B # I\nW  (\nK 4 ?\n( W H\nW & 4 =\nsão derretidos em lareiras ao ar livre, poluindo o ar e,\nk W ( #( H 4 ;!=<b b4% F?B; 4 < ( 5 ^^^4 ^4 4 ; x 4 x / 7 ( 4\n> W & (\nW y ( + *\n7 B>=F\"?4Relatório Mundial das Nações Unidas sobre Desenvolvimento dos\nRecursos Hídricos4  ( 4 B x 4 As tensõ( W( W\ninteresse britânico em ( # 4 ;!<b>? 64% `;)`?F; )4 \"4Artistas por um dia?\nz + ' = B x /4 ; W(2 ( (\nW & k (\ndiversidade regional: ; * & 4 3=)<b; 64 > ( & 8\n*+ ( 4Scripta Nova4 w 4 x 7 ( 4 O uso de novas tecnologias relacionado ao controle\n( I W k+ x *010175AZ24* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação ~?)=b); z4 `4 ) ` y W ( *+ 4\nREMHU4  H 4K k4 x 7 ( 4 ; *+ `\n& W I ( ( *+\nentre F?~`)b? ~4 ~4 ?4 = & ( (  ~ 8 W( * 5\n` I 4Cadernos Pagu4  x .4 > W I b *+ 8\n( 5 W I ( ~;)\"BF= 34A ideologia da sociedade industrial8 4\n) z  8 /w/4\n? W ( *+\nH ( I y ( re( k 4 \";)!?F ;4 L4 ;4A cidade4 F+ ' \" W x 7 ( 4 > W & *+\n( W 2 *+ k *+ ( 4 ~;b; <4% ~;b; ;4 \"4 ; k *+ ( ( & *+ ( (\nbb4GeoTextos4 H 4 x 7 ( 4\n? W W( ( *+ 8\nconstitui pela k *+ * 4 x *010175AZ25* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação < x / (\n* k (\n( *+ & 8 '\n~ 8 4 ' (\n) z (*\n k *+ & W (\n(\n5 I ( ( & ( *\n*+ ( *\nk I\n*+ ( ( k\n* ( ) z (\ndos waterfronts` ` ` ; 4 !;\"=)<; !4% ]=)>=\" ~4% )b`=b)? `4 \" * 8 H 8+4\nE-metropolis4  4 x w4\nAs intervenções urbanas descritas derivam de um\nprocesso socioespacial que busca a\nA *+ ( ( *+ ( & 4\nB *+ ( *+ & 4\nC k *+ 8 & *+ ( ( 4\nD k *+ * 4\nE ( k *+ + ( ( 4 ;)=>< ~4A industrialização do Brasil ante a nova divisão internacional do trabalho4\n< ( 5 ^^^4 ( 4 4& 4 ; . H 4 x 7 ( 4 B ( &\n7 ( 8 ( #\n( = ( ( (\n( *+  4 =\n( *+  ( k\nesgarçamento das relações sociais destes grupos que\n*+ & (\n 4 ';!3=$; z4 ~4 4 \" y ( # ; k 4\nMercator4 . x w4 ? W ( *+ \nk *+ ( 7 # 4 ' # +\nrelativa maior, mas a determinação de um estado ou\nde um padrão em relação ao qual tanto as quantidades\n+ 4\n~ ( *+ 4 \n8 * &I +\n4 <=!=B= 4% B;$$;)b L4Mil platôs4 F+ ' =  x x 7 ( 4 > W k *+\nW 2 8 k * & # 4 ; ( * ( ( &\n& I\n( 5 # k+ k+\n+ ( H 4 F\nsão diametralmente opostos aos vossos, mesmo que ela\n(\n( ( ( 4\n~ ( 4 =>=!F L4A situação da classe trabalhadora na Inglaterra4 F+ ' ` ( x 4 > W ( I\n( 7 x. *010175AZ26* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação `);Fb!4Mapa do encarceramentoH ` 4\n` 5 ' 2 ) ( & x 4 > W ( 5 ( & ( k\n( & ( W( + ( 5 + 4 )BF$ !4 <4 B 4Rev. Bras. Hist.,\n4 wx K 4 x . 7 ( 4 < W (\nsociedades medievais por proporcionar a *+ ( * (  4 ? (5 ((\nI\n K & k *+\nK\n 4 = & x x\n(# & 8\n(  '_\n( 8\n+ 4 = (\n& k *+\n8 ( 8\ndivulgando a hashtag ¨  K ^\n&  K ^\n( ( ( 4 \";'b`=)b`= ;4% `?>b!!; ?4 ; ( *+ \"\n5 Estudos Avançados4  x 7 ( 4 ; I (5\nW ( ( ? 6 ( ( =\n> 7 /wK / ( = ( k\n4 B + K 8\n( H 8 # ( ( 4 >+ (\n+ *\n( *+\n\" 8 >  \" 8 >\n\" \" 8 > = 5\nb `  = 5 7b`=\n/4 !b''b !4A conquista do Oeste4 < ( 5 8 ( VV ( 4 4& 4\n; w 4 x 7 ( 4 ; *+ * (6\n( I ( 5 *010175AZ27* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação ';''b;>b ;4Tecnologias indígenas( ( 4\n< ( 5 8 ( VV ( 4 4\n; 4 x / 7 ( 4\n> W *+ ( 5\n(  7 y ( ( *+  4 !=b> 64Geologia geral4 F+ ' = > //4\n; * ( 5\nW ((\n#\nA \" 4\nB b & 5 4\nC b ( & # 4\nD < & 4\nE \" ( *+ ( 4 Caderno Objetivos de Desenvolvimento Sustentável ?<F 4/8\n4 ` 5 b( x /4 Qual medida promove a participação social descrita no\nW  @  6\n/ ( 5 ( & 4 ; (\n( 5 8 5 ( &\n(8 8 *+ ( *+\n& / 4 =\n5\n( + 2 4 )=bF Lb!3? <4 ;4 ? = & 6 4\nRevista Nossa História4 w x 4 ? W ( +\n( 5 = < z + ( * < * & 64\n~ 2 ( & (\n 8 8 * \n(4 $\nordem de seguir em diversos navios destinados a esse\nporto, e, tendo eu proibido, por lei recente, o uso da sua\n5 8 & 64 ~ 2 (\nsob ameaça de penalidades, não permitindo que ensinem\n5 8 (\n( * 4 $=b=b); )4 \"4História dos ciganos no Brasil4\n) > = \" x 4 ; \" ( ( \nw  (\nidentidade cultural pautado em * 5 # 4 x *010175AZ28* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 6;B\"3= ;4A espiritualidade da Idade Média Ocidental, séc. VIII-XIII4\n! & = ( // 4\nO comportamento desse religioso demonstra uma\n( ( *+ 5 (\nb H ( 8\n( ( 7 4 `;))B\"3? !4 < ( 5 ^^^4&& 4 4 ;  4 x / 7 ( 4 ;))B<; z4 z4 ;4 ' ( ) *+ b 4\nRev. Bras. Hist.4 w / 7 ( 4\nTEXTO II\n;) *+ b *\n((8 +\n( H 8 & 4 > I .\ncamponeses se revoltaram contra os cercamentos,\ntecelões contra a miséria resultante da depressão e os\n;\n\" $ 4 3b!! \"4 B *+ & Rev. Bras. Hist.4 w / 7 ( 4\n; (*+ ) *+ b ( $ W bb\nK $ W b W 2\nA pl4\nB 8 4\nC un& 8 # 4\nD su( ( 5 4\nE su( (  4 <;6b<?6b\"3 L4 = ) z & ( 4/3 (# 4 GeoUERJ4 x x 4\n@ ( *+ ( ( y\nk *+ ( *+ (\nW \nA \" *+ ( 4\nB ' *+ 4\nC ) ( *+ 4\nD b ( *+ & 4\nE b ( *+ + & 4 *010175AZ29* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 'b>$? !4 ;4 \"4Sociologia e desenvolvimento4 ) z\n\" k *+ ` /w 7 ( 4 De acordo com a perspectiva apresentada, central no\n( & / /.\n( 5 ( va ( * ( ( 4 Manifesto dos Pioneiros da Educação Nova — 1932\n; = *+ > (\nI *+\n8 *+ ( ( K\nK (  8 ( 8\ndas capacidades”, recrutadas em todos os grupos sociais,\n& ( *+ 4\n= ( &H k\n*+ \n8 (\nde seu crescimento”, de acordo com uma certa concepção\n4\n< ( 5 ^^^48 & 4 4 (4& 4 ; w 4 x 4\n? ( ( K\nK & 4 >\n8 ( ( *+ *+ ( W *+ & 4 '!;$J?4Mênon4 ) z 'B\"K) % F+ ' ! _ x 7 ( 4 ; ( *+ #\n~2 I W ( k *+ 7 ( + H 4 )?<)bB=F ~4 )4 ;4 ~4% $;6;)=F ;4 \"4 '4 F # &\n& \" & 7; 4\nAnais do Museu Paulista4 x K 4 x w 7 ( 4 ' ( ] _\nW ( *+ & * 4 *010175AZ30* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 6;!!= \"4 4 ?4 $ I V$ I * *+ (\nI \" (  4 b )¯>=];!< )4 ;4 7? 4 4Toré: regime\n5 > 4 ) L HK~ x 4\n? W & *+\n( 5 > & *+ k I 4 = 4Jornal Correio Paulistano & w/4 < ( 5/8 ( VV& 4& 4 4& 4 ; x 4 x / 7 ( 4 > ( & I b\nI 2 (  <=F\";)$=F )4 4 ! & = * w //w 7 ( 4 = *+ # <\n*+ ( # &H >b=$F\"3= ( L=)) !4Aprender a viver( ( 4\n) z ?&H x 7 ( 4 = # ( > k 8/5 *+ + cok *+ 8 ( 4 =~'bF $4Imitação de Cristo4 ' #( 6 k x 4\n@ 5 I\nW  31\nCH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ31* EQUINÓCIO\n21 de março SOLSTÍCIO\n21 de dezembro SOLSTÍCIO\n21 de junho EQUINÓCIO\n23 de setembro SOL < ( 5 ^^^4 4 (4& 4 ; xw H 4 x 7 ( 4\n\" * ( ( I \" > ` 5 x H 8\nx 8 ( H & ( *+ =b=>3==) =4 ~4Lixo( k & I ( 4 ' ;  ' x /4\nTEXTO II\n; ( W H ( ( * (\n5 4 $ ( k 8 8\n( (  & & W W & & * ( ) 4 ;);F\"3 ~4 \"4A vida dos escravos no Rio de Janeiro, 1808-18504 ) z \" 4 ! x 4\n; *+ ( W ( `\nI 6bbb b k (\nA k *+ & 8 & * 4 *010175AZ32* 32\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação.",
+          "assets": [
+            "/generated/enem-2021/linguagens/question-45/option-e-01.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-02.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-03.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-04.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-05.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-06.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-07.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-08.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-09.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-10.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-11.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-12.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-13.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-14.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-15.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-16.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-17.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-18.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-19.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-20.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-21.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-22.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-23.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-24.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-25.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-26.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-27.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-28.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-29.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-30.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-31.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-32.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-33.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-34.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-35.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-36.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-37.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-38.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-39.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-40.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-41.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-42.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-43.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-44.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-45.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-46.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-47.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-48.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-49.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-50.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-51.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-52.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-53.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-54.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-55.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-56.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-57.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-58.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-59.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-60.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-61.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-62.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-63.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-64.png",
+            "/generated/enem-2021/linguagens/question-45/option-e-65.png"
+          ]
+        }
+      ],
+      "rawText": "> `\n8 ;& L 8/4  ( W\n5 *+ 5 & H\n( &\na insensibilidade dos meios de comunicação e a amnésia\nk 4 = k &\n5 ( 4 ; $\n8 ¤\nH k j 4 ?\n\"\nChorando baixinho7 / x\n( ' W 8\ngravou Ingênuo7 /  ( 8\n( ( *+ 4 ? ~ b\nF ) z W\n// 4\n> *+ ! ` 8 Revista\ndo Choro ( I\n( ( ( + 4 ? ( &\n& ( WI 4 = &\n*+ 8 ( *+\n2 4\n\nA. (I * 4 ( *+ I 4 & H *+ 4 ; * 4 po 5 *+ 4 *+ 5 4 I 5 4 k 4 * W *+ 4 y W & k *+ \"# \" 4 correção dos métodos preventivos e das regras 4 ( 5 ( 5 4 ( I + 4 8 4 ra 4 I & 8 4 ( 4 ( 4 & 8 # 4 co& ( 8 4\nB.   4 & *+ 5 4 ( 8 # 5 4 ' 5 (  4 in4 ( *+ 2 ( * ( & 4 W( 2 ( ( 4 ( 5 4 ( 5 4 ( *+ + 4 *+ ( & * & 4 8 * ( & 4 ( *+ 4 8 I 4 an W *+ ( W 4 k *+ I 4 I I 4 ( *+ *+ 4 + 4 im( * 5 W 4\nC. 4 ( 5 *+ & 4 ( 5 8 4 ~ * ( 5 4 pr* k *+ 4 ( *+ & 4 *+ * 4 2 4 * k & 4 *+ ( 4 *+ ( ( * 4 & ( *+ & 4 4 \" k 4 descompassos na construção de quadros 4 ( *+ *+ 4 4 k *+ ( H 4 ( 4 as( + k *+ k 4\nD. & 4 ( k *+ 5 # 4 ( & *+ 4 > 5 (I 4 me&H *+ 4 y W & k *+ ( ( *+ ( 5 4 ( k *+ 4 & ( # 4 * W I 4 *+ (*+ ( 5 4 *+ ( 5 * 4 *+ ( ( I 4 ( 5 H 4 ( * 5 4 ilegitimidade na atuação dos movimentos de ( *+ 4 ( & ( * 4 W( *+ 4 *+  4 ( # 4 co# ; \" 4\nE. *010175AZ21* 21\n!\" K   \" K ;B! K  ;( *+ INSTRUÇÕES PARA A REDAÇÃO\n4 ? 8 *+ ( * ( ( 4\nx4 ? W ( 8 ( #( I  8 4\n4; *+ ( #( W ' ( ) *+ \" @ 8 ( ( 8 4/4. Receberá nota zero, em qualquer das situações expressas a seguir, a redação que:\n4 4 I w 7 8  W %\n4x4 + ( K %\n44 ( ( W & ( ( %\n4 4 ( & *+ ( * W 4 TEXTOS MOTIVADORES\nTEXTO I $ W K  & k &\n( 6 b  z ' *\n? k \" ) H\n( / 84 < (\ntodas pobres ou muito pobres, quase todas negras, cercam\n5 ( (\n( ( ( 4\n; 8 * + (\n` I 8 (\n§ + 4 444 ;\nk\n 8  ( + W\n+ W(\na ideia da pessoa sem registro de nascimento sobre si\n(H W 2/8 ( = 4 =F\"¥FFb; L4 ~4Invisíveis& H # & 4 $ 7< 3 # ' 5 ` \" 4 L *+  6 4 ) z x /4\nTEXTO II ; ! >« /  //w\n` 4 F# ( & (\nW + I ( W + W( ( (\n( ( ( W ( 4 < ( 5 8 ( VV 4 w4 V4 ; xx H 4 x x 7 ( 4 TEXTO III A certidão de nascimento é o primeiro e o mais\n( + 4 \" (\nW ( = 4 F#\n( + I ( 5\n& 8/5 \" ' L5 7\"'L 4\nAlém disso, para matricular uma criança na escola e\n& 5 ( *+\nI & # 4 < ( 5 8 ( VV^^^4 4 4& V4 ; x H 4 x x 4\nTEXTO IV DEFENSORAS E DEFENSORES\nPÚBLICOS PELO DIREITO À\nDOCUMENTAÇÃO PESSOAL. < ( 5 8 ( VV^^^4 4& V8 4 ; x. H 4 x x 7 ( 4 PROPOSTA DE REDAÇÃO\n; ( W & 8 5 *+\nH W K 5 (&\nb & ` ( ( ( *+\n( 8 4 F k\n( ( 4 *010175AZ22* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação A simples vontade de checar mensagens do trabalho pós-expediente prejudica sua\nsaúde — e a de sua família4 < ( 5 ^^^4&& 4 4 ; k4 x 4 ? W ( * & 8\n( 5 'b =$$ $4O capital no século XXI4 ) z b 5 x 7 ( 4 \"\n( 5(\n& # \nW 7 ; ' ~ 8 B\n` k I 8\n*+ *+ 8 & * 4\n;* H H * *\n2 ( '\n~ 8 & k *+\n4 ; (\nI & 8 ( W ( H ( ( atores da vitivinicultura nacional, incluindo produtores de\n( W( *+\n( k\n( ( ( +\nF  8 8/8 ( k 4 Programa de Melhoramento Genético “Uvas do Brasil”4 < ( 5 ^^^4 & ( 4& 4\n; x 4 x  7 ( 4\n' 8 ( *+ 5\nI W &\n( 7 4 TEXTO I Portadoras de mensagem espiritual do passado,\nas obras monumentais de cada povo perduram no\n( 8 *\n4 ; 8 k\n8 &\n( * 8\n( ( ( K (\na si mesma o dever de transmiti-las na plenitude de sua\n4 Carta de Veneza /. 4 < ( 5 ^^^4 (8 4 4& 4\n; w 4 x /4 TEXTO II Os sistemas tradicionais de proteção se mostram\nk (\n& k *+ *+ 4\nA legislação de proteção peca por considerar o\nmonumento, até certo ponto, desvinculado da realidade\n 4\n?\n&\nimutabilidade do monumento, provoca a redução de seu\nvalor venal e o abandono, o que é uma causa, ainda que\n*+ 4 $=!!=F !4 F4Manual do patrimônio histórico4 ' ; % \" W F\n= F ( $ F+ ! * ` /ww 7 ( 4 = (8 # ( W\nW ( (\n& 7 ( * # 4 *010175AZ23* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação TEXTO II\n3 W( & W \n(  4  5\nk I W\n4 B # I\nW  (\nK 4 ?\n( W H\nW & 4 =\nsão derretidos em lareiras ao ar livre, poluindo o ar e,\nk W ( #( H 4 ;!=<b b4% F?B; 4 < ( 5 ^^^4 ^4 4 ; x 4 x / 7 ( 4\n> W & (\nW y ( + *\n7 B>=F\"?4Relatório Mundial das Nações Unidas sobre Desenvolvimento dos\nRecursos Hídricos4  ( 4 B x 4 As tensõ( W( W\ninteresse britânico em ( # 4 ;!<b>? 64% `;)`?F; )4 \"4Artistas por um dia?\nz + ' = B x /4 ; W(2 ( (\nW & k (\ndiversidade regional: ; * & 4 3=)<b; 64 > ( & 8\n*+ ( 4Scripta Nova4 w 4 x 7 ( 4 O uso de novas tecnologias relacionado ao controle\n( I W k+ x *010175AZ24* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação ~?)=b); z4 `4 ) ` y W ( *+ 4\nREMHU4  H 4K k4 x 7 ( 4 ; *+ `\n& W I ( ( *+\nentre F?~`)b? ~4 ~4 ?4 = & ( (  ~ 8 W( * 5\n` I 4Cadernos Pagu4  x .4 > W I b *+ 8\n( 5 W I ( ~;)\"BF= 34A ideologia da sociedade industrial8 4\n) z  8 /w/4\n? W ( *+\nH ( I y ( re( k 4 \";)!?F ;4 L4 ;4A cidade4 F+ ' \" W x 7 ( 4 > W & *+\n( W 2 *+ k *+ ( 4 ~;b; <4% ~;b; ;4 \"4 ; k *+ ( ( & *+ ( (\nbb4GeoTextos4 H 4 x 7 ( 4\n? W W( ( *+ 8\nconstitui pela k *+ * 4 x *010175AZ25* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação < x / (\n* k (\n( *+ & 8 '\n~ 8 4 ' (\n) z (*\n k *+ & W (\n(\n5 I ( ( & ( *\n*+ ( *\nk I\n*+ ( ( k\n* ( ) z (\ndos waterfronts` ` ` ; 4 !;\"=)<; !4% ]=)>=\" ~4% )b`=b)? `4 \" * 8 H 8+4\nE-metropolis4  4 x w4\nAs intervenções urbanas descritas derivam de um\nprocesso socioespacial que busca a\nA *+ ( ( *+ ( & 4\nB *+ ( *+ & 4\nC k *+ 8 & *+ ( ( 4\nD k *+ * 4\nE ( k *+ + ( ( 4 ;)=>< ~4A industrialização do Brasil ante a nova divisão internacional do trabalho4\n< ( 5 ^^^4 ( 4 4& 4 ; . H 4 x 7 ( 4 B ( &\n7 ( 8 ( #\n( = ( ( (\n( *+  4 =\n( *+  ( k\nesgarçamento das relações sociais destes grupos que\n*+ & (\n 4 ';!3=$; z4 ~4 4 \" y ( # ; k 4\nMercator4 . x w4 ? W ( *+ \nk *+ ( 7 # 4 ' # +\nrelativa maior, mas a determinação de um estado ou\nde um padrão em relação ao qual tanto as quantidades\n+ 4\n~ ( *+ 4 \n8 * &I +\n4 <=!=B= 4% B;$$;)b L4Mil platôs4 F+ ' =  x x 7 ( 4 > W k *+\nW 2 8 k * & # 4 ; ( * ( ( &\n& I\n( 5 # k+ k+\n+ ( H 4 F\nsão diametralmente opostos aos vossos, mesmo que ela\n(\n( ( ( 4\n~ ( 4 =>=!F L4A situação da classe trabalhadora na Inglaterra4 F+ ' ` ( x 4 > W ( I\n( 7 x. *010175AZ26* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação `);Fb!4Mapa do encarceramentoH ` 4\n` 5 ' 2 ) ( & x 4 > W ( 5 ( & ( k\n( & ( W( + ( 5 + 4 )BF$ !4 <4 B 4Rev. Bras. Hist.,\n4 wx K 4 x . 7 ( 4 < W (\nsociedades medievais por proporcionar a *+ ( * (  4 ? (5 ((\nI\n K & k *+\nK\n 4 = & x x\n(# & 8\n(  '_\n( 8\n+ 4 = (\n& k *+\n8 ( 8\ndivulgando a hashtag ¨  K ^\n&  K ^\n( ( ( 4 \";'b`=)b`= ;4% `?>b!!; ?4 ; ( *+ \"\n5 Estudos Avançados4  x 7 ( 4 ; I (5\nW ( ( ? 6 ( ( =\n> 7 /wK / ( = ( k\n4 B + K 8\n( H 8 # ( ( 4 >+ (\n+ *\n( *+\n\" 8 >  \" 8 >\n\" \" 8 > = 5\nb `  = 5 7b`=\n/4 !b''b !4A conquista do Oeste4 < ( 5 8 ( VV ( 4 4& 4\n; w 4 x 7 ( 4 ; *+ * (6\n( I ( 5 *010175AZ27* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação ';''b;>b ;4Tecnologias indígenas( ( 4\n< ( 5 8 ( VV ( 4 4\n; 4 x / 7 ( 4\n> W *+ ( 5\n(  7 y ( ( *+  4 !=b> 64Geologia geral4 F+ ' = > //4\n; * ( 5\nW ((\n#\nA \" 4\nB b & 5 4\nC b ( & # 4\nD < & 4\nE \" ( *+ ( 4 Caderno Objetivos de Desenvolvimento Sustentável ?<F 4/8\n4 ` 5 b( x /4 Qual medida promove a participação social descrita no\nW  @  6\n/ ( 5 ( & 4 ; (\n( 5 8 5 ( &\n(8 8 *+ ( *+\n& / 4 =\n5\n( + 2 4 )=bF Lb!3? <4 ;4 ? = & 6 4\nRevista Nossa História4 w x 4 ? W ( +\n( 5 = < z + ( * < * & 64\n~ 2 ( & (\n 8 8 * \n(4 $\nordem de seguir em diversos navios destinados a esse\nporto, e, tendo eu proibido, por lei recente, o uso da sua\n5 8 & 64 ~ 2 (\nsob ameaça de penalidades, não permitindo que ensinem\n5 8 (\n( * 4 $=b=b); )4 \"4História dos ciganos no Brasil4\n) > = \" x 4 ; \" ( ( \nw  (\nidentidade cultural pautado em * 5 # 4 x *010175AZ28* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 6;B\"3= ;4A espiritualidade da Idade Média Ocidental, séc. VIII-XIII4\n! & = ( // 4\nO comportamento desse religioso demonstra uma\n( ( *+ 5 (\nb H ( 8\n( ( 7 4 `;))B\"3? !4 < ( 5 ^^^4&& 4 4 ;  4 x / 7 ( 4 ;))B<; z4 z4 ;4 ' ( ) *+ b 4\nRev. Bras. Hist.4 w / 7 ( 4\nTEXTO II\n;) *+ b *\n((8 +\n( H 8 & 4 > I .\ncamponeses se revoltaram contra os cercamentos,\ntecelões contra a miséria resultante da depressão e os\n;\n\" $ 4 3b!! \"4 B *+ & Rev. Bras. Hist.4 w / 7 ( 4\n; (*+ ) *+ b ( $ W bb\nK $ W b W 2\nA pl4\nB 8 4\nC un& 8 # 4\nD su( ( 5 4\nE su( (  4 <;6b<?6b\"3 L4 = ) z & ( 4/3 (# 4 GeoUERJ4 x x 4\n@ ( *+ ( ( y\nk *+ ( *+ (\nW \nA \" *+ ( 4\nB ' *+ 4\nC ) ( *+ 4\nD b ( *+ & 4\nE b ( *+ + & 4 *010175AZ29* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 'b>$? !4 ;4 \"4Sociologia e desenvolvimento4 ) z\n\" k *+ ` /w 7 ( 4 De acordo com a perspectiva apresentada, central no\n( & / /.\n( 5 ( va ( * ( ( 4 Manifesto dos Pioneiros da Educação Nova — 1932\n; = *+ > (\nI *+\n8 *+ ( ( K\nK (  8 ( 8\ndas capacidades”, recrutadas em todos os grupos sociais,\n& ( *+ 4\n= ( &H k\n*+ \n8 (\nde seu crescimento”, de acordo com uma certa concepção\n4\n< ( 5 ^^^48 & 4 4 (4& 4 ; w 4 x 4\n? ( ( K\nK & 4 >\n8 ( ( *+ *+ ( W *+ & 4 '!;$J?4Mênon4 ) z 'B\"K) % F+ ' ! _ x 7 ( 4 ; ( *+ #\n~2 I W ( k *+ 7 ( + H 4 )?<)bB=F ~4 )4 ;4 ~4% $;6;)=F ;4 \"4 '4 F # &\n& \" & 7; 4\nAnais do Museu Paulista4 x K 4 x w 7 ( 4 ' ( ] _\nW ( *+ & * 4 *010175AZ30* CH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação 6;!!= \"4 4 ?4 $ I V$ I * *+ (\nI \" (  4 b )¯>=];!< )4 ;4 7? 4 4Toré: regime\n5 > 4 ) L HK~ x 4\n? W & *+\n( 5 > & *+ k I 4 = 4Jornal Correio Paulistano & w/4 < ( 5/8 ( VV& 4& 4 4& 4 ; x 4 x / 7 ( 4 > ( & I b\nI 2 (  <=F\";)$=F )4 4 ! & = * w //w 7 ( 4 = *+ # <\n*+ ( # &H >b=$F\"3= ( L=)) !4Aprender a viver( ( 4\n) z ?&H x 7 ( 4 = # ( > k 8/5 *+ + cok *+ 8 ( 4 =~'bF $4Imitação de Cristo4 ' #( 6 k x 4\n@ 5 I\nW  31\nCH - 1° dia | Caderno 1 - AZUL - 1ª Aplicação *010175AZ31* EQUINÓCIO\n21 de março SOLSTÍCIO\n21 de dezembro SOLSTÍCIO\n21 de junho EQUINÓCIO\n23 de setembro SOL < ( 5 ^^^4 4 (4& 4 ; xw H 4 x 7 ( 4\n\" * ( ( I \" > ` 5 x H 8\nx 8 ( H & ( *+ =b=>3==) =4 ~4Lixo( k & I ( 4 ' ;  ' x /4\nTEXTO II\n; ( W H ( ( * (\n5 4 $ ( k 8 8\n( (  & & W W & & * ( ) 4 ;);F\"3 ~4 \"4A vida dos escravos no Rio de Janeiro, 1808-18504 ) z \" 4 ! x 4\n; *+ ( W ( `\nI 6bbb b k (\nA k *+ & 8 & * 4 *010175AZ32* 32\nLC - 1° dia | Caderno 1 - AZUL - 1ª Aplicação RASCUNHO\nDA REDAÇÃO Transcreva a sua Redação para a Folha de Redação."
+    }
+  ]
+}

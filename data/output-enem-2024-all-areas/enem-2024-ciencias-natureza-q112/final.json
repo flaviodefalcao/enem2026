@@ -1,0 +1,192 @@
+{
+  "questionId": "enem-2024-ciencias-natureza-q112",
+  "generatedAt": "2026-03-28T22:34:50.982Z",
+  "usage": {
+    "solver": {
+      "inputTokens": 1272,
+      "outputTokens": 918,
+      "estimatedCostUsd": 0.001978
+    },
+    "explainer": {
+      "inputTokens": 2050,
+      "outputTokens": 537,
+      "estimatedCostUsd": 0.001679
+    },
+    "reviewer": {
+      "inputTokens": 3516,
+      "outputTokens": 2134,
+      "estimatedCostUsd": 0.004821
+    },
+    "totalEstimatedCostUsd": 0.008478
+  },
+  "finalAnalysis": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A está correta.",
+      "strategy": "Identificar o grupo funcional na estrutura da nimesulida que possui hidrogênio ácido para reagir com uma base de Brönsted-Lowry, formando uma espécie carregada e aumentando a solubilidade em água.",
+      "steps": [
+        "Analisar os grupos funcionais indicados na estrutura química da nimesulida: metila, sulfonamida, éter, fenila e nitro.",
+        "Reconhecer que bases de Brönsted-Lowry capturam prótons (H⁺); portanto, o grupo que reage deve ter hidrogênio ácido disponível para ser removido.",
+        "Identificar que o grupo sulfonamida contém um hidrogênio ligado ao nitrogênio que pode ser perdido como próton.",
+        "Verificar que os demais grupos (metila, fenila, éter e nitro) não possuem hidrogênios ácidos para doação.",
+        "Concluir que o grupo sulfonamida é o grupo responsável pela reação que gera a espécie carregada, aumentando solubilidade."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Imagem da estrutura química da nimesulida com os grupos destacados."
+      ],
+      "confidence": "high"
+    },
+    "didacticExplanation": {
+      "shortExplanation": "O grupo sulfonamida na nimesulida possui hidrogênio ácido que pode ser removido por uma base de Brönsted-Lowry, formando uma espécie carregada com maior solubilidade em água.",
+      "stepByStep": [
+        "Observe os grupos funcionais destacados na estrutura da nimesulida: metila, sulfonamida, éter, fenila e nitro.",
+        "Saiba que base de Brönsted-Lowry aceita prótons e só reage com grupos que têm hidrogênio ácido disponível.",
+        "Identifique o hidrogênio ligado ao nitrogênio na sulfonamida, capaz de ser doado como próton.",
+        "Note que metila, fenila, éter e nitro não possuem hidrogênios ácidos para reagir.",
+        "Conclua que a sulfonamida é o grupo que reage com a base para aumentar a solubilidade do fármaco."
+      ],
+      "commonPitfalls": [
+        "Confundir grupo metila com grupo ácido devido à sua presença na molécula.",
+        "Assumir que presença de oxigênio ou nitrogênio em éter ou nitro implica em hidrogênio ácido.",
+        "Pensar que o anel fenila pode doar um próton.",
+        "Ignorar que a reação ácido-base de Brönsted-Lowry envolve doadores e receptores de prótons.",
+        "Considerar todo grupo com oxigênio como ácido sem verificar hidrogênio ácido."
+      ],
+      "teachingTips": [
+        "Explique claramente a teoria ácido-base de Brönsted-Lowry focando doadores e receptores de prótons.",
+        "Ajude alunos a identificar hidrogênios ácidos em grupos funcionais.",
+        "Use exemplos clássicos para diferenciar grupos com e sem hidrogênio ácido.",
+        "Estimule a análise estrutural cuidadosa da molécula para encontrar grupos ativos.",
+        "Utilize diagramas com grupos destacados e suas propriedades ácidas para evitar confusão."
+      ]
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir o grupo metila com possibilidade de reatividade ácida.",
+        "misconceptionType": "Confusão entre grupo alquila e grupo ácido.",
+        "whyItLooksPlausible": "Presença destacada e conhecida na molécula.",
+        "whyItIsWrong": "Metila não possui hidrogênio ácido para doar próton."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pense que o anel fenila pode interagir ou doar prótons devido à estrutura aromática.",
+        "misconceptionType": "Confusão sobre acidez em anéis aromáticos.",
+        "whyItLooksPlausible": "Fenila é grupo importante e visível na estrutura.",
+        "whyItIsWrong": "Hidrogênios do anel aromático não são ácidos para reação com base."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Supor que grupo nitro pode doar prótons por conter oxigênios eletronegativos.",
+        "misconceptionType": "Erro ao relacionar oxigênio com hidrogênio ácido.",
+        "whyItLooksPlausible": "Grupo nitro é fortemente eletronegativo, sugerindo reatividade.",
+        "whyItIsWrong": "Ausência de hidrogênio ácido no grupo nitro."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que éter doa prótons porque contém oxigênio.",
+        "misconceptionType": "Confusão entre presença de oxigênio e ácido protônico.",
+        "whyItLooksPlausible": "Oxigênio pode parecer um possível doador.",
+        "whyItIsWrong": "Grupo éter não tem hidrogênios ácidos para doar."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Identificação de grupos funcionais em química orgânica",
+      "secondarySkills": [
+        "Conhecimento da teoria ácido-base de Brönsted-Lowry",
+        "Interpretação de estruturas químicas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Requer reconhecer grupos funcionais com hidrogênio ácido.",
+        "Princípios conceituais da teoria ácido-base são necessários.",
+        "Importante análise visual da estrutura química."
+      ]
+    },
+    "officialResolution": {
+      "emoji": "🧪",
+      "shortThemeTitle": "Reatividade ácido-base na nimesulida",
+      "interpretationIntro": "A questão pede para identificar, na estrutura da nimesulida, o grupo funcional capaz de reagir com uma base de Brönsted-Lowry, ou seja, aquele que doa um próton (H⁺).",
+      "commandTerms": [
+        {
+          "term": "Base de Brönsted-Lowry",
+          "explanation": "Espécie química capaz de receber um próton (H⁺)."
+        },
+        {
+          "term": "Hidrogênio ácido",
+          "explanation": "Hidrogênio em um grupo funcional que pode ser doado como próton."
+        }
+      ],
+      "whatTheQuestionAsks": "Qual grupo na estrutura química da nimesulida pode ceder um próton ao reagir com uma base de Brönsted-Lowry, aumentando a solubilidade do fármaco em água?",
+      "strategyParagraph": "Para responder, deve-se analisar os grupos funcionais indicados na molécula e identificar qual deles contém hidrogênio ácido disponível para reagir com a base, formando uma espécie carregada. Grupos que não possuem hidrogênios ácidos não participam dessa reação ácido-base.",
+      "reviewTable": [
+        {
+          "concept": "Base de Brönsted-Lowry",
+          "keyIdea": "Recebe prótons (H⁺)",
+          "application": "Reage com grupos que doam prótons para formar espécies carregadas."
+        },
+        {
+          "concept": "Grupos funcionais e hidrogênio ácido",
+          "keyIdea": "A presença de hidrogênio ligado a átomo eletronegativo indica possível hidrogênio ácido",
+          "application": "Identificação do grupo sulfonamida com hidrogênio ácido para reação."
+        },
+        {
+          "concept": "Estrutura da nimesulida",
+          "keyIdea": "Contém vários grupos funcionais destacados",
+          "application": "Verificar cada grupo para encontrar qual pode doar o próton."
+        }
+      ],
+      "theoryParagraphs": [
+        "A teoria ácido-base de Brönsted-Lowry define ácidos como doadores de prótons (H⁺) e bases como aceitadores de prótons.",
+        "Na química orgânica, grupos funcionais que contêm hidrogênio ácido (como –NH em sulfonamidas) podem liberar esse próton para bases, aumentando a solubilidade em água.",
+        "Grupos alquila (metila), aromáticos (fenila), éteres e nitro não apresentam hidrogênios ácidos disponíveis para doação, não participando da reação ácido-base conforme solicitado."
+      ],
+      "resolutionParagraphs": [
+        "A nimesulida possui vários grupos funcionais destacados na estrutura: metila, sulfonamida, éter, fenila e nitro.",
+        "Compreendendo que bases de Brönsted-Lowry capturam prótons, identificamos que apenas o grupo sulfonamida possui hidrogênio ácido capaz de ser doado.",
+        "Observa-se o hidrogênio ligado ao nitrogênio na sulfonamida, que pode ser removido como próton (H⁺) pela base, formando uma espécie carregada.",
+        "Os outros grupos não possuem hidrogênios ácidos: metila é grupo alquila, fenila é anel aromático sem hidrogênios ácidos, éter tem oxigênio ligado a carbono sem hidrogênios ácidos e o grupo nitro não tem hidrogênios nem capacidade de doar prótons.",
+        "Portanto, a alternativa correta é a que identifica o grupo sulfonamida como o que reage com a base de Brönsted-Lowry para aumentar a solubilidade do fármaco em água."
+      ],
+      "puloDoGato": "Procure grupos funcionais com hidrogênios ácidos; eles são seus candidatos para reação ácido-base com bases de Brönsted-Lowry.",
+      "alternatives": [
+        {
+          "option": "A",
+          "isCorrect": true,
+          "explanation": "Sulfonamida contém hidrogênio ácido que pode ser doado a bases, formando espécie carregada e aumentando a solubilidade."
+        },
+        {
+          "option": "B",
+          "isCorrect": false,
+          "explanation": "Metila é grupo alquila sem hidrogênio ácido para conduzir reação ácido-base."
+        },
+        {
+          "option": "C",
+          "isCorrect": false,
+          "explanation": "Fenila é anel aromático sem hidrogênios ácidos disponíveis para doar próton."
+        },
+        {
+          "option": "D",
+          "isCorrect": false,
+          "explanation": "Grupo nitro não possui hidrogênios ácidos e não doa próton para reação."
+        },
+        {
+          "option": "E",
+          "isCorrect": false,
+          "explanation": "Éter tem oxigênio, mas não hidrogênio ácido para doar próton, não reagindo com a base."
+        }
+      ],
+      "questionCode": "CN_QUI_ANA_001"
+    },
+    "consistencyReview": {
+      "verdict": "approved",
+      "summary": "O enunciado, a solução técnica e a explicação didática estão coerentes e bem alinhados, indicando corretamente que o grupo sulfonamida é o que reage com a base de Brönsted-Lowry por possuir hidrogênio ácido. Todas as alternativas são corretamente comentadas, incluindo a correta.",
+      "issues": []
+    }
+  }
+}

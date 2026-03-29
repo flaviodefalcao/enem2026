@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:41:00.143Z",
+  "questionId": "enem-2024-ciencias-natureza-q117",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "D",
+      "correctnessClaim": "A alternativa D está correta porque ao se aproximar, devido ao efeito Doppler, a frequência das ondas refletidas fr é maior que a frequência original f₀, e o som percebido é mais agudo.",
+      "strategy": "Utilizar o conceito físico do efeito Doppler para ondas sonoras, aplicado no contexto da ambulância se aproximando do radar e da percepção do operador.",
+      "steps": [
+        "Reconhecer que a ambulância com a sirene ligada emite som de frequência f₀.",
+        "Identificar que o radar emite ondas de rádio na frequência f₀ que são refletidas pela ambulância.",
+        "Entender que o operador percebe o som da ambulância, e esse som é afetado pelo movimento relativo, apresentando efeito Doppler.",
+        "Determinar que na aproximação, a frequência percebida aumenta (mais agudo).",
+        "Relacionar que a frequência medida pelo radar fr, das ondas refletidas, também aumenta em relação a f₀, portanto fr > f₀."
+      ],
+      "formulasUsed": [
+        "f' = f₀ * (v + v_o) / (v - v_s) (equação geral do efeito Doppler para fonte e observador em movimento)"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Confunde a variação da frequência na aproximação, pensando que ela diminui (som mais grave) e que fr < f₀.",
+        "misconceptionType": "Inversão do efeito Doppler na aproximação",
+        "whyItLooksPlausible": "A dificuldade comum em entender o efeito Doppler pode levar a acreditar que a frequência diminui na aproximação.",
+        "whyItIsWrong": "Na aproximação, a frequência percebida aumenta (mais agudo) e a frequência refletida fr é maior que f₀."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Reconhece que o som fica mais agudo, mas erra ao indicar fr < f₀.",
+        "misconceptionType": "Erro na interpretação da relação das frequências medidas pelo radar",
+        "whyItLooksPlausible": "O som fica mais agudo na aproximação, mas o erro está na desigualdade da frequência fr.",
+        "whyItIsWrong": "Fr, a frequência refletida e medida pelo radar, é maior do que f₀ durante aproximação."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Acredita que a frequência percebida não muda e que fr = f₀.",
+        "misconceptionType": "Ignorar o efeito Doppler",
+        "whyItLooksPlausible": "Parece lógico se o operador supõe que não há mudança na frequência das ondas refletidas.",
+        "whyItIsWrong": "O efeito Doppler implica mudança de frequência, não igualdade."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Reconhece que fr > f₀, mas acha que o som fica mais grave (errado).",
+        "misconceptionType": "Confusão entre tonalidade e frequência",
+        "whyItLooksPlausible": "A frequência maior pode ser mal interpretada como som mais grave.",
+        "whyItIsWrong": "Frequência maior corresponde a som mais agudo, não mais grave."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão e aplicação do efeito Doppler em ondas sonoras",
+      "secondarySkills": [
+        "Interpretação de fenômenos físicos",
+        "Raciocínio lógico",
+        "Relação entre frequência, som e movimento"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige entendimento conceitual do efeito Doppler aplicado a ondas sonoras e ondas refletidas.",
+        "Não há necessidade de cálculos exatos, basta o raciocínio qualitativo sobre frequências e percepção sonora.",
+        "O operador percebe o som da sirene (som), enquanto o radar mede a frequência fr das ondas refletidas (ondas de rádio)."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 636,
+    "outputTokens": 810,
+    "estimatedCostUsd": 0.00155
+  }
+}

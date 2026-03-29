@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:55:31.614Z",
+  "questionId": "enem-2024-ciencias-natureza-q105",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "B) câncer.",
+      "correctnessClaim": "Correta. O HTLV-1 estimula a proliferação de linfócitos T, o que pode desencadear doenças como a leucemia/linfoma de células T do adulto — um tipo de câncer.",
+      "strategy": "A estratégia utilizada é a análise da ação do HTLV-1 descrita no enunciado (aumento da produção de linfócitos T), relacionando ao conhecimento de que essa proliferação descontrolada pode levar à formação de câncer hematológico, como leucemias ou linfomas.",
+      "steps": [
+        "Ler o enunciado e identificar que o HTLV-1 estimula o aumento dos linfócitos T.",
+        "Relacionar que a proliferação excessiva de linfócitos está associada a doenças proliferativas, como leucemias/linfomas (câncer).",
+        "Eliminar as outras alternativas (aids, diabetes, hepatite B, hemorragia) pela incompatibilidade com o mecanismo descrito.",
+        "Selecionar câncer como a consequência mais diretamente associada à ação descrita do HTLV-1."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Não foi utilizada informação visual específica além do texto extraído da imagem do enunciado."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) aids.",
+        "likelyReasoning": "Confusão com o HIV, pois ambos são retrovírus que infectam linfócitos T.",
+        "misconceptionType": "Confusão conceitual entre ações distintas de vírus que atacam o mesmo tipo de célula.",
+        "whyItLooksPlausible": "O HTLV-1 e o HIV infectam as mesmas células e têm formas de transmissão semelhantes.",
+        "whyItIsWrong": "Somente o HIV causa aids; o HTLV-1 está associado a doenças proliferativas, não à imunodeficiência."
+      },
+      {
+        "option": "C) diabetes.",
+        "likelyReasoning": "Confusão por associação de doenças crônicas.",
+        "misconceptionType": "Associação indevida entre proliferação viral e doenças metabólicas.",
+        "whyItLooksPlausible": "Diabetes é uma doença comum frequentemente citada em questões relacionadas a sistemas biológicos.",
+        "whyItIsWrong": "Não há relação entre a proliferação de linfócitos T e o surgimento de diabetes."
+      },
+      {
+        "option": "D) hepatite B.",
+        "likelyReasoning": "Associação errada entre vírus e doenças virais comuns.",
+        "misconceptionType": "Generalização incorreta entre diferentes tipos de vírus.",
+        "whyItLooksPlausible": "Hepatite B também é uma infecção viral listada como relevante.",
+        "whyItIsWrong": "HTLV-1 não infecta o fígado nem causa hepatite B, que tem agente etiológico próprio."
+      },
+      {
+        "option": "E) hemorragia.",
+        "likelyReasoning": "Associação da ideia de alteração do sangue com hemorragias.",
+        "misconceptionType": "Interpretação literal e simplista de distúrbios hematológicos.",
+        "whyItLooksPlausible": "A palavra 'linfócito' remete a sangue, levando alguns a pensar em sangramentos.",
+        "whyItIsWrong": "Proliferação de linfócitos não causa hemorragia, mas sim risco aumentado de câncer hematológico."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Relação entre mecanismos fisiopatológicos e doenças associadas a agentes infecciosos.",
+      "secondarySkills": [
+        "Eliminação de alternativas por incompatibilidade com o texto.",
+        "Reconhecimento de termos técnicos em imunologia e oncologia."
+      ],
+      "cognitiveDemand": "Compreensão e aplicação de conhecimentos sobre mecanismos virais e doenças resultantes.",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "Questão contextualiza dois vírus para comparar consequências.",
+        "Exige conhecimento de doenças associadas ao HTLV-1.",
+        "Usa distrações por semelhança na transmissão e célula-alvo."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 989,
+    "outputTokens": 963,
+    "estimatedCostUsd": 0.009682
+  }
+}

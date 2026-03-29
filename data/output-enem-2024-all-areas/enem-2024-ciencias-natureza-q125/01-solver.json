@@ -1,0 +1,77 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:29:09.576Z",
+  "questionId": "enem-2024-ciencias-natureza-q125",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "A",
+      "correctnessClaim": "A alternativa A é correta pois explica adequadamente o processo bioquímico envolvido: o choque térmico causado pela imersão em água fervente seguida de água gelada leva à desnaturação das enzimas que converteriam a glicose em amido, preservando assim o sabor adocicado do milho.",
+      "strategy": "Analisou-se o efeito do tratamento térmico sobre as enzimas responsáveis pela transformação da glicose em amido e como isso afeta o sabor do milho.",
+      "steps": [
+        "Compreender que a transformação da glicose em amido ocorre por ação enzimática.",
+        "Reconhecer que a alta temperatura da água fervente desnatura essas enzimas, impedindo a conversão.",
+        "Entender que o rápido resfriamento em água gelada conserva as características do milho após a desnaturação enzimática.",
+        "Concluir que a preservação do sabor adocicado se deve à inibição da enzima por desnaturação.",
+        "Comparar as alternativas para identificar aquela que melhor descreve esse fenômeno."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "B",
+        "likelyReasoning": "O estudante pode supor que a redução de temperatura está transformando os nutrientes de alguma forma.",
+        "misconceptionType": "Interpretação incorreta do papel da temperatura na conversão química.",
+        "whyItLooksPlausible": "Menção da redução de temperatura poderia sugerir um processo químico que altera o sabor.",
+        "whyItIsWrong": "Na verdade, é a alta temperatura a responsável por afetar as enzimas, não a redução de temperatura."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Pode-se pensar que o choque térmico degrada os nutrientes.",
+        "misconceptionType": "Confusão entre preservação e degradação nutricional.",
+        "whyItLooksPlausible": "O choque térmico envolve variações bruscas de temperatura que podem alterar componentes celulares.",
+        "whyItIsWrong": "A degradacão não é o objetivo nem a causa da preservação do açúcar; ao contrário, o processo impede a conversão da glicose."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumir que a fervura elimina oxigênio, impedindo oxidação e alteração do sabor.",
+        "misconceptionType": "Confusão entre fenômenos físicos e bioquímicos.",
+        "whyItLooksPlausible": "A fervura reduz oxigênio dissolvido na água e poderia proteger contra oxidação.",
+        "whyItIsWrong": "O principal mecanismo de preservação do sabor está na desnaturação enzimática, não na ausência de oxigênio."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Acreditar que alterações de temperatura causam desidratação que preserva o sabor.",
+        "misconceptionType": "Erro na compreensão do impacto da temperatura nos grãos.",
+        "whyItLooksPlausible": "Mudanças térmicas podem afetar a umidade e, supostamente, o sabor.",
+        "whyItIsWrong": "O procedimento envolve imersão em água, não causando desidratação, e a preservação do sabor está ligada à inibição enzimática."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Compreensão de processos bioquímicos e enzimáticos",
+      "secondarySkills": [
+        "Interpretação de texto científico",
+        "Conhecimento em termos de biologia aplicada",
+        "Raciocínio crítico sobre processos térmicos"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige entendimento sobre a ação enzimática e efeito da temperatura sobre enzimas.",
+        "É um problema de aplicação prática de conhecimentos científicos em agricultura.",
+        "Não há imagens associadas para análise visual nesta questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 590,
+    "outputTokens": 774,
+    "estimatedCostUsd": 0.001474
+  }
+}

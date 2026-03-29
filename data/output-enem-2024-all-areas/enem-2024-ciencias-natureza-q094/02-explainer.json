@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:27:13.006Z",
+  "questionId": "enem-2024-ciencias-natureza-q094",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A desmineralização do esmalte dos dentes ocorre mais intensamente em ambientes ácidos, ou seja, com pH menor. Como o creme dental IV tem o menor pH (6,9), ele promove maior desmineralização da hidroxiapatita, favorecendo a fragilização do esmalte e a formação de cáries.",
+      "stepByStep": [
+        "Reconheça que a hidroxiapatita está em equilíbrio com seus íons em solução e que a presença de íons H+ (meio ácido) favorece a dissolução do mineral (desmineralização).",
+        "Entenda que a desmineralização ocorre quando o meio é ácido (pH baixo), pois o excesso de H+ desloca o equilíbrio para a formação dos íons, enfraquecendo o esmalte.",
+        "Observe a tabela com os pH dos cremes dentais e identifique qual tem o menor valor de pH.",
+        "Compare os valores: o creme dental IV possui o menor pH (6,9), indicando que seu uso cria um meio mais ácido que favorece a desmineralização.",
+        "Conclua que o creme dental IV promove a maior desmineralização do esmalte devido ao seu pH mais ácido."
+      ],
+      "commonPitfalls": [
+        "Achar que um pH maior (mais básico) aumenta a desmineralização, quando na verdade o contrário ocorre; ambientes alcalinos reduzem a concentração de H+ e protegem o esmalte.",
+        "Confundir o agente de polimento com o efeito químico sobre o esmalte, sem considerar o pH do meio.",
+        "Subestimar o impacto do pH ácido pouco abaixo do neutro, como 6,9, que já é suficiente para aumentar a desmineralização.",
+        "Pensar que o creme dental com maior pH é mais agressivo ao esmalte.",
+        "Ignorar o equilíbrio químico que relaciona a concentração de H+ com a dissolução da hidroxiapatita."
+      ],
+      "teachingTips": [
+        "Utilize exemplos simples para explicar o conceito de equilíbrio químico e como o aumento dos íons H+ favorece a dissolução de minerais.",
+        "Mostre a relação entre pH e concentração de íons H+, enfatizando que pH menor corresponde a mais H+, o que aumenta a acidez.",
+        "Apresente a tabela dos cremes dentais e faça um exercício de comparação dos pH para que o estudante perceba o efeito da acidez sobre o esmalte.",
+        "Contextualize o problema na saúde bucal para aumentar o interesse dos alunos e facilitar a compreensão da química envolvida.",
+        "Evite a memorização da reação; incentive o raciocínio pelo princípio do equilíbrio e efeito do pH nas reações de dissolução e precipitação."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2061,
+    "outputTokens": 567,
+    "estimatedCostUsd": 0.001732
+  }
+}

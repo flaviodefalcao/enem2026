@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:29:53.259Z",
+  "questionId": "enem-2024-ciencias-natureza-q109",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para acender dois LEDs com tensão e corrente máxima específicas, é necessário ligar cada LED em paralelo, com seu próprio resistor para limitar a corrente. Assim, cada ramo terá a tensão correta de 3 V e a corrente máxima de 1 mA, usando um resistor de 1,5 kΩ com a bateria de 4,5 V.",
+      "stepByStep": [
+        "Identifique a tensão da bateria: 4,5 V.",
+        "Reconheça a tensão de funcionamento do LED: 3,0 V, e corrente máxima: 1,0 mA.",
+        "Calcule o resistor necessário para limitar a corrente no LED: R = (4,5 V - 3,0 V) / 0,001 A = 1,5 kΩ.",
+        "Entenda que para que dois LEDs funcionem corretamente, é ideal ligá-los em paralelo, cada um com seu resistor limitador de corrente, garantindo que cada LED receba a tensão e corrente adequadas.",
+        "Analise as opções de circuitos e identifique que apenas o circuito em paralelo com resistor em cada ramo (alternativa B) cumpre as condições necessárias para acender ambos os LEDs com corrente máxima.",
+        "Descartar outras configurações, como série (tensão insuficiente) ou sem resistor (risco de sobrecorrente e queima do LED)."
+      ],
+      "commonPitfalls": [
+        "Ignorar a necessidade do resistor para limitar a corrente, causando possível dano ao LED.",
+        "Ligar os LEDs em série, o que exige uma tensão maior do que a disponível na bateria.",
+        "Conectar LEDs com polaridade invertida, impedindo que acendam.",
+        "Achar que colocar os LEDs em paralelo sem resistores individualmente é suficiente, não controlando a corrente.",
+        "Não considerar que cada LED precisa de um resistor para garantir a corrente máxima especificada."
+      ],
+      "teachingTips": [
+        "Explique o papel do resistor em limitar a corrente para proteger componentes eletrônicos.",
+        "Utilize o cálculo da resistência para que os alunos compreendam a relação entre tensão, corrente e resistência (Lei de Ohm).",
+        "Utilize diagramas para mostrar diferenças entre conexões em série e paralelo, destacando a distribuição de tensão e corrente.",
+        "Incentive a análise do sentido da corrente em dispositivos semicondutores como os LEDs.",
+        "Promova experimentos simples com LEDs e resistores para visualização prática do conceito de limite de corrente."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2193,
+    "outputTokens": 487,
+    "estimatedCostUsd": 0.001656
+  }
+}

@@ -1,0 +1,2017 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2017/ENEM_2017_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      136,
+      180
+    ],
+    "year": 2017,
+    "areaLabel": "Matemática",
+    "areaSlug": "matematica"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 136,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 136 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Os congestionamentos de trânsito constituem um\nproblema que aflige, todos os dias, milhares de motoristas\nbrasileiros. O gráfico ilustra a situação, representando, ao\nlongo de um intervalo definido de tempo, a variação da\nvelocidade de um veículo durante um congestionamento.\nVelocidade\n\nQuantos minutos o veículo permaneceu imóvel ao longo\ndo intervalo de tempo total analisado?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-136/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-136/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0",
+          "assets": []
+        }
+      ],
+      "rawText": "Os congestionamentos de trânsito constituem um\nproblema que aflige, todos os dias, milhares de motoristas\nbrasileiros. O gráfico ilustra a situação, representando, ao\nlongo de um intervalo definido de tempo, a variação da\nvelocidade de um veículo durante um congestionamento.\nVelocidade\n\nQuantos minutos o veículo permaneceu imóvel ao longo\ndo intervalo de tempo total analisado?\n\nA. 4\nB. 3\nC. 2\nD. 1\nE. 0"
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 137,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 137 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Um garçom precisa escolher uma bandeja de base\nretangular para servir quatro taças de espumante que\nprecisam ser dispostas em uma única fileira, paralela\nao lado maior da bandeja, e com suas bases totalmente\napoiadas na bandeja. A base e a borda superior das taças\nsão círculos de raio 4 cm e 5 cm, respectivamente.\n\nA bandeja a ser escolhida deverá ter uma área mínima,\nem centímetro quadrado, igual a",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-137/statement-01.png",
+        "/generated/enem-2017/matematica/question-137/statement-02.png",
+        "/generated/enem-2017/matematica/question-137/statement-03.png",
+        "/generated/enem-2017/matematica/question-137/statement-04.png",
+        "/generated/enem-2017/matematica/question-137/statement-05.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-137/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "192.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "300.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "304.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "320.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "400.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um garçom precisa escolher uma bandeja de base\nretangular para servir quatro taças de espumante que\nprecisam ser dispostas em uma única fileira, paralela\nao lado maior da bandeja, e com suas bases totalmente\napoiadas na bandeja. A base e a borda superior das taças\nsão círculos de raio 4 cm e 5 cm, respectivamente.\n\nA bandeja a ser escolhida deverá ter uma área mínima,\nem centímetro quadrado, igual a\n\nA. 192.\nB. 300.\nC. 304.\nD. 320.\nE. 400."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 138,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 138 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Em uma cantina, o sucesso de venda no verão são sucos\npreparados à base de polpa de frutas. Um dos sucos mais\nvendidos é o de morango com acerola, que é preparado com\n\nde polpa de morango e 1\nde polpa de acerola.\nPara o comerciante, as polpas são vendidas em\nembalagens de igual volume. Atualmente, a embalagem\nda polpa de morango custa R$ 18,00 e a de acerola,\nR$ 14,70. Porém, está prevista uma alta no preço\nda embalagem da polpa de acerola no próximo mês,\npassando a custar R$ 15,30.\nPara não aumentar o preço do suco, o comerciante\nnegociou com o fornecedor uma redução no preço da\nembalagem da polpa de morango.\nA redução, em real, no preço da embalagem da polpa de\nmorango deverá ser de",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-138/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-138/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1,20.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,90.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "0,60.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "0,40.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0,30.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma cantina, o sucesso de venda no verão são sucos\npreparados à base de polpa de frutas. Um dos sucos mais\nvendidos é o de morango com acerola, que é preparado com\n\nde polpa de morango e 1\nde polpa de acerola.\nPara o comerciante, as polpas são vendidas em\nembalagens de igual volume. Atualmente, a embalagem\nda polpa de morango custa R$ 18,00 e a de acerola,\nR$ 14,70. Porém, está prevista uma alta no preço\nda embalagem da polpa de acerola no próximo mês,\npassando a custar R$ 15,30.\nPara não aumentar o preço do suco, o comerciante\nnegociou com o fornecedor uma redução no preço da\nembalagem da polpa de morango.\nA redução, em real, no preço da embalagem da polpa de\nmorango deverá ser de\n\nA. 1,20.\nB. 0,90.\nC. 0,60.\nD. 0,40.\nE. 0,30."
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 139,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 139 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "statement": "Um casal realiza sua mudança de domicílio\ne necessita colocar numa caixa de papelão um\nobjeto cúbico, de 80 cm de aresta, que não pode ser\ndesmontado. Eles têm à disposição cinco caixas, com\ndiferentes dimensões, conforme descrito:\n• Caixa 1: 86 cm × 86 cm × 86 cm\n• Caixa 2: 75 cm × 82 cm × 90 cm\n• Caixa 3: 85 cm × 82 cm × 90 cm\n• Caixa 4: 82 cm × 95 cm × 82 cm\n• Caixa 5: 80 cm × 95 cm × 85 cm\nO casal precisa escolher uma caixa na qual o\nobjeto caiba, de modo que sobre o menor espaço livre\nem seu interior.\nA caixa escolhida pelo casal deve ser a de número",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17",
+          "assets": []
+        }
+      ],
+      "rawText": "Um casal realiza sua mudança de domicílio\ne necessita colocar numa caixa de papelão um\nobjeto cúbico, de 80 cm de aresta, que não pode ser\ndesmontado. Eles têm à disposição cinco caixas, com\ndiferentes dimensões, conforme descrito:\n• Caixa 1: 86 cm × 86 cm × 86 cm\n• Caixa 2: 75 cm × 82 cm × 90 cm\n• Caixa 3: 85 cm × 82 cm × 90 cm\n• Caixa 4: 82 cm × 95 cm × 82 cm\n• Caixa 5: 80 cm × 95 cm × 85 cm\nO casal precisa escolher uma caixa na qual o\nobjeto caiba, de modo que sobre o menor espaço livre\nem seu interior.\nA caixa escolhida pelo casal deve ser a de número\n\nA. 1.\nB. 2.\nC. 3.\nD. 4.\nE. 5. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 140,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 140 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Uma empresa construirá sua página na internet\ne espera atrair um público de aproximadamente um\nmilhão de clientes. Para acessar essa página, será\nnecessária uma senha com formato a ser definido pela\nempresa. Existem cinco opções de formato oferecidas\npelo programador, descritas no quadro, em que “L” e “D”\nrepresentam, respectivamente, letra maiúscula e dígito.\nOpção\nFormato\nI\nLDDDDD\nII\nDDDDDD\nIII\nLLDDDD\nIV\nDDDDD\nV\nLLLDD\nAs letras do alfabeto, entre as 26 possíveis, bem\ncomo os dígitos, entre os 10 possíveis, podem se repetir\nem qualquer das opções.\nA empresa quer escolher uma opção de formato cujo\nnúmero de senhas distintas possíveis seja superior ao\nnúmero esperado de clientes, mas que esse número não\nseja superior ao dobro do número esperado de clientes.\nA opção que mais se adequa às condições da empresa é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa construirá sua página na internet\ne espera atrair um público de aproximadamente um\nmilhão de clientes. Para acessar essa página, será\nnecessária uma senha com formato a ser definido pela\nempresa. Existem cinco opções de formato oferecidas\npelo programador, descritas no quadro, em que “L” e “D”\nrepresentam, respectivamente, letra maiúscula e dígito.\nOpção\nFormato\nI\nLDDDDD\nII\nDDDDDD\nIII\nLLDDDD\nIV\nDDDDD\nV\nLLLDD\nAs letras do alfabeto, entre as 26 possíveis, bem\ncomo os dígitos, entre os 10 possíveis, podem se repetir\nem qualquer das opções.\nA empresa quer escolher uma opção de formato cujo\nnúmero de senhas distintas possíveis seja superior ao\nnúmero esperado de clientes, mas que esse número não\nseja superior ao dobro do número esperado de clientes.\nA opção que mais se adequa às condições da empresa é\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 141,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 141 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Como não são adeptos da prática de esportes, um\ngrupo de amigos resolveu fazer um torneio de futebol\nutilizando videogame. Decidiram que cada jogador joga\numa única vez com cada um dos outros jogadores.\nO campeão será aquele que conseguir o maior número de\npontos. Observaram que o número de partidas jogadas\ndepende do número de jogadores, como mostra o quadro:\n\nSe a quantidade de jogadores for 8, quantas partidas\nserão realizadas?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-141/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-141/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "64",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "56",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "49",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "28",
+          "assets": []
+        }
+      ],
+      "rawText": "Como não são adeptos da prática de esportes, um\ngrupo de amigos resolveu fazer um torneio de futebol\nutilizando videogame. Decidiram que cada jogador joga\numa única vez com cada um dos outros jogadores.\nO campeão será aquele que conseguir o maior número de\npontos. Observaram que o número de partidas jogadas\ndepende do número de jogadores, como mostra o quadro:\n\nSe a quantidade de jogadores for 8, quantas partidas\nserão realizadas?\n\nA. 64\nB. 56\nC. 49\nD. 36\nE. 28"
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 142,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 142 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        17
+      ],
+      "statement": "Um morador de uma região metropolitana tem 50%\nde probabilidade de atrasar-se para o trabalho quando\nchove na região; caso não chova, sua probabilidade de\natraso é de 25%. Para um determinado dia, o serviço\nde meteorologia estima em 30% a probabilidade da\nocorrência de chuva nessa região.\nQual é a probabilidade de esse morador se atrasar para o\nserviço no dia para o qual foi dada a estimativa de chuva?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,075",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,150",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "0,325",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "0,600",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "0,800",
+          "assets": []
+        }
+      ],
+      "rawText": "Um morador de uma região metropolitana tem 50%\nde probabilidade de atrasar-se para o trabalho quando\nchove na região; caso não chova, sua probabilidade de\natraso é de 25%. Para um determinado dia, o serviço\nde meteorologia estima em 30% a probabilidade da\nocorrência de chuva nessa região.\nQual é a probabilidade de esse morador se atrasar para o\nserviço no dia para o qual foi dada a estimativa de chuva?\n\nA. 0,075\nB. 0,150\nC. 0,325\nD. 0,600\nE. 0,800"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 143,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 143 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "statement": "Às 17 h 15 min começa uma forte chuva, que cai\ncom intensidade constante. Uma piscina em forma\nde um paralelepípedo retângulo, que se encontrava\ninicialmente vazia, começa a acumular a água da chuva\ne, às 18 horas, o nível da água em seu interior alcança\n20 cm de altura. Nesse instante, é aberto o registro que\nlibera o escoamento da água por um ralo localizado no\nfundo dessa piscina, cuja vazão é constante. Às 18 h 40 min\na chuva cessa e, nesse exato instante, o nível da água na\npiscina baixou para 15 cm.\nO instante em que a água dessa piscina terminar de\nescoar completamente está compreendido entre",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "19 h 30 min e 20 h 10 min.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "19 h 20 min e 19 h 30 min.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "19 h 10 min e 19 h 20 min.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "19 h e 19 h 10 min.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "18 h 40 min e 19 h. *DO0525AM17* MT - 2º dia | Caderno 5 - AMARELO - Página 18",
+          "assets": []
+        }
+      ],
+      "rawText": "Às 17 h 15 min começa uma forte chuva, que cai\ncom intensidade constante. Uma piscina em forma\nde um paralelepípedo retângulo, que se encontrava\ninicialmente vazia, começa a acumular a água da chuva\ne, às 18 horas, o nível da água em seu interior alcança\n20 cm de altura. Nesse instante, é aberto o registro que\nlibera o escoamento da água por um ralo localizado no\nfundo dessa piscina, cuja vazão é constante. Às 18 h 40 min\na chuva cessa e, nesse exato instante, o nível da água na\npiscina baixou para 15 cm.\nO instante em que a água dessa piscina terminar de\nescoar completamente está compreendido entre\n\nA. 19 h 30 min e 20 h 10 min.\nB. 19 h 20 min e 19 h 30 min.\nC. 19 h 10 min e 19 h 20 min.\nD. 19 h e 19 h 10 min.\nE. 18 h 40 min e 19 h. *DO0525AM17* MT - 2º dia | Caderno 5 - AMARELO - Página 18"
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 144,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 144 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Um empréstimo foi feito à taxa mensal de i%, usando\njuros compostos, em oito parcelas fixas e iguais a P.\n\nA expressão que corresponde ao valor total pago pela\nquitação do empréstimo é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-144/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-144/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "  \n\n\n   \n\n\n\n(\n)\n(\n)",
+          "assets": [
+            "/generated/enem-2017/matematica/question-144/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "  \n\n\n   \n\n\n\n(\n)\n(\n)",
+          "assets": [
+            "/generated/enem-2017/matematica/question-144/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "  \n\n\n   \n\n\n\n(\n)\n(\n)",
+          "assets": [
+            "/generated/enem-2017/matematica/question-144/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "  \n\n\n ",
+          "assets": [
+            "/generated/enem-2017/matematica/question-144/option-d-01.png",
+            "/generated/enem-2017/matematica/question-144/option-d-02.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": " \n\n\n ",
+          "assets": [
+            "/generated/enem-2017/matematica/question-144/option-e-01.png",
+            "/generated/enem-2017/matematica/question-144/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "Um empréstimo foi feito à taxa mensal de i%, usando\njuros compostos, em oito parcelas fixas e iguais a P.\n\nA expressão que corresponde ao valor total pago pela\nquitação do empréstimo é\n\nA.   \n\n\n   \n\n\n\n(\n)\n(\n)\nB.   \n\n\n   \n\n\n\n(\n)\n(\n)\nC.   \n\n\n   \n\n\n\n(\n)\n(\n)\nD.   \n\n\n \nE.  \n\n\n "
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 145,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 145 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        18
+      ],
+      "statement": "Para realizar a viagem dos sonhos, uma pessoa\nprecisava fazer um empréstimo no valor de R$ 5 000,00.\nPara pagar as prestações, dispõe de, no máximo,\nR$ 400,00 mensais. Para esse valor de empréstimo,\no valor da prestação (P) é calculado em função do\nnúmero de prestações (n) segundo a fórmula\n\nSe necessário, utilize 0,005 como aproximação para\nlog 1,013; 2,602 como aproximação para log 400; 2,525\ncomo aproximação para log 335.\nDe acordo com a fórmula dada, o menor número de\nparcelas cujos valores não comprometem o limite definido\npela pessoa é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-145/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-145/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "12.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "14.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "15.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "16.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "17.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para realizar a viagem dos sonhos, uma pessoa\nprecisava fazer um empréstimo no valor de R$ 5 000,00.\nPara pagar as prestações, dispõe de, no máximo,\nR$ 400,00 mensais. Para esse valor de empréstimo,\no valor da prestação (P) é calculado em função do\nnúmero de prestações (n) segundo a fórmula\n\nSe necessário, utilize 0,005 como aproximação para\nlog 1,013; 2,602 como aproximação para log 400; 2,525\ncomo aproximação para log 335.\nDe acordo com a fórmula dada, o menor número de\nparcelas cujos valores não comprometem o limite definido\npela pessoa é\n\nA. 12.\nB. 14.\nC. 15.\nD. 16.\nE. 17."
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 146,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 146 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "statement": "Raios de luz solar estão atingindo a superfície de\num lago formando um ângulo x com a sua superfície,\nconforme indica a figura.\n\n, sendo k uma constante, e supondo-se que x está entre\n0° e 90°.\n\nx\nQuando x = 30º, a intensidade luminosa se reduz a qual\npercentual de seu valor máximo?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-146/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-146/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "33%",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "50%",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "57%",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "70%",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "86% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19",
+          "assets": []
+        }
+      ],
+      "rawText": "Raios de luz solar estão atingindo a superfície de\num lago formando um ângulo x com a sua superfície,\nconforme indica a figura.\n\n, sendo k uma constante, e supondo-se que x está entre\n0° e 90°.\n\nx\nQuando x = 30º, a intensidade luminosa se reduz a qual\npercentual de seu valor máximo?\n\nA. 33%\nB. 50%\nC. 57%\nD. 70%\nE. 86% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19"
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 147,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 147 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        19
+      ],
+      "statement": "A imagem apresentada na figura é uma cópia em preto\ne branco da tela quadrada intitulada O peixe, de Marcos\nPinto, que foi colocada em uma parede para exposição e\nfixada nos pontos A e B.\nPor um problema na fixação de um dos pontos, a tela\nse desprendeu, girando rente à parede. Após o giro, ela\nficou posicionada como ilustrado na figura, formando um\nângulo de 45° com a linha do horizonte.",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "90° no sentido horário.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Para recolocar a tela na sua posição original, deve-se\ngirá-la, rente à parede, no menor ângulo possível inferior\na 360°.\nA forma de recolocar a tela na posição original, obedecendo\nao que foi estabelecido, é girando-a em um ângulo de 135° no sentido horário.",
+          "assets": [
+            "/generated/enem-2017/matematica/question-147/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "180° no sentido anti-horário.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "270° no sentido anti-horário.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "315° no sentido horário.",
+          "assets": []
+        }
+      ],
+      "rawText": "A imagem apresentada na figura é uma cópia em preto\ne branco da tela quadrada intitulada O peixe, de Marcos\nPinto, que foi colocada em uma parede para exposição e\nfixada nos pontos A e B.\nPor um problema na fixação de um dos pontos, a tela\nse desprendeu, girando rente à parede. Após o giro, ela\nficou posicionada como ilustrado na figura, formando um\nângulo de 45° com a linha do horizonte.\n\nA. 90° no sentido horário.\nB. Para recolocar a tela na sua posição original, deve-se\ngirá-la, rente à parede, no menor ângulo possível inferior\na 360°.\nA forma de recolocar a tela na posição original, obedecendo\nao que foi estabelecido, é girando-a em um ângulo de 135° no sentido horário.\nC. 180° no sentido anti-horário.\nD. 270° no sentido anti-horário.\nE. 315° no sentido horário."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 148,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 148 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        19,
+        20
+      ],
+      "statement": "A avaliação de rendimento de alunos de um curso\nuniversitário baseia-se na média ponderada das notas\nobtidas nas disciplinas pelos respectivos números de\ncréditos, como mostra o quadro:\nAvaliação\nMédia de notas (M)\nExcelente\n9 < M ≤ 10\nBom\n7 ≤ M ≤ 9\nRegular\n5 ≤ M < 7\nRuim\n3 ≤ M < 5\nPéssimo\nM < 3\nQuanto melhor a avaliação de um aluno em\ndeterminado período letivo, maior sua prioridade na\nescolha de disciplinas para o período seguinte.\nDeterminado aluno sabe que se obtiver avaliação\n“Bom” ou “Excelente” conseguirá matrícula nas disciplinas\nque deseja. Ele já realizou as provas de 4 das 5 disciplinas\nem que está matriculado, mas ainda não realizou a prova\nda disciplina I, conforme o quadro.\n\nPara que atinja seu objetivo, a nota mínima que ele deve\nconseguir na disciplina I é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-148/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-148/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "7,00.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "7,38.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "7,50.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "8,25.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "9,00. *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20",
+          "assets": []
+        }
+      ],
+      "rawText": "A avaliação de rendimento de alunos de um curso\nuniversitário baseia-se na média ponderada das notas\nobtidas nas disciplinas pelos respectivos números de\ncréditos, como mostra o quadro:\nAvaliação\nMédia de notas (M)\nExcelente\n9 < M ≤ 10\nBom\n7 ≤ M ≤ 9\nRegular\n5 ≤ M < 7\nRuim\n3 ≤ M < 5\nPéssimo\nM < 3\nQuanto melhor a avaliação de um aluno em\ndeterminado período letivo, maior sua prioridade na\nescolha de disciplinas para o período seguinte.\nDeterminado aluno sabe que se obtiver avaliação\n“Bom” ou “Excelente” conseguirá matrícula nas disciplinas\nque deseja. Ele já realizou as provas de 4 das 5 disciplinas\nem que está matriculado, mas ainda não realizou a prova\nda disciplina I, conforme o quadro.\n\nPara que atinja seu objetivo, a nota mínima que ele deve\nconseguir na disciplina I é\n\nA. 7,00.\nB. 7,38.\nC. 7,50.\nD. 8,25.\nE. 9,00. *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20"
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 149,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 149 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Um brinquedo infantil caminhão-cegonha é formado\npor uma carreta e dez carrinhos nela transportados,\nconforme a figura.\n\nNo setor de produção da empresa que fabrica esse\nbrinquedo, é feita a pintura de todos os carrinhos para que\no aspecto do brinquedo fique mais atraente. São utilizadas\nas cores amarelo, branco, laranja e verde, e cada carrinho\né pintado apenas com uma cor. O caminhão-cegonha\ntem uma cor fixa. A empresa determinou que em todo\ncaminhão-cegonha deve haver pelo menos um carrinho\nde cada uma das quatro cores disponíveis. Mudança de\nposição dos carrinhos no caminhão-cegonha não gera um\nnovo modelo do brinquedo.\nCom base nessas informações, quantos são os modelos\ndistintos do brinquedo caminhão-cegonha que essa\nempresa poderá produzir?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "C6,4",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "C9,3",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "C10,4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "64",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "46",
+          "assets": []
+        }
+      ],
+      "rawText": "Um brinquedo infantil caminhão-cegonha é formado\npor uma carreta e dez carrinhos nela transportados,\nconforme a figura.\n\nNo setor de produção da empresa que fabrica esse\nbrinquedo, é feita a pintura de todos os carrinhos para que\no aspecto do brinquedo fique mais atraente. São utilizadas\nas cores amarelo, branco, laranja e verde, e cada carrinho\né pintado apenas com uma cor. O caminhão-cegonha\ntem uma cor fixa. A empresa determinou que em todo\ncaminhão-cegonha deve haver pelo menos um carrinho\nde cada uma das quatro cores disponíveis. Mudança de\nposição dos carrinhos no caminhão-cegonha não gera um\nnovo modelo do brinquedo.\nCom base nessas informações, quantos são os modelos\ndistintos do brinquedo caminhão-cegonha que essa\nempresa poderá produzir?\n\nA. C6,4\nB. C9,3\nC. C10,4\nD. 64\nE. 46"
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 150,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 150 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Uma empresa especializada em conservação de\npiscinas utiliza um produto para tratamento da água cujas\nespecificações técnicas sugerem que seja adicionado\n1,5 mL desse produto para cada 1 000 L de água da\npiscina. Essa empresa foi contratada para cuidar de uma\npiscina de base retangular, de profundidade constante\nigual a 1,7 m, com largura e comprimento iguais a 3 m\ne 5 m, respectivamente. O nível da lâmina d’água dessa\npiscina é mantido a 50 cm da borda da piscina.\nA quantidade desse produto, em mililitro, que deve ser\nadicionada a essa piscina de modo a atender às suas\nespecificações técnicas é",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "11,25.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "27,00.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "28,80.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "32,25.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "49,50.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma empresa especializada em conservação de\npiscinas utiliza um produto para tratamento da água cujas\nespecificações técnicas sugerem que seja adicionado\n1,5 mL desse produto para cada 1 000 L de água da\npiscina. Essa empresa foi contratada para cuidar de uma\npiscina de base retangular, de profundidade constante\nigual a 1,7 m, com largura e comprimento iguais a 3 m\ne 5 m, respectivamente. O nível da lâmina d’água dessa\npiscina é mantido a 50 cm da borda da piscina.\nA quantidade desse produto, em mililitro, que deve ser\nadicionada a essa piscina de modo a atender às suas\nespecificações técnicas é\n\nA. 11,25.\nB. 27,00.\nC. 28,80.\nD. 32,25.\nE. 49,50."
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 151,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 151 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        20
+      ],
+      "statement": "Um instituto de pesquisas eleitorais recebe uma\nencomenda na qual a margem de erro deverá ser de, no\nmáximo, 2 pontos percentuais (0,02).\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre\no tema objeto da encomenda e irá usar a que tiver o erro\nmenor que o pedido.\nOs dados sobre as pesquisas são os seguintes:\n\nem que σ é um parâmetro e N é o número de pessoas\nentrevistadas pela pesquisa.\nQual pesquisa deverá ser utilizada?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-151/statement-01.png",
+        "/generated/enem-2017/matematica/question-151/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-151/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "P1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "P2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "P3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "P4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "P5",
+          "assets": []
+        }
+      ],
+      "rawText": "Um instituto de pesquisas eleitorais recebe uma\nencomenda na qual a margem de erro deverá ser de, no\nmáximo, 2 pontos percentuais (0,02).\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre\no tema objeto da encomenda e irá usar a que tiver o erro\nmenor que o pedido.\nOs dados sobre as pesquisas são os seguintes:\n\nem que σ é um parâmetro e N é o número de pessoas\nentrevistadas pela pesquisa.\nQual pesquisa deverá ser utilizada?\n\nA. P1\nB. P2\nC. P3\nD. P4\nE. P5"
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 152,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 152 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "statement": "Em um teleférico turístico, bondinhos saem de\nestações ao nível do mar e do topo de uma montanha.\nA travessia dura 1,5 minuto e ambos os bondinhos se\ndeslocam à mesma velocidade. Quarenta segundos após\no bondinho A partir da estação ao nível do mar, ele cruza\ncom o bondinho B, que havia saído do topo da montanha.\nQuantos segundos após a partida do bondinho B partiu o\nbondinho A?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "5",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "10",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "15",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "20",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "25 *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um teleférico turístico, bondinhos saem de\nestações ao nível do mar e do topo de uma montanha.\nA travessia dura 1,5 minuto e ambos os bondinhos se\ndeslocam à mesma velocidade. Quarenta segundos após\no bondinho A partir da estação ao nível do mar, ele cruza\ncom o bondinho B, que havia saído do topo da montanha.\nQuantos segundos após a partida do bondinho B partiu o\nbondinho A?\n\nA. 5\nB. 10\nC. 15\nD. 20\nE. 25 *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21"
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 153,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 153 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Num dia de tempestade, a alteração na profundidade\nde um rio, num determinado local, foi registrada durante\num período de 4 horas. Os resultados estão indicados no\ngráfico de linhas. Nele, a profundidade h, registrada às\n13 horas, não foi anotada e, a partir de h, cada unidade\nsobre o eixo vertical representa um metro.\n\nHora\n0\nProfundidade (m)\nRegistro de profundidade\n\nFoi informado que entre 15 horas e 16 horas, a\nprofundidade do rio diminuiu em 10%.\nÀs 16 horas, qual é a profundidade do rio, em metro, no\nlocal onde foram feitos os registros?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-153/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-153/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "18",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "20",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "24",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "36",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "40",
+          "assets": []
+        }
+      ],
+      "rawText": "Num dia de tempestade, a alteração na profundidade\nde um rio, num determinado local, foi registrada durante\num período de 4 horas. Os resultados estão indicados no\ngráfico de linhas. Nele, a profundidade h, registrada às\n13 horas, não foi anotada e, a partir de h, cada unidade\nsobre o eixo vertical representa um metro.\n\nHora\n0\nProfundidade (m)\nRegistro de profundidade\n\nFoi informado que entre 15 horas e 16 horas, a\nprofundidade do rio diminuiu em 10%.\nÀs 16 horas, qual é a profundidade do rio, em metro, no\nlocal onde foram feitos os registros?\n\nA. 18\nB. 20\nC. 24\nD. 36\nE. 40"
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 154,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 154 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        21
+      ],
+      "statement": "Uma rede hoteleira dispõe de cabanas simples na\nilha de Gotland, na Suécia, conforme Figura 1. A estrutura\nde sustentação de cada uma dessas cabanas está\nrepresentada na Figura 2. A ideia é permitir ao hóspede uma\nestada livre de tecnologia, mas conectada com a natureza.\n\nFigura 2\nROMERO, L. Tendências. Superinteressante, n. 315, fev. 2013 (adaptado).\nA forma geométrica da superfície cujas arestas estão\nrepresentadas na Figura 2 é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-154/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-154/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "tetraedro.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "pirâmide retangular.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "tronco de pirâmide retangular.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "prisma quadrangular reto.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "prisma triangular reto.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma rede hoteleira dispõe de cabanas simples na\nilha de Gotland, na Suécia, conforme Figura 1. A estrutura\nde sustentação de cada uma dessas cabanas está\nrepresentada na Figura 2. A ideia é permitir ao hóspede uma\nestada livre de tecnologia, mas conectada com a natureza.\n\nFigura 2\nROMERO, L. Tendências. Superinteressante, n. 315, fev. 2013 (adaptado).\nA forma geométrica da superfície cujas arestas estão\nrepresentadas na Figura 2 é\n\nA. tetraedro.\nB. pirâmide retangular.\nC. tronco de pirâmide retangular.\nD. prisma quadrangular reto.\nE. prisma triangular reto."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 155,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 155 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "statement": "A figura ilustra uma partida de Campo Minado, o jogo\npresente em praticamente todo computador pessoal.\nQuatro quadrados em um tabuleiro 16 × 16 foram abertos,\ne os números em suas faces indicam quantos dos seus\n8 vizinhos contêm minas (a serem evitadas). O número\n40 no canto inferior direito é o número total de minas no\ntabuleiro, cujas posições foram escolhidas ao acaso, de\nforma uniforme, antes de se abrir qualquer quadrado.\n\nEm sua próxima jogada, o jogador deve escolher\ndentre os quadrados marcados com as letras P, Q, R, S\ne T um para abrir, sendo que deve escolher aquele com a\nmenor probabilidade de conter uma mina.\nO jogador deverá abrir o quadrado marcado com a letra",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-155/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-155/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "P.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Q.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "R.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "S.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "T. *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22",
+          "assets": []
+        }
+      ],
+      "rawText": "A figura ilustra uma partida de Campo Minado, o jogo\npresente em praticamente todo computador pessoal.\nQuatro quadrados em um tabuleiro 16 × 16 foram abertos,\ne os números em suas faces indicam quantos dos seus\n8 vizinhos contêm minas (a serem evitadas). O número\n40 no canto inferior direito é o número total de minas no\ntabuleiro, cujas posições foram escolhidas ao acaso, de\nforma uniforme, antes de se abrir qualquer quadrado.\n\nEm sua próxima jogada, o jogador deve escolher\ndentre os quadrados marcados com as letras P, Q, R, S\ne T um para abrir, sendo que deve escolher aquele com a\nmenor probabilidade de conter uma mina.\nO jogador deverá abrir o quadrado marcado com a letra\n\nA. P.\nB. Q.\nC. R.\nD. S.\nE. T. *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22"
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 156,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 156 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "statement": "A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos,\nem formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.\n\nReservatório 1\nReservatório 2\nCano de\nentrada\n\nA água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do\ncano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.\nQual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água\nno sistema?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "h v",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "h v",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "h v *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "h v",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "h v",
+          "assets": []
+        }
+      ],
+      "rawText": "A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos,\nem formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.\n\nReservatório 1\nReservatório 2\nCano de\nentrada\n\nA água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do\ncano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.\nQual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água\nno sistema?\n\nA. h v\nB. h v\nC. h v *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23\nD. h v\nE. h v"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 157,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 157 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "A manchete demonstra que o transporte de grandes\ncargas representa cada vez mais preocupação quando\nfeito em vias urbanas.\nCaminhão entala em viaduto no Centro\nUm caminhão de grande porte entalou embaixo do\nviaduto no cruzamento das avenidas Borges de Medeiros\ne Loureiro da Silva no sentido Centro-Bairro, próximo à\nPonte de Pedra, na capital. Esse veículo vinha de São\nPaulo para Porto Alegre e transportava três grandes\ntubos, conforme ilustrado na foto.\n\nDisponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado).\nConsidere que o raio externo de cada cano da imagem\nseja 0,60 m e que eles estejam em cima de uma carroceria\ncuja parte superior está a 1,30 m do solo. O desenho\nrepresenta a vista traseira do empilhamento dos canos.\n\nA margem de segurança recomendada para que\num veículo passe sob um viaduto é que a altura total do\nveículo com a carga seja, no mínimo, 0,50 m menor do\nque a altura do vão do viaduto.\nConsidere 1,7 como aproximação para\n3.\nQual deveria ser a altura mínima do viaduto, em metro,\npara que esse caminhão pudesse passar com segurança\nsob seu vão?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-157/statement-01.png",
+        "/generated/enem-2017/matematica/question-157/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-157/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2,82",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,52",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3,70",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4,02",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4,20",
+          "assets": []
+        }
+      ],
+      "rawText": "A manchete demonstra que o transporte de grandes\ncargas representa cada vez mais preocupação quando\nfeito em vias urbanas.\nCaminhão entala em viaduto no Centro\nUm caminhão de grande porte entalou embaixo do\nviaduto no cruzamento das avenidas Borges de Medeiros\ne Loureiro da Silva no sentido Centro-Bairro, próximo à\nPonte de Pedra, na capital. Esse veículo vinha de São\nPaulo para Porto Alegre e transportava três grandes\ntubos, conforme ilustrado na foto.\n\nDisponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado).\nConsidere que o raio externo de cada cano da imagem\nseja 0,60 m e que eles estejam em cima de uma carroceria\ncuja parte superior está a 1,30 m do solo. O desenho\nrepresenta a vista traseira do empilhamento dos canos.\n\nA margem de segurança recomendada para que\num veículo passe sob um viaduto é que a altura total do\nveículo com a carga seja, no mínimo, 0,50 m menor do\nque a altura do vão do viaduto.\nConsidere 1,7 como aproximação para\n3.\nQual deveria ser a altura mínima do viaduto, em metro,\npara que esse caminhão pudesse passar com segurança\nsob seu vão?\n\nA. 2,82\nB. 3,52\nC. 3,70\nD. 4,02\nE. 4,20"
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 158,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 158 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        23
+      ],
+      "statement": "Um menino acaba de se mudar para um novo bairro\ne deseja ir à padaria. Pediu ajuda a um amigo que\nlhe forneceu um mapa com pontos numerados, que\nrepresentam cinco locais de interesse, entre os quais\nestá a padaria. Além disso, o amigo passou as seguintes\ninstruções: a partir do ponto em que você se encontra,\nrepresentado pela letra X, ande para oeste, vire à direita\nna primeira rua que encontrar, siga em frente e vire à\nesquerda na próxima rua. A padaria estará logo a seguir.\n\nRua C\n\nRua D\n\nRua E\n\nX\n\nN\n\nS\nO\nL\n\nA padaria está representada pelo ponto numerado com",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-158/statement-01.png",
+        "/generated/enem-2017/matematica/question-158/statement-02.png",
+        "/generated/enem-2017/matematica/question-158/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-158/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um menino acaba de se mudar para um novo bairro\ne deseja ir à padaria. Pediu ajuda a um amigo que\nlhe forneceu um mapa com pontos numerados, que\nrepresentam cinco locais de interesse, entre os quais\nestá a padaria. Além disso, o amigo passou as seguintes\ninstruções: a partir do ponto em que você se encontra,\nrepresentado pela letra X, ande para oeste, vire à direita\nna primeira rua que encontrar, siga em frente e vire à\nesquerda na próxima rua. A padaria estará logo a seguir.\n\nRua C\n\nRua D\n\nRua E\n\nX\n\nN\n\nS\nO\nL\n\nA padaria está representada pelo ponto numerado com\n\nA. 1.\nB. 2.\nC. 3.\nD. 4.\nE. 5."
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 159,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 159 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "statement": "Três alunos, X, Y e Z, estão matriculados em um curso\nde inglês. Para avaliar esses alunos, o professor optou por\nfazer cinco provas. Para que seja aprovado nesse curso,\no aluno deverá ter a média aritmética das notas das cinco\nprovas maior ou igual a 6. Na tabela, estão dispostas as\nnotas que cada aluno tirou em cada prova.\n\nCom base nos dados da tabela e nas informações dadas,\nficará(ão) reprovado(s)",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-159/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-159/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "apenas o aluno Y.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "apenas o aluno Z.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "apenas os alunos X e Y.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "apenas os alunos X e Z.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "os alunos X, Y e Z. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24",
+          "assets": []
+        }
+      ],
+      "rawText": "Três alunos, X, Y e Z, estão matriculados em um curso\nde inglês. Para avaliar esses alunos, o professor optou por\nfazer cinco provas. Para que seja aprovado nesse curso,\no aluno deverá ter a média aritmética das notas das cinco\nprovas maior ou igual a 6. Na tabela, estão dispostas as\nnotas que cada aluno tirou em cada prova.\n\nCom base nos dados da tabela e nas informações dadas,\nficará(ão) reprovado(s)\n\nA. apenas o aluno Y.\nB. apenas o aluno Z.\nC. apenas os alunos X e Y.\nD. apenas os alunos X e Z.\nE. os alunos X, Y e Z. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 160,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 160 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "O fisiologista inglês Archibald Vivian Hill propôs,\nem seus estudos, que a velocidade v de contração de\num músculo ao ser submetido a um peso p é dada pela\nequação (p + a) (v + b) = K, com a, b e K constantes.\nUm fisioterapeuta, com o intuito de maximizar o efeito\nbenéfico dos exercícios que recomendaria a um de seus\npacientes, quis estudar essa equação e a classificou\ndesta forma:\nTipo de curva\nSemirreta oblíqua\nSemirreta horizontal\nRamo de parábola\nArco de circunferência\nRamo de hipérbole\nO fisioterapeuta analisou a dependência entre v e p\nna equação de Hill e a classificou de acordo com sua\nrepresentação geométrica no plano cartesiano, utilizando\no par de coordenadas (p ; v). Admita que K > 0.\nDisponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado).\nO gráfico da equação que o fisioterapeuta utilizou para\nmaximizar o efeito dos exercícios é do tipo",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "semirreta oblíqua.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "semirreta horizontal.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "ramo de parábola.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "arco de circunferência.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ramo de hipérbole.",
+          "assets": []
+        }
+      ],
+      "rawText": "O fisiologista inglês Archibald Vivian Hill propôs,\nem seus estudos, que a velocidade v de contração de\num músculo ao ser submetido a um peso p é dada pela\nequação (p + a) (v + b) = K, com a, b e K constantes.\nUm fisioterapeuta, com o intuito de maximizar o efeito\nbenéfico dos exercícios que recomendaria a um de seus\npacientes, quis estudar essa equação e a classificou\ndesta forma:\nTipo de curva\nSemirreta oblíqua\nSemirreta horizontal\nRamo de parábola\nArco de circunferência\nRamo de hipérbole\nO fisioterapeuta analisou a dependência entre v e p\nna equação de Hill e a classificou de acordo com sua\nrepresentação geométrica no plano cartesiano, utilizando\no par de coordenadas (p ; v). Admita que K > 0.\nDisponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado).\nO gráfico da equação que o fisioterapeuta utilizou para\nmaximizar o efeito dos exercícios é do tipo\n\nA. semirreta oblíqua.\nB. semirreta horizontal.\nC. ramo de parábola.\nD. arco de circunferência.\nE. ramo de hipérbole."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 161,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 161 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        24
+      ],
+      "statement": "Em um parque há dois mirantes de alturas distintas\nque são acessados por elevador panorâmico. O topo\ndo mirante 1 é acessado pelo elevador 1, enquanto\nque o topo do mirante 2 é acessado pelo elevador 2.\nEles encontram-se a uma distância possível de ser\npercorrida a pé, e entre os mirantes há um teleférico que\nos liga que pode ou não ser utilizado pelo visitante.\n\nMirante 1\nMirante 2\nO acesso aos elevadores tem os seguintes custos:\n• Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30.\nO custo da passagem do teleférico partindo do topo\ndo mirante 1 para o topo do mirante 2 é de R$ 2,00, e do\ntopo do mirante 2 para o topo do mirante 1 é de R$ 2,50.\nQual é o menor custo, em real, para uma pessoa visitar os\ntopos dos dois mirantes e retornar ao solo?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2,25",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,90",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4,35",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4,40",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4,45",
+          "assets": []
+        }
+      ],
+      "rawText": "Em um parque há dois mirantes de alturas distintas\nque são acessados por elevador panorâmico. O topo\ndo mirante 1 é acessado pelo elevador 1, enquanto\nque o topo do mirante 2 é acessado pelo elevador 2.\nEles encontram-se a uma distância possível de ser\npercorrida a pé, e entre os mirantes há um teleférico que\nos liga que pode ou não ser utilizado pelo visitante.\n\nMirante 1\nMirante 2\nO acesso aos elevadores tem os seguintes custos:\n• Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30.\nO custo da passagem do teleférico partindo do topo\ndo mirante 1 para o topo do mirante 2 é de R$ 2,00, e do\ntopo do mirante 2 para o topo do mirante 1 é de R$ 2,50.\nQual é o menor custo, em real, para uma pessoa visitar os\ntopos dos dois mirantes e retornar ao solo?\n\nA. 2,25\nB. 3,90\nC. 4,35\nD. 4,40\nE. 4,45"
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 162,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 162 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "statement": "A mensagem digitada no celular, enquanto você\ndirige, tira a sua atenção e, por isso, deve ser evitada.\nPesquisas mostram que um motorista que dirige um\ncarro a uma velocidade constante percorre “às cegas”\n(isto é, sem ter visão da pista) uma distância proporcional\nao tempo gasto ao olhar para o celular durante a digitação\nda mensagem. Considere que isso de fato aconteça.\nSuponha que dois motoristas (X e Y) dirigem com a mesma\nvelocidade constante e digitam a mesma mensagem em\nseus celulares. Suponha, ainda, que o tempo gasto pelo\nmotorista X olhando para seu celular enquanto digita a\nmensagem corresponde a 25% do tempo gasto pelo\nmotorista Y para executar a mesma tarefa.\nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).\nA razão entre as distâncias percorridas às cegas por\nX e Y, nessa ordem, é igual a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-162/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-162/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-162/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-162/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "*DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25",
+          "assets": [
+            "/generated/enem-2017/matematica/question-162/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "A mensagem digitada no celular, enquanto você\ndirige, tira a sua atenção e, por isso, deve ser evitada.\nPesquisas mostram que um motorista que dirige um\ncarro a uma velocidade constante percorre “às cegas”\n(isto é, sem ter visão da pista) uma distância proporcional\nao tempo gasto ao olhar para o celular durante a digitação\nda mensagem. Considere que isso de fato aconteça.\nSuponha que dois motoristas (X e Y) dirigem com a mesma\nvelocidade constante e digitam a mesma mensagem em\nseus celulares. Suponha, ainda, que o tempo gasto pelo\nmotorista X olhando para seu celular enquanto digita a\nmensagem corresponde a 25% do tempo gasto pelo\nmotorista Y para executar a mesma tarefa.\nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).\nA razão entre as distâncias percorridas às cegas por\nX e Y, nessa ordem, é igual a\n\nA.\nB.\nC.\nD.\nE. *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 163,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 163 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Uma desenhista projetista deverá desenhar uma\ntampa de panela em forma circular. Para realizar esse\ndesenho, ela dispõe, no momento, de apenas um\ncompasso, cujo comprimento das hastes é de 10 cm, um\ntransferidor e uma folha de papel com um plano cartesiano.\nPara esboçar o desenho dessa tampa, ela afastou as\nhastes do compasso de forma que o ângulo formado por\nelas fosse de 120°. A ponta seca está representada pelo\nponto C, a ponta do grafite está representada pelo ponto\nB e a cabeça do compasso está representada pelo ponto\nA conforme a figura.\n\ny\n\nx",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-163/statement-01.png",
+        "/generated/enem-2017/matematica/question-163/statement-02.png",
+        "/generated/enem-2017/matematica/question-163/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-163/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Após concluir o desenho, ela o encaminha para o\nsetor de produção. Ao receber o desenho com a indicação\ndo raio da tampa, verificará em qual intervalo este se\nencontra e decidirá o tipo de material a ser utilizado na\nsua fabricação, de acordo com os dados. Tipo de material\nIntervalo de valores do raio (cm) I\n0 < R ≤ 5 II\n5 < R ≤ 10 III\n10 < R ≤ 15 IV\n15 < R ≤ 21 V\n21 < R ≤ 40 Considere 1,7 como aproximação para\n3. O tipo de material a ser utilizado pelo setor de\nprodução será I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0/3 II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma desenhista projetista deverá desenhar uma\ntampa de panela em forma circular. Para realizar esse\ndesenho, ela dispõe, no momento, de apenas um\ncompasso, cujo comprimento das hastes é de 10 cm, um\ntransferidor e uma folha de papel com um plano cartesiano.\nPara esboçar o desenho dessa tampa, ela afastou as\nhastes do compasso de forma que o ângulo formado por\nelas fosse de 120°. A ponta seca está representada pelo\nponto C, a ponta do grafite está representada pelo ponto\nB e a cabeça do compasso está representada pelo ponto\nA conforme a figura.\n\ny\n\nx\n\nA. Após concluir o desenho, ela o encaminha para o\nsetor de produção. Ao receber o desenho com a indicação\ndo raio da tampa, verificará em qual intervalo este se\nencontra e decidirá o tipo de material a ser utilizado na\nsua fabricação, de acordo com os dados. Tipo de material\nIntervalo de valores do raio (cm) I\n0 < R ≤ 5 II\n5 < R ≤ 10 III\n10 < R ≤ 15 IV\n15 < R ≤ 21 V\n21 < R ≤ 40 Considere 1,7 como aproximação para\n3. O tipo de material a ser utilizado pelo setor de\nprodução será I.\nB. 0/3 II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 164,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 164 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        25
+      ],
+      "statement": "Uma pessoa ganhou uma pulseira formada por\npérolas esféricas, na qual faltava uma das pérolas. A figura\nindica a posição em que estaria faltando esta pérola.\n\nEla levou a joia a um joalheiro que verificou que a\nmedida do diâmetro dessas pérolas era 4 milímetros.\nEm seu estoque, as pérolas do mesmo tipo e formato,\ndisponíveis para reposição, tinham diâmetros iguais a:\n4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\nO joalheiro então colocou na pulseira a pérola cujo\ndiâmetro era o mais próximo do diâmetro das pérolas\noriginais.\nA pérola colocada na pulseira pelo joalheiro tem diâmetro,\nem milímetro, igual a",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-164/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-164/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "3,099.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "3,970.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4,025.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4,080.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4,100.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma pessoa ganhou uma pulseira formada por\npérolas esféricas, na qual faltava uma das pérolas. A figura\nindica a posição em que estaria faltando esta pérola.\n\nEla levou a joia a um joalheiro que verificou que a\nmedida do diâmetro dessas pérolas era 4 milímetros.\nEm seu estoque, as pérolas do mesmo tipo e formato,\ndisponíveis para reposição, tinham diâmetros iguais a:\n4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\nO joalheiro então colocou na pulseira a pérola cujo\ndiâmetro era o mais próximo do diâmetro das pérolas\noriginais.\nA pérola colocada na pulseira pelo joalheiro tem diâmetro,\nem milímetro, igual a\n\nA. 3,099.\nB. 3,970.\nC. 4,025.\nD. 4,080.\nE. 4,100."
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 165,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 165 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        25,
+        26
+      ],
+      "statement": "Em uma de suas viagens, um turista comprou uma\nlembrança de um dos monumentos que visitou. Na base\ndo objeto há informações dizendo que se trata de uma\npeça em escala 1 : 400, e que seu volume é de 25 cm₃.\nO volume do monumento original, em metro cúbico, é de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "100.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "400.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1 600.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "6 250.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "10 000. *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma de suas viagens, um turista comprou uma\nlembrança de um dos monumentos que visitou. Na base\ndo objeto há informações dizendo que se trata de uma\npeça em escala 1 : 400, e que seu volume é de 25 cm₃.\nO volume do monumento original, em metro cúbico, é de\n\nA. 100.\nB. 400.\nC. 1 600.\nD. 6 250.\nE. 10 000. *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 166,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 166 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "Uma bicicleta do tipo mountain bike tem uma coroa\ncom 3 engrenagens e uma catraca com 6 engrenagens,\nque, combinadas entre si, determinam 18 marchas\n(número de engrenagens da coroa vezes o número de\nengrenagens da catraca).\n\nOs números de dentes das engrenagens das coroas\ne das catracas dessa bicicleta estão listados no quadro.\n\nSabe-se que o número de voltas efetuadas pela\nroda traseira a cada pedalada é calculado dividindo-se a\nquantidade de dentes da coroa pela quantidade de dentes\nda catraca.\nDurante um passeio em uma bicicleta desse tipo,\ndeseja-se fazer um percurso o mais devagar possível,\nescolhendo, para isso, uma das seguintes combinações\nde engrenagens (coroa x catraca):\n\nA combinação escolhida para realizar esse passeio da\nforma desejada é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-166/statement-01.png",
+        "/generated/enem-2017/matematica/question-166/statement-02.png",
+        "/generated/enem-2017/matematica/question-166/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-166/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma bicicleta do tipo mountain bike tem uma coroa\ncom 3 engrenagens e uma catraca com 6 engrenagens,\nque, combinadas entre si, determinam 18 marchas\n(número de engrenagens da coroa vezes o número de\nengrenagens da catraca).\n\nOs números de dentes das engrenagens das coroas\ne das catracas dessa bicicleta estão listados no quadro.\n\nSabe-se que o número de voltas efetuadas pela\nroda traseira a cada pedalada é calculado dividindo-se a\nquantidade de dentes da coroa pela quantidade de dentes\nda catraca.\nDurante um passeio em uma bicicleta desse tipo,\ndeseja-se fazer um percurso o mais devagar possível,\nescolhendo, para isso, uma das seguintes combinações\nde engrenagens (coroa x catraca):\n\nA combinação escolhida para realizar esse passeio da\nforma desejada é\n\nA. I.\nB. II.\nC. III.\nD. IV.\nE. V."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 167,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 167 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        26
+      ],
+      "statement": "O comitê organizador da Copa do Mundo 2014 criou\na logomarca da Copa, composta de uma figura plana e\no slogan “Juntos num só ritmo”, com mãos que se unem\nformando a taça Fifa. Considere que o comitê organizador\nresolvesse utilizar todas as cores da bandeira nacional\n(verde, amarelo, azul e branco) para colorir a logomarca,\nde forma que regiões vizinhas tenham cores diferentes.\n\nDisponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado).\nDe quantas maneiras diferentes o comitê organizador da\nCopa poderia pintar a logomarca com as cores citadas?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-167/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-167/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "15",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "30",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "108",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "360",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "972",
+          "assets": []
+        }
+      ],
+      "rawText": "O comitê organizador da Copa do Mundo 2014 criou\na logomarca da Copa, composta de uma figura plana e\no slogan “Juntos num só ritmo”, com mãos que se unem\nformando a taça Fifa. Considere que o comitê organizador\nresolvesse utilizar todas as cores da bandeira nacional\n(verde, amarelo, azul e branco) para colorir a logomarca,\nde forma que regiões vizinhas tenham cores diferentes.\n\nDisponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado).\nDe quantas maneiras diferentes o comitê organizador da\nCopa poderia pintar a logomarca com as cores citadas?\n\nA. 15\nB. 30\nC. 108\nD. 360\nE. 972"
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 168,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 168 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "statement": "X\nY\nNível do mar\n\nQuais devem ser os valores de X e de Y, em metro, para\nque a área da base do viveiro seja máxima?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-168/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-168/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1 e 49",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "1 e 99",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "10 e 10",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "25 e 25",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "50 e 50 *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27",
+          "assets": []
+        }
+      ],
+      "rawText": "X\nY\nNível do mar\n\nQuais devem ser os valores de X e de Y, em metro, para\nque a área da base do viveiro seja máxima?\n\nA. 1 e 49\nB. 1 e 99\nC. 10 e 10\nD. 25 e 25\nE. 50 e 50 *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 169,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 169 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Para uma temporada das corridas de Fórmula 1,\na capacidade do tanque de combustível de cada carro\npassou a ser de 100 kg de gasolina. Uma equipe\noptou por utilizar uma gasolina com densidade de\n750 gramas por litro, iniciando a corrida com o tanque cheio.\nNa primeira parada de reabastecimento, um carro dessa\nequipe apresentou um registro em seu computador de\nbordo acusando o consumo de quatro décimos da gasolina\noriginalmente existente no tanque. Para minimizar o peso\ndesse carro e garantir o término da corrida, a equipe de\napoio reabasteceu o carro com a terça parte do que restou\nno tanque na chegada ao reabastecimento.\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).\nA quantidade de gasolina utilizada, em litro, no\nreabastecimento foi",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-169/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-169/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-169/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-169/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-169/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Para uma temporada das corridas de Fórmula 1,\na capacidade do tanque de combustível de cada carro\npassou a ser de 100 kg de gasolina. Uma equipe\noptou por utilizar uma gasolina com densidade de\n750 gramas por litro, iniciando a corrida com o tanque cheio.\nNa primeira parada de reabastecimento, um carro dessa\nequipe apresentou um registro em seu computador de\nbordo acusando o consumo de quatro décimos da gasolina\noriginalmente existente no tanque. Para minimizar o peso\ndesse carro e garantir o término da corrida, a equipe de\napoio reabasteceu o carro com a terça parte do que restou\nno tanque na chegada ao reabastecimento.\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).\nA quantidade de gasolina utilizada, em litro, no\nreabastecimento foi\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 170,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 170 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "O gráfico apresenta a taxa de desemprego (em %)\npara o período de março de 2008 a abril de 2009,\nobtida com base nos dados observados nas regiões\nmetropolitanas de Recife, Salvador, Belo Horizonte,\nRio de Janeiro, São Paulo e Porto Alegre.\nTaxa de desemprego (%)\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.\nAcesso em: 30 jul. 2012 (adaptado).\nA mediana dessa taxa de desemprego, no período de\nmarço de 2008 a abril de 2009, foi de",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-170/statement-01.png",
+        "/generated/enem-2017/matematica/question-170/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-170/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "8,1%",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8,0%",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "7,9%",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "7,7%",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "7,6%",
+          "assets": []
+        }
+      ],
+      "rawText": "O gráfico apresenta a taxa de desemprego (em %)\npara o período de março de 2008 a abril de 2009,\nobtida com base nos dados observados nas regiões\nmetropolitanas de Recife, Salvador, Belo Horizonte,\nRio de Janeiro, São Paulo e Porto Alegre.\nTaxa de desemprego (%)\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.\nAcesso em: 30 jul. 2012 (adaptado).\nA mediana dessa taxa de desemprego, no período de\nmarço de 2008 a abril de 2009, foi de\n\nA. 8,1%\nB. 8,0%\nC. 7,9%\nD. 7,7%\nE. 7,6%"
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 171,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 171 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        27
+      ],
+      "statement": "Numa avenida existem 10 semáforos. Por causa de\numa pane no sistema, os semáforos ficaram sem controle\ndurante uma hora, e fixaram suas luzes unicamente em\nverde ou vermelho. Os semáforos funcionam de forma\nindependente; a probabilidade de acusar a cor verde é de\n\ne a de acusar a cor vermelha é de 1\n3\n. Uma pessoa\npercorreu a pé toda essa avenida durante o período\nda pane, observando a cor da luz de cada um desses\nsemáforos.\nQual a probabilidade de que esta pessoa tenha observado\nexatamente um sinal na cor verde?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-171/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-171/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-171/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-171/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-171/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-171/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-171/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Numa avenida existem 10 semáforos. Por causa de\numa pane no sistema, os semáforos ficaram sem controle\ndurante uma hora, e fixaram suas luzes unicamente em\nverde ou vermelho. Os semáforos funcionam de forma\nindependente; a probabilidade de acusar a cor verde é de\n\ne a de acusar a cor vermelha é de 1\n3\n. Uma pessoa\npercorreu a pé toda essa avenida durante o período\nda pane, observando a cor da luz de cada um desses\nsemáforos.\nQual a probabilidade de que esta pessoa tenha observado\nexatamente um sinal na cor verde?\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 172,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 172 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "statement": "A energia solar vai abastecer parte da demanda de energia\ndo campus de uma universidade brasileira. A instalação de\npainéis solares na área dos estacionamentos e na cobertura\ndo hospital pediátrico será aproveitada nas instalações\nuniversitárias e também ligada na rede da companhia elétrica\ndistribuidora de energia.\nO projeto inclui 100 m² de painéis solares que ficarão\ninstalados nos estacionamentos, produzindo energia elétrica\ne proporcionando sombra para os carros. Sobre o hospital\npediátrico serão colocados aproximadamente 300 m² de\npainéis, sendo 100 m² para gerar energia elétrica utilizada no\ncampus, e 200 m² para geração de energia térmica, produzindo\naquecimento de água utilizada nas caldeiras do hospital.\nSuponha que cada metro quadrado de painel solar\npara energia elétrica gere uma economia de 1 kWh por dia\ne cada metro quadrado produzindo energia térmica permita\neconomizar 0,7 kWh por dia para a universidade. Em\numa segunda fase do projeto, será aumentada em 75%\na área coberta pelos painéis solares que geram energia\nelétrica. Nessa fase também deverá ser ampliada a área\nde cobertura com painéis para geração de energia térmica.",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-172/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-172/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "231.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "431.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "472.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "523.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "672. *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28",
+          "assets": []
+        }
+      ],
+      "rawText": "A energia solar vai abastecer parte da demanda de energia\ndo campus de uma universidade brasileira. A instalação de\npainéis solares na área dos estacionamentos e na cobertura\ndo hospital pediátrico será aproveitada nas instalações\nuniversitárias e também ligada na rede da companhia elétrica\ndistribuidora de energia.\nO projeto inclui 100 m² de painéis solares que ficarão\ninstalados nos estacionamentos, produzindo energia elétrica\ne proporcionando sombra para os carros. Sobre o hospital\npediátrico serão colocados aproximadamente 300 m² de\npainéis, sendo 100 m² para gerar energia elétrica utilizada no\ncampus, e 200 m² para geração de energia térmica, produzindo\naquecimento de água utilizada nas caldeiras do hospital.\nSuponha que cada metro quadrado de painel solar\npara energia elétrica gere uma economia de 1 kWh por dia\ne cada metro quadrado produzindo energia térmica permita\neconomizar 0,7 kWh por dia para a universidade. Em\numa segunda fase do projeto, será aumentada em 75%\na área coberta pelos painéis solares que geram energia\nelétrica. Nessa fase também deverá ser ampliada a área\nde cobertura com painéis para geração de energia térmica.\n\nA. 231.\nB. 431.\nC. 472.\nD. 523.\nE. 672. *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28"
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 173,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 173 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "statement": "Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água\ncontida em cada reservatório nesse período pode ser visualizada na figura.\n\nReservatório B\n\nTempo (h)\nReservatório B\nReservatório A\n\nO número de horas em que os dois reservatórios contêm a mesma quantidade de água é",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-173/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-173/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "5.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "6. *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29",
+          "assets": []
+        }
+      ],
+      "rawText": "Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água\ncontida em cada reservatório nesse período pode ser visualizada na figura.\n\nReservatório B\n\nTempo (h)\nReservatório B\nReservatório A\n\nO número de horas em que os dois reservatórios contêm a mesma quantidade de água é\n\nA. 1.\nB. 2.\nC. 4.\nD. 5.\nE. 6. *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 174,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 174 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        29
+      ],
+      "statement": "Neste modelo de termômetro, os filetes na cor preta\nregistram as temperaturas mínima e máxima do dia anterior\ne os filetes na cor cinza registram a temperatura ambiente\natual, ou seja, no momento da leitura do termômetro.\n\nPor isso ele tem duas colunas. Na da esquerda, os\nnúmeros estão em ordem crescente, de cima para baixo,\nde -30 °C até 50 °C. Na coluna da direita, os números\nestão ordenados de forma crescente, de baixo para cima,\nde -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior\ndo filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior\ndo filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior\ndos filetes cinza nas duas colunas.\nDisponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\nQual é a temperatura máxima mais aproximada registrada\nnesse termômetro?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-174/statement-01.png",
+        "/generated/enem-2017/matematica/question-174/statement-02.png",
+        "/generated/enem-2017/matematica/question-174/statement-03.png",
+        "/generated/enem-2017/matematica/question-174/statement-04.png",
+        "/generated/enem-2017/matematica/question-174/statement-05.png",
+        "/generated/enem-2017/matematica/question-174/statement-06.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-174/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "5 °C",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "7 °C",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "13 °C",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "15 °C",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "19 °C",
+          "assets": []
+        }
+      ],
+      "rawText": "Neste modelo de termômetro, os filetes na cor preta\nregistram as temperaturas mínima e máxima do dia anterior\ne os filetes na cor cinza registram a temperatura ambiente\natual, ou seja, no momento da leitura do termômetro.\n\nPor isso ele tem duas colunas. Na da esquerda, os\nnúmeros estão em ordem crescente, de cima para baixo,\nde -30 °C até 50 °C. Na coluna da direita, os números\nestão ordenados de forma crescente, de baixo para cima,\nde -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior\ndo filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior\ndo filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior\ndos filetes cinza nas duas colunas.\nDisponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\nQual é a temperatura máxima mais aproximada registrada\nnesse termômetro?\n\nA. 5 °C\nB. 7 °C\nC. 13 °C\nD. 15 °C\nE. 19 °C"
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 175,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 175 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "statement": "Pivô central é um sistema de irrigação muito usado\nna agricultura, em que uma área circular é projetada para\nreceber uma estrutura suspensa. No centro dessa área, há\numa tubulação vertical que transmite água através de um\ncano horizontal longo, apoiado em torres de sustentação,\nas quais giram, sobre rodas, em torno do centro do pivô,\ntambém chamado de base, conforme mostram as figuras.\nCada torre move-se com velocidade constante.\n\nBASE\n\nUm pivô de três torres (T₁, T₂ e T₃) será instalado\nem uma fazenda, sendo que as distâncias entre torres\nconsecutivas bem como da base à torre T₁ são iguais a\n50 m. O fazendeiro pretende ajustar as velocidades das\ntorres, de tal forma que o pivô efetue uma volta completa\nem 25 horas. Use 3 como aproximação para π.\nPara atingir seu objetivo, as velocidades das torres T₁, T₂\ne T₃ devem ser, em metro por hora, de",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-175/statement-01.png",
+        "/generated/enem-2017/matematica/question-175/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-175/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "12 , 24 e 36.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "6 , 12 e 18.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "2 , 4 e 6.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "300 , 1 200 e 2 700.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "600 , 2 400 e 5 400. *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30",
+          "assets": []
+        }
+      ],
+      "rawText": "Pivô central é um sistema de irrigação muito usado\nna agricultura, em que uma área circular é projetada para\nreceber uma estrutura suspensa. No centro dessa área, há\numa tubulação vertical que transmite água através de um\ncano horizontal longo, apoiado em torres de sustentação,\nas quais giram, sobre rodas, em torno do centro do pivô,\ntambém chamado de base, conforme mostram as figuras.\nCada torre move-se com velocidade constante.\n\nBASE\n\nUm pivô de três torres (T₁, T₂ e T₃) será instalado\nem uma fazenda, sendo que as distâncias entre torres\nconsecutivas bem como da base à torre T₁ são iguais a\n50 m. O fazendeiro pretende ajustar as velocidades das\ntorres, de tal forma que o pivô efetue uma volta completa\nem 25 horas. Use 3 como aproximação para π.\nPara atingir seu objetivo, as velocidades das torres T₁, T₂\ne T₃ devem ser, em metro por hora, de\n\nA. 12 , 24 e 36.\nB. 6 , 12 e 18.\nC. 2 , 4 e 6.\nD. 300 , 1 200 e 2 700.\nE. 600 , 2 400 e 5 400. *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30"
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 176,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 176 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        30
+      ],
+      "statement": "A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha,\nem Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal\nda capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos.\n\n5 metros\n4 metros\n3 metros\nH metros\n\nFigura 1\nFigura 2\nQual a medida da altura H, em metro, indicada na Figura 2?",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-176/statement-01.png",
+        "/generated/enem-2017/matematica/question-176/statement-02.png",
+        "/generated/enem-2017/matematica/question-176/statement-03.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-176/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-176/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-176/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "25",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-176/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "75",
+          "assets": []
+        }
+      ],
+      "rawText": "A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha,\nem Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal\nda capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos.\n\n5 metros\n4 metros\n3 metros\nH metros\n\nFigura 1\nFigura 2\nQual a medida da altura H, em metro, indicada na Figura 2?\n\nA.\nB.\nC. 25\nD.\nE. 75"
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 177,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 177 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "statement": "Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado umminiaplicativo de computador\nque roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa\nacessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso\nda sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.\nTempo de acesso na sexta-feira (minuto)\nTempo de acesso no sábado (minuto)\nSite X\n12\nSite Y\n30\nSite U\n40\n\nSite W\n57\nSite Z\n11\nAnalisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado,\nfoi no site\nA X.\nB Y.\nC Z.\nD W.\nE U.\n*DO0525AM30*\n\nMT - 2º dia | Caderno 5 - AMARELO - Página 31",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-177/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-177/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado umminiaplicativo de computador\nque roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa\nacessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso\nda sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.\nTempo de acesso na sexta-feira (minuto)\nTempo de acesso no sábado (minuto)\nSite X\n12\nSite Y\n30\nSite U\n40\n\nSite W\n57\nSite Z\n11\nAnalisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado,\nfoi no site\nA X.\nB Y.\nC Z.\nD W.\nE U.\n*DO0525AM30*\n\nMT - 2º dia | Caderno 5 - AMARELO - Página 31\n\nA.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 178,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 178 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "O resultado de uma pesquisa eleitoral, sobre a\npreferência dos eleitores em relação a dois candidatos,\nfoi representado por meio do Gráfico 1.\n\nGráfico 1\nCandidato\nEleitores (%)",
+      "statementAssets": [
+        "/generated/enem-2017/matematica/question-178/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2017/matematica/question-178/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Ao ser divulgado esse resultado em jornal, o Gráfico 1\nfoi cortado durante a diagramação, como mostra o Gráfico 2. 20\nA Eleitores (%) Gráfico 2\nCandidato Apesar de os valores apresentados estarem corretos\ne a largura das colunas ser a mesma, muitos leitores\ncriticaram o formato do Gráfico 2 impresso no jornal,\nalegando que houve prejuízo visual para o candidato B. A diferença entre as razões da altura da coluna B pela\ncoluna A nos gráficos 1 e 2 é",
+          "assets": [
+            "/generated/enem-2017/matematica/question-178/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-178/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-178/option-d-01.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-178/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O resultado de uma pesquisa eleitoral, sobre a\npreferência dos eleitores em relação a dois candidatos,\nfoi representado por meio do Gráfico 1.\n\nGráfico 1\nCandidato\nEleitores (%)\n\nA. 0\nB. Ao ser divulgado esse resultado em jornal, o Gráfico 1\nfoi cortado durante a diagramação, como mostra o Gráfico 2. 20\nA Eleitores (%) Gráfico 2\nCandidato Apesar de os valores apresentados estarem corretos\ne a largura das colunas ser a mesma, muitos leitores\ncriticaram o formato do Gráfico 2 impresso no jornal,\nalegando que houve prejuízo visual para o candidato B. A diferença entre as razões da altura da coluna B pela\ncoluna A nos gráficos 1 e 2 é\nC.\nD.\nE."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 179,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 179 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        31
+      ],
+      "statement": "Um cientista, em seus estudos para modelar a\npressão arterial de uma pessoa, utiliza uma função do\ntipo P(t) = A + Bcos(kt) em que A, B e K são constantes\nreais positivas e t representa a variável tempo, medida\nem segundo. Considere que um batimento cardíaco\nrepresenta o intervalo de tempo entre duas sucessivas\npressões máximas.\nAo analisar um caso específico, o cientista obteve os dados:\nPressão mínima\n78\nPressão máxima\n120\nNúmero de batimentos cardíacos por minuto\n90\nA função P(t) obtida, por este cientista, ao analisar o caso\nespecífico foi",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "P(t) = 99 + 21cos(3πt)",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "P(t) = 78 + 42cos(3πt)",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "P(t) = 99 + 21cos(2πt)",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "P(t) = 99 + 21cos(t)",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "P(t) = 78 + 42cos(t)",
+          "assets": []
+        }
+      ],
+      "rawText": "Um cientista, em seus estudos para modelar a\npressão arterial de uma pessoa, utiliza uma função do\ntipo P(t) = A + Bcos(kt) em que A, B e K são constantes\nreais positivas e t representa a variável tempo, medida\nem segundo. Considere que um batimento cardíaco\nrepresenta o intervalo de tempo entre duas sucessivas\npressões máximas.\nAo analisar um caso específico, o cientista obteve os dados:\nPressão mínima\n78\nPressão máxima\n120\nNúmero de batimentos cardíacos por minuto\n90\nA função P(t) obtida, por este cientista, ao analisar o caso\nespecífico foi\n\nA. P(t) = 99 + 21cos(3πt)\nB. P(t) = 78 + 42cos(3πt)\nC. P(t) = 99 + 21cos(2πt)\nD. P(t) = 99 + 21cos(t)\nE. P(t) = 78 + 42cos(t)"
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 180,
+      "year": 2017,
+      "area": "Matemática",
+      "title": "Questão 180 — ENEM 2017 — Matemática",
+      "sourcePages": [
+        31,
+        32
+      ],
+      "statement": "Para decorar uma mesa de festa infantil, um chefe de\ncozinha usará um melão esférico com diâmetro medindo\n10 cm, o qual servirá de suporte para espetar diversos\ndoces. Ele irá retirar uma calota esférica do melão,\nconforme ilustra a figura, e, para garantir a estabilidade\ndeste suporte, dificultando que o melão role sobre a\nmesa, o chefe fará o corte de modo que o raio r da seção\ncircular de corte seja de pelo menos 3 cm. Por outro lado,\no chefe desejará dispor da maior área possível da região\nem que serão afixados os doces.\n\nh\nO",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2017/matematica/question-180/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "r Região onde serão\nafixados os doces A parte hachurada\nserá apoiada\nna mesa Calota a ser cortada\ne eliminada Para atingir todos os seus objetivos, o chefe deverá cortar\na calota do melão numa altura h, em centímetro, igual a",
+          "assets": [
+            "/generated/enem-2017/matematica/question-180/option-b-01.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5 *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*",
+          "assets": []
+        }
+      ],
+      "rawText": "Para decorar uma mesa de festa infantil, um chefe de\ncozinha usará um melão esférico com diâmetro medindo\n10 cm, o qual servirá de suporte para espetar diversos\ndoces. Ele irá retirar uma calota esférica do melão,\nconforme ilustra a figura, e, para garantir a estabilidade\ndeste suporte, dificultando que o melão role sobre a\nmesa, o chefe fará o corte de modo que o raio r da seção\ncircular de corte seja de pelo menos 3 cm. Por outro lado,\no chefe desejará dispor da maior área possível da região\nem que serão afixados os doces.\n\nh\nO\n\nA.\nB. r Região onde serão\nafixados os doces A parte hachurada\nserá apoiada\nna mesa Calota a ser cortada\ne eliminada Para atingir todos os seus objetivos, o chefe deverá cortar\na calota do melão numa altura h, em centímetro, igual a\nC. 1\nD. 4\nE. 5 *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*"
+    }
+  ]
+}

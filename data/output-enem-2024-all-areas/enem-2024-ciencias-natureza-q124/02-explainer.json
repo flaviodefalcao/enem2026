@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:28:12.213Z",
+  "questionId": "enem-2024-ciencias-natureza-q124",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para entender até que distância um estudante consegue ouvir o professor claramente, é preciso que o som da fala seja pelo menos 5 dB mais alto que o ruído de fundo. Como o ruído máximo é 45 dB, a fala deve estar em pelo menos 50 dB. Usando o gráfico, vemos que o som chega a 50 dB perto de 3 metros, que é a distância máxima para boa compreensão.",
+      "stepByStep": [
+        "Verifique que o nível de som a 1 metro do professor é 60 dB.",
+        "Identifique que o ruído de fundo máximo é 45 dB e que a fala deve estar 5 dB acima, ou seja, no mínimo 50 dB para ser entendida.",
+        "Observe no gráfico que o nível sonoro vai diminuindo conforme a distância aumenta.",
+        "Localize no gráfico o ponto onde o nível sonoro da fala atinge 50 dB.",
+        "Veja que isso ocorre aproximadamente aos 3 metros.",
+        "Conclua que a maior distância para ouvir bem o professor é cerca de 3 metros."
+      ],
+      "commonPitfalls": [
+        "Confundir a distância no gráfico e achar que o nível sonoro permanece acima de 50 dB por mais tempo.",
+        "Ignorar que o som deve estar 5 dB acima do ruído para ser entendido, pensando que o som igual a 45 dB já basta.",
+        "Superestimar a distância máxima para compreensão por não interpretar corretamente o gráfico.",
+        "Desconsiderar o ruído de fundo e focar só no nível sonoro da fala, levando a um resultado incorreto."
+      ],
+      "teachingTips": [
+        "Explique a importância da diferença mínima de 5 dB entre o som da fala e o ruído para garantir a inteligibilidade.",
+        "Use o gráfico para mostrar visualmente como o som decai com a distância e como isso afeta a audição.",
+        "Reforce a habilidade de leitura e interpretação de gráficos, fundamental para resolver este tipo de questão.",
+        "Estimule os alunos a relacionar conceitos físicos (nível sonoro, ruído) com situações cotidianas, como ouvir em uma sala de aula."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2007,
+    "outputTokens": 437,
+    "estimatedCostUsd": 0.001502
+  }
+}

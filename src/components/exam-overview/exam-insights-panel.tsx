@@ -30,7 +30,7 @@ type ExamInsightsPanelProps = {
   competenceAccuracy: CompetenceAccuracyEntry[];
 };
 
-const themeColors = ["#c7683c", "#d98c52", "#e8b87f", "#8e6d39", "#5f728d", "#9fb1c3"];
+const themeColors = ["#2A4E7A", "#416899", "#5B83B7", "#6AA5E8", "#91BDF0", "#BED8FA"];
 
 export function ExamInsightsPanel({
   themeDistribution,
@@ -57,7 +57,7 @@ export function ExamInsightsPanel({
         <button
           type="button"
           onClick={() => setOpen((current) => !current)}
-          className="rounded-full border border-[#d7c6ae] bg-white px-4 py-2 text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
+          className="rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-ink transition hover:border-clay/50 hover:text-clay"
         >
           {open ? "Ocultar painel" : "Mostrar painel"}
         </button>
@@ -78,13 +78,13 @@ export function ExamInsightsPanel({
             <div className="h-[320px]">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={themeDistribution} layout="vertical" margin={{ left: 12, right: 12 }}>
-                  <CartesianGrid stroke="#e7e5e4" horizontal={false} />
+                  <CartesianGrid stroke="#e3edf9" horizontal={false} />
                   <XAxis type="number" allowDecimals={false} tick={{ fill: "#64748b", fontSize: 12 }} />
                   <YAxis
                     type="category"
                     dataKey="theme"
                     width={140}
-                    tick={{ fill: "#334155", fontSize: 12 }}
+                    tick={{ fill: "#587399", fontSize: 12 }}
                   />
                   <Tooltip
                     formatter={(value: number, _name, item) => {
@@ -125,8 +125,8 @@ export function ExamInsightsPanel({
             <div className="h-[320px]">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={competenceAccuracy} margin={{ top: 8, left: 0, right: 12, bottom: 8 }}>
-                  <CartesianGrid stroke="#e7e5e4" vertical={false} />
-                  <XAxis dataKey="competence" tick={{ fill: "#334155", fontSize: 12 }} />
+                  <CartesianGrid stroke="#e3edf9" vertical={false} />
+                  <XAxis dataKey="competence" tick={{ fill: "#587399", fontSize: 12 }} />
                   <YAxis
                     tick={{ fill: "#64748b", fontSize: 12 }}
                     domain={[0, 100]}
@@ -141,7 +141,7 @@ export function ExamInsightsPanel({
                       return [`${value} itens`, "Quantidade"];
                     }}
                   />
-                  <Bar dataKey="averageAccuracy" fill="#19324a" radius={[10, 10, 0, 0]} />
+                  <Bar dataKey="averageAccuracy" fill="#6AA5E8" radius={[10, 10, 0, 0]} />
                 </BarChart>
               </ResponsiveContainer>
             </div>

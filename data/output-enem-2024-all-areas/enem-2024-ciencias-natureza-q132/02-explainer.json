@@ -1,0 +1,36 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:37:46.020Z",
+  "questionId": "enem-2024-ciencias-natureza-q132",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "As fibras musculares rápidas (brancas) são especializadas em contrações rápidas e potentes, ideais para esforços curtos como o salto em altura. Por isso, atletas com maior proporção desses tipos de fibras se beneficiam mais em modalidades que requerem explosão muscular.",
+      "stepByStep": [
+        "Leia o enunciado para entender as diferenças entre fibras musculares lentas (vermelhas) e rápidas (brancas).",
+        "Note que as fibras rápidas possuem poucas mitocôndrias, menor suprimento sanguíneo e são adaptadas para esforços curtos e intensos.",
+        "Analise as modalidades esportivas listadas e identifique aquela que exige potência e explosão muscular rápida, como o salto em altura.",
+        "Lembre-se que esportes de resistência, como maratonas e ciclismo, pedem maior participação das fibras lentas, que suportam esforço prolongado.",
+        "Conclua que a alternativa correta é a que representa um esporte de esforço explosivo, correspondente ao salto em altura (alternativa B)."
+      ],
+      "commonPitfalls": [
+        "Confundir esportes de resistência com aqueles que exigem explosão muscular.",
+        "Achar que atividade intensa e prolongada exige fibras rápidas, quando realmente precisa das fibras lentas.",
+        "Associar o fato de um esporte ser 'rápido' com necessidade de fibras rápidas, sem considerar a duração e tipo de esforço.",
+        "Ignorar as características biológicas das fibras musculares ao relacionar com modalidades esportivas."
+      ],
+      "teachingTips": [
+        "Explique a estrutura e função das fibras musculares de forma visual, utilizando imagens ou esquemas.",
+        "Utilize exemplos práticos do cotidiano ou de esportes populares para ilustrar diferenças entre os tipos de fibras.",
+        "Trabalhe com comparações entre esportes de resistência e esportes de explosão para fixar o conceito.",
+        "Estimule os alunos a relacionar características celulares com capacidades físicas, treinando a interpretação contextual."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 3714,
+    "outputTokens": 394,
+    "estimatedCostUsd": 0.002116
+  }
+}

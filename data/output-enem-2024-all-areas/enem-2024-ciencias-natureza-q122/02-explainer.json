@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:25:23.452Z",
+  "questionId": "enem-2024-ciencias-natureza-q122",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "A transformação redox característica dos procariontes nitrificantes ocorre na etapa 5 do esquema, onde os procariontes decompositores oxidam o carbono fixado de volta em CO2, um processo semelhante à oxidação que ocorre na nitrificação.",
+      "stepByStep": [
+        "Observe o esquema e identifique os ciclos representados: ciclo do nitrogênio (etapas 1, 2) e ciclo do carbono (etapas 3, 4, 5).",
+        "Reconheça que os procariontes nitrificantes convertem amônia (NH3) em nitritos (NO2-) e nitratos (NO3-), realizando uma transformação redox de oxidação.",
+        "Note que a etapa 2 envolve procariontes desnitrificantes fazendo uma transformação redox diferente (redução de nitratos em N2).",
+        "Analise as etapas do ciclo do carbono, especialmente a etapa 5, onde procariontes decompositores oxidam o carbono orgânico de volta em CO2, uma transformação redox de oxidação semelhante à dos nitrificantes.",
+        "Conclua que, apesar do foco inicial ser o ciclo do nitrogênio, a questão pede uma transformação redox similar à dos nitrificantes e que a etapa 5 é a que melhor representa essa característica."
+      ],
+      "commonPitfalls": [
+        "Confundir fixação de nitrogênio (etapa 1) com nitrificação, pois a fixação não é uma transformação redox similar à nitrificação.",
+        "Confundir desnitrificação (etapa 2), que é uma redução, com nitrificação, que é uma oxidação.",
+        "Pensar que a fixação de CO2 por procariontes fotossintetizantes (etapa 3) é uma transformação redox semelhante à nitrificação, quando não é.",
+        "Considerar processos relacionados a plantas (etapa 4) como transformações redox procariontes, o que não é correto."
+      ],
+      "teachingTips": [
+        "Explique claramente o que são reações redox e como elas se aplicam aos ciclos do nitrogênio e carbono.",
+        "Use o esquema para diferenciar funções e processos de cada grupo de procariontes, reforçando suas ações específicas nos ciclos biogeoquímicos.",
+        "Destaque a importância de identificar se a reação é de oxidação ou redução para compreender as transformações químicas envolvidas.",
+        "Estimule o aluno a relacionar conceitos de transformação química com o metabolismo dos procariontes para entender por que certas etapas são semelhantes.",
+        "Realce a leitura cuidadosa dos enunciados e a análise crítica do esquema para evitar confusões entre processos semelhantes, porém distintos."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 3130,
+    "outputTokens": 555,
+    "estimatedCostUsd": 0.00214
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:40:21.732Z",
+  "questionId": "enem-2024-ciencias-natureza-q116",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "E",
+        "correctnessClaim": "A alternativa E é correta pois aborda a diminuição da vesícula vitelínica associada ao desenvolvimento da lactação, uma característica evolutiva dos mamíferos mostrada no cladograma.",
+        "strategy": "Analisar o cladograma para identificar as relações evolutivas entre os grupos de mamíferos, focando nas características reprodutivas e de nutrição dos embriões, e aplicar conhecimentos biológicos sobre a evolução da reprodução e nutrição em mamíferos.",
+        "steps": [
+          "Observar o cladograma e identificar os grupos Monotremata, Marsupialia e Placentalia dentro de Mammalia.",
+          "Reconhecer que todos esses grupos possuem reprodução sexuada e fecundação interna, o que elimina opções relacionadas a mudanças nesse aspecto.",
+          "Saber que a evolução dos mamíferos envolve redução do vitelo (vesícula vitelínica) e o desenvolvimento da lactação para nutrir os filhotes.",
+          "Comparar as opções com as informações do cladograma e do conhecimento sobre evolução dos mamíferos, destacando a opção que aborda a nutrição embrionária e descendente (alternativa E)."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Cladograma que mostra Monotremata, Marsupialia e Placentalia dentro de Mammalia"
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Os grupos de mamíferos apresentados no cladograma (Monotremata, Marsupialia e Placentalia) evoluíram características reprodutivas específicas, como a redução da vesícula vitelínica (que armazena o vitelo) associada ao desenvolvimento da lactação para nutrir os filhotes, um avanço evolutivo importante para a nutrição dos embriões e dos descendentes.",
+        "stepByStep": [
+          "Observe o cladograma e identifique os grupos de mamíferos: Monotremata, Marsupialia e Placentalia.",
+          "Reconheça que todos esses grupos possuem reprodução sexuada e fecundação interna, eliminando opções relacionadas a mudanças nesses aspectos.",
+          "Entenda que a evolução dos mamíferos está marcada pela diminuição do vitelo no ovo (redução da vesícula vitelínica) e pelo surgimento da lactação, que nutre os filhotes após o nascimento.",
+          "Compare as alternativas com o cladograma e o conhecimento sobre o desenvolvimento reprodutivo dos mamíferos para escolher a alternativa que aborda essas mudanças, no caso, a que trata da redução da vesícula vitelínica e o surgimento da lactação (alternativa E)."
+        ],
+        "commonPitfalls": [
+          "Confundir o aumento do número de descendentes como a principal evolução reprodutiva, quando na verdade o foco está na nutrição dos embriões e descendentes.",
+          "Pensar que a fecundação mudou de externa para interna ao longo da evolução dos mamíferos, quando na verdade já é interna nos grupos do cladograma.",
+          "Acreditar que a reprodução dos mamíferos se tornou exclusivamente sexuada, sem reconhecer que já era assim nos ancestrais próximos.",
+          "Associar o desenvolvimento embrionário à migração do ambiente aquático para o terrestre, o que não é foco na evolução dos grupos do cladograma apresentados."
+        ],
+        "teachingTips": [
+          "Utilize cladogramas como ferramentas visuais para explicar relações evolutivas e características compartilhadas ou derivadas.",
+          "Enfatize os conceitos de redução do vitelo e de desenvolvimento da lactação como avanços evolutivos importantes nos mamíferos.",
+          "Explore comparações entre os grupos Monotremata, Marsupialia e Placentalia para mostrar variações nos padrões de nutrição dos embriões e dos filhotes.",
+          "Estimule os alunos a descartarem alternativas com base em conhecimento prévio e interpretação crítica de cladogramas.",
+          "Reforce que evolução não significa apenas ganhos, mas também perdas e modificações adaptativas, como a redução do vitelo com compensação via lactação."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Os estudantes podem pensar que o número de descendentes por ninhada aumentou evolutivamente para garantir maior sobrevivência.",
+          "misconceptionType": "Generalização incorreta",
+          "whyItLooksPlausible": "É comum associar evolução a aumento da fecundidade como forma de adaptação.",
+          "whyItIsWrong": "O cladograma e conhecimento mamífero indicam variações, mas o foco evolutivo mais marcante nos grupos do cladograma é a mudança na vesícula vitelínica e lactação, não no número de descendentes."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pode parecer que a fecundação mudou de externa para interna em mamíferos para proteção dos embriões.",
+          "misconceptionType": "Confusão de características",
+          "whyItLooksPlausible": "A fecundação interna é uma característica importante em mamíferos e répteis terrestres.",
+          "whyItIsWrong": "Os mamíferos já possuem fecundação interna desde o ancestral Mammalia, não há mudança nesse ponto entre os grupos apresentados."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Acreditar que a reprodução se tornou exclusivamente sexuada em mamíferos.",
+          "misconceptionType": "Erro conceitual",
+          "whyItLooksPlausible": "Reprodução sexuada é predominante em mamíferos.",
+          "whyItIsWrong": "Diversos animais possuem reprodução sexuada desde antes; no cladograma, não há evidência de que a versatilidade se reduziu unicamente a isso."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Pressupor que o desenvolvimento embrionário migrou do aquático para o terrestre ao longo da evolução dos mamíferos.",
+          "misconceptionType": "Confusão de habitat com desenvolvimento embrionário",
+          "whyItLooksPlausible": "É sabido que muitos vertebrados passaram da água para a terra.",
+          "whyItIsWrong": "Mamíferos são tetrápodes terrestres; o cladograma não indica mudanças nesse aspecto e a questão enfatiza nutrição e reprodução."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação de cladogramas e conhecimentos em reprodução animal",
+        "secondarySkills": [
+          "Biologia Evolutiva",
+          "Zoologia",
+          "Anatomia e Fisiologia"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "É necessário compreender conceitos de evolução reprodutiva em mamíferos.",
+          "É importante relacionar o cladograma à evolução dos sistemas de nutrição dos embriões.",
+          "Não há necessidade de cálculos numéricos.",
+          "A questão exige interpretação crítica do cladograma apresentado."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🧬",
+        "shortThemeTitle": "Evolução reprodutiva em mamíferos",
+        "interpretationIntro": "A questão nos pede para analisar o cladograma dos mamíferos e identificar os padrões evolutivos relacionados à reprodução e nutrição dos embriões e descendentes presentes nesses grupos.",
+        "commandTerms": [
+          {
+            "term": "Cladograma",
+            "explanation": "Diagrama que mostra as relações evolutivas entre os grupos de organismos."
+          },
+          {
+            "term": "Evolução",
+            "explanation": "Processo de modificação das características genéticas de uma população ao longo do tempo."
+          },
+          {
+            "term": "Nutrição embrionária",
+            "explanation": "Maneira como o embrião ou feto recebe nutrientes para seu desenvolvimento."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão busca que o estudante reconheça as características evolutivas relacionadas à reprodução e nutrição que diferenciam os principais grupos de mamíferos apresentados no cladograma, especificamente perdas e ganhos vinculados aos padrões citados.",
+        "strategyParagraph": "Para responder, é essencial interpretar corretamente o cladograma e entender as diferenças biológicas entre Monotremata, Marsupialia e Placentalia, especialmente em relação ao padrão de nutrição dos embriões, o que envolve compreender a redução da vesícula vitelínica e o desenvolvimento da lactação, processos que alteram a forma como os filhotes se alimentam durante e após o desenvolvimento embrionário.",
+        "reviewTable": [
+          {
+            "concept": "Cladograma",
+            "keyIdea": "Representa relações evolutivas entre grupos.",
+            "application": "Identificar os grupos de mamíferos e suas características reprodutivas."
+          },
+          {
+            "concept": "Vesícula vitelínica",
+            "keyIdea": "Armazena reservas nutricionais no ovo.",
+            "application": "Sua redução implica maior dependência de outras formas de nutrição, como a lactação."
+          },
+          {
+            "concept": "Lactação",
+            "keyIdea": "Alimentação dos filhotes após o nascimento via leite materno.",
+            "application": "Característica evolutiva dos mamíferos que substitui parte da nutrição antes provida pelo vitelo."
+          }
+        ],
+        "theoryParagraphs": [
+          "Os mamíferos são caracterizados pela reprodução sexuada com fecundação interna e geralmente desenvolvimento interno dos embriões. O cladograma apresentado mostra três grupos principais: Monotremata (mamíferos ovíparos que ainda possuem uma vesícula vitelínica significativa), Marsupialia (mamíferos com desenvolvimento embrionário incompleto na placenta, grandes mudanças na nutrição dos filhotes) e Placentalia (mamíferos com placenta desenvolvida, nutrição eficiente intrauterina e lactação robusta).",
+          "Durante a evolução dos mamíferos, a vesícula vitelínica diminuiu de tamanho, reduzindo a quantidade de vitelo presente no ovo, o que foi compensado pelo desenvolvimento da lactação, uma inovação evolutiva que permite a nutrição dos filhotes após o nascimento, garantindo maior chance de sobrevivência e adaptação.",
+          "Essas mudanças representam perdas e ganhos evolutivos: a perda relativa do vitelo como fonte de nutrição embrionária, e o ganho da lactação como modo eficiente de alimentar os descendentes, aspectos fundamentais para entender as adaptações reprodutivas nos diferentes grupos de mamíferos."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, analisamos o cladograma e identificamos os três grupos de mamíferos: Monotremata, Marsupialia e Placentalia.",
+          "Sabemos que todos eles compartilham reprodução sexuada e fecundação interna, então as alternativas que indicam mudanças nesses processos podem ser descartadas.",
+          "Observando as características evolutivas, notamos que a quantidade de vitelo (representado pela vesícula vitelínica) diminui progressivamente desses grupos, enquanto a lactação surge como uma inovação que nutre os filhotes após o nascimento.",
+          "Portanto, a principal mudança evolutiva envolvida é a redução da vesícula vitelínica associada ao aparecimento da lactação, um ganho fundamental para a nutrição dos filhotes e sobrevivência da prole que caracteriza os mamíferos estudados no cladograma.",
+          "Assim, a alternativa E é a única que contempla corretamente este aspecto, relação direta com o que o cladograma e o conhecimento biológico evidenciam."
+        ],
+        "puloDoGato": "Foque na relação entre redução do vitelo e desenvolvimento da lactação para identificar o avanço evolutivo dos mamíferos no cladograma.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "A alternativa sugere aumento no número de descendentes como principal evolução, mas o cladograma enfatiza mudanças na nutrição embrionária, não na fecundidade."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Indica mudança na fecundação externa para interna, mas os mamíferos já possuem fecundação interna desde seu ancestral comum."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Afirma que a reprodução se tornou exclusivamente sexuada, o que não se aplica, pois a reprodução sexuada já ocorria e não houve exclusividade nessa adaptação."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Relaciona evolução a migração embrionária do ambiente aquático para terrestre, não contemplada no cladograma e nem foco da questão."
+          },
+          {
+            "option": "E",
+            "isCorrect": true,
+            "explanation": "Correta. Engloba a redução da vesícula vitelínica e desenvolvimento da lactação, características evolutivas importantes para nutrição dos embriões e filhotes nos mamíferos do cladograma."
+          }
+        ],
+        "questionCode": "CN_REPRODUCAO_CIENCIASDA NATUREZA_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explicação didática estão consistentes e coerentes entre si, com fundamentação adequada no cladograma e conhecimentos biológicos. A resolução oficial atende as diretrizes pedidas com clareza e didática.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3535,
+    "outputTokens": 2683,
+    "estimatedCostUsd": 0.005707
+  }
+}

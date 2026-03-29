@@ -1,0 +1,83 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:45:31.825Z",
+  "questionId": "enem-2024-ciencias-natureza-q120",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A equação C representa a reação global correta.",
+      "strategy": "Somar as reações do ânodo e do cátodo para obter a reação global da CCM.",
+      "steps": [
+        "Identificar reação no ânodo: CH3COO− + 2 H2O → 2 CO2 + 7 H+ + 8 e−",
+        "Identificar reação no cátodo: 4 H+ + O2 + 4 e− → 2 H2O",
+        "Multiplicar a reação do cátodo por 2 para igualar elétrons: 8 H+ + 2 O2 + 8 e− → 4 H2O",
+        "Somar as duas reações para eliminar elétrons: CH3COO− + 2 H2O + 8 H+ + 2 O2 + 8 e− → 2 CO2 + 7 H+ + 8 e− + 4 H2O",
+        "Simplificar íons H+ e elétrons em ambos os lados, obtendo: CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O"
+      ],
+      "formulasUsed": [
+        "CH3COO− + 2 H2O → 2 CO2 + 7 H+ + 8 e−",
+        "4 H+ + O2 + 4 e− → 2 H2O"
+      ],
+      "visualEvidenceUsed": [
+        "Diagrama da CCM com ânodo onde ocorre oxidação do acetato (CH3COO−) formando CO2 e liberando elétrons e H+",
+        "Reações químicas apresentadas ao lado do esquema",
+        "Setas indicando fluxo de elétrons e íons H+ entre ânodo e cátodo"
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Considerar apenas oxidação parcial do acetato sem balancear completamente a reação.",
+        "misconceptionType": "Reação incompleta",
+        "whyItLooksPlausible": "Contém reagentes e produtos da oxidação do acetato.",
+        "whyItIsWrong": "Não considera a redução do oxigênio nem balanceamento dos íons H+."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir reação direta com o processo inverso de síntese de acetato.",
+        "misconceptionType": "Reação invertida",
+        "whyItLooksPlausible": "Contém compostos envolvidos na reação.",
+        "whyItIsWrong": "Reação apresenta sentido químico invertido, não condiz com oxidação do acetato."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Confundir reação de oxidação com formação de oxigênio e excesso de íons H+.",
+        "misconceptionType": "Reação incorreta",
+        "whyItLooksPlausible": "Presença dos mesmos reagentes e produtos aparentes.",
+        "whyItIsWrong": "Não condiz com processo redox típico em CCM nem é balanceada corretamente."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Reação inversa à oxidação com incorreta estequiometria.",
+        "misconceptionType": "Reação inversa",
+        "whyItLooksPlausible": "Inclui reagentes e produtos associados à oxidação/redução do acetato.",
+        "whyItIsWrong": "Reação é o oposto do esperado, síntese em vez de degradação."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Balancing chemical redox reactions",
+      "secondarySkills": [
+        "Understanding redox processes",
+        "Microbial fuel cell concepts"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Usa somatória e balanceamento de equações redox",
+        "Interpreta esquema de célula a combustível microbiana",
+        "Identifica espécies químicas e elétrons na reação"
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1593,
+    "outputTokens": 791,
+    "estimatedCostUsd": 0.001903
+  }
+}

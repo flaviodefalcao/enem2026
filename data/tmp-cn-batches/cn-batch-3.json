@@ -1,0 +1,863 @@
+{
+  "questions": [
+    {
+      "id": "enem-2024-ciencias-natureza-q121",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 121 — ENEM 2024 — Ciências da Natureza",
+      "statement": "No senso comum, considera-se, ainda hoje, que\ncompostos orgânicos são substâncias presentes nos seres\nvivos. Na Química, a expressão “compostos orgânicos” tem\num uso histórico de mais de 200 anos, adquirindo diferentes\nconotações ao longo do desenvolvimento dessa ciência.\nAtualmente, atribui-se a essa expressão outro significado.\nA concepção científica atual define esses compostos\ncomo substâncias",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "benéficas à saúde humana.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "capazes de serem biodegradadas.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "formadas a partir de gás carbônico.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "produzidas sem o uso de agrotóxicos.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "contendo carbono como elemento principal. *020125AM11*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 31,
+        "examQuestionNumber": 121,
+        "sourcePages": "11",
+        "sourceQuestionNumber": 3,
+        "skillCode": "H3",
+        "skillDescription": "Confrontar interpretações científicas com interpretações baseadas no senso comum, ao longo do tempo ou em diferentes culturas.",
+        "competenceNumber": 1,
+        "competenceDescription": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 77606,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q122",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 122 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Metabolismo de procariontes\nO esquema representa a ação de organismos no\nciclo do nitrogênio e no ciclo do carbono. Os números\ncorrespondem a algumas etapas dos dois ciclos distintos.\nDisponível em: https://pt.khanacademy.org.\nAcesso em: 27 jun. 2024 (adaptado).\nEm qual etapa numerada ocorre uma transformação redox\ncomo a que ocorre nos procariontes nitrificantes?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-122/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-122/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "5",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 32,
+        "examQuestionNumber": 122,
+        "sourcePages": "12",
+        "sourceQuestionNumber": 23,
+        "skillCode": "H9",
+        "skillDescription": "Compreender a importância dos ciclos biogeoquímicos ou do fluxo energia para a vida, ou da ação de agentes ou fenômenos que podem causar alterações nesses processos.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117963,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q123",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 123 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Um dos agentes que mais contribui para a poluição\ndo ar é o automóvel a combustão interna. Em áreas\nurbanas, isso é demonstrado dramaticamente pela\nfumaça fotoquímica, resultante da interação entre óxidos\nde nitrogênio, hidrocarbonetos e luz solar, para formar\nprodutos de oxidação, que causam irritação aos olhos, ao\naparelho respiratório e danos às plantas. As condições de\noperação de motores a combustão, como a razão da mistura\nar/combustível no cilindro, influenciam na composição\ndos gases lançados pelo escapamento na atmosfera.\nO gráfico ilustra a variação nas composições dos principais\ngases, dióxido de carbono (CO₂), hidrocarbonetos (HC),\nmonóxido de carbono (CO), monóxido de nitrogênio (NO) e\noxigênio molecular (O₂), emitidos por um motor a gasolina,\nem diferentes razões ar/combustível, em massa.\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos\nno controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).\nNa condição de razão ar/combustível igual a 18, haverá\numa emissão",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-123/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "baixa de O₂ e alta de NO.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "baixa de NO e alta de HC.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "baixa de CO e alta de CO₂.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "baixa de HC e alta de CO.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "baixa de CO₂ e alta de HC. *020125AM12*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "C",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 33,
+        "examQuestionNumber": 123,
+        "sourcePages": "12",
+        "sourceQuestionNumber": 24,
+        "skillCode": "H12",
+        "skillDescription": "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econômicas, considerando interesses contraditórios.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117780,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q124",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 124 — ENEM 2024 — Ciências da Natureza",
+      "statement": "A saúde do professor: acústica arquitetônica\nDentre os parâmetros acústicos que afetam a\ninteligibilidade dos sons emitidos em ambientes fechados,\ndestacam-se o ruído de fundo do ambiente e o decréscimo\ndo nível sonoro com a distância da fonte emissora. Assim,\nsentar-se no fundo da sala de aula pode prejudicar a\naprendizagem dos estudantes, por impedir que eles\ndistingam, com precisão, os sons emitidos, diminuindo a\ninteligibilidade da fala de seus professores. Considere a\nsituação exemplificada pelo infográfico: à distância de\n1 metro, o nível sonoro da fala de um professor é de\n60 dB e diminui com a distância. Considere, ainda, que o\nruído de fundo nessa sala de aula pode chegar a 45 dB\ne que, para ser compreendida, o nível sonoro da fala do\nprofessor deve estar 5 dB acima desse ruído.\nDisponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).\nPara um valor máximo do ruído de fundo, a maior distância\nque um estudante pode estar do professor para que ainda\nconsiga compreender sua fala é mais próxima de",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-124/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "3,0 m.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "4,5 m.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "6,5 m.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "8,0 m.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "9,5 m.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 34,
+        "examQuestionNumber": 124,
+        "sourcePages": "13",
+        "sourceQuestionNumber": 11,
+        "skillCode": "H17",
+        "skillDescription": "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica.",
+        "competenceNumber": 5,
+        "competenceDescription": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141661,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q125",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 125 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Uma agricultora, com a intenção de comercializar o\nmilho recém-colhido, testou uma forma de preservar o\nsabor adocicado do seu produto. O melhor resultado foi\nobtido quando ela imergiu as espigas em água fervente\ndurante alguns minutos e, em seguida, em água gelada.\nCom esse procedimento, parte da glicose do milho não foi\ntransformada em amido, mantendo o seu sabor adocicado.\nUtilizando esse procedimento, o sabor foi conservado\nporque houve",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "desnaturação enzimática pela alta temperatura.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "conversão de nutrientes pela redução de temperatura.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "degradação das reservas nutritivas pelo choque térmico.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "impedimento da entrada de oxigênio pela fervura da água.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "desidratação dos grãos por causa da alteração da temperatura.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "A",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 35,
+        "examQuestionNumber": 125,
+        "sourcePages": "13",
+        "sourceQuestionNumber": 12,
+        "skillCode": "H2",
+        "skillDescription": "Associar a solução de problemas de comunicação, transporte, saúde ou outro, com o correspondente desenvolvimento científico e tecnológico.",
+        "competenceNumber": 1,
+        "competenceDescription": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 87137,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q126",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 126 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Aquecedores solares são equipamentos utilizados para\no aquecimento de água pelo calor do Sol. São compostos\npor coletores solares, nos quais ocorre o aquecimento da\nágua, e por um reservatório térmico, em que é armazenada\na água quente para ser utilizada posteriormente. A figura\nilustra esquematicamente como funciona esse equipamento.\n5 dicas de instalação de aquecedor solar. Disponível em:\nhttps://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).\nO processo pelo qual ocorre transferência de calor dos\ncoletores solares para o reservatório térmico é a",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-126/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "difusão.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "absorção.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "condução.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "irradiação.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "convecção.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 36,
+        "examQuestionNumber": 126,
+        "sourcePages": "13",
+        "sourceQuestionNumber": 13,
+        "skillCode": "H18",
+        "skillDescription": "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam.",
+        "competenceNumber": 5,
+        "competenceDescription": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 76197,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q127",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 127 — ENEM 2024 — Ciências da Natureza",
+      "statement": "As autoridades sanitárias brasileiras têm se preocupado\nmuito nos últimos anos com o aumento da ocorrência\nde doenças transmitidas por mosquitos, principalmente\narboviroses como chikungunya e zika, que se tornaram\nepidêmicas ou endêmicas em áreas urbanas. Parte de\numa análise da relação entre a urbanização e a incidência\ndessas doenças está representada no fluxograma.\nNesse contexto, como a urbanização está causando\nriscos à saúde humana?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-127/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-127/statement-02.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Disseminando verminoses.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Causando a eutrofização de lagoas.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Aumentando a chance de contato com coliformes.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Diminuindo a população de predadores aquáticos.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Aproximando as pessoas das áreas de ocorrência de mosquitos. *020125AM13*",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 37,
+        "examQuestionNumber": 127,
+        "sourcePages": "13",
+        "sourceQuestionNumber": 14,
+        "skillCode": "H12",
+        "skillDescription": "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econômicas, considerando interesses contraditórios.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141808,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q128",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 128 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Impactos do microplástico\nA ação de fatores abióticos aliada à biodeterioração\ncontribuem para a formação de microplásticos, os quais se\naderem a outros poluentes orgânicos apolares persistentes,\ncomo os derivados de pesticidas lipossolúveis. Há uma\nproporcionalidade direta entre a solubilidade desses tipos de\npoluentes e sua concentração nos tecidos dos organismos\nexpostos a eles.\nDisponível em: www.ecycle.com.br.\nAcesso em: 9 dez. 2021 (adaptado).\nEm animais vertebrados, essa associação de poluentes\nserá preferencialmente acumulada no tecido",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "ósseo.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "nervoso.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "epitelial.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "adiposo.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "sanguíneo.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 38,
+        "examQuestionNumber": 128,
+        "sourcePages": "14",
+        "sourceQuestionNumber": 15,
+        "skillCode": "H10",
+        "skillDescription": "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais.",
+        "competenceNumber": 3,
+        "competenceDescription": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141753,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q129",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 129 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Em aeroportos, por razões de segurança, os\npassageiros devem ter suas bagagens de mão examinadas\nantes do embarque, passando-as em esteiras para sua\ninspeção por aparelhos de raios X. Nessas inspeções, os\npassageiros são orientados a retirar seus computadores\nportáteis (notebooks ou laptops) de malas, mochilas ou\nbolsas para passá-los isoladamente pela esteira.\nQue explicação física justifica esse procedimento?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 39,
+        "examQuestionNumber": 129,
+        "sourcePages": "14",
+        "sourceQuestionNumber": 16,
+        "skillCode": "H19",
+        "skillDescription": "Avaliar métodos, processos ou procedimentos das ciências naturais que contribuam para diagnosticar ou solucionar problemas de ordem social, econômica ou ambiental.",
+        "competenceNumber": 5,
+        "competenceDescription": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111475,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q130",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 130 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Com base em testes realizados em ratos, concluiu-se\nque os compostos nitrosos são substâncias mutagênicas,\nou seja, produzem mutações nas células e possivelmente\ncâncer. Esses compostos podem ser obtidos pela reação\nentre o nitrito de sódio, que é um conservante adicionado\nàs carnes, e o ácido clorídrico. O ácido nitroso produzido\nirá reagir com compostos nitrogenados, como as aminas,\ndando origem aos compostos nitrosos.\nEm qual órgão esse processo será iniciado?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Rim.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Fígado.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Intestino.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Pâncreas.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Estômago.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "E",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 40,
+        "examQuestionNumber": 130,
+        "sourcePages": "14",
+        "sourceQuestionNumber": 17,
+        "skillCode": "H29",
+        "skillDescription": "Interpretar experimentos ou técnicas que utilizam seres vivos, analisando implicações para o ambiente, a saúde, a produção de alimentos, matérias primas ou produtos industriais.",
+        "competenceNumber": 8,
+        "competenceDescription": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 78441,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q131",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 131 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Disponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado).\nO conjunto dessas mudanças graduais é análogo ao\nprocesso natural denominado\nA rotação de culturas.\nB sucessão ecológica.\nC coevolução específica.\nD adaptação por seleção.\nE convergência adaptativa.",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-131/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 41,
+        "examQuestionNumber": 131,
+        "sourcePages": "14",
+        "sourceQuestionNumber": 18,
+        "skillCode": "H4",
+        "skillDescription": "Avaliar propostas de intervenção no ambiente, considerando a qualidade da vida humana ou medidas de conservação, recuperação ou utilização sustentável da biodiversidade.",
+        "competenceNumber": 1,
+        "competenceDescription": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141791,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q132",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 132 — ENEM 2024 — Ciências da Natureza",
+      "statement": "As fibras musculares esqueléticas não são todas\niguais. As fibras lentas, também conhecidas como fibras\nvermelhas, apresentam muitas mitocôndrias e são bem\nsupridas por vasos sanguíneos. Já as fibras rápidas, ou\nfibras brancas, apresentam poucas mitocôndrias e recebem\nmenor suprimento sanguíneo. Dessa forma, a distribuição\ndas fibras nos músculos esqueléticos do corpo auxilia de\nforma diferenciada no desempenho físico de um atleta.",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-132/statement-01.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 42,
+        "examQuestionNumber": 132,
+        "sourcePages": "14",
+        "sourceQuestionNumber": 19,
+        "skillCode": "H14",
+        "skillDescription": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 111460,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q133",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 133 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O Cerrado e a Amazônia abrigam grande número de\nserpentes popularmente conhecidas como cobras-corais.\nNa Amazônia predominam as corais-verdadeiras, que\nsão peçonhentas, enquanto no Cerrado prevalecem as\nfalsas-corais, que não possuem peçonha. Essas espécies\napresentam um padrão de coloração muito semelhante.\nEssa similaridade traz uma vantagem tanto para as corais\nfalsas como para as verdadeiras.\nNas fotografias, são apresentados exemplos dessas\nserpentes: uma coral-verdadeira e uma falsa-coral.\nQual é a vantagem dessa similaridade para as falsas-corais?",
+      "supportImagePaths": [
+        "public/generated/enem-2024/ciencias-natureza/question-133/statement-01.png",
+        "public/generated/enem-2024/ciencias-natureza/question-133/statement-02.png",
+        "public/generated/enem-2024/ciencias-natureza/question-133/statement-03.png"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Facilita a captura de presas.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "Diminui a competição por recursos.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "Possibilita a geração de indivíduos híbridos.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "Reduz a possibilidade de sofrerem predação.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "Otimiza o encontro de parceiros reprodutivos.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 43,
+        "examQuestionNumber": 133,
+        "sourcePages": "15",
+        "sourceQuestionNumber": 20,
+        "skillCode": "H28",
+        "skillDescription": "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros.",
+        "competenceNumber": 8,
+        "competenceDescription": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico- tecnológicas.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 117915,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q134",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 134 — ENEM 2024 — Ciências da Natureza",
+      "statement": "O exoesqueleto dos crustáceos é formado por quitina\ne impregnações de sais calcários e, por isso, é mais\nduro quando comparado com o exoesqueleto de outros\nartrópodes. Esse revestimento externo confere proteção,\nmas, por ser duro, limita o crescimento desses animais.\nPara superar essa limitação, o exoesqueleto deve ser",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "formado somente na fase adulta do animal.",
+          "imagePaths": []
+        },
+        {
+          "label": "B",
+          "text": "fragmentado para expansão nas áreas de articulação.",
+          "imagePaths": []
+        },
+        {
+          "label": "C",
+          "text": "modelado continuamente para ajuste ao tamanho do corpo.",
+          "imagePaths": []
+        },
+        {
+          "label": "D",
+          "text": "substituído por meio de mudas que ocorrem periodicamente.",
+          "imagePaths": []
+        },
+        {
+          "label": "E",
+          "text": "impregnado por pequena quantidade de sais para sua distensão.",
+          "imagePaths": []
+        }
+      ],
+      "answerKey": "D",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 44,
+        "examQuestionNumber": 134,
+        "sourcePages": "15",
+        "sourceQuestionNumber": 21,
+        "skillCode": "H14",
+        "skillDescription": "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 85697,
+        "coProva": 0
+      }
+    },
+    {
+      "id": "enem-2024-ciencias-natureza-q135",
+      "year": 2024,
+      "area": "Ciências da Natureza",
+      "title": "Questão 135 — ENEM 2024 — Ciências da Natureza",
+      "statement": "Um dos exemplos mais conhecidos de herança\nrecessiva ligada ao cromossomo X é o daltonismo.\nComo em qualquer distúrbio recessivo ligado ao\ncromossomo X, existem muito mais homens apresentando\no fenótipo com esse tipo de daltonismo do que mulheres.\nUm casal formado por um homem não daltônico e por uma\nmulher gestante também não daltônica, mas portadora\ndo gene recessivo para esse tipo de daltonismo, está\nesperando um bebê. Em uma das consultas de pré-natal,\no casal recebeu um heredograma que contém todas as\npossibilidades de genótipo para esse bebê.\nConsidere a legenda:\nMulher heterozigota portadora\ndo gene para daltonismo\nMulher não daltônica\nMulher daltônica\nHomem não daltônico\nHomem daltônico\nGRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro:\nGuanabara Koogan, 2016 (adaptado).\nQual heredograma foi recebido pelo casal?",
+      "supportImagePaths": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "2 400,00. 56. 1 000 1,35. 0,1. Fevereiro. 54. 2 e 3. I 5,4. 4 000 π 7. 13,0. I. 2,00F + 0,26T + 1,40D 8 250. 147,00. 12,50 entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários. I. 4. 11 520. I, pois o valor é R$ 7,00. muito bom e bom. 1,0. 3 × 219 19,50. cone. 24 I. 4,18. S₁, S₃ e S₂. 13 525,0 85 I, II e IV. a = 20; b = log(0,5) 6",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-01.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-02.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-03.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-04.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-05.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-06.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-07.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-a-08.png"
+          ]
+        },
+        {
+          "label": "B",
+          "text": "2 520,00. 58. 1 500 3,00. 0,5. Abril. 60. 4 e 5. II 6,2. 2 000 π 8. 15,0. II. 2,00 + 0,26T + 1,40D 7 920. 150,00. 20,00 entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor. II. 5. 14 400. I, pois o valor é R$ 4,00. muito bom e regular. 2,5. 3 × 220 28,80. cilindro. 35 II. 8,36. S₂, S₁ e S₃. 135,25 100 II, IV e V. a = 100; b = 0,5 18",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-01.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-02.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-03.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-04.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-05.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-06.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-07.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-b-08.png"
+          ]
+        },
+        {
+          "label": "C",
+          "text": "2 550,00. 59. 3 500 9,00. 1,0. Maio. 66. 5 e 6. III 7,6. 4 000 π 9. 19,8. III. 2,00 + 0,26T + D 6 545. 162,50. 24,00 até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor. III. 6. 18 000. II, pois o valor é R$ 6,00. muito bom e insatisfatório. 3,0. 3 × 221 34,00. pirâmide. 555 III. 41,80. S₂, S₃ e S₁. 13,525 175 II, III e V. 6 6",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-01.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-02.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-03.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-04.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-05.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-06.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-07.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-08.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-c-09.png"
+          ]
+        },
+        {
+          "label": "D",
+          "text": "2 700,00. 60. 3 800 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 12,60. 1,3. Junho. 68. 7 e 8. IV 8,2. 1000 π 10. 20,0. IV. 0,26T + 1,40D 5 500. 165,75. 30,00 até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa. IV. 19. 312 000. I, pois anuncia o componente com o menor preço. bom e regular. 3,5. 3 × 220 − 1 52,00. tronco de cone. 1 110 IV. 83,60. S₃, S₁ e S₂. 1,3525 200 III, V e VI.",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-01.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-02.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-03.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-04.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-05.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-06.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-07.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-08.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-d-09.png"
+          ]
+        },
+        {
+          "label": "E",
+          "text": "*020125AM15* Uma empresa produz mochilas escolares sob\nencomenda. Essa empresa tem um custo total de produção,\ncomposto por um custo fixo, que não depende do número\nde mochilas, mais um custo variável, que é proporcional\nao número de mochilas produzidas. O custo total cresce\nde forma linear, e a tabela apresenta esse custo para três\nquantidades de mochilas produzidas. O custo total, em real, para a produção de 80 mochilas será 2 800,00. A umidade relativa do ar é um dos indicadores utilizados\nna meteorologia para fazer previsões sobre o clima.\nO quadro apresenta as médias mensais, em porcentagem,\nda umidade relativa do ar em um período de seis meses\nconsecutivos em uma cidade. 66/64\n54/46\n60/64 Nessa cidade, a mediana desses dados, em porcentagem,\nda umidade relativa do ar no período considerado foi 62. Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente: • engenheiro I: 4 dias, numa jornada de 5 horas e\nmeia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e\nmeia por dia. Qual a maior diferença, em real, entre os valores recebidos\npor esse serviço entre dois desses engenheiros? 5 250 Um hospital tem 7 médicos cardiologistas e 6 médicos\nneurologistas em seu quadro de funcionários. Para\nexecutar determinada atividade, a direção desse hospital\nformará uma equipe com 5 médicos, sendo, pelo menos,\n3 cardiologistas. A expressão numérica que representa o número máximo\nde maneiras distintas de formar essa equipe é 7 3 4 6 2 4 7 4 3 6 1 5 7 5 2 6 0 6 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! *020125AM16* Para melhorar o fluxo de ônibus em uma avenida que\ntem dois semáforos, a prefeitura reduzirá o tempo em\nque cada sinal ficará vermelho, que atualmente é de 15\nsegundos a cada 60 segundos. Admita que o instante de\nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a\nprobabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60 . A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo,\nem que cada sinal ficará vermelho, de maneira que\na probabilidade de um ônibus encontrar ambos os considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará\nvermelho, em segundo, estabelecida pelo engenheiro foi de 13,80. A densidade demográfica de uma região é definida\ncomo sendo a razão entre o número de habitantes dessa\nregião e sua área, expressa na unidade habitantes por\nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo\numa delas a região Q. A área de Q é igual a três quartos da\nárea de R, e o número de habitantes de Q é igual à metade\ndo número de habitantes de R. As densidades demográficas\ncorrespondentes a essas regiões são denotadas por d(Q)\ne d(R). A expressão que relaciona d(Q) e d(R) é Atualmente, há telefones celulares com telas de\ndiversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 1/2 polegadas, com determinadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\ncelular, suas telas ficaram maiores, sendo muito comum Disponível em: www.tecmundo.com.br.\nAcesso em: 5 nov. 2014 (adaptado). A diferença de tamanho, em valor absoluto, entre as\nmedidas, em polegada, das telas do celular 2 e do celular 1,\nrepresentada apenas com uma casa decimal, é 1,8. *020125AM17* Uma imobiliária iniciou uma campanha de divulgação\npara promover a venda de apartamentos que podem ser\npagos em 100 parcelas mensais. O valor da primeira delas\né fixado no momento da compra, com o pagamento dessa\nprimeira parcela. A partir da segunda parcela, o valor é\ndeterminado pela aplicação de um acréscimo percentual\nfixo ao valor da parcela anterior. Como atrativo, a imobiliária\nfará o pagamento de todas as parcelas correspondentes\nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio,\ndecidiu comprar um desses apartamentos por meio do\nfinanciamento oferecido pela imobiliária, e pretende escolher\no mês mais adequado para realizar essa compra, de modo\nque o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para\nrealizar a compra do apartamento? Agosto. Um sistema de polias circulares e correias é um dos\nmecanismos responsáveis pela transmissão de movimento\nem máquinas rotativas. O manual de um motor traz uma\nfigura representando um sistema composto por duas polias\ne uma correia de transmissão, tensionada e perfeitamente\najustada sobre as polias, de modo a não apresentar folgas\nnos contatos com as polias. Considere que as partes\ndessa correia que não ficam em contato com as polias são\nrepresentadas por segmentos de reta tangentes às polias. Para substituição dessa correia, é necessária a\nespecificação de seu comprimento. Considere 3 como valor aproximado para π. A medida do comprimento dessa correia, em centímetro, é 72. A prefeitura de uma cidade planeja construir três postos\nde saúde. Esses postos devem ser construídos em locais\nequidistantes entre si e de forma que as distâncias desses\ntrês postos ao hospital dessa cidade sejam iguais. Foram\nconseguidos três locais para a construção dos postos de\nsaúde que apresentam as características desejadas, e\nque distam 10 km entre si, conforme o esquema, no qual o\nponto H representa o local onde está construído o hospital;\nos pontos P₁, P₂ e P₃, os postos de saúde; e esses quatro\npontos estão em um mesmo plano. A distância, em quilômetro, entre o hospital e cada um dos\npostos de saúde, é um valor entre 8 e 9. *020125AM18* Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações\nsemelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve\nduração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos\nrestantes em superfície que simula uma estrada de chão.\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em\ncada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor\ndo que sua amplitude da oscilação na estrada de chão. O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é *020125AM19* Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado\npor essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será\npela forma que resulte na maior área. O jardineiro escolherá a forma de Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que\npartem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros,\ne o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem\ndiferentes partes do trecho, conforme o esquema. O alcance de cada uma das cinco câmeras é: • câmera I: 1/5 do percurso; • câmera II: 3/10 do percurso; • câmera III: 1/10 do percurso; • câmera IV: 1/10 do percurso; • câmera V: 3/10 do percurso. Em determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de\n250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min. Qual câmera registra o momento em que os ônibus A e B se encontram? V *020125AM20* A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas.\nJúlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim,\nse a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do\nalfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C”\npelo “F”, e assim sucessivamente. Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019. Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César\nou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído,\npois isso define todas as demais substituições a serem feitas.\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade\nde se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada\nnas tentativas seguintes. A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram\nmagnitudes M₁ e M₂, medidos segundo a escala Richter, e liberaram energias iguais a E₁ e E₂, respectivamente. Entre\nos estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por M\nM\nE\nE\n2/1\n2 2/3 log Estudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M₁ = 6,9 e a energia\nliberada foi um décimo da observada no segundo terremoto. O valor aproximado da magnitude M₂ do segundo terremoto, expresso com uma casa decimal, é igual a 8,4. *020125AM21* Uma indústria faz uma parceria com uma distribuidora\nde sucos para lançar no mercado dois tipos de\nembalagens. Para a fabricação dessas embalagens,\na indústria dispõe de folhas de alumínio retangulares,\nde dimensões 10 cm por 20 cm. Cada uma dessas\nfolhas é utilizada para formar a superfície lateral da\nembalagem, em formato de cilindro circular reto, que\nposteriormente recebe fundo e tampa circulares. A figura\nilustra, dependendo de qual das duas extensões será\nutilizada como altura, as duas opções para formar a\npossível embalagem. Dentre essas duas embalagens, a de maior capacidade\napresentará volume, em centímetro cúbico, igual a 500 π As receitas anuais obtidas por uma indústria no período\nde 2014 a 2021, em milhão de reais, foram registradas, por\npontos, em um gráfico. Nele, também está representada a\nreta que descreve a tendência de evolução das receitas.\nEssa reta pode ser utilizada para estimar as receitas dos\nanos seguintes. A estimativa da receita, em milhão de reais, dessa\nindústria, para o ano de 2026, obtida a partir dessa reta\nde tendência, é 11. *020125AM22* Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na\nsua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura. Esses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três\nretângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido\npor uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias\n12 horas para finalizar o seu enchimento. O gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas\nao longo do enchimento do tanque, é *020125AM23* Contratos de vários serviços disponíveis na internet\napresentam uma quantidade excessiva de informações.\nIsso faz com que o tempo necessário para a leitura desses\ncontratos possa ser longo. O quadro apresenta uma amostra do tempo considerado\nnecessário para a leitura completa do contrato de alguns\nserviços digitais. ROMERO, L. Não li e concordo. Superinteressante,\nn. 307, ago. 2012 (adaptado). O tempo médio, em minuto, necessário para a leitura\ncompleta de um contrato de serviço dentre os listados\nno quadro é, com uma casa decimal, aproximadamente, 23,3. Um proprietário pretende instalar um sensor de\npresença para a proteção de seu imóvel. O sensor\ndeverá detectar movimentos de objetos e pessoas numa\ndeterminada região plana. A figura ilustra a vista superior\nda área de cobertura (setor circular em azul) de um sensor\ncolocado no ponto S. Essa área depende da medida do\nângulo α, em grau, e do raio R, em metro. Ao aumentar o ângulo αou o raio R aumenta-se a\nárea de cobertura do sensor. Entretanto, quanto maior\nessa área, maior o preço do sensor. Para esse fim, há cinco tipos de sensores disponíveis\nno mercado, cada um com as seguintes características: • tipo I: α₌ 15° e R = 20 m;\n• tipo II: α₌ 30° e R = 22 m;\n• tipo III: α₌ 40° e R = 12 m;\n• tipo IV: α₌ 60° e R = 16 m;\n• tipo V: α₌ 90° e R = 10 m. Esse proprietário pretende adquirir um desses sensores\nque seja capaz de cobrir, no mínimo, uma área de medida\n70 m2, com o menor preço possível.\nUse 3 como valor aproximado para π. O proprietário do imóvel deverá adquirir o sensor do tipo V. O uso de aplicativos de transporte tem sido uma\nalternativa à população que busca preços mais competitivos\npara se locomover, principalmente nas grandes cidades.\nAs formas usadas para determinar o valor cobrado por\ncada viagem variam de um aplicativo para outro, mas, em\ngeral, o valor V a ser pago, em real, varia em função de: • tarifa base F: valor fixo, em real, cobrado no início\nda viagem;\n• tempo T: tempo, em minuto, de duração da viagem;\n• distância D: distância percorrida, em quilômetro. Um desses aplicativos cobra R$ 2,00 de valor fixo,\nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40\npor quilômetro rodado. Nessas condições, a expressão que fornece o valor V a\nser pago por uma viagem desse aplicativo é F + T + D *020125AM24* Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina. A vazão do sistema de abastecimento da segunda piscina,\nem litro por minuto, é 5 280. Uma tubulação despeja sempre o mesmo volume de\nágua por unidade de tempo em uma caixa-d’água, o que\nsignifica dizer que a vazão de água nessa tubulação é\nconstante. Na junção dessa tubulação com a caixa-d’água,\nestá instalada uma membrana de filtragem cujo objetivo é\nfiltrar eventuais impurezas presentes na água, combinado\na um bom fluxo de água. O fluxo (φ₎ de água através\nda superfície da membrana é diretamente proporcional\nà vazão de água na tubulação, medida em mililitro por\nsegundo, e inversamente proporcional à área da superfície\nda membrana, medida em centímetro quadrado. A unidade de medida adequada para descrever o fluxo\n(φ₎ de água que atravessa a superfície da membrana é cm s mL ⋅ Em uma loja de defensivos agrícolas, os preços de\nalguns produtos foram divulgados em um cartaz. Sabe-se que 1 litro de defensivo do Tipo A é suficiente\npara aplicação em 0,5 hectare (ha), enquanto que 1 litro de\ndefensivo do Tipo B é suficiente para aplicação em 0,4 ha.\nUm agricultor precisa comprar, nessa loja, uma quantidade\nde litros de defensivo suficiente para aplicar em uma área\nde 20 ha, além de levar uma máscara para aplicação. O valor mínimo, em real, a ser gasto pelo agricultor é 168,00. Uma doceira vende e entrega, em seu bairro, porções\nde 100 g de docinhos de aniversário. Atualmente, a taxa\núnica de entrega é R$ 10,00, e o valor cobrado por uma\nporção é R$ 25,00. Por uma estratégia de vendas, a partir\nda próxima semana, a taxa única de entrega será R$ 15,00,\ne um novo valor será cobrado por uma porção, de maneira\nque o valor total a ser pago por um cliente na compra de\n5 porções permaneça o mesmo. A partir da próxima semana, qual será o novo valor\ncobrado, em real, por uma porção? 37,50 *020125AM25* Uma empresa tem 400 funcionários, distribuídos em\ntrês setores: administrativo, logística e produção. O gráfico\napresenta a distribuição quantitativa desses funcionários,\npor setor e por faixa etária. Uma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade\nde serem sorteados. A maior probabilidade é que o funcionário sorteado esteja\nna faixa etária a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%. Em um jogo virtual para celular, um personagem pode\npercorrer trajetórias retilíneas voando ou se deslocando ao\nlongo de paredes. Considere que o personagem descreve\na trajetória ABCDEF, em que os pontos A, D e E estão em\num plano paralelo ao que contém os pontos B e C, sendo\nesses dois planos ortogonais ao plano da base que contém\no ponto F, conforme a figura. A projeção ortogonal, sobre o plano da base, da trajetória\nABCDEF descrita pelo personagem é *020125AM26* O tamanho mínimo que a visão humana é capaz de\nvisualizar sem o uso de equipamento auxiliar é equivalente\na 100 micrômetros (1 micrômetro = 10-3 milímetros).\nUma estudante pretende visualizar e analisar hemácias\ndo sangue humano, que medem 0,007 mm de diâmetro.\nEla adquiriu um microscópio óptico que tem uma lente\nocular que amplia em 10 vezes a imagem do objeto em\nobservação, e um conjunto de lentes objetivas com estas\ncapacidades de ampliação: • lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez. O funcionamento desse microscópio permite o uso da\nlente ocular sozinha ou a combinação dela com uma\nde suas lentes objetivas, proporcionando, nesse caso,\num aumento de sua capacidade de ampliação final, que é\ndada pelo produto entre as capacidades de ampliação da\nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de\nmenor capacidade de ampliação que permita, na combinação\ncom a ocular, visualizar hemácias do sangue humano. A lente objetiva a ser selecionada pela estudante é a V. Ao calcular a média de suas notas em 4 provas, um\nestudante dividiu, por engano, a soma das notas por 5.\nCom isso, a média obtida foi 1 unidade menor do que\ndeveria ser, caso fosse calculada corretamente. O valor correto da média das notas desse estudante é 21. Para abrir a porta de uma empresa, cada funcionário\ndeve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura. Por exemplo: a tecla que contém o número 2 traz as\nletras correlacionadas A, B e C. Cada toque nessa tecla\nmostra, sequencialmente, os seguintes caracteres: 2, A, B\ne C. Para os próximos toques, essa sequência se repete.\nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários\ndevem conter 5 caracteres, sendo 2 algarismos distintos\nseguidos de 3 letras diferentes, nessa ordem. Um funcionário\nirá cadastrar a sua primeira senha, podendo escolher entre\nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as\nrespectivas letras correlacionadas, quando houver. O número de possibilidades diferentes que esse\nfuncionário tem para cadastrar sua senha é 390 000. *020125AM27* Um artesão utiliza dois tipos de componentes, X e\nY, nos enfeites que produz. Ele sempre compra todos os\ncomponentes em uma mesma loja. O quadro apresenta\nos preços dos dois tipos de componentes nas lojas I e II. Ele confeccionará enfeites formados por duas unidades\ndo componente X e uma unidade do componente Y e\nefetuará a compra na loja que oferecer o menor valor total\npara a confecção de um enfeite. O artesão efetuará a compra na loja II, pois o componente X, que é o mais utilizado, tem menor preço. João e Felipe participaram, na escola, de uma maratona\nde matemática na qual, durante uma semana, resolveram\n200 questões cada. Nessa maratona, a porcentagem P de\nacertos de cada participante é convertida em um conceito: • insatisfatório: se 0 ≤ P < 50;\n• regular: se 50 ≤ P < 60;\n• bom: se 60 ≤ P < 75;\n• muito bom: se 75 ≤ P < 90;\n• excelente: se 90 ≤ P ≤ 100. João acertou 75% das questões da maratona e Felipe\nacertou 30% a menos que a quantidade de questões que\nJoão acertou. Os conceitos de João e Felipe foram, respectivamente, bom e insatisfatório. Três grandezas (I, II e III) se relacionam entre si.\nOs gráficos a seguir, formados por segmentos de reta,\ndescrevem as relações de dependência existentes entre\nas grandezas I e II, e entre as grandezas II e III. O valor máximo assumido pela grandeza III, quando a\ngrandeza I varia de 1 a 3, é 4,0. *020125AM28* Uma criança, utilizando um aplicativo, escreveu uma\nmensagem para enviar a um amigo. Essa mensagem foi\nescrita seguindo estas etapas: 3ª etapa: copiou o que tinha\nno visor na 2ª etapa e colou\nao lado. A criança seguiu copiando e colando, em cada etapa,\no que tinha no visor na etapa imediatamente anterior, até\nconcluir a 20ª etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada? 3 × 220 − 3 Uma casa de shows terá um evento cujo custo total\nde produção é de R$ 34 350,00, sendo que comporta\n500 pessoas. O preço do ingresso será de R$ 130,00 e,\nnormalmente, 60% das pessoas adquirem meia-entrada,\npagando R$ 65,00 pelo ingresso. Além do faturamento\nproveniente da venda de ingressos, a casa de shows\nvende, com 60% de lucro, bebidas e petiscos ao público\nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se\nque a quantidade de meias-entradas vendidas superou\nem 50% o que estava previsto, impactando o faturamento\nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual\nde 60% de lucro sobre as bebidas e petiscos, pois todo\no público que comprou ingresso compareceu ao\nshow. Com isso, espera-se ter lucro de R$ 17 000,00\nnesse evento. Para que se alcance o lucro esperado, o gasto médio por\npessoa com bebidas e petiscos, em real, deverá ser de 68,70. Para obter um sólido de revolução (rotação de 360°\nem torno de um eixo fixo), uma professora realizou as\nseguintes etapas: • recortou o trapézio retângulo PQRS de um\nmaterial rígido; • afixou o lado PS do trapézio em uma vareta fixa\nretilínea (eixo de rotação); • girou o trapézio 360° em torno da vareta e obteve\num sólido de revolução. Observe a figura que apresenta o trapézio afixado na\nvareta e o sentido de giro. O sólido obtido foi um(a) tronco de pirâmide. O estádio do Maracanã passou por algumas\nmodificações estruturais para a realização da Copa do\nMundo de 2014, como, por exemplo, as dimensões do\ncampo retangular. Para se adaptar aos padrões da Fifa,\nas dimensões do campo foram reduzidas de 110 m × 75 m\npara 105 m × 68 m. Disponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado). Em quantos metros quadrados a área do campo do\nMaracanã foi reduzida? 1 145 *020125AM29* Uma sala com piso no formato retangular, com lados\nde medidas 3 m e 6 m, será dividida em dois ambientes.\nPara isso, serão utilizadas colunas em formato cilíndrico,\ndispostas perpendicularmente ao piso e representadas na\nfigura pelos círculos de cor azul. Os centros desses círculos\nestarão sobre uma reta paralela aos lados de menor medida\ndo piso da sala. Os vãos entre duas colunas e entre uma\ncoluna e a parede não poderão ser superiores a 15 cm. Para efetuar a compra dessas colunas, foram feitos\norçamentos com base em dados fornecidos por cinco lojas. A compra será realizada na loja cujo orçamento resulte\nno menor valor total possível. A compra será realizada na loja V. O arquiteto Renzo Piano exibiu a maquete da nova\nsede do Museu Whitney de Arte Americana, um prédio\nassimétrico que tem um vão aberto para a galeria principal,\ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200. Época, n. 682, jun. 2011 (adaptado). A medida da área do vão aberto nessa maquete, em\ncentímetro quadrado, é 418,00. O gráfico apresenta o valor total de exportações e o\nvalor total de importações, ao longo de um período, em\nbilhão de dólares. O saldo da balança comercial brasileira\né dado pelo valor total de exportações menos o valor total\nde importações num mesmo período. Valor total de exportações e importações Disponível em: http://blogs.estadao.com.br.\nAcesso em: 20 fev. 2013 (adaptado). Considere que os saldos da balança comercial\nbrasileira, nos três meses destacados no gráfico, sejam\nrepresentados por: • S₁: saldo em junho de 2009;\n• S₂: saldo em janeiro de 2010;\n• S₃: saldo em junho de 2010. A ordenação dos saldos S₁, S₂ e S₃, do maior para o menor, é S₃, S₂ e S₁. Um instituto de pesquisa constatou que, nos últimos\ndez anos, o crescimento populacional de uma cidade foi\nde 135,25%. Qual é a representação decimal da taxa percentual desse\ncrescimento populacional? 0,13525 *020125AM30* Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível. Qual será a medida, em metro, do maior lado do galinheiro? 350 Uma professora de matemática utiliza em suas\naulas uma “máquina caça-números” para verificar os\nconhecimentos de seus estudantes sobre representações\nde números racionais. Essa máquina tem um visor dividido\nem seis compartimentos e, na lateral, uma alavanca. Cada\nestudante puxa a alavanca e espera que os compartimentos\nparem de girar. A partir daí, precisa responder para a\nprofessora em quais posições se encontram os números\nque representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os\ncompartimentos parassem de girar e observou os números\napresentados no visor. A configuração da máquina naquele\ninstante está apresentada na imagem. Esse estudante respondeu corretamente à pergunta\nda professora. As posições indicadas pelo estudante foram III, IV e VI. Uma caneca com água fervendo é retirada de um\nforno de micro-ondas. A temperatura T, em grau Celsius,\nda caneca, em função do tempo t, em minuto, pode ser\nmodelada pela função T(t) = a + 80 bt, representada no\ngráfico a seguir. Os valores das constantes a e b são a = 20; b = 40 Em uma empresa é comercializado um produto em\nembalagens em formato de cilindro circular reto, com raio\nmedindo 3 cm, e altura medindo 15 cm. Essa empresa\nplaneja comercializar o mesmo produto em embalagens\nem formato de cubo, com capacidade igual a 80% da\ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π. A medida da aresta da nova embalagem, em centímetro,\ndeve ser *020125AM31* *020125AM32*",
+          "imagePaths": [
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-01.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-02.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-03.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-04.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-05.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-06.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-07.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-08.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-09.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-10.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-11.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-12.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-13.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-14.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-15.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-16.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-17.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-18.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-19.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-20.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-21.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-22.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-23.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-24.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-25.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-26.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-27.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-28.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-29.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-30.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-31.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-32.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-33.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-34.png",
+            "public/generated/enem-2024/ciencias-natureza/question-135/option-e-35.png"
+          ]
+        }
+      ],
+      "answerKey": "B",
+      "metadata": {
+        "areaSlug": "ciencias-natureza",
+        "localId": 45,
+        "examQuestionNumber": 135,
+        "sourcePages": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32",
+        "sourceQuestionNumber": 22,
+        "skillCode": "H13",
+        "skillDescription": "Reconhecer mecanismos de transmissão da vida, prevendo ou explicando a manifestação de características dos seres vivos.",
+        "competenceNumber": 4,
+        "competenceDescription": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+        "theme": "",
+        "subtheme": "",
+        "coItem": 141775,
+        "coProva": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:26:51.612Z",
+  "questionId": "enem-2024-ciencias-natureza-q123",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C",
+      "correctnessClaim": "A resposta C está correta.",
+      "strategy": "Analisar o gráfico fornecido que mostra a variação da emissão dos gases CO₂, HC, CO, NO e O₂ em função da razão ar/combustível, para identificar as emissões na razão ar/combustível igual a 18.",
+      "steps": [
+        "Observar o gráfico na razão ar/combustível igual a 18, que está na região de excesso de ar.",
+        "Verificar o nível do CO₂ no gráfico para essa razão; nota-se que o CO₂ está em nível relativamente alto, próximo de seu pico, indicando emissão alta.",
+        "Verificar o nível do CO para essa razão; observa-se que o CO está em nível baixo, quase nulo, indicando baixa emissão.",
+        "Concluir que, na razão ar/combustível igual a 18, a emissão de CO₂ é alta e a de CO é baixa.",
+        "Confirmar que essa conclusão corresponde à alternativa C, que indica baixa de CO e alta de CO₂."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [
+        "Gráfico de variação da composição dos gases emitidos em função da razão ar/combustível."
+      ],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "O estudante pode ter interpretado que o excesso de ar reduz O₂ e aumenta NO, baseando-se na presença de NO em processos de combustão.",
+        "misconceptionType": "Interpretação incorreta do gráfico.",
+        "whyItLooksPlausible": "É comum associar combustão com produção de NO e redução de O₂.",
+        "whyItIsWrong": "No gráfico, O₂ aumenta com excesso de ar, e o NO não está alto na razão 18."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Podem pensar que com mais ar, a combustão é incompleta, aumentando HC e reduzindo NO.",
+        "misconceptionType": "Confusão sobre combustão incompleta vs completa.",
+        "whyItLooksPlausible": "Hidrocarbonetos são combustíveis não queimados, então o excesso pode levar a altas emissões.",
+        "whyItIsWrong": "No gráfico, HC diminui com aumento do ar além da razão estequiométrica."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumir que a combustão pode aumentar CO com menor HC.",
+        "misconceptionType": "Erro em relação às emissões em excesso de ar.",
+        "whyItLooksPlausible": "CO é comum em combustão incompleta.",
+        "whyItIsWrong": "O gráfico mostra CO praticamente nulo na razão ar/combustível 18."
+      },
+      {
+        "option": "E",
+        "likelyReasoning": "Pensar que com mais ar a emissão de CO₂ diminui e HC aumenta devido à combustão incompleta.",
+        "misconceptionType": "Erros na relação entre excesso de ar e combustão eficiente.",
+        "whyItLooksPlausible": "Por ignorar que excesso de ar favorece a combustão completa.",
+        "whyItIsWrong": "O gráfico mostra CO₂ em níveis altos e HC baixos na razão 18."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Interpretação de gráficos e fenômenos químicos",
+      "secondarySkills": [
+        "Conhecimento de combustão",
+        "Entendimento das emissões veiculares",
+        "Relações estequiométricas"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": true,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige interpretação gráfica em um contexto de química aplicada.",
+        "Requer compreensão básica de combustão e emissões contaminantes.",
+        "A análise qualitativa do gráfico é suficiente para a resposta."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1512,
+    "outputTokens": 739,
+    "estimatedCostUsd": 0.001787
+  }
+}

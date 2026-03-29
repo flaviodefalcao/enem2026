@@ -1,0 +1,39 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:38:17.746Z",
+  "questionId": "enem-2024-ciencias-natureza-q115",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para encontrar a massa de sal em uma colher pequena, calculamos primeiro a massa total de sódio na solução usando sua concentração e o volume total, depois usamos a proporção da massa molar para obter a massa total de NaCl e dividimos pela quantidade de colheres pequenas na receita.",
+      "stepByStep": [
+        "Converter o volume total da solução para mililitros (2 L = 2000 mL).",
+        "Multiplicar a concentração de íon sódio (1,4 mg/mL) pelo volume total para achar a massa total de sódio: 1,4 mg/mL × 2000 mL = 2800 mg = 2,8 g.",
+        "Calcular a relação entre a massa molar do NaCl e a do sódio para determinar a massa total de NaCl: 58,5 g/mol ÷ 23 g/mol ≈ 2,54.",
+        "Multiplicar a massa de sódio pela razão para obter a massa total de NaCl: 2,8 g × 2,54 ≈ 7,1 g.",
+        "Como há 2 colheres pequenas na receita, dividir a massa total pelo número de colheres: 7,1 g ÷ 2 = 3,55 g.",
+        "A massa mais próxima para uma colher pequena é 3,6 g, que é a resposta correta."
+      ],
+      "commonPitfalls": [
+        "Confundir a massa de sódio com a massa total de NaCl, esquecendo de incluir o cloro que também compõe o sal.",
+        "Não converter corretamente as unidades de volume (litros para mililitros) ou massa (mg para g).",
+        "Dividir a massa total de sal pelo número errado de colheres pequenas.",
+        "Assumir que a concentração dada se refere à massa de NaCl em vez da massa de sódio.",
+        "Esquecer que a receita inclui duas colheres pequenas, não uma só."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre íon (Na+) e o composto molecular (NaCl) e a importância da proporção entre eles na massa.",
+        "Use exemplos práticos para exercitar conversão de unidades, principalmente entre mililitros, litros, miligramas e gramas.",
+        "Ensine a identificar corretamente o volume total e a quantidade de colheres para dividir a massa total do ingrediente adequadamente.",
+        "Incentive a escrita e uso das fórmulas para relacionar concentração, volume e massa, fortalecendo o raciocínio lógico.",
+        "Trabalhe com questões similares que envolvam estequiometria e solução para fixar o conceito de relação entre substâncias em uma solução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1393,
+    "outputTokens": 540,
+    "estimatedCostUsd": 0.001421
+  }
+}

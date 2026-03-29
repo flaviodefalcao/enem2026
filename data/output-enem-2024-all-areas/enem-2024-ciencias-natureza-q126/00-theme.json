@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:30:07.615Z",
+  "questionId": "enem-2024-ciencias-natureza-q126",
+  "payload": {
+    "theme": "Física",
+    "subtheme": "Termologia e termodinâmica",
+    "rationale": "A questão envolve o entendimento do processo físico de transferência de calor em um sistema tecnológico simples, o aquecedor solar, focando nas formas de transmissão de calor (condução, convecção, irradiação). Isso está claramente enquadrado na área da Física, especificamente no estudo da termologia e termodinâmica, que trata da energia térmica e sua transferência.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1215,
+    "outputTokens": 101,
+    "estimatedCostUsd": 0.000648
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:37:20.322Z",
+  "questionId": "enem-2024-ciencias-natureza-q114",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "C",
+        "correctnessClaim": "A resposta correta é a alternativa C porque a peça de chumbo deve ser colocada no ponto oposto ao deslocamento do centro de massa (CM) para corrigir o desequilíbrio.",
+        "strategy": "Analisar a posição do centro de massa (CM) em relação ao centro geométrico da roda e determinar o ponto oposto na roda para equilibrar o sistema adicionando peso.",
+        "steps": [
+          "Observar o esquema da roda com os pontos indicados e a posição do centro de massa (CM).",
+          "Notar que o CM está deslocado para o lado direito da roda.",
+          "Identificar o ponto que está exatamente oposto ao deslocamento do CM para adicionar peso extra e equilibrar a roda.",
+          "O ponto 3 está localizado à esquerda, diretamente oposto ao CM na direita.",
+          "Concluir que a peça de chumbo deve ser fixada no ponto 3 para mover o centro de massa em direção ao centro geométrico."
+        ],
+        "formulasUsed": [
+          "Nenhuma fórmula específica foi usada, o raciocínio baseia-se na física do centro de massa e equilíbrio."
+        ],
+        "visualEvidenceUsed": [
+          "Imagem da roda com o centro de massa (CM) deslocado para a direita e cinco pontos marcados na roda para possível fixação de peso."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Para equilibrar a roda, é necessário colocar uma peça de chumbo no ponto oposto ao deslocamento do centro de massa (CM), compensando o peso e reduzindo as vibrações.",
+        "stepByStep": [
+          "Identifique onde está o centro de massa (CM) em relação ao centro geométrico da roda; no exemplo, o CM está deslocado para a direita.",
+          "Observe os pontos disponíveis para fixar a peça de chumbo na roda.",
+          "Selecione o ponto que fique exatamente oposto ao deslocamento do CM, pois é ali que o peso extra irá equilibrar o movimento.",
+          "No esquema, o ponto 3 está diretamente oposto ao CM deslocado para a direita.",
+          "Fixar a peça de chumbo no ponto 3 compensa o desequilíbrio, aproximando o centro de massa do centro geométrico e diminuindo as vibrações."
+        ],
+        "commonPitfalls": [
+          "Colocar a peça do mesmo lado em que o CM está deslocado, o que agrava o desequilíbrio.",
+          "Escolher um ponto que não está diametralmente oposto ao deslocamento do CM, resultando em equilíbrio insuficiente.",
+          "Ignorar a importância do equilíbrio diametral e tentar compensar o deslocamento com peso próximo ao CM."
+        ],
+        "teachingTips": [
+          "Utilize um modelo visual da roda para que os alunos possam identificar facilmente a posição do CM e dos pontos de fixação.",
+          "Explique o conceito físico de centro de massa e sua relação com equilíbrio e vibrações.",
+          "Desafie os alunos a explicarem por que o peso deve ser colocado no ponto oposto ao CM deslocado.",
+          "Use analogias simples, como segurar um cabo com peso, para ilustrar o equilíbrio por contrapeso.",
+          "Estimule a visualização espacial por meio de desenhos ou simulações para fixar o conceito."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Escolher um ponto próximo ao centro de massa para tentar equilibrar.",
+          "misconceptionType": "Raciocínio incorreto sobre a localização oposta da massa necessária para equilíbrio.",
+          "whyItLooksPlausible": "O ponto 1 está próximo ao CM, o que pode parecer uma boa posição para fixar peso para equilibrar.",
+          "whyItIsWrong": "Fixar peso do mesmo lado do deslocamento do CM aumenta o desequilíbrio."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pensar que qualquer ponto no lado esquerdo pode ser suficiente.",
+          "misconceptionType": "Generalização incorreta sem considerar o ponto exatamente oposto.",
+          "whyItLooksPlausible": "O ponto 2 está no lado esquerdo, que é o lado oposto ao CM.",
+          "whyItIsWrong": "O ponto 2 não está exatamente oposto ao CM, o que geraria menos eficácia em corrigir o equilíbrio."
+        },
+        {
+          "option": "D",
+          "likelyReasoning": "Selecionar um ponto perto do centro geométrico na parte inferior da roda.",
+          "misconceptionType": "Não compreender que o peso deve estar diametralmente oposto ao deslocamento.",
+          "whyItLooksPlausible": "Parece uma posição estratégica na parte inferior para equilíbrio.",
+          "whyItIsWrong": "Não está alinhado diametralmente ao deslocamento do CM, portanto não corrige o problema eficientemente."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Escolher um ponto adjacente ao CM para tentar neutralizar visualmente o desequilíbrio.",
+          "misconceptionType": "Não aplicar o conceito de vetor de equilíbrio adequadamente.",
+          "whyItLooksPlausible": "Próximo ao CM pode parecer um ponto para compensar o peso desigual.",
+          "whyItIsWrong": "O ponto 5 está do mesmo lado do deslocamento do CM; adicionando peso ali, a instabilidade piora."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Análise de equilíbrio e centro de massa",
+        "secondarySkills": [
+          "Visualização espacial",
+          "Física aplicada ao movimento rotacional"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "A questão exige compreensão do conceito físico de centro de massa e como o peso influencia o equilíbrio na rotação.",
+          "A imagem é essencial para identificar o ponto de correção correto.",
+          "Não há necessidade de cálculos numéricos, apenas raciocínio geométrico e físico."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "⚙️",
+        "shortThemeTitle": "Equilíbrio e Centro de Massa em Rodas",
+        "interpretationIntro": "A questão solicita determinar o ponto correto para fixar uma peça de chumbo na roda para corrigir o deslocamento do centro de massa (CM).",
+        "commandTerms": [
+          {
+            "term": "Centro de Massa",
+            "explanation": "Ponto onde se pode considerar concentrada a massa de um objeto para análise de movimento e equilíbrio."
+          },
+          {
+            "term": "Equilíbrio",
+            "explanation": "Estado em que forças ou pesos aplicados causam estabilidade, sem oscilações ou vibrações."
+          },
+          {
+            "term": "Diametralmente Oposto",
+            "explanation": "Posição exatamente ao lado oposto em relação a um ponto central."
+          }
+        ],
+        "whatTheQuestionAsks": "É pedido identificar o ponto na roda onde deve ser fixada a peça de chumbo para compensar o deslocamento do centro de massa, diminuindo as vibrações e equilibrando a roda.",
+        "strategyParagraph": "Para resolver a questão, deve-se observar o deslocamento do centro de massa da roda em relação ao seu centro geométrico. O princípio fundamental é que o peso adicional deve ser colocado no ponto diametralmente oposto ao deslocamento, para que o centro de massa se aproxime do centro geométrico, corrigindo o desequilíbrio. Assim, identificaremos no esquema o ponto que fica exatamente em oposição ao CM deslocado e confirmaremos que o peso deve ser fixado ali.",
+        "reviewTable": [
+          {
+            "concept": "Centro de Massa (CM)",
+            "keyIdea": "Localização concentrada da massa total de um objeto.",
+            "application": "Identificar a posição do CM deslocado na roda para determinar o desequilíbrio."
+          },
+          {
+            "concept": "Equilíbrio de Roda",
+            "keyIdea": "Colocação de peso contrabalançando o CM deslocado para minimizar vibrações.",
+            "application": "Fixação da peça de chumbo no ponto oposto ao CM para restaurar o equilíbrio."
+          },
+          {
+            "concept": "Relação Diametral",
+            "keyIdea": "Peso deve estar do lado contrário ao deslocamento para efetiva compensação.",
+            "application": "Escolha do ponto 3, que é diametralmente oposto ao CM deslocado à direita."
+          }
+        ],
+        "theoryParagraphs": [
+          "O centro de massa de um objeto é o ponto onde sua massa pode ser considerada concentrada para efeito de análise do movimento e equilíbrio. Em sistemas rotativos, como uma roda com um pneu, o deslocamento do centro de massa em relação ao centro geométrico provoca vibrações indesejadas durante a rotação.",
+          "Para corrigir esse desequilíbrio, acrescentam-se pesos em pontos específicos da roda para deslocar o centro de massa para mais próximo do centro geométrico, buscando a estabilidade e o menor nível de vibrações possíveis.",
+          "O peso adicional deve ser colocado no ponto diametralmente oposto ao deslocamento do centro de massa, pois somente assim cria-se um torque que contrabalança o desequilíbrio, estabilizando a roda durante a rotação."
+        ],
+        "resolutionParagraphs": [
+          "Ao analisar o esquema apresentado, nota-se que o centro de massa (CM) está deslocado para o lado direito da roda, indicando que ali há mais massa concentrada, causando instabilidade na rotação.",
+          "A solução para esse desequilíbrio é colocar peso adicional na roda no lado oposto ao deslocamento, ou seja, no lado esquerdo da roda, de modo a puxar o centro de massa para o centro geométrico.",
+          "Observando os pontos indicados para fixação da peça de chumbo, o ponto exatamente oposto ao CM deslocado é o ponto 3, localizado no lado esquerdo da roda.",
+          "Portanto, fixar a peça de chumbo no ponto 3 é a maneira correta de corrigir o posicionamento do centro de massa, reduzindo as vibrações e promovendo o equilíbrio durante a rotação."
+        ],
+        "puloDoGato": "Coloque o peso exatamente no lado oposto do deslocamento do centro de massa para garantir o equilíbrio perfeito.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Está do mesmo lado do deslocamento do centro de massa, o que aumentaria o desequilíbrio."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Embora esteja no lado esquerdo, não é o ponto diametralmente oposto ao centro de massa deslocado, reduzindo a eficiência da correção."
+          },
+          {
+            "option": "C",
+            "isCorrect": true,
+            "explanation": "Ponto diametralmente oposto ao centro de massa deslocado, ideal para fixar peso e corrigir o desequilíbrio."
+          },
+          {
+            "option": "D",
+            "isCorrect": false,
+            "explanation": "Não está alinhado diametralmente ao deslocamento do centro de massa, portanto não corrige adequadamente."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Fica do mesmo lado do deslocamento do centro de massa, piorando o desequilíbrio."
+          }
+        ],
+        "questionCode": "CN_BALANCEAMENTO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "Enunciado, solução técnica e explicação didática apresentam coerência total. A resposta final está correta e esclarecida. Alternativas estão bem comentadas, destacando por que são incorretas ou correta.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3023,
+    "outputTokens": 2249,
+    "estimatedCostUsd": 0.004808
+  }
+}

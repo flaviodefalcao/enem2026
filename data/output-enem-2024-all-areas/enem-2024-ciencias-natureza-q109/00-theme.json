@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:29:15.908Z",
+  "questionId": "enem-2024-ciencias-natureza-q109",
+  "payload": {
+    "theme": "Tecnologia aplicada às ciências naturais",
+    "subtheme": "Dispositivos e circuitos",
+    "rationale": "A questão aborda a análise de um circuito elétrico utilizando LEDs, focando na compreensão e dimensionamento de dispositivos eletrônicos em um circuito prático, coerente com a habilidade H5 relacionada a dimensionar circuitos elétricos e a competência de aplicar tecnologias associadas às ciências naturais.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1773,
+    "outputTokens": 87,
+    "estimatedCostUsd": 0.000848
+  }
+}

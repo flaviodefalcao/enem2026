@@ -16,7 +16,27 @@ export type AreaSlug =
   | "ciencias-natureza"
   | "matematica";
 
+export type ExamYear =
+  | 2015
+  | 2016
+  | 2017
+  | 2018
+  | 2019
+  | 2020
+  | 2021
+  | 2022
+  | 2023
+  | 2024;
+
+export type ExamYearMeta = {
+  year: ExamYear;
+  label: string;
+  status: "available" | "coming_soon";
+  description: string;
+};
+
 export type AreaMeta = {
+  year: ExamYear;
   slug: AreaSlug;
   label: string;
   shortLabel: string;
@@ -34,16 +54,20 @@ export type AreaQuestionSummary = {
   competenceDescription: string;
   skill: string;
   difficulty: string;
+  difficultyLevel: number;
+  relativeDifficultyLabel: string;
   accuracy: number;
   areaSlug: AreaSlug;
   areaLabel: string;
 };
 
 export type AreaQuestionPageData = BaseQuestionPageData & {
+  year: ExamYear;
   areaSlug: AreaSlug;
   areaLabel: string;
   areaShortLabel: string;
   dayLabel: string;
+  yearRoute: string;
   areaRoute: string;
   questionRoute: string;
   pdfFile: string;
@@ -121,23 +145,28 @@ type LandingProofStats = {
   topStudents: {
     threshold: number;
     sampleSize: number;
-    ranges: Array<{
+    scoreRanges: Array<{
       label: string;
       minScore: number;
       maxScore: number;
+    }>;
+    accuracyRanges: Array<{
+      label: string;
+      minAccuracy: number;
+      maxAccuracy: number;
+      maxPossible: number;
     }>;
   };
   overallAccuracyVsScore: LandingAccuracyCurvePoint[];
   areas: LandingAreaStatsPanel[];
 };
 
-const AREA_META: Record<AreaSlug, AreaMeta> = {
+const AREA_META_BASE: Record<AreaSlug, Omit<AreaMeta, "year" | "pdfFile">> = {
   linguagens: {
     slug: "linguagens",
     label: "Linguagens",
     shortLabel: "LG",
     dayLabel: "Dia 1",
-    pdfFile: "ENEM_2024_P1_CAD_01_DIA_1_AZUL.pdf",
     questionOffset: 0,
     lead: "Leitura, interpretação, gêneros, língua e artes em uma mesma trilha analítica.",
   },
@@ -146,7 +175,6 @@ const AREA_META: Record<AreaSlug, AreaMeta> = {
     label: "Ciências Humanas",
     shortLabel: "CH",
     dayLabel: "Dia 1",
-    pdfFile: "ENEM_2024_P1_CAD_01_DIA_1_AZUL.pdf",
     questionOffset: 45,
     lead: "História, geografia, filosofia e sociologia organizadas como prova navegável.",
   },
@@ -155,7 +183,6 @@ const AREA_META: Record<AreaSlug, AreaMeta> = {
     label: "Ciências da Natureza",
     shortLabel: "CN",
     dayLabel: "Dia 2",
-    pdfFile: "ENEM_2024_P1_CAD_05_DIA_2_AMARELO.pdf",
     questionOffset: 90,
     lead: "Física, química e biologia com a mesma lógica de leitura por item e por desempenho.",
   },
@@ -164,14 +191,76 @@ const AREA_META: Record<AreaSlug, AreaMeta> = {
     label: "Matemática",
     shortLabel: "MT",
     dayLabel: "Dia 2",
-    pdfFile: "ENEM_2024_P1_CAD_05_DIA_2_AMARELO.pdf",
     questionOffset: 135,
     lead: "Questões com assets extraídos, analytics e resolução editorial já integrados.",
   },
 };
 
+const EXAM_YEARS: ExamYearMeta[] = [
+  {
+    year: 2024,
+    label: "ENEM 2024",
+    status: "available",
+    description: "Primeiro ano já estruturado com prova, áreas, analytics e leitura por questão.",
+  },
+  {
+    year: 2023,
+    label: "ENEM 2023",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2022,
+    label: "ENEM 2022",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2021,
+    label: "ENEM 2021",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2020,
+    label: "ENEM 2020",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2019,
+    label: "ENEM 2019",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2018,
+    label: "ENEM 2018",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2017,
+    label: "ENEM 2017",
+    status: "available",
+    description: "Conteúdo e estatísticas prontos no mesmo formato de navegação por prova, área e questão.",
+  },
+  {
+    year: 2016,
+    label: "ENEM 2016",
+    status: "coming_soon",
+    description: "Ano reservado no catálogo para expansão futura do produto.",
+  },
+  {
+    year: 2015,
+    label: "ENEM 2015",
+    status: "coming_soon",
+    description: "Ano reservado no catálogo para expansão futura do produto.",
+  },
+];
+
 const MOCK_AREA_TEMPLATES: Record<
-  Exclude<AreaSlug, "matematica">,
+  AreaSlug,
   {
     themes: string[];
     subthemes: string[];
@@ -258,14 +347,38 @@ const MOCK_AREA_TEMPLATES: Record<
     skillPrefix: "CN",
     lead: "Mock estrutural para física, química e biologia com o mesmo esqueleto da matemática.",
   },
+  matematica: {
+    themes: [
+      "Conhecimentos numéricos",
+      "Conhecimentos algébricos",
+      "Grandezas e medidas",
+      "Geometria",
+      "Estatística e probabilidade",
+      "Funções e modelagem",
+    ],
+    subthemes: [
+      "Leitura de problema",
+      "Modelagem algébrica",
+      "Interpretação gráfica",
+      "Cálculo e comparação",
+      "Raciocínio proporcional",
+      "Resolução por etapas",
+    ],
+    competencies: [
+      "Raciocínio matemático",
+      "Modelagem e representação",
+      "Leitura quantitativa",
+      "Resolução de problemas",
+    ],
+    skillPrefix: "M",
+    lead: "Estrutura matemática pronta para receber ou reaproveitar enunciado, analytics e leitura pedagógica.",
+  },
 };
 
-const mockAreaCache = new Map<Exclude<AreaSlug, "matematica">, BaseQuestionPageData[]>();
-const extractedAreaCache = new Map<Exclude<AreaSlug, "matematica">, ExtractedAreaQuestion[]>();
-const analyticsAreaCache = new Map<
-  Exclude<AreaSlug, "matematica">,
-  AreaFrontendAnalyticsQuestion[]
->();
+const yearAreaQuestionCache = new Map<string, BaseQuestionPageData[]>();
+const extractedAreaCache = new Map<string, ExtractedAreaQuestion[]>();
+const analyticsAreaCache = new Map<string, AreaFrontendAnalyticsQuestion[]>();
+const generatedQuestionAssetsCache = new Map<string, GeneratedQuestionAssets | null>();
 const themeArtifactCache = new Map<string, { theme: string; subtheme: string } | null>();
 const finalAnalysisCache = new Map<string, {
   technicalSolution?: { strategy?: string; steps?: string[] };
@@ -274,36 +387,41 @@ const finalAnalysisCache = new Map<string, {
   officialResolution?: OfficialResolutionContent;
 } | null>();
 const latexAreaCache = new Map<string, BaseQuestionPageData["latexResolution"] | null>();
-let proofSummaryCache:
-  | {
+type ProofSummaryPayload = {
+  sampleSize: number;
+  generalScoreDistribution: LandingBucket[];
+  essayDistribution: LandingBucket[];
+  topStudents: {
+    threshold: number;
+    sampleSize: number;
+    scoreRanges: Array<{
+      label: string;
+      minScore: number;
+      maxScore: number;
+    }>;
+    accuracyRanges: Array<{
+      label: string;
+      minAccuracy: number;
+      maxAccuracy: number;
+      maxPossible: number;
+    }>;
+  };
+  overallAccuracyVsScore: LandingAccuracyCurvePoint[];
+  areas: Record<
+    AreaSlug,
+    {
+      label: string;
+      questionCount: number;
       sampleSize: number;
-      generalScoreDistribution: LandingBucket[];
-      essayDistribution: LandingBucket[];
-      topStudents: {
-        threshold: number;
-        sampleSize: number;
-        ranges: Array<{
-          label: string;
-          minScore: number;
-          maxScore: number;
-        }>;
-      };
-      overallAccuracyVsScore: LandingAccuracyCurvePoint[];
-      areas: Record<
-        AreaSlug,
-        {
-          label: string;
-          questionCount: number;
-          sampleSize: number;
-          averageScore: number;
-          averageAccuracy: number;
-          scoreDistribution: LandingBucket[];
-          accuracyVsScore: LandingAccuracyCurvePoint[];
-        }
-      >;
+      averageScore: number;
+      averageAccuracy: number;
+      scoreDistribution: LandingBucket[];
+      accuracyVsScore: LandingAccuracyCurvePoint[];
     }
-  | null
-  | undefined;
+  >;
+};
+
+const proofSummaryCache = new Map<ExamYear, ProofSummaryPayload | null>();
 
 type ExtractedAreaQuestion = {
   id: number;
@@ -391,11 +509,104 @@ type AreaFrontendAnalyticsDataset = {
   questions?: AreaFrontendAnalyticsQuestion[];
 };
 
+type GeneratedQuestionAssets = {
+  statementAssets: string[];
+  imageUrl: string;
+  optionAssets: Record<"A" | "B" | "C" | "D" | "E", string[]>;
+};
+
+function makeYearAreaKey(year: ExamYear, area: AreaSlug) {
+  return `${year}:${area}`;
+}
+
+function getGeneratedAreaDirCandidates(year: ExamYear, area: AreaSlug) {
+  if (area === "matematica") {
+    return year === 2024 ? ["math", "math-blue", "matematica"] : ["matematica"];
+  }
+
+  if (area === "ciencias-natureza") {
+    return year === 2024
+      ? ["ciencias-natureza", "ciencias-natureza-azul"]
+      : ["ciencias-natureza"];
+  }
+
+  return [area];
+}
+
+function buildEmptyOptionAssetsMap() {
+  return {
+    A: [],
+    B: [],
+    C: [],
+    D: [],
+    E: [],
+  } as Record<"A" | "B" | "C" | "D" | "E", string[]>;
+}
+
+function getGeneratedQuestionAssets(
+  year: ExamYear,
+  area: AreaSlug,
+  examQuestionNumber: number,
+): GeneratedQuestionAssets | null {
+  const cacheKey = `${year}:${area}:${examQuestionNumber}:generated-assets`;
+  if (generatedQuestionAssetsCache.has(cacheKey)) {
+    return generatedQuestionAssetsCache.get(cacheKey) ?? null;
+  }
+
+  for (const dirCandidate of getGeneratedAreaDirCandidates(year, area)) {
+    const questionDir = path.join(
+      process.cwd(),
+      "public",
+      "generated",
+      `enem-${year}`,
+      dirCandidate,
+      `question-${examQuestionNumber}`,
+    );
+
+    if (!fs.existsSync(questionDir)) {
+      continue;
+    }
+
+    const files = fs.readdirSync(questionDir).sort();
+    const statementAssets = files
+      .filter((file) => /^statement-\d+\.png$/i.test(file))
+      .map((file) => `/generated/enem-${year}/${dirCandidate}/question-${examQuestionNumber}/${file}`);
+
+    const optionAssets = buildEmptyOptionAssetsMap();
+    for (const option of ["A", "B", "C", "D", "E"] as const) {
+      optionAssets[option] = files
+        .filter((file) => new RegExp(`^option-${option.toLowerCase()}-\\d+\\.png$`, "i").test(file))
+        .map((file) => `/generated/enem-${year}/${dirCandidate}/question-${examQuestionNumber}/${file}`);
+    }
+
+    const payload: GeneratedQuestionAssets = {
+      statementAssets,
+      imageUrl: statementAssets[0] ?? "/placeholder.png",
+      optionAssets,
+    };
+
+    generatedQuestionAssetsCache.set(cacheKey, payload);
+    return payload;
+  }
+
+  generatedQuestionAssetsCache.set(cacheKey, null);
+  return null;
+}
+
 function getAreaPipelineQuestionId(
+  year: ExamYear,
   area: Exclude<AreaSlug, "matematica">,
   examQuestionNumber: number,
 ) {
-  return `enem-2024-${area}-q${String(examQuestionNumber).padStart(3, "0")}`;
+  return `enem-${year}-${area}-q${String(examQuestionNumber).padStart(3, "0")}`;
+}
+
+function getPdfFile(year: ExamYear, area: AreaSlug) {
+  if (area === "linguagens" || area === "ciencias-humanas") {
+    return `ENEM_${year}_P1_CAD_01_DIA_1_AZUL.pdf`;
+  }
+
+  return `ENEM_${year}_P1_CAD_05_DIA_2_AMARELO.pdf`;
 }
 
 function clamp(value: number, min: number, max: number) {
@@ -409,9 +620,9 @@ function bucketStartValue(label: string) {
   return Number.isNaN(parsed) ? 0 : parsed;
 }
 
-function getProofSummary() {
-  if (proofSummaryCache !== undefined) {
-    return proofSummaryCache;
+function getProofSummary(year: ExamYear): ProofSummaryPayload | null {
+  if (proofSummaryCache.has(year)) {
+    return proofSummaryCache.get(year) ?? null;
   }
 
   const summaryPath = path.join(
@@ -419,21 +630,20 @@ function getProofSummary() {
     "src",
     "data",
     "generated",
-    "enem-2024-proof-summary.json",
+    `enem-${year}-proof-summary.json`,
   );
 
   if (!fs.existsSync(summaryPath)) {
-    proofSummaryCache = null;
-    return proofSummaryCache;
+    proofSummaryCache.set(year, null);
+    return null;
   }
 
-  proofSummaryCache = JSON.parse(fs.readFileSync(summaryPath, "utf-8")) as NonNullable<
-    typeof proofSummaryCache
-  >;
-  return proofSummaryCache;
+  const parsed = JSON.parse(fs.readFileSync(summaryPath, "utf-8")) as ProofSummaryPayload;
+  proofSummaryCache.set(year, parsed);
+  return parsed;
 }
 
-function buildMockAccuracy(id: number, area: Exclude<AreaSlug, "matematica">) {
+function buildMockAccuracy(id: number, area: AreaSlug) {
   const areaBias =
     area === "linguagens" ? 9 : area === "ciencias-humanas" ? 5 : 2;
   return Number((58 - ((id * 7 + areaBias) % 27) - ((id + areaBias) % 3) * 1.6).toFixed(1));
@@ -469,21 +679,22 @@ function buildMockDifficultyLabel(level: number) {
   }
 }
 
-function getExtractedContentPath(area: Exclude<AreaSlug, "matematica">) {
+function getExtractedContentPath(year: ExamYear, area: AreaSlug) {
   return path.join(
     process.cwd(),
     "src/data/generated",
-    `enem-2024-${area}-content.json`,
+    `enem-${year}-${area}-content.json`,
   );
 }
 
-function loadExtractedAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
-  const cached = extractedAreaCache.get(area);
+function loadExtractedAreaQuestions(year: ExamYear, area: AreaSlug) {
+  const cacheKey = makeYearAreaKey(year, area);
+  const cached = extractedAreaCache.get(cacheKey);
   if (cached) {
     return cached;
   }
 
-  const filePath = getExtractedContentPath(area);
+  const filePath = getExtractedContentPath(year, area);
   if (!fs.existsSync(filePath)) {
     return null;
   }
@@ -493,28 +704,29 @@ function loadExtractedAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
       questions?: ExtractedAreaQuestion[];
     };
     const questions = parsed.questions ?? [];
-    extractedAreaCache.set(area, questions);
+    extractedAreaCache.set(cacheKey, questions);
     return questions;
   } catch {
     return null;
   }
 }
 
-function getFrontendAnalyticsPath(area: Exclude<AreaSlug, "matematica">) {
+function getFrontendAnalyticsPath(year: ExamYear, area: AreaSlug) {
   return path.join(
     process.cwd(),
     "src/data/generated",
-    `enem-2024-${area}-frontend-analytics.json`,
+    `enem-${year}-${area}-frontend-analytics.json`,
   );
 }
 
-function loadAreaFrontendAnalytics(area: Exclude<AreaSlug, "matematica">) {
-  const cached = analyticsAreaCache.get(area);
+function loadAreaFrontendAnalytics(year: ExamYear, area: AreaSlug) {
+  const cacheKey = makeYearAreaKey(year, area);
+  const cached = analyticsAreaCache.get(cacheKey);
   if (cached) {
     return cached;
   }
 
-  const filePath = getFrontendAnalyticsPath(area);
+  const filePath = getFrontendAnalyticsPath(year, area);
   if (!fs.existsSync(filePath)) {
     return null;
   }
@@ -522,7 +734,7 @@ function loadAreaFrontendAnalytics(area: Exclude<AreaSlug, "matematica">) {
   try {
     const parsed = JSON.parse(fs.readFileSync(filePath, "utf-8")) as AreaFrontendAnalyticsDataset;
     const questions = parsed.questions ?? [];
-    analyticsAreaCache.set(area, questions);
+    analyticsAreaCache.set(cacheKey, questions);
     return questions;
   } catch {
     return null;
@@ -530,18 +742,19 @@ function loadAreaFrontendAnalytics(area: Exclude<AreaSlug, "matematica">) {
 }
 
 function loadThemeArtifact(
+  year: ExamYear,
   area: Exclude<AreaSlug, "matematica">,
   examQuestionNumber: number,
 ) {
-  const cacheKey = `${area}:${examQuestionNumber}:theme`;
+  const cacheKey = `${year}:${area}:${examQuestionNumber}:theme`;
   if (themeArtifactCache.has(cacheKey)) {
     return themeArtifactCache.get(cacheKey) ?? null;
   }
 
   const filePath = path.join(
     process.cwd(),
-    "data/output-enem-2024-all-areas",
-    getAreaPipelineQuestionId(area, examQuestionNumber),
+    `data/output-enem-${year}-all-areas`,
+    getAreaPipelineQuestionId(year, area, examQuestionNumber),
     "00-theme.json",
   );
 
@@ -567,18 +780,19 @@ function loadThemeArtifact(
 }
 
 function loadFinalAnalysis(
+  year: ExamYear,
   area: Exclude<AreaSlug, "matematica">,
   examQuestionNumber: number,
 ) {
-  const cacheKey = `${area}:${examQuestionNumber}:final`;
+  const cacheKey = `${year}:${area}:${examQuestionNumber}:final`;
   if (finalAnalysisCache.has(cacheKey)) {
     return finalAnalysisCache.get(cacheKey) ?? null;
   }
 
   const filePath = path.join(
     process.cwd(),
-    "data/output-enem-2024-all-areas",
-    getAreaPipelineQuestionId(area, examQuestionNumber),
+    `data/output-enem-${year}-all-areas`,
+    getAreaPipelineQuestionId(year, area, examQuestionNumber),
     "final.json",
   );
 
@@ -616,18 +830,19 @@ function loadFinalAnalysis(
 }
 
 function loadAreaLatexResolution(
+  year: ExamYear,
   area: Exclude<AreaSlug, "matematica">,
   examQuestionNumber: number,
 ) {
-  const cacheKey = `${area}:${examQuestionNumber}:latex`;
+  const cacheKey = `${year}:${area}:${examQuestionNumber}:latex`;
   if (latexAreaCache.has(cacheKey)) {
     return latexAreaCache.get(cacheKey) ?? null;
   }
 
   const filePath = path.join(
     process.cwd(),
-    "data/output-enem-2024-all-areas",
-    getAreaPipelineQuestionId(area, examQuestionNumber),
+    `data/output-enem-${year}-all-areas`,
+    getAreaPipelineQuestionId(year, area, examQuestionNumber),
     "04-latex.json",
   );
 
@@ -719,9 +934,56 @@ function buildTopPerformerDistribution(
 function normalizeInlineOptionText(text: string) {
   return text
     .replace(/\*[0-9A-Z*]+\*/g, "")
+    .replace(/\b(?:LC|CH|CN|MT)\s*-\s*\d[º°]\s*dia[\s|]+\s*Caderno.*$/gi, "")
+    .replace(/\b(?:INSTRUÇÕES PARA A REDAÇÃO|RASCUNHO DA REDAÇÃO).*/gi, "")
+    .replace(/\bENEM_[0-9A-Z_./-]+/gi, "")
     .replace(/\bA\.\s*B\.\s*C\.\s*D\.\s*E\.\s*$/g, "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function trimOptionTailArtifacts(text: string) {
+  return text
+    .replace(/\*[0-9A-Z*]+\*.*/g, "")
+    .replace(/\b(?:INSTRUÇÕES PARA A REDAÇÃO|RASCUNHO DA REDAÇÃO).*/gi, "")
+    .replace(/\b(?:LC|CH|CN|MT)\s*-\s*\d[º°]\s*dia[\s|]+\s*Caderno.*$/gi, "")
+    .replace(/\bENEM_[0-9A-Z_./-]+.*/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function isOptionTextLikelyCorrupted(text: string, area: AreaSlug) {
+  const normalized = text.trim();
+  if (!normalized) {
+    return true;
+  }
+
+  if (
+    /\*[0-9A-Z*]+\*/.test(normalized) ||
+    /\b(?:INSTRUÇÕES PARA A REDAÇÃO|RASCUNHO DA REDAÇÃO|Caderno|Página)\b/i.test(normalized) ||
+    /\bENEM_[0-9A-Z_./-]+/i.test(normalized) ||
+    /! ! ! !/.test(normalized)
+  ) {
+    return true;
+  }
+
+  if (/^\d+[.,]?$/.test(normalized) || /^\d+\.$/.test(normalized)) {
+    return false;
+  }
+
+  if (/\b\d(?:\s+\d){4,}\b/.test(normalized)) {
+    return true;
+  }
+
+  if (normalized.length > 60) {
+    const digits = (normalized.match(/\d/g) ?? []).length;
+    const letters = (normalized.match(/[A-Za-zÀ-ÿ]/g) ?? []).length;
+    if (digits > letters && area !== "matematica") {
+      return true;
+    }
+  }
+
+  return false;
 }
 
 function extractOptionsFromTail(
@@ -781,7 +1043,7 @@ function extractOptionsFromTail(
 }
 
 function collapseCorruptedOptionText(text: string) {
-  const normalized = normalizeInlineOptionText(text);
+  const normalized = trimOptionTailArtifacts(normalizeInlineOptionText(text));
   const firstSentence = normalized.match(/^(.+?[.;!?])(?:\s|$)/);
   if (firstSentence?.[1]) {
     return firstSentence[1].trim();
@@ -794,7 +1056,10 @@ function collapseCorruptedOptionText(text: string) {
   return normalized;
 }
 
-function sanitizeCorruptedQuestionContent(question: ExtractedAreaQuestion | undefined) {
+function sanitizeCorruptedQuestionContent(
+  question: ExtractedAreaQuestion | undefined,
+  area: AreaSlug,
+) {
   if (!question) {
     return null;
   }
@@ -803,8 +1068,11 @@ function sanitizeCorruptedQuestionContent(question: ExtractedAreaQuestion | unde
   const markerMatches = rawText.match(/\*[0-9A-Z]+\*/g) ?? [];
   const hasCorruptionMarkers = markerMatches.length > 1;
   const hasHugeOption = question.options.some((option) => (option.text || "").length > 240);
+  const hasPageTailOption = question.options.some((option) =>
+    isOptionTextLikelyCorrupted(option.text || "", area),
+  );
 
-  if (!hasCorruptionMarkers && !hasHugeOption) {
+  if (!hasCorruptionMarkers && !hasHugeOption && !hasPageTailOption) {
     return null;
   }
 
@@ -895,16 +1163,17 @@ function shouldSuppressFragmentedStatementText(
   );
 }
 
-function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
-  const cached = mockAreaCache.get(area);
+function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
+  const cacheKey = makeYearAreaKey(year, area);
+  const cached = yearAreaQuestionCache.get(cacheKey);
   if (cached) {
     return cached;
   }
 
-  const meta = AREA_META[area];
+  const meta = getAreaMeta(year, area);
   const template = MOCK_AREA_TEMPLATES[area];
-  const extractedQuestions = loadExtractedAreaQuestions(area);
-  const analyticsQuestions = loadAreaFrontendAnalytics(area);
+  const extractedQuestions = loadExtractedAreaQuestions(year, area);
+  const analyticsQuestions = loadAreaFrontendAnalytics(year, area);
   const extractedQuestionMap = new Map<number, ExtractedAreaQuestion>(
     (extractedQuestions ?? []).map((question) => [question.id, question]),
   );
@@ -917,13 +1186,22 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
     const examQuestionNumber = meta.questionOffset + id;
     const extracted = extractedQuestionMap.get(id);
     const analyticsLookupId =
-      area === "ciencias-natureza" ? remapDay2YellowToBlue("ciencias-natureza", id) : id;
+      year === 2024 && area === "ciencias-natureza"
+        ? remapDay2YellowToBlue("ciencias-natureza", id)
+        : id;
     const analytics = analyticsQuestionMap.get(analyticsLookupId);
-    const classifiedTheme = loadThemeArtifact(area, extracted?.examQuestionNumber ?? examQuestionNumber);
-    const theme = classifiedTheme?.theme ?? template.themes[index % template.themes.length];
-    const subtheme = classifiedTheme?.subtheme ?? template.subthemes[(index + 2) % template.subthemes.length];
-    const generatedFinal = loadFinalAnalysis(area, extracted?.examQuestionNumber ?? examQuestionNumber);
-    const generatedLatex = loadAreaLatexResolution(area, extracted?.examQuestionNumber ?? examQuestionNumber);
+    const classifiedTheme =
+      area === "matematica" ? null : loadThemeArtifact(year, area, extracted?.examQuestionNumber ?? examQuestionNumber);
+    const theme =
+      classifiedTheme?.theme ??
+      (analytics?.competenceDescription?.trim() || template.themes[index % template.themes.length]);
+    const subtheme =
+      classifiedTheme?.subtheme ??
+      (analytics?.skillDescription?.trim() || template.subthemes[(index + 2) % template.subthemes.length]);
+    const generatedFinal =
+      area === "matematica" ? null : loadFinalAnalysis(year, area, extracted?.examQuestionNumber ?? examQuestionNumber);
+    const generatedLatex =
+      area === "matematica" ? null : loadAreaLatexResolution(year, area, extracted?.examQuestionNumber ?? examQuestionNumber);
     const fallbackCompetence = template.competencies[index % template.competencies.length];
     const competenceNumber = analytics?.competenceNumber ?? 0;
     const competence =
@@ -947,13 +1225,18 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
     const triA = analytics?.tri.a ?? Number((0.9 + ((id * 13) % 23) / 10).toFixed(2));
     const triB = analytics?.tri.b ?? Number((-0.4 + ((id * 17) % 31) / 10).toFixed(2));
     const rescuedInlineContent = rescueInlineOptions(extracted);
-    const sanitizedCorruptedContent = sanitizeCorruptedQuestionContent(extracted);
+    const sanitizedCorruptedContent = sanitizeCorruptedQuestionContent(extracted, area);
+    const generatedAssets = getGeneratedQuestionAssets(
+      year,
+      area,
+      extracted?.examQuestionNumber ?? examQuestionNumber,
+    );
     const resolvedStatement =
       sanitizedCorruptedContent?.statement ??
       rescuedInlineContent?.statement ??
       extracted?.statement ??
       `Mock temporário da questão ${examQuestionNumber} de ${meta.label.toLowerCase()}, preparado para receber depois o enunciado real, alternativas reais, assets e resolução específica da área.`;
-    const resolvedOptions =
+    const rawResolvedOptions =
       sanitizedCorruptedContent?.options ??
       rescuedInlineContent?.options ??
       extracted?.options ??
@@ -962,31 +1245,71 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
         text: `Alternativa ${option} mockada para a área de ${meta.label.toLowerCase()} com foco em ${theme.toLowerCase()}.`,
         assets: [],
       }));
+    const mergedStatementAssets =
+      (extracted?.statementAssets?.length ? extracted.statementAssets : generatedAssets?.statementAssets) ?? [];
+    const mergedImageUrl =
+      extracted?.imageUrl && extracted.imageUrl !== "/placeholder.png"
+        ? extracted.imageUrl
+        : generatedAssets?.imageUrl ?? extracted?.imageUrl ?? "/placeholder.png";
+    const fallbackOptionAssets =
+      generatedAssets?.optionAssets ??
+      ({
+        A: [],
+        B: [],
+        C: [],
+        D: [],
+        E: [],
+      } as Record<"A" | "B" | "C" | "D" | "E", string[]>);
+    const corruptedOptionCount = rawResolvedOptions.filter((option) =>
+      isOptionTextLikelyCorrupted(option.text || "", area),
+    ).length;
+    const hasFullGeneratedOptionSet = options.every(
+      (option) => (fallbackOptionAssets[option] ?? []).length > 0,
+    );
+    const shouldPreferGeneratedOptionAssets =
+      hasFullGeneratedOptionSet &&
+      (corruptedOptionCount >= 2 ||
+        rawResolvedOptions.filter((option) => !(option.text || "").trim()).length >= 2);
+    const resolvedOptions = rawResolvedOptions.map((option) => {
+      const generatedOptionAssets = fallbackOptionAssets[option.option] ?? [];
+      const existingAssets = option.assets.length > 0 ? option.assets : generatedOptionAssets;
+      const cleanedText = trimOptionTailArtifacts(option.text || "");
+      const preferAssetOnly =
+        generatedOptionAssets.length > 0 &&
+        (shouldPreferGeneratedOptionAssets || isOptionTextLikelyCorrupted(cleanedText, area));
+
+      return {
+        option: option.option,
+        text: preferAssetOnly ? "" : cleanedText,
+        assets: existingAssets,
+        displayMode: preferAssetOnly ? ("asset_only" as const) : ("auto" as const),
+      };
+    });
     const shouldSuppressStatement =
       !sanitizedCorruptedContent &&
       shouldSuppressFragmentedStatementText(
         resolvedStatement,
-        extracted?.statementAssets ?? [],
+        mergedStatementAssets,
         resolvedOptions.some((option) => option.text.trim().length > 0 || option.assets.length > 0),
       );
 
     return {
       id,
       examQuestionNumber: extracted?.examQuestionNumber ?? examQuestionNumber,
-      year: extracted?.year ?? 2024,
+      year: extracted?.year ?? year,
       area: extracted?.area ?? meta.label,
       title:
         extracted?.title ??
-        `Questão ${examQuestionNumber} — ENEM 2024 — ${meta.label}`,
+        `Questão ${examQuestionNumber} — ENEM ${year} — ${meta.label}`,
       statement: shouldSuppressStatement ? "" : resolvedStatement,
-      statementAssets: extracted?.statementAssets ?? [],
+      statementAssets: mergedStatementAssets,
       sourcePages: extracted?.sourcePages ?? [Math.ceil(id / 3)],
       rawText: sanitizedCorruptedContent?.rawText ?? extracted?.rawText ?? "",
       options: resolvedOptions.map((option) => ({
         option: option.option,
         text: option.text,
         assets: option.assets,
-        displayMode: "auto",
+        displayMode: option.displayMode,
         suppressedReason: undefined,
       })),
       topPerformerDistribution: buildTopPerformerDistribution(
@@ -1005,7 +1328,7 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
       correctOption,
       topDistractor,
       difficultyRank,
-      imageUrl: extracted?.imageUrl ?? "/placeholder.png",
+      imageUrl: mergedImageUrl,
       comments:
         analytics?.comments ??
         [
@@ -1124,7 +1447,7 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
       latexResolution: generatedLatex,
       analyticsSummary:
         analytics?.analyticsSummary ??
-        `${meta.label} em modo mock com estrutura preparada para assets, microdados e resolução futura.`,
+        `${meta.label} com estrutura preparada para assets, microdados e leitura analítica do item.`,
       triMetrics: {
         a: triA,
         b: triB,
@@ -1182,60 +1505,102 @@ function buildMockAreaQuestions(area: Exclude<AreaSlug, "matematica">) {
     };
   });
 
-  mockAreaCache.set(area, withRelations);
+  yearAreaQuestionCache.set(cacheKey, withRelations);
   return withRelations;
 }
 
-function optionIndexSeed(area: Exclude<AreaSlug, "matematica">) {
-  return area === "linguagens" ? 1 : area === "ciencias-humanas" ? 2 : 3;
+function optionIndexSeed(area: AreaSlug) {
+  return area === "linguagens" ? 1 : area === "ciencias-humanas" ? 2 : area === "ciencias-natureza" ? 3 : 4;
 }
 
-export function getAreaMeta(area: AreaSlug): AreaMeta {
-  return AREA_META[area];
+function isExamYear(value: number): value is ExamYear {
+  return EXAM_YEARS.some((entry) => entry.year === value);
 }
 
-function withAreaContext(area: AreaSlug, question: BaseQuestionPageData): AreaQuestionPageData {
-  const meta = AREA_META[area];
+export function getExamYears() {
+  return EXAM_YEARS;
+}
+
+export function getAvailableExamYears() {
+  return EXAM_YEARS.filter((entry) => entry.status === "available");
+}
+
+export function isAvailableExamYear(year: number): year is ExamYear {
+  return EXAM_YEARS.some((entry) => entry.year === year && entry.status === "available");
+}
+
+export function getExamYearMeta(year: number) {
+  if (!isExamYear(year)) return null;
+  return EXAM_YEARS.find((entry) => entry.year === year) ?? null;
+}
+
+export function getAreaMeta(year: ExamYear, area: AreaSlug): AreaMeta {
+  return {
+    year,
+    ...AREA_META_BASE[area],
+    pdfFile: getPdfFile(year, area),
+  };
+}
+
+function withAreaContext(year: ExamYear, area: AreaSlug, question: BaseQuestionPageData): AreaQuestionPageData {
+  const meta = getAreaMeta(year, area);
   return {
     ...question,
+    year,
     areaSlug: area,
     areaLabel: meta.label,
     areaShortLabel: meta.shortLabel,
     dayLabel: meta.dayLabel,
-    areaRoute: `/prova/2024/${area}`,
-    questionRoute: `/questoes/${area}/${question.id}`,
+    yearRoute: `/prova/${year}`,
+    areaRoute: `/prova/${year}/${area}`,
+    questionRoute: `/questoes/${year}/${area}/${question.id}`,
     pdfFile: meta.pdfFile,
   };
 }
 
 export function getAreaQuestionPageData(
+  year: ExamYear,
   area: AreaSlug,
   id: number,
 ): AreaQuestionPageData | null {
-  if (area === "matematica") {
+  if (year === 2024 && area === "matematica") {
     const question = getMathQuestionPageData(id);
-    return question ? withAreaContext(area, question) : null;
+    return question ? withAreaContext(year, area, question) : null;
   }
 
-  const question = buildMockAreaQuestions(area).find((entry) => entry.id === id);
-  return question ? withAreaContext(area, question) : null;
+  const question = buildCatalogAreaQuestions(year, area).find((entry) => entry.id === id);
+  return question ? withAreaContext(year, area, question) : null;
 }
 
-export function getAreaQuestionSummaries(area: AreaSlug): AreaQuestionSummary[] {
-  if (area === "matematica") {
-    return getMathExamQuestionSummaries().map((question) => ({
-      ...question,
-      competenceNumber: "competenceNumber" in question ? Number((question as { competenceNumber?: number }).competenceNumber ?? 0) : 0,
-      competenceDescription:
-        "competenceDescription" in question
-          ? String((question as { competenceDescription?: string }).competenceDescription ?? "")
-          : "",
-      areaSlug: area,
-      areaLabel: AREA_META[area].label,
-    }));
+export function getAreaQuestionSummaries(year: ExamYear, area: AreaSlug): AreaQuestionSummary[] {
+  if (year === 2024 && area === "matematica") {
+    return getMathExamQuestionSummaries().map((question) => {
+      const summary = question as {
+        id: number;
+        displayNumber: number;
+        theme: string;
+        skill: string;
+        difficulty: string;
+        accuracy: number;
+        competenceNumber?: number;
+        competenceDescription?: string;
+        difficultyLevel?: number;
+        relativeDifficultyLabel?: string;
+      };
+
+      return {
+        ...question,
+        competenceNumber: Number(summary.competenceNumber ?? 0),
+        competenceDescription: String(summary.competenceDescription ?? ""),
+        areaSlug: area,
+        areaLabel: AREA_META_BASE[area].label,
+        difficultyLevel: Number(summary.difficultyLevel ?? 3),
+        relativeDifficultyLabel: String(summary.relativeDifficultyLabel ?? summary.difficulty),
+      };
+    });
   }
 
-  return buildMockAreaQuestions(area).map((question) => {
+  return buildCatalogAreaQuestions(year, area).map((question) => {
     const enrichedQuestion = question as BaseQuestionPageData & {
       competenceNumber?: number;
       competenceDescription?: string;
@@ -1250,19 +1615,21 @@ export function getAreaQuestionSummaries(area: AreaSlug): AreaQuestionSummary[] 
         enrichedQuestion.competenceDescription ?? question.metadata.cognitiveType,
       skill: question.skill,
       difficulty: question.difficulty,
+      difficultyLevel: question.triMetrics.difficultyLevel,
+      relativeDifficultyLabel: question.triMetrics.relativeDifficultyLabel,
       accuracy: question.accuracy,
       areaSlug: area,
-      areaLabel: AREA_META[area].label,
+      areaLabel: AREA_META_BASE[area].label,
     };
   });
 }
 
-export function getAreaOverviewAnalytics(area: AreaSlug): OverviewAnalytics {
-  if (area === "matematica") {
+export function getAreaOverviewAnalytics(year: ExamYear, area: AreaSlug): OverviewAnalytics {
+  if (year === 2024 && area === "matematica") {
     return getMathExamOverviewAnalytics();
   }
 
-  const questions = getAreaQuestionSummaries(area);
+  const questions = getAreaQuestionSummaries(year, area);
   const themeMap = new Map<string, { theme: string; competence: string; count: number; totalAccuracy: number }>();
   const competenceMap = new Map<string, { competence: string; itemCount: number; totalAccuracy: number }>();
 
@@ -1306,7 +1673,7 @@ export function getAreaOverviewAnalytics(area: AreaSlug): OverviewAnalytics {
   };
 }
 
-export function getLandingPageData() {
+export function getLandingPageData(year: ExamYear) {
   const proofColorFromPdf = (pdfFile: string) =>
     pdfFile.toUpperCase().includes("AZUL")
       ? "Azul"
@@ -1315,11 +1682,11 @@ export function getLandingPageData() {
         : "Não identificado";
 
   const buildAreaDistribution = (area: AreaSlug) => {
-    const questionIds = getAreaQuestionSummaries(area).map((question) => question.id);
+    const questionIds = getAreaQuestionSummaries(year, area).map((question) => question.id);
     const bucketMap = new Map<string, { faixa: string; totalN: number; count: number }>();
 
     for (const id of questionIds) {
-      const question = getAreaQuestionPageData(area, id);
+      const question = getAreaQuestionPageData(year, area, id);
       if (!question) continue;
 
       for (const bucket of question.analyticsSnapshot.empiricalCurve.filter((entry) => entry.n > 0)) {
@@ -1341,21 +1708,22 @@ export function getLandingPageData() {
     .sort((left, right) => bucketStartValue(left.faixa) - bucketStartValue(right.faixa));
   };
 
-  const areas = (Object.keys(AREA_META) as AreaSlug[]).map((area) => {
-    const summaries = getAreaQuestionSummaries(area);
+  const areas = (Object.keys(AREA_META_BASE) as AreaSlug[]).map((area) => {
+    const meta = getAreaMeta(year, area);
+    const summaries = getAreaQuestionSummaries(year, area);
     const averageAccuracy = Number(
       (summaries.reduce((sum, question) => sum + question.accuracy, 0) / summaries.length).toFixed(1),
     );
 
     return {
       slug: area,
-      label: AREA_META[area].label,
-      shortLabel: AREA_META[area].shortLabel,
-      dayLabel: AREA_META[area].dayLabel,
-      proofColor: proofColorFromPdf(AREA_META[area].pdfFile),
+      label: meta.label,
+      shortLabel: meta.shortLabel,
+      dayLabel: meta.dayLabel,
+      proofColor: proofColorFromPdf(meta.pdfFile),
       questionCount: summaries.length,
       averageAccuracy,
-      lead: AREA_META[area].lead,
+      lead: meta.lead,
     } satisfies LandingAreaCard;
   });
 
@@ -1408,7 +1776,7 @@ export function getLandingPageData() {
     };
   });
 
-  const proofSummary = getProofSummary();
+  const proofSummary = getProofSummary(year);
   const proofStats: LandingProofStats | null = proofSummary
     ? {
         sampleSize: proofSummary.sampleSize,
@@ -1417,9 +1785,9 @@ export function getLandingPageData() {
         topStudents: proofSummary.topStudents,
         overallAccuracyVsScore: proofSummary.overallAccuracyVsScore,
         areas: [
-          ...(Object.keys(AREA_META) as AreaSlug[]).map((area) => ({
+          ...(Object.keys(AREA_META_BASE) as AreaSlug[]).map((area) => ({
             slug: area,
-            label: AREA_META[area].label,
+            label: AREA_META_BASE[area].label,
             questionCount: proofSummary.areas[area]?.questionCount ?? 45,
             sampleSize: proofSummary.areas[area]?.sampleSize ?? 0,
             averageAccuracy: proofSummary.areas[area]?.averageAccuracy ?? 0,

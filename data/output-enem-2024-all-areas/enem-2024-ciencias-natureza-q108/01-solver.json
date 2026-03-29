@@ -1,0 +1,81 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:28:14.915Z",
+  "questionId": "enem-2024-ciencias-natureza-q108",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "1,9 × 10^6 ton",
+      "correctnessClaim": "Correto de acordo com os cálculos realizados",
+      "strategy": "Calcular a massa de alumínio reciclada a partir da massa total de latas vendidas e o índice de reciclagem. Em seguida, estimar a massa de bauxita que teria sido necessária para produzir essa quantidade de alumínio, usando a proporção 50 kg de bauxita para 10 kg de alumínio.",
+      "steps": [
+        "Determinar a massa total de latas vendidas: 4,0 × 10^5 toneladas.",
+        "Calcular a massa de latas recicladas: 97,4% de 4,0 × 10^5 t = 0,974 × 4,0 × 10^5 t = 3,896 × 10^5 t.",
+        "Considerar que as latas são de alumínio puro, logo a massa de alumínio reciclada é 3,896 × 10^5 toneladas.",
+        "Aplicar a proporção para encontrar a massa de bauxita: para produzir 10 kg de alumínio são necessários 50 kg de bauxita, ou seja, massa_bauxita = 5 × massa_alumínio.",
+        "Calcular: 3,896 × 10^5 t × 5 = 1,948 × 10^6 toneladas de bauxita que deixaram de ser extraídas.",
+        "Arredondar para 1,9 × 10^6 toneladas, que corresponde à alternativa D."
+      ],
+      "formulasUsed": [
+        "massa_bauxita = 5 × massa_alumínio",
+        "massa_alumínio_reciclado = percentual_reciclagem × massa_total_latas"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "1,0 × 10^4 ton",
+        "likelyReasoning": "Confusão entre as unidades ou erro em aplicar a proporção da bauxita para alumínio.",
+        "misconceptionType": "Erro de conversão e escala",
+        "whyItLooksPlausible": "É um número menor e mais simples, pode ser resultado de cálculo incorreto ou má interpretação dos dados.",
+        "whyItIsWrong": "Ignora a grande massa envolvida e a alta taxa de reciclagem, subestimando drasticamente a massa de bauxita evitada."
+      },
+      {
+        "option": "3,9 × 10^5 ton",
+        "likelyReasoning": "Usar apenas a massa reciclada de alumínio sem convertê-la para a massa equivalente de bauxita.",
+        "misconceptionType": "Omissão de fator de conversão na massa",
+        "whyItLooksPlausible": "Corresponde à massa diretamente reciclada e parece coerente antes da conversão para bauxita.",
+        "whyItIsWrong": "Não considera o fato de que são necessários 5 vezes mais bauxita para produzir a mesma massa de alumínio."
+      },
+      {
+        "option": "5,0 × 10^5 ton",
+        "likelyReasoning": "Possível erro no cálculo da massa reciclada ou arredondamento incorreto antes da multiplicação por 5.",
+        "misconceptionType": "Erro de cálculo intermediário",
+        "whyItLooksPlausible": "Número intermediário entre a massa reciclada e a massa de bauxita estimada, pode ser resultado de cálculo parcial.",
+        "whyItIsWrong": "Deixa de aplicar a proporção correta entre alumínio e bauxita ou não multiplica pela proporção completa."
+      },
+      {
+        "option": "2,0 × 10^7 ton",
+        "likelyReasoning": "Multiplicar diretamente a massa total de latas vendidas por 50 kg sem considerar o alumínio reciclado ou erro na ordem de grandeza.",
+        "misconceptionType": "Erro de ordem de magnitude e interpretação dos dados",
+        "whyItLooksPlausible": "Parece uma aplicação direta da 50 kg de bauxita para 10 kg de alumínio, mas multiplicada pela massa total de latas sem ajustar para a quantidade reciclada.",
+        "whyItIsWrong": "Superestima em ordem de grandeza pois ignora o percentual reciclado e a relação correta entre bauxita e alumínio."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Raciocínio quantitativo",
+      "secondarySkills": [
+        "Interpretação de dados",
+        "Cálculo com proporções",
+        "Análise de porcentagem"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Requer conhecimento químico básico sobre produção de alumínio a partir da bauxita.",
+        "Necessita interpretar dados percentuais e aplicar proporções para cálculo de massa.",
+        "Nenhuma imagem foi necessária para resolução."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 740,
+    "outputTokens": 964,
+    "estimatedCostUsd": 0.001838
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:32:47.302Z",
+  "questionId": "enem-2024-ciencias-natureza-q111",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "C) 510 g",
+      "correctnessClaim": "A resposta C está correta com base nos cálculos estequiométricos e de equivalência energética realizados.",
+      "strategy": "Determinar a massa de metano que substitui 10 mol de etanol a partir da equivalência dada entre volumes de biogás e volume de etanol e o conteúdo de metano no biogás.",
+      "steps": [
+        "Determinar a massa e o volume do etanol referente a 10 mols: Massa etanol = 10 mol × 46 g/mol = 460 g; Volume etanol = massa/densidade = 460 g / (0,78 g/mL) ≈ 589,74 mL ≈ 0,5897 L.",
+        "Determinar o volume de biogás que substitui este volume de etanol usando a relação 1 m³ de biogás substitui 0,59 L de etanol: Volume de biogás necessário = 0,5897 L etanol × (1 m³ biogás / 0,59 L etanol) ≈ 1 m³ de biogás.",
+        "Determinar o volume de metano no biogás sabendo que ele corresponde a 70% em volume: Volume metano = 70% de 1 m³ = 0,7 m³ = 700 L.",
+        "Calcular a quantidade de mols de metano no volume calculado utilizando o volume molar (22 L/mol): Mols metano = 700 L / 22 L/mol ≈ 31,82 mol.",
+        "Calcular a massa de metano: Massa metano = 31,82 mol × 16 g/mol ≈ 509 g.",
+        "Arredondar para o valor mais próximo entre as alternativas disponíveis, 510 g."
+      ],
+      "formulasUsed": [
+        "Massa = número de mol × massa molar",
+        "Volume de gás = número de mol × volume molar",
+        "Densidade = massa/volume",
+        "Regra de três para volumes equivalentes"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A) 300 g",
+        "likelyReasoning": "Erro ao considerar volume ou porcentagem de metano, subestimando a massa de metano necessária.",
+        "misconceptionType": "Erro de cálculo multiplicativo",
+        "whyItLooksPlausible": "300 g é um valor arredondado intermediário que poderia surgir de uma conversão incorreta de mols para massa ou volume.",
+        "whyItIsWrong": "Não corresponde à correta relação entre volumes e massa para os parâmetros dados."
+      },
+      {
+        "option": "B) 400 g",
+        "likelyReasoning": "Consideração incorreta do volume de biogás ou erro na conversão entre mols e massa.",
+        "misconceptionType": "Confusão entre densidade e volume molar",
+        "whyItLooksPlausible": "Valor próximo da massa real, pode parecer razoável a um cálculo rápido.",
+        "whyItIsWrong": "Não respeita a proporção correta de 70% de metano e o volume molar."
+      },
+      {
+        "option": "D) 590 g",
+        "likelyReasoning": "Confusão entre volume e massa ou erro de arredondamento dos dados.",
+        "misconceptionType": "Erro no arredondamento de resultados parciais",
+        "whyItLooksPlausible": "Está próximo do produto dos volumes e massas envolvidos, podendo resultar de erro de arredondamento.",
+        "whyItIsWrong": "Não representa o resultado da conversão dos mols de metano a partir do volume corretamente."
+      },
+      {
+        "option": "E) 720 g",
+        "likelyReasoning": "Suposição incorreta de 100% metano no biogás ou erro na conversão do volume de biogás para massa.",
+        "misconceptionType": "Ignorar a porcentagem volumétrica do metano",
+        "whyItLooksPlausible": "Se o biogás fosse considerado 100% metano, poderia resultar neste valor, fazendo parecer razoável.",
+        "whyItIsWrong": "O biogás contém 70% metano, não 100%, logo este valor é superestimado."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Raciocínio químico e estequiometria",
+      "secondarySkills": [
+        "Cálculos de massa, volume e concentração",
+        "Interpretação de dados quantitativos",
+        "Conversão de unidades"
+      ],
+      "cognitiveDemand": "medium",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": true,
+      "notes": [
+        "Necessita interpretar dados quantitativos de composição gasosa e equivalência energética.",
+        "Requer conhecimento de volume molar e massa molar.",
+        "Envolve cálculo de massa, volume e densidade simultaneamente."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 636,
+    "outputTokens": 961,
+    "estimatedCostUsd": 0.001792
+  }
+}

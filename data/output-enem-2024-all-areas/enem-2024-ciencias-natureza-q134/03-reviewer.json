@@ -1,0 +1,177 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:41:21.861Z",
+  "questionId": "enem-2024-ciencias-natureza-q134",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A alternativa D está correta porque o exoesqueleto rígido dos crustáceos não cresce com o animal, o que torna necessária a realização de mudas periódicas para permitir o crescimento através da substituição do exoesqueleto.",
+        "strategy": "Identificar que o crescimento dos crustáceos é limitado pelo exoesqueleto rígido e, com base no conhecimento biológico da espécie, reconhecer que o processo para superar essa limitação é a muda (ecdise). Em seguida, comparar as alternativas para encontrar aquela que melhor representa esse mecanismo.",
+        "steps": [
+          "Reconhecer que o exoesqueleto dos crustáceos é duro e limita o crescimento.",
+          "Entender que o crustáceo cresce por meio da substituição periódica do exoesqueleto.",
+          "Saber que esse processo de substituição recebe o nome de muda ou ecdise.",
+          "Avaliar as alternativas e selecionar aquela que descreve corretamente a necessidade de substituição do exoesqueleto."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "O exoesqueleto rígido dos crustáceos impede o crescimento contínuo, de modo que o animal precisa trocar o exoesqueleto antigo por um novo maior para crescer, processo conhecido como muda ou ecdise.",
+        "stepByStep": [
+          "Identificar que o exoesqueleto rigídeo limita o crescimento.",
+          "Compreender que o exoesqueleto não cresce com o organismo.",
+          "Conhecer o processo de muda ou ecdise, através do qual o organismo troca o exoesqueleto.",
+          "Entender que o novo exoesqueleto permite o crescimento do animal.",
+          "Relacionar à alternativa correta que apresenta essa ideia."
+        ],
+        "commonPitfalls": [
+          "Achar que o exoesqueleto cresce junto com o animal sem necessidade de troca.",
+          "Pensar que o exoesqueleto fragmenta para permitir crescimento.",
+          "Supor que o exoesqueleto é moldado continuamente para ajuste.",
+          "Confundir composição química do exoesqueleto com elasticidade ou crescimento."
+        ],
+        "teachingTips": [
+          "Utilizar imagens ou modelos para mostrar o processo de muda.",
+          "Diferenciar crescimento em animais com esqueleto interno e exoesqueleto.",
+          "Usar exemplos práticos como a troca de carapaça em caranguejos.",
+          "Explicar a relação entre limitações físicas e adaptações biológicas para crescer."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Associação errada de que o exoesqueleto se forma apenas na fase adulta.",
+          "misconceptionType": "Falsa associação temporal",
+          "whyItLooksPlausible": "Parecer lógico que o exoesqueleto dura só na fase adulta.",
+          "whyItIsWrong": "Exoesqueleto é formado em todas as fases e precisa ser substituído durante todo o crescimento."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pensar que o exoesqueleto pode se fragmentar nas articulações.",
+          "misconceptionType": "Entendimento incorreto da estrutura rígida",
+          "whyItLooksPlausible": "Articulações geralmente são áreas de flexibilidade em organismos.",
+          "whyItIsWrong": "O exoesqueleto não cresce por fragmentação, mas por substituição através da muda."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Supor que o exoesqueleto pode crescer por modelagem contínua.",
+          "misconceptionType": "Falha na compreensão da rigidez do exoesqueleto",
+          "whyItLooksPlausible": "Outros tecidos crescem pelo ajuste contínuo.",
+          "whyItIsWrong": "Exoesqueleto é rígido e não se ajusta, necessitando troca periódica."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Achar que menor impregnação de sais pode aumentar a flexibilidade para crescimento.",
+          "misconceptionType": "Falsa relação entre composição e elasticidade",
+          "whyItLooksPlausible": "Menos sais calcários poderiam significar menos rigidez.",
+          "whyItIsWrong": "Composição do exoesqueleto é fixa e não varia para permitir crescimento; a solução é a muda."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Compreensão de processos biológicos",
+        "secondarySkills": [
+          "Conhecimento da morfologia animal",
+          "Raciocínio lógico sobre mecanismos biológicos"
+        ],
+        "cognitiveDemand": "medium",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": false,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Necessário conhecimento prévio sobre crustáceos e processos de muda.",
+          "Avalia adaptação biológica ao crescimento em animais com exoesqueleto rígido."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🦀",
+        "shortThemeTitle": "Crescimento e Muda em Crustáceos",
+        "interpretationIntro": "A questão aborda a limitação imposta pelo exoesqueleto rígido dos crustáceos para seu crescimento e questiona como essa limitação é superada.",
+        "commandTerms": [
+          {
+            "term": "Exoesqueleto",
+            "explanation": "Revestimento externo rígido que protege e suporta o organismo."
+          },
+          {
+            "term": "Muda (Ecdise)",
+            "explanation": "Processo de troca do exoesqueleto antigo por um novo para permitir crescimento."
+          }
+        ],
+        "whatTheQuestionAsks": "O comando exige identificar o mecanismo biológico utilizado pelos crustáceos para superar a limitação imposta pelo exoesqueleto rígido, permitindo seu crescimento.",
+        "strategyParagraph": "Para resolver, deve-se compreender que o exoesqueleto rígido não permite crescimento contínuo, portanto o animal realiza mudas periódicas para substituir esse revestimento externo por um maior. Avaliar então as alternativas para encontrar a que descreve corretamente este processo.",
+        "reviewTable": [
+          {
+            "concept": "Exoesqueleto",
+            "keyIdea": "Revestimento rígido formado por quitina e sais calcários",
+            "application": "Limita o crescimento por ser duro e fixo"
+          },
+          {
+            "concept": "Muda (Ecdise)",
+            "keyIdea": "Troca do exoesqueleto para crescimento",
+            "application": "Permite que o crustáceo cresça ao formar um exoesqueleto novo e maior"
+          },
+          {
+            "concept": "Estrutura e Crescimento",
+            "keyIdea": "Exoesqueleto não cresce com o animal",
+            "application": "Substituição periódica é necessária para crescer"
+          }
+        ],
+        "theoryParagraphs": [
+          "Crustáceos possuem um exoesqueleto rígido que cobre e protege seu corpo, mas essa estrutura não se expande. Dessa forma, para que o animal cresça, torna-se indispensável que ele substitua esse revestimento de forma periódica.",
+          "O processo de substituição do exoesqueleto é chamado de muda ou ecdise e consiste na liberação do exoesqueleto antigo e no crescimento de um novo que atende a novas dimensões do corpo do crustáceo.",
+          "Esse mecanismo biológico é vital para o desenvolvimento dos crustáceos, pois supera uma limitação física importante que seria o impedimento ao crescimento devido à rigidez do exoesqueleto."
+        ],
+        "resolutionParagraphs": [
+          "Ao observar que o exoesqueleto rígido limita o crescimento dos crustáceos, deduz-se que o animal necessita de uma estratégia para continuar crescendo.",
+          "É sabido que crustáceos realizam a muda, trocando seu exoesqueleto antigo por outro maior, permitindo o aumento do tamanho do corpo.",
+          "Dentre as opções apresentadas, a alternativa D melhor descreve esse processo, afirmando que o exoesqueleto deve ser substituído periodicamente para que o crustáceo possa continuar crescendo.",
+          "Portanto, a alternativa D é a correta, pois retrata com precisão o mecanismo biológico envolvido."
+        ],
+        "puloDoGato": "Lembre que o exoesqueleto é rígido e não cresce: o crustáceo cresce é trocando o exoesqueleto pela muda!",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o exoesqueleto não é formado somente na fase adulta; está presente em todas as fases e deve ser substituído durante o crescimento."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Errada pois o exoesqueleto não se fragmenta nas articulações para permitir crescimento; a troca é feita via muda completa."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o exoesqueleto não é moldado continuamente; sua rigidez impede isso, exigindo substituição."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta. Expressa que o exoesqueleto deve ser substituído periodicamente, possibilitando o crescimento do crustáceo."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Errada pois a composição do exoesqueleto é fixa; não há variação na impregnação de sais que permita seu crescimento."
+          }
+        ],
+        "questionCode": "CN_BIOLOGIA_MECANISMOS_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "A resolução é coerente com o enunciado e explica detalhadamente o mecanismo biológico da muda para o crescimento dos crustáceos. A análise técnica, a explicação didática e o oficialResolution estão alinhados e atendem aos critérios editoriais do ENEM.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 2407,
+    "outputTokens": 1889,
+    "estimatedCostUsd": 0.003985
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "stage": "reviewer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "reviewer.v2_official_resolution",
+  "generatedAt": "2026-03-28T22:40:03.959Z",
+  "questionId": "enem-2024-ciencias-natureza-q133",
+  "payload": {
+    "finalAnalysis": {
+      "technicalSolution": {
+        "finalAnswer": "D",
+        "correctnessClaim": "A resposta correta é D. A similaridade da coloração entre falsa-coral e coral-verdadeira reduz a possibilidade de predação das falsas-corais, um exemplo clássico de mimetismo Batesiano.",
+        "strategy": "Identificar que a falsa-coral, não venenosa, imita a aparência da coral-verdadeira venenosa para evitar ataques de predadores.",
+        "steps": [
+          "Reconhecer que corais-verdadeiras são peçonhentas e falsas-corais não.",
+          "Observar a semelhança na coloração das serpentes nas imagens e no enunciado.",
+          "Relacionar a semelhança à estratégia biológica do mimetismo Batesiano.",
+          "Entender que o mimetismo protege a falsa-coral, pois predadores evitam padrões de cor associados a perigo.",
+          "Concluir que a vantagem para as falsas-corais é a redução do risco de predação."
+        ],
+        "formulasUsed": [],
+        "visualEvidenceUsed": [
+          "Comparação das imagens da coral-verdadeira e da falsa-coral evidenciando padrões semelhantes de coloração."
+        ],
+        "confidence": "high"
+      },
+      "didacticExplanation": {
+        "shortExplanation": "Falsas-corais usam a coloração semelhante às corais-verdadeiras para enganar predadores, que as evitam por associarem essa aparência ao perigo, fenômeno conhecido como mimetismo Batesiano.",
+        "stepByStep": [
+          "Identifique as diferenças de peçonha entre corais-verdadeiras e falsas-corais.",
+          "Observe a semelhança nas cores das serpentes nas fotografias.",
+          "Reconheça essa semelhança como uma estratégia defensiva.",
+          "Explique o mimetismo Batesiano, onde espécies inofensivas imitam outras perigosas.",
+          "Conclua que as falsas-corais ganham proteção contra predadores graças a essa semelhança."
+        ],
+        "commonPitfalls": [
+          "Achar que a semelhança ajuda na caça das falsas-corais.",
+          "Confundir mimetismo com competição entre espécies.",
+          "Pensar que espécies semelhantes podem gerar híbridos.",
+          "Interpretar a coloração como sinal de reprodução entre espécies distintas."
+        ],
+        "teachingTips": [
+          "Utilize imagens reais para diferenciar camuflagem e mimetismo.",
+          "Explique o conceito de mimetismo Batesiano com exemplos claros.",
+          "Reforce que mimetismo é proteção contra predadores.",
+          "Discuta tipos diferentes de mimetismo para diferenciar conceitos.",
+          "Promova análise crítica das alternativas incorretas para o raciocínio."
+        ]
+      },
+      "distractors": [
+        {
+          "option": "A",
+          "likelyReasoning": "Acreditar que a similaridade facilita a caça das falsas-corais confundindo presas.",
+          "misconceptionType": "Interpretação errada do mimetismo como auxílio à predação.",
+          "whyItLooksPlausible": "Predadores evitam cobras peçonhentas, então a coloração pode ajudar na aproximação de presas.",
+          "whyItIsWrong": "O mimetismo serve para proteção contra predadores e não para facilitar a caça."
+        },
+        {
+          "option": "B",
+          "likelyReasoning": "Pressupor que a similaridade reduz a competição entre as espécies.",
+          "misconceptionType": "Confusão entre mimetismo e competição ecológica.",
+          "whyItLooksPlausible": "Espécies semelhantes podem ocupar nichos próximos, podendo haver competição.",
+          "whyItIsWrong": "A coloração não influencia diretamente na redução da competição."
+        },
+        {
+          "option": "C",
+          "likelyReasoning": "Pensar que a semelhança facilita a formação de híbridos entre as espécies.",
+          "misconceptionType": "Erro conceitual sobre compatibilidade genética baseada na aparência.",
+          "whyItLooksPlausible": "Aparência semelhante pode sugerir possibilidade de cruzamento.",
+          "whyItIsWrong": "São espécies diferentes, geneticamente incompatíveis, mesmo com aparência semelhante."
+        },
+        {
+          "option": "E",
+          "likelyReasoning": "Achar que a aparência semelhante ajuda no encontro de parceiros para reprodução.",
+          "misconceptionType": "Equívoco sobre o papel da coloração entre espécies diferentes.",
+          "whyItLooksPlausible": "Animais usam sinais visuais para reconhecer parceiros da mesma espécie.",
+          "whyItIsWrong": "A semelhança ocorre entre espécies distintas, sem função reprodutiva conjunta."
+        }
+      ],
+      "itemProfile": {
+        "primarySkill": "Interpretação e análise de conceitos biológicos (mimetismo)",
+        "secondarySkills": [
+          "Leitura de imagens e associação com texto",
+          "Conhecimento básico em ecologia e comportamento animal"
+        ],
+        "cognitiveDemand": "Médio",
+        "difficultyEstimate": "medium",
+        "requiresVisualInterpretation": true,
+        "requiresModeling": false,
+        "requiresCalculation": false,
+        "notes": [
+          "Compreensão do conceito de mimetismo Batesiano é essencial.",
+          "Enunciado e imagens fornecem dados suficientes para resolução.",
+          "Exige associação de fenômeno visual com vantagem evolutiva."
+        ]
+      },
+      "officialResolution": {
+        "emoji": "🐍",
+        "shortThemeTitle": "Mimetismo Batesiano em Serpentes",
+        "interpretationIntro": "A questão pede para identificar qual vantagem a semelhança de coloração entre falsas-corais e corais-verdadeiras oferece às falsas-corais.",
+        "commandTerms": [
+          {
+            "term": "Similaridade de coloração",
+            "explanation": "Referência à aparência visual parecida entre espécies."
+          },
+          {
+            "term": "Mimetismo Batesiano",
+            "explanation": "Estratégia em que espécie inofensiva imita uma perigosa para se proteger."
+          }
+        ],
+        "whatTheQuestionAsks": "A questão busca compreender o benefício evolutivo que a falsa-coral obtém ao mimetizar a coloração da coral-verdadeira, que é venenosa.",
+        "strategyParagraph": "Para responder, é necessário reconhecer o fenômeno biológico do mimetismo Batesiano, em que uma espécie não perigosa adota a aparência de outra perigosa para reduzir o risco de ser predada. Observando as imagens e o enunciado, nota-se que a falsa-coral imita a coloração da coral-verdadeira, apesar de não ser venenosa, afastando predadores que evitam cobras perigosas.",
+        "reviewTable": [
+          {
+            "concept": "Mimetismo Batesiano",
+            "keyIdea": "Espécie inofensiva imita venenosa para proteção",
+            "application": "Falsa-coral imita coral-verdadeira para evitar predadores"
+          },
+          {
+            "concept": "Predação",
+            "keyIdea": "Predadores evitam animais com sinais visuais de perigo",
+            "application": "Falsa-coral se beneficia da aparência associada ao veneno"
+          },
+          {
+            "concept": "Aparência e sobrevivência",
+            "keyIdea": "Aspectos visuais influenciam interações ecológicas",
+            "application": "Semelhança na coloração confere vantagem defensiva"
+          },
+          {
+            "concept": "Confusão comum",
+            "keyIdea": "Mimetismo não facilita caça ou reprodução entre espécies",
+            "application": "Alternativas incorretas envolvem essas ideias equivocadas"
+          }
+        ],
+        "theoryParagraphs": [
+          "O mimetismo é uma estratégia evolutiva que aumenta a sobrevivência de uma espécie ao imitar a aparência de outra que possui algum tipo de defesa, como veneno ou gosto desagradável para predadores. No mimetismo Batesiano, uma espécie inofensiva obtém proteção ao se parecer com outra que é evitada por possuir peçonha.",
+          "No caso apresentado, as falsas-corais não possuem veneno, mas sua coloração se assemelha à das corais-verdadeiras, que são peçonhentas. Essa similaridade faz com que predadores confundam as falsas-corais com as verdadeiras e evitem atacá-las, reduzindo a predação.",
+          "Esse fenômeno é um exemplo clássico de adaptação evolutiva em que a aparência serve como mecanismo de defesa, demonstrando a interação entre espécies e o ambiente em questões de sobrevivência e seleção natural."
+        ],
+        "resolutionParagraphs": [
+          "Primeiramente, observa-se no enunciado e nas imagens que as corais-verdadeiras possuem peçonha, ao contrário das falsas-corais, que são inofensivas. Apesar disso, ambas apresentam padrões de coloração muito semelhantes.",
+          "Essa semelhança não é casual, mas uma estratégia para aumentar a sobrevivência das falsas-corais. Ao terem a aparência de uma espécie venenosa, elas desencorajam potenciais predadores, que aprendem a evitar cobras com aquele padrão de cor.",
+          "O fenômeno biológico que explica essa vantagem é o mimetismo Batesiano, em que uma espécie inofensiva imita outra perigosa para se proteger. Portanto, para as falsas-corais, a semelhança na coloração representa uma redução significativa no risco de predação.",
+          "Assim, a alternativa correta é a letra D, que indica que a vantagem da similaridade para as falsas-corais é a diminuição da chance de serem predadas."
+        ],
+        "puloDoGato": "Lembre-se: espécies inofensivas podem se proteger imitando a aparência de espécies perigosas — isso é mimetismo Batesiano.",
+        "alternatives": [
+          {
+            "option": "A",
+            "isCorrect": false,
+            "explanation": "Incorreta porque o mimetismo serve para defesa, não para auxiliar a falsa-coral a capturar presas."
+          },
+          {
+            "option": "B",
+            "isCorrect": false,
+            "explanation": "Incorreta pois a coloração semelhante não reduz competição por recursos entre as espécies."
+          },
+          {
+            "option": "C",
+            "isCorrect": false,
+            "explanation": "Errado, pois a semelhança visual não implica compatibilidade para formar híbridos."
+          },
+          {
+            "option": "D",
+            "isCorrect": true,
+            "explanation": "Correta. A semelhança evita que predadores ataquem as falsas-corais, que se beneficiam da fama das corais-verdadeiras."
+          },
+          {
+            "option": "E",
+            "isCorrect": false,
+            "explanation": "Incorreta, pois a semelhança ocorre entre espécies distintas e não facilita o encontro de parceiros reprodutivos."
+          }
+        ],
+        "questionCode": "CN_ECO_MIMETISMO_001"
+      },
+      "consistencyReview": {
+        "verdict": "approved",
+        "summary": "O enunciado, solução técnica e explicação didática estão coerentes e fundamentados. A resolução oficial segue a organização e linguagem exigidas, explicando claramente o conceito de mimetismo Batesiano como chave para responder à questão. As alternativas foram comentadas de forma correta e didática. Não há inconsistência entre as partes e o nível de dificuldade está adequadamente identificado.",
+        "issues": []
+      }
+    }
+  },
+  "usage": {
+    "inputTokens": 3310,
+    "outputTokens": 2108,
+    "estimatedCostUsd": 0.004697
+  }
+}

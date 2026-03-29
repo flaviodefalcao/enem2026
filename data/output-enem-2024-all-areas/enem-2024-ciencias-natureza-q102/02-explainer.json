@@ -1,0 +1,40 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:50:46.505Z",
+  "questionId": "enem-2024-ciencias-natureza-q102",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "Para calcular a eficiência da cafeteira, comparamos a energia útil que efetivamente aqueceu a água com a energia elétrica consumida na prática. A energia necessária para elevar a temperatura da água é maior que a energia consumida, o que indica que parte da energia não foi aproveitada, revelando uma eficiência menor que 100%.",
+      "stepByStep": [
+        "Calcule a energia necessária para aquecer 500 g de água de 20 °C a 100 °C usando Q = m·c·ΔT, onde m=500 g, c=1 cal/g°C e ΔT=80°C: Q=40.000 cal.",
+        "Converta essa energia para Joules (1 cal = 4,2 J): 40.000 cal × 4,2 = 168.000 J.",
+        "Calcule a energia elétrica consumida pela cafeteira em 3 minutos (180 s), usando potência P=700 W: Energia = P × t = 700 × 180 = 126.000 J.",
+        "Note que a energia para aquecer a água (168.000 J) é maior que a energia consumida (126.000 J), o que não faz sentido físico. Isso indica que o aluno utilizou o tempo real para consumir energia e o tempo teórico para calcular a energia útil.",
+        "Calcule o tempo teórico para aquecer a água sem perdas: t = Q/P = 168.000 J / 700 W = 240 s (4 minutos).",
+        "Calcule a eficiência com base nos tempos: Eficiência = (tempo teórico / tempo real) = 180 s / 240 s = 0,75 ou 75%.",
+        "Conclua que a eficiência energética da cafeteira é 75%."
+      ],
+      "commonPitfalls": [
+        "Confundir energia consumida com energia útil, invertendo as razões de cálculo da eficiência.",
+        "Desconsiderar a conversão correta das unidades de caloria para Joule.",
+        "Ignorar o fato de que a eficiência deve ser menor ou igual a 100%, e resultados maiores indicam erro no cálculo.",
+        "Calcular a eficiência usando valores inconsistentes de tempo e energia sem considerar que o tempo teórico corresponde ao cenário sem perdas.",
+        "Esquecer de converter minutos para segundos ao calcular energia consumida."
+      ],
+      "teachingTips": [
+        "Explique a definição de eficiência energética e por que ela sempre fica entre 0% e 100%.",
+        "Enfatize a importância de controlar as unidades durante os cálculos, especialmente a conversão de caloria para Joule e tempo para segundos.",
+        "Utilize exemplos práticos para ilustrar energia útil versus energia fornecida e como perdas ocorrem.",
+        "Mostre a diferença entre resultados teóricos (sem perdas) e experimentais (com perdas) e como isso afeta a eficiência.",
+        "Reforce o uso correto das fórmulas e o significado físico dos resultados para evitar interpretações equivocadas."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1891,
+    "outputTokens": 603,
+    "estimatedCostUsd": 0.001721
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:37:52.441Z",
+  "questionId": "enem-2024-ciencias-natureza-q115",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Estequiometria e soluções",
+    "rationale": "A questão trata da concentração de íons em solução e cálculo da massa de sal em determinada porção, envolvendo conhecimentos de estequiometria e preparação de soluções químicas. A habilidade relacionada à caracterização de materiais e a competência de utilização da química para interpretação de problemas confirmam essa classificação.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 821,
+    "outputTokens": 83,
+    "estimatedCostUsd": 0.000461
+  }
+}

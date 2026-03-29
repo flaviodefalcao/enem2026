@@ -1,0 +1,78 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:35:15.802Z",
+  "questionId": "enem-2024-ciencias-natureza-q130",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A resposta correta é a alternativa E, Estômago.",
+      "strategy": "Analisar o processo químico descrito no enunciado e identificar o órgão onde o ácido clorídrico está presente para iniciar a reação que forma os compostos nitrosos mutagênicos.",
+      "steps": [
+        "Identificar que a reação entre nitrito de sódio e ácido clorídrico gera ácido nitroso, que reage com aminas formando compostos nitrosos.",
+        "Reconhecer que o ácido clorídrico é encontrado em alta concentração no suco gástrico, ou seja, no estômago.",
+        "Verificar que o processo de formação dos compostos mutagênicos ocorre no órgão onde o ácido clorídrico está disponível para reagir com o nitrito de sódio.",
+        "Concluir que o estômago é o órgão onde o processo inicia, pois o ácido clorídrico é secretado lá."
+      ],
+      "formulasUsed": [
+        "NO2- (nitrito de sódio) + HCl (ácido clorídrico) → HNO2 (ácido nitroso)",
+        "HNO2 + aminas → compostos nitrosos mutagênicos"
+      ],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar a função de filtrar sangue e eliminar substâncias tóxicas ao rim, supondo que o processo ocorra ali.",
+        "misconceptionType": "Confusão funcional dos órgãos",
+        "whyItLooksPlausible": "Rim é um órgão relacionado à filtragem e excreção, podendo parecer um local de reações químicas para eliminar toxinas.",
+        "whyItIsWrong": "O processo específico de reação entre ácido clorídrico e nitrito para formar compostos nitrosos ocorre no estômago, que secreta ácido clorídrico, não nos rins."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Confundir a função metabólica do fígado com o local inicial da reação química.",
+        "misconceptionType": "Confusão entre metabolismo e local de reação química",
+        "whyItLooksPlausible": "Fígado é o órgão principal do metabolismo e detoxificação, parecendo um local possível para transformação química de substâncias.",
+        "whyItIsWrong": "A reação que gera compostos nitrosos acontece antes do metabolismo hepático, no estômago, onde o ácido clorídrico está presente."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Associar a digestão química ao intestino, pensando que as reações complexas de substâncias ocorrem ali.",
+        "misconceptionType": "Confusão da sequência do trato digestório",
+        "whyItLooksPlausible": "Intestino é importante na absorção e digestão, sugerindo que processos químicos possam ocorrer ali.",
+        "whyItIsWrong": "O ácido clorídrico está no estômago, não no intestino, e a reação descrita ocorre antes da passagem ao intestino."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Vincular o pâncreas ao processo digestivo pela secreção de enzimas, pensando que ali ocorre a reação química.",
+        "misconceptionType": "Confusão sobre secreções pancreáticas",
+        "whyItLooksPlausible": "Pâncreas produz sucos digestivos essenciais, pode parecer o local da reação.",
+        "whyItIsWrong": "O pâncreas não secreta ácido clorídrico, e a reação química inicial com nitrito e ácido clorídrico ocorre no estômago."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento de Bioquímica e Fisiologia Humana",
+      "secondarySkills": [
+        "Química Orgânica",
+        "Processos do Trato Digestório"
+      ],
+      "cognitiveDemand": "Médio",
+      "difficultyEstimate": "medium",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão avalia o conhecimento sobre a localização e função do ácido clorídrico no aparelho digestivo.",
+        "Exige a compreensão das reações químicas que podem ocorrer no ambiente ácido do estômago.",
+        "Não são necessárias imagens adicionais para resolver a questão."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 561,
+    "outputTokens": 867,
+    "estimatedCostUsd": 0.001612
+  }
+}

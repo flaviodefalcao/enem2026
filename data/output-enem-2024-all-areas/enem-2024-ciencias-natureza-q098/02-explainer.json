@@ -1,0 +1,38 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:32:58.034Z",
+  "questionId": "enem-2024-ciencias-natureza-q098",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O brilho nas placas de saída de emergência acontece por fosforescência, um fenômeno em que o material absorve luz e depois libera essa energia em forma de luz visível por transições eletrônicas no sulfeto de zinco dopado com prata ou cobre.",
+      "stepByStep": [
+        "Leia o enunciado e observe a placa que brilha no escuro.",
+        "Identifique que o fenômeno descrito é a fosforescência, que ocorre por causas eletrônicas no material.",
+        "Entenda que o sulfeto de zinco, dopado com prata ou cobre, absorve luz durante o dia ou em luz ambiente.",
+        "Depois de absorver energia, o material libera essa energia lentamente, emitindo luz (brilho) mesmo após a luz ambiente cessar.",
+        "Diferencie fosforescência de outras causas possíveis, como reflexão, coloração, colisões atômicas ou reações nucleares, que não explicam o brilho contínuo observado.",
+        "Escolha a alternativa que relaciona o fenômeno ao processo de transições eletrônicas no material dopado."
+      ],
+      "commonPitfalls": [
+        "Confundir o brilho com colisões entre átomos, que não geram fosforescência.",
+        "Pensar que o brilho é apenas a cor dos átomos (coloração) e não emissão de luz.",
+        "Associar o fenômeno a reações nucleares, que não ocorrem nesse caso.",
+        "Achar que o brilho é resultado de reflexão da luz ambiente, quando na verdade é uma emissão própria pós-exposição."
+      ],
+      "teachingTips": [
+        "Explique claramente a diferença entre fosforescência e fluorescência, ressaltando o tempo de emissão luminosa.",
+        "Use exemplos de materiais fosforescentes para exemplificar a emissão prolongada de luz.",
+        "Mostre que o processo envolve níveis de energia dos elétrons para conectar a teoria à química e física.",
+        "Utilize a imagem da placa para contextualizar o fenômeno e facilitar a compreensão prática.",
+        "Estimule os alunos a pensar no que acontece com a energia absorvida após a exposição à luz, para entender a emissão lenta e contínua."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 1627,
+    "outputTokens": 433,
+    "estimatedCostUsd": 0.001344
+  }
+}

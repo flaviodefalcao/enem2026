@@ -1,0 +1,1999 @@
+{
+  "metadata": {
+    "sourcePdf": "/Users/flaviodefalcao/Desktop/project_enem/output_enem_all_areas_2019/ENEM_2019_P1_CAD_05_DIA_2_AMARELO.pdf",
+    "bookletNumber": null,
+    "questionRange": [
+      91,
+      135
+    ],
+    "year": 2019,
+    "areaLabel": "Ciências da Natureza",
+    "areaSlug": "ciencias-natureza"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "examQuestionNumber": 91,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 91 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        2
+      ],
+      "statement": "Uma casa tem um cabo elétrico mal dimensionado,\nde resistência igual a 10 Ω, que a conecta à rede elétrica\nde 120 V. Nessa casa, cinco lâmpadas, de resistência\nigual a 200 Ω, estão conectadas ao mesmo circuito que\numa televisão de resistência igual a 50 Ω, conforme\nilustrado no esquema. A televisão funciona apenas com\ntensão entre 90 V e 130 V.\n\nO número máximo de lâmpadas que podem ser ligadas\nsem que a televisão pare de funcionar é:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-91/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-91/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-91/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma casa tem um cabo elétrico mal dimensionado,\nde resistência igual a 10 Ω, que a conecta à rede elétrica\nde 120 V. Nessa casa, cinco lâmpadas, de resistência\nigual a 200 Ω, estão conectadas ao mesmo circuito que\numa televisão de resistência igual a 50 Ω, conforme\nilustrado no esquema. A televisão funciona apenas com\ntensão entre 90 V e 130 V.\n\nO número máximo de lâmpadas que podem ser ligadas\nsem que a televisão pare de funcionar é:\n\nA. 1.\nB. 2.\nC. 3.\nD. 4.\nE. 5."
+    },
+    {
+      "id": 2,
+      "examQuestionNumber": 92,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 92 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        2
+      ],
+      "statement": "O 2,4-dinitrofenol (DNP) é conhecido como\ndesacoplador da cadeia de elétrons na mitocôndria e\napresenta um efeito emagrecedor. Contudo, por ser\nperigoso e pela ocorrência de casos letais, seu uso\ncomo medicamento é proibido em diversos países,\ninclusive no Brasil. Na mitocôndria, essa substância\ncaptura, no espaço intermembranas, prótons (H⁺)\nprovenientes da atividade das proteínas da cadeia\nrespiratória,\nretornando-os\nà\nmatriz\nmitocondrial.\nAssim, esses prótons não passam pelo transporte\nenzimático na membrana interna.\nGRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight\nLoss Agent with Significant Acute Toxicity and Risk of Death.\nJournal of Medical Toxicology, v. 7, 2011 (adaptado).\nO efeito emagrecedor desse composto está relacionado\nao(à)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.\nB bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.\nC diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.\nD inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.\nE redução da produção de ATP, resultando em maior gasto celular de nutrientes.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "O 2,4-dinitrofenol (DNP) é conhecido como\ndesacoplador da cadeia de elétrons na mitocôndria e\napresenta um efeito emagrecedor. Contudo, por ser\nperigoso e pela ocorrência de casos letais, seu uso\ncomo medicamento é proibido em diversos países,\ninclusive no Brasil. Na mitocôndria, essa substância\ncaptura, no espaço intermembranas, prótons (H⁺)\nprovenientes da atividade das proteínas da cadeia\nrespiratória,\nretornando-os\nà\nmatriz\nmitocondrial.\nAssim, esses prótons não passam pelo transporte\nenzimático na membrana interna.\nGRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight\nLoss Agent with Significant Acute Toxicity and Risk of Death.\nJournal of Medical Toxicology, v. 7, 2011 (adaptado).\nO efeito emagrecedor desse composto está relacionado\nao(à)\n\nA. obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.\nB bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.\nC diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.\nD inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.\nE redução da produção de ATP, resultando em maior gasto celular de nutrientes.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 3,
+      "examQuestionNumber": 93,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 93 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "statement": "Em 1808, Dalton publicou o seu famoso livro\nintitulado Um novo sistema de filosofia química\n(do original A New System of Chemical Philosophy),\nno qual continha os cinco postulados que serviam\ncomo alicerce da primeira teoria atômica da matéria\nfundamentada no método científico. Esses postulados\nsão numerados a seguir:\n1. A matéria é constituída de átomos indivisíveis.\n2. Todos os átomos de um dado elemento químico são\nidênticos em massa e em todas as outras propriedades.\n3. Diferentes elementos químicos têm diferentes\ntipos de átomos; em particular, seus átomos têm\ndiferentes massas.\n4. Os átomos são indestrutíveis e nas reações\nquímicas mantêm suas identidades.\n5. Átomos de elementos combinam com átomos de\noutros elementos em proporções de números inteiros\npequenos para formar compostos.\nApós o modelo de Dalton, outros modelos baseados\nem outros dados experimentais evidenciaram, entre\noutras coisas, a natureza elétrica da matéria, a\ncomposição e organização do átomo e a quantização da\nenergia no modelo atômico.\nOXTOBY, D. W.; GILLIS, H. P.; BUTLER, L. J. Principles of Modern\nChemistry. Boston: Cengage Learning, 2012 (adaptado).\nCom base no modelo atual que descreve o átomo, qual\ndos postulados de Dalton ainda é considerado correto?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5 *DO0525AM2* CN - 2º dia | Caderno 5 - AMARELO - Página 3",
+          "assets": []
+        }
+      ],
+      "rawText": "Em 1808, Dalton publicou o seu famoso livro\nintitulado Um novo sistema de filosofia química\n(do original A New System of Chemical Philosophy),\nno qual continha os cinco postulados que serviam\ncomo alicerce da primeira teoria atômica da matéria\nfundamentada no método científico. Esses postulados\nsão numerados a seguir:\n1. A matéria é constituída de átomos indivisíveis.\n2. Todos os átomos de um dado elemento químico são\nidênticos em massa e em todas as outras propriedades.\n3. Diferentes elementos químicos têm diferentes\ntipos de átomos; em particular, seus átomos têm\ndiferentes massas.\n4. Os átomos são indestrutíveis e nas reações\nquímicas mantêm suas identidades.\n5. Átomos de elementos combinam com átomos de\noutros elementos em proporções de números inteiros\npequenos para formar compostos.\nApós o modelo de Dalton, outros modelos baseados\nem outros dados experimentais evidenciaram, entre\noutras coisas, a natureza elétrica da matéria, a\ncomposição e organização do átomo e a quantização da\nenergia no modelo atômico.\nOXTOBY, D. W.; GILLIS, H. P.; BUTLER, L. J. Principles of Modern\nChemistry. Boston: Cengage Learning, 2012 (adaptado).\nCom base no modelo atual que descreve o átomo, qual\ndos postulados de Dalton ainda é considerado correto?\n\nA. 1\nB. 2\nC. 3\nD. 4\nE. 5 *DO0525AM2* CN - 2º dia | Caderno 5 - AMARELO - Página 3"
+    },
+    {
+      "id": 4,
+      "examQuestionNumber": 94,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 94 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        3
+      ],
+      "statement": "Para realizar o desentupimento de tubulações de\nesgotos residenciais, é utilizada uma mistura sólida\ncomercial que contém hidróxido de sódio (NaOH) e outra\nespécie química pulverizada. Quando é adicionada\nágua a essa mistura, ocorre uma reação que libera gás\nhidrogênio e energia na forma de calor, aumentando a\neficiência do processo de desentupimento. Considere os\npotenciais padrão de redução (E) da água e de outras\nespécies em meio básico, expressos no quadro.\nSemirreação de redução\nE (V)\n2 H₂O + 2 e− →H₂ + 2 OH−\n−0,83\nCo(OH)₂ + 2 e− →Co ₊ ₂ OH−\n−0,73\nCu(OH)₂ + 2 e− →Cu ₊ ₂ OH−\n−0,22\nPbO + H₂O + 2 e− →Pb ₊ ₂ OH−\n−0,58\n\nFe(OH)₂ + 2 e− →Fe ₊ ₂ OH−\n−0,88\nQual é a outra espécie que está presente na composição\nda mistura sólida comercial para aumentar sua eficiência?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-94/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-94/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Al",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Co",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Cu(OH)₂",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Fe(OH)₂",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Pb",
+          "assets": []
+        }
+      ],
+      "rawText": "Para realizar o desentupimento de tubulações de\nesgotos residenciais, é utilizada uma mistura sólida\ncomercial que contém hidróxido de sódio (NaOH) e outra\nespécie química pulverizada. Quando é adicionada\nágua a essa mistura, ocorre uma reação que libera gás\nhidrogênio e energia na forma de calor, aumentando a\neficiência do processo de desentupimento. Considere os\npotenciais padrão de redução (E) da água e de outras\nespécies em meio básico, expressos no quadro.\nSemirreação de redução\nE (V)\n2 H₂O + 2 e− →H₂ + 2 OH−\n−0,83\nCo(OH)₂ + 2 e− →Co ₊ ₂ OH−\n−0,73\nCu(OH)₂ + 2 e− →Cu ₊ ₂ OH−\n−0,22\nPbO + H₂O + 2 e− →Pb ₊ ₂ OH−\n−0,58\n\nFe(OH)₂ + 2 e− →Fe ₊ ₂ OH−\n−0,88\nQual é a outra espécie que está presente na composição\nda mistura sólida comercial para aumentar sua eficiência?\n\nA. Al\nB. Co\nC. Cu(OH)₂\nD. Fe(OH)₂\nE. Pb"
+    },
+    {
+      "id": 5,
+      "examQuestionNumber": 95,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 95 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        3
+      ],
+      "statement": "Para minimizar este tipo de problema, deve-se:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-95/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-95/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Fazer o aterramento dos arames da cerca.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Acrescentar fusível de segurança na cerca.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Realizar o aterramento da rede de alta tensão.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Instalar fusível de segurança na rede de alta tensão.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Utilizar fios encapados com isolante na rede de alta tensão.",
+          "assets": []
+        }
+      ],
+      "rawText": "Para minimizar este tipo de problema, deve-se:\n\nA. Fazer o aterramento dos arames da cerca.\nB. Acrescentar fusível de segurança na cerca.\nC. Realizar o aterramento da rede de alta tensão.\nD. Instalar fusível de segurança na rede de alta tensão.\nE. Utilizar fios encapados com isolante na rede de alta tensão."
+    },
+    {
+      "id": 6,
+      "examQuestionNumber": 96,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 96 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "statement": "A esquistossomose (barriga-dʼágua) caracteriza-se\npela inflamação do fígado e do baço causada pelo verme\nSchistosoma mansoni (esquistossomo). O contágio\nocorre depois que larvas do verme são liberadas na\nágua pelo caramujo do gênero Biomphalaria, seu\nhospedeiro intermediário, e penetram na pele humana.\nApós o diagnóstico, o tratamento tradicional utiliza\nmedicamentos por via oral para matar o parasita dentro\ndo corpo. Uma nova estratégia terapêutica baseia-se na\nutilização de uma vacina, feita a partir de uma proteína\nextraída do verme, que induz o organismo humano a\nproduzir anticorpos para combater e prevenir a doença.\nInstituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz\nanuncia nova fase de vacina para esquistossomose. Disponível em:\nhttp://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).\nUma vantagem da vacina em relação ao tratamento\ntradicional é que ela poderá",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "impedir a penetração do parasita pela pele.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "eliminar o caramujo para que não haja contágio.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "impedir o acesso do esquistossomo especificamente para o fígado.\nD eliminar o esquistossomo antes que ocorra contato com o organismo.\nE eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas. *DO0525AM3* CN - 2º dia | Caderno 5 - AMARELO - Página 4",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A esquistossomose (barriga-dʼágua) caracteriza-se\npela inflamação do fígado e do baço causada pelo verme\nSchistosoma mansoni (esquistossomo). O contágio\nocorre depois que larvas do verme são liberadas na\nágua pelo caramujo do gênero Biomphalaria, seu\nhospedeiro intermediário, e penetram na pele humana.\nApós o diagnóstico, o tratamento tradicional utiliza\nmedicamentos por via oral para matar o parasita dentro\ndo corpo. Uma nova estratégia terapêutica baseia-se na\nutilização de uma vacina, feita a partir de uma proteína\nextraída do verme, que induz o organismo humano a\nproduzir anticorpos para combater e prevenir a doença.\nInstituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz\nanuncia nova fase de vacina para esquistossomose. Disponível em:\nhttp://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).\nUma vantagem da vacina em relação ao tratamento\ntradicional é que ela poderá\n\nA. impedir a penetração do parasita pela pele.\nB. eliminar o caramujo para que não haja contágio.\nC. impedir o acesso do esquistossomo especificamente para o fígado.\nD eliminar o esquistossomo antes que ocorra contato com o organismo.\nE eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas. *DO0525AM3* CN - 2º dia | Caderno 5 - AMARELO - Página 4\nD.\nE."
+    },
+    {
+      "id": 7,
+      "examQuestionNumber": 97,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 97 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        4
+      ],
+      "statement": "Numa feira de ciências, um estudante utilizará o\ndisco de Maxwell (ioiô) para demonstrar o princípio da\nconservação da energia. A apresentação consistirá em\nduas etapas:\nEtapa 1 - a explicação de que, à medida que o disco\ndesce, parte de sua energia potencial gravitacional\né transformada em energia cinética de translação e\nenergia cinética de rotação;\nEtapa 2 - o cálculo da energia cinética de rotação do\ndisco no ponto mais baixo de sua trajetória, supondo o\nsistema conservativo.\nAo preparar a segunda etapa, ele considera a\naceleração da gravidade igual a 10 m s−² e a velocidade\nlinear do centro de massa do disco desprezível em\ncomparação com a velocidade angular. Em seguida,\nmede a altura do topo do disco em relação ao chão no\nponto mais baixo de sua trajetória, obtendo 1\n3 da altura\nda haste do brinquedo.\nAs especificações de tamanho do brinquedo, isto é,\nde comprimento (C), largura (L) e altura (A), assim como\nda massa de seu disco de metal, foram encontradas\npelo estudante no recorte de manual ilustrado a seguir.\n\nConteúdo: base de metal, hastes metálicas,\nbarra superior, disco de metal.\nTamanho (C × L × A): 300 mm × 100 mm × 410 mm\nMassa do disco de metal: 30 g\n\n3\nh\n\nO resultado do cálculo da etapa 2, em joule, é:",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-97/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-97/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4,10 × 10−²",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8,20 × 10−²",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "1,23 × 10−¹",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "8,20 × 10⁴",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "1,23 × 10⁵",
+          "assets": []
+        }
+      ],
+      "rawText": "Numa feira de ciências, um estudante utilizará o\ndisco de Maxwell (ioiô) para demonstrar o princípio da\nconservação da energia. A apresentação consistirá em\nduas etapas:\nEtapa 1 - a explicação de que, à medida que o disco\ndesce, parte de sua energia potencial gravitacional\né transformada em energia cinética de translação e\nenergia cinética de rotação;\nEtapa 2 - o cálculo da energia cinética de rotação do\ndisco no ponto mais baixo de sua trajetória, supondo o\nsistema conservativo.\nAo preparar a segunda etapa, ele considera a\naceleração da gravidade igual a 10 m s−² e a velocidade\nlinear do centro de massa do disco desprezível em\ncomparação com a velocidade angular. Em seguida,\nmede a altura do topo do disco em relação ao chão no\nponto mais baixo de sua trajetória, obtendo 1\n3 da altura\nda haste do brinquedo.\nAs especificações de tamanho do brinquedo, isto é,\nde comprimento (C), largura (L) e altura (A), assim como\nda massa de seu disco de metal, foram encontradas\npelo estudante no recorte de manual ilustrado a seguir.\n\nConteúdo: base de metal, hastes metálicas,\nbarra superior, disco de metal.\nTamanho (C × L × A): 300 mm × 100 mm × 410 mm\nMassa do disco de metal: 30 g\n\n3\nh\n\nO resultado do cálculo da etapa 2, em joule, é:\n\nA. 4,10 × 10−²\nB. 8,20 × 10−²\nC. 1,23 × 10−¹\nD. 8,20 × 10⁴\nE. 1,23 × 10⁵"
+    },
+    {
+      "id": 8,
+      "examQuestionNumber": 98,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 98 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        4
+      ],
+      "statement": "O odor que permanece nas mãos após o contato com\nalho pode ser eliminado pela utilização de um “sabonete\nde aço inoxidável”, constituído de aço inox (74%), cromo\ne níquel. A principal vantagem desse “sabonete” é que\nele não se desgasta com o uso. Considere que a principal\nsubstância responsável pelo odor de alho é a alicina\n(estrutura I) e que, para que o odor seja eliminado, ela\nseja transformada na estrutura II.\nO\nS\nS\nEstrutura I\n\nCH2 ═ CH — CH2 — S — S — CH2 — CH ═ CH2\nEstrutura II\nNa conversão de I em II, o “sabonete” atuará como um",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "ácido.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "redutor.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "eletrólito.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "tensoativo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "catalisador.",
+          "assets": []
+        }
+      ],
+      "rawText": "O odor que permanece nas mãos após o contato com\nalho pode ser eliminado pela utilização de um “sabonete\nde aço inoxidável”, constituído de aço inox (74%), cromo\ne níquel. A principal vantagem desse “sabonete” é que\nele não se desgasta com o uso. Considere que a principal\nsubstância responsável pelo odor de alho é a alicina\n(estrutura I) e que, para que o odor seja eliminado, ela\nseja transformada na estrutura II.\nO\nS\nS\nEstrutura I\n\nCH2 ═ CH — CH2 — S — S — CH2 — CH ═ CH2\nEstrutura II\nNa conversão de I em II, o “sabonete” atuará como um\n\nA. ácido.\nB. redutor.\nC. eletrólito.\nD. tensoativo.\nE. catalisador."
+    },
+    {
+      "id": 9,
+      "examQuestionNumber": 99,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 99 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "statement": "",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "poluição radioativa compreende mais de 200 nuclídeos, sendo que, do ponto de vista de impacto ambiental, destacam-se o césio-137 e o estrôncio-90. A maior contribuição de radionuclídeos antropogênicos no meio marinho ocorreu durante as décadas de 1950 e 1960, como resultado dos testes nucleares realizados na atmosfera. O estrôncio-90 pode se acumular nos organismos vivos e em cadeias alimentares e, em razão de sua semelhança química, pode participar no equilíbrio com carbonato e substituir o cálcio em diversos processos biológicos. FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por radionuclídeos antropogênicos. Química Nova, n. 21, 1998 (adaptado). Ao entrar numa cadeia alimentar da qual o homem\nfaz parte, em qual tecido do organismo humano o\nestrôncio-90 será acumulado predominantemente? Cartilaginoso.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Sanguíneo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Muscular.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Nervoso.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Ósseo. *DO0525AM4* CN - 2º dia | Caderno 5 - AMARELO - Página 5",
+          "assets": []
+        }
+      ],
+      "rawText": "A. poluição radioativa compreende mais de 200 nuclídeos, sendo que, do ponto de vista de impacto ambiental, destacam-se o césio-137 e o estrôncio-90. A maior contribuição de radionuclídeos antropogênicos no meio marinho ocorreu durante as décadas de 1950 e 1960, como resultado dos testes nucleares realizados na atmosfera. O estrôncio-90 pode se acumular nos organismos vivos e em cadeias alimentares e, em razão de sua semelhança química, pode participar no equilíbrio com carbonato e substituir o cálcio em diversos processos biológicos. FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por radionuclídeos antropogênicos. Química Nova, n. 21, 1998 (adaptado). Ao entrar numa cadeia alimentar da qual o homem\nfaz parte, em qual tecido do organismo humano o\nestrôncio-90 será acumulado predominantemente? Cartilaginoso.\nB. Sanguíneo.\nC. Muscular.\nD. Nervoso.\nE. Ósseo. *DO0525AM4* CN - 2º dia | Caderno 5 - AMARELO - Página 5"
+    },
+    {
+      "id": 10,
+      "examQuestionNumber": 100,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 100 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        5
+      ],
+      "statement": "Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas.\nUma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas\ntêm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B.\nAo calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração pA e pB, os amigos\nobservam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B.\nPode-se considerar que as massas de ar comprimido no pneu da bicicleta A, mA, e no pneu da bicicleta B, mB, são\ndiretamente proporcionais aos seus volumes.\nComparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "pA < pB e mA < mB",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "pA > pB e mA < mB",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "pA > pB e mA = mB",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "pA < pB e mA = mB",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "pA > pB e mA > mB",
+          "assets": []
+        }
+      ],
+      "rawText": "Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas.\nUma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas\ntêm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B.\nAo calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração pA e pB, os amigos\nobservam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B.\nPode-se considerar que as massas de ar comprimido no pneu da bicicleta A, mA, e no pneu da bicicleta B, mB, são\ndiretamente proporcionais aos seus volumes.\nComparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:\n\nA. pA < pB e mA < mB\nB. pA > pB e mA < mB\nC. pA > pB e mA = mB\nD. pA < pB e mA = mB\nE. pA > pB e mA > mB"
+    },
+    {
+      "id": 11,
+      "examQuestionNumber": 101,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 101 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "statement": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem\nsendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\nBixina (presente no urucum)\n\nLicopeno (presente no tomate)\n\nβ-caroteno (presente na cenoura e na laranja)\n\nHOOC\n\nHAMERSKI, L.; REZENDE, M. J. C.; SILVA, B. V. Usando as cores da natureza para atender aos desejos do consumidor:\nsubstâncias naturais como corantes na indústria alimentícia. Revista Virtual de Química, n. 3, 2013.\nA propriedade comum às estruturas que confere cor a esses compostos é a presença de",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-101/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-101/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "cadeia conjugada.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "cadeia ramificada.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "átomos de carbonos terciários.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ligações duplas de configuração cis.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "átomos de carbonos de hibridação sp³. *DO0525AM5* CN - 2º dia | Caderno 5 - AMARELO - Página 6",
+          "assets": []
+        }
+      ],
+      "rawText": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem\nsendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\nBixina (presente no urucum)\n\nLicopeno (presente no tomate)\n\nβ-caroteno (presente na cenoura e na laranja)\n\nHOOC\n\nHAMERSKI, L.; REZENDE, M. J. C.; SILVA, B. V. Usando as cores da natureza para atender aos desejos do consumidor:\nsubstâncias naturais como corantes na indústria alimentícia. Revista Virtual de Química, n. 3, 2013.\nA propriedade comum às estruturas que confere cor a esses compostos é a presença de\n\nA. cadeia conjugada.\nB. cadeia ramificada.\nC. átomos de carbonos terciários.\nD. ligações duplas de configuração cis.\nE. átomos de carbonos de hibridação sp³. *DO0525AM5* CN - 2º dia | Caderno 5 - AMARELO - Página 6"
+    },
+    {
+      "id": 12,
+      "examQuestionNumber": 102,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 102 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        6
+      ],
+      "statement": "As cutias, pequenos roedores das zonas tropicais,\ntransportam pela boca as sementes que caem das\nárvores, mas, em vez de comê-las, enterram-nas em\noutro lugar. Esse procedimento lhes permite salvar a\nmaioria de suas sementes enterradas para as épocas\nmais secas, quando não há frutos maduros disponíveis.\nCientistas descobriram que as cutias roubam as\nsementes enterradas por outras, e esse comportamento\nde “ladroagem” faz com que uma mesma semente possa\nser enterrada dezenas de vezes.\nDisponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.\nEssa “ladroagem” está associada à relação de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "sinfilia.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "predatismo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "parasitismo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "competição.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "comensalismo.",
+          "assets": []
+        }
+      ],
+      "rawText": "As cutias, pequenos roedores das zonas tropicais,\ntransportam pela boca as sementes que caem das\nárvores, mas, em vez de comê-las, enterram-nas em\noutro lugar. Esse procedimento lhes permite salvar a\nmaioria de suas sementes enterradas para as épocas\nmais secas, quando não há frutos maduros disponíveis.\nCientistas descobriram que as cutias roubam as\nsementes enterradas por outras, e esse comportamento\nde “ladroagem” faz com que uma mesma semente possa\nser enterrada dezenas de vezes.\nDisponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.\nEssa “ladroagem” está associada à relação de\n\nA. sinfilia.\nB. predatismo.\nC. parasitismo.\nD. competição.\nE. comensalismo."
+    },
+    {
+      "id": 13,
+      "examQuestionNumber": 103,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 103 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        6
+      ],
+      "statement": "Os olhos humanos normalmente têm três tipos de\ncones responsáveis pela percepção das cores: um tipo\npara tons vermelhos, um para tons azuis e outro para tons\nverdes. As diversas cores que enxergamos são o resultado\nda percepção das cores básicas, como indica a figura.\n\nA protanopia é um tipo de daltonismo em que há\ndiminuição ou ausência de receptores da cor vermelha.\nConsidere um teste com dois voluntários: uma pessoa\ncom visão normal e outra com caso severo de protanopia.\nNesse teste, eles devem escrever a cor dos cartões que\nlhes são mostrados. São utilizadas as cores indicadas\nna figura.\nPara qual cartão os dois voluntários identificarão a\nmesma cor?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-103/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-103/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-103/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Vermelho.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Magenta.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Amarelo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Branco.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Azul.",
+          "assets": []
+        }
+      ],
+      "rawText": "Os olhos humanos normalmente têm três tipos de\ncones responsáveis pela percepção das cores: um tipo\npara tons vermelhos, um para tons azuis e outro para tons\nverdes. As diversas cores que enxergamos são o resultado\nda percepção das cores básicas, como indica a figura.\n\nA protanopia é um tipo de daltonismo em que há\ndiminuição ou ausência de receptores da cor vermelha.\nConsidere um teste com dois voluntários: uma pessoa\ncom visão normal e outra com caso severo de protanopia.\nNesse teste, eles devem escrever a cor dos cartões que\nlhes são mostrados. São utilizadas as cores indicadas\nna figura.\nPara qual cartão os dois voluntários identificarão a\nmesma cor?\n\nA. Vermelho.\nB. Magenta.\nC. Amarelo.\nD. Branco.\nE. Azul."
+    },
+    {
+      "id": 14,
+      "examQuestionNumber": 104,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 104 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        6
+      ],
+      "statement": "A cada safra, a quantidade de café beneficiado\né igual à quantidade de resíduos gerados pelo seu\nbeneficiamento. O resíduo pode ser utilizado como\nfertilizante, pois contém cerca de 6,5% de pectina\n(um polissacarídeo), aproximadamente 25% de açúcares\nfermentáveis (frutose, sacarose e galactose), bem como\nresíduos de alcaloides (compostos aminados) que não\nforam extraídos no processo.\nLIMA, L. K. S. et al. Utilização de resíduo oriundo da torrefação do\ncafé na agricultura em substituição à adubação convencional.\nACSA — Agropecuária Científica no Semi-Árido,\nv. 10, n. 1, jan.-mar., 2014 (adaptado).\nEsse resíduo contribui para a fertilidade do solo, pois",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "possibilita a reciclagem de carbono e nitrogênio.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "promove o deslocamento do alumínio, que é tóxico.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "melhora a compactação do solo por causa da presença de pectina.\nD eleva o pH do solo em função da degradação dos componentes do resíduo.\nE apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "A cada safra, a quantidade de café beneficiado\né igual à quantidade de resíduos gerados pelo seu\nbeneficiamento. O resíduo pode ser utilizado como\nfertilizante, pois contém cerca de 6,5% de pectina\n(um polissacarídeo), aproximadamente 25% de açúcares\nfermentáveis (frutose, sacarose e galactose), bem como\nresíduos de alcaloides (compostos aminados) que não\nforam extraídos no processo.\nLIMA, L. K. S. et al. Utilização de resíduo oriundo da torrefação do\ncafé na agricultura em substituição à adubação convencional.\nACSA — Agropecuária Científica no Semi-Árido,\nv. 10, n. 1, jan.-mar., 2014 (adaptado).\nEsse resíduo contribui para a fertilidade do solo, pois\n\nA. possibilita a reciclagem de carbono e nitrogênio.\nB. promove o deslocamento do alumínio, que é tóxico.\nC. melhora a compactação do solo por causa da presença de pectina.\nD eleva o pH do solo em função da degradação dos componentes do resíduo.\nE apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.\nD.\nE."
+    },
+    {
+      "id": 15,
+      "examQuestionNumber": 105,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 105 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "statement": "Um alimento orgânico deve apresentar em sua\nembalagem o selo de uma instituição certificadora,\ngarantindo ao consumidor que, além de ser um alimento\nisento de agrotóxicos, também é produzido com técnicas\nplanejadas e controladas. A técnica de produção desses\nalimentos causa menor impacto aos recursos naturais,\ncontribuindo para melhorar a qualidade de vida das\npessoas.\nNesse sistema de produção de alimentos vegetais, o\ncontrole de insetos é manejado por meio do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "prática de adubação verde.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "emprego da compostagem.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "controle da irrigação do solo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "utilização de predadores naturais.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "uso de sementes inoculadas com Rhizobium. *DO0525AM6* CN - 2º dia | Caderno 5 - AMARELO - Página 7",
+          "assets": []
+        }
+      ],
+      "rawText": "Um alimento orgânico deve apresentar em sua\nembalagem o selo de uma instituição certificadora,\ngarantindo ao consumidor que, além de ser um alimento\nisento de agrotóxicos, também é produzido com técnicas\nplanejadas e controladas. A técnica de produção desses\nalimentos causa menor impacto aos recursos naturais,\ncontribuindo para melhorar a qualidade de vida das\npessoas.\nNesse sistema de produção de alimentos vegetais, o\ncontrole de insetos é manejado por meio do(a)\n\nA. prática de adubação verde.\nB. emprego da compostagem.\nC. controle da irrigação do solo.\nD. utilização de predadores naturais.\nE. uso de sementes inoculadas com Rhizobium. *DO0525AM6* CN - 2º dia | Caderno 5 - AMARELO - Página 7"
+    },
+    {
+      "id": 16,
+      "examQuestionNumber": 106,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 106 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        7
+      ],
+      "statement": "Com base nos experimentos de plantas de Mendel, foram estabelecidos três princípios básicos, que são\nconhecidos como leis da uniformidade, segregação e distribuição independente. A lei da distribuição independente\nrefere-se ao fato de que os membros de pares diferentes de genes segregam-se independentemente, uns dos\noutros, para a prole.\nTURNPENNY, P. D. Genética médica. Rio de Janeiro: Elsevier, 2009 (adaptado).\nHoje, sabe-se que isso nem sempre é verdade. Por quê?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "A distribuição depende do caráter de dominância ou recessividade do gene.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Os organismos nem sempre herdam cada um dos genes de cada um dos genitores.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "As alterações cromossômicas podem levar a falhas na segregação durante a meiose.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose.",
+          "assets": []
+        }
+      ],
+      "rawText": "Com base nos experimentos de plantas de Mendel, foram estabelecidos três princípios básicos, que são\nconhecidos como leis da uniformidade, segregação e distribuição independente. A lei da distribuição independente\nrefere-se ao fato de que os membros de pares diferentes de genes segregam-se independentemente, uns dos\noutros, para a prole.\nTURNPENNY, P. D. Genética médica. Rio de Janeiro: Elsevier, 2009 (adaptado).\nHoje, sabe-se que isso nem sempre é verdade. Por quê?\n\nA. A distribuição depende do caráter de dominância ou recessividade do gene.\nB. Os organismos nem sempre herdam cada um dos genes de cada um dos genitores.\nC. As alterações cromossômicas podem levar a falhas na segregação durante a meiose.\nD. Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.\nE. O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose."
+    },
+    {
+      "id": 17,
+      "examQuestionNumber": 107,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 107 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        7
+      ],
+      "statement": "Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual,\ntal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto\ncontra um capacete pode durar até 0,5 s, resulta em uma força impulsiva média maior do que o peso do tijolo.\nSuponha que a aceleração gravitacional seja 10 m s−² e que o efeito de resistência do ar seja desprezível.\nA força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "2",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "5",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "20",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "50",
+          "assets": []
+        }
+      ],
+      "rawText": "Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual,\ntal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto\ncontra um capacete pode durar até 0,5 s, resulta em uma força impulsiva média maior do que o peso do tijolo.\nSuponha que a aceleração gravitacional seja 10 m s−² e que o efeito de resistência do ar seja desprezível.\nA força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?\n\nA. 2\nB. 5\nC. 10\nD. 20\nE. 50"
+    },
+    {
+      "id": 18,
+      "examQuestionNumber": 108,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 108 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "statement": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão\npresentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação\nfracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na\ndestilação do petróleo em diferentes faixas de temperaturas.\n\nSANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).\nNa fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-108/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-108/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "suas densidades são maiores.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "o número de ramificações é maior.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "sua solubilidade no petróleo é maior.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "as forças intermoleculares são mais intensas.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "a cadeia carbônica é mais difícil de ser quebrada. *DO0525AM7* CN - 2º dia | Caderno 5 - AMARELO - Página 8",
+          "assets": []
+        }
+      ],
+      "rawText": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão\npresentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação\nfracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na\ndestilação do petróleo em diferentes faixas de temperaturas.\n\nSANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).\nNa fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque\n\nA. suas densidades são maiores.\nB. o número de ramificações é maior.\nC. sua solubilidade no petróleo é maior.\nD. as forças intermoleculares são mais intensas.\nE. a cadeia carbônica é mais difícil de ser quebrada. *DO0525AM7* CN - 2º dia | Caderno 5 - AMARELO - Página 8"
+    },
+    {
+      "id": 19,
+      "examQuestionNumber": 109,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 109 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        8
+      ],
+      "statement": "O espectrômetro de massa de tempo de voo é\num dispositivo utilizado para medir a massa de íons.\nNele, um íon de carga elétrica q é lançado em uma região\nde campo magnético constante B, descrevendo uma\ntrajetória helicoidal, conforme a figura. Essa trajetória\né formada pela composição de um movimento circular\nuniforme no plano yz e uma translação ao longo do eixo x.\nA vantagem desse dispositivo é que a velocidade angular\ndo movimento helicoidal do íon é independente de sua\nvelocidade inicial. O dispositivo então mede o tempo t de\nvoo para N voltas do íon. Logo, com base nos valores\nq, B, N e t, pode-se determinar a massa do íon.\n\ny\n\nz\nx",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-109/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-109/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-109/option-a-01.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "A massa do íon medida por esse dispositivo será qBt N",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-109/option-c-01.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "qBt N",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-109/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "O espectrômetro de massa de tempo de voo é\num dispositivo utilizado para medir a massa de íons.\nNele, um íon de carga elétrica q é lançado em uma região\nde campo magnético constante B, descrevendo uma\ntrajetória helicoidal, conforme a figura. Essa trajetória\né formada pela composição de um movimento circular\nuniforme no plano yz e uma translação ao longo do eixo x.\nA vantagem desse dispositivo é que a velocidade angular\ndo movimento helicoidal do íon é independente de sua\nvelocidade inicial. O dispositivo então mede o tempo t de\nvoo para N voltas do íon. Logo, com base nos valores\nq, B, N e t, pode-se determinar a massa do íon.\n\ny\n\nz\nx\n\nA.\nB. A massa do íon medida por esse dispositivo será qBt N\nC.\nD. qBt N\nE."
+    },
+    {
+      "id": 20,
+      "examQuestionNumber": 110,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 110 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        8
+      ],
+      "statement": "Que avanços tecnológicos têm contribuído para o\ntratamento dessas infecções virais?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-110/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-110/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Melhoria dos métodos de controle dos vetores desses vírus.\nB Fabricação de soros mutagênicos para combate desses vírus.\nC Investimento da indústria em equipamentos de proteção individual.\nD Produção de vacinas que evitam a infecção das células hospedeiras.\nE Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Que avanços tecnológicos têm contribuído para o\ntratamento dessas infecções virais?\n\nA. Melhoria dos métodos de controle dos vetores desses vírus.\nB Fabricação de soros mutagênicos para combate desses vírus.\nC Investimento da indústria em equipamentos de proteção individual.\nD Produção de vacinas que evitam a infecção das células hospedeiras.\nE Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 21,
+      "examQuestionNumber": 111,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 111 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "statement": "O concreto utilizado na construção civil é um\nmaterial formado por cimento misturado a areia, a brita\ne a água. A areia é normalmente extraída de leitos\nde rios e a brita, oriunda da fragmentação de rochas.\nImpactos ambientais gerados no uso do concreto\nestão associados à extração de recursos minerais e ao\ndescarte indiscriminado desse material. Na tentativa\nde reverter esse quadro, foi proposta a utilização de\nconcreto reciclado moído em substituição ao particulado\nrochoso graúdo na fabricação de novo concreto,\nobtendo um material com as mesmas propriedades que\no anterior.\nO benefício ambiental gerado nessa proposta é a\nredução do(a)",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "extração da brita.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "extração de areia.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "consumo de água.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "consumo de concreto.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "fabricação de cimento. *DO0525AM8* CN - 2º dia | Caderno 5 - AMARELO - Página 9",
+          "assets": []
+        }
+      ],
+      "rawText": "O concreto utilizado na construção civil é um\nmaterial formado por cimento misturado a areia, a brita\ne a água. A areia é normalmente extraída de leitos\nde rios e a brita, oriunda da fragmentação de rochas.\nImpactos ambientais gerados no uso do concreto\nestão associados à extração de recursos minerais e ao\ndescarte indiscriminado desse material. Na tentativa\nde reverter esse quadro, foi proposta a utilização de\nconcreto reciclado moído em substituição ao particulado\nrochoso graúdo na fabricação de novo concreto,\nobtendo um material com as mesmas propriedades que\no anterior.\nO benefício ambiental gerado nessa proposta é a\nredução do(a)\n\nA. extração da brita.\nB. extração de areia.\nC. consumo de água.\nD. consumo de concreto.\nE. fabricação de cimento. *DO0525AM8* CN - 2º dia | Caderno 5 - AMARELO - Página 9"
+    },
+    {
+      "id": 22,
+      "examQuestionNumber": 112,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 112 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        9
+      ],
+      "statement": "A fluidez da membrana celular é caracterizada pela\ncapacidade de movimento das moléculas componentes\ndessa estrutura. Os seres vivos mantêm essa\npropriedade de duas formas: controlando a temperatura\ne/ou alterando a composição lipídica da membrana.\nNeste último aspecto, o tamanho e o grau de insaturação\ndas caudas hidrocarbônicas dos fosfolipídios, conforme\nrepresentados na figura, influenciam significativamente\na fluidez. Isso porque quanto maior for a magnitude das\ninterações entre os fosfolipídios, menor será a fluidez da\nmembrana.\nRepresentação simplificada da estrutura\nde um fosfolipídio\n\nCaudas\nhidrocarbônicas\nCabeça\npolar\n\nInsaturação\n\nAssim, existem bicamadas lipídicas com diferentes\ncomposições de fosfolipídios, como as mostradas de I a V.\n\nQual das bicamadas lipídicas apresentadas possui\nmaior fluidez?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "I",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "II",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "III",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "IV",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "V",
+          "assets": []
+        }
+      ],
+      "rawText": "A fluidez da membrana celular é caracterizada pela\ncapacidade de movimento das moléculas componentes\ndessa estrutura. Os seres vivos mantêm essa\npropriedade de duas formas: controlando a temperatura\ne/ou alterando a composição lipídica da membrana.\nNeste último aspecto, o tamanho e o grau de insaturação\ndas caudas hidrocarbônicas dos fosfolipídios, conforme\nrepresentados na figura, influenciam significativamente\na fluidez. Isso porque quanto maior for a magnitude das\ninterações entre os fosfolipídios, menor será a fluidez da\nmembrana.\nRepresentação simplificada da estrutura\nde um fosfolipídio\n\nCaudas\nhidrocarbônicas\nCabeça\npolar\n\nInsaturação\n\nAssim, existem bicamadas lipídicas com diferentes\ncomposições de fosfolipídios, como as mostradas de I a V.\n\nQual das bicamadas lipídicas apresentadas possui\nmaior fluidez?\n\nA. I\nB. II\nC. III\nD. IV\nE. V"
+    },
+    {
+      "id": 23,
+      "examQuestionNumber": 113,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 113 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        9
+      ],
+      "statement": "Em uma aula experimental de calorimetria, uma\nprofessora queimou 2,5 g de castanha-de-caju crua para\naquecer 350 g de água, em um recipiente apropriado\npara diminuir as perdas de calor. Com base na leitura da\ntabela nutricional a seguir e da medida da temperatura da\nágua, após a queima total do combustível, ela concluiu\nque 50% da energia disponível foi aproveitada. O calor\nespecífico da água é 1 cal g−¹ °C−¹, e sua temperatura\ninicial era de 20 °C.\nQuantidade por porção de 10 g (2 castanhas)\nValor energético\n70 kcal\nCarboidratos\n0,8 g\nProteínas\n3,5 g\nGorduras totais\n3,5 g\nQual foi a temperatura da água, em grau Celsius,\nmedida ao final do experimento?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "25",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "27",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "45",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "50",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "70",
+          "assets": []
+        }
+      ],
+      "rawText": "Em uma aula experimental de calorimetria, uma\nprofessora queimou 2,5 g de castanha-de-caju crua para\naquecer 350 g de água, em um recipiente apropriado\npara diminuir as perdas de calor. Com base na leitura da\ntabela nutricional a seguir e da medida da temperatura da\nágua, após a queima total do combustível, ela concluiu\nque 50% da energia disponível foi aproveitada. O calor\nespecífico da água é 1 cal g−¹ °C−¹, e sua temperatura\ninicial era de 20 °C.\nQuantidade por porção de 10 g (2 castanhas)\nValor energético\n70 kcal\nCarboidratos\n0,8 g\nProteínas\n3,5 g\nGorduras totais\n3,5 g\nQual foi a temperatura da água, em grau Celsius,\nmedida ao final do experimento?\n\nA. 25\nB. 27\nC. 45\nD. 50\nE. 70"
+    },
+    {
+      "id": 24,
+      "examQuestionNumber": 114,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 114 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "statement": "Grupos de pesquisa em todo o mundo vêm buscando\nsoluções inovadoras, visando a produção de dispositivos\npara a geração de energia elétrica. Dentre eles,\npode-se destacar as baterias de zinco-ar, que combinam\no oxigênio atmosférico e o metal zinco em um eletrólito\naquoso de caráter alcalino. O esquema de funcionamento\nda bateria zinco-ar está apresentado na figura.\n\nMembrana separadora\nEletrodo poroso\nEletrodo de zinco\n\nLI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries.\nChemical Society Reviews, v. 43, n. 15, 2014 (adaptado).\nNo funcionamento da bateria, a espécie química formada\nno ânodo é",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-02.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-03.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-04.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-05.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-06.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-07.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-08.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-09.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-10.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-11.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-12.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-13.png",
+        "/generated/enem-2019/ciencias-natureza/question-114/statement-14.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-114/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "H₂ (g).",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "O₂ (g).",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "H₂O (l).",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "OH− (aq).",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "CN - 2º dia | Caderno 5 - AMARELO - Página 10",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-114/option-e-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-114/option-e-02.png"
+          ]
+        }
+      ],
+      "rawText": "Grupos de pesquisa em todo o mundo vêm buscando\nsoluções inovadoras, visando a produção de dispositivos\npara a geração de energia elétrica. Dentre eles,\npode-se destacar as baterias de zinco-ar, que combinam\no oxigênio atmosférico e o metal zinco em um eletrólito\naquoso de caráter alcalino. O esquema de funcionamento\nda bateria zinco-ar está apresentado na figura.\n\nMembrana separadora\nEletrodo poroso\nEletrodo de zinco\n\nLI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries.\nChemical Society Reviews, v. 43, n. 15, 2014 (adaptado).\nNo funcionamento da bateria, a espécie química formada\nno ânodo é\n\nA. H₂ (g).\nB. O₂ (g).\nC. H₂O (l).\nD. OH− (aq).\nE. CN - 2º dia | Caderno 5 - AMARELO - Página 10"
+    },
+    {
+      "id": 25,
+      "examQuestionNumber": 115,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 115 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        10
+      ],
+      "statement": "BILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente.\nQuímica Nova, v. 26, n. 4, ago. 2003 (adaptado).",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-115/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-115/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-115/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Utilização de esterco como fertilizante na agricultura.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Ampliação das redes de coleta de esgoto na zona urbana.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Descarte dos medicamentos fora do prazo de validade em lixões.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Desenvolvimento de novos processos nas estações de tratamento de efluentes.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura.",
+          "assets": []
+        }
+      ],
+      "rawText": "BILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente.\nQuímica Nova, v. 26, n. 4, ago. 2003 (adaptado).\n\nA. Utilização de esterco como fertilizante na agricultura.\nB. Ampliação das redes de coleta de esgoto na zona urbana.\nC. Descarte dos medicamentos fora do prazo de validade em lixões.\nD. Desenvolvimento de novos processos nas estações de tratamento de efluentes.\nE. Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura."
+    },
+    {
+      "id": 26,
+      "examQuestionNumber": 116,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 116 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        10
+      ],
+      "statement": "Um teste de laboratório permite identificar alguns\ncátions metálicos ao introduzir uma pequena quantidade\ndo material de interesse em uma chama de bico de\nBunsen para, em seguida, observar a cor da luz emitida.\nA cor observada é proveniente da emissão de radiação\neletromagnética ao ocorrer a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "mudança da fase sólida para a fase líquida do elemento metálico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "promoção dos elétrons que se encontram no",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-116/option-e-01.png"
+          ]
+        }
+      ],
+      "rawText": "Um teste de laboratório permite identificar alguns\ncátions metálicos ao introduzir uma pequena quantidade\ndo material de interesse em uma chama de bico de\nBunsen para, em seguida, observar a cor da luz emitida.\nA cor observada é proveniente da emissão de radiação\neletromagnética ao ocorrer a\n\nA. mudança da fase sólida para a fase líquida do elemento metálico.\nB. combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.\nC. diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.\nD. transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.\nE. promoção dos elétrons que se encontram no"
+    },
+    {
+      "id": 27,
+      "examQuestionNumber": 117,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 117 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "statement": "Slackline é um esporte no qual o atleta deve se\nequilibrar e executar manobras estando sobre uma fita\nesticada. Para a prática do esporte, as duas extremidades\nda fita são fixadas de forma que ela fique a alguns\ncentímetros do solo. Quando uma atleta de massa\nigual a 80 kg está exatamente no meio da fita, essa se\ndesloca verticalmente, formando um ângulo de 10° com a\nhorizontal, como esquematizado na figura. Sabe-se que a\naceleração da gravidade é igual a 10 m s−², cos(10°) = 0,98\ne sen(10°) = 0,17.\n\nQual é a força que a fita exerce em cada uma das\nárvores por causa da presença da atleta?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "4,0 × 10² N",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "4,1 × 10² N",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "8,0 × 10² N",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "2,4 × 10³ N",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "4,7 × 10³ N *DO0525AM10* CN - 2º dia | Caderno 5 - AMARELO - Página 11",
+          "assets": []
+        }
+      ],
+      "rawText": "Slackline é um esporte no qual o atleta deve se\nequilibrar e executar manobras estando sobre uma fita\nesticada. Para a prática do esporte, as duas extremidades\nda fita são fixadas de forma que ela fique a alguns\ncentímetros do solo. Quando uma atleta de massa\nigual a 80 kg está exatamente no meio da fita, essa se\ndesloca verticalmente, formando um ângulo de 10° com a\nhorizontal, como esquematizado na figura. Sabe-se que a\naceleração da gravidade é igual a 10 m s−², cos(10°) = 0,98\ne sen(10°) = 0,17.\n\nQual é a força que a fita exerce em cada uma das\nárvores por causa da presença da atleta?\n\nA. 4,0 × 10² N\nB. 4,1 × 10² N\nC. 8,0 × 10² N\nD. 2,4 × 10³ N\nE. 4,7 × 10³ N *DO0525AM10* CN - 2º dia | Caderno 5 - AMARELO - Página 11"
+    },
+    {
+      "id": 28,
+      "examQuestionNumber": 118,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 118 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        11
+      ],
+      "statement": "Na piscicultura, costumam-se usar larvas de\nArtemia (crustáceo) para alimentar larvas de peixes.\nOvos de Artemia são colocados em garrafas com água\nsalgada e, sob condições ótimas de temperatura, luz e\noxigênio, eles eclodem, liberando suas larvas, também\nconhecidas como náuplios. Para recolher os náuplios,\ncoloca-se uma lâmpada branca fluorescente na boca da\ngarrafa e estes começam a subir em direção ao gargalo.\nEsse comportamento das artêmias é chamado de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "geotropismo positivo.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "fototropismo positivo.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "hidrotropismo negativo.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "termotropismo negativo.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "quimiotropismo negativo.",
+          "assets": []
+        }
+      ],
+      "rawText": "Na piscicultura, costumam-se usar larvas de\nArtemia (crustáceo) para alimentar larvas de peixes.\nOvos de Artemia são colocados em garrafas com água\nsalgada e, sob condições ótimas de temperatura, luz e\noxigênio, eles eclodem, liberando suas larvas, também\nconhecidas como náuplios. Para recolher os náuplios,\ncoloca-se uma lâmpada branca fluorescente na boca da\ngarrafa e estes começam a subir em direção ao gargalo.\nEsse comportamento das artêmias é chamado de\n\nA. geotropismo positivo.\nB. fototropismo positivo.\nC. hidrotropismo negativo.\nD. termotropismo negativo.\nE. quimiotropismo negativo."
+    },
+    {
+      "id": 29,
+      "examQuestionNumber": 119,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 119 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        11
+      ],
+      "statement": "Por\nterem\ncamada\nde\nvalência\ncompleta,\nalta energia de ionização e afinidade eletrônica\npraticamente nula, considerou-se por muito tempo que\nos gases nobres não formariam compostos químicos.\nPorém, em 1962, foi realizada com sucesso a reação\nentre o xenônio (camada de valência 5s²5p⁶) e o\nhexafluoreto de platina e, desde então, mais compostos\nnovos de gases nobres vêm sendo sintetizados.\nTais compostos demonstram que não se pode aceitar\nacriticamente a regra do octeto, na qual se considera\nque, numa ligação química, os átomos tendem a adquirir\nestabilidade assumindo a configuração eletrônica de\ngás nobre. Dentre os compostos conhecidos, um dos\nmais estáveis é o difluoreto de xenônio, no qual dois\nátomos do halogênio flúor (camada de valência 2s²2p⁵)\nse ligam covalentemente ao átomo de gás nobre para\nficarem com oito elétrons de valência.\nAo se escrever a fórmula de Lewis do composto de\nxenônio citado, quantos elétrons na camada de valência\nhaverá no átomo do gás nobre?",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "6",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "8",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "10",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "12",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "14",
+          "assets": []
+        }
+      ],
+      "rawText": "Por\nterem\ncamada\nde\nvalência\ncompleta,\nalta energia de ionização e afinidade eletrônica\npraticamente nula, considerou-se por muito tempo que\nos gases nobres não formariam compostos químicos.\nPorém, em 1962, foi realizada com sucesso a reação\nentre o xenônio (camada de valência 5s²5p⁶) e o\nhexafluoreto de platina e, desde então, mais compostos\nnovos de gases nobres vêm sendo sintetizados.\nTais compostos demonstram que não se pode aceitar\nacriticamente a regra do octeto, na qual se considera\nque, numa ligação química, os átomos tendem a adquirir\nestabilidade assumindo a configuração eletrônica de\ngás nobre. Dentre os compostos conhecidos, um dos\nmais estáveis é o difluoreto de xenônio, no qual dois\nátomos do halogênio flúor (camada de valência 2s²2p⁵)\nse ligam covalentemente ao átomo de gás nobre para\nficarem com oito elétrons de valência.\nAo se escrever a fórmula de Lewis do composto de\nxenônio citado, quantos elétrons na camada de valência\nhaverá no átomo do gás nobre?\n\nA. 6\nB. 8\nC. 10\nD. 12\nE. 14"
+    },
+    {
+      "id": 30,
+      "examQuestionNumber": 120,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 120 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        11,
+        12
+      ],
+      "statement": "Na madrugada de 11 de março de 1978, partes de\num foguete soviético reentraram na atmosfera acima da\ncidade do Rio de Janeiro e caíram no Oceano Atlântico.\nFoi um belo espetáculo, os inúmeros fragmentos\nentrando em ignição devido ao atrito com a atmosfera\nbrilharam intensamente, enquanto “cortavam o céu”.\nMas se a reentrada tivesse acontecido alguns minutos\ndepois, teríamos uma tragédia, pois a queda seria na\nárea urbana do Rio de Janeiro e não no oceano.\n\nLAS CASAS, R. Lixo espacial. Observatório Astronômico Frei Rosário,\nICEx, UFMG. Disponível em: www.observatorio.ufmg.br.\nAcesso em: 27 set. 2011 (adaptado).\nDe acordo com os fatos relatados, a velocidade angular\ndo foguete em relação à Terra no ponto de reentrada era",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-120/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-120/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "igual à da Terra e no mesmo sentido.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "superior à da Terra e no mesmo sentido.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "inferior à da Terra e no sentido oposto.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "igual à da Terra e no sentido oposto.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "superior à da Terra e no sentido oposto. *DO0525AM11* CN - 2º dia | Caderno 5 - AMARELO - Página 12",
+          "assets": []
+        }
+      ],
+      "rawText": "Na madrugada de 11 de março de 1978, partes de\num foguete soviético reentraram na atmosfera acima da\ncidade do Rio de Janeiro e caíram no Oceano Atlântico.\nFoi um belo espetáculo, os inúmeros fragmentos\nentrando em ignição devido ao atrito com a atmosfera\nbrilharam intensamente, enquanto “cortavam o céu”.\nMas se a reentrada tivesse acontecido alguns minutos\ndepois, teríamos uma tragédia, pois a queda seria na\nárea urbana do Rio de Janeiro e não no oceano.\n\nLAS CASAS, R. Lixo espacial. Observatório Astronômico Frei Rosário,\nICEx, UFMG. Disponível em: www.observatorio.ufmg.br.\nAcesso em: 27 set. 2011 (adaptado).\nDe acordo com os fatos relatados, a velocidade angular\ndo foguete em relação à Terra no ponto de reentrada era\n\nA. igual à da Terra e no mesmo sentido.\nB. superior à da Terra e no mesmo sentido.\nC. inferior à da Terra e no sentido oposto.\nD. igual à da Terra e no sentido oposto.\nE. superior à da Terra e no sentido oposto. *DO0525AM11* CN - 2º dia | Caderno 5 - AMARELO - Página 12"
+    },
+    {
+      "id": 31,
+      "examQuestionNumber": 121,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 121 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        12
+      ],
+      "statement": "A eritropoetina (EPO) é um hormônio endógeno\nsecretado pelos rins que influencia a maturação dos\neritrócitos. Suas formas recombinantes, sintetizadas\nem laboratório, têm sido usadas por alguns atletas em\nesportes de resistência na busca por melhores resultados.\nNo entanto, a administração da EPO recombinante no\nesporte foi proibida pelo Comitê Olímpico Internacional\ne seu uso considerado doping.\nMARTELLI, A. Eritropoetina: síntese e liberação fisiológica e o uso de\nsua forma recombinante no esporte. Perspectivas Online:\nbiológicas & saúde, v. 10, n. 3, 2013 (adaptado).\nUma influência que esse doping poderá exercer na\nmelhoria da capacidade física desses atletas está\nrelacionada ao transporte de",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "lipídios, para aumento do gasto calórico.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "ATP, para aumento da síntese hormonal.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "oxigênio, para aumento da produção de ATP.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "proteínas, para aumento da massa muscular.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "vitamina C, para aumento da integridade dos vasos sanguíneos.",
+          "assets": []
+        }
+      ],
+      "rawText": "A eritropoetina (EPO) é um hormônio endógeno\nsecretado pelos rins que influencia a maturação dos\neritrócitos. Suas formas recombinantes, sintetizadas\nem laboratório, têm sido usadas por alguns atletas em\nesportes de resistência na busca por melhores resultados.\nNo entanto, a administração da EPO recombinante no\nesporte foi proibida pelo Comitê Olímpico Internacional\ne seu uso considerado doping.\nMARTELLI, A. Eritropoetina: síntese e liberação fisiológica e o uso de\nsua forma recombinante no esporte. Perspectivas Online:\nbiológicas & saúde, v. 10, n. 3, 2013 (adaptado).\nUma influência que esse doping poderá exercer na\nmelhoria da capacidade física desses atletas está\nrelacionada ao transporte de\n\nA. lipídios, para aumento do gasto calórico.\nB. ATP, para aumento da síntese hormonal.\nC. oxigênio, para aumento da produção de ATP.\nD. proteínas, para aumento da massa muscular.\nE. vitamina C, para aumento da integridade dos vasos sanguíneos."
+    },
+    {
+      "id": 32,
+      "examQuestionNumber": 122,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 122 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        12
+      ],
+      "statement": "O objetivo de recipientes isolantes térmicos é\nminimizar as trocas de calor com o ambiente externo.\nEssa troca de calor é proporcional à condutividade\ntérmica k e à área interna das faces do recipiente,\nbem como à diferença de temperatura entre o\nambiente externo e o interior do recipiente, além de ser\ninversamente proporcional à espessura das faces.\nA fim de avaliar a qualidade de dois recipientes\nA (40 cm × 40 cm × 40 cm) e B (60 cm × 40 cm × 40 cm),\nde faces de mesma espessura, uma estudante compara\nsuas condutividades térmicas kA e kB. Para isso suspende,\ndentro de cada recipiente, blocos idênticos de gelo a\n0 °C, de modo que suas superfícies estejam em contato\napenas com o ar. Após um intervalo de tempo, ela abre\nos recipientes enquanto ambos ainda contêm um pouco\nde gelo e verifica que a massa de gelo que se fundiu no\nrecipiente B foi o dobro da que se fundiu no recipiente A.\n\né mais próxima de",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-122/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-122/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "0,50.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "0,67.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "0,75.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "1,33.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "2,00.",
+          "assets": []
+        }
+      ],
+      "rawText": "O objetivo de recipientes isolantes térmicos é\nminimizar as trocas de calor com o ambiente externo.\nEssa troca de calor é proporcional à condutividade\ntérmica k e à área interna das faces do recipiente,\nbem como à diferença de temperatura entre o\nambiente externo e o interior do recipiente, além de ser\ninversamente proporcional à espessura das faces.\nA fim de avaliar a qualidade de dois recipientes\nA (40 cm × 40 cm × 40 cm) e B (60 cm × 40 cm × 40 cm),\nde faces de mesma espessura, uma estudante compara\nsuas condutividades térmicas kA e kB. Para isso suspende,\ndentro de cada recipiente, blocos idênticos de gelo a\n0 °C, de modo que suas superfícies estejam em contato\napenas com o ar. Após um intervalo de tempo, ela abre\nos recipientes enquanto ambos ainda contêm um pouco\nde gelo e verifica que a massa de gelo que se fundiu no\nrecipiente B foi o dobro da que se fundiu no recipiente A.\n\né mais próxima de\n\nA. 0,50.\nB. 0,67.\nC. 0,75.\nD. 1,33.\nE. 2,00."
+    },
+    {
+      "id": 33,
+      "examQuestionNumber": 123,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 123 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        12,
+        13
+      ],
+      "statement": "Estudos mostram o desenvolvimento de biochips\nutilizados para auxiliar o diagnóstico de diabetes melito,\ndoença evidenciada pelo excesso de glicose no organismo.\nO teste é simples e consiste em duas reações sequenciais\nna superfície do biochip, entre a amostra de soro sanguíneo\ndo paciente, enzimas específicas e reagente (iodeto de\npotássio, KI), conforme mostrado na imagem.\n\nEnzimas\nKI\n\nCor\nSoro\n\nFluxo\n(i) Biochip antes da adição de soro\n\n(ii) Biochip após a adição de soro",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-123/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-123/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "análise.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "síntese.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6H₁₂O₆ (aq) + O₂ (g) + H₂O (l) Enzimas 6H₁₂O₇ (aq) + H₂O₂ (aq) Na segunda, o peróxido de hidrogênio reage com\níons iodeto gerando o íon tri-iodeto, água e oxigênio. Equação 2 2 H₂O₂ (aq) + 3 l− (aq)\nI₃ − (aq) + 2 H₂O (I) + O₂ (g) GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate Microfluidic Paper-Based Analytical Devices with Chemically Modified Surface for Clinical Assays. RSC Advances, v. 4, 13 ago. 2014 (adaptado). O tipo de reação que ocorre na superfície do biochip,\nnas duas reações do processo, é oxirredução.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "complexação.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "ácido-base. *DO0525AM12* CN - 2º dia | Caderno 5 - AMARELO - Página 13",
+          "assets": []
+        }
+      ],
+      "rawText": "Estudos mostram o desenvolvimento de biochips\nutilizados para auxiliar o diagnóstico de diabetes melito,\ndoença evidenciada pelo excesso de glicose no organismo.\nO teste é simples e consiste em duas reações sequenciais\nna superfície do biochip, entre a amostra de soro sanguíneo\ndo paciente, enzimas específicas e reagente (iodeto de\npotássio, KI), conforme mostrado na imagem.\n\nEnzimas\nKI\n\nCor\nSoro\n\nFluxo\n(i) Biochip antes da adição de soro\n\n(ii) Biochip após a adição de soro\n\nA. análise.\nB. síntese.\nC. 6H₁₂O₆ (aq) + O₂ (g) + H₂O (l) Enzimas 6H₁₂O₇ (aq) + H₂O₂ (aq) Na segunda, o peróxido de hidrogênio reage com\níons iodeto gerando o íon tri-iodeto, água e oxigênio. Equação 2 2 H₂O₂ (aq) + 3 l− (aq)\nI₃ − (aq) + 2 H₂O (I) + O₂ (g) GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate Microfluidic Paper-Based Analytical Devices with Chemically Modified Surface for Clinical Assays. RSC Advances, v. 4, 13 ago. 2014 (adaptado). O tipo de reação que ocorre na superfície do biochip,\nnas duas reações do processo, é oxirredução.\nD. complexação.\nE. ácido-base. *DO0525AM12* CN - 2º dia | Caderno 5 - AMARELO - Página 13"
+    },
+    {
+      "id": 34,
+      "examQuestionNumber": 124,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 124 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "Em 1962, um jingle (vinheta musical) criado por Heitor Carillo fez tanto sucesso que extrapolou as fronteiras do\nrádio e chegou à televisão ilustrado por um desenho animado. Nele, uma pessoa respondia ao fantasma que batia\nem sua porta, personificando o “frio”, que não o deixaria entrar, pois não abriria a porta e compraria lãs e cobertores\npara aquecer sua casa. Apesar de memorável, tal comercial televisivo continha incorreções a respeito de conceitos\nfísicos relativos à calorimetria.\nDUARTE, M. Jingle é a alma do negócio: livro revela os bastidores das músicas de propagandas.\nDisponível em: https://guiadoscuriosos.uol.com.br. Acesso em: 24 abr. 2019 (adaptado).\nPara solucionar essas incorreções, deve-se associar à porta e aos cobertores, respectivamente, as funções de:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Aquecer a casa e os corpos.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Evitar a entrada do frio na casa e nos corpos.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Minimizar a perda de calor pela casa e pelos corpos.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Diminuir a entrada do frio na casa e aquecer os corpos.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Aquecer a casa e reduzir a perda de calor pelos corpos.",
+          "assets": []
+        }
+      ],
+      "rawText": "Em 1962, um jingle (vinheta musical) criado por Heitor Carillo fez tanto sucesso que extrapolou as fronteiras do\nrádio e chegou à televisão ilustrado por um desenho animado. Nele, uma pessoa respondia ao fantasma que batia\nem sua porta, personificando o “frio”, que não o deixaria entrar, pois não abriria a porta e compraria lãs e cobertores\npara aquecer sua casa. Apesar de memorável, tal comercial televisivo continha incorreções a respeito de conceitos\nfísicos relativos à calorimetria.\nDUARTE, M. Jingle é a alma do negócio: livro revela os bastidores das músicas de propagandas.\nDisponível em: https://guiadoscuriosos.uol.com.br. Acesso em: 24 abr. 2019 (adaptado).\nPara solucionar essas incorreções, deve-se associar à porta e aos cobertores, respectivamente, as funções de:\n\nA. Aquecer a casa e os corpos.\nB. Evitar a entrada do frio na casa e nos corpos.\nC. Minimizar a perda de calor pela casa e pelos corpos.\nD. Diminuir a entrada do frio na casa e aquecer os corpos.\nE. Aquecer a casa e reduzir a perda de calor pelos corpos."
+    },
+    {
+      "id": 35,
+      "examQuestionNumber": 125,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 125 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        13
+      ],
+      "statement": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios\nfísicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O₂.\nEntretanto, em alguns casos, as células musculares podem sofrer um déficit de O₂ e a glicose ser convertida em\nduas moléculas de ácido lático. As equações termoquímicas para a combustão da glicose e do ácido lático são,\nrespectivamente, mostradas a seguir:",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "libera 112 kJ por mol de glicose.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "libera 467 kJ por mol de glicose.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "6H₁₂O₆ (s) + 6 O₂ (g) →₆ CO₂ (g) + 6 H₂O (l) ∆cH = −2 800 kJ CH₃CH(OH)COOH (s) + 3 O₂ (g) →₃ CO₂ (g) + 3 H₂O (l) ∆cH = −1 344 kJ O processo anaeróbico é menos vantajoso energeticamente porque libera 2 688 kJ por mol de glicose.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "absorve 1 344 kJ por mol de glicose.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "absorve 2 800 kJ por mol de glicose.",
+          "assets": []
+        }
+      ],
+      "rawText": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios\nfísicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O₂.\nEntretanto, em alguns casos, as células musculares podem sofrer um déficit de O₂ e a glicose ser convertida em\nduas moléculas de ácido lático. As equações termoquímicas para a combustão da glicose e do ácido lático são,\nrespectivamente, mostradas a seguir:\n\nA. libera 112 kJ por mol de glicose.\nB. libera 467 kJ por mol de glicose.\nC. 6H₁₂O₆ (s) + 6 O₂ (g) →₆ CO₂ (g) + 6 H₂O (l) ∆cH = −2 800 kJ CH₃CH(OH)COOH (s) + 3 O₂ (g) →₃ CO₂ (g) + 3 H₂O (l) ∆cH = −1 344 kJ O processo anaeróbico é menos vantajoso energeticamente porque libera 2 688 kJ por mol de glicose.\nD. absorve 1 344 kJ por mol de glicose.\nE. absorve 2 800 kJ por mol de glicose."
+    },
+    {
+      "id": 36,
+      "examQuestionNumber": 126,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 126 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        13,
+        14
+      ],
+      "statement": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas\npor algumas espécies de seres vivos.\n\nNa recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual\nestratégia?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-126/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-126/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.\nB Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.\nC Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.\nD Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.\nE Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada. *DO0525AM13* CN - 2º dia | Caderno 5 - AMARELO - Página 14",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas\npor algumas espécies de seres vivos.\n\nNa recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual\nestratégia?\n\nA. Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.\nB Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.\nC Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.\nD Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.\nE Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada. *DO0525AM13* CN - 2º dia | Caderno 5 - AMARELO - Página 14\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 37,
+      "examQuestionNumber": 127,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 127 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        14
+      ],
+      "statement": "Uma das técnicas de reciclagem química do polímero PET [poli(tereftalato de etileno)] gera o tereftalato de\nmetila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\nO composto A, representado no esquema de reação, é o",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-127/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-127/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "metano.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "metanol.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "éter metílico.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "ácido etanoico.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "anidrido etanoico.",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma das técnicas de reciclagem química do polímero PET [poli(tereftalato de etileno)] gera o tereftalato de\nmetila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\nO composto A, representado no esquema de reação, é o\n\nA. metano.\nB. metanol.\nC. éter metílico.\nD. ácido etanoico.\nE. anidrido etanoico."
+    },
+    {
+      "id": 38,
+      "examQuestionNumber": 128,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 128 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        14,
+        15
+      ],
+      "statement": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua\nsobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\nALGA VERDE\nANCESTRAL\n\nLegenda:\n1. Embriões protegidos no gametófito.\n2 Tecidos condutores verdadeiros.\n3 Formação de tubo polínico.\n4 Polinização pelo vento.\n5 Produção de frutos.\nHepáticas\nAntóceros\n\nMusgos\nLicófitas (licopódios,\nIsoetes, Selaginella)\nPteridófitas (samambaias,\ncavalinhas, Psilotum)\nGimnospermas\n\nAngiospermas\n\nCAMPBELL, N. et al. Biologia. São Paulo: Artmed, 2010 (adaptado).\nA aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-02.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-03.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-04.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-05.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-06.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-07.png",
+        "/generated/enem-2019/ciencias-natureza/question-128/statement-08.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-128/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "1.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "2.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "3.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "4.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "5. *DO0525AM14* CN - 2º dia | Caderno 5 - AMARELO - Página 15",
+          "assets": []
+        }
+      ],
+      "rawText": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua\nsobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\nALGA VERDE\nANCESTRAL\n\nLegenda:\n1. Embriões protegidos no gametófito.\n2 Tecidos condutores verdadeiros.\n3 Formação de tubo polínico.\n4 Polinização pelo vento.\n5 Produção de frutos.\nHepáticas\nAntóceros\n\nMusgos\nLicófitas (licopódios,\nIsoetes, Selaginella)\nPteridófitas (samambaias,\ncavalinhas, Psilotum)\nGimnospermas\n\nAngiospermas\n\nCAMPBELL, N. et al. Biologia. São Paulo: Artmed, 2010 (adaptado).\nA aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número\n\nA. 1.\nB. 2.\nC. 3.\nD. 4.\nE. 5. *DO0525AM14* CN - 2º dia | Caderno 5 - AMARELO - Página 15"
+    },
+    {
+      "id": 39,
+      "examQuestionNumber": 129,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 129 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children.\nVision Research, n. 46, 2006 (adaptado).\nA acuidade visual associada à redução das pupilas é\nfisicamente explicada pela diminuição",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-129/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-129/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "da intensidade luminosa incidente na retina.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "da difração dos feixes luminosos que atravessam a pupila.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "da intensidade dos feixes luminosos em uma direção por polarização.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "do desvio dos feixes luminosos refratados no interior do olho.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "das reflexões dos feixes luminosos no interior do olho.",
+          "assets": []
+        }
+      ],
+      "rawText": "GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children.\nVision Research, n. 46, 2006 (adaptado).\nA acuidade visual associada à redução das pupilas é\nfisicamente explicada pela diminuição\n\nA. da intensidade luminosa incidente na retina.\nB. da difração dos feixes luminosos que atravessam a pupila.\nC. da intensidade dos feixes luminosos em uma direção por polarização.\nD. do desvio dos feixes luminosos refratados no interior do olho.\nE. das reflexões dos feixes luminosos no interior do olho."
+    },
+    {
+      "id": 40,
+      "examQuestionNumber": 130,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 130 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "O “The Kidney Project” é um projeto realizado por\ncientistas que pretendem desenvolver um rim biônico\nque executará a maioria das funções biológicas\ndo órgão. O rim biônico possuirá duas partes que\nincorporam recentes avanços de nanotecnologia,\nfiltração de membrana e biologia celular. Esse projeto\nsignificará uma grande melhoria na qualidade de vida\npara aquelas pessoas que dependem da hemodiálise\npara sobrevivência.\nDisponível em: https://pharm.ucsf.edu.\nAcesso em: 26 abr. 2019 (adaptado).\nO dispositivo criado promoverá diretamente a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "remoção de ureia.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "excreção de lipídios.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "síntese de vasopressina.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "transformação de amônia.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "fabricação de aldosterona.",
+          "assets": []
+        }
+      ],
+      "rawText": "O “The Kidney Project” é um projeto realizado por\ncientistas que pretendem desenvolver um rim biônico\nque executará a maioria das funções biológicas\ndo órgão. O rim biônico possuirá duas partes que\nincorporam recentes avanços de nanotecnologia,\nfiltração de membrana e biologia celular. Esse projeto\nsignificará uma grande melhoria na qualidade de vida\npara aquelas pessoas que dependem da hemodiálise\npara sobrevivência.\nDisponível em: https://pharm.ucsf.edu.\nAcesso em: 26 abr. 2019 (adaptado).\nO dispositivo criado promoverá diretamente a\n\nA. remoção de ureia.\nB. excreção de lipídios.\nC. síntese de vasopressina.\nD. transformação de amônia.\nE. fabricação de aldosterona."
+    },
+    {
+      "id": 41,
+      "examQuestionNumber": 131,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 131 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        15
+      ],
+      "statement": "Um experimento simples, que pode ser realizado\ncom materiais encontrados em casa, é realizado da\nseguinte forma: adiciona-se um volume de etanol em\num copo de vidro e, em seguida, uma folha de papel.\nCom o passar do tempo, observa-se um comportamento\npeculiar: o etanol se desloca sobre a superfície do papel,\nsuperando a gravidade que o atrai no sentido oposto,\ncomo mostra a imagem. Para parte dos estudantes, isso\nocorre por causa da absorção do líquido pelo papel.\nPapel de filtro\nCopo de vidro\n\nEtanol\n\nDo ponto de vista científico, o que explica o movimento\ndo líquido é a",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "evaporação do líquido.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "diferença de densidades.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "reação química com o papel.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "capilaridade nos poros do papel.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "resistência ao escoamento do líquido.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um experimento simples, que pode ser realizado\ncom materiais encontrados em casa, é realizado da\nseguinte forma: adiciona-se um volume de etanol em\num copo de vidro e, em seguida, uma folha de papel.\nCom o passar do tempo, observa-se um comportamento\npeculiar: o etanol se desloca sobre a superfície do papel,\nsuperando a gravidade que o atrai no sentido oposto,\ncomo mostra a imagem. Para parte dos estudantes, isso\nocorre por causa da absorção do líquido pelo papel.\nPapel de filtro\nCopo de vidro\n\nEtanol\n\nDo ponto de vista científico, o que explica o movimento\ndo líquido é a\n\nA. evaporação do líquido.\nB. diferença de densidades.\nC. reação química com o papel.\nD. capilaridade nos poros do papel.\nE. resistência ao escoamento do líquido."
+    },
+    {
+      "id": 42,
+      "examQuestionNumber": 132,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 132 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        15,
+        16
+      ],
+      "statement": "Quando se considera a extrema velocidade com\nque a luz se espalha por todos os lados e que, quando\nvêm de diferentes lugares, mesmo totalmente opostos,\n[os raios luminosos] se atravessam uns aos outros sem\nse atrapalharem, compreende-se que, quando vemos\num objeto luminoso, isso não poderia ocorrer pelo\ntransporte de uma matéria que venha do objeto até nós,\ncomo uma flecha ou bala atravessa o ar; pois certamente\nisso repugna bastante a essas duas propriedades da\nluz, principalmente a última.\nHUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens.\nCaderno de História e Filosofia da Ciência, supl. 4, 1986.",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-132/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-132/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da\nexistência do éter.\nB O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre\nfeixes luminosos.\nC O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.\nD A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.\nE A ideia defendida pelos gregos de que a luz era produzida pelos olhos. *DO0525AM15* CN - 2º dia | Caderno 5 - AMARELO - Página 16",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Quando se considera a extrema velocidade com\nque a luz se espalha por todos os lados e que, quando\nvêm de diferentes lugares, mesmo totalmente opostos,\n[os raios luminosos] se atravessam uns aos outros sem\nse atrapalharem, compreende-se que, quando vemos\num objeto luminoso, isso não poderia ocorrer pelo\ntransporte de uma matéria que venha do objeto até nós,\ncomo uma flecha ou bala atravessa o ar; pois certamente\nisso repugna bastante a essas duas propriedades da\nluz, principalmente a última.\nHUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens.\nCaderno de História e Filosofia da Ciência, supl. 4, 1986.\n\nA. O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da\nexistência do éter.\nB O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre\nfeixes luminosos.\nC O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.\nD A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.\nE A ideia defendida pelos gregos de que a luz era produzida pelos olhos. *DO0525AM15* CN - 2º dia | Caderno 5 - AMARELO - Página 16\nB.\nC.\nD.\nE."
+    },
+    {
+      "id": 43,
+      "examQuestionNumber": 133,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 133 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Um dos parâmetros de controle de qualidade de\npolpas de frutas destinadas ao consumo como bebida é\na acidez total expressa em ácido cítrico, que corresponde\nà massa dessa substância em 100 gramas de polpa\nde fruta. O ácido cítrico é uma molécula orgânica que\napresenta três hidrogênios ionizáveis (ácido triprótico)\ne massa molar 192 g mol−¹. O quadro indica o valor\nmínimo desse parâmetro de qualidade para polpas\ncomerciais de algumas frutas.\n\nPolpa de fruta\nValor mínimo da acidez total\nexpressa em ácido cítrico\n\nAcerola\n0,8\nCaju\n0,3\nCupuaçu\n1,5\nGraviola\n0,6\nMaracujá\n2,5\nA acidez total expressa em ácido cítrico de uma\namostra comercial de polpa de fruta foi determinada.\nNo procedimento, adicionou-se água destilada a 2,2 g da\namostra e, após a solubilização do ácido cítrico, o sólido\nremanescente foi filtrado. A solução obtida foi titulada\ncom solução de hidróxido de sódio 0,01 mol L−¹, em que\nse consumiram 24 mL da solução básica (titulante).\nBRASIL. Ministério da Agricultura e do Abastecimento. Instrução\nnormativa n. 1, de 7 de janeiro de 2000. Disponível em:\nwww.agricultura.gov.br. Acesso em: 9 maio 2019 (adaptado).\nEntre as listadas, a amostra analisada pode ser de qual\npolpa de fruta?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-133/statement-01.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-133/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "Apenas caju.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "Apenas maracujá.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "Caju ou graviola.",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "Acerola ou cupuaçu.",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "Cupuaçu ou graviola.",
+          "assets": []
+        }
+      ],
+      "rawText": "Um dos parâmetros de controle de qualidade de\npolpas de frutas destinadas ao consumo como bebida é\na acidez total expressa em ácido cítrico, que corresponde\nà massa dessa substância em 100 gramas de polpa\nde fruta. O ácido cítrico é uma molécula orgânica que\napresenta três hidrogênios ionizáveis (ácido triprótico)\ne massa molar 192 g mol−¹. O quadro indica o valor\nmínimo desse parâmetro de qualidade para polpas\ncomerciais de algumas frutas.\n\nPolpa de fruta\nValor mínimo da acidez total\nexpressa em ácido cítrico\n\nAcerola\n0,8\nCaju\n0,3\nCupuaçu\n1,5\nGraviola\n0,6\nMaracujá\n2,5\nA acidez total expressa em ácido cítrico de uma\namostra comercial de polpa de fruta foi determinada.\nNo procedimento, adicionou-se água destilada a 2,2 g da\namostra e, após a solubilização do ácido cítrico, o sólido\nremanescente foi filtrado. A solução obtida foi titulada\ncom solução de hidróxido de sódio 0,01 mol L−¹, em que\nse consumiram 24 mL da solução básica (titulante).\nBRASIL. Ministério da Agricultura e do Abastecimento. Instrução\nnormativa n. 1, de 7 de janeiro de 2000. Disponível em:\nwww.agricultura.gov.br. Acesso em: 9 maio 2019 (adaptado).\nEntre as listadas, a amostra analisada pode ser de qual\npolpa de fruta?\n\nA. Apenas caju.\nB. Apenas maracujá.\nC. Caju ou graviola.\nD. Acerola ou cupuaçu.\nE. Cupuaçu ou graviola."
+    },
+    {
+      "id": 44,
+      "examQuestionNumber": 134,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 134 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        16
+      ],
+      "statement": "Uma cozinheira colocou sal a mais no feijão que\nestava cozinhando. Para solucionar o problema, ela\nacrescentou batatas cruas e sem tempero dentro da\npanela. Quando terminou de cozinhá-lo, as batatas\nestavam salgadas, porque absorveram parte do caldo\ncom excesso de sal. Finalmente, ela adicionou água\npara completar o caldo do feijão.\nO sal foi absorvido pelas batatas por",
+      "statementAssets": [],
+      "imageUrl": "/placeholder.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "osmose, por envolver apenas o transporte do solvente.",
+          "assets": []
+        },
+        {
+          "option": "B",
+          "text": "fagocitose, porque o sal transportado é uma substância sólida.\nC exocitose, uma vez que o sal foi transportado da água para a batata.\nD pinocitose, porque o sal estava diluído na água quando foi transportado.\nE difusão, porque o transporte ocorreu a favor do gradiente de concentração.",
+          "assets": []
+        },
+        {
+          "option": "C",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "D",
+          "text": "",
+          "assets": []
+        },
+        {
+          "option": "E",
+          "text": "",
+          "assets": []
+        }
+      ],
+      "rawText": "Uma cozinheira colocou sal a mais no feijão que\nestava cozinhando. Para solucionar o problema, ela\nacrescentou batatas cruas e sem tempero dentro da\npanela. Quando terminou de cozinhá-lo, as batatas\nestavam salgadas, porque absorveram parte do caldo\ncom excesso de sal. Finalmente, ela adicionou água\npara completar o caldo do feijão.\nO sal foi absorvido pelas batatas por\n\nA. osmose, por envolver apenas o transporte do solvente.\nB. fagocitose, porque o sal transportado é uma substância sólida.\nC exocitose, uma vez que o sal foi transportado da água para a batata.\nD pinocitose, porque o sal estava diluído na água quando foi transportado.\nE difusão, porque o transporte ocorreu a favor do gradiente de concentração.\nC.\nD.\nE."
+    },
+    {
+      "id": 45,
+      "examQuestionNumber": 135,
+      "year": 2019,
+      "area": "Ciências da Natureza",
+      "title": "Questão 135 — ENEM 2019 — Ciências da Natureza",
+      "sourcePages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "statement": "A agricultura de precisão reúne técnicas agrícolas\nque consideram particularidades locais do solo ou lavoura\na fim de otimizar o uso de recursos. Uma das formas\nde adquirir informações sobre essas particularidades\né a fotografia aérea de baixa altitude realizada por um\nveículo aéreo não tripulado (vant). Na fase de aquisição\né importante determinar o nível de sobreposição entre\nas fotografias. A figura ilustra como uma sequência de\nimagens é coletada por um vant e como são formadas\nas sobreposições frontais.\n\n20% de\nsobreposição\nfrontal\nVant com câmera fotográfica\n\n∆S\nSolo\nH\n\nImagens\ncoletadas\n1, 2 e 3\n45°\n45°\n\nO operador do vant recebe uma encomenda na\nqual as imagens devem ter uma sobreposição frontal de\n20% em um terreno plano. Para realizar a aquisição das\nimagens, seleciona uma altitude H fixa de voo de 1 000 m,\na uma velocidade constante de 50 m s−¹. A abertura da\ncâmera fotográfica do vant é de 90°. Considere tg(45°) = 1.\nNatural Resources Canada. Concepts of Aerial Photography.\nDisponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado).\nCom que intervalo de tempo o operador deve adquirir\nduas imagens consecutivas?",
+      "statementAssets": [
+        "/generated/enem-2019/ciencias-natureza/question-135/statement-01.png",
+        "/generated/enem-2019/ciencias-natureza/question-135/statement-02.png"
+      ],
+      "imageUrl": "/generated/enem-2019/ciencias-natureza/question-135/statement-01.png",
+      "options": [
+        {
+          "option": "A",
+          "text": "40 segundos. 10. 12 janeiro. Para produzir a Hydrangea cor-de-rosa de maior\nvalor comercial, deve-se preparar o solo de modo que\nx assuma qualquer valor acima de 10−8. 20% 1 4 5 4 1 6 1 4 → → → → → → → Austrália. 1,1 × 10⁻1 112. será suficiente, pois a área da nova região a ser pavimentada mede 21 m².\nB será suficiente, pois a área da nova região a ser pavimentada mede 24 m².\nC será suficiente, pois a área da nova região a ser pavimentada mede 48 m².\nD não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².\nE não será suficiente, pois a área da nova região a ser pavimentada mede 120 m². Os exercícios físicos são recomendados para o\nbom funcionamento do organismo, pois aceleram o\nmetabolismo e, em consequência, elevam o consumo\nde calorias. No gráfico, estão registrados os valores\ncalóricos, em kcal, gastos em cinco diferentes atividades\nfísicas, em função do tempo dedicado às atividades,\ncontado em minuto. (kcal) 5/10 II III IV V Qual dessas atividades físicas proporciona o maior\nconsumo de quilocalorias por minuto? I segunda-feira. 2,3. 1 16 628 9. 150. 398,02. 29,60 e 11,11. R$ 3 100,00 R$ 1 340,00. Pequeno. rolamento. 69 4 hexágonos regulares e 4 triângulos equiláteros. 30 P (R$) V (m³)\n15/0 99. 1,60 0,1. 0,1200. O primeiro. Dez caminhões com capacidade máxima de 10 m³. basquete, basquete, basquete, basquete. Y = 80X + 920. I 20. 0,0500 I 1,44. 23,3% 1.",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-135/option-a-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-a-02.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-a-03.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-a-04.png"
+          ]
+        },
+        {
+          "option": "B",
+          "text": "32 segundos. 50. fevereiro. qualquer valor positivo inferior a 10−7. 25% 1 2 3 1 4 1 4 4 → → → → → → → Canadá. 1,1 × 10⁻2 88. II terça-feira. 3,5. 12 22 280 12. 450. 400,00. 28,70 e 13,89. R$ 6 000,00 R$ 1 349,00. Ligeiro. catalisador. 70 2 hexágonos regulares e 4 triângulos equiláteros. 15 P (R$) V (m³)\n15/0 51. 1,78 0,2. 0,3048. O segundo. Cinco caminhões com capacidade máxima de 10 m³. 18 cm 12 cm\nD 12 cm *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28 Os alunos de uma turma escolar foram divididos em\ndois grupos. Um grupo jogaria basquete, enquanto o\noutro jogaria futebol. Sabe-se que o grupo de basquete\né formado pelos alunos mais altos da classe e tem\numa pessoa a mais do que o grupo de futebol. A tabela\nseguinte apresenta informações sobre as alturas dos\nalunos da turma. Os alunos P, J, F e M medem, respectivamente,\n1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não\nsão iguais a de nenhum outro colega da sala. Segundo essas informações, argumenta-se que os\nalunos P, J, F e M jogaram, respectivamente, futebol, basquete, basquete, basquete. Y = 80X + 1 000. II 27. 0,1000 II 1,16. 25,0% 2.",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-135/option-b-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-b-02.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-b-03.png"
+          ]
+        },
+        {
+          "option": "C",
+          "text": "28 segundos. 100. março. valores maiores que 7 e menores que 8. 40% 1 4 5 4 1 6 1 2 3 → → → → → → → → EUA. 1,1 × 10⁻3 60. III quarta-feira. 4,7. 1 e 12 28 560 89. 550. 401,94. 25,00 e 25,00. R$ 6 200,00 R$ 1 375,00. Moderado. amortecedor. 90 4 quadriláteros e 4 triângulos isósceles. 12 P (R$) V (m³)\n15/0 *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26 do órgão competente, decidiu instalar novas placas com\nanúncios de seu restaurante ao longo dessa rodovia, de\nmaneira que a probabilidade de um motorista perceber\npelo menos uma das placas instaladas fosse superior a 99\n100 A quantidade mínima de novas placas de propaganda a\nserem instaladas é 50. 1,79 1,5. 1,0800. O terceiro. Um caminhão com capacidade máxima de 5 m³. 12 cm. futebol, futebol, basquete, basquete. Y = 80X + 1 080. III 44. 0,1125 III 1,10. 50,0% 4.",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-135/option-c-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-c-02.png"
+          ]
+        },
+        {
+          "option": "D",
+          "text": "16 segundos. 250. abril. valores maiores que 70 e menores que 80. 60% 1 2 3 5 4 1 6 1 4 → → → → → → → → França. 1,1 × 10⁻4 28. IV quinta-feira. 5,3. 1 e 13 41 120 112. 700. 404,00. 18,52 e 11,11. R$ 15 000,00 R$ 1 465,00. Grande. pastilha de freio. 104 3 quadriláteros e 4 triângulos isósceles. 6 P (R$) V (m³)\n15/0 6. 1,81 2,0. 12,0000. O quarto. Dez caminhões com capacidade máxima de 2 m³. futebol, futebol, futebol, basquete. Y = 160X + 840. IV 55. 0,3125 IV 1,00. 87,5% 5.",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-135/option-d-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-d-02.png"
+          ]
+        },
+        {
+          "option": "E",
+          "text": "8 segundos. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17 A bula de um antibiótico infantil, fabricado na\nforma de xarope, recomenda que sejam ministrados,\ndiariamente, no máximo 500 mg desse medicamento\npara cada quilograma de massa do paciente. Um pediatra\nprescreveu a dosagem máxima desse antibiótico para\nser ministrada diariamente a uma criança de 20 kg pelo\nperíodo de 5 dias. Esse medicamento pode ser comprado\nem frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL.\nOs pais dessa criança decidiram comprar a quantidade\nexata de medicamento que precisará ser ministrada no\ntratamento, evitando a sobra de medicamento. Considere\nque 1 g desse medicamento ocupe um volume de 1 cm³. A capacidade do frasco, em mililitro, que esses pais\ndeverão comprar é 500. Uma empresa confecciona e comercializa um\nbrinquedo formado por uma locomotiva, pintada na cor\npreta, mais 12 vagões de iguais formato e tamanho,\nnumerados de 1 a 12. Dos 12 vagões, 4 são pintados\nna cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor\namarela. O trem é montado utilizando-se uma locomotiva\ne 12 vagões, ordenados crescentemente segundo suas\nnumerações, conforme ilustrado na figura. De acordo com as possíveis variações nas colorações\ndos vagões, a quantidade de trens que podem ser\nmontados, expressa por meio de combinações, é\ndada por O gráfico a seguir mostra a evolução mensal das\nvendas de certo produto de julho a novembro de 2011. Sabe-se que o mês de julho foi o pior momento da\nempresa em 2011 e que o número de unidades vendidas\ndesse produto em dezembro de 2011 foi igual à média\naritmética do número de unidades vendidas nos meses\nde julho a novembro do mesmo ano. O gerente de vendas disse, em uma reunião da\ndiretoria, que, se essa redução no número de unidades\nvendidas de novembro para dezembro de 2011 se\nmantivesse constante nos meses subsequentes, as\nvendas só voltariam a ficar piores que julho de 2011\napenas no final de 2012. O diretor financeiro rebateu imediatamente esse\nargumento mostrando que, mantida a tendência,\nisso aconteceria já em maio. Unidades\nvendidas MT - 2º dia | Caderno 5 - AMARELO - Página 18 Um grupo de países criou uma instituição responsável\npor organizar o Programa Internacional de Nivelamento\nde Estudos (PINE) com o objetivo de melhorar os índices\nmundiais de educação. Em sua sede foi construída\numa escultura suspensa, com a logomarca oficial do\nprograma, em três dimensões, que é formada por suas\niniciais, conforme mostrada na figura. Essa escultura está suspensa por cabos de aço, de\nmaneira que o espaçamento entre letras adjacentes é o\nmesmo, todas têm igual espessura e ficam dispostas em\nposição ortogonal ao solo, como ilustrado a seguir. Ao meio-dia, com o sol a pino, as letras que formam\nessa escultura projetam ortogonalmente suas sombras\nsobre o solo.\nA sombra projetada no solo é valores maiores que 10−8 e menores que 10−7. Uma pessoa, que perdeu um objeto pessoal quando\nvisitou uma cidade, pretende divulgar nos meios de\ncomunicação informações a respeito da perda desse\nobjeto e de seu contato para eventual devolução.\nNo entanto, ela lembra que, de acordo com o Art. 1 234\ndo Código Civil, poderá ter que pagar pelas despesas\ndo transporte desse objeto até sua cidade e poderá ter\nque recompensar a pessoa que lhe restituir o objeto\nem, pelo menos, 5% do valor do objeto. Ela sabe que o custo com transporte será de\num quinto do valor atual do objeto e, como ela tem\nmuito interesse em reavê-lo, pretende ofertar o maior\npercentual possível de recompensa, desde que o\ngasto total com as despesas não ultrapasse o valor\natual do objeto. Nessas condições, o percentual sobre o valor do objeto,\ndado como recompensa, que ela deverá ofertar é igual a 80% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19 Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo\nacende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o\nacendimento e o desligamento sejam instantâneos. O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles.\nO gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das\nlâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão\nnumerados de 1 a 6, com as potências das respectivas lâmpadas indicadas. Energia (Wmin)⋅ Tempo (min)\n(0 ; 0) (1 ; 20) (2 ; 35)\n(3 ; 40) (4 ; 55) (5 ; 75) (6 ; 85) (7 ; 105) (8 ; 120) QUARTO\n(13 W) SALA\n(20 W) BANHO\n(2 W) BANHO\n(5 W) COZINHA\n(10 W) ENTRADA SUÍTE\n(15 W) A sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é 1 4 2 3 5 1 6 1 4 → → → → → → → → Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de\ndecidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países\nque desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o\ndestino que apresentasse o menor custo diário em real. O quadro mostra os resultados obtidos com a pesquisa realizada. Nessas condições, qual será o destino escolhido para a viagem? Reino Unido *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20 A gripe é uma infecção respiratória aguda de curta\nduração causada pelo vírus influenza. Ao entrar no\nnosso organismo pelo nariz, esse vírus multiplica-se,\ndisseminando-se para a garganta e demais partes das\nvias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem\num diâmetro interno de 0,00011 mm. Disponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado). Em notação científica, o diâmetro interno do vírus\ninfluenza, em mm, é 1,1 × 10⁻5 Em um jogo on-line, cada jogador procura subir\nde nível e aumentar sua experiência, que são dois\nparâmetros importantes no jogo, dos quais dependem\nas forças de defesa e de ataque do participante. A força\nde defesa de cada jogador é diretamente proporcional ao\nseu nível e ao quadrado de sua experiência, enquanto\nsua força de ataque é diretamente proporcional à sua\nexperiência e ao quadrado do seu nível. Nenhum jogador\nsabe o nível ou a experiência dos demais. Os jogadores\niniciam o jogo no nível 1 com experiência 1 e possuem\nforça de ataque 2 e de defesa 1. Nesse jogo, cada\nparticipante se movimenta em uma cidade em busca de\ntesouros para aumentar sua experiência. Quando dois\ndeles se encontram, um deles pode desafiar o outro\npara um confronto, sendo o desafiante considerado\no atacante. Compara-se então a força de ataque do\ndesafiante com a força de defesa do desafiado e vence\no confronto aquele cuja força for maior. O vencedor do\ndesafio aumenta seu nível em uma unidade. Caso haja\nempate no confronto, ambos os jogadores aumentam\nseus níveis em uma unidade. Durante um jogo, o jogador J₁, de nível 4 e experiência 5,\nirá atacar o jogador J₂, de nível 2 e experiência 6. O jogador J₁ venceu esse confronto porque a diferença\nentre sua força de ataque e a força de defesa de seu\noponente era 24. Em um condomínio, uma área pavimentada, que\ntem a forma de um círculo com diâmetro medindo 6 m,\né cercada por grama. A administração do condomínio\ndeseja ampliar essa área, mantendo seu formato\ncircular, e aumentando, em 8 m, o diâmetro dessa\nregião, mantendo o revestimento da parte já existente.\nO condomínio dispõe, em estoque, de material\nsuficiente para pavimentar mais 100 m² de área.\nO síndico do condomínio irá avaliar se esse material\ndisponível será suficiente para pavimentar a região a\nser ampliada. Utilize 3 como aproximação para π. A conclusão correta a que o síndico deverá chegar,\nconsiderando a nova área a ser pavimentada, é a de\nque o material disponível em estoque V *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21 Um professor aplica, durante os cinco dias úteis\nde uma semana, testes com quatro questões de\nmúltipla escolha a cinco alunos. Os resultados foram\nrepresentados na matriz. O teste que apresentou maior quantidade de acertos foi\no aplicado na sexta-feira. Um ciclista quer montar um sistema de marchas\nusando dois discos dentados na parte traseira de sua\nbicicleta, chamados catracas. A coroa é o disco dentado\nque é movimentado pelos pedais da bicicleta, sendo\nque a corrente transmite esse movimento às catracas,\nque ficam posicionadas na roda traseira da bicicleta.\nAs diferentes marchas ficam definidas pelos diferentes\ndiâmetros das catracas, que são medidos conforme\nindicação na figura. Diâmetro do\ndisco dentado O ciclista já dispõe de uma catraca com 7 cm de\ndiâmetro e pretende incluir uma segunda catraca, de\nmodo que, à medida em que a corrente passe por ela,\na bicicleta avance 50% a mais do que avançaria se a\ncorrente passasse pela primeira catraca, a cada volta\ncompleta dos pedais. O valor mais próximo da medida do diâmetro da segunda\ncatraca, em centímetro e com uma casa decimal, é 10,5. O serviço de meteorologia de uma cidade emite\nrelatórios diários com a previsão do tempo. De posse\ndessas informações, a prefeitura emite três tipos de\nalertas para a população: • Alerta cinza: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura\nserá inferior a 10 °C, e a umidade relativa do ar\nfor inferior a 40%;\n• Alerta laranja: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura deve\nvariar entre 35 °C e 40 °C, e a umidade relativa do\nar deve ficar abaixo de 30%;\n• Alerta vermelho: deverá ser emitido sempre que\na previsão do tempo estimar que a temperatura\nserá superior a 40 °C, e a umidade relativa do ar\nfor inferior a 25%.\nUm resumo da previsão do tempo nessa cidade,\npara um período de 15 dias, foi apresentado no gráfico. Decorridos os 15 dias de validade desse relatório,\num funcionário percebeu que, no período a que se refere\no gráfico, foram emitidos os seguintes alertas: • Dia 1: alerta cinza;\n• Dia 12: alerta laranja;\n• Dia 13: alerta vermelho.\nEm qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s)\ncorretamente? 1, 12 e 13 3/3\n2/3\n0 2/2\n2/2\n2 0/4\n2/4\n0 1/1\n3/1\n4 2/2\n2/0\n4 *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22 Uma administração municipal encomendou a pintura\nde dez placas de sinalização para colocar em seu pátio\nde estacionamento. O profissional contratado para o serviço inicial\npintará o fundo de dez placas e cobrará um valor de\nacordo com a área total dessas placas. O formato\nde cada placa é um círculo de diâmetro d = 40 cm,\nque tangencia lados de um retângulo, sendo que\no comprimento total da placa é h = 60 cm, conforme\nilustrado na figura. Use 3,14 como aproximação para π. Qual é a soma das medidas das áreas, em centímetros\nquadrados, das dez placas? 66 240 O rótulo da embalagem de um cosmético informa\nque a dissolução de seu conteúdo, de acordo com suas\nespecificações, rende 2,7 litros desse produto pronto\npara o uso. Uma pessoa será submetida a um tratamento\nestético em que deverá tomar um banho de imersão\ncom esse produto numa banheira com capacidade de\n0,3 m³. Para evitar o transbordamento, essa banheira\nserá preenchida em 80% de sua capacidade. Para esse banho, o número mínimo de embalagens\ndesse cosmético é 134. O slogan “Se beber não dirija”, muito utilizado em\ncampanhas publicitárias no Brasil, chama a atenção\npara o grave problema da ingestão de bebida alcoólica\npor motoristas e suas consequências para o trânsito.\nA gravidade desse problema pode ser percebida\nobservando como o assunto é tratado pelo Código de\nTrânsito Brasileiro. Em 2013, a quantidade máxima\nde álcool permitida no sangue do condutor de um\nveículo, que já era pequena, foi reduzida, e o valor\nda multa para motoristas alcoolizados foi aumentado.\nEm consequência dessas mudanças, observou-se\nqueda no número de acidentes registrados em uma\nsuposta rodovia nos anos que se seguiram às mudanças\nimplantadas em 2013, conforme dados no quadro. Suponha que a tendência de redução no número de\nacidentes nessa rodovia para os anos subsequentes seja\nigual à redução absoluta observada de 2014 para 2015. Com base na situação apresentada, o número de\nacidentes esperados nessa rodovia em 2018 foi de 800. Uma pessoa se interessou em adquirir um produto\nanunciado em uma loja. Negociou com o gerente e\nconseguiu comprá-lo a uma taxa de juros compostos\nde 1% ao mês. O primeiro pagamento será um mês\napós a aquisição do produto, e no valor de R$ 202,00.\nO segundo pagamento será efetuado um mês após o\nprimeiro, e terá o valor de R$ 204,02. Para concretizar a\ncompra, o gerente emitirá uma nota fiscal com o valor do\nproduto à vista negociado com o cliente, correspondendo\nao financiamento aprovado. O valor à vista, em real, que deverá constar na nota\nfiscal é de 406,02.  d h\nE PROIBIDO\nESTACIONAR *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23 Três sócios resolveram fundar uma fábrica.\nO investimento inicial foi de R$ 1 000 000,00.\nE, independentemente do valor que cada um investiu\nnesse primeiro momento, resolveram considerar que cada\num deles contribuiu com um terço do investimento inicial. Algum tempo depois, um quarto sócio entrou para\na sociedade, e os quatro, juntos, investiram mais\nR$ 800 000,00 na fábrica. Cada um deles contribuiu\ncom um quarto desse valor. Quando venderam a fábrica,\nnenhum outro investimento havia sido feito. Os sócios\ndecidiram então dividir o montante de R$ 1 800 000,00\nobtido com a venda, de modo proporcional à quantia\ntotal investida por cada sócio. Quais os valores mais próximos, em porcentagens,\ncorrespondentes às parcelas financeiras que cada um\ndos três sócios iniciais e o quarto sócio, respectivamente,\nreceberam? 12,96 e 13,89. Para contratar três máquinas que farão o reparo de\nvias rurais de um município, a prefeitura elaborou um\nedital que, entre outras cláusulas, previa: • Cada empresa interessada só pode cadastrar uma\núnica máquina para concorrer ao edital; • O total de recursos destinados para contratar o\nconjunto das três máquinas é de R$ 31 000,00; • O valor a ser pago a cada empresa será\ninversamente proporcional à idade de uso\nda máquina cadastrada pela empresa para o\npresente edital. As três empresas vencedoras do edital cadastraram\nmáquinas com 2, 3 e 5 anos de idade de uso. Quanto receberá a empresa que cadastrou a máquina\ncom maior idade de uso? R$ 15 500,00 Segundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), o rendimento médio mensal\ndos trabalhadores brasileiros, no ano 2000, era de\nR$ 1 250,00. Já o Censo 2010 mostrou que, em 2010,\nesse valor teve um aumento de 7,2% em relação a\n2000. Esse mesmo instituto projeta que, em 2020, o\nrendimento médio mensal dos trabalhadores brasileiros\npoderá ser 10% maior do que foi em 2010. IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado). Supondo que as projeções do IBGE se realizem, o\nrendimento médio mensal dos brasileiros em 2020 será de R$ 1 474,00. Charles Richter e Beno Gutenberg desenvolveram a\nescala Richter, que mede a magnitude de um terremoto.\nEssa escala pode variar de 0 a 10, com possibilidades\nde valores maiores. O quadro mostra a escala de\nmagnitude local (Ms) de um terremoto que é utilizada\npara descrevê-lo. Descrição\nMagnitude local (Ms) (µm ⋅ Hz) Pequeno\n0 ≤ Ms ≤ 3,9 Ligeiro\n4,0 ≤ Ms ≤ 4,9 Moderado\n5,0 ≤ Ms ≤ 5,9 Grande\n6,0 ≤ Ms ≤ 9,9 Extremo\nMs ≥ 10,0 Para se calcular a magnitude local, usa-se a fórmula\nMs = 3,30 + log(A⋅f ), em que A representa a amplitude\nmáxima da onda registrada por um sismógrafo em\nmicrômetro (µm) e f representa a frequência da onda,\nem hertz (Hz). Ocorreu um terremoto com amplitude\nmáxima de 2 000 µm e frequência de 0,2 Hz. Disponível em: http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado). Utilize 0,3 como aproximação para log 2. De acordo com os dados fornecidos, o terremoto\nocorrido pode ser descrito como Extremo. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24 Após o Fórum Nacional Contra a Pirataria (FNCP)\nincluir a linha de autopeças em campanha veiculada\ncontra a falsificação, as agências fiscalizadoras\ndivulgaram que os cinco principais produtos de\nautopeças falsificados são: rolamento, pastilha de freio,\ncaixa de direção, catalisador e amortecedor. Disponível em: www.oficinabrasil.com.br. Acesso em: 25 ago. 2014 (adaptado). Após uma grande apreensão, as peças falsas foram\ncadastradas utilizando-se a codificação: 1: rolamento, 2: pastilha de freio, 3: caixa de direção,\n4: catalisador e 5: amortecedor. Ao final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4,\n5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta\num padrão de formação que consiste na repetição de um\nbloco de números. Essa sequência descreve a ordem\nem que os produtos apreendidos foram cadastrados. O 2 015º item cadastrado foi um(a) caixa de direção. Durante suas férias, oito amigos, dos quais dois são\ncanhotos, decidem realizar um torneio de vôlei de praia.\nEles precisam formar quatro duplas para a realização\ndo torneio. Nenhuma dupla pode ser formada por dois\njogadores canhotos. De quantas maneiras diferentes podem ser formadas\nessas quatro duplas? 105 As luminárias para um laboratório de matemática\nserão fabricadas em forma de sólidos geométricos.\nUma delas terá a forma de um tetraedro truncado.\nEsse sólido é gerado a partir de secções paralelas\na cada uma das faces de um tetraedro regular.\nPara essa luminária, as secções serão feitas de\nmaneira que, em cada corte, um terço das arestas\nseccionadas serão removidas. Uma dessas secções\nestá indicada na figura. Essa luminária terá por faces 3 hexágonos regulares e 4 triângulos equiláteros. Comum em lançamentos de empreendimentos\nimobiliários, as maquetes de condomínios funcionam\ncomo uma ótima ferramenta de marketing para as\nconstrutoras, pois, além de encantar clientes, auxiliam\nde maneira significativa os corretores na negociação e\nvenda de imóveis. Um condomínio está sendo lançado em um novo\nbairro de uma cidade. Na maquete projetada pela\nconstrutora, em escala de 1 : 200, existe um reservatório\nde água com capacidade de 45 cm³. Quando todas as famílias estiverem residindo\nno condomínio, a estimativa é que, por dia, sejam\nconsumidos 30 000 litros de água. Em uma eventual falta de água, o reservatório cheio\nserá suficiente para abastecer o condomínio por\nquantos dias? 3 a\n3 a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25 Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse\nserviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos\nvalores correspondentes a cada faixa. • Faixa 1: para consumo de até 6 m³, valor fixo de R$ 12,00;\n• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês. O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido,\nem metro cúbico, é P (R$) V (m³)\n15/0 1. O preparador físico de um time de basquete dispõe\nde um plantel de 20 jogadores, com média de altura\nigual a 1,80 m. No último treino antes da estreia em\num campeonato, um dos jogadores desfalcou o time\nem razão de uma séria contusão, forçando o técnico a\ncontratar outro jogador para recompor o grupo. Se o novo jogador é 0,20 m mais baixo que o anterior,\nqual é a média de altura, em metro, do novo grupo? 1,82 Em uma fábrica de refrigerantes, é necessário\nque se faça periodicamente o controle no processo\nde engarrafamento para evitar que sejam envasadas\ngarrafas fora da especificação do volume escrito no rótulo. Diariamente, durante 60 dias, foram anotadas as\nquantidades de garrafas fora dessas especificações.\nO resultado está apresentado no quadro. Quantidade de garrafas fora das especificações por dia Quantidade de dias\n0/52\n1/5\n2/2\n3/1 A média diária de garrafas fora das especificações no\nperíodo considerado é 3,0. O Sistema Métrico Decimal é o mais utilizado\natualmente para medir comprimentos e distâncias.\nEm algumas atividades, porém, é possível observar\na utilização de diferentes unidades de medida.\nUm exemplo disso pode ser observado no quadro. Unidade\nEquivalência Polegada\n2,54 centímetros Jarda\n3 pés Jarda\n0,9144 metro Assim, um pé, em polegada, equivale a 36,0000. O Índice de Desenvolvimento Humano (IDH) é uma\nmedida usada para classificar os países pelo seu grau\nde desenvolvimento. Para seu cálculo, são levados em\nconsideração a expectativa de vida ao nascer, tempo de\nescolaridade e renda per capita, entre outros. O menor\nvalor deste índice é zero e o maior é um. Cinco países\nforam avaliados e obtiveram os seguintes índices de\ndesenvolvimento humano: o primeiro país recebeu um valor X , o segundo\nX , o terceiro X 1/3, o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o\níndice máximo. Qual desses países obteve o maior IDH? O quinto. *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27 Um mestre de obras deseja fazer uma laje com\nespessura de 5 cm utilizando concreto usinado,\nconforme as dimensões do projeto dadas na figura.\nO concreto para fazer a laje será fornecido por uma\nusina que utiliza caminhões com capacidades máximas\nde 2 m³, 5 m³ e 10 m³ de concreto. 8 m 1 m 3 m\n2 m 3 m 5 m Um caminhão com capacidade máxima de 2 m³. O álcool é um depressor do sistema nervoso central\ne age diretamente em diversos órgãos. A concentração\nde álcool no sangue pode ser entendida como a razão\nentre a quantidade q de álcool ingerido, medida em\ngrama, e o volume de sangue, em litro, presente no\norganismo do indivíduo. Em geral, considera-se que\nesse volume corresponda ao valor numérico dado\npor 8% da massa corporal m desse indivíduo, medida\nem quilograma. De acordo com a Associação Médica Americana,\numa concentração alcoólica superior a 0,4 grama por\nlitro de sangue é capaz de trazer prejuízos à saúde do\nindivíduo. Disponível em: http://cisa.org.br. Acesso em: 1 dez. 2018 (adaptado). A expressão relacionando q e m que representa a\nconcentração alcoólica prejudicial à saúde do indivíduo,\nde acordo com a Associação Médica Americana, é Construir figuras de diversos tipos, apenas\ndobrando e cortando papel, sem cola e sem tesoura, é\na arte do origami (ori = dobrar; kami = papel), que tem\num significado altamente simbólico no Japão. A base\ndo origami é o conhecimento do mundo por base do\ntato. Uma jovem resolveu construir um cisne usando\na técnica do origami, utilizando uma folha de papel de\n18 cm por 12 cm. Assim, começou por dobrar a folha\nconforme a figura. Após essa primeira dobradura, a medida do segmento\nAE é futebol, futebol, futebol, futebol. Uma empresa tem diversos funcionários. Um deles\né o gerente, que recebe R$ 1 000,00 por semana.\nOs outros funcionários são diaristas. Cada um deles\ntrabalha 2 dias por semana, recebendo R$ 80,00 por\ndia trabalhado. Chamando de X a quantidade total de funcionários\nda empresa, a quantia Y, em reais, que esta empresa\ngasta semanalmente para pagar seus funcionários é\nexpressa por Y = 160X + 1 000. Um aplicativo de relacionamentos funciona da\nseguinte forma: o usuário cria um perfil com foto e\ninformações pessoais, indica as características dos\nusuários com quem deseja estabelecer contato e\ndetermina um raio de abrangência a partir da sua\nlocalização. O aplicativo identifica as pessoas que se\nencaixam no perfil desejado e que estão a uma distância\ndo usuário menor ou igual ao raio de abrangência.\nCaso dois usuários tenham perfis compatíveis e estejam\nnuma região de abrangência comum a ambos, o\naplicativo promove o contato entre os usuários, o que é\nchamado de match. O usuário P define um raio de abrangência com\nmedida de 3 km e busca ampliar a possibilidade de\nobter um match se deslocando para a região central da\ncidade, que concentra um maior número de usuários.\nO gráfico ilustra alguns bares que o usuário P costuma\nfrequentar para ativar o aplicativo, indicados por\nI, II, III, IV e V. Sabe-se que os usuários Q, R e S,\ncujas posições estão descritas pelo gráfico, são\ncompatíveis com o usuário P, e que estes definiram\nraios de abrangência respectivamente iguais a\n3 km, 2 km e 5 km. Q\nR IV\nI P\nx (km) y (km) Com base no gráfico e nas afirmações anteriores, em\nqual bar o usuário P teria a possibilidade de um match\ncom os usuários Q, R e S, simultaneamente? V *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29 Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento\ndas vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à\nsoma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última\nsemana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade\nde refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as\nvendas diárias serão iguais às da última semana. Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é 71. Sábado Sexta Quinta\nQuarta Terça Segunda Domingo\nVendas na última semana 10\nCaldo de cana Refrigerante Pastel *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30 Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes\n20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como\ninconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações\nconsideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.\nConstatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas. Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que\nela era fraudulenta? 0,5000 A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do\nmunicípio (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população\nurbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião\nentre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de\nurbanização receberá um investimento extra em infraestrutura. 4 000/5 000 Segundo o acordo, qual município receberá o investimento extra? V 14 000/12 000\n10 000/8 000\n6 000/4 000\n2 000/0 MT - 2º dia | Caderno 5 - AMARELO - Página 31 Uma construtora pretende conectar um reservatório\ncentral (Rc) em formato de um cilindro, com raio interno\nigual a 2 m e altura interna igual a 3,30 m, a quatro\nreservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄),\nos quais possuem raios internos e alturas internas\nmedindo 1,5 m. R₁\nR₃ R₂ RC R₄ As ligações entre o reservatório central e os\nauxiliares são feitas por canos cilíndricos com 0,10 m\nde diâmetro interno e 20 m de comprimento, conectados\npróximos às bases de cada reservatório. Na conexão\nde cada um desses canos com o reservatório central há\nregistros que liberam ou interrompem o fluxo de água. No momento em que o reservatório central está\ncheio e os auxiliares estão vazios, abrem-se os quatro\nregistros e, após algum tempo, as alturas das colunas\nde água nos reservatórios se igualam, assim que cessa\no fluxo de água entre eles, pelo princípio dos vasos\ncomunicantes. A medida, em metro, das alturas das colunas de água\nnos reservatórios auxiliares, após cessar o fluxo de\nágua entre eles, é 0,95. Para construir uma piscina, cuja área total da\nsuperfície interna é igual a 40 m², uma construtora\napresentou o seguinte orçamento: • R$ 10 000,00 pela elaboração do projeto;\n• R$ 40 000,00 pelos custos fixos;\n• R$ 2 500,00 por metro quadrado para construção\nda área interna da piscina.\nApós a apresentação do orçamento, essa empresa\ndecidiu reduzir o valor de elaboração do projeto em\n50%, mas recalculou o valor do metro quadrado para a\nconstrução da área interna da piscina, concluindo haver\na necessidade de aumentá-lo em 25%. Além disso, a\nconstrutora pretende dar um desconto nos custos fixos,\nde maneira que o novo valor do orçamento seja reduzido\nem 10% em relação ao total inicial. O percentual de desconto que a construtora deverá\nconceder nos custos fixos é de 100,0% Um grupo de engenheiros está projetando um motor\ncujo esquema de deslocamento vertical do pistão dentro\nda câmara de combustão está representado na figura. h(0) = 0 Instante t = 0\nInstante t ≠ 0 h(t) descreve como varia a altura h, medida em centímetro, da\nparte superior do pistão dentro da câmara de combustão,\nem função do tempo t, medido em segundo. Nas figuras\nestão indicadas as alturas do pistão em dois instantes\ndistintos. O valor do parâmetro β, que é dado por um número\ninteiro positivo, está relacionado com a velocidade\nde deslocamento do pistão. Para que o motor tenha\numa boa potência, é necessário e suficiente que, em\nmenos de 4 segundos após o início do funcionamento\n(instante t = 0), a altura da base do pistão alcance por\ntrês vezes o valor de 6 cm. Para os cálculos, utilize 3\ncomo aproximação para π. O menor valor inteiro a ser atribuído ao parâmetro β, de\nforma que o motor a ser construído tenha boa potência, é 8. *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*",
+          "assets": [
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-01.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-02.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-03.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-04.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-05.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-06.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-07.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-08.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-09.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-10.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-11.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-12.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-13.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-14.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-15.png",
+            "/generated/enem-2019/ciencias-natureza/question-135/option-e-16.png"
+          ]
+        }
+      ],
+      "rawText": "A agricultura de precisão reúne técnicas agrícolas\nque consideram particularidades locais do solo ou lavoura\na fim de otimizar o uso de recursos. Uma das formas\nde adquirir informações sobre essas particularidades\né a fotografia aérea de baixa altitude realizada por um\nveículo aéreo não tripulado (vant). Na fase de aquisição\né importante determinar o nível de sobreposição entre\nas fotografias. A figura ilustra como uma sequência de\nimagens é coletada por um vant e como são formadas\nas sobreposições frontais.\n\n20% de\nsobreposição\nfrontal\nVant com câmera fotográfica\n\n∆S\nSolo\nH\n\nImagens\ncoletadas\n1, 2 e 3\n45°\n45°\n\nO operador do vant recebe uma encomenda na\nqual as imagens devem ter uma sobreposição frontal de\n20% em um terreno plano. Para realizar a aquisição das\nimagens, seleciona uma altitude H fixa de voo de 1 000 m,\na uma velocidade constante de 50 m s−¹. A abertura da\ncâmera fotográfica do vant é de 90°. Considere tg(45°) = 1.\nNatural Resources Canada. Concepts of Aerial Photography.\nDisponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado).\nCom que intervalo de tempo o operador deve adquirir\nduas imagens consecutivas?\n\nA. 40 segundos. 10. 12 janeiro. Para produzir a Hydrangea cor-de-rosa de maior\nvalor comercial, deve-se preparar o solo de modo que\nx assuma qualquer valor acima de 10−8. 20% 1 4 5 4 1 6 1 4 → → → → → → → Austrália. 1,1 × 10⁻1 112. será suficiente, pois a área da nova região a ser pavimentada mede 21 m².\nB será suficiente, pois a área da nova região a ser pavimentada mede 24 m².\nC será suficiente, pois a área da nova região a ser pavimentada mede 48 m².\nD não será suficiente, pois a área da nova região a ser pavimentada mede 108 m².\nE não será suficiente, pois a área da nova região a ser pavimentada mede 120 m². Os exercícios físicos são recomendados para o\nbom funcionamento do organismo, pois aceleram o\nmetabolismo e, em consequência, elevam o consumo\nde calorias. No gráfico, estão registrados os valores\ncalóricos, em kcal, gastos em cinco diferentes atividades\nfísicas, em função do tempo dedicado às atividades,\ncontado em minuto. (kcal) 5/10 II III IV V Qual dessas atividades físicas proporciona o maior\nconsumo de quilocalorias por minuto? I segunda-feira. 2,3. 1 16 628 9. 150. 398,02. 29,60 e 11,11. R$ 3 100,00 R$ 1 340,00. Pequeno. rolamento. 69 4 hexágonos regulares e 4 triângulos equiláteros. 30 P (R$) V (m³)\n15/0 99. 1,60 0,1. 0,1200. O primeiro. Dez caminhões com capacidade máxima de 10 m³. basquete, basquete, basquete, basquete. Y = 80X + 920. I 20. 0,0500 I 1,44. 23,3% 1.\nB. 32 segundos. 50. fevereiro. qualquer valor positivo inferior a 10−7. 25% 1 2 3 1 4 1 4 4 → → → → → → → Canadá. 1,1 × 10⁻2 88. II terça-feira. 3,5. 12 22 280 12. 450. 400,00. 28,70 e 13,89. R$ 6 000,00 R$ 1 349,00. Ligeiro. catalisador. 70 2 hexágonos regulares e 4 triângulos equiláteros. 15 P (R$) V (m³)\n15/0 51. 1,78 0,2. 0,3048. O segundo. Cinco caminhões com capacidade máxima de 10 m³. 18 cm 12 cm\nD 12 cm *DO0525AM27* MT - 2º dia | Caderno 5 - AMARELO - Página 28 Os alunos de uma turma escolar foram divididos em\ndois grupos. Um grupo jogaria basquete, enquanto o\noutro jogaria futebol. Sabe-se que o grupo de basquete\né formado pelos alunos mais altos da classe e tem\numa pessoa a mais do que o grupo de futebol. A tabela\nseguinte apresenta informações sobre as alturas dos\nalunos da turma. Os alunos P, J, F e M medem, respectivamente,\n1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não\nsão iguais a de nenhum outro colega da sala. Segundo essas informações, argumenta-se que os\nalunos P, J, F e M jogaram, respectivamente, futebol, basquete, basquete, basquete. Y = 80X + 1 000. II 27. 0,1000 II 1,16. 25,0% 2.\nC. 28 segundos. 100. março. valores maiores que 7 e menores que 8. 40% 1 4 5 4 1 6 1 2 3 → → → → → → → → EUA. 1,1 × 10⁻3 60. III quarta-feira. 4,7. 1 e 12 28 560 89. 550. 401,94. 25,00 e 25,00. R$ 6 200,00 R$ 1 375,00. Moderado. amortecedor. 90 4 quadriláteros e 4 triângulos isósceles. 12 P (R$) V (m³)\n15/0 *DO0525AM25* MT - 2º dia | Caderno 5 - AMARELO - Página 26 do órgão competente, decidiu instalar novas placas com\nanúncios de seu restaurante ao longo dessa rodovia, de\nmaneira que a probabilidade de um motorista perceber\npelo menos uma das placas instaladas fosse superior a 99\n100 A quantidade mínima de novas placas de propaganda a\nserem instaladas é 50. 1,79 1,5. 1,0800. O terceiro. Um caminhão com capacidade máxima de 5 m³. 12 cm. futebol, futebol, basquete, basquete. Y = 80X + 1 080. III 44. 0,1125 III 1,10. 50,0% 4.\nD. 16 segundos. 250. abril. valores maiores que 70 e menores que 80. 60% 1 2 3 5 4 1 6 1 4 → → → → → → → → França. 1,1 × 10⁻4 28. IV quinta-feira. 5,3. 1 e 13 41 120 112. 700. 404,00. 18,52 e 11,11. R$ 15 000,00 R$ 1 465,00. Grande. pastilha de freio. 104 3 quadriláteros e 4 triângulos isósceles. 6 P (R$) V (m³)\n15/0 6. 1,81 2,0. 12,0000. O quarto. Dez caminhões com capacidade máxima de 2 m³. futebol, futebol, futebol, basquete. Y = 160X + 840. IV 55. 0,3125 IV 1,00. 87,5% 5.\nE. 8 segundos. *DO0525AM16* MT - 2º dia | Caderno 5 - AMARELO - Página 17 A bula de um antibiótico infantil, fabricado na\nforma de xarope, recomenda que sejam ministrados,\ndiariamente, no máximo 500 mg desse medicamento\npara cada quilograma de massa do paciente. Um pediatra\nprescreveu a dosagem máxima desse antibiótico para\nser ministrada diariamente a uma criança de 20 kg pelo\nperíodo de 5 dias. Esse medicamento pode ser comprado\nem frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL.\nOs pais dessa criança decidiram comprar a quantidade\nexata de medicamento que precisará ser ministrada no\ntratamento, evitando a sobra de medicamento. Considere\nque 1 g desse medicamento ocupe um volume de 1 cm³. A capacidade do frasco, em mililitro, que esses pais\ndeverão comprar é 500. Uma empresa confecciona e comercializa um\nbrinquedo formado por uma locomotiva, pintada na cor\npreta, mais 12 vagões de iguais formato e tamanho,\nnumerados de 1 a 12. Dos 12 vagões, 4 são pintados\nna cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor\namarela. O trem é montado utilizando-se uma locomotiva\ne 12 vagões, ordenados crescentemente segundo suas\nnumerações, conforme ilustrado na figura. De acordo com as possíveis variações nas colorações\ndos vagões, a quantidade de trens que podem ser\nmontados, expressa por meio de combinações, é\ndada por O gráfico a seguir mostra a evolução mensal das\nvendas de certo produto de julho a novembro de 2011. Sabe-se que o mês de julho foi o pior momento da\nempresa em 2011 e que o número de unidades vendidas\ndesse produto em dezembro de 2011 foi igual à média\naritmética do número de unidades vendidas nos meses\nde julho a novembro do mesmo ano. O gerente de vendas disse, em uma reunião da\ndiretoria, que, se essa redução no número de unidades\nvendidas de novembro para dezembro de 2011 se\nmantivesse constante nos meses subsequentes, as\nvendas só voltariam a ficar piores que julho de 2011\napenas no final de 2012. O diretor financeiro rebateu imediatamente esse\nargumento mostrando que, mantida a tendência,\nisso aconteceria já em maio. Unidades\nvendidas MT - 2º dia | Caderno 5 - AMARELO - Página 18 Um grupo de países criou uma instituição responsável\npor organizar o Programa Internacional de Nivelamento\nde Estudos (PINE) com o objetivo de melhorar os índices\nmundiais de educação. Em sua sede foi construída\numa escultura suspensa, com a logomarca oficial do\nprograma, em três dimensões, que é formada por suas\niniciais, conforme mostrada na figura. Essa escultura está suspensa por cabos de aço, de\nmaneira que o espaçamento entre letras adjacentes é o\nmesmo, todas têm igual espessura e ficam dispostas em\nposição ortogonal ao solo, como ilustrado a seguir. Ao meio-dia, com o sol a pino, as letras que formam\nessa escultura projetam ortogonalmente suas sombras\nsobre o solo.\nA sombra projetada no solo é valores maiores que 10−8 e menores que 10−7. Uma pessoa, que perdeu um objeto pessoal quando\nvisitou uma cidade, pretende divulgar nos meios de\ncomunicação informações a respeito da perda desse\nobjeto e de seu contato para eventual devolução.\nNo entanto, ela lembra que, de acordo com o Art. 1 234\ndo Código Civil, poderá ter que pagar pelas despesas\ndo transporte desse objeto até sua cidade e poderá ter\nque recompensar a pessoa que lhe restituir o objeto\nem, pelo menos, 5% do valor do objeto. Ela sabe que o custo com transporte será de\num quinto do valor atual do objeto e, como ela tem\nmuito interesse em reavê-lo, pretende ofertar o maior\npercentual possível de recompensa, desde que o\ngasto total com as despesas não ultrapasse o valor\natual do objeto. Nessas condições, o percentual sobre o valor do objeto,\ndado como recompensa, que ela deverá ofertar é igual a 80% *DO0525AM18* MT - 2º dia | Caderno 5 - AMARELO - Página 19 Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo\nacende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o\nacendimento e o desligamento sejam instantâneos. O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles.\nO gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das\nlâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão\nnumerados de 1 a 6, com as potências das respectivas lâmpadas indicadas. Energia (Wmin)⋅ Tempo (min)\n(0 ; 0) (1 ; 20) (2 ; 35)\n(3 ; 40) (4 ; 55) (5 ; 75) (6 ; 85) (7 ; 105) (8 ; 120) QUARTO\n(13 W) SALA\n(20 W) BANHO\n(2 W) BANHO\n(5 W) COZINHA\n(10 W) ENTRADA SUÍTE\n(15 W) A sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é 1 4 2 3 5 1 6 1 4 → → → → → → → → Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de\ndecidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países\nque desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o\ndestino que apresentasse o menor custo diário em real. O quadro mostra os resultados obtidos com a pesquisa realizada. Nessas condições, qual será o destino escolhido para a viagem? Reino Unido *DO0525AM19* MT - 2º dia | Caderno 5 - AMARELO - Página 20 A gripe é uma infecção respiratória aguda de curta\nduração causada pelo vírus influenza. Ao entrar no\nnosso organismo pelo nariz, esse vírus multiplica-se,\ndisseminando-se para a garganta e demais partes das\nvias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem\num diâmetro interno de 0,00011 mm. Disponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado). Em notação científica, o diâmetro interno do vírus\ninfluenza, em mm, é 1,1 × 10⁻5 Em um jogo on-line, cada jogador procura subir\nde nível e aumentar sua experiência, que são dois\nparâmetros importantes no jogo, dos quais dependem\nas forças de defesa e de ataque do participante. A força\nde defesa de cada jogador é diretamente proporcional ao\nseu nível e ao quadrado de sua experiência, enquanto\nsua força de ataque é diretamente proporcional à sua\nexperiência e ao quadrado do seu nível. Nenhum jogador\nsabe o nível ou a experiência dos demais. Os jogadores\niniciam o jogo no nível 1 com experiência 1 e possuem\nforça de ataque 2 e de defesa 1. Nesse jogo, cada\nparticipante se movimenta em uma cidade em busca de\ntesouros para aumentar sua experiência. Quando dois\ndeles se encontram, um deles pode desafiar o outro\npara um confronto, sendo o desafiante considerado\no atacante. Compara-se então a força de ataque do\ndesafiante com a força de defesa do desafiado e vence\no confronto aquele cuja força for maior. O vencedor do\ndesafio aumenta seu nível em uma unidade. Caso haja\nempate no confronto, ambos os jogadores aumentam\nseus níveis em uma unidade. Durante um jogo, o jogador J₁, de nível 4 e experiência 5,\nirá atacar o jogador J₂, de nível 2 e experiência 6. O jogador J₁ venceu esse confronto porque a diferença\nentre sua força de ataque e a força de defesa de seu\noponente era 24. Em um condomínio, uma área pavimentada, que\ntem a forma de um círculo com diâmetro medindo 6 m,\né cercada por grama. A administração do condomínio\ndeseja ampliar essa área, mantendo seu formato\ncircular, e aumentando, em 8 m, o diâmetro dessa\nregião, mantendo o revestimento da parte já existente.\nO condomínio dispõe, em estoque, de material\nsuficiente para pavimentar mais 100 m² de área.\nO síndico do condomínio irá avaliar se esse material\ndisponível será suficiente para pavimentar a região a\nser ampliada. Utilize 3 como aproximação para π. A conclusão correta a que o síndico deverá chegar,\nconsiderando a nova área a ser pavimentada, é a de\nque o material disponível em estoque V *DO0525AM20* MT - 2º dia | Caderno 5 - AMARELO - Página 21 Um professor aplica, durante os cinco dias úteis\nde uma semana, testes com quatro questões de\nmúltipla escolha a cinco alunos. Os resultados foram\nrepresentados na matriz. O teste que apresentou maior quantidade de acertos foi\no aplicado na sexta-feira. Um ciclista quer montar um sistema de marchas\nusando dois discos dentados na parte traseira de sua\nbicicleta, chamados catracas. A coroa é o disco dentado\nque é movimentado pelos pedais da bicicleta, sendo\nque a corrente transmite esse movimento às catracas,\nque ficam posicionadas na roda traseira da bicicleta.\nAs diferentes marchas ficam definidas pelos diferentes\ndiâmetros das catracas, que são medidos conforme\nindicação na figura. Diâmetro do\ndisco dentado O ciclista já dispõe de uma catraca com 7 cm de\ndiâmetro e pretende incluir uma segunda catraca, de\nmodo que, à medida em que a corrente passe por ela,\na bicicleta avance 50% a mais do que avançaria se a\ncorrente passasse pela primeira catraca, a cada volta\ncompleta dos pedais. O valor mais próximo da medida do diâmetro da segunda\ncatraca, em centímetro e com uma casa decimal, é 10,5. O serviço de meteorologia de uma cidade emite\nrelatórios diários com a previsão do tempo. De posse\ndessas informações, a prefeitura emite três tipos de\nalertas para a população: • Alerta cinza: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura\nserá inferior a 10 °C, e a umidade relativa do ar\nfor inferior a 40%;\n• Alerta laranja: deverá ser emitido sempre que a\nprevisão do tempo estimar que a temperatura deve\nvariar entre 35 °C e 40 °C, e a umidade relativa do\nar deve ficar abaixo de 30%;\n• Alerta vermelho: deverá ser emitido sempre que\na previsão do tempo estimar que a temperatura\nserá superior a 40 °C, e a umidade relativa do ar\nfor inferior a 25%.\nUm resumo da previsão do tempo nessa cidade,\npara um período de 15 dias, foi apresentado no gráfico. Decorridos os 15 dias de validade desse relatório,\num funcionário percebeu que, no período a que se refere\no gráfico, foram emitidos os seguintes alertas: • Dia 1: alerta cinza;\n• Dia 12: alerta laranja;\n• Dia 13: alerta vermelho.\nEm qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s)\ncorretamente? 1, 12 e 13 3/3\n2/3\n0 2/2\n2/2\n2 0/4\n2/4\n0 1/1\n3/1\n4 2/2\n2/0\n4 *DO0525AM21* MT - 2º dia | Caderno 5 - AMARELO - Página 22 Uma administração municipal encomendou a pintura\nde dez placas de sinalização para colocar em seu pátio\nde estacionamento. O profissional contratado para o serviço inicial\npintará o fundo de dez placas e cobrará um valor de\nacordo com a área total dessas placas. O formato\nde cada placa é um círculo de diâmetro d = 40 cm,\nque tangencia lados de um retângulo, sendo que\no comprimento total da placa é h = 60 cm, conforme\nilustrado na figura. Use 3,14 como aproximação para π. Qual é a soma das medidas das áreas, em centímetros\nquadrados, das dez placas? 66 240 O rótulo da embalagem de um cosmético informa\nque a dissolução de seu conteúdo, de acordo com suas\nespecificações, rende 2,7 litros desse produto pronto\npara o uso. Uma pessoa será submetida a um tratamento\nestético em que deverá tomar um banho de imersão\ncom esse produto numa banheira com capacidade de\n0,3 m³. Para evitar o transbordamento, essa banheira\nserá preenchida em 80% de sua capacidade. Para esse banho, o número mínimo de embalagens\ndesse cosmético é 134. O slogan “Se beber não dirija”, muito utilizado em\ncampanhas publicitárias no Brasil, chama a atenção\npara o grave problema da ingestão de bebida alcoólica\npor motoristas e suas consequências para o trânsito.\nA gravidade desse problema pode ser percebida\nobservando como o assunto é tratado pelo Código de\nTrânsito Brasileiro. Em 2013, a quantidade máxima\nde álcool permitida no sangue do condutor de um\nveículo, que já era pequena, foi reduzida, e o valor\nda multa para motoristas alcoolizados foi aumentado.\nEm consequência dessas mudanças, observou-se\nqueda no número de acidentes registrados em uma\nsuposta rodovia nos anos que se seguiram às mudanças\nimplantadas em 2013, conforme dados no quadro. Suponha que a tendência de redução no número de\nacidentes nessa rodovia para os anos subsequentes seja\nigual à redução absoluta observada de 2014 para 2015. Com base na situação apresentada, o número de\nacidentes esperados nessa rodovia em 2018 foi de 800. Uma pessoa se interessou em adquirir um produto\nanunciado em uma loja. Negociou com o gerente e\nconseguiu comprá-lo a uma taxa de juros compostos\nde 1% ao mês. O primeiro pagamento será um mês\napós a aquisição do produto, e no valor de R$ 202,00.\nO segundo pagamento será efetuado um mês após o\nprimeiro, e terá o valor de R$ 204,02. Para concretizar a\ncompra, o gerente emitirá uma nota fiscal com o valor do\nproduto à vista negociado com o cliente, correspondendo\nao financiamento aprovado. O valor à vista, em real, que deverá constar na nota\nfiscal é de 406,02.  d h\nE PROIBIDO\nESTACIONAR *DO0525AM22* MT - 2º dia | Caderno 5 - AMARELO - Página 23 Três sócios resolveram fundar uma fábrica.\nO investimento inicial foi de R$ 1 000 000,00.\nE, independentemente do valor que cada um investiu\nnesse primeiro momento, resolveram considerar que cada\num deles contribuiu com um terço do investimento inicial. Algum tempo depois, um quarto sócio entrou para\na sociedade, e os quatro, juntos, investiram mais\nR$ 800 000,00 na fábrica. Cada um deles contribuiu\ncom um quarto desse valor. Quando venderam a fábrica,\nnenhum outro investimento havia sido feito. Os sócios\ndecidiram então dividir o montante de R$ 1 800 000,00\nobtido com a venda, de modo proporcional à quantia\ntotal investida por cada sócio. Quais os valores mais próximos, em porcentagens,\ncorrespondentes às parcelas financeiras que cada um\ndos três sócios iniciais e o quarto sócio, respectivamente,\nreceberam? 12,96 e 13,89. Para contratar três máquinas que farão o reparo de\nvias rurais de um município, a prefeitura elaborou um\nedital que, entre outras cláusulas, previa: • Cada empresa interessada só pode cadastrar uma\núnica máquina para concorrer ao edital; • O total de recursos destinados para contratar o\nconjunto das três máquinas é de R$ 31 000,00; • O valor a ser pago a cada empresa será\ninversamente proporcional à idade de uso\nda máquina cadastrada pela empresa para o\npresente edital. As três empresas vencedoras do edital cadastraram\nmáquinas com 2, 3 e 5 anos de idade de uso. Quanto receberá a empresa que cadastrou a máquina\ncom maior idade de uso? R$ 15 500,00 Segundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), o rendimento médio mensal\ndos trabalhadores brasileiros, no ano 2000, era de\nR$ 1 250,00. Já o Censo 2010 mostrou que, em 2010,\nesse valor teve um aumento de 7,2% em relação a\n2000. Esse mesmo instituto projeta que, em 2020, o\nrendimento médio mensal dos trabalhadores brasileiros\npoderá ser 10% maior do que foi em 2010. IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado). Supondo que as projeções do IBGE se realizem, o\nrendimento médio mensal dos brasileiros em 2020 será de R$ 1 474,00. Charles Richter e Beno Gutenberg desenvolveram a\nescala Richter, que mede a magnitude de um terremoto.\nEssa escala pode variar de 0 a 10, com possibilidades\nde valores maiores. O quadro mostra a escala de\nmagnitude local (Ms) de um terremoto que é utilizada\npara descrevê-lo. Descrição\nMagnitude local (Ms) (µm ⋅ Hz) Pequeno\n0 ≤ Ms ≤ 3,9 Ligeiro\n4,0 ≤ Ms ≤ 4,9 Moderado\n5,0 ≤ Ms ≤ 5,9 Grande\n6,0 ≤ Ms ≤ 9,9 Extremo\nMs ≥ 10,0 Para se calcular a magnitude local, usa-se a fórmula\nMs = 3,30 + log(A⋅f ), em que A representa a amplitude\nmáxima da onda registrada por um sismógrafo em\nmicrômetro (µm) e f representa a frequência da onda,\nem hertz (Hz). Ocorreu um terremoto com amplitude\nmáxima de 2 000 µm e frequência de 0,2 Hz. Disponível em: http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado). Utilize 0,3 como aproximação para log 2. De acordo com os dados fornecidos, o terremoto\nocorrido pode ser descrito como Extremo. *DO0525AM23* MT - 2º dia | Caderno 5 - AMARELO - Página 24 Após o Fórum Nacional Contra a Pirataria (FNCP)\nincluir a linha de autopeças em campanha veiculada\ncontra a falsificação, as agências fiscalizadoras\ndivulgaram que os cinco principais produtos de\nautopeças falsificados são: rolamento, pastilha de freio,\ncaixa de direção, catalisador e amortecedor. Disponível em: www.oficinabrasil.com.br. Acesso em: 25 ago. 2014 (adaptado). Após uma grande apreensão, as peças falsas foram\ncadastradas utilizando-se a codificação: 1: rolamento, 2: pastilha de freio, 3: caixa de direção,\n4: catalisador e 5: amortecedor. Ao final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4,\n5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta\num padrão de formação que consiste na repetição de um\nbloco de números. Essa sequência descreve a ordem\nem que os produtos apreendidos foram cadastrados. O 2 015º item cadastrado foi um(a) caixa de direção. Durante suas férias, oito amigos, dos quais dois são\ncanhotos, decidem realizar um torneio de vôlei de praia.\nEles precisam formar quatro duplas para a realização\ndo torneio. Nenhuma dupla pode ser formada por dois\njogadores canhotos. De quantas maneiras diferentes podem ser formadas\nessas quatro duplas? 105 As luminárias para um laboratório de matemática\nserão fabricadas em forma de sólidos geométricos.\nUma delas terá a forma de um tetraedro truncado.\nEsse sólido é gerado a partir de secções paralelas\na cada uma das faces de um tetraedro regular.\nPara essa luminária, as secções serão feitas de\nmaneira que, em cada corte, um terço das arestas\nseccionadas serão removidas. Uma dessas secções\nestá indicada na figura. Essa luminária terá por faces 3 hexágonos regulares e 4 triângulos equiláteros. Comum em lançamentos de empreendimentos\nimobiliários, as maquetes de condomínios funcionam\ncomo uma ótima ferramenta de marketing para as\nconstrutoras, pois, além de encantar clientes, auxiliam\nde maneira significativa os corretores na negociação e\nvenda de imóveis. Um condomínio está sendo lançado em um novo\nbairro de uma cidade. Na maquete projetada pela\nconstrutora, em escala de 1 : 200, existe um reservatório\nde água com capacidade de 45 cm³. Quando todas as famílias estiverem residindo\nno condomínio, a estimativa é que, por dia, sejam\nconsumidos 30 000 litros de água. Em uma eventual falta de água, o reservatório cheio\nserá suficiente para abastecer o condomínio por\nquantos dias? 3 a\n3 a *DO0525AM24* MT - 2º dia | Caderno 5 - AMARELO - Página 25 Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse\nserviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos\nvalores correspondentes a cada faixa. • Faixa 1: para consumo de até 6 m³, valor fixo de R$ 12,00;\n• Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n• Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês. O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido,\nem metro cúbico, é P (R$) V (m³)\n15/0 1. O preparador físico de um time de basquete dispõe\nde um plantel de 20 jogadores, com média de altura\nigual a 1,80 m. No último treino antes da estreia em\num campeonato, um dos jogadores desfalcou o time\nem razão de uma séria contusão, forçando o técnico a\ncontratar outro jogador para recompor o grupo. Se o novo jogador é 0,20 m mais baixo que o anterior,\nqual é a média de altura, em metro, do novo grupo? 1,82 Em uma fábrica de refrigerantes, é necessário\nque se faça periodicamente o controle no processo\nde engarrafamento para evitar que sejam envasadas\ngarrafas fora da especificação do volume escrito no rótulo. Diariamente, durante 60 dias, foram anotadas as\nquantidades de garrafas fora dessas especificações.\nO resultado está apresentado no quadro. Quantidade de garrafas fora das especificações por dia Quantidade de dias\n0/52\n1/5\n2/2\n3/1 A média diária de garrafas fora das especificações no\nperíodo considerado é 3,0. O Sistema Métrico Decimal é o mais utilizado\natualmente para medir comprimentos e distâncias.\nEm algumas atividades, porém, é possível observar\na utilização de diferentes unidades de medida.\nUm exemplo disso pode ser observado no quadro. Unidade\nEquivalência Polegada\n2,54 centímetros Jarda\n3 pés Jarda\n0,9144 metro Assim, um pé, em polegada, equivale a 36,0000. O Índice de Desenvolvimento Humano (IDH) é uma\nmedida usada para classificar os países pelo seu grau\nde desenvolvimento. Para seu cálculo, são levados em\nconsideração a expectativa de vida ao nascer, tempo de\nescolaridade e renda per capita, entre outros. O menor\nvalor deste índice é zero e o maior é um. Cinco países\nforam avaliados e obtiveram os seguintes índices de\ndesenvolvimento humano: o primeiro país recebeu um valor X , o segundo\nX , o terceiro X 1/3, o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o\níndice máximo. Qual desses países obteve o maior IDH? O quinto. *DO0525AM26* MT - 2º dia | Caderno 5 - AMARELO - Página 27 Um mestre de obras deseja fazer uma laje com\nespessura de 5 cm utilizando concreto usinado,\nconforme as dimensões do projeto dadas na figura.\nO concreto para fazer a laje será fornecido por uma\nusina que utiliza caminhões com capacidades máximas\nde 2 m³, 5 m³ e 10 m³ de concreto. 8 m 1 m 3 m\n2 m 3 m 5 m Um caminhão com capacidade máxima de 2 m³. O álcool é um depressor do sistema nervoso central\ne age diretamente em diversos órgãos. A concentração\nde álcool no sangue pode ser entendida como a razão\nentre a quantidade q de álcool ingerido, medida em\ngrama, e o volume de sangue, em litro, presente no\norganismo do indivíduo. Em geral, considera-se que\nesse volume corresponda ao valor numérico dado\npor 8% da massa corporal m desse indivíduo, medida\nem quilograma. De acordo com a Associação Médica Americana,\numa concentração alcoólica superior a 0,4 grama por\nlitro de sangue é capaz de trazer prejuízos à saúde do\nindivíduo. Disponível em: http://cisa.org.br. Acesso em: 1 dez. 2018 (adaptado). A expressão relacionando q e m que representa a\nconcentração alcoólica prejudicial à saúde do indivíduo,\nde acordo com a Associação Médica Americana, é Construir figuras de diversos tipos, apenas\ndobrando e cortando papel, sem cola e sem tesoura, é\na arte do origami (ori = dobrar; kami = papel), que tem\num significado altamente simbólico no Japão. A base\ndo origami é o conhecimento do mundo por base do\ntato. Uma jovem resolveu construir um cisne usando\na técnica do origami, utilizando uma folha de papel de\n18 cm por 12 cm. Assim, começou por dobrar a folha\nconforme a figura. Após essa primeira dobradura, a medida do segmento\nAE é futebol, futebol, futebol, futebol. Uma empresa tem diversos funcionários. Um deles\né o gerente, que recebe R$ 1 000,00 por semana.\nOs outros funcionários são diaristas. Cada um deles\ntrabalha 2 dias por semana, recebendo R$ 80,00 por\ndia trabalhado. Chamando de X a quantidade total de funcionários\nda empresa, a quantia Y, em reais, que esta empresa\ngasta semanalmente para pagar seus funcionários é\nexpressa por Y = 160X + 1 000. Um aplicativo de relacionamentos funciona da\nseguinte forma: o usuário cria um perfil com foto e\ninformações pessoais, indica as características dos\nusuários com quem deseja estabelecer contato e\ndetermina um raio de abrangência a partir da sua\nlocalização. O aplicativo identifica as pessoas que se\nencaixam no perfil desejado e que estão a uma distância\ndo usuário menor ou igual ao raio de abrangência.\nCaso dois usuários tenham perfis compatíveis e estejam\nnuma região de abrangência comum a ambos, o\naplicativo promove o contato entre os usuários, o que é\nchamado de match. O usuário P define um raio de abrangência com\nmedida de 3 km e busca ampliar a possibilidade de\nobter um match se deslocando para a região central da\ncidade, que concentra um maior número de usuários.\nO gráfico ilustra alguns bares que o usuário P costuma\nfrequentar para ativar o aplicativo, indicados por\nI, II, III, IV e V. Sabe-se que os usuários Q, R e S,\ncujas posições estão descritas pelo gráfico, são\ncompatíveis com o usuário P, e que estes definiram\nraios de abrangência respectivamente iguais a\n3 km, 2 km e 5 km. Q\nR IV\nI P\nx (km) y (km) Com base no gráfico e nas afirmações anteriores, em\nqual bar o usuário P teria a possibilidade de um match\ncom os usuários Q, R e S, simultaneamente? V *DO0525AM28* MT - 2º dia | Caderno 5 - AMARELO - Página 29 Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento\ndas vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à\nsoma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última\nsemana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade\nde refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as\nvendas diárias serão iguais às da última semana. Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é 71. Sábado Sexta Quinta\nQuarta Terça Segunda Domingo\nVendas na última semana 10\nCaldo de cana Refrigerante Pastel *DO0525AM29* MT - 2º dia | Caderno 5 - AMARELO - Página 30 Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes\n20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como\ninconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações\nconsideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas.\nConstatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas. Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que\nela era fraudulenta? 0,5000 A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do\nmunicípio (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população\nurbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião\nentre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de\nurbanização receberá um investimento extra em infraestrutura. 4 000/5 000 Segundo o acordo, qual município receberá o investimento extra? V 14 000/12 000\n10 000/8 000\n6 000/4 000\n2 000/0 MT - 2º dia | Caderno 5 - AMARELO - Página 31 Uma construtora pretende conectar um reservatório\ncentral (Rc) em formato de um cilindro, com raio interno\nigual a 2 m e altura interna igual a 3,30 m, a quatro\nreservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄),\nos quais possuem raios internos e alturas internas\nmedindo 1,5 m. R₁\nR₃ R₂ RC R₄ As ligações entre o reservatório central e os\nauxiliares são feitas por canos cilíndricos com 0,10 m\nde diâmetro interno e 20 m de comprimento, conectados\npróximos às bases de cada reservatório. Na conexão\nde cada um desses canos com o reservatório central há\nregistros que liberam ou interrompem o fluxo de água. No momento em que o reservatório central está\ncheio e os auxiliares estão vazios, abrem-se os quatro\nregistros e, após algum tempo, as alturas das colunas\nde água nos reservatórios se igualam, assim que cessa\no fluxo de água entre eles, pelo princípio dos vasos\ncomunicantes. A medida, em metro, das alturas das colunas de água\nnos reservatórios auxiliares, após cessar o fluxo de\nágua entre eles, é 0,95. Para construir uma piscina, cuja área total da\nsuperfície interna é igual a 40 m², uma construtora\napresentou o seguinte orçamento: • R$ 10 000,00 pela elaboração do projeto;\n• R$ 40 000,00 pelos custos fixos;\n• R$ 2 500,00 por metro quadrado para construção\nda área interna da piscina.\nApós a apresentação do orçamento, essa empresa\ndecidiu reduzir o valor de elaboração do projeto em\n50%, mas recalculou o valor do metro quadrado para a\nconstrução da área interna da piscina, concluindo haver\na necessidade de aumentá-lo em 25%. Além disso, a\nconstrutora pretende dar um desconto nos custos fixos,\nde maneira que o novo valor do orçamento seja reduzido\nem 10% em relação ao total inicial. O percentual de desconto que a construtora deverá\nconceder nos custos fixos é de 100,0% Um grupo de engenheiros está projetando um motor\ncujo esquema de deslocamento vertical do pistão dentro\nda câmara de combustão está representado na figura. h(0) = 0 Instante t = 0\nInstante t ≠ 0 h(t) descreve como varia a altura h, medida em centímetro, da\nparte superior do pistão dentro da câmara de combustão,\nem função do tempo t, medido em segundo. Nas figuras\nestão indicadas as alturas do pistão em dois instantes\ndistintos. O valor do parâmetro β, que é dado por um número\ninteiro positivo, está relacionado com a velocidade\nde deslocamento do pistão. Para que o motor tenha\numa boa potência, é necessário e suficiente que, em\nmenos de 4 segundos após o início do funcionamento\n(instante t = 0), a altura da base do pistão alcance por\ntrês vezes o valor de 6 cm. Para os cálculos, utilize 3\ncomo aproximação para π. O menor valor inteiro a ser atribuído ao parâmetro β, de\nforma que o motor a ser construído tenha boa potência, é 8. *DO0525AM31* MT - 2º dia | Caderno 5 - AMARELO - Página 32 *DO0525AM32*"
+    }
+  ]
+}

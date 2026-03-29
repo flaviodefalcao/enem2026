@@ -1,0 +1,37 @@
+{
+  "stage": "explainer",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "explainer.v1",
+  "generatedAt": "2026-03-28T22:43:44.330Z",
+  "questionId": "enem-2024-ciencias-natureza-q119",
+  "payload": {
+    "didacticExplanation": {
+      "shortExplanation": "O crumple zone, ou zona de deformação, é uma parte do carro projetada para se deformar durante uma colisão, absorvendo a energia cinética do impacto. Isso reduz a força transmitida aos ocupantes, aumentando sua segurança, pois o impacto fica menos violento para quem está dentro do veículo.",
+      "stepByStep": [
+        "Identifique que o crumple zone é a região frontal do carro que se deforma na colisão.",
+        "Reconheça que a energia cinética do carro é dissipada na deformação dessa região.",
+        "Entenda que essa absorção de energia diminui a força do impacto transmitida aos ocupantes do carro.",
+        "Saiba que a quantidade de movimento do sistema (carro, ocupantes e muro) é conservada, mas a energia cinética é transformada em outras formas, como energia de deformação.",
+        "Conclua que a principal função do crumple zone é aumentar o tempo da colisão e reduzir a força exercida sobre os passageiros, garantindo maior segurança."
+      ],
+      "commonPitfalls": [
+        "Confundir a função do crumple zone com a dos airbags, pensando que a zona de deformação aciona diretamente os airbags.",
+        "Misturar conceitos de quantidade de movimento com energia cinética, acreditando que a deformação reduz a quantidade de movimento do sistema.",
+        "Interpretar o crumple zone como uma barreira rígida que impede o impacto, em vez de uma região que absorve a energia do choque.",
+        "Achar que a deformação do carro muda a velocidade do centro de massa do sistema isolado, ignorando a conservação da quantidade de movimento."
+      ],
+      "teachingTips": [
+        "Use modelos ou vídeos de colisões reais para ilustrar como as zonas de deformação funcionam.",
+        "Explique claramente a diferença entre quantidade de movimento (conservada) e energia cinética (pode ser transformada).",
+        "Mostre o papel do tempo na colisão e como aumentar o tempo reduz a força do impacto (F = Δp/Δt).",
+        "Relacionar o conceito do crumple zone com outros dispositivos de segurança para diferenciar suas funções.",
+        "Incentive os alunos a analisar sistemas isolados e identificar quais grandezas físicas se conservam e quais se transformam."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 2104,
+    "outputTokens": 459,
+    "estimatedCostUsd": 0.001576
+  }
+}

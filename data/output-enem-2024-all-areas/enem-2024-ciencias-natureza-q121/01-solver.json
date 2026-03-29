@@ -1,0 +1,76 @@
+{
+  "stage": "solver",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "solver.v1",
+  "generatedAt": "2026-03-28T22:24:12.023Z",
+  "questionId": "enem-2024-ciencias-natureza-q121",
+  "payload": {
+    "technicalSolution": {
+      "finalAnswer": "E",
+      "correctnessClaim": "A alternativa E está correta.",
+      "strategy": "Compreender o conceito científico atual de compostos orgânicos, relacionando com o elemento químico principal na sua composição.",
+      "steps": [
+        "Reconhecer que a definição tradicional de compostos orgânicos está relacionada com seres vivos, mas a definição química atual é mais geral.",
+        "Recordar que, em Química, compostos orgânicos são principalmente aqueles que possuem o carbono como elemento central em sua estrutura.",
+        "Analisar as alternativas para identificar qual delas corresponde à definição correta de compostos orgânicos na Química.",
+        "Descartar as alternativas que associam compostos orgânicos a propriedades específicas (saúde, biodegradabilidade, origem a partir de gás carbônico, produção sem agrotóxicos), pois a definição química não está ligada a essas características, mas sim à composição química.",
+        "Confirmar que a alternativa E — \"contendo carbono como elemento principal\" — é a definição vigente e correta de compostos orgânicos."
+      ],
+      "formulasUsed": [],
+      "visualEvidenceUsed": [],
+      "confidence": "high"
+    },
+    "distractors": [
+      {
+        "option": "A",
+        "likelyReasoning": "Associar compostos orgânicos a substâncias benéficas à saúde por associações comuns com organismos vivos e alimentos naturais.",
+        "misconceptionType": "Conceito incorreto sobre definição de compostos orgânicos",
+        "whyItLooksPlausible": "Muitos compostos orgânicos são encontrados em alimentos e medicamentos, que são benéficos à saúde.",
+        "whyItIsWrong": "Nem todos os compostos orgânicos são benéficos à saúde; a definição química é estrutural e não funcional."
+      },
+      {
+        "option": "B",
+        "likelyReasoning": "Entender compostos orgânicos como biodegradáveis devido à sua associação com matéria viva e processos naturais.",
+        "misconceptionType": "Generalização incorreta sobre compostos orgânicos e biodegradabilidade",
+        "whyItLooksPlausible": "Compostos orgânicos são em geral mais facilmente degradados do que compostos inorgânicos.",
+        "whyItIsWrong": "Nem todos os compostos orgânicos são biodegradáveis; a biodegradabilidade depende da estrutura e das condições ambientais."
+      },
+      {
+        "option": "C",
+        "likelyReasoning": "Achar que compostos orgânicos são formados a partir de gás carbônico por associar carbono ao CO2 e às plantas.",
+        "misconceptionType": "Confusão entre matéria-prima e definição de compostos orgânicos",
+        "whyItLooksPlausible": "Plantas utilizam gás carbônico para produzir compostos orgânicos via fotossíntese.",
+        "whyItIsWrong": "A definição de compostos orgânicos não depende da origem ou processo de formação, mas sim da composição química."
+      },
+      {
+        "option": "D",
+        "likelyReasoning": "Assumir que compostos orgânicos devem ser produzidos sem agrotóxicos por associações ambientais e naturais.",
+        "misconceptionType": "Conceito confuso entre química e práticas agrícolas",
+        "whyItLooksPlausible": "Produtos orgânicos, no sentido agrícola, são produzidos sem agrotóxicos, associando o termo à química orgânica.",
+        "whyItIsWrong": "A produção sem agrotóxicos é questão agrícola/ambiental, não definição química de compostos orgânicos."
+      }
+    ],
+    "itemProfile": {
+      "primarySkill": "Conhecimento conceitual em Química (Química Orgânica)",
+      "secondarySkills": [
+        "Compreensão de definição científica",
+        "Raciocínio crítico"
+      ],
+      "cognitiveDemand": "Baixo",
+      "difficultyEstimate": "low",
+      "requiresVisualInterpretation": false,
+      "requiresModeling": false,
+      "requiresCalculation": false,
+      "notes": [
+        "A questão exige conhecimento direto da definição científica dos compostos orgânicos.",
+        "Não há necessidade de imagens ou cálculos.",
+        "Importante distinguir a definição química de uso comum ou popular."
+      ]
+    }
+  },
+  "usage": {
+    "inputTokens": 558,
+    "outputTokens": 771,
+    "estimatedCostUsd": 0.001457
+  }
+}

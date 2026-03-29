@@ -1,0 +1,18 @@
+{
+  "stage": "theme",
+  "model": "gpt-4.1-mini",
+  "promptVersion": "theme.v1",
+  "generatedAt": "2026-03-28T22:44:59.485Z",
+  "questionId": "enem-2024-ciencias-natureza-q120",
+  "payload": {
+    "theme": "Química",
+    "subtheme": "Transformações químicas",
+    "rationale": "A questão envolve a análise e identificação da reação química global que ocorre em uma célula a combustível microbiana, exigindo a compreensão das transformações químicas e dos processos redox envolvidos para gerar eletricidade a partir da matéria orgânica. A habilidade H26 aborda a avaliação de transformações químicas em processos tecnológicos, e a competência 7 destaca a aplicação do conhecimento químico para interpretar situações problema, o que está diretamente relacionado ao tema 'Transformações químicas' dentro da Química.",
+    "confidence": "high"
+  },
+  "usage": {
+    "inputTokens": 1746,
+    "outputTokens": 123,
+    "estimatedCostUsd": 0.000895
+  }
+}
