@@ -80,6 +80,14 @@ export function ExamLandingPage({ year, landing }: ExamLandingPageProps) {
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-10 px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
       <section className="rounded-[34px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-7">
+        <div className="mb-5 flex justify-end">
+          <Link
+            href="/prova"
+            className="inline-flex items-center rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
+          >
+            ← Voltar para provas
+          </Link>
+        </div>
         <span className="inline-flex rounded-full bg-gold/15 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#4f79b0]">
           Prova completa
         </span>
@@ -93,7 +101,7 @@ export function ExamLandingPage({ year, landing }: ExamLandingPageProps) {
             </p>
           </div>
 
-          <div className="grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-1">
             <div className="rounded-[26px] bg-ink px-5 py-4 text-white">
               <div className="text-[11px] uppercase tracking-[0.18em] text-white/70">Total de questões</div>
               <div className="mt-2 text-3xl font-semibold">{landing.totalQuestions}</div>
@@ -103,12 +111,6 @@ export function ExamLandingPage({ year, landing }: ExamLandingPageProps) {
               <div className="mt-2 text-[1.8rem] font-semibold text-ink">{landing.averageAccuracy.toFixed(1)}%</div>
               <div className="mt-1 text-sm text-slate-600">4 áreas • {landing.areaCount} painéis</div>
             </div>
-            <Link
-              href="/prova"
-              className="flex items-center justify-center rounded-[26px] bg-clay px-5 py-4 text-sm font-semibold text-white transition hover:bg-[#568fd0]"
-            >
-              Voltar para todas as provas
-            </Link>
           </div>
         </div>
       </section>

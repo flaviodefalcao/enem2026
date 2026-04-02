@@ -122,7 +122,7 @@ export function StrategicMetricsPage({ data }: StrategicMetricsPageProps) {
               href="/prova"
               className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-600 transition hover:border-clay/40 hover:text-clay"
             >
-              Voltar para provas
+              ← Voltar para provas
             </Link>
           </div>
         </div>

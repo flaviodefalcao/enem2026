@@ -40,6 +40,9 @@ type ChartsPanelProps = {
     empiricalCurve: Array<{ faixa: string; acerto: number; n: number; notaMedia: number }>;
     weakestBucket: { faixa: string; acerto: number; n: number } | null;
     strongestBucket: { faixa: string; acerto: number; n: number } | null;
+    topPerformerGroupLabel?: string;
+    topPerformerGroupDescription?: string;
+    topPerformerGroupSampleSize?: number;
   };
 };
 
@@ -53,6 +56,7 @@ export function ChartsPanel({
   topPerformerDistribution,
   analyticsSnapshot,
 }: ChartsPanelProps) {
+  const totalQuestions = 45;
   const distributionData = Object.entries(optionDistribution).map(
     ([option, value]) => ({
       option,
@@ -60,7 +64,22 @@ export function ChartsPanel({
     }),
   );
 
-  const curveData = analyticsSnapshot.empiricalCurve
+  const areaCurveLimit =
+    areaSlug === "linguagens"
+      ? 800
+      : areaSlug === "ciencias-humanas"
+        ? 850
+        : areaSlug === "ciencias-natureza"
+          ? 900
+          : 1000;
+
+  const parseUpperBound = (faixa: string) => {
+    const match = faixa.match(/(\d+)\D+(\d+)/);
+    if (!match) return null;
+    return Number(match[2]);
+  };
+
+  const fullCurveData = analyticsSnapshot.empiricalCurve
     .filter((entry) => entry.n > 0)
     .map((entry) => ({
       faixa: entry.faixa.replace("[", "").replace(")", "").replace(", ", "–"),
@@ -68,6 +87,11 @@ export function ChartsPanel({
       n: entry.n,
       notaMedia: entry.notaMedia,
     }));
+
+  const curveData = fullCurveData.filter((entry) => {
+    const upperBound = parseUpperBound(entry.faixa);
+    return upperBound === null ? true : upperBound <= areaCurveLimit;
+  });
 
   const top800Curve = curveData.filter((entry) => entry.notaMedia >= 800);
   const baseBelow800Curve = curveData.filter((entry) => entry.notaMedia < 800);
@@ -87,8 +111,16 @@ export function ChartsPanel({
     top800Curve.length > 0 && baseBelow800Curve.length > 0
       ? Number((top800Accuracy - below800Accuracy).toFixed(1))
       : Number(analyticsSnapshot.discriminationGapLt600To900.toFixed(1));
+  const gapPercentile = totalQuestions > 1
+    ? Math.round(((totalQuestions - analyticsSnapshot.rankDiscrimination) / (totalQuestions - 1)) * 100)
+    : 0;
 
   const topPerformerTotal = topPerformerDistribution.reduce((sum, entry) => sum + entry.value, 0);
+  const topPerformerGroupLabel = analyticsSnapshot.topPerformerGroupLabel ?? "grupo forte";
+  const topPerformerGroupDescription =
+    analyticsSnapshot.topPerformerGroupDescription ?? "alunos do grupo forte da área";
+  const topPerformerGroupSampleSize =
+    analyticsSnapshot.topPerformerGroupSampleSize ?? top800GroupSize;
   const normalizedTopPerformerDistribution =
     topPerformerTotal > 0
       ? topPerformerDistribution.map((entry) => ({
@@ -105,9 +137,9 @@ export function ChartsPanel({
     },
     {
       label: "Gap topo vs base",
-      value: `${topVsBaseGap.toFixed(1)} p.p.`,
+      value: `${gapPercentile}`,
       detail:
-        "Diferença entre o acerto do grupo com média geral 800+ e o grupo abaixo de 800. Quanto maior o gap, mais a questão separa topo e base.",
+        `Percentil de discriminação da questão. O gap bruto foi de ${topVsBaseGap.toFixed(1)} p.p. entre alunos com média geral 800+ e o grupo abaixo de 800.`,
     },
     {
       label: "Distrator dominante",
@@ -200,12 +232,14 @@ export function ChartsPanel({
         </div>
         <div className="mt-4 rounded-[20px] border border-slate-200/80 bg-slate-50 px-4 py-4">
           <p className="text-sm leading-6 text-slate-600">
-            A curva mostra como a taxa de acerto cresce conforme sobe a faixa de nota. Isso ajuda a ver se a questão acompanha bem a progressão de desempenho ao longo da distribuição.
+            A curva mostra como a taxa de acerto cresce conforme sobe a faixa de nota dentro da escala relevante desta prova. Isso ajuda a ver se a questão acompanha bem a progressão de desempenho.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-3 text-sm font-medium text-slate-500">
             <span>Média observada da questão: {analyticsSnapshot.averageScore.toFixed(0)}</span>
             <span>•</span>
             <span>Faixas com dados reais: {curveData.length}</span>
+            <span>•</span>
+            <span>Escala considerada até {areaCurveLimit}</span>
           </div>
         </div>
       </article>
@@ -216,7 +250,7 @@ export function ChartsPanel({
             Gráfico 3
           </p>
           <h3 className="mt-2 text-xl font-semibold text-ink">
-            Distribuição das alternativas no grupo 800+
+            Distribuição das alternativas em {topPerformerGroupLabel}
           </h3>
         </div>
         <div className="h-72">
@@ -238,61 +272,49 @@ export function ChartsPanel({
           </ResponsiveContainer>
         </div>
         <p className="mt-4 text-sm leading-6 text-slate-600">
-          Mostra como ficaram distribuídas as alternativas marcadas entre alunos com média geral acima de 800. Os percentuais foram normalizados entre A-E para facilitar a comparação.
+          Mostra como ficaram distribuídas as alternativas marcadas entre {topPerformerGroupDescription}. Os percentuais foram normalizados entre A-E para facilitar a comparação.
         </p>
         <p className="mt-2 text-xs leading-5 text-slate-400">
-          Grupo 800+: {top800GroupSize.toLocaleString("pt-BR")} alunos
-          {top800GroupSize < 2000 ? " · leitura com mais cautela por ser uma amostra menor." : ""}
+          Grupo {topPerformerGroupLabel}: {topPerformerGroupSampleSize.toLocaleString("pt-BR")} alunos
+          {topPerformerGroupSampleSize < 2000
+            ? " · leitura com mais cautela por ser uma amostra menor."
+            : ""}
         </p>
       </article>
 
       <article className="rounded-[28px] border border-slate-200/80 bg-white p-5">
         <div className="mb-4">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
-            Resumo
+            Leitura por faixa
           </p>
           <h3 className="mt-2 text-xl font-semibold text-ink">
-            Posição e padrão de erro
+            Distrator dominante por faixa
           </h3>
         </div>
-        <div className="grid gap-4 lg:grid-cols-[1.1fr_0.9fr]">
-          <div className="rounded-[24px] bg-ink p-6 text-white">
-            <p className="text-sm uppercase tracking-[0.18em] text-white/60">
-              Ranking de dificuldade
-            </p>
-            <div className="mt-3 text-6xl font-semibold leading-none">
-              {difficultyRank}ª
-            </div>
-            <p className="mt-3 text-sm leading-7 text-white/75">
-              Faixa {analyticsSnapshot.difficultyBand} · discriminação{" "}
-              {analyticsSnapshot.discriminationLabel}.
-            </p>
-            <div className="mt-4 rounded-[18px] bg-white/10 p-4 text-sm leading-6 text-white/80">
-              Revisão {analyticsSnapshot.reviewPriorityLabel} · qualidade{" "}
-              {analyticsSnapshot.qualityLabel}.
-            </div>
-          </div>
-
-          <div className="space-y-3 rounded-[24px] border border-slate-200/80 bg-slate-50 p-4">
-            {analyticsSnapshot.distractorByBucket.slice(0, 3).map((entry) => (
+        <div className="space-y-3 rounded-[24px] border border-slate-200/80 bg-slate-50 p-4">
+          {analyticsSnapshot.distractorByBucket
+            .filter((entry) => {
+              const upperBound = parseUpperBound(entry.faixa.replace(", ", "–"));
+              return upperBound === null ? true : upperBound <= areaCurveLimit;
+            })
+            .map((entry) => (
               <div
                 key={entry.faixa}
                 className="rounded-[18px] border border-white bg-white px-4 py-3"
               >
                 <div className="flex items-center justify-between gap-3">
                   <p className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
-                    {entry.faixa}
+                    {entry.faixa.replace("[", "").replace(")", "").replace(", ", "–")}
                   </p>
                   <p className="text-sm font-semibold text-ink">
                     {entry.distractor} · {entry.pct.toFixed(1)}%
                   </p>
                 </div>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
-                  Distrator dominante nesta faixa de desempenho.
+                  Alternativa que mais concentrou os erros nessa faixa de desempenho.
                 </p>
               </div>
             ))}
-          </div>
         </div>
       </article>
       </div>

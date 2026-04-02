@@ -22,6 +22,15 @@ type ContentBlock =
   | { type: "paragraph"; text: string }
   | { type: "list"; items: string[] };
 
+type StatementLayout = {
+  mainBlocks: ContentBlock[];
+  sourceText: string | null;
+  trailingBlocks: ContentBlock[];
+};
+
+const PROMPT_LEAD_PATTERN =
+  /(Nesse|Nessa|Nesses|Nessas|No texto|Na tira|Na charge|Na imagem|No gr[aá]fico|Na tabela|Considerando|A partir|Com base|Em rela[cç][aã]o|Nesse contexto|Esse texto|Essa tirinha|Essa imagem|Esses dados|Esse cartaz|O texto|A tirinha|A charge|O gr[aá]fico|A tabela)/i;
+
 function normalizeInlineText(value: string) {
   return value.replace(/\s+/g, " ").trim();
 }
@@ -85,6 +94,211 @@ function parseStatementBlocks(statement: string): ContentBlock[] {
   return blocks;
 }
 
+function splitInlineSourceLine(line: string) {
+  const boundary = findInlineSourceBoundary(line);
+
+  if (boundary === null || boundary <= 0 || boundary >= line.length) {
+    return null;
+  }
+
+  const sourceText = normalizeInlineText(line.slice(0, boundary));
+  const trailingText = line.slice(boundary).trim();
+
+  if (!sourceText || !trailingText) {
+    return null;
+  }
+
+  return {
+    sourceText,
+    trailingText,
+  };
+}
+
+function trimStatementBeforeOptions(text: string) {
+  const lines = text.split("\n");
+  const optionPattern = /^[A-E][.):]?\s+/;
+  const optionIndexes = lines
+    .map((line, index) => ({ line: line.trim(), index }))
+    .filter(({ line }) => optionPattern.test(line))
+    .map(({ index }) => index);
+
+  if (optionIndexes.length >= 2) {
+    return lines.slice(0, optionIndexes[0]).join("\n").trim();
+  }
+
+  return text.trim();
+}
+
+function isSourceLine(line: string) {
+  return /^(Dispon[ií]vel em:|Fonte:|Adaptado de:|Extra[ií]do de:|Acesso em:)/i.test(line);
+}
+
+function isPromptLead(line: string) {
+  return new RegExp(`^${PROMPT_LEAD_PATTERN.source}`, "i").test(line);
+}
+
+function isParentheticalTailLine(line: string) {
+  return /^\([^)]*\)\.?$/i.test(line);
+}
+
+function findInlineSourceBoundary(text: string) {
+  const normalized = normalizeInlineText(text);
+  const accessPattern =
+    /Acesso em:\s*.*?\d{4}(?:\s*\([^)]*\))?\.?/i;
+  const accessMatch = accessPattern.exec(normalized);
+
+  if (accessMatch && accessMatch.index !== undefined) {
+    return accessMatch.index + accessMatch[0].length;
+  }
+
+  const sourcePattern =
+    /(?:Dispon[ií]vel em:|Fonte:|Adaptado de:|Extra[ií]do de:)\s*.*?(?:\([^)]*\))?\./i;
+  const sourceMatch = sourcePattern.exec(normalized);
+
+  if (sourceMatch && sourceMatch.index !== undefined) {
+    return sourceMatch.index + sourceMatch[0].length;
+  }
+
+  return null;
+}
+
+function findPromptLeadIndex(text: string) {
+  const normalized = normalizeInlineText(text);
+  const inlinePromptPattern = new RegExp(`(?:^|[.?!]\\s+)${PROMPT_LEAD_PATTERN.source}`, "i");
+  const match = inlinePromptPattern.exec(normalized);
+
+  if (!match || match.index === undefined) {
+    return null;
+  }
+
+  const boundaryOffset = match[0].length - match[1].length;
+  return match.index + boundaryOffset;
+}
+
+function splitSourceAndPromptInline(text: string) {
+  const normalized = normalizeInlineText(text);
+  const hasSourceMarker = /(Dispon[ií]vel em:|Fonte:|Adaptado de:|Extra[ií]do de:|Acesso em:)/i.test(
+    normalized,
+  );
+
+  if (!hasSourceMarker) {
+    return null;
+  }
+
+  const boundaryAfterSource = findInlineSourceBoundary(normalized);
+
+  if (boundaryAfterSource !== null && boundaryAfterSource < normalized.length) {
+    const sourceText = normalized.slice(0, boundaryAfterSource).trim();
+    const trailingText = normalized.slice(boundaryAfterSource).trim();
+
+    if (sourceText && trailingText) {
+      return {
+        sourceText,
+        trailingText,
+      };
+    }
+  }
+
+  const promptStart = findPromptLeadIndex(normalized);
+
+  if (promptStart === null || promptStart <= 0) {
+    return null;
+  }
+
+  const sourceText = normalized.slice(0, promptStart).trim();
+  const trailingText = normalized.slice(promptStart).trim();
+
+  if (!sourceText || !trailingText) {
+    return null;
+  }
+
+  return {
+    sourceText,
+    trailingText,
+  };
+}
+
+function parseStatementLayout(statement: string): StatementLayout {
+  const lines = statement.split("\n").map((line) => line.trimEnd());
+  const sourceStart = lines.findIndex((rawLine) => isSourceLine(rawLine.trim()));
+
+  if (sourceStart === -1) {
+    return {
+      mainBlocks: parseStatementBlocks(statement),
+      sourceText: null,
+      trailingBlocks: [],
+    };
+  }
+
+  const mainText = lines.slice(0, sourceStart).join("\n").trim();
+  const sourceLines: string[] = [];
+  let promptLines: string[] = [];
+
+  for (let index = sourceStart; index < lines.length; index += 1) {
+    const rawLine = lines[index];
+    const line = rawLine.trim();
+
+    if (promptLines.length > 0) {
+      promptLines.push(rawLine);
+      continue;
+    }
+
+    if (!line) {
+      if (sourceLines.length > 0) {
+        promptLines = lines.slice(index + 1);
+        break;
+      }
+      continue;
+    }
+
+    const inlineSplit = splitInlineSourceLine(rawLine);
+    if (inlineSplit) {
+      sourceLines.push(inlineSplit.sourceText);
+      promptLines = [inlineSplit.trailingText, ...lines.slice(index + 1)];
+      break;
+    }
+
+    if (
+      sourceLines.length > 0 &&
+      !isSourceLine(line) &&
+      !isParentheticalTailLine(line)
+    ) {
+      promptLines = lines.slice(index);
+      break;
+    }
+
+    sourceLines.push(rawLine);
+  }
+
+  const sourceText = normalizeInlineText(sourceLines.join(" "));
+  const trailingText = trimStatementBeforeOptions(promptLines.join("\n").trim());
+
+  if (sourceText) {
+    return {
+      mainBlocks: mainText ? parseStatementBlocks(mainText) : [],
+      sourceText,
+      trailingBlocks: trailingText ? parseStatementBlocks(trailingText) : [],
+    };
+  }
+
+  const combinedSourceAndTail = lines.slice(sourceStart).join(" ").trim();
+  const inlineSplit = splitSourceAndPromptInline(combinedSourceAndTail);
+
+  if (inlineSplit) {
+    return {
+      mainBlocks: mainText ? parseStatementBlocks(mainText) : [],
+      sourceText: inlineSplit.sourceText,
+      trailingBlocks: parseStatementBlocks(trimStatementBeforeOptions(inlineSplit.trailingText)),
+    };
+  }
+
+  return {
+    mainBlocks: mainText ? parseStatementBlocks(mainText) : [],
+    sourceText: null,
+    trailingBlocks: [],
+  };
+}
+
 export function QuestionImagePreview({
   imageUrl,
   title,
@@ -97,7 +311,7 @@ export function QuestionImagePreview({
   const hasOfficialAnswer = ["A", "B", "C", "D", "E"].includes(correctOption);
   const [zoomedAsset, setZoomedAsset] = useState<string | null>(null);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
-  const contentBlocks = useMemo(() => parseStatementBlocks(statement), [statement]);
+  const statementLayout = useMemo(() => parseStatementLayout(statement), [statement]);
   const hasStatementAssets = statementAssets.length > 0;
   const primaryAsset = statementAssets[0] ?? imageUrl;
   const hasRenderableOptions = options.some(
@@ -148,7 +362,7 @@ export function QuestionImagePreview({
             </div>
 
             <div className="space-y-4 rounded-[24px] border border-[#dfeafb] bg-white px-5 py-5">
-              {contentBlocks.map((block, index) =>
+              {statementLayout.mainBlocks.map((block, index) =>
                 block.type === "paragraph" ? (
                   <p
                     key={`${index}-${block.text.slice(0, 24)}`}
@@ -200,6 +414,40 @@ export function QuestionImagePreview({
                       </button>
                     ))}
                   </div>
+                </div>
+              ) : null}
+
+              {statementLayout.sourceText ? (
+                <div className="border-t border-[#e4eefb] pt-4">
+                  <p className="text-right text-[0.84rem] font-semibold leading-6 text-[#5a6f8d]">
+                    {statementLayout.sourceText}
+                  </p>
+                </div>
+              ) : null}
+
+              {statementLayout.trailingBlocks.length > 0 ? (
+                <div className="space-y-4 border-t border-[#e4eefb] pt-5">
+                  {statementLayout.trailingBlocks.map((block, index) =>
+                    block.type === "paragraph" ? (
+                      <p
+                        key={`tail-${index}-${block.text.slice(0, 24)}`}
+                        className="text-[1.02rem] leading-8 text-[#3d5f8a]"
+                      >
+                        {block.text}
+                      </p>
+                    ) : (
+                      <ul
+                        key={`tail-${index}-${block.items[0]?.slice(0, 24) ?? "list"}`}
+                        className="space-y-2 pl-6 text-[1.01rem] leading-8 text-[#3d5f8a]"
+                      >
+                        {block.items.map((item) => (
+                          <li key={item} className="list-disc marker:text-[#6aa5e8]">
+                            {item}
+                          </li>
+                        ))}
+                      </ul>
+                    ),
+                  )}
                 </div>
               ) : null}
             </div>

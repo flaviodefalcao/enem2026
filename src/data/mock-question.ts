@@ -122,6 +122,9 @@ export type AnalyticsSnapshot = {
   empiricalCurve: EmpiricalCurvePoint[];
   weakestBucket: ProficiencyBucketSnapshot | null;
   strongestBucket: ProficiencyBucketSnapshot | null;
+  topPerformerGroupLabel?: string;
+  topPerformerGroupDescription?: string;
+  topPerformerGroupSampleSize?: number;
 };
 
 type ExtractedQuestionContent = {
@@ -198,6 +201,10 @@ type FrontendAnalyticsQuestion = {
   difficultyRank: number;
   topDistractor: string;
   topPerformerDistribution?: Record<"A" | "B" | "C" | "D" | "E", number>;
+  topPerformerGroup?: string;
+  topPerformerGroupLabel?: string;
+  topPerformerGroupDescription?: string;
+  topPerformerGroupSampleSize?: number;
   optionDistribution: Record<"A" | "B" | "C" | "D" | "E", number>;
   proficiencyAccuracy: Array<{ faixa: string; acerto: number }>;
   comments: string[];
@@ -606,6 +613,9 @@ function buildFallbackAnalyticsSnapshot(): AnalyticsSnapshot {
     empiricalCurve: [],
     weakestBucket: bucketSnapshot[0],
     strongestBucket: bucketSnapshot[bucketSnapshot.length - 1],
+    topPerformerGroupLabel: "900+ em Matemática",
+    topPerformerGroupDescription: "alunos com 900+ em Matemática",
+    topPerformerGroupSampleSize: 0,
   };
 }
 
@@ -642,6 +652,9 @@ function buildAnalyticsSnapshot(
     empiricalCurve: analyticsContent.empiricalCurve,
     weakestBucket,
     strongestBucket,
+    topPerformerGroupLabel: analyticsContent.topPerformerGroupLabel,
+    topPerformerGroupDescription: analyticsContent.topPerformerGroupDescription,
+    topPerformerGroupSampleSize: analyticsContent.topPerformerGroupSampleSize,
   };
 }
 

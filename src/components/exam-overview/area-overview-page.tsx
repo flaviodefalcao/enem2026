@@ -74,7 +74,7 @@ export function AreaOverviewPage({
             href={`/prova/${area.year}`}
             className="inline-flex items-center rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
           >
-            ← Voltar ao menu geral
+            ← Voltar para provas
           </Link>
         </div>
         <span className="mb-3 inline-flex rounded-full bg-gold/15 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-[#4f79b0]">
@@ -93,7 +93,7 @@ export function AreaOverviewPage({
             </p>
           </div>
 
-          <div className="grid gap-4 sm:grid-cols-3 lg:grid-cols-1">
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
             <div className="rounded-3xl bg-ink p-5 text-white">
               <div className="text-sm uppercase tracking-[0.2em] text-white/70">
                 Questões
@@ -111,12 +111,6 @@ export function AreaOverviewPage({
                 {featuredQuestion.theme} • {featuredQuestion.skill}
               </div>
             </div>
-            <Link
-              href={`/prova/${area.year}`}
-              className="flex items-center justify-center rounded-3xl bg-clay px-5 py-5 text-base font-semibold text-white transition hover:bg-[#568fd0]"
-            >
-              Voltar ao menu anterior
-            </Link>
           </div>
         </div>
       </section>

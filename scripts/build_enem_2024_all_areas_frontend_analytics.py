@@ -56,8 +56,32 @@ DISTRACTOR_GROUP_LABELS = {
     "geral": "Geral",
     "media5_lt650": "Até 649",
     "media5_800plus": "800+",
+    "area_high_perf_custom": "Grupo forte da área",
     "nota_area_lt600": "Nota da área <600",
     "nota_area_900plus": "Nota da área 900+",
+}
+
+AREA_HIGH_PERF_GROUP_META = {
+    "LC": {
+        "group": "area_high_perf_custom",
+        "label": "700+ em Linguagens",
+        "description": "alunos com nota de Linguagens igual ou acima de 700",
+    },
+    "CH": {
+        "group": "area_high_perf_custom",
+        "label": "780+ em Humanas",
+        "description": "alunos com nota de Ciências Humanas igual ou acima de 780",
+    },
+    "CN": {
+        "group": "area_high_perf_custom",
+        "label": "800+ em Natureza",
+        "description": "alunos com nota de Ciências da Natureza igual ou acima de 800",
+    },
+    "MT": {
+        "group": "area_high_perf_custom",
+        "label": "900+ em Matemática",
+        "description": "alunos com nota de Matemática igual ou acima de 900",
+    },
 }
 
 VALID_OPTIONS = ["A", "B", "C", "D", "E"]
@@ -287,14 +311,59 @@ def build_group_distributions(
 ) -> list[dict[str, Any]]:
     payload: list[dict[str, Any]] = []
     for group in sorted(distractors_df["grupo"].dropna().unique().tolist()):
+        filtered = distractors_df[
+            (distractors_df["questao_num"] == question_num) & (distractors_df["grupo"] == group)
+        ].copy()
         payload.append(
             {
                 "group": group,
                 "label": DISTRACTOR_GROUP_LABELS.get(group, group),
                 "distribution": normalize_option_distribution(distractors_df, question_num, group),
+                "sampleSize": int(filtered["n"].sum()) if not filtered.empty else 0,
             }
         )
     return payload
+
+
+def resolve_high_perf_group(area_code: str, group_distributions: list[dict[str, Any]]) -> dict[str, Any]:
+    preferred = AREA_HIGH_PERF_GROUP_META[area_code]
+
+    for candidate_group in (preferred["group"], "media5_800plus", "geral"):
+        match = next(
+            (
+                entry
+                for entry in group_distributions
+                if entry["group"] == candidate_group
+                and sum(entry["distribution"].values()) > 0
+            ),
+            None,
+        )
+        if match:
+            label = (
+                preferred["label"]
+                if candidate_group == preferred["group"]
+                else match["label"]
+            )
+            description = (
+                preferred["description"]
+                if candidate_group == preferred["group"]
+                else "grupo de referência disponível na base"
+            )
+            return {
+                "group": candidate_group,
+                "label": label,
+                "description": description,
+                "distribution": match["distribution"],
+                "sampleSize": int(match.get("sampleSize", 0) or 0),
+            }
+
+    return {
+        "group": "geral",
+        "label": "Geral",
+        "description": "grupo de referência disponível na base",
+        "distribution": {option: 0.0 for option in VALID_OPTIONS},
+        "sampleSize": 0,
+    }
 
 
 def build_comments(row: pd.Series) -> list[str]:
@@ -312,18 +381,23 @@ def build_comments(row: pd.Series) -> list[str]:
     ]
 
 
-def build_resolution(row: pd.Series) -> dict[str, Any]:
+def build_resolution(row: pd.Series, area_code: str) -> dict[str, Any]:
     top = str(row.get("distrator_dominante_geral") or "-")
     top_low = str(row.get("distrator_dominante_media5_lt650") or top)
-    top_high = str(row.get("distrator_dominante_media5_800plus") or top)
+    top_high = str(
+        row.get("distrator_dominante_area_high_perf_custom")
+        or row.get("distrator_dominante_media5_800plus")
+        or top
+    )
     delta = to_percent(row.get("delta_800plus_vs_lt650"))
+    high_perf_label = AREA_HIGH_PERF_GROUP_META[area_code]["label"]
     summary = str(row.get("summary_auto") or "").strip()
     return {
         "whatItAsks": summary or "Leitura estruturada do item com base no comportamento observado nos microdados.",
         "howToSolve": "A resolução editorial específica ainda será refinada por área, mas os dados reais já destacam o padrão de acerto por faixa e a alternativa correta oficial.",
-        "whyErrorsHappen": f"Os erros se concentram principalmente no distrator {top}, com mudança de padrão entre a base ({top_low}) e o topo de desempenho ({top_high}).",
+        "whyErrorsHappen": f"Os erros se concentram principalmente no distrator {top}, com mudança de padrão entre a base ({top_low}) e o grupo forte da área ({top_high}).",
         "distractorCommentary": [
-            f"O gap entre 800+ e a base é de {delta:.1f} p.p., sugerindo forte separação entre níveis de proficiência.",
+            f"O gap entre {high_perf_label} e a base é de {delta:.1f} p.p., sugerindo forte separação entre níveis de proficiência.",
             f"O distrator {top} organiza a maior parte dos erros observados.",
             "A leitura pedagógica fina ainda pode ser refinada quando entrarem os temas e habilidades oficiais da área.",
         ],
@@ -331,12 +405,9 @@ def build_resolution(row: pd.Series) -> dict[str, Any]:
 
 
 def build_top_performer_distribution(
-    distractors_df: pd.DataFrame, question_num: int
-) -> dict[str, float]:
-    distribution = normalize_option_distribution(distractors_df, question_num, "media5_800plus")
-    if sum(distribution.values()) == 0:
-        distribution = normalize_option_distribution(distractors_df, question_num, "geral")
-    return distribution
+    group_distributions: list[dict[str, Any]], area_code: str
+) -> dict[str, Any]:
+    return resolve_high_perf_group(area_code, group_distributions)
 
 
 def build_area_payload(
@@ -375,6 +446,7 @@ def build_area_payload(
         bucket_snapshot = build_bucket_snapshot(row, area_code)
         empirical_curve = build_empirical_curve(curves, source_question_num)
         group_distributions = build_group_distributions(distractors, source_question_num)
+        high_perf_group = build_top_performer_distribution(group_distributions, area_code)
         option_distribution = normalize_option_distribution(distractors, source_question_num, "geral")
 
         weakest_bucket = min(bucket_snapshot, key=lambda item: item["acerto"]) if bucket_snapshot else None
@@ -401,7 +473,11 @@ def build_area_payload(
                 "topDistractor800plus": str(row.get("distrator_dominante_media5_800plus") or "-"),
                 "topDistractorLt650": str(row.get("distrator_dominante_media5_lt650") or "-"),
                 "optionDistribution": option_distribution,
-                "topPerformerDistribution": build_top_performer_distribution(distractors, source_question_num),
+                "topPerformerDistribution": high_perf_group["distribution"],
+                "topPerformerGroup": high_perf_group["group"],
+                "topPerformerGroupLabel": high_perf_group["label"],
+                "topPerformerGroupDescription": high_perf_group["description"],
+                "topPerformerGroupSampleSize": high_perf_group["sampleSize"],
                 "proficiencyAccuracy": build_proficiency_accuracy(row, area_code),
                 "comments": build_comments(row),
                 "analyticsSummary": str(row.get("summary_auto") or ""),
@@ -431,7 +507,7 @@ def build_area_payload(
                 "weakestBucket": weakest_bucket,
                 "strongestBucket": strongest_bucket,
                 "groupDistributions": group_distributions,
-                "resolution": build_resolution(row),
+                "resolution": build_resolution(row, area_code),
             }
         )
 

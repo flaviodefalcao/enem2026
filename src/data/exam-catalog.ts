@@ -458,10 +458,15 @@ type AreaFrontendAnalyticsQuestion = {
   difficultyRank800: number;
   topDistractor: string;
   topPerformerDistribution?: Record<"A" | "B" | "C" | "D" | "E", number>;
+  topPerformerGroup?: string;
+  topPerformerGroupLabel?: string;
+  topPerformerGroupDescription?: string;
+  topPerformerGroupSampleSize?: number;
   groupDistributions?: Array<{
     group: string;
     label: string;
     distribution: Record<"A" | "B" | "C" | "D" | "E", number>;
+    sampleSize?: number;
   }>;
   optionDistribution: Record<"A" | "B" | "C" | "D" | "E", number>;
   proficiencyAccuracy: Array<{ faixa: string; acerto: number }>;
@@ -611,6 +616,31 @@ function getPdfFile(year: ExamYear, area: AreaSlug) {
 
 function clamp(value: number, min: number, max: number) {
   return Math.min(Math.max(value, min), max);
+}
+
+function getDefaultTopPerformerMeta(areaSlug: AreaSlug) {
+  switch (areaSlug) {
+    case "linguagens":
+      return {
+        label: "700+ em Linguagens",
+        description: "alunos com 700+ em Linguagens",
+      };
+    case "ciencias-humanas":
+      return {
+        label: "780+ em Humanas",
+        description: "alunos com 780+ em Ciências Humanas",
+      };
+    case "ciencias-natureza":
+      return {
+        label: "800+ em Natureza",
+        description: "alunos com 800+ em Ciências da Natureza",
+      };
+    case "matematica":
+      return {
+        label: "900+ em Matemática",
+        description: "alunos com 900+ em Matemática",
+      };
+  }
 }
 
 function bucketStartValue(label: string) {
@@ -892,6 +922,8 @@ function buildTopPerformerDistribution(
   analytics?: AreaFrontendAnalyticsQuestion,
 ) {
   const topGroup =
+    analytics?.groupDistributions?.find((entry) => entry.group === "area_high_perf_custom")
+      ?.distribution ??
     analytics?.groupDistributions?.find((entry) => entry.group === "media5_800plus")
       ?.distribution ??
     analytics?.topPerformerDistribution;
@@ -1220,6 +1252,7 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
     const difficulty = buildMockDifficulty(accuracy);
     const difficultyRank = analytics?.difficultyRank ?? (((index * 11) % 45) + 1);
     const difficultyLevel = buildMockDifficultyLevel(difficultyRank);
+    const topPerformerMeta = getDefaultTopPerformerMeta(area);
     const distribution =
       analytics?.optionDistribution ?? buildMockOptionDistribution(id, correctOption);
     const triA = analytics?.tri.a ?? Number((0.9 + ((id * 13) % 23) / 10).toFixed(2));
@@ -1408,6 +1441,12 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
           analytics?.weakestBucket ?? { faixa: "Até 599", acerto: clamp(accuracy - 18, 6, 52), n: 3200 + id * 7 },
         strongestBucket:
           analytics?.strongestBucket ?? { faixa: "900+", acerto: clamp(accuracy + 18, 30, 91), n: 2200 + id * 7 },
+        topPerformerGroupLabel:
+          analytics?.topPerformerGroupLabel ?? topPerformerMeta.label,
+        topPerformerGroupDescription:
+          analytics?.topPerformerGroupDescription ?? topPerformerMeta.description,
+        topPerformerGroupSampleSize:
+          analytics?.topPerformerGroupSampleSize ?? 0,
       },
       resolution:
         generatedFinal

@@ -90,9 +90,24 @@ function getDifficultyTheme(level: number) {
   };
 }
 
-function ordinalLabel(value: number) {
-  if (!value) return "-";
-  return `${value}a`;
+function difficultyPercentile(rank: number, total = 45) {
+  if (!rank || total <= 1) return 0;
+  return Math.round(((total - rank) / (total - 1)) * 100);
+}
+
+function difficultyPercentileLabel(rank: number, total = 45) {
+  if (!rank) return "-";
+  const percentile = difficultyPercentile(rank, total);
+  return `P${percentile}`;
+}
+
+function triADiscriminationScore(a: number) {
+  const normalized = (Math.max(0, Math.min(a, 4)) / 4) * 1000;
+  return Math.round(normalized);
+}
+
+function triBDidacticScore(b: number) {
+  return Math.max(0, Math.min(1000, Math.round(b * 100 + 500)));
 }
 
 function difficultyHelperText(level: number) {
@@ -146,22 +161,29 @@ function rankingPosition(rank: number, total = 45) {
   return ((total - rank) / (total - 1)) * 100;
 }
 
+function scaledPosition(value: number, min: number, max: number) {
+  if (max <= min) return 0;
+  const clamped = Math.min(Math.max(value, min), max);
+  return ((clamped - min) / (max - min)) * 100;
+}
+
 function ScaleMetricCard({
   label,
-  rank,
+  valueLabel,
+  position,
   helper,
   leftLabel,
   rightLabel,
   tone = "rose",
 }: {
   label: string;
-  rank: number;
+  valueLabel: string;
+  position: number;
   helper: string;
   leftLabel: string;
   rightLabel: string;
   tone?: "rose" | "sky" | "violet";
 }) {
-  const position = rankingPosition(rank);
   const toneClasses =
     tone === "sky"
       ? {
@@ -175,7 +197,7 @@ function ScaleMetricCard({
             dot: "bg-violet-600 ring-violet-100",
             text: "text-violet-700",
           }
-        : {
+      : {
             track: "from-emerald-200 via-amber-200 to-rose-400",
             dot: "bg-rose-500 ring-rose-100",
             text: "text-rose-700",
@@ -186,15 +208,15 @@ function ScaleMetricCard({
       <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
         {label}
       </p>
-      <div className="mt-6">
-        <div className="relative px-1 pb-1 pt-7">
+      <div className="mt-5">
+        <div className="relative px-1 pb-1 pt-8">
           <div className={`h-2 rounded-full bg-gradient-to-r ${toneClasses.track}`} />
           <div
             className="absolute top-0 -translate-x-1/2"
             style={{ left: `${position}%` }}
           >
-            <div className={`mb-2 text-center text-sm font-semibold ${toneClasses.text}`}>
-              {ordinalLabel(rank)}
+            <div className={`mb-2 whitespace-nowrap text-center text-xs font-semibold ${toneClasses.text}`}>
+              {valueLabel}
             </div>
             <div className={`h-4 w-4 rounded-full ${toneClasses.dot} ring-4 shadow-sm`} />
           </div>
@@ -219,28 +241,13 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
     question.officialResolution?.shortThemeTitle ??
     question.subtheme ??
     question.theme;
-  const analyticsHighlights = isAnnulled
-    ? [
-        ["Status", "Questão anulada"],
-        ["Gabarito", "Sem alternativa válida"],
-        ["Dados", "Indicadores estatísticos não devem ser lidos como válidos"],
-      ]
-    : [
-        [
-          areaSlug === "linguagens" ? "Gap 800+ vs <600" : "Gap 900+ vs <600",
-          `${question.analyticsSnapshot.discriminationGapLt600To900.toFixed(1)} p.p.`,
-        ],
-        ["Distrator dominante", `${question.topDistractor} · ${question.analyticsSnapshot.dominantDistractorShare.toFixed(1)}%`],
-        ["Informação do item", question.analyticsSnapshot.informationLabel],
-      ];
-  const metadataEntries = [
-    ["Tema", question.theme],
-    ["Subtema", question.subtheme],
-    ["Habilidade ENEM", question.skill],
-    ["Tipo cognitivo", question.metadata.cognitiveType],
-    ["Usa gráfico/tabela", question.metadata.usesChart ? "Sim" : "Não"],
-    ["Nível de abstração", question.metadata.abstractionLevel],
-  ];
+  const totalQuestions = 45;
+  const difficultyRankPosition = rankingPosition(question.difficultyRank);
+  const difficultyPercentileValue = difficultyPercentile(question.difficultyRank, totalQuestions);
+  const discriminationScore = triADiscriminationScore(question.triMetrics.a);
+  const discriminationPosition = scaledPosition(discriminationScore, 0, 1000);
+  const triDifficultyScore = triBDidacticScore(question.triMetrics.b);
+  const triDifficultyPosition = scaledPosition(triDifficultyScore, 0, 1000);
   const resolveRelationTone = (relation: string) => {
     const normalized = relation.toLowerCase();
     if (normalized.includes("habilidade")) return relationToneMap.skill;
@@ -253,98 +260,123 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
   };
 
   return (
-    <main className="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-8 px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
+    <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 py-8 sm:px-6 lg:px-4 lg:py-12 xl:px-5">
       <section className="overflow-hidden rounded-[34px] border border-white/70 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.96),rgba(245,249,255,0.88)_42%,rgba(232,242,255,0.92)_100%)] p-6 shadow-card backdrop-blur sm:p-8">
-        <div className="grid gap-6 xl:grid-cols-[minmax(0,1.2fr)_420px] xl:items-start">
-          <div>
-            <div className="flex flex-wrap items-center gap-3">
-              <Badge label={question.theme} tone="gold" />
-              <Badge label={`Habilidade ${question.skill}`} tone="ink" />
-            </div>
-            <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2">
-              <p className="text-sm font-semibold uppercase tracking-[0.14em] text-slate-500">
-                {question.skillDescription || "Descrição da habilidade em atualização"}
-              </p>
-              {question.competenceDescription ? (
-                <span className="text-sm text-slate-400">• {question.competenceDescription}</span>
-              ) : null}
-            </div>
-            <h1 className="mt-4 max-w-5xl font-display text-4xl leading-[0.95] text-ink sm:text-5xl lg:text-6xl">
+        <div className="mb-5 flex justify-end">
+          <Link
+            href={question.areaRoute}
+            className="inline-flex items-center rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
+          >
+            ← Voltar para prova
+          </Link>
+        </div>
+
+        <details className="group">
+          <summary className="flex list-none items-start justify-between gap-4 [&::-webkit-details-marker]:hidden">
+            <h1 className="max-w-5xl font-display text-4xl leading-[0.95] text-ink sm:text-5xl lg:text-6xl">
               Questão {question.examQuestionNumber}
               <span className="mx-3 hidden text-slate-300 sm:inline">—</span>
               <span className="block text-[0.78em] sm:inline">
                 ENEM {question.year} · {question.areaLabel}
               </span>
             </h1>
-            <p className="mt-3 max-w-4xl text-lg font-medium leading-8 text-slate-600 sm:text-xl">
-              {contentTitle}
-            </p>
+            <span className="mt-2 inline-flex shrink-0 rounded-full border border-[#d6e6ff] bg-white/85 px-4 py-2 text-sm font-semibold text-[#4f79b0] shadow-[0_10px_30px_rgba(15,23,42,0.05)] transition hover:border-clay/40 hover:text-clay">
+              <span className="group-open:hidden">Mostrar painel</span>
+              <span className="hidden group-open:inline">Fechar painel</span>
+            </span>
+          </summary>
 
-            <div className="mt-5 rounded-[28px] border border-white/70 bg-white/72 px-5 py-5 shadow-[0_18px_40px_rgba(15,23,42,0.05)] backdrop-blur">
-              <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
-                <div>
-                  <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
-                    Dificuldade relativa na prova
-                  </p>
-                  <div className="mt-3 flex flex-wrap items-center gap-3">
-                    <span
-                      className={`inline-flex rounded-full px-4 py-2 text-sm font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}
-                    >
-                      {question.triMetrics.relativeDifficultyLabel}
-                    </span>
-                    <span className={`text-sm font-semibold ${difficultyTheme.text}`}>
-                      Nível {question.triMetrics.difficultyLevel}/5 entre as 45 questões
-                    </span>
+          <div className="mt-6 space-y-6">
+            <div className="grid gap-6 xl:grid-cols-[minmax(0,0.95fr)_minmax(460px,1.05fr)] xl:items-start">
+              <div>
+                <p className="max-w-4xl text-lg font-medium leading-8 text-slate-600 sm:text-xl">
+                  {contentTitle}
+                </p>
+
+                <div className="mt-5 rounded-[24px] border border-white/70 bg-white/72 px-4 py-4 shadow-[0_18px_40px_rgba(15,23,42,0.05)] backdrop-blur">
+                  <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+                    <div>
+                      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
+                        Dificuldade relativa na prova
+                      </p>
+                      <div className="mt-3 flex flex-wrap items-center gap-3">
+                        <span
+                          className={`inline-flex rounded-full px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}
+                        >
+                          {question.triMetrics.relativeDifficultyLabel}
+                        </span>
+                        <span className={`text-xs font-semibold ${difficultyTheme.text}`}>
+                          Nível {question.triMetrics.difficultyLevel}/5 entre as 45 questões
+                        </span>
+                      </div>
+                      <p className="mt-3 text-xs leading-5 text-slate-600 sm:text-sm sm:leading-6">
+                        {difficultyHelperText(question.triMetrics.difficultyLevel)}
+                      </p>
+                    </div>
+
+                    <div className="flex gap-2 lg:self-start">
+                      {Array.from({ length: 5 }, (_, index) => {
+                        const active = index < question.triMetrics.difficultyLevel;
+                        return (
+                          <span
+                            key={index}
+                            className={`h-2.5 w-10 rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
+                          />
+                        );
+                      })}
+                    </div>
                   </div>
-                  <p className="mt-3 text-sm leading-6 text-slate-600">
-                    {difficultyHelperText(question.triMetrics.difficultyLevel)}
-                  </p>
-                </div>
-
-                <div className="flex gap-2">
-                  {Array.from({ length: 5 }, (_, index) => {
-                    const active = index < question.triMetrics.difficultyLevel;
-                    return (
-                      <span
-                        key={index}
-                        className={`h-3 w-12 rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
-                      />
-                    );
-                  })}
                 </div>
               </div>
+
+              <div className="rounded-[28px] border border-slate-200/80 bg-white/88 px-6 py-5 shadow-[0_18px_40px_rgba(15,23,42,0.06)]">
+                <div className="flex flex-wrap items-center gap-3">
+                  <Badge label={`Habilidade ${question.skill}`} tone="ink" />
+                </div>
+                <p className="mt-4 text-sm font-semibold uppercase tracking-[0.14em] text-slate-500">
+                  {question.skillDescription || "Descrição da habilidade em atualização"}
+                </p>
+                {question.competenceDescription ? (
+                  <p className="mt-3 text-sm leading-6 text-slate-600">
+                    {question.competenceDescription}
+                  </p>
+                ) : null}
+              </div>
+            </div>
+
+            <div className="grid gap-3 sm:grid-cols-3">
+              <ScaleMetricCard
+                label="Ranking de dificuldade baseado em acertos"
+                valueLabel={difficultyPercentileLabel(question.difficultyRank, totalQuestions)}
+                position={difficultyRankPosition}
+                leftLabel="Mais fácil"
+                rightLabel="Mais difícil"
+                helper={`Percentil de exigência dentro desta prova. Esta questão fica acima de ${difficultyPercentileValue}% das demais em dificuldade observada por acertos.`}
+              />
+              <ScaleMetricCard
+                label="Discriminação"
+                valueLabel={`${discriminationScore}`}
+                position={discriminationPosition}
+                leftLabel="Separa menos"
+                rightLabel="Separa mais"
+                tone="sky"
+                helper="Escala normalizada de 0 a 1000 a partir do parâmetro A. Quanto mais à direita, mais o item ajuda a separar alunos de desempenhos diferentes e mais diagnóstico ele tende a trazer para a proficiência."
+              />
+              <ScaleMetricCard
+                label="Dificuldade TRI"
+                valueLabel={`${triDifficultyScore}`}
+                position={triDifficultyPosition}
+                leftLabel="Menor"
+                rightLabel="Maior"
+                tone="violet"
+                helper="Essa régua traduz o parâmetro B para uma escala mais intuitiva. Valores mais altos indicam que o item costuma exigir maior proficiência para ser acertado dentro da lógica TRI."
+              />
             </div>
           </div>
-
-          <div className="grid gap-3 sm:grid-cols-3 xl:grid-cols-1">
-            <ScaleMetricCard
-              label="Ranking de dificuldade baseado em acertos"
-              rank={question.difficultyRank}
-              leftLabel="Mais fácil"
-              rightLabel="Mais difícil"
-              helper="A régua vai da menor exigência para a maior exigência dentro desta prova."
-            />
-            <ScaleMetricCard
-              label="Discriminação"
-              rank={question.triMetrics.rankA}
-              leftLabel="Menor"
-              rightLabel="Maior"
-              tone="sky"
-              helper={`Valor TRI ${question.triMetrics.a.toFixed(2)} · quanto mais à direita, mais o item ajuda a separar desempenhos diferentes.`}
-            />
-            <ScaleMetricCard
-              label="Dificuldade TRI"
-              rank={question.triMetrics.rankB}
-              leftLabel="Menor"
-              rightLabel="Maior"
-              tone="violet"
-              helper={`Valor TRI ${question.triMetrics.b.toFixed(2)} · quanto mais à direita, mais exigente o item tende a ser.`}
-            />
-          </div>
-        </div>
+        </details>
       </section>
 
-      <section className="grid gap-4 rounded-[32px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:grid-cols-3 sm:p-5">
+      <section className="grid gap-4 rounded-[32px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:grid-cols-2 sm:p-5">
         {previousId ? (
           <Link
             href={`/questoes/${question.year}/${question.areaSlug}/${previousId}`}
@@ -357,13 +389,6 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
             ← Questão anterior
           </div>
         )}
-
-        <Link
-          href={question.areaRoute}
-          className="rounded-[24px] bg-ink px-5 py-4 text-center text-sm font-semibold text-white transition hover:bg-[#21436c]"
-        >
-          Voltar para prova
-        </Link>
 
         {nextId ? (
           <Link
@@ -379,7 +404,7 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
         )}
       </section>
 
-      <section className="grid gap-6 xl:grid-cols-[minmax(0,1.35fr)_360px]">
+      <section className="mx-auto w-full max-w-[1080px]">
         <QuestionImagePreview
           imageUrl={question.imageUrl}
           title={question.title}
@@ -389,65 +414,6 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
           correctOption={question.correctOption}
           options={question.options}
         />
-
-        <aside className="space-y-5 xl:sticky xl:top-6 xl:self-start">
-          <section className="rounded-[30px] border border-white/70 bg-white/85 p-5 shadow-card backdrop-blur">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500">
-              Leitura rápida
-            </p>
-            <div className="mt-4 grid gap-3">
-              {analyticsHighlights.map(([label, value]) => (
-                <div
-                  key={label}
-                  className="rounded-[22px] border border-slate-200/80 bg-slate-50 px-4 py-4"
-                >
-                  <p className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
-                    {label}
-                  </p>
-                  <p className="mt-2 text-sm font-medium leading-7 text-ink">{value}</p>
-                </div>
-              ))}
-            </div>
-          </section>
-
-          <section className="rounded-[30px] border border-white/70 bg-white/85 p-5 shadow-card backdrop-blur">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500">
-              Comentários da questão
-            </p>
-            <div className="mt-4 space-y-3">
-              {question.comments.map((comment, index) => (
-                <article
-                  key={comment}
-                  className="rounded-[22px] border border-slate-200/80 bg-slate-50 px-4 py-4"
-                >
-                  <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-                    {analyticalHeadings[index] ?? `Comentário ${index + 1}`}
-                  </p>
-                  <p className="mt-2 text-sm leading-7 text-slate-700">{comment}</p>
-                </article>
-              ))}
-            </div>
-          </section>
-
-          <section className="rounded-[30px] border border-white/70 bg-white/85 p-5 shadow-card backdrop-blur">
-            <p className="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500">
-              Metadados pedagógicos
-            </p>
-            <div className="mt-4 space-y-3">
-              {metadataEntries.map(([label, value]) => (
-                <div
-                  key={label}
-                  className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4"
-                >
-                  <p className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
-                    {label}
-                  </p>
-                  <p className="mt-2 text-sm font-medium leading-7 text-ink">{value}</p>
-                </div>
-              ))}
-            </div>
-          </section>
-        </aside>
       </section>
 
       <SectionShell title="Resolução" eyebrow="Explicação guiada">
