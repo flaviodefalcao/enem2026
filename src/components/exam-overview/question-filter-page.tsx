@@ -122,7 +122,7 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
   );
   const themeOptions = useMemo(
     () =>
-      Array.from(new Map(questions.map((question) => [question.theme, simplifyThemeLabel(question.theme)])).entries())
+      Array.from(new Map(questions.map((question) => [question.theme, question.theme.trim()])).entries())
         .map(([value, label]) => ({ value, label }))
         .sort((left, right) => left.label.localeCompare(right.label, "pt-BR")),
     [questions],
@@ -131,6 +131,10 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
     () => Array.from(new Set(questions.map((question) => question.skill))).sort(),
     [questions],
   );
+  const selectedThemeLabel =
+    selectedTheme === "all"
+      ? "Todos os temas"
+      : themeOptions.find((theme) => theme.value === selectedTheme)?.label ?? selectedTheme;
 
   const toggleYear = (year: number) => {
     setSelectedYears((current) =>
@@ -353,18 +357,39 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
               <span className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
                 Tema
               </span>
-              <select
-                value={selectedTheme}
-                onChange={(event) => setSelectedTheme(event.target.value)}
-                className="w-full rounded-[16px] border border-[#d6e6ff] bg-[#f8fbff] px-4 py-3 text-sm font-medium text-ink outline-none transition focus:border-[#6AA5E8]"
-              >
-                <option value="all">Todos os temas</option>
-                {themeOptions.map((theme) => (
-                  <option key={theme.value} value={theme.value}>
-                    {theme.label}
-                  </option>
-                ))}
-              </select>
+              <details className="group relative">
+                <summary className="flex w-full cursor-pointer list-none items-center justify-between rounded-[16px] border border-[#d6e6ff] bg-[#f8fbff] px-4 py-3 text-left text-sm font-medium text-ink outline-none transition hover:border-[#6AA5E8] [&::-webkit-details-marker]:hidden">
+                  <span className="pr-4 leading-6">{selectedThemeLabel}</span>
+                  <span className="text-slate-400 transition group-open:rotate-180">▾</span>
+                </summary>
+                <div className="absolute z-20 mt-2 max-h-[320px] w-full overflow-auto rounded-[20px] border border-[#d6e6ff] bg-white p-2 shadow-[0_20px_60px_rgba(15,23,42,0.14)]">
+                  <button
+                    type="button"
+                    onClick={() => setSelectedTheme("all")}
+                    className={`block w-full rounded-[14px] px-3 py-2 text-left text-sm leading-6 transition ${
+                      selectedTheme === "all"
+                        ? "bg-[#6AA5E8] text-white"
+                        : "text-slate-700 hover:bg-[#eef5ff]"
+                    }`}
+                  >
+                    Todos os temas
+                  </button>
+                  {themeOptions.map((theme) => (
+                    <button
+                      key={theme.value}
+                      type="button"
+                      onClick={() => setSelectedTheme(theme.value)}
+                      className={`mt-1 block w-full rounded-[14px] px-3 py-2 text-left text-sm leading-6 transition ${
+                        selectedTheme === theme.value
+                          ? "bg-[#6AA5E8] text-white"
+                          : "text-slate-700 hover:bg-[#eef5ff]"
+                      }`}
+                    >
+                      {theme.label}
+                    </button>
+                  ))}
+                </div>
+              </details>
             </label>
 
             <label className="space-y-2">
