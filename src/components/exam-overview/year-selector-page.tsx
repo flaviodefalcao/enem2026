@@ -25,6 +25,12 @@ export function YearSelectorPage({ years }: YearSelectorPageProps) {
           >
             Abrir métricas estratégicas
           </Link>
+          <Link
+            href="/filtrar-questoes"
+            className="rounded-full border border-[#d6e6ff] bg-white px-5 py-3 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
+          >
+            Filtrar questões
+          </Link>
         </div>
       </section>
 

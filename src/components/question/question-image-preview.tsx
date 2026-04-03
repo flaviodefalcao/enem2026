@@ -314,9 +314,23 @@ export function QuestionImagePreview({
   const statementLayout = useMemo(() => parseStatementLayout(statement), [statement]);
   const hasStatementAssets = statementAssets.length > 0;
   const primaryAsset = statementAssets[0] ?? imageUrl;
-  const hasRenderableOptions = options.some(
-    (item) => item.text.trim().length > 0 || item.assets.length > 0 || item.displayMode === "suppressed",
+  const hasMeaningfulOptionContent = options.some(
+    (item) =>
+      item.text.trim().length > 0 ||
+      item.assets.length > 0 ||
+      item.displayMode === "asset_only",
   );
+  const hasRenderableOptions = hasMeaningfulOptionContent;
+  const fullQuestionPreservedInStatementAsset =
+    hasStatementAssets &&
+    options.every(
+      (item) =>
+        item.text.trim().length === 0 &&
+        item.assets.length === 0 &&
+        item.displayMode !== "asset_only",
+    );
+  const hideAlternativesSection =
+    fullQuestionPreservedInStatementAsset || (!hasMeaningfulOptionContent && hasStatementAssets);
 
   return (
     <>
@@ -387,7 +401,9 @@ export function QuestionImagePreview({
               {hasStatementAssets ? (
                 <div className="space-y-3 pt-2">
                   <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-                    Figuras, gráficos e tabelas da questão
+                    {fullQuestionPreservedInStatementAsset
+                      ? "Questão preservada no asset"
+                      : "Figuras, gráficos e tabelas da questão"}
                   </p>
                   <div
                     className={`grid gap-4 ${
@@ -401,15 +417,21 @@ export function QuestionImagePreview({
                         onClick={() => setZoomedAsset(asset)}
                         className="group rounded-[24px] border border-[#dfeafb] bg-[#f7fbff] p-3 text-left transition hover:border-clay/50"
                       >
-                        <div className="flex min-h-[260px] items-center justify-center overflow-hidden rounded-[18px] bg-white p-3">
+                        <div
+                          className={`flex items-center justify-center overflow-hidden rounded-[18px] bg-white p-3 ${
+                            fullQuestionPreservedInStatementAsset ? "min-h-[180px]" : "min-h-[260px]"
+                          }`}
+                        >
                           <img
                             src={asset}
                             alt={`Elemento visual ${index + 1} da ${title}`}
-                            className="max-h-[420px] w-auto max-w-full object-contain"
+                            className={`w-auto max-w-full object-contain ${
+                              fullQuestionPreservedInStatementAsset ? "max-h-[760px]" : "max-h-[420px]"
+                            }`}
                           />
                         </div>
                         <p className="mt-3 text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
-                          Asset {index + 1}
+                          {fullQuestionPreservedInStatementAsset ? "Questão completa" : `Asset ${index + 1}`}
                         </p>
                       </button>
                     ))}
@@ -453,6 +475,7 @@ export function QuestionImagePreview({
             </div>
           </section>
 
+          {!hideAlternativesSection ? (
           <section className="space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-3">
               <div className="flex items-center gap-3">
@@ -575,6 +598,7 @@ export function QuestionImagePreview({
             </div>
             )}
           </section>
+          ) : null}
         </div>
       </article>
 

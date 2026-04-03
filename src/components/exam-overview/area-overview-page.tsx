@@ -1,3 +1,6 @@
+"use client";
+
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import { ExamInsightsPanel } from "@/components/exam-overview/exam-insights-panel";
 import type { AreaMeta, AreaQuestionSummary } from "@/data/exam-catalog";
@@ -25,10 +28,103 @@ export function AreaOverviewPage({
   questions,
   overviewAnalytics,
 }: AreaOverviewPageProps) {
+  const [selectedLevels, setSelectedLevels] = useState<number[]>([]);
+  const [selectedTheme, setSelectedTheme] = useState<string>("all");
+  const [sortBy, setSortBy] = useState<
+    "default" | "difficulty_desc" | "difficulty_asc" | "accuracy_asc" | "accuracy_desc"
+  >("default");
+
   const featuredQuestion = questions[11] ?? questions[0];
   const averageAccuracy = (
     questions.reduce((sum, question) => sum + question.accuracy, 0) / questions.length
   ).toFixed(1);
+
+  const simplifyThemeLabel = (theme: string) => {
+    const cleaned = theme
+      .replace(
+        /^(utilizar|utilize|conhecer|conhe[aç]a|compreender|interpretar|resolver|analisar|identificar|relacionar|aplicar|avaliar)\s+/i,
+        "",
+      )
+      .replace(/\s+/g, " ")
+      .trim();
+
+    const cutByConnector = cleaned.split(/\s+(?:para|como|por meio de|a partir de)\s+/i)[0] ?? cleaned;
+    const base = cutByConnector.length >= 12 ? cutByConnector : cleaned;
+    if (base.length <= 34) {
+      return base.charAt(0).toUpperCase() + base.slice(1);
+    }
+
+    const words = base.split(" ");
+    let compact = "";
+    for (const word of words) {
+      const next = compact ? `${compact} ${word}` : word;
+      if (next.length > 34) break;
+      compact = next;
+    }
+
+    const finalLabel = compact || base.slice(0, 31).trim();
+    return `${finalLabel.charAt(0).toUpperCase()}${finalLabel.slice(1)}`;
+  };
+
+  const themeOptions = useMemo(() => {
+    const unique = new Map<string, string>();
+    for (const question of questions) {
+      if (!unique.has(question.theme)) {
+        unique.set(question.theme, simplifyThemeLabel(question.theme));
+      }
+    }
+
+    return Array.from(unique.entries())
+      .map(([value, label]) => ({ value, label }))
+      .sort((left, right) => left.label.localeCompare(right.label, "pt-BR"));
+  }, [questions]);
+
+  const visibleQuestions = useMemo(() => {
+    const filtered = questions.filter((question) => {
+      const matchesLevel =
+        selectedLevels.length === 0 || selectedLevels.includes(question.difficultyLevel);
+      const matchesTheme = selectedTheme === "all" || question.theme === selectedTheme;
+      return matchesLevel && matchesTheme;
+    });
+
+    const sorted = [...filtered];
+    switch (sortBy) {
+      case "difficulty_desc":
+        sorted.sort(
+          (left, right) =>
+            right.difficultyLevel - left.difficultyLevel ||
+            left.accuracy - right.accuracy ||
+            left.id - right.id,
+        );
+        break;
+      case "difficulty_asc":
+        sorted.sort(
+          (left, right) =>
+            left.difficultyLevel - right.difficultyLevel ||
+            right.accuracy - left.accuracy ||
+            left.id - right.id,
+        );
+        break;
+      case "accuracy_asc":
+        sorted.sort((left, right) => left.accuracy - right.accuracy || left.id - right.id);
+        break;
+      case "accuracy_desc":
+        sorted.sort((left, right) => right.accuracy - left.accuracy || left.id - right.id);
+        break;
+      default:
+        sorted.sort((left, right) => left.id - right.id);
+    }
+
+    return sorted;
+  }, [questions, selectedLevels, selectedTheme, sortBy]);
+
+  const toggleLevel = (level: number) => {
+    setSelectedLevels((current) =>
+      current.includes(level)
+        ? current.filter((item) => item !== level)
+        : [...current, level].sort((left, right) => left - right),
+    );
+  };
 
   const getDifficultyCardTheme = (level: number) => {
     if (level <= 1) {
@@ -130,8 +226,114 @@ export function AreaOverviewPage({
           </p>
         </div>
 
+        <div className="rounded-[28px] border border-white/70 bg-white/85 p-5 shadow-card backdrop-blur">
+          <div className="grid gap-5 xl:grid-cols-[1.4fr_1fr]">
+            <div className="space-y-3">
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+                  Filtrar por nível de dificuldade
+                </p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {[1, 2, 3, 4, 5].map((level) => {
+                    const theme = getDifficultyCardTheme(level);
+                    const active = selectedLevels.includes(level);
+                    return (
+                      <button
+                        key={level}
+                        type="button"
+                        onClick={() => toggleLevel(level)}
+                        className={`rounded-full px-3 py-2 text-sm font-semibold transition ${
+                          active
+                            ? `${theme.badge} shadow-sm`
+                            : "border border-slate-200 bg-white text-slate-600 hover:border-[#d6e6ff] hover:text-ink"
+                        }`}
+                      >
+                        Nível {level}
+                      </button>
+                    );
+                  })}
+                  {selectedLevels.length > 0 ? (
+                    <button
+                      type="button"
+                      onClick={() => setSelectedLevels([])}
+                      className="rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-semibold text-slate-500 transition hover:border-[#d6e6ff] hover:text-ink"
+                    >
+                      Limpar níveis
+                    </button>
+                  ) : null}
+                </div>
+              </div>
+            </div>
+
+            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-1">
+              <label className="space-y-2">
+                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+                  Tema
+                </span>
+                <select
+                  value={selectedTheme}
+                  onChange={(event) => setSelectedTheme(event.target.value)}
+                  className="w-full rounded-[16px] border border-[#d6e6ff] bg-[#f8fbff] px-4 py-3 text-sm font-medium text-ink outline-none transition focus:border-[#6AA5E8]"
+                >
+                  <option value="all">Todos os temas</option>
+                  {themeOptions.map((theme) => (
+                    <option key={theme.value} value={theme.value}>
+                      {theme.label}
+                    </option>
+                  ))}
+                </select>
+              </label>
+
+              <label className="space-y-2">
+                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+                  Ordenar por
+                </span>
+                <select
+                  value={sortBy}
+                  onChange={(event) =>
+                    setSortBy(
+                      event.target.value as
+                        | "default"
+                        | "difficulty_desc"
+                        | "difficulty_asc"
+                        | "accuracy_asc"
+                        | "accuracy_desc",
+                    )
+                  }
+                  className="w-full rounded-[16px] border border-[#d6e6ff] bg-[#f8fbff] px-4 py-3 text-sm font-medium text-ink outline-none transition focus:border-[#6AA5E8]"
+                >
+                  <option value="default">Ordem da prova</option>
+                  <option value="difficulty_desc">Mais difícil → mais fácil</option>
+                  <option value="difficulty_asc">Mais fácil → mais difícil</option>
+                  <option value="accuracy_asc">Menor acerto → maior acerto</option>
+                  <option value="accuracy_desc">Maior acerto → menor acerto</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div className="mt-4 flex flex-wrap items-center gap-3 text-sm text-slate-500">
+            <span>
+              {visibleQuestions.length} de {questions.length} questões visíveis
+            </span>
+            {(selectedLevels.length > 0 || selectedTheme !== "all" || sortBy !== "default") ? (
+              <button
+                type="button"
+                onClick={() => {
+                  setSelectedLevels([]);
+                  setSelectedTheme("all");
+                  setSortBy("default");
+                }}
+                className="rounded-full border border-slate-200 bg-white px-3 py-1.5 font-semibold text-slate-600 transition hover:border-[#d6e6ff] hover:text-ink"
+              >
+                Limpar filtros
+              </button>
+            ) : null}
+          </div>
+        </div>
+
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-          {questions.map((question) => {
+          {visibleQuestions.map((question) => {
             const theme = getDifficultyCardTheme(question.difficultyLevel);
 
             return (
@@ -153,7 +355,7 @@ export function AreaOverviewPage({
                   </span>
                 </div>
                 <div className="mt-4 text-xl font-semibold leading-8 text-ink">
-                  {question.theme}
+                  {simplifyThemeLabel(question.theme)}
                 </div>
                 <div className="mt-3 text-sm leading-6 text-slate-600">
                   {question.skill} • {question.relativeDifficultyLabel}
@@ -170,6 +372,15 @@ export function AreaOverviewPage({
             );
           })}
         </div>
+
+        {visibleQuestions.length === 0 ? (
+          <div className="rounded-[24px] border border-dashed border-[#d6e6ff] bg-white/80 px-6 py-8 text-center shadow-card">
+            <p className="text-lg font-semibold text-ink">Nenhuma questão encontrada</p>
+            <p className="mt-2 text-sm leading-6 text-slate-600">
+              Ajuste os filtros para voltar a mostrar as questões desta área.
+            </p>
+          </div>
+        ) : null}
       </section>
     </main>
   );
