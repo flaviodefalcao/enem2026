@@ -13,6 +13,37 @@ import {
   YAxis,
 } from "recharts";
 
+type AxisTickProps = {
+  x?: number;
+  y?: number;
+  payload?: {
+    value: string;
+  };
+};
+
+function CompactRangeTick({ x = 0, y = 0, payload }: AxisTickProps) {
+  const value = payload?.value ?? "";
+  const [start, end] = value.split("–");
+
+  return (
+    <g transform={`translate(${x},${y})`}>
+      <text
+        x={0}
+        y={0}
+        dy={14}
+        textAnchor="end"
+        fill="#6b7280"
+        fontSize={11}
+        fontWeight={500}
+        transform="rotate(-18)"
+      >
+        <tspan x={0} dy={0}>{start}</tspan>
+        {end ? <tspan x={0} dy={12}>-{end}</tspan> : null}
+      </text>
+    </g>
+  );
+}
+
 type ChartsPanelProps = {
   areaSlug: "linguagens" | "ciencias-humanas" | "ciencias-natureza" | "matematica";
   accuracy: number;
@@ -218,7 +249,14 @@ export function ChartsPanel({
           <ResponsiveContainer width="100%" height="100%">
             <LineChart data={curveData}>
               <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e5edf5" />
-              <XAxis dataKey="faixa" axisLine={false} tickLine={false} interval={0} angle={-20} textAnchor="end" height={56} />
+              <XAxis
+                dataKey="faixa"
+                axisLine={false}
+                tickLine={false}
+                interval={0}
+                height={78}
+                tick={<CompactRangeTick />}
+              />
               <YAxis axisLine={false} tickLine={false} unit="%" />
               <Tooltip
                 formatter={(value, _name, item) => [

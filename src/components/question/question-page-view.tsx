@@ -6,6 +6,7 @@ import { ResolutionPanel } from "@/components/question/resolution-panel";
 import { SectionShell } from "@/components/question/section-shell";
 import {
   getAreaQuestionPageData,
+  getAreaQuestionSummaries,
   type AreaQuestionPageData,
 } from "@/data/exam-catalog";
 
@@ -377,6 +378,13 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
   const triDifficultyPosition = scaledPosition(triDifficultyScore, 0, 1000);
   const seoTitle = questionSeoTitle(question);
   const jsonLd = buildQuestionJsonLd(question);
+  const areaQuestions = getAreaQuestionSummaries(question.year, question.areaSlug);
+  const currentQuestionIndex = areaQuestions.findIndex((entry) => entry.id === question.id);
+  const previousQuestionSummary = currentQuestionIndex > 0 ? areaQuestions[currentQuestionIndex - 1] : null;
+  const nextQuestionSummary =
+    currentQuestionIndex >= 0 && currentQuestionIndex < areaQuestions.length - 1
+      ? areaQuestions[currentQuestionIndex + 1]
+      : null;
   const resolveRelationTone = (relation: string) => {
     const normalized = relation.toLowerCase();
     if (normalized.includes("habilidade")) return relationToneMap.skill;
@@ -438,13 +446,14 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
         />
       </section>
 
+      <div className="mx-auto w-full max-w-[1480px] space-y-4">
       <MarketingBanner
         title="Quer começar seu estudo personalizado?"
         subtitle="A plataforma organiza seu estudo com questões parecidas, resoluções comentadas, análises de desempenho e uma trilha guiada para você evoluir com mais clareza."
         buttonLabel="Começar agora"
       />
 
-      <section className="space-y-4 rounded-[32px] border border-white/70 bg-white/80 p-5 shadow-card backdrop-blur sm:p-6">
+      <section className="mx-auto w-full max-w-[1220px] space-y-4 rounded-[32px] border border-white/70 bg-white/80 p-5 shadow-card backdrop-blur sm:p-6">
         <details className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
           <summary className="flex cursor-pointer list-none items-center justify-between gap-4 [&::-webkit-details-marker]:hidden">
             <div>
@@ -461,14 +470,16 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
             </span>
           </summary>
           <div className="mt-5">
-            <ResolutionPanel
-              resolution={question.resolution}
-              officialResolution={question.officialResolution}
-              latexResolution={question.latexResolution}
-              examQuestionNumber={question.examQuestionNumber}
-              options={question.options}
-              topDistractor={question.topDistractor}
-            />
+            <div className="mx-auto max-w-[1120px] px-1 sm:px-3 lg:px-8">
+              <ResolutionPanel
+                resolution={question.resolution}
+                officialResolution={question.officialResolution}
+                latexResolution={question.latexResolution}
+                examQuestionNumber={question.examQuestionNumber}
+                options={question.options}
+                topDistractor={question.topDistractor}
+              />
+            </div>
           </div>
         </details>
 
@@ -494,7 +505,8 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
             </span>
           </summary>
 
-          <div className="mt-5 space-y-6">
+          <div className="mt-5">
+            <div className="mx-auto max-w-[1120px] space-y-6 px-1 sm:px-3 lg:px-8">
             <section>
               <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
                 <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
@@ -539,6 +551,21 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
                     Discriminação
                   </p>
                   <p className="mt-3 text-2xl font-semibold text-ink">{discriminationScore}</p>
+                  <div className="mt-3">
+                    <div className="relative px-1 pb-1 pt-5">
+                      <div className="h-2 rounded-full bg-gradient-to-r from-sky-100 via-sky-200 to-sky-500" />
+                      <div
+                        className="absolute top-0 -translate-x-1/2"
+                        style={{ left: `${discriminationPosition}%` }}
+                      >
+                        <div className="h-3.5 w-3.5 rounded-full bg-sky-600 ring-4 ring-sky-100 shadow-sm" />
+                      </div>
+                    </div>
+                    <div className="mt-2 flex items-center justify-between text-[10px] font-semibold uppercase tracking-[0.14em] text-slate-400">
+                      <span>baixo</span>
+                      <span>alto</span>
+                    </div>
+                  </div>
                   <p className="mt-2 text-xs leading-5 text-slate-600">
                     Quanto a questão separa desempenhos diferentes.
                   </p>
@@ -549,6 +576,21 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
                     Dificuldade TRI
                   </p>
                   <p className="mt-3 text-2xl font-semibold text-ink">{triDifficultyScore}</p>
+                  <div className="mt-3">
+                    <div className="relative px-1 pb-1 pt-5">
+                      <div className="h-2 rounded-full bg-gradient-to-r from-emerald-200 via-amber-200 to-rose-400" />
+                      <div
+                        className="absolute top-0 -translate-x-1/2"
+                        style={{ left: `${triDifficultyPosition}%` }}
+                      >
+                        <div className="h-3.5 w-3.5 rounded-full bg-rose-500 ring-4 ring-rose-100 shadow-sm" />
+                      </div>
+                    </div>
+                    <div className="mt-2 flex items-center justify-between text-[10px] font-semibold uppercase tracking-[0.14em] text-slate-400">
+                      <span>menor</span>
+                      <span>maior</span>
+                    </div>
+                  </div>
                   <p className="mt-2 text-xs leading-5 text-slate-600">
                     Escala didática derivada do parâmetro B.
                   </p>
@@ -578,11 +620,68 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
                 />
               )}
             </SectionShell>
+            </div>
           </div>
         </details>
       </section>
 
-      <section className="rounded-[32px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-8">
+      {(previousQuestionSummary || nextQuestionSummary) ? (
+        <section className="mx-auto w-full max-w-[1220px] rounded-[30px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:p-5">
+          <div className="grid gap-3 md:grid-cols-2">
+            {previousQuestionSummary ? (
+              <Link
+                href={`/questoes/${question.year}/${question.areaSlug}/${previousQuestionSummary.id}`}
+                className="group rounded-[24px] border border-[#dfeafb] bg-white px-5 py-4 transition hover:border-[#bfd5f6] hover:bg-[#f9fbff]"
+              >
+                <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                  Questão anterior
+                </p>
+                <div className="mt-2 flex items-center justify-between gap-4">
+                  <div>
+                    <p className="font-display text-2xl text-ink">
+                      Questão {previousQuestionSummary.displayNumber}
+                    </p>
+                    <p className="mt-1 text-sm leading-6 text-slate-600">
+                      Voltar para a anterior
+                    </p>
+                  </div>
+                  <span className="inline-flex h-11 min-w-11 items-center justify-center rounded-full border border-[#d6e6ff] px-3 text-lg font-semibold text-[#4f79b0] transition group-hover:border-[#4f79b0]">
+                    ←
+                  </span>
+                </div>
+              </Link>
+            ) : (
+              <div />
+            )}
+
+            {nextQuestionSummary ? (
+              <Link
+                href={`/questoes/${question.year}/${question.areaSlug}/${nextQuestionSummary.id}`}
+                className="group rounded-[24px] border border-[#dfeafb] bg-white px-5 py-4 transition hover:border-[#bfd5f6] hover:bg-[#f9fbff]"
+              >
+                <p className="text-right text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                  Próxima questão
+                </p>
+                <div className="mt-2 flex items-center justify-between gap-4">
+                  <span className="inline-flex h-11 min-w-11 items-center justify-center rounded-full border border-[#d6e6ff] px-3 text-lg font-semibold text-[#4f79b0] transition group-hover:border-[#4f79b0]">
+                    →
+                  </span>
+                  <div className="text-right">
+                    <p className="font-display text-2xl text-ink">
+                      Questão {nextQuestionSummary.displayNumber}
+                    </p>
+                    <p className="mt-1 text-sm leading-6 text-slate-600">
+                      Seguir para a próxima
+                    </p>
+                  </div>
+                </div>
+              </Link>
+            ) : null}
+          </div>
+        </section>
+      ) : null}
+
+      <section className="mx-auto w-full max-w-[1220px] rounded-[32px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-8">
         <div className="rounded-[28px] border border-[#17314f]/12 bg-[linear-gradient(135deg,#102033_0%,#17314f_55%,#21476a_100%)] p-6 text-white shadow-[0_24px_48px_rgba(15,23,42,0.16)]">
           <p className="text-xs font-semibold uppercase tracking-[0.22em] text-sky-100/75">
             Oferta em destaque
@@ -609,28 +708,10 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
           </div>
         </div>
       </section>
+      </div>
 
       <SectionShell title="Questões relacionadas" eyebrow="Mais para treinar">
         <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
-          <Link
-            href={PRIMARY_CTA_HREF}
-            className="group flex min-h-[174px] flex-col justify-between rounded-[22px] border border-[#102033]/10 bg-[linear-gradient(135deg,#102033_0%,#17314f_55%,#4f79b0_100%)] p-4 text-white shadow-[0_14px_30px_rgba(15,23,42,0.08)] transition hover:-translate-y-1 hover:shadow-[0_20px_38px_rgba(15,23,42,0.12)]"
-          >
-            <div>
-              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-white/70">
-                Aprofundar
-              </p>
-              <h3 className="mt-3 text-lg font-semibold leading-snug">
-                Travou em mais de uma?
-              </h3>
-              <p className="mt-2 text-sm leading-5 text-white/80">
-                Entre para a trilha guiada e avance com método, revisão e estratégia.
-              </p>
-            </div>
-            <span className="inline-flex items-center text-sm font-semibold text-white">
-              Ver a oferta principal
-            </span>
-          </Link>
           {question.relatedQuestions.map((related) => {
             const relatedQuestion = getAreaQuestionPageData(question.year, question.areaSlug, related.id);
             const tone = resolveRelationTone(related.relation);
