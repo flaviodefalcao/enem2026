@@ -447,14 +447,8 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
       </section>
 
       <div className="mx-auto w-full max-w-[1480px] space-y-4">
-      <MarketingBanner
-        title="Quer começar seu estudo personalizado?"
-        subtitle="A plataforma organiza seu estudo com questões parecidas, resoluções comentadas, análises de desempenho e uma trilha guiada para você evoluir com mais clareza."
-        buttonLabel="Começar agora"
-      />
-
       <section className="mx-auto w-full max-w-[1220px] space-y-4 rounded-[32px] border border-white/70 bg-white/80 p-5 shadow-card backdrop-blur sm:p-6">
-        <details className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
+        <details open className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
           <summary className="flex cursor-pointer list-none items-center justify-between gap-4 [&::-webkit-details-marker]:hidden">
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#4f79b0]">
@@ -626,6 +620,13 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
       </section>
 
       {(previousQuestionSummary || nextQuestionSummary) ? (
+        <>
+        <div className="mx-auto w-full max-w-[1220px]">
+          <div className="rounded-[26px] border border-[#17314f]/12 bg-[linear-gradient(135deg,#102033_0%,#17314f_55%,#21476a_100%)] px-6 py-5 shadow-[0_20px_40px_rgba(15,23,42,0.14)]">
+            <div className="h-2 rounded-full bg-white/10" />
+          </div>
+        </div>
+
         <section className="mx-auto w-full max-w-[1220px] rounded-[30px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:p-5">
           <div className="grid gap-3 md:grid-cols-2">
             {previousQuestionSummary ? (
@@ -679,6 +680,7 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
             ) : null}
           </div>
         </section>
+        </>
       ) : null}
 
       <section className="mx-auto w-full max-w-[1220px] rounded-[32px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-8">
