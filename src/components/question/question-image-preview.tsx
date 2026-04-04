@@ -218,11 +218,44 @@ function splitSourceAndPromptInline(text: string) {
   };
 }
 
+function splitStatementSourceAndPromptInline(text: string) {
+  const normalized = normalizeInlineText(text);
+  const markerPattern = /(Dispon[ií]vel em:|Fonte:|Adaptado de:|Extra[ií]do de:|Acesso em:)/i;
+  const markerMatch = markerPattern.exec(normalized);
+
+  if (!markerMatch || markerMatch.index === undefined) {
+    return null;
+  }
+
+  const mainText = normalized.slice(0, markerMatch.index).trim();
+  const sourceAndTail = normalized.slice(markerMatch.index).trim();
+  const split = splitSourceAndPromptInline(sourceAndTail);
+
+  if (!split) {
+    return null;
+  }
+
+  return {
+    mainText,
+    sourceText: split.sourceText,
+    trailingText: split.trailingText,
+  };
+}
+
 function parseStatementLayout(statement: string): StatementLayout {
   const lines = statement.split("\n").map((line) => line.trimEnd());
   const sourceStart = lines.findIndex((rawLine) => isSourceLine(rawLine.trim()));
 
   if (sourceStart === -1) {
+    const inlineSplit = splitStatementSourceAndPromptInline(statement);
+    if (inlineSplit) {
+      return {
+        mainBlocks: inlineSplit.mainText ? parseStatementBlocks(inlineSplit.mainText) : [],
+        sourceText: inlineSplit.sourceText,
+        trailingBlocks: parseStatementBlocks(trimStatementBeforeOptions(inlineSplit.trailingText)),
+      };
+    }
+
     return {
       mainBlocks: parseStatementBlocks(statement),
       sourceText: null,
@@ -329,65 +362,28 @@ export function QuestionImagePreview({
         item.assets.length === 0 &&
         item.displayMode !== "asset_only",
     );
-  const hideAlternativesSection =
-    fullQuestionPreservedInStatementAsset || (!hasMeaningfulOptionContent && hasStatementAssets);
+  const hideAlternativesSection = !hasMeaningfulOptionContent && hasStatementAssets;
 
   return (
     <>
       <article className="overflow-hidden rounded-[30px] border border-[#d6e6ff] bg-[#fbfdff] shadow-card">
-        <div className="border-b border-[#e4eefb] bg-[#f1f7ff] px-5 py-4">
-          <div className="flex flex-wrap items-start justify-between gap-3">
-            <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[#5a7ead]">
-                Questão formatada como prova
-              </p>
-              <p className="mt-2 font-display text-2xl text-ink">{title}</p>
-              {!hasOfficialAnswer ? (
-                <p className="mt-2 text-sm font-semibold uppercase tracking-[0.16em] text-amber-700">
-                  Questão anulada pelo Inep
-                </p>
-              ) : null}
-              {sourcePages.length > 0 ? (
-                <p className="mt-2 text-xs uppercase tracking-[0.16em] text-slate-500">
-                  Extraída das páginas {sourcePages.join(", ")}
-                </p>
-              ) : null}
-            </div>
-
-            {primaryAsset ? (
-              <button
-                type="button"
-                onClick={() => setZoomedAsset(primaryAsset)}
-                className="rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-ink transition hover:border-clay/50 hover:text-clay"
-              >
-                Ampliar imagem
-              </button>
-            ) : null}
-          </div>
-        </div>
-
         <div className="space-y-8 px-5 py-6 sm:px-7 sm:py-7">
           <section className="space-y-4">
-            <div className="flex items-center gap-3">
-              <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d6e6ff] bg-white text-sm font-semibold text-ink">
-                01
-              </span>
-              <h2 className="font-display text-xl text-ink">Enunciado</h2>
-            </div>
+            <h2 className="font-display text-xl text-ink">Enunciado</h2>
 
             <div className="space-y-4 rounded-[24px] border border-[#dfeafb] bg-white px-5 py-5">
               {statementLayout.mainBlocks.map((block, index) =>
                 block.type === "paragraph" ? (
                   <p
                     key={`${index}-${block.text.slice(0, 24)}`}
-                    className="text-[1.02rem] leading-8 text-[#3d5f8a]"
+                    className="text-[1.1rem] leading-9 text-[#304f77] sm:text-[1.16rem]"
                   >
                     {block.text}
                   </p>
                 ) : (
                   <ul
                     key={`${index}-${block.items[0]?.slice(0, 24) ?? "list"}`}
-                    className="space-y-2 pl-6 text-[1.01rem] leading-8 text-[#3d5f8a]"
+                    className="space-y-2.5 pl-6 text-[1.08rem] leading-9 text-[#304f77] sm:text-[1.14rem]"
                   >
                     {block.items.map((item) => (
                       <li key={item} className="list-disc marker:text-[#6aa5e8]">
@@ -407,7 +403,9 @@ export function QuestionImagePreview({
                   </p>
                   <div
                     className={`grid gap-4 ${
-                      statementAssets.length === 1 ? "grid-cols-1" : "md:grid-cols-2"
+                      statementAssets.length === 1 || fullQuestionPreservedInStatementAsset
+                        ? "grid-cols-1"
+                        : "md:grid-cols-2"
                     }`}
                   >
                     {statementAssets.map((asset, index) => (
@@ -419,7 +417,7 @@ export function QuestionImagePreview({
                       >
                         <div
                           className={`flex items-center justify-center overflow-hidden rounded-[18px] bg-white p-3 ${
-                            fullQuestionPreservedInStatementAsset ? "min-h-[180px]" : "min-h-[260px]"
+                            fullQuestionPreservedInStatementAsset ? "min-h-[240px]" : "min-h-[260px]"
                           }`}
                         >
                           <img
@@ -453,14 +451,14 @@ export function QuestionImagePreview({
                     block.type === "paragraph" ? (
                       <p
                         key={`tail-${index}-${block.text.slice(0, 24)}`}
-                        className="text-[1.02rem] leading-8 text-[#3d5f8a]"
+                        className="text-[1.1rem] leading-9 text-[#304f77] sm:text-[1.16rem]"
                       >
                         {block.text}
                       </p>
                     ) : (
                       <ul
                         key={`tail-${index}-${block.items[0]?.slice(0, 24) ?? "list"}`}
-                        className="space-y-2 pl-6 text-[1.01rem] leading-8 text-[#3d5f8a]"
+                        className="space-y-2.5 pl-6 text-[1.08rem] leading-9 text-[#304f77] sm:text-[1.14rem]"
                       >
                         {block.items.map((item) => (
                           <li key={item} className="list-disc marker:text-[#6aa5e8]">
@@ -478,12 +476,7 @@ export function QuestionImagePreview({
           {!hideAlternativesSection ? (
           <section className="space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-3">
-              <div className="flex items-center gap-3">
-                <span className="inline-flex h-9 min-w-9 items-center justify-center rounded-full border border-[#d6e6ff] bg-white text-sm font-semibold text-ink">
-                  02
-                </span>
-                <h2 className="font-display text-xl text-ink">Alternativas</h2>
-              </div>
+              <h2 className="font-display text-xl text-ink">Alternativas</h2>
               <p className="text-sm text-slate-500">
                 {hasOfficialAnswer
                   ? "Clique para revelar a correta."
@@ -531,13 +524,17 @@ export function QuestionImagePreview({
 
                     <div className="min-w-0 flex-1 space-y-3">
                       {item.text ? (
-                        <p className="text-[1.01rem] leading-8 text-[#3d5f8a]">
+                        <p className="text-[1.08rem] leading-8 text-[#304f77]">
                           {item.text}
                         </p>
                       ) : item.displayMode === "suppressed" ? (
                         <p className="text-[1.01rem] italic leading-8 text-slate-500">
                           {item.suppressedReason ??
                             "Texto da alternativa ocultado por baixa confiança na extração."}
+                        </p>
+                      ) : item.assets.length > 0 ? (
+                        <p className="text-[0.82rem] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                          Alternativa visual
                         </p>
                       ) : (
                         <p className="text-[1.01rem] italic leading-8 text-slate-500">

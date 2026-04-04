@@ -11,6 +11,9 @@ type FilterQuestionItem = {
   displayNumber: number;
   theme: string;
   skill: string;
+  skillKey: string;
+  skillSummary: string;
+  competenceSummary: string;
   difficultyLevel: number;
   relativeDifficultyLabel: string;
   accuracy: number;
@@ -62,6 +65,20 @@ function simplifyThemeLabel(theme: string) {
 
   const finalLabel = compact || base.slice(0, 35).trim();
   return `${finalLabel.charAt(0).toUpperCase()}${finalLabel.slice(1)}`;
+}
+
+function summarizeSkillContext(text: string) {
+  const normalized = text.replace(/\s+/g, " ").trim();
+  if (normalized.length <= 72) {
+    return normalized;
+  }
+
+  const firstPart = normalized.split(/(?:,|\.)\s+/)[0]?.trim() ?? normalized;
+  if (firstPart.length <= 72) {
+    return firstPart;
+  }
+
+  return `${firstPart.slice(0, 69).trim()}...`;
 }
 
 function getDifficultyTheme(level: number) {
@@ -128,7 +145,19 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
     [questions],
   );
   const skillOptions = useMemo(
-    () => Array.from(new Set(questions.map((question) => question.skill))).sort(),
+    () =>
+      Array.from(
+        new Map(
+          questions.map((question) => [
+            question.skillKey,
+            `${question.areaLabel} · ${question.skill} — ${summarizeSkillContext(
+              question.skillSummary || question.competenceSummary,
+            )}`,
+          ]),
+        ).entries(),
+      )
+        .map(([value, label]) => ({ value, label }))
+        .sort((left, right) => left.label.localeCompare(right.label, "pt-BR")),
     [questions],
   );
   const selectedThemeLabel =
@@ -171,7 +200,7 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
       const matchesTheme =
         selectedTheme === "all" || question.theme === selectedTheme;
       const matchesSkill =
-        selectedSkill === "all" || question.skill === selectedSkill;
+        selectedSkill === "all" || question.skillKey === selectedSkill;
       const matchesAccuracy =
         accuracyBand === "all" ||
         (accuracyBand === "lt30" && question.accuracy < 30) ||
@@ -403,8 +432,8 @@ export function QuestionFilterPage({ questions }: QuestionFilterPageProps) {
               >
                 <option value="all">Todas as habilidades</option>
                 {skillOptions.map((skill) => (
-                  <option key={skill} value={skill}>
-                    {skill}
+                  <option key={skill.value} value={skill.value}>
+                    {skill.label}
                   </option>
                 ))}
               </select>

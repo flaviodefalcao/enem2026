@@ -387,6 +387,12 @@ const finalAnalysisCache = new Map<string, {
   officialResolution?: OfficialResolutionContent;
 } | null>();
 const latexAreaCache = new Map<string, BaseQuestionPageData["latexResolution"] | null>();
+const ocrQuestionOverrideCache = new Map<string, {
+  statement?: string;
+  options?: Array<{ option: "A" | "B" | "C" | "D" | "E"; text: string }>;
+  ocrText?: string;
+  confidence?: string;
+} | null>();
 type ProofSummaryPayload = {
   sampleSize: number;
   generalScoreDistribution: LandingBucket[];
@@ -771,6 +777,51 @@ function loadAreaFrontendAnalytics(year: ExamYear, area: AreaSlug) {
   }
 }
 
+function loadOcrQuestionOverride(year: ExamYear, area: AreaSlug, id: number) {
+  const cacheKey = `${year}:${area}:${id}:ocr-override`;
+  if (ocrQuestionOverrideCache.has(cacheKey)) {
+    return ocrQuestionOverrideCache.get(cacheKey) ?? null;
+  }
+
+  const filePath = path.join(
+    process.cwd(),
+    "src",
+    "data",
+    "generated",
+    `enem-${year}-ocr-overrides.json`,
+  );
+
+  if (!fs.existsSync(filePath)) {
+    ocrQuestionOverrideCache.set(cacheKey, null);
+    return null;
+  }
+
+  try {
+    const parsed = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Record<
+      string,
+      Record<
+        string,
+        Record<
+          string,
+          {
+            statement?: string;
+            options?: Array<{ option: "A" | "B" | "C" | "D" | "E"; text: string }>;
+            ocrText?: string;
+            confidence?: string;
+          }
+        >
+      >
+    >;
+
+    const payload = parsed[String(year)]?.[area]?.[String(id)] ?? null;
+    ocrQuestionOverrideCache.set(cacheKey, payload);
+    return payload;
+  } catch {
+    ocrQuestionOverrideCache.set(cacheKey, null);
+    return null;
+  }
+}
+
 function loadThemeArtifact(
   year: ExamYear,
   area: Exclude<AreaSlug, "matematica">,
@@ -974,10 +1025,37 @@ function normalizeInlineOptionText(text: string) {
     .trim();
 }
 
+function stripQuestionPageTailArtifacts(text: string) {
+  return text
+    .replace(/\*[0-9A-Z*]+\*/g, "")
+    .replace(/\b(?:LC|CH|CN|MT)\s*[-•]\s*\d[º°]\s*DIA\s*[-•]\s*CADERNO[^-\n]*[-•]?\s*[A-Z]*\b/gi, "")
+    .replace(/\b(?:LC|CH|CN|MT)\s*-\s*\d[º°]\s*dia[\s|]+\s*Caderno.*$/gim, "")
+    .replace(/\bENEM_[0-9A-Z_./-]+/gi, "")
+    .replace(/\bP[ÁA]GINA\s+\d+\b/gi, "")
+    .replace(/\bQUEST[ÕO]ES?\s+DE\s+\d+\s+A\s+\d+\b/gi, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function stripDuplicatedOptionPrefix(text: string, option: "A" | "B" | "C" | "D" | "E") {
+  return text
+    .replace(new RegExp(`^${option}\\s+`, "i"), "")
+    .replace(new RegExp(`^${option}[.):]\\s*`, "i"), "")
+    .trim();
+}
+
+function normalizeRecoveredStatement(text: string) {
+  return stripQuestionPageTailArtifacts(text)
+    .replace(/\b(?:A\.\s*B\.\s*C\.\s*D\.\s*E\.)\s*$/i, "")
+    .trim();
+}
+
 function trimOptionTailArtifacts(text: string) {
   return text
     .replace(/\*[0-9A-Z*]+\*.*/g, "")
     .replace(/\b(?:INSTRUÇÕES PARA A REDAÇÃO|RASCUNHO DA REDAÇÃO).*/gi, "")
+    .replace(/\b\d+\s*\/\s*\d[º°]\s*DIA\s*[•-]\s*CADERNO\s*\d+\s*[•-]\s*[A-Z]+\b.*$/gi, "")
     .replace(/\b(?:LC|CH|CN|MT)\s*-\s*\d[º°]\s*dia[\s|]+\s*Caderno.*$/gi, "")
     .replace(/\bENEM_[0-9A-Z_./-]+.*/gi, "")
     .replace(/\s+/g, " ")
@@ -1022,8 +1100,9 @@ function extractOptionsFromTail(
   source: string,
   collapseText: (text: string) => string = normalizeInlineOptionText,
 ) {
+  const sanitizedSource = source.replace(/\r/g, "").trim();
   const optionRegex = /(?:^|\n)([A-E])(?:[.)]|\s)\s*/g;
-  const matches = [...source.matchAll(optionRegex)].map((match) => ({
+  const matches = [...sanitizedSource.matchAll(optionRegex)].map((match) => ({
     option: match[1] as "A" | "B" | "C" | "D" | "E",
     index: match.index ?? 0,
     length: match[0].length,
@@ -1041,20 +1120,22 @@ function extractOptionsFromTail(
 
     const options = window.map((match, optionIndex) => {
       const start = match.index + match.length;
-      const end = window[optionIndex + 1]?.index ?? source.length;
+      const end = window[optionIndex + 1]?.index ?? sanitizedSource.length;
       return {
         option: match.option,
-        text: collapseText(source.slice(start, end)),
+        text: stripDuplicatedOptionPrefix(collapseText(sanitizedSource.slice(start, end)), match.option),
         index: match.index,
       };
     });
 
-    const hasUsefulText = options.every(
-      (option) =>
-        option.text.length > 6 &&
-        !/^[A-E][.)]?$/.test(option.text) &&
-        !/^alternativa composta por elemento visual/i.test(option.text),
-    );
+    const hasUsefulText = options.every((option) => {
+      const normalized = option.text.trim();
+      return (
+        normalized.length > 0 &&
+        !/^[A-E][.)]?$/.test(normalized) &&
+        !/^alternativa composta por elemento visual/i.test(normalized)
+      );
+    });
 
     if (!hasUsefulText) {
       continue;
@@ -1062,11 +1143,11 @@ function extractOptionsFromTail(
 
     const statement = source
       .slice(0, window[0]?.index ?? 0)
-      .replace(/\s+/g, " ")
+      .replace(/\r/g, "")
       .trim();
 
     return {
-      statement,
+      statement: normalizeRecoveredStatement(statement),
       options,
     };
   }
@@ -1096,7 +1177,7 @@ function sanitizeCorruptedQuestionContent(
     return null;
   }
 
-  const rawText = (question.rawText || "").replace(/\r/g, "").trim();
+  const rawText = stripQuestionPageTailArtifacts((question.rawText || "").replace(/\r/g, "").trim());
   const markerMatches = rawText.match(/\*[0-9A-Z]+\*/g) ?? [];
   const hasCorruptionMarkers = markerMatches.length > 1;
   const hasHugeOption = question.options.some((option) => (option.text || "").length > 240);
@@ -1146,7 +1227,9 @@ function rescueInlineOptions(question: ExtractedAreaQuestion | undefined) {
     return null;
   }
 
-  const source = (question.rawText || question.statement || "").replace(/\r/g, "").trim();
+  const source = stripQuestionPageTailArtifacts(
+    (question.rawText || question.statement || "").replace(/\r/g, "").trim(),
+  );
   if (!source) {
     return null;
   }
@@ -1167,7 +1250,7 @@ function rescueInlineOptions(question: ExtractedAreaQuestion | undefined) {
   }
 
   return {
-    statement: rescuedStatement,
+    statement: normalizeRecoveredStatement(rescuedStatement),
     options: rescuedOptions,
   };
 }
@@ -1234,6 +1317,7 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
       area === "matematica" ? null : loadFinalAnalysis(year, area, extracted?.examQuestionNumber ?? examQuestionNumber);
     const generatedLatex =
       area === "matematica" ? null : loadAreaLatexResolution(year, area, extracted?.examQuestionNumber ?? examQuestionNumber);
+    const ocrQuestionOverride = loadOcrQuestionOverride(year, area, id);
     const fallbackCompetence = template.competencies[index % template.competencies.length];
     const competenceNumber = analytics?.competenceNumber ?? 0;
     const competence =
@@ -1265,11 +1349,19 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
       extracted?.examQuestionNumber ?? examQuestionNumber,
     );
     const resolvedStatement =
-      sanitizedCorruptedContent?.statement ??
-      rescuedInlineContent?.statement ??
-      extracted?.statement ??
+      ocrQuestionOverride?.statement?.trim() ||
+      sanitizedCorruptedContent?.statement ||
+      rescuedInlineContent?.statement ||
+      extracted?.statement ||
       `Mock temporário da questão ${examQuestionNumber} de ${meta.label.toLowerCase()}, preparado para receber depois o enunciado real, alternativas reais, assets e resolução específica da área.`;
     const rawResolvedOptions =
+      (ocrQuestionOverride?.options?.length
+        ? ocrQuestionOverride.options.map((option) => ({
+            option: option.option,
+            text: option.text,
+            assets: [],
+          }))
+        : null) ??
       sanitizedCorruptedContent?.options ??
       rescuedInlineContent?.options ??
       extracted?.options ??
@@ -1319,6 +1411,7 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
       };
     });
     const shouldSuppressStatement =
+      !ocrQuestionOverride &&
       !sanitizedCorruptedContent &&
       shouldSuppressFragmentedStatementText(
         resolvedStatement,
@@ -1337,7 +1430,7 @@ function buildCatalogAreaQuestions(year: ExamYear, area: AreaSlug) {
       statement: shouldSuppressStatement ? "" : resolvedStatement,
       statementAssets: mergedStatementAssets,
       sourcePages: extracted?.sourcePages ?? [Math.ceil(id / 3)],
-      rawText: sanitizedCorruptedContent?.rawText ?? extracted?.rawText ?? "",
+      rawText: ocrQuestionOverride?.ocrText ?? sanitizedCorruptedContent?.rawText ?? extracted?.rawText ?? "",
       options: resolvedOptions.map((option) => ({
         option: option.option,
         text: option.text,

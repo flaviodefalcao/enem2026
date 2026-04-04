@@ -13,6 +13,9 @@ type QuestionPageViewProps = {
   question: AreaQuestionPageData;
 };
 
+const PRIMARY_CTA_HREF = process.env.NEXT_PUBLIC_LEADGEN_PRIMARY_URL ?? "/prova";
+const SECONDARY_CTA_HREF = process.env.NEXT_PUBLIC_LEADGEN_SECONDARY_URL ?? "/filtrar-questoes";
+
 const relationToneMap: Record<string, "gold" | "clay" | "ink" | "soft"> = {
   skill: "ink",
   subtema: "gold",
@@ -167,6 +170,138 @@ function scaledPosition(value: number, min: number, max: number) {
   return ((clamped - min) / (max - min)) * 100;
 }
 
+function MageLogo() {
+  return (
+    <div className="flex items-center gap-3">
+      <div className="flex h-12 w-12 items-center justify-center rounded-[16px] bg-[#0f1732] text-white shadow-[0_12px_24px_rgba(15,23,42,0.16)]">
+        <svg viewBox="0 0 64 64" className="h-8 w-8 fill-current" aria-hidden="true">
+          <path d="M30 8 14 32h10l-8 16 18-12h8L30 8Z" />
+          <path d="M40 10 32 26h6l-4 9 10-7h6L40 10Z" opacity="0.85" />
+        </svg>
+      </div>
+      <div>
+        <p className="font-display text-xl leading-none text-[#0f1732]">chapéu</p>
+        <p className="-mt-0.5 font-display text-xl leading-none text-[#0f1732]">do mago</p>
+      </div>
+    </div>
+  );
+}
+
+function MarketingBanner({
+  title,
+  subtitle,
+}: {
+  title: string;
+  subtitle: string;
+}) {
+  return (
+    <div className="rounded-[28px] border border-[#d9e6f5] bg-[linear-gradient(135deg,#102033_0%,#18304a_52%,#21476a_100%)] p-6 text-white shadow-[0_24px_48px_rgba(15,23,42,0.16)]">
+      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-sky-100/75">
+            Conversão no meio da leitura
+          </p>
+          <h2 className="mt-3 text-3xl font-semibold leading-tight">{title}</h2>
+          <p className="mt-4 max-w-3xl text-base leading-8 text-sky-50/86">{subtitle}</p>
+        </div>
+        <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
+          <Link
+            href={PRIMARY_CTA_HREF}
+            className="inline-flex items-center justify-center rounded-full bg-[#f4c96c] px-6 py-3 text-sm font-semibold text-[#102033] transition hover:brightness-95"
+          >
+            Quero um plano de revisão
+          </Link>
+          <Link
+            href={SECONDARY_CTA_HREF}
+            className="inline-flex items-center justify-center rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+          >
+            Filtrar questões parecidas
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function questionSeoTitle(question: AreaQuestionPageData) {
+  return `Questão ${question.examQuestionNumber} do ENEM ${question.year} de ${question.areaLabel}`;
+}
+
+function buildQuestionJsonLd(question: AreaQuestionPageData) {
+  const title = questionSeoTitle(question);
+  const description =
+    question.officialResolution?.whatTheQuestionAsks ??
+    question.resolution.whatItAsks;
+
+  return [
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Provas",
+          item: "/prova",
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: `ENEM ${question.year}`,
+          item: question.yearRoute,
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: question.areaLabel,
+          item: question.areaRoute,
+        },
+        {
+          "@type": "ListItem",
+          position: 4,
+          name: title,
+          item: question.questionRoute,
+        },
+      ],
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: `${title}: resolução comentada`,
+      description,
+      inLanguage: "pt-BR",
+      mainEntityOfPage: question.questionRoute,
+      about: [
+        question.theme,
+        question.subtheme,
+        `Habilidade ${question.skill}`,
+      ].filter(Boolean),
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: [
+        {
+          "@type": "Question",
+          name: `O que a questão ${question.examQuestionNumber} do ENEM ${question.year} cobra?`,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: question.officialResolution?.whatTheQuestionAsks ?? question.resolution.whatItAsks,
+          },
+        },
+        {
+          "@type": "Question",
+          name: `Qual é o principal erro na questão ${question.examQuestionNumber}?`,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: question.officialResolution?.puloDoGato ?? question.resolution.whyErrorsHappen,
+          },
+        },
+      ],
+    },
+  ];
+}
+
 function ScaleMetricCard({
   label,
   valueLabel,
@@ -234,8 +369,6 @@ function ScaleMetricCard({
 export function QuestionPageView({ question }: QuestionPageViewProps) {
   const areaSlug = question.areaSlug;
   const isAnnulled = !["A", "B", "C", "D", "E"].includes(question.correctOption);
-  const previousId = question.id > 1 ? question.id - 1 : null;
-  const nextId = question.id < 45 ? question.id + 1 : null;
   const difficultyTheme = getDifficultyTheme(question.triMetrics.difficultyLevel);
   const contentTitle =
     question.officialResolution?.shortThemeTitle ??
@@ -248,6 +381,8 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
   const discriminationPosition = scaledPosition(discriminationScore, 0, 1000);
   const triDifficultyScore = triBDidacticScore(question.triMetrics.b);
   const triDifficultyPosition = scaledPosition(triDifficultyScore, 0, 1000);
+  const seoTitle = questionSeoTitle(question);
+  const jsonLd = buildQuestionJsonLd(question);
   const resolveRelationTone = (relation: string) => {
     const normalized = relation.toLowerCase();
     if (normalized.includes("habilidade")) return relationToneMap.skill;
@@ -261,147 +396,40 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
 
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 py-8 sm:px-6 lg:px-4 lg:py-12 xl:px-5">
-      <section className="overflow-hidden rounded-[34px] border border-white/70 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.96),rgba(245,249,255,0.88)_42%,rgba(232,242,255,0.92)_100%)] p-6 shadow-card backdrop-blur sm:p-8">
-        <div className="mb-5 flex justify-end">
-          <Link
-            href={question.areaRoute}
-            className="inline-flex items-center rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-clay/50 hover:text-clay"
-          >
-            ← Voltar para prova
-          </Link>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      <header className="rounded-[30px] border border-white/70 bg-white/85 px-5 py-4 shadow-card backdrop-blur sm:px-6">
+        <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+          <MageLogo />
+          <nav className="flex flex-wrap items-center gap-2 text-sm font-semibold text-slate-600">
+            <Link className="rounded-full px-4 py-2 transition hover:bg-[#eef5ff] hover:text-[#0f1732]" href="/">
+              Home
+            </Link>
+            <Link className="rounded-full px-4 py-2 transition hover:bg-[#eef5ff] hover:text-[#0f1732]" href="/filtrar-questoes">
+              Questões
+            </Link>
+            <Link className="rounded-full px-4 py-2 transition hover:bg-[#eef5ff] hover:text-[#0f1732]" href="/prova">
+              Provas
+            </Link>
+            <Link className="rounded-full px-4 py-2 transition hover:bg-[#eef5ff] hover:text-[#0f1732]" href="/metricas-estrategicas">
+              Estratégia
+            </Link>
+          </nav>
         </div>
+      </header>
 
-        <details className="group">
-          <summary className="flex list-none items-start justify-between gap-4 [&::-webkit-details-marker]:hidden">
-            <h1 className="max-w-5xl font-display text-4xl leading-[0.95] text-ink sm:text-5xl lg:text-6xl">
-              Questão {question.examQuestionNumber}
-              <span className="mx-3 hidden text-slate-300 sm:inline">—</span>
-              <span className="block text-[0.78em] sm:inline">
-                ENEM {question.year} · {question.areaLabel}
-              </span>
-            </h1>
-            <span className="mt-2 inline-flex shrink-0 rounded-full border border-[#d6e6ff] bg-white/85 px-4 py-2 text-sm font-semibold text-[#4f79b0] shadow-[0_10px_30px_rgba(15,23,42,0.05)] transition hover:border-clay/40 hover:text-clay">
-              <span className="group-open:hidden">Mostrar painel</span>
-              <span className="hidden group-open:inline">Fechar painel</span>
-            </span>
-          </summary>
-
-          <div className="mt-6 space-y-6">
-            <div className="grid gap-6 xl:grid-cols-[minmax(0,0.95fr)_minmax(460px,1.05fr)] xl:items-start">
-              <div>
-                <p className="max-w-4xl text-lg font-medium leading-8 text-slate-600 sm:text-xl">
-                  {contentTitle}
-                </p>
-
-                <div className="mt-5 rounded-[24px] border border-white/70 bg-white/72 px-4 py-4 shadow-[0_18px_40px_rgba(15,23,42,0.05)] backdrop-blur">
-                  <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
-                    <div>
-                      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
-                        Dificuldade relativa na prova
-                      </p>
-                      <div className="mt-3 flex flex-wrap items-center gap-3">
-                        <span
-                          className={`inline-flex rounded-full px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}
-                        >
-                          {question.triMetrics.relativeDifficultyLabel}
-                        </span>
-                        <span className={`text-xs font-semibold ${difficultyTheme.text}`}>
-                          Nível {question.triMetrics.difficultyLevel}/5 entre as 45 questões
-                        </span>
-                      </div>
-                      <p className="mt-3 text-xs leading-5 text-slate-600 sm:text-sm sm:leading-6">
-                        {difficultyHelperText(question.triMetrics.difficultyLevel)}
-                      </p>
-                    </div>
-
-                    <div className="flex gap-2 lg:self-start">
-                      {Array.from({ length: 5 }, (_, index) => {
-                        const active = index < question.triMetrics.difficultyLevel;
-                        return (
-                          <span
-                            key={index}
-                            className={`h-2.5 w-10 rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
-                          />
-                        );
-                      })}
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="rounded-[28px] border border-slate-200/80 bg-white/88 px-6 py-5 shadow-[0_18px_40px_rgba(15,23,42,0.06)]">
-                <div className="flex flex-wrap items-center gap-3">
-                  <Badge label={`Habilidade ${question.skill}`} tone="ink" />
-                </div>
-                <p className="mt-4 text-sm font-semibold uppercase tracking-[0.14em] text-slate-500">
-                  {question.skillDescription || "Descrição da habilidade em atualização"}
-                </p>
-                {question.competenceDescription ? (
-                  <p className="mt-3 text-sm leading-6 text-slate-600">
-                    {question.competenceDescription}
-                  </p>
-                ) : null}
-              </div>
-            </div>
-
-            <div className="grid gap-3 sm:grid-cols-3">
-              <ScaleMetricCard
-                label="Ranking de dificuldade baseado em acertos"
-                valueLabel={difficultyPercentileLabel(question.difficultyRank, totalQuestions)}
-                position={difficultyRankPosition}
-                leftLabel="Mais fácil"
-                rightLabel="Mais difícil"
-                helper={`Percentil de exigência dentro desta prova. Esta questão fica acima de ${difficultyPercentileValue}% das demais em dificuldade observada por acertos.`}
-              />
-              <ScaleMetricCard
-                label="Discriminação"
-                valueLabel={`${discriminationScore}`}
-                position={discriminationPosition}
-                leftLabel="Separa menos"
-                rightLabel="Separa mais"
-                tone="sky"
-                helper="Escala normalizada de 0 a 1000 a partir do parâmetro A. Quanto mais à direita, mais o item ajuda a separar alunos de desempenhos diferentes e mais diagnóstico ele tende a trazer para a proficiência."
-              />
-              <ScaleMetricCard
-                label="Dificuldade TRI"
-                valueLabel={`${triDifficultyScore}`}
-                position={triDifficultyPosition}
-                leftLabel="Menor"
-                rightLabel="Maior"
-                tone="violet"
-                helper="Essa régua traduz o parâmetro B para uma escala mais intuitiva. Valores mais altos indicam que o item costuma exigir maior proficiência para ser acertado dentro da lógica TRI."
-              />
-            </div>
-          </div>
-        </details>
-      </section>
-
-      <section className="grid gap-4 rounded-[32px] border border-white/70 bg-white/80 p-4 shadow-card backdrop-blur sm:grid-cols-2 sm:p-5">
-        {previousId ? (
-          <Link
-            href={`/questoes/${question.year}/${question.areaSlug}/${previousId}`}
-            className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
-          >
-            ← Questão anterior
-          </Link>
-        ) : (
-          <div className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-slate-400">
-            ← Questão anterior
-          </div>
-        )}
-
-        {nextId ? (
-          <Link
-            href={`/questoes/${question.year}/${question.areaSlug}/${nextId}`}
-            className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-ink transition hover:border-clay/40 hover:text-clay"
-          >
-            Próxima questão →
-          </Link>
-        ) : (
-          <div className="rounded-[24px] border border-slate-200 px-5 py-4 text-center text-sm font-semibold text-slate-400">
-            Próxima questão →
-          </div>
-        )}
+      <section className="overflow-hidden rounded-[34px] border border-white/70 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.96),rgba(245,249,255,0.88)_42%,rgba(232,242,255,0.92)_100%)] p-6 shadow-card backdrop-blur sm:p-8">
+        <div className="mx-auto max-w-4xl text-center">
+          <h1 className="font-display text-3xl leading-tight text-ink sm:text-4xl">
+            {seoTitle}
+          </h1>
+          <p className="mt-3 text-lg leading-8 text-slate-600 sm:text-xl">
+            {contentTitle}
+          </p>
+        </div>
       </section>
 
       <section className="mx-auto w-full max-w-[1080px]">
@@ -416,42 +444,216 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
         />
       </section>
 
-      <SectionShell title="Resolução" eyebrow="Explicação guiada">
-        <ResolutionPanel
-          resolution={question.resolution}
-          officialResolution={question.officialResolution}
-          latexResolution={question.latexResolution}
-          examQuestionNumber={question.examQuestionNumber}
-          options={question.options}
-          topDistractor={question.topDistractor}
-        />
-      </SectionShell>
+      <MarketingBanner
+        title="Travou nessa questão?"
+        subtitle="Monte uma trilha com itens parecidos, avance com revisão guiada e transforme um erro pontual em ganho real de desempenho."
+      />
 
-      <SectionShell title="Leitura dos dados" eyebrow="Visualização">
-        {isAnnulled ? (
-          <div className="rounded-[28px] border border-amber-200 bg-amber-50 px-6 py-6">
-            <p className="text-lg font-semibold text-amber-900">Questão anulada</p>
-            <p className="mt-3 text-base leading-8 text-slate-700">
-              Esta questão aparece como anulada na base analítica, então o site não exibe leitura de
-              acerto, resposta correta ou gráficos como se fossem dados confiáveis do item.
-            </p>
+      <section className="space-y-4 rounded-[32px] border border-white/70 bg-white/80 p-5 shadow-card backdrop-blur sm:p-6">
+        <details className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
+          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 [&::-webkit-details-marker]:hidden">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#4f79b0]">
+                Resolução
+              </p>
+              <h2 className="mt-1 font-display text-2xl text-ink">
+                Abrir resolução comentada
+              </h2>
+            </div>
+            <span className="inline-flex rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-[#4f79b0]">
+              <span className="group-open:hidden">Mostrar</span>
+              <span className="hidden group-open:inline">Ocultar</span>
+            </span>
+          </summary>
+          <div className="mt-5">
+            <ResolutionPanel
+              resolution={question.resolution}
+              officialResolution={question.officialResolution}
+              latexResolution={question.latexResolution}
+              examQuestionNumber={question.examQuestionNumber}
+              options={question.options}
+              topDistractor={question.topDistractor}
+            />
           </div>
-        ) : (
-          <ChartsPanel
-            areaSlug={question.areaSlug}
-            accuracy={question.accuracy}
-            topDistractor={question.topDistractor}
-            correctOption={question.correctOption}
-            difficultyRank={question.difficultyRank}
-            optionDistribution={question.optionDistribution}
-            topPerformerDistribution={question.topPerformerDistribution}
-            analyticsSnapshot={question.analyticsSnapshot}
-          />
-        )}
-      </SectionShell>
+        </details>
 
-      <SectionShell title="Questões relacionadas" eyebrow="Navegação inteligente">
-        <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
+        <MarketingBanner
+          title="Travou nessa questão?"
+          subtitle="Saia desta página com uma sequência pronta de treino por tema, dificuldade e padrão de erro, sem precisar montar tudo manualmente."
+        />
+
+        <details className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
+          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 [&::-webkit-details-marker]:hidden">
+            <div>
+              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                Análise
+              </p>
+              <h2 className="mt-1 font-display text-xl text-ink sm:text-2xl">
+                Análise da questão
+              </h2>
+            </div>
+            <span className="inline-flex rounded-full border border-[#d6e6ff] bg-white px-4 py-2 text-sm font-semibold text-[#4f79b0]">
+              <span className="group-open:hidden">Mostrar</span>
+              <span className="hidden group-open:inline">Ocultar</span>
+            </span>
+          </summary>
+
+          <div className="mt-5 space-y-6">
+            <section className="space-y-6">
+              <div className="max-w-3xl">
+                <h3 className="font-display text-3xl leading-tight text-ink">
+                  O que esta questão mede dentro da prova
+                </h3>
+              </div>
+
+              <div className="grid gap-4 xl:grid-cols-[minmax(0,0.95fr)_minmax(460px,1.05fr)] xl:items-start">
+                <div className="space-y-4">
+                  <p className="text-base leading-8 text-slate-700">
+                    {question.skillDescription || "Descrição da habilidade em atualização"}
+                  </p>
+                  {question.competenceDescription ? (
+                    <p className="text-base leading-8 text-slate-600">
+                      {question.competenceDescription}
+                    </p>
+                  ) : null}
+                </div>
+
+                <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                      Dificuldade relativa
+                    </p>
+                    <div className="mt-3 flex flex-wrap items-center gap-2">
+                      <span className={`inline-flex rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}>
+                        {question.triMetrics.relativeDifficultyLabel}
+                      </span>
+                      <span className={`text-[11px] font-semibold ${difficultyTheme.text}`}>
+                        Nível {question.triMetrics.difficultyLevel}/5
+                      </span>
+                    </div>
+                    <div className="mt-4 flex gap-1.5">
+                      {Array.from({ length: 5 }, (_, index) => {
+                        const active = index < question.triMetrics.difficultyLevel;
+                        return (
+                          <span
+                            key={index}
+                            className={`h-2 w-full rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
+                          />
+                        );
+                      })}
+                    </div>
+                  </article>
+
+                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                      Ranking por acerto
+                    </p>
+                    <p className="mt-3 text-2xl font-semibold text-ink">
+                      {difficultyPercentileLabel(question.difficultyRank, totalQuestions)}
+                    </p>
+                    <p className="mt-2 text-xs leading-5 text-slate-600">
+                      Percentil de exigência dentro da prova.
+                    </p>
+                  </article>
+
+                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                      Discriminação
+                    </p>
+                    <p className="mt-3 text-2xl font-semibold text-ink">{discriminationScore}</p>
+                    <p className="mt-2 text-xs leading-5 text-slate-600">
+                      Quanto a questão separa desempenhos diferentes.
+                    </p>
+                  </article>
+
+                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                      Dificuldade TRI
+                    </p>
+                    <p className="mt-3 text-2xl font-semibold text-ink">{triDifficultyScore}</p>
+                    <p className="mt-2 text-xs leading-5 text-slate-600">
+                      Escala didática derivada do parâmetro B.
+                    </p>
+                  </article>
+                </div>
+              </div>
+            </section>
+
+            <SectionShell title="Leitura dos dados" eyebrow="Visualização">
+              {isAnnulled ? (
+                <div className="rounded-[28px] border border-amber-200 bg-amber-50 px-6 py-6">
+                  <p className="text-lg font-semibold text-amber-900">Questão anulada</p>
+                  <p className="mt-3 text-base leading-8 text-slate-700">
+                    Esta questão aparece como anulada na base analítica, então o site não exibe leitura de
+                    acerto, resposta correta ou gráficos como se fossem dados confiáveis do item.
+                  </p>
+                </div>
+              ) : (
+                <ChartsPanel
+                  areaSlug={question.areaSlug}
+                  accuracy={question.accuracy}
+                  topDistractor={question.topDistractor}
+                  correctOption={question.correctOption}
+                  difficultyRank={question.difficultyRank}
+                  optionDistribution={question.optionDistribution}
+                  topPerformerDistribution={question.topPerformerDistribution}
+                  analyticsSnapshot={question.analyticsSnapshot}
+                />
+              )}
+            </SectionShell>
+          </div>
+        </details>
+      </section>
+
+      <section className="rounded-[32px] border border-white/70 bg-white/80 p-6 shadow-card backdrop-blur sm:p-8">
+        <div className="rounded-[28px] border border-[#17314f]/12 bg-[linear-gradient(135deg,#102033_0%,#17314f_55%,#21476a_100%)] p-6 text-white shadow-[0_24px_48px_rgba(15,23,42,0.16)]">
+          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-sky-100/75">
+            Oferta em destaque
+          </p>
+          <h3 className="mt-3 max-w-3xl text-2xl font-semibold leading-tight text-white">
+            Gostou da resolução? Faça simulados com resolução completa e análise das questões.
+          </h3>
+          <p className="mt-4 max-w-3xl text-sm leading-7 text-sky-50/86">
+            Continue estudando com um plano guiado, comentários claros e simulados pensados para transformar prática em resultado. Tudo isso por um valor promocional, por menos de R$ 5 por semana.
+          </p>
+          <div className="mt-5 flex flex-col gap-3 sm:flex-row">
+            <Link
+              href={PRIMARY_CTA_HREF}
+              className="inline-flex items-center justify-center rounded-full bg-[#f4c96c] px-5 py-3 text-sm font-semibold text-[#102033] transition hover:brightness-95"
+            >
+              Quero conhecer os simulados
+            </Link>
+            <Link
+              href={SECONDARY_CTA_HREF}
+              className="inline-flex items-center justify-center rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15"
+            >
+              Ver mais questões parecidas
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <SectionShell title="Questões relacionadas" eyebrow="Mais para treinar">
+        <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
+          <Link
+            href={PRIMARY_CTA_HREF}
+            className="group flex min-h-[174px] flex-col justify-between rounded-[22px] border border-[#102033]/10 bg-[linear-gradient(135deg,#102033_0%,#17314f_55%,#4f79b0_100%)] p-4 text-white shadow-[0_14px_30px_rgba(15,23,42,0.08)] transition hover:-translate-y-1 hover:shadow-[0_20px_38px_rgba(15,23,42,0.12)]"
+          >
+            <div>
+              <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-white/70">
+                Aprofundar
+              </p>
+              <h3 className="mt-3 text-lg font-semibold leading-snug">
+                Travou em mais de uma?
+              </h3>
+              <p className="mt-2 text-sm leading-5 text-white/80">
+                Entre para a trilha guiada e avance com método, revisão e estratégia.
+              </p>
+            </div>
+            <span className="inline-flex items-center text-sm font-semibold text-white">
+              Ver a oferta principal
+            </span>
+          </Link>
           {question.relatedQuestions.map((related) => {
             const relatedQuestion = getAreaQuestionPageData(question.year, question.areaSlug, related.id);
             const tone = resolveRelationTone(related.relation);
@@ -463,16 +665,16 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
               <Link
                 key={`${related.id}-${related.relation}`}
                 href={`/questoes/${question.year}/${question.areaSlug}/${related.id}`}
-                className={`group flex min-h-[250px] flex-col rounded-[24px] border p-4 shadow-[0_14px_30px_rgba(15,23,42,0.05)] transition hover:-translate-y-1 hover:shadow-[0_20px_38px_rgba(15,23,42,0.08)] ${toneClasses.shell}`}
+                className={`group flex min-h-[174px] flex-col rounded-[22px] border p-3 shadow-[0_14px_30px_rgba(15,23,42,0.05)] transition hover:-translate-y-1 hover:shadow-[0_20px_38px_rgba(15,23,42,0.08)] ${toneClasses.shell}`}
               >
-                <div className="flex min-w-0 flex-col gap-3">
-                  <div className="flex min-w-0 items-center gap-3">
+                <div className="flex min-w-0 flex-col gap-2.5">
+                  <div className="flex min-w-0 items-center gap-2.5">
                     <span
-                      className={`inline-flex h-9 min-w-9 shrink-0 items-center justify-center rounded-[18px] px-2.5 text-sm font-semibold ${toneClasses.number}`}
+                      className={`inline-flex h-8 min-w-8 shrink-0 items-center justify-center rounded-[16px] px-2 text-sm font-semibold ${toneClasses.number}`}
                     >
                       {relatedQuestion?.examQuestionNumber ?? related.id}
                     </span>
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-500">
+                    <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-slate-500">
                       Questão relacionada
                     </p>
                   </div>
@@ -484,28 +686,28 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
                   </div>
 
                   <div className="min-w-0">
-                    <h3 className="text-xl font-semibold leading-snug text-ink sm:text-[1.45rem]">
+                    <h3 className="text-base font-semibold leading-snug text-ink sm:text-[1.05rem]">
                       {title}
                     </h3>
                   </div>
                 </div>
 
-                <div className="mt-4 rounded-[20px] border border-white/80 bg-white/75 px-3.5 py-3.5">
-                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                <div className="mt-2.5 rounded-[16px] border border-white/80 bg-white/75 px-3 py-2.5">
+                  <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-500">
                     Por que ela é parecida
                   </p>
-                  <p className="mt-2 text-sm leading-6 text-slate-700">{reason}</p>
+                  <p className="mt-1.5 text-[12px] leading-5 text-slate-700">{reason}</p>
                 </div>
 
-                <div className="mt-auto pt-3">
+                <div className="mt-auto pt-2.5">
                   {relatedQuestion ? (
                     <div className="flex flex-wrap gap-2">
                       <span
-                        className={`inline-flex rounded-full px-2.5 py-1 text-xs font-medium ${toneClasses.note}`}
+                        className={`inline-flex rounded-full px-2.5 py-1 text-[11px] font-medium ${toneClasses.note}`}
                       >
                         {relatedQuestion.skill}
                       </span>
-                      <span className="inline-flex rounded-full bg-white/85 px-2.5 py-1 text-xs font-medium text-slate-600">
+                      <span className="inline-flex rounded-full bg-white/85 px-2.5 py-1 text-[11px] font-medium text-slate-600">
                         {relatedQuestion.accuracy.toFixed(1)}% de acerto
                       </span>
                     </div>

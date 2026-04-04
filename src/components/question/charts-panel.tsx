@@ -129,6 +129,13 @@ export function ChartsPanel({
         }))
       : topPerformerDistribution;
 
+  const compactDistractorBuckets = analyticsSnapshot.distractorByBucket
+    .filter((entry) => {
+      const upperBound = parseUpperBound(entry.faixa.replace(", ", "–"));
+      return upperBound === null ? true : upperBound <= areaCurveLimit;
+    })
+    .slice(0, 3);
+
   const summaryCards = [
     {
       label: "Acerto geral",
@@ -230,11 +237,11 @@ export function ChartsPanel({
             </LineChart>
           </ResponsiveContainer>
         </div>
-        <div className="mt-4 rounded-[20px] border border-slate-200/80 bg-slate-50 px-4 py-4">
-          <p className="text-sm leading-6 text-slate-600">
-            A curva mostra como a taxa de acerto cresce conforme sobe a faixa de nota dentro da escala relevante desta prova. Isso ajuda a ver se a questão acompanha bem a progressão de desempenho.
+        <div className="mt-4 rounded-[18px] border border-slate-200/80 bg-slate-50 px-4 py-3">
+          <p className="text-[13px] leading-5 text-slate-600">
+            Mostra se o acerto sobe de forma consistente conforme cresce a nota.
           </p>
-          <div className="mt-3 flex flex-wrap items-center gap-3 text-sm font-medium text-slate-500">
+          <div className="mt-2 flex flex-wrap items-center gap-2 text-xs font-medium text-slate-500">
             <span>Média observada da questão: {analyticsSnapshot.averageScore.toFixed(0)}</span>
             <span>•</span>
             <span>Faixas com dados reais: {curveData.length}</span>
@@ -284,34 +291,29 @@ export function ChartsPanel({
 
       <article className="rounded-[28px] border border-slate-200/80 bg-white p-5">
         <div className="mb-4">
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
             Leitura por faixa
           </p>
           <h3 className="mt-2 text-xl font-semibold text-ink">
             Distrator dominante por faixa
           </h3>
         </div>
-        <div className="space-y-3 rounded-[24px] border border-slate-200/80 bg-slate-50 p-4">
-          {analyticsSnapshot.distractorByBucket
-            .filter((entry) => {
-              const upperBound = parseUpperBound(entry.faixa.replace(", ", "–"));
-              return upperBound === null ? true : upperBound <= areaCurveLimit;
-            })
-            .map((entry) => (
+        <div className="space-y-2 rounded-[20px] border border-slate-200/80 bg-slate-50 p-3">
+          {compactDistractorBuckets.map((entry) => (
               <div
                 key={entry.faixa}
-                className="rounded-[18px] border border-white bg-white px-4 py-3"
+                className="rounded-[16px] border border-white bg-white px-3 py-2.5"
               >
                 <div className="flex items-center justify-between gap-3">
-                  <p className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-500">
                     {entry.faixa.replace("[", "").replace(")", "").replace(", ", "–")}
                   </p>
                   <p className="text-sm font-semibold text-ink">
                     {entry.distractor} · {entry.pct.toFixed(1)}%
                   </p>
                 </div>
-                <p className="mt-2 text-sm leading-6 text-slate-600">
-                  Alternativa que mais concentrou os erros nessa faixa de desempenho.
+                <p className="mt-1.5 text-[13px] leading-5 text-slate-600">
+                  Alternativa que mais reteve os erros nessa faixa.
                 </p>
               </div>
             ))}
