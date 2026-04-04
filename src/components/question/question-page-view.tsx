@@ -13,7 +13,8 @@ type QuestionPageViewProps = {
   question: AreaQuestionPageData;
 };
 
-const PRIMARY_CTA_HREF = process.env.NEXT_PUBLIC_LEADGEN_PRIMARY_URL ?? "/prova";
+const PRIMARY_CTA_HREF =
+  process.env.NEXT_PUBLIC_LEADGEN_PRIMARY_URL ?? "https://olastro.com.br/chapeu-do-mago/";
 const SECONDARY_CTA_HREF = process.env.NEXT_PUBLIC_LEADGEN_SECONDARY_URL ?? "/filtrar-questoes";
 
 const relationToneMap: Record<string, "gold" | "clay" | "ink" | "soft"> = {
@@ -190,32 +191,25 @@ function MageLogo() {
 function MarketingBanner({
   title,
   subtitle,
+  buttonLabel,
 }: {
   title: string;
   subtitle: string;
+  buttonLabel: string;
 }) {
   return (
     <div className="rounded-[28px] border border-[#d9e6f5] bg-[linear-gradient(135deg,#102033_0%,#18304a_52%,#21476a_100%)] p-6 text-white shadow-[0_24px_48px_rgba(15,23,42,0.16)]">
       <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-sky-100/75">
-            Conversão no meio da leitura
-          </p>
-          <h2 className="mt-3 text-3xl font-semibold leading-tight">{title}</h2>
+          <h2 className="text-3xl font-semibold leading-tight">{title}</h2>
           <p className="mt-4 max-w-3xl text-base leading-8 text-sky-50/86">{subtitle}</p>
         </div>
-        <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
+        <div className="flex">
           <Link
             href={PRIMARY_CTA_HREF}
-            className="inline-flex items-center justify-center rounded-full bg-[#f4c96c] px-6 py-3 text-sm font-semibold text-[#102033] transition hover:brightness-95"
+            className="inline-flex min-w-[260px] items-center justify-center rounded-full bg-[#f4c96c] px-8 py-4 text-base font-semibold text-[#102033] transition hover:brightness-95"
           >
-            Quero um plano de revisão
-          </Link>
-          <Link
-            href={SECONDARY_CTA_HREF}
-            className="inline-flex items-center justify-center rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-          >
-            Filtrar questões parecidas
+            {buttonLabel}
           </Link>
         </div>
       </div>
@@ -445,8 +439,9 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
       </section>
 
       <MarketingBanner
-        title="Travou nessa questão?"
-        subtitle="Monte uma trilha com itens parecidos, avance com revisão guiada e transforme um erro pontual em ganho real de desempenho."
+        title="Quer começar seu estudo personalizado?"
+        subtitle="A plataforma organiza seu estudo com questões parecidas, resoluções comentadas, análises de desempenho e uma trilha guiada para você evoluir com mais clareza."
+        buttonLabel="Começar agora"
       />
 
       <section className="space-y-4 rounded-[32px] border border-white/70 bg-white/80 p-5 shadow-card backdrop-blur sm:p-6">
@@ -478,8 +473,9 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
         </details>
 
         <MarketingBanner
-          title="Travou nessa questão?"
-          subtitle="Saia desta página com uma sequência pronta de treino por tema, dificuldade e padrão de erro, sem precisar montar tudo manualmente."
+          title="Gostou dessa resolução?"
+          subtitle="Acesse a plataforma completa para continuar com simulados, resoluções comentadas, análise das questões e um estudo mais bem direcionado."
+          buttonLabel="Acessar plataforma completa"
         />
 
         <details className="group rounded-[26px] border border-[#dfeafb] bg-white/85 p-4 sm:p-5">
@@ -499,83 +495,64 @@ export function QuestionPageView({ question }: QuestionPageViewProps) {
           </summary>
 
           <div className="mt-5 space-y-6">
-            <section className="space-y-6">
-              <div className="max-w-3xl">
-                <h3 className="font-display text-3xl leading-tight text-ink">
-                  O que esta questão mede dentro da prova
-                </h3>
-              </div>
-
-              <div className="grid gap-4 xl:grid-cols-[minmax(0,0.95fr)_minmax(460px,1.05fr)] xl:items-start">
-                <div className="space-y-4">
-                  <p className="text-base leading-8 text-slate-700">
-                    {question.skillDescription || "Descrição da habilidade em atualização"}
+            <section>
+              <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+                <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    Dificuldade relativa
                   </p>
-                  {question.competenceDescription ? (
-                    <p className="text-base leading-8 text-slate-600">
-                      {question.competenceDescription}
-                    </p>
-                  ) : null}
-                </div>
+                  <div className="mt-3 flex flex-wrap items-center gap-2">
+                    <span className={`inline-flex rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}>
+                      {question.triMetrics.relativeDifficultyLabel}
+                    </span>
+                    <span className={`text-[11px] font-semibold ${difficultyTheme.text}`}>
+                      Nível {question.triMetrics.difficultyLevel}/5
+                    </span>
+                  </div>
+                  <div className="mt-4 flex gap-1.5">
+                    {Array.from({ length: 5 }, (_, index) => {
+                      const active = index < question.triMetrics.difficultyLevel;
+                      return (
+                        <span
+                          key={index}
+                          className={`h-2 w-full rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
+                        />
+                      );
+                    })}
+                  </div>
+                </article>
 
-                <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
-                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
-                      Dificuldade relativa
-                    </p>
-                    <div className="mt-3 flex flex-wrap items-center gap-2">
-                      <span className={`inline-flex rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.16em] ${difficultyTheme.chip}`}>
-                        {question.triMetrics.relativeDifficultyLabel}
-                      </span>
-                      <span className={`text-[11px] font-semibold ${difficultyTheme.text}`}>
-                        Nível {question.triMetrics.difficultyLevel}/5
-                      </span>
-                    </div>
-                    <div className="mt-4 flex gap-1.5">
-                      {Array.from({ length: 5 }, (_, index) => {
-                        const active = index < question.triMetrics.difficultyLevel;
-                        return (
-                          <span
-                            key={index}
-                            className={`h-2 w-full rounded-full ${active ? difficultyTheme.barActive : difficultyTheme.barIdle}`}
-                          />
-                        );
-                      })}
-                    </div>
-                  </article>
+                <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    Ranking por acerto
+                  </p>
+                  <p className="mt-3 text-2xl font-semibold text-ink">
+                    {difficultyPercentileLabel(question.difficultyRank, totalQuestions)}
+                  </p>
+                  <p className="mt-2 text-xs leading-5 text-slate-600">
+                    Percentil de exigência dentro da prova.
+                  </p>
+                </article>
 
-                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
-                      Ranking por acerto
-                    </p>
-                    <p className="mt-3 text-2xl font-semibold text-ink">
-                      {difficultyPercentileLabel(question.difficultyRank, totalQuestions)}
-                    </p>
-                    <p className="mt-2 text-xs leading-5 text-slate-600">
-                      Percentil de exigência dentro da prova.
-                    </p>
-                  </article>
+                <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    Discriminação
+                  </p>
+                  <p className="mt-3 text-2xl font-semibold text-ink">{discriminationScore}</p>
+                  <p className="mt-2 text-xs leading-5 text-slate-600">
+                    Quanto a questão separa desempenhos diferentes.
+                  </p>
+                </article>
 
-                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
-                      Discriminação
-                    </p>
-                    <p className="mt-3 text-2xl font-semibold text-ink">{discriminationScore}</p>
-                    <p className="mt-2 text-xs leading-5 text-slate-600">
-                      Quanto a questão separa desempenhos diferentes.
-                    </p>
-                  </article>
-
-                  <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
-                      Dificuldade TRI
-                    </p>
-                    <p className="mt-3 text-2xl font-semibold text-ink">{triDifficultyScore}</p>
-                    <p className="mt-2 text-xs leading-5 text-slate-600">
-                      Escala didática derivada do parâmetro B.
-                    </p>
-                  </article>
-                </div>
+                <article className="rounded-[22px] border border-slate-200/80 bg-white px-4 py-4 shadow-[0_12px_28px_rgba(15,23,42,0.05)]">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    Dificuldade TRI
+                  </p>
+                  <p className="mt-3 text-2xl font-semibold text-ink">{triDifficultyScore}</p>
+                  <p className="mt-2 text-xs leading-5 text-slate-600">
+                    Escala didática derivada do parâmetro B.
+                  </p>
+                </article>
               </div>
             </section>
 
